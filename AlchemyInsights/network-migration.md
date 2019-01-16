@@ -1,0 +1,36 @@
+---
+title: Netzwerkmigration
+ms.author: pebaum
+author: pebaum
+ms.date: 7/27/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
+ms.openlocfilehash: 0ca24de4ed42b423e5e227529395a9d6b0a17b64
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28290259"
+---
+# <a name="network-migration"></a>Netzwerkmigration
+
+Ihre Office 365-Mandanten möglicherweise mehrere Yammer-Netze in einen Mandanten 1 zugeordnet ist: viele Netzwerkkonfiguration. Starten von 16 Oktober 2018, unterstützt Yammer nicht mehr mehrere Yammer-Netzwerke, die ein Office 365-Mandanten zugeordnet. Führen Sie eine Netzwerkmigration, um eine bevorzugte 1:1-Konfiguration abzurufen.
+  
+- Zum Anzeigen einer Liste der Netzwerke mit Ihrem Mandanten verknüpft ist, melden Sie sich bei Yammer als ein globaler Administrator für Office 365, und navigieren Sie zu **Netzwerk Admin**, klicken Sie dann die **Netzwerk-Migration**. Wählen Sie auf **Weiter**.
+    
+- Wenn Sie mehrere Netzwerke auf Schritt2 von 3 aufgeführten angezeigt wird, müssen Sie mehrere Yammer-Netzwerke mit Ihrem Office 365-Mandanten verknüpft ist.
+    
+- Um die Konfiguration einer 1:1-Konfiguration zu beheben, weiterhin mit dem Netzwerkmigration Tool.
+    
+- Weitere Informationen zur Migration des Netzwerks finden Sie unter [Netzwerk-Migration: Konsolidierung mehrere Yammer-Netzwerke](https://support.office.com/article/a22c1b20-9231-4ce2-a916-392b1056d002)
+    
+Bitte beachten:
+  
+- **Eine Netzwerkmigration migriert nur an das aktive und ausstehende Benutzer.** Der Benutzer Informationen wie Name und Profil Bild wird zusammen mit der aktiven Benutzer auch migriert. Alle Netzwerkinhalte, einschließlich Gruppen, wird nicht migriert. 
+    
+- **Netzwerkmigration kann nicht rückgängig gemacht.** Sie werden nicht nach der Migration Ihrer Niederlassung Netzwerk- und seinen Inhalt zugreifen können. Bevor Sie eine Migration in Betracht ziehen, sollten Sie sich daher sorgfältig planen. 
+    
+
