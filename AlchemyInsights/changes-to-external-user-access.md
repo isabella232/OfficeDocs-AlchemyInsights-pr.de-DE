@@ -1,0 +1,25 @@
+---
+title: Änderungen an den Zugriff externer Benutzer
+ms.author: kaarins
+author: kaarins
+manager: scotv
+ms.date: 4/23/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: abdb45fb-93b0-4df9-994d-b997fcfcaff5
+ms.openlocfilehash: 5f5292c0e88a7913084027397b60d467bfe5672e
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28289004"
+---
+# <a name="changes-to-external-user-access"></a>Änderungen an den Zugriff externer Benutzer
+
+Starten von 23 März 2018, werden externe Benutzer nicht mehr auf Inhalte zugreifen, die mit jeder, alle authentifizierten Benutzer oder alle Formulare Benutzer freigegeben wurde, auch wenn sie eingeladen oder autorisierten Gruppen hinzugefügt wurden. Externe Benutzer werden nur auf Inhalte zugreifen, die mit der Benutzer oder Gruppen, die der Benutzer angehört, freigegeben wurde. Wenn Sie Ihre vorhandenen Einstellungen beibehalten möchten, lesen Sie:https://support.microsoft.com/help/4089534/how-to-grant-the-everyone-claim-to-external-users-in-office-365
+  
+

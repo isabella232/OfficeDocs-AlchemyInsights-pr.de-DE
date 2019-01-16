@@ -1,0 +1,32 @@
+---
+title: Zum Deaktivieren des externen Gruppen
+ms.author: pebaum
+author: pebaum
+ms.date: 8/1/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
+ms.openlocfilehash: 037589c42768addd5fd19e9b48a2985d2ab4c7da
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28289720"
+---
+# <a name="how-to-disable-external-groups"></a>Zum Deaktivieren des externen Gruppen
+
+Es gibt 4 Optionen für externe Benutzer auf das Netzwerk zugreifen.
+  
+1. **Gast-Benutzer** : Yammer-Admins können Kontakte aus externen Domänen als Benutzer im privaten Netzwerk einladen. Diese Benutzer sieht das Unternehmen alle feed und anderen Gruppen in Netzwerken sowie beitreten können. 
+    
+2. **Externe Benutzer in einer externen Gruppe** : externe Gruppen können externe Benutzer. Der Bereich, der ein externer Benutzer Zugriff ist auf der externen Gruppe beschränkt. Mit externen Gruppen können Sie nur Kontakte von Yammer-Netzwerken einladen, mit die Benutzer an externe Unterhaltungen teilnehmen können. 
+    
+3. **Externe Benutzer in einer Unterhaltung Yammer in einer internen Gruppe** : Diese Option ermöglicht externen Teilnehmern zu einer bestimmten Unterhaltung hinzugefügt werden soll. Externe Teilnehmer können nur an Unterhaltungen teilnehmen, die sie explizit um und alle Anlagen in dieser Unterhaltung eingeladen wurden. Um auf diese Gespräche über ihren Posteingang Yammer (in ihrem Netzwerk) zugreifen. Sie haben keinen Zugriff auf den Rest des Netzwerks. 
+    
+4. **Externe Netzwerke** – diese Option ermöglicht Ihnen, externe Benutzer mit einem externen Netzwerk einzuladen, die überprüft haben, dass Administratoren in Ihrem Netzwerk erstellen können. Diese Option eignet sich am besten für das Hosten von externen Communitys. 
+    
+Weitere Informationen finden Sie [externe messaging Teilnehmer hinzufügen Ihre Yammer-Unterhaltungen](https://support.office.com/en-us/article/add-external-messaging-participants-to-your-yammer-conversations-423653bb-86b2-4eac-9d7e-dca121f7c16c?ui=en-US&amp;rs=en-US&amp;ad=US) und [Externe häufig gestellte Fragen (Yammer)](https://support.office.com/en-us/article/External-messaging-FAQ-Yammer-35b59d6c-bb1c-4541-bf19-9f67d2f2b199)
+  
+

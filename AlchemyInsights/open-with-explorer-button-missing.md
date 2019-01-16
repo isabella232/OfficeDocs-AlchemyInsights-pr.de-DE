@@ -1,0 +1,28 @@
+---
+title: Mit Explorer Schaltfläche fehlende öffnen
+ms.author: toresing
+author: tomresing
+manager: scotv
+ms.date: 12/18/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: 712afc25-b9db-4f55-bf79-9f4e5861ab9f
+ms.openlocfilehash: 9b1d02df877c9a8e794b4ed4b67a8f2f7e09306a
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28290194"
+---
+# <a name="the-open-with-explorer-button-is-missing"></a>Fehlt das mit der Schaltfläche Explorer öffnen
+
+Moderne Oberfläche von SharePoint und OneDrive wird nicht die Schaltfläche **mit Explorer öffnen** angezeigt. Um eine Dokumentbibliothek im Datei-Explorer öffnen, navigieren Sie in Internet Explorer, und wählen Sie im Ansichtsmenü \> **Ansicht im Datei-Explorer**. Die **Ansicht im Datei-Explorer** -Option ist nicht verfügbar in Microsoft Edge, Google Chrome oder Firefox. 
+  
+> [!NOTE]
+> Mit Explorer öffnen, wird nur über Internet Explorer unterstützt. In diesem Fall [SharePoint-Dateien mit der neuen OneDrive Sync-Client synchronisiert werden sollen](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) , die [On-Demand-Dateien](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx)enthält. Zugriff auf alle Dateien in OneDrive ohne lokalen Speicherplatz. 
+  
+
