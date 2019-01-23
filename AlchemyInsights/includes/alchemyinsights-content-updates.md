@@ -1,9 +1,17 @@
+---
+ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383273"
+---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
 
 
-## <a name="week-of-january-07-2019"></a>Woche vom 07 Januar 2019
+## <a name="week-of-january-07-2019"></a>Woche vom 7. Januar 2019
 
 
 | Veröffentlicht am |Titel des Themas | Änderung |
@@ -624,3 +632,14 @@
 | 1/11/2019 | [Löschen von Benutzern](/AlchemyInsights/deleting-users) | Geändert |
 | 1/11/2019 | [Nahtlose einmaliges Anmelden bereitstellen](/AlchemyInsights/deploy-seamless-single-sign-on) | Geändert |
 | 1/11/2019 | [Deaktivieren des Zugriffs auf Yammer](/AlchemyInsights/disable-access-to-yammer) | Geändert |
+
+
+## <a name="week-of-january-14-2019"></a>Woche vom 14 Januar 2019
+
+
+| Veröffentlicht am |Titel des Themas | Änderung |
+|------|------------|--------|
+| 1/14/2019 | Alchemy Platzhalter | entfernt |
+| 1/14/2019 | Alchemy Domäne hinzufügen | entfernt |
+| 1/14/2019 | [Alchemy Insights-Startseite](/AlchemyInsights/index) | Geändert |
+| 1/17/2019 | [identisch mit Filename am besten geeignet ist [Regel c#-Beschreibung]](/AlchemyInsights/1-alchemy-insight-template) | hinzugefügt |
