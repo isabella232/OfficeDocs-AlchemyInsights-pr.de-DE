@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
 ms.openlocfilehash: ed7aac3279f4c4581bb1f7ea0fe35dba563cdaf1
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28289010"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29469945"
 ---
-# <a name="too-many-licenses"></a><span data-ttu-id="84eb7-102">Zu viele Lizenzen?</span><span class="sxs-lookup"><span data-stu-id="84eb7-102">Too many licenses?</span></span>
+# <a name="too-many-licenses"></a><span data-ttu-id="961c2-102">Zu viele Lizenzen?</span><span class="sxs-lookup"><span data-stu-id="961c2-102">Too many licenses?</span></span>
 
-<span data-ttu-id="84eb7-103">Wenn Sie, dass Sie zu viele Lizenzen in Rechnung gestellt wird sind glauben, ist dies in der Regel aufgrund von weitere Lizenzen erworben haben, müssen Sie.</span><span class="sxs-lookup"><span data-stu-id="84eb7-103">If you think you're being billed for too many licenses, this is usually due to having purchased more licenses then you need.</span></span>
+<span data-ttu-id="961c2-103">Wenn Sie, dass Sie zu viele Lizenzen in Rechnung gestellt wird sind glauben, ist dies in der Regel aufgrund von weitere Lizenzen erworben haben, müssen Sie.</span><span class="sxs-lookup"><span data-stu-id="961c2-103">If you think you're being billed for too many licenses, this is usually due to having purchased more licenses then you need.</span></span>
   
- <span data-ttu-id="84eb7-104">**Reduzieren Sie die Anzahl der Lizenzen erworben haben**</span><span class="sxs-lookup"><span data-stu-id="84eb7-104">**Reduce the number of licenses purchased**</span></span>
+ <span data-ttu-id="961c2-104">**Reduzieren Sie die Anzahl der Lizenzen erworben haben**</span><span class="sxs-lookup"><span data-stu-id="961c2-104">**Reduce the number of licenses purchased**</span></span>
   
-1. <span data-ttu-id="84eb7-105">Wechseln Sie im Admin Center zur Seite [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), oder wählen Sie **Abrechnung** \> **Abonnements** aus.</span><span class="sxs-lookup"><span data-stu-id="84eb7-105">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="961c2-105">Wechseln Sie im Admin Center zur Seite [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), oder wählen Sie **Abrechnung** \> **Abonnements** aus.</span><span class="sxs-lookup"><span data-stu-id="961c2-105">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
     
-2. <span data-ttu-id="84eb7-106">Wählen Sie auf der linken Seite des Abonnements aus dem Lizenzen entfernt werden sollen.</span><span class="sxs-lookup"><span data-stu-id="84eb7-106">On the left, choose the subscription from which you would like to remove licenses.</span></span>
+2. <span data-ttu-id="961c2-106">Wählen Sie auf der linken Seite des Abonnements aus dem Lizenzen entfernt werden sollen.</span><span class="sxs-lookup"><span data-stu-id="961c2-106">On the left, choose the subscription from which you would like to remove licenses.</span></span>
     
-3. <span data-ttu-id="84eb7-107">Wählen Sie **Lizenzen hinzufügen/entfernen** aus.</span><span class="sxs-lookup"><span data-stu-id="84eb7-107">Choose **Add/Remove licenses**.</span></span>
+3. <span data-ttu-id="961c2-107">Wählen Sie **Lizenzen hinzufügen/entfernen** aus.</span><span class="sxs-lookup"><span data-stu-id="961c2-107">Choose **Add/Remove licenses**.</span></span>
     
-4. <span data-ttu-id="84eb7-p101">Geben Sie die Gesamtzahl der Benutzer benötigt. Wenn Sie derzeit 25 Lizenzen haben und Sie 5 entfernen möchten, geben Sie 20 in dieses Feld fest.</span><span class="sxs-lookup"><span data-stu-id="84eb7-p101">Enter the total number of users needed. For example, if you currently have 25 licenses and you want to remove 5, enter 20 in this field.</span></span>
+4. <span data-ttu-id="961c2-p101">Geben Sie die Gesamtzahl der Benutzer benötigt. Wenn Sie derzeit 25 Lizenzen haben und Sie 5 entfernen möchten, geben Sie 20 in dieses Feld fest.</span><span class="sxs-lookup"><span data-stu-id="961c2-p101">Enter the total number of users needed. For example, if you currently have 25 licenses and you want to remove 5, enter 20 in this field.</span></span>
     
-5. <span data-ttu-id="84eb7-110">Wählen Sie **Übermitteln** aus.</span><span class="sxs-lookup"><span data-stu-id="84eb7-110">Choose **Submit**.</span></span>
+5. <span data-ttu-id="961c2-110">Wählen Sie **Übermitteln** aus.</span><span class="sxs-lookup"><span data-stu-id="961c2-110">Choose **Submit**.</span></span>
     
 

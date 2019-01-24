@@ -9,20 +9,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 467477cc-9d4f-47f1-a602-dbf334a42be5
 ms.openlocfilehash: 232e1f61326e22d20480057a937fd0ee5ff85dd6
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28290052"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29469983"
 ---
-# <a name="fix-problems-uploading-files-to-onedrive"></a><span data-ttu-id="11e1e-102">Beheben Sie Probleme beim Hochladen von Dateien zu OneDrive</span><span class="sxs-lookup"><span data-stu-id="11e1e-102">Fix problems uploading files to OneDrive</span></span>
+# <a name="fix-problems-uploading-files-to-onedrive"></a><span data-ttu-id="2a6c5-102">Beheben Sie Probleme beim Hochladen von Dateien zu OneDrive</span><span class="sxs-lookup"><span data-stu-id="2a6c5-102">Fix problems uploading files to OneDrive</span></span>
 
-<span data-ttu-id="11e1e-103">Versuchen Sie Folgendes, wenn eine Datei hoch wird nicht:</span><span class="sxs-lookup"><span data-stu-id="11e1e-103">Try this if a file won't upload:</span></span>
+<span data-ttu-id="2a6c5-103">Versuchen Sie Folgendes, wenn eine Datei hoch wird nicht:</span><span class="sxs-lookup"><span data-stu-id="2a6c5-103">Try this if a file won't upload:</span></span>
   
-- <span data-ttu-id="11e1e-p101">Benennen Sie die Datei, und versuchen Sie es erneut. Sind einige der Dateinamen und Zeichen in Dateinamen nicht zulässig.</span><span class="sxs-lookup"><span data-stu-id="11e1e-p101">Rename the file and try again. Some file names and characters in file names aren't allowed.</span></span> 
+- <span data-ttu-id="2a6c5-p101">Benennen Sie die Datei, und versuchen Sie es erneut. Sind einige der Dateinamen und Zeichen in Dateinamen nicht zulässig.</span><span class="sxs-lookup"><span data-stu-id="2a6c5-p101">Rename the file and try again. Some file names and characters in file names aren't allowed.</span></span> 
     
-- <span data-ttu-id="11e1e-106">Wenn Sie die Datei synchronisiert sind, verschieben Sie es aus OneDrive-Ordner (beispielsweise verschieben möchten auf Ihrem Desktop), und bei Ihrer OneDrive Synchronisierungsstatus wird angezeigt als "Auf dem aktuellen Stand," verschieben Sie sie wieder.</span><span class="sxs-lookup"><span data-stu-id="11e1e-106">If you're syncing the file, move it out of your OneDrive folder (for example, move it to your Desktop), and when your OneDrive sync status appears as "Up to date," move it back.</span></span> 
+- <span data-ttu-id="2a6c5-106">Wenn Sie die Datei synchronisiert sind, verschieben Sie es aus OneDrive-Ordner (beispielsweise verschieben möchten auf Ihrem Desktop), und bei Ihrer OneDrive Synchronisierungsstatus wird angezeigt als "Auf dem aktuellen Stand," verschieben Sie sie wieder.</span><span class="sxs-lookup"><span data-stu-id="2a6c5-106">If you're syncing the file, move it out of your OneDrive folder (for example, move it to your Desktop), and when your OneDrive sync status appears as "Up to date," move it back.</span></span> 
     
-[<span data-ttu-id="11e1e-107">Weitere Tipps zur Problembehandlung</span><span class="sxs-lookup"><span data-stu-id="11e1e-107">More troubleshooting tips</span></span>](https://go.microsoft.com/fwlink/?linkid=873155)
+[<span data-ttu-id="2a6c5-107">Weitere Tipps zur Problembehandlung</span><span class="sxs-lookup"><span data-stu-id="2a6c5-107">More troubleshooting tips</span></span>](https://go.microsoft.com/fwlink/?linkid=873155)
   
 

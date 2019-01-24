@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6ad981b2-cb62-4495-b852-88df10299fe3
 ms.openlocfilehash: 0ae63ff60bf48f7aae483f97dc91f5095f835fe8
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28289639"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29470367"
 ---
-# <a name="your-users-mailbox-is-being-created"></a><span data-ttu-id="96b76-102">Postfach des Benutzers wird erstellt</span><span class="sxs-lookup"><span data-stu-id="96b76-102">Your user's mailbox is being created</span></span>
+# <a name="your-users-mailbox-is-being-created"></a><span data-ttu-id="8b54c-102">Postfach des Benutzers wird erstellt</span><span class="sxs-lookup"><span data-stu-id="8b54c-102">Your user's mailbox is being created</span></span>
 
-<span data-ttu-id="96b76-103">Es kann bis zu einer Stunde, bevor ein neues Postfach verwenden kann dauern.</span><span class="sxs-lookup"><span data-stu-id="96b76-103">It can take up to an hour before a new mailbox is ready to use.</span></span>
+<span data-ttu-id="8b54c-103">Es kann bis zu einer Stunde, bevor ein neues Postfach verwenden kann dauern.</span><span class="sxs-lookup"><span data-stu-id="8b54c-103">It can take up to an hour before a new mailbox is ready to use.</span></span>
   
-<span data-ttu-id="96b76-104">Wenn das Postfach des Benutzers "für mehr als eine Stunde vorbereitet wurde hat", können Sie versuchen löschen und Neuerstellen des Benutzers oder an einen Supportmitarbeiter sprechen mithilfe der Option "wollen wir uns anrufen".</span><span class="sxs-lookup"><span data-stu-id="96b76-104">If the user's mailbox has been "preparing" for more than an hour, you can try deleting and re-creating the user, or use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="8b54c-104">Wenn das Postfach des Benutzers "für mehr als eine Stunde vorbereitet wurde hat", können Sie versuchen löschen und Neuerstellen des Benutzers oder an einen Supportmitarbeiter sprechen mithilfe der Option "wollen wir uns anrufen".</span><span class="sxs-lookup"><span data-stu-id="8b54c-104">If the user's mailbox has been "preparing" for more than an hour, you can try deleting and re-creating the user, or use the "Let us call you" option to talk to a support engineer.</span></span>
   
 
