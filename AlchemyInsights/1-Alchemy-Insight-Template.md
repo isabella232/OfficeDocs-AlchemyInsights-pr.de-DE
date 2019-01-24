@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
 ms.openlocfilehash: 9e2a369f4b1bf87da8b12224b5f6e8b1138db9dd
-ms.sourcegitcommit: 59f8f84ab99bad3f9d26ee412d20dc36759e3e6e
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "28727502"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454213"
 ---
 # <a name="required-customer-facing-h1-h2-doesnt-work"></a>Erforderliche Kunden Facing H1, H2 funktioniert nicht
 Beispieltext Sperren - gemäß den folgenden Schritten:
