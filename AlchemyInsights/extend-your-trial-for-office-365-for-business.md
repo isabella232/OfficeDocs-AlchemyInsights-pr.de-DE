@@ -1,5 +1,5 @@
 ---
-title: Erweitern Sie Ihre Testversion für Office 365 für Unternehmen
+title: Verlängern Ihrer Testversion von Office 365 Business
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
 ms.openlocfilehash: c325ca115037831d220d9dd5a7b092ab74aee593
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28289007"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29469690"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>Erweitern Sie Ihre Testversion für Office 365 für Unternehmen
+# <a name="extend-your-trial-for-office-365-for-business"></a>Verlängern Ihrer Testversion von Office 365 Business
 
 Wenn Test-Abonnement innerhalb von 15 Tagen ablaufen ist, und die Testversion noch nicht vor dem erweitert wurde, können Sie Ihre Testversion für einen anderen Zeitraum von 30 Tagen erweitern. Sie können nur einmal durchführen.
   

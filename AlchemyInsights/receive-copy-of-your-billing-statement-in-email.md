@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
 ms.openlocfilehash: f3cf1efa9c8e342a11b7cc0859347769d330fe46
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28289104"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29470213"
 ---
 Sie können auf Wunsch eine Kopie Ihrer Rechnung als E-Mail-Anlage erhalten. In diesem Fall sollten Sie Folgendes beachten:
   
@@ -22,11 +22,11 @@ Sie können auf Wunsch eine Kopie Ihrer Rechnung als E-Mail-Anlage erhalten. In 
     
 - Erhalten Sie zwei separate-e-Mails: eine, mit der Sie wissen, dass Ihre Rechnung bereit, mit einer Anleitung zur Anmeldung bei der-Verwaltungskonsole zum Anzeigen ist, und eine zweite e-Mails, die der Abrechnung als Anlage enthält.
     
-Um Ihrer Abrechnung in e-Mail-Nachricht zu erhalten:
+So erhalten Sie die Rechnung per E-Mail
   
-1. Klicken Sie in der Verwaltungskonsole, wechseln Sie zur Seite [Abrechnung Benachrichtigungen](https://go.microsoft.com/fwlink/p/?linkid=853212) , oder wählen Sie **Abrechnung** \> **Abrechnung Benachrichtigungen**.
+1. Navigieren Sie im Admin Center zur Seite [Abrechnungsbenachrichtigungen](https://go.microsoft.com/fwlink/p/?linkid=853212), oder wählen Sie **Abrechnung** \> **Abrechnungsbenachrichtigungen** aus.
     
-    Wenn Sie Office 365 Deutschland verwenden, wechseln Sie zu dieser Seite [Abrechnung Benachrichtigungen](https://go.microsoft.com/fwlink/p/?linkid=853213) . 
+    Wenn Sie Office 365 Deutschland verwenden, navigieren Sie zu dieser Seite [Abrechnungsbenachrichtigungen](https://go.microsoft.com/fwlink/p/?linkid=853213). 
     
 2. Klicken Sie unter **möchten Sie die Abrechnung als e-Mail-Anlage empfangen?**, wechseln Sie zu **auf**die Umschaltfläche. Sie können das Empfangen von der Art der Rechnungslegung Anweisung-e-Mails können Sie jederzeit durch den Wechsel von der Umschaltfläche zu **Deaktivieren**beenden.
     

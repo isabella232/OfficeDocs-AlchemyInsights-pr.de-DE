@@ -1,5 +1,5 @@
 ---
-title: Wechseln Sie zu einem anderen Office 365 für Unternehmen planen
+title: Wechseln zu einem anderen Office 365 Business-Plan
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
 ms.openlocfilehash: 06ece0f33bc817aa9759cbc3487544ed5b48b946
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28289332"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29469503"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>Wechseln Sie zu einem anderen Office 365 für Unternehmen planen
+# <a name="switch-to-a-different-office-365-for-business-plan"></a>Wechseln zu einem anderen Office 365 Business-Plan
 
 []Wenn es Änderungen in Ihrem Unternehmen gibt oder wenn Sie mehr Office 365-Features benötigen, können Sie die Pläne wechseln.
   
@@ -26,7 +26,7 @@ ms.locfileid: "28289332"
     
 2. Wählen Sie **Pläne wechseln** aus, um die Liste der verfügbaren neuen Pläne anzuzeigen. 
     
-3. Wählen Sie einen Plan für die neue Gesamtkosten pro Monat anzuzeigen. Achten Sie darauf, lesen Sie die wichtigsten Informationen und anschließend auf **Weiter** , auszuchecken. 
+3. Wählen Sie einen Plan aus, um die neuen Gesamtkosten pro Monat anzuzeigen. Lesen Sie unbedingt die **wichtigsten Informationen**, und wählen Sie zum Auschecken Weiter aus. 
     
 Die Schaltfläche wechseln Pläne wird in allen Situationen nicht unterstützt. In einigen Fällen können Sie manuell wechseln der Pläne sein.
   

@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
 ms.openlocfilehash: a56f32b54e6cb32fa044d26d08868bac8c368de5
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28289305"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29470501"
 ---
 Haben Sie Probleme mit der **Data Loss Prevention (DLP)** funktioniert nicht für Inhalt mit einer **Kreditkartennummer** , wenn ein anderes DLP vertrauliche Informationen in Office 365 verwenden? Wenn dies der Fall ist, stellen Sie sicher, Ihre Inhalte enthält die erforderliche Informationen zum Auslösen der DLP-Richtlinie, wenn sie ausgewertet wird. Beispiel für eine **Kreditkarte Richtlinie** mit einer Vertrauensstufe von 85 % konfiguriert, die folgenden ausgewertet werden und erkannt werden muss, für die Regel ausgelöst: 
   
@@ -36,7 +36,7 @@ Haben Sie Probleme mit der **Data Loss Prevention (DLP)** funktioniert nicht fü
     
   - Die Funktion Func_expiration_date findet ein Datum im richtigen Datumsformat.
     
-  - Übergibt die Prüfsumme
+  - Die Prüfsumme stimmt.
     
     Beispielsweise würde im folgende Beispiel für eine DLP Kreditkarte Anzahl Richtlinie ausgelöst:
     

@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
 ms.openlocfilehash: 6eae9146d33f5fc307085dbf931d57bdbb28b82e
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28290261"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29469640"
 ---
 Haben Sie Probleme mit der **Data Loss Prevention (DLP)** funktioniert nicht für Inhalt mit einer **Kontonummer US** , wenn ein anderes DLP vertrauliche Informationen in Office 365 verwenden? In diesem Fall enthält stellen Sie sicher, dass Ihre Inhalte die erforderliche Informationen für welche die DLP-Richtlinie Ansichtsseite sucht bei der Auswertung. 
   
@@ -28,7 +28,7 @@ Beispiel für eine **Kontonummer US** -Richtlinie mit einer Vertrauensstufe von 
     
 - **[Definition:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for)** Eine DLP-Richtlinie ist 75 % sicher, dass diese Art von vertraulichen Informationen festgestellt wurde "If"; innerhalb einer Nähe von 300 Zeichen: 
     
-  - Der reguläre Ausdruck Regex_usa_bank_account_number sucht nach Inhalten, die dem Muster entspricht
+  - Der reguläre Ausdruck Regex_usa_bank_account_number findet Inhalte, die dem Muster entsprechen.
     
   - Ein Schlüsselwort aus Keyword_usa_Bank_Account wurde gefunden.
     

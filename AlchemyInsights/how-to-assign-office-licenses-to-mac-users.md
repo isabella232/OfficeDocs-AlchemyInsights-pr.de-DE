@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
 ms.openlocfilehash: 23e680603bb120a3daadd0f5e912cae570d3b915
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28289238"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29470398"
 ---
 # <a name="how-to-assign-office-licenses-to-mac-users"></a>Zuweisen von Office-Lizenzen für Mac-Benutzer
 
@@ -24,7 +24,7 @@ ms.locfileid: "28289238"
     
 - Wählen Sie rechts in der Zeile **Produktlizenzen** die Option **Bearbeiten** aus.
     
-- Wechseln Sie die Umschaltfläche an der Position **auf** der Lizenz, die Sie diesem Benutzer zuweisen möchten, klicken Sie im Bereich s **-Lizenz**. 
+- Setzen Sie im Bereich **Produktlizenzen** die Umschaltfläche auf die Stellung **Ein** für die Lizenz, die Sie diesem Benutzer zuweisen möchten. 
     
 - Wählen Sie unten im Bereich **Produktlizenzen** nacheinander **Speichern** \> **Schließen** \> **Schließen** aus.
     

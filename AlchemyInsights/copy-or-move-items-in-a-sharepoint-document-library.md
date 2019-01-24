@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
 ms.openlocfilehash: d944b1d8a2c515dbe19bf34ed168a19b1e11e9ea
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28288998"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29469631"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopieren oder Verschieben von Elementen in einer SharePoint-Dokumentbibliothek
 
@@ -37,6 +37,6 @@ Sie können kopieren und Verschieben von Dateien, Ordner und Links an andere Spe
 3. Klicken Sie auf **Hier kopieren** oder **Verschieben Sie hier**.
     
 > [!NOTE]
->  Sie können bis zu 500 MB von Dateien und Ordnern gleichzeitig zu kopieren. > Beim Kopieren von Dokumenten, die Versionsverlauf haben, wird nur die neueste Version kopiert. Beim Verschieben von Dokumenten wird deren Verlauf auch verschoben. 
+>  Sie können bis zu 500 MB von Dateien und Ordnern gleichzeitig zu kopieren. > beim Kopieren von Dokumenten, die Versionsverlauf, nur die aktuellste Version wird kopiert. Beim Verschieben von Dokumenten wird deren Verlauf auch verschoben. 
   
 

@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
 ms.openlocfilehash: 61adcd2ba21a98793d072d3fad2d9d2e68fa3c20
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28289916"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29470449"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Wie ein Benutzer eine Lizenz zugewiesen
 
 Ein Benutzer benötigt eine Lizenz für den Zugriff auf Dienste haben. Hier werden die Schritte zum Hinzufügen, ändern oder Entfernen einer Lizenzvertrags von einem Benutzer.
   
-1. Klicken Sie in der Verwaltungskonsole wechseln zu den [Aktiven Benutzer](https://go.microsoft.com/fwlink/p/?linkid=834822) , oder wählen Sie **Benutzer** \> **aktive Benutzer**.
+1. Wechseln Sie im Admin Center zu der Seite [Aktive Benutzer](https://go.microsoft.com/fwlink/p/?linkid=834822), oder wählen Sie **Benutzer** \> **Aktive Benutzer** aus.
     
 2. Wählen Sie das Kontrollkästchen neben den Namen des Benutzers, denen Sie zuweisen, ändern oder eine Lizenz entfernen möchten.
     

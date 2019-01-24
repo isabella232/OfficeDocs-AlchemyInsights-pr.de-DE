@@ -9,17 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
 ms.openlocfilehash: f637accfbcf9e3f77ab75dd89bb618e4eb5c4cf0
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28290179"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29470370"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Einrichten Ihres Abonnements O365 Business Essentials
 
 Erstellen Sie Office 365 Benutzerkonten und fügen Sie Ihrer Domäne hinzu
   
-- In diesem Schritt verwenden Sie den Setup-Assistenten zum Erstellen von Office 365-Konten für Ihre Benutzer und Ihre eigene Domäne hinzufügen. Im Assistenten können Sie alle Benutzer-ID und e-Mail für Ihr Unternehmen, wie [rob@contoso.com](mailto:rob@contoso.com)personalisieren.
+- In diesem Schritt verwenden Sie den Setup-Assistenten zum Erstellen von Office 365-Konten für Ihre Benutzer und Hinzufügen Ihrer eigenen Domäne. Mithilfe des Assistenten können Sie die Benutzer-ID und E-Mail-Adresse jeder Person in Ihrem Unternehmen personalisieren, z. B. jan@contoso.com.
     
 - Wechseln Sie zum [Office 365 Admin Center](https://login.partner.microsoftonline.cn/).
     
