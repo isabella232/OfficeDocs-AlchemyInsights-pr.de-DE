@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 870f16c0-24ac-4dec-a3e3-14719e6a496a
 ms.openlocfilehash: 528b574eb45295b71738bcafac8da13ad3f5f7b9
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28289745"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29498193"
 ---
 # <a name="add-an-email-address-for-a-distribution-group"></a>Fügen Sie eine e-Mail-Adresse für eine Verteilergruppe hinzu
 
 Um e-Mail-Adressen für eine vorhandene Verteilergruppe hinzuzufügen, gehen Sie folgendermaßen vor:
   
-1. Navigieren Sie in der [Exchange-Verwaltungskonsole](https://outlook.office365.com/ecp/)zu **Empfänger** \> **Gruppen**.
+1. Navigieren Sie im Exchange Admin Center zu [Empfänger](https://outlook.office365.com/ecp/) **** \>.
     
 2. Wählen Sie aus der Verteilergruppe, den, die Sie ändern möchten, und klicken Sie dann auf **Bearbeiten**.
     
