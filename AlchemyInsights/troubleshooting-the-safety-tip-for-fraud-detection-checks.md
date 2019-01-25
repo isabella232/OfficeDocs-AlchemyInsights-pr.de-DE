@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.openlocfilehash: 24842e8cc5c6e47fb0eb637e6a3211637ede1ed8
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28289961"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29469969"
 ---
 # <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Überprüft die Sicherheit Tipps für die Erkennung von Betrug zur Problembehandlung
 
@@ -24,7 +24,7 @@ Weitere Informationen finden Sie unter [Problembehandlung Rot (verdächtigen) Sa
   
 Hier sind einige andere Links, die helfen:
   
-- [Wie Office 365 Sender Policy Framework (SPF) verwendet, um zu verhindern, dass spoofing](https://docs.microsoft.com/en-us/office365/SecurityCompliance/how-office-365-uses-spf-to-prevent-spoofing)
+- Verwenden des Sender Policy Framework (SPF) durch Office 365 zum Verhindern von Spoofing
     
 - [Einrichten von SPF in Office 365 zum Verhindern von Spoofing](https://docs.microsoft.com/en-us/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
     

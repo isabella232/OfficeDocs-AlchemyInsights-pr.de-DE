@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
 ms.openlocfilehash: b92d122b774d97cd2e44cc0880dc5001065b57cc
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28289187"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29470538"
 ---
 Haben Sie Probleme mit der **Data Loss Prevention (DLP)** für Inhalte mit einer **Sozialversicherungsnummer (SSN)** , wenn ein anderes vertrauliche Informationen in Office 365 verwenden nicht ordnungsgemäß ausgeführt? Wenn dies der Fall ist, stellen Sie sicher, dass Ihre Inhalte enthält die erforderliche Informationen für die DLP-Richtlinie suchen. 
   
@@ -36,7 +36,7 @@ Beispiel für eine SSN-Richtlinie mit einer Vertrauensstufe von 85 % konfigurier
     
 - **[Definition:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-80)** Eine DLP-Richtlinie ist 85 % sicher, dass diese Art von vertraulichen Informationen festgestellt wurde "If"; innerhalb einer Nähe von 300 Zeichen: 
     
-  - Die [Funktion Func_ssn](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80) sucht nach Inhalten, die dem Muster entspricht. 
+  - Die Funktion Func_ssn findet Inhalte, die dem Muster entsprechen. 
     
   - Ein Schlüsselwort aus [Keyword_ssn](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#keyword_ssn) gefunden wird. Enthält Beispiele für Schlüsselwörter: *soziale Sicherheit, Sozialleistungen #, Krankenversicherung, SSN* . Beispielsweise würde im folgende Beispiel für die SSN DLP-Richtlinie ausgelöst: **SSN: 489-36-8350**
     
