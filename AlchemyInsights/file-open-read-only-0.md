@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6a828f8d-ff31-40a7-b701-b2339e771817
-ms.openlocfilehash: cbc3a97debc70ce7be02f651253c71651bbb2643
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ed1db79b7c0aef53c7ded1a8d2119fd326a84832
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29470450"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661246"
 ---
 # <a name="file-open-read-only"></a>Datei schreibgeschützt zu öffnen.
 
@@ -30,7 +30,7 @@ Sie können die Dateieigenschaften suchen, indem Sie mit der rechten Maustaste a
   
  **Der Inhalt ist in der geschützten Ansicht**
   
-Dateien aus dem Internet und aus anderen vor potenziell unsicheren Speicherorten können enthalten, Viren, Würmer oder andere Arten von Schadsoftware, die Ihren Computer beschädigen können. Dies ist auch häufig die Groß-/Kleinschreibung mit e-Mail-Anlagen oder Dateien, die Sie heruntergeladen haben. Um Ihren Computer zu schützen, werden die Dateien aus diesen vor potenziell unsicheren Speicherorten in der geschützten Ansicht geöffnet. Mithilfe der geschützten Ansicht können Sie eine Datei gelesen und finden Sie unter seinen Inhalt bei gleichzeitiger Verringerung der Risiken. Weitere Informationen über geschützte Ansicht und wie Sie Einstellungen ändern, finden Sie unter in diesem Artikel: [Was ist die geschützte Ansicht?](https://support.office.com/en-us/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Dateien aus dem Internet und aus anderen vor potenziell unsicheren Speicherorten können enthalten, Viren, Würmer oder andere Arten von Schadsoftware, die Ihren Computer beschädigen können. Dies ist auch häufig die Groß-/Kleinschreibung mit e-Mail-Anlagen oder Dateien, die Sie heruntergeladen haben. Um Ihren Computer zu schützen, werden die Dateien aus diesen vor potenziell unsicheren Speicherorten in der geschützten Ansicht geöffnet. Mithilfe der geschützten Ansicht können Sie eine Datei gelesen und finden Sie unter seinen Inhalt bei gleichzeitiger Verringerung der Risiken. Weitere Informationen über geschützte Ansicht und wie Sie Einstellungen ändern, finden Sie unter in diesem Artikel: [Was ist die geschützte Ansicht?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
  **Ist OneDrive voll?**
   
@@ -38,7 +38,7 @@ Wenn die Datei in OneDrive gespeichert wird und OneDrive Speicherplatz voll ist,
   
  **Werden Office ist aktiviert?**
   
-Wenn Office nicht aktiviert ist, oder wenn Ihr Abonnement abgelaufen ist, können Sie im schreibgeschützten Modus mit eingeschränkter Funktionalität befinden. Informationen zum Aktivieren von Office finden Sie unter: [nicht lizenziertes Produkt und die Aktivierung von Fehlern in Office](https://support.office.com/en-us/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Wenn Office nicht aktiviert ist, oder wenn Ihr Abonnement abgelaufen ist, können Sie im schreibgeschützten Modus mit eingeschränkter Funktionalität befinden. Informationen zum Aktivieren von Office finden Sie unter: [nicht lizenziertes Produkt und die Aktivierung von Fehlern in Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
  **Erfolglos...**
   

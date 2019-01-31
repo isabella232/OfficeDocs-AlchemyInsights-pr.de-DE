@@ -2,51 +2,30 @@
 title: Löschen einer SharePoint-Website
 ms.author: kirks
 author: Techwriter40
-ms.date: 12/3/2018
+ms.date: 1/24/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: a450105487642906754d7a7c0182d788cd1d8240
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ddedfff905b4f3eb78cdd8b17233d45f864dadd4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29470415"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660015"
 ---
 # <a name="delete-a-sharepoint-site"></a>Löschen einer SharePoint-Website
-
- **Löschen von Websites, die ein Office 365-Gruppe gehören:**
+ **Löschen von Websites aus der neuen SharePoint-Verwaltungskonsole**
   
-Wenn Benutzer einer neuen Teamwebsite von zu Hause SharePoint erstellen (oder einer neuen Teamwebsite aus der neuen SharePoint Admin Center Vorschau erstellen), wird eine entsprechende Office 365-Gruppe automatisch erstellt. Office 365 Gruppe verbunden Teamwebsites werden beim Erstellen einer Office 365-Gruppe oder ein Team in Microsoft-Teams, auch erstellt. Um einer SharePoint-Website zu löschen, die ein Office 365-Gruppe angehört, müssen Sie die Office 365-Gruppe selbst zu löschen. 
+Um aktive Website löschen möchten, wechseln Sie zu der aktuellen SharePoint-Verwaltungskonsole, klicken Sie auf "Jetzt ausprobieren" in der oberen rechten Ecke. Wählen Sie **aktiven Websites**, wählen Sie die Website aus, und wählen Sie dann auf **Löschen**. Wählen Sie [Ansicht und Wiederherstellung gelöschter Websites in der neuen SharePoint-Verwaltungskonsole](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center) **gelöschter Websites**. Weitere Informationen finden Sie unter [Verwalten von Websites in der neuen SharePoint-Verwaltungskonsole](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   
-1. Wechseln Sie zur [Seite Gruppen von Office 365 Administrationscenter](https://portal.office.com/adminportal/home#/groups).
+**Wichtig:** Wenn die Website Teil einer Aufbewahrungsrichtlinie ist, möglicherweise nicht möglich, ihn zu löschen, bis die Website aufgehoben wird die [Sicherheit &amp; Compliance Admin Center](https://protection.office.com/?rfr=AdminCenter#/homepage). Weitere Informationen finden Sie unter [Übersicht über die Aufbewahrungsrichtlinien](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
   
-2. Aktivieren Sie das Kontrollkästchen neben der Gruppe.
-  
-3. Wählen Sie **Löschen**aus. 
-  
-Hinweis: Wenn Sie eine Gruppe löschen, es kann eine Verzögerung bevor die Website aus SharePoint entfernt wird.
-  
- **Kommunikationswebsites oder klassische Websites zu löschen:**
-  
-1. Wechseln Sie zur Website.
-  
-2. Klicken Sie auf die ** Einstellungen ** (Zahnrad-Symbol) in der oberen rechten Ecke. 
-  
-3. Klicken Sie auf **websiteeinstellungen**. Klicken Sie unter **Websiteinformationen** oder **Websiteaktionen**auf **diese Website löschen**, und klicken Sie dann auf **Löschen**. 
-  
- **Löschen einer SharePoint-Websitesammlung:**
-  
-So löschen Sie eine klassische Websitesammlung:
-  
-1. Aktivieren Sie das **Kontrollkästchen** neben der Websitesammlung im klassischen SharePoint Administrationscenter, klicken Sie auf der Seite Site Collections. 
-  
-2. Wählen Sie auf der Registerkarte Websitesammlungen **löschen.**
-  
- **Gelöscht eine Site versehentlich?**
-  
-Finden Sie unter [Wiederherstellen einer gelöschten Websitesammlung](https://go.microsoft.com/fwlink/?linkid=867660).
+Tipps:
+- Globale Administratoren und SharePoint-Administratoren können jetzt Websites löschen, die ein **Office 365-Gruppe**angehören. Dadurch wird die Gruppe und alle Ressourcen, einschließlich des Outlook-Postfachs, Kalender und alle Kanäle Teams gelöscht. Weitere Informationen finden Sie unter [Löschen eine SharePoint-Website](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- Sie können für 93 Tage gelöschter Websites wiederherstellen. Beachten Sie, dass gelöschte Gruppen innerhalb von 30 Tagen wiederhergestellt werden müssen. Weitere Informationen finden Sie unter [anzeigen und Wiederherstellung gelöschter Websites](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
+- Wenn Sie um eine Website mit Powershell vollständig zu entfernen, finden Sie unter [Remove-SPSite](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) -Cmdlet-Beispiels. 
   
 

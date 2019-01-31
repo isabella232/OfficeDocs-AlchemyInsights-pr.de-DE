@@ -11,20 +11,20 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: b08bf68f44fd696b772a294f7c017f1428d3241f
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 29a2fe471f1649e4270877b1de28d71c474bd3ba
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29470255"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660562"
 ---
 # <a name="compare-office-365-plans"></a>Vergleich der Office 365-Pläne
 
 Vergleichen Sie, wechseln Sie oder erwerben Sie Office 365-Pläne
   
-Office 365-Pläne stehen für [Unternehmen](https://products.office.com/en-us/compare-all-microsoft-office-products?tab=2)und [Ebene Großunternehmen](https://products.office.com/en-us/business/compare-more-office-365-for-business-plans). Darüber hinaus ist Office 365 [academic Institute](https://products.office.com/en-us/academic/compare-office-365-education-plans), [Regierungsbehörden](https://products.office.com/en-us/government/compare-office-365-government-plans)und [gemeinnützige Organisationen](https://products.office.com/en-us/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)verfügbar.
+Office 365-Pläne stehen für [Unternehmen](https://products.office.com/compare-all-microsoft-office-products?tab=2)und [Ebene Großunternehmen](https://products.office.com/business/compare-more-office-365-for-business-plans). Darüber hinaus ist Office 365 [academic Institute](https://products.office.com/academic/compare-office-365-education-plans), [Regierungsbehörden](https://products.office.com/government/compare-office-365-government-plans)und [gemeinnützige Organisationen](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)verfügbar.
   
-Wenn Ihre Organisation in allen Plänen vergleichen und zu Preisen interessiert, überprüfen Sie [alle Office 365-Plänen verglichen werden soll](https://products.office.com/en-us/business/compare-more-office-365-for-business-plans).
+Wenn Ihre Organisation in allen Plänen vergleichen und zu Preisen interessiert, überprüfen Sie [alle Office 365-Plänen verglichen werden soll](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
 Wenn Ihre Organisation bereits einen Office 365-Plan erworben hat und interessiert Wechsel in einen anderen Plan führen Sie also aus der Office 365 Admin Center, wechseln Sie zu der [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), oder wählen Sie **Abrechnung** \> **Abonnements**. Wählen Sie **Option Pläne** zum Anzeigen der Liste der neuen Pläne, die verfügbar sind. 
   

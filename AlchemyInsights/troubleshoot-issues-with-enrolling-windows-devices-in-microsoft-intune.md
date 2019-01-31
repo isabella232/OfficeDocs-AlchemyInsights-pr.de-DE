@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
-ms.openlocfilehash: 8d19bbd5a5782c7793c87499baf62b2eb7de82ae
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 8c5e7cc502d016ad658383685523dc240dfb4dc6
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29470063"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661529"
 ---
 # <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Behandeln von Problemen mit Windows-Geräte in Microsoft Intune registrieren
 
@@ -26,9 +26,9 @@ Einige häufige Fehlermeldungen und Lösungsschritte:
   
  **Fehlercode 0x801c0003:** Der Fehler kann in den folgenden Szenarien auftreten: 
   
-1. Der Benutzer hat mehrere Geräte registriert Gerätegrenzwert überschreitet. Lesen Sie diese Dokumente an [ein Gerät entfernen](https://docs.microsoft.com/en-us/intune/devices-wipe) oder [Ändern Sie den Gerätegrenzwert](https://docs.microsoft.com/en-us/intune/enrollment-restrictions-set#set-device-limit-restrictions).
+1. Der Benutzer hat mehrere Geräte registriert Gerätegrenzwert überschreitet. Lesen Sie diese Dokumente an [ein Gerät entfernen](https://docs.microsoft.com/intune/devices-wipe) oder [Ändern Sie den Gerätegrenzwert](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
     
-2. "Benutzer Geräte Azure AD beitreten können" ist auf "none" festgelegt. Legen Sie diese auf alle oder wählen Sie Benutzer. Überprüfen Sie [in dieser Dokumentation](https://docs.microsoft.com/en-us/azure/active-directory/device-management-azure-portal#configure-device-settings) für Weitere Informationen. 
+2. "Benutzer Geräte Azure AD beitreten können" ist auf "none" festgelegt. Legen Sie diese auf alle oder wählen Sie Benutzer. Überprüfen Sie [in dieser Dokumentation](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) für Weitere Informationen. 
     
 3. Das Gerät wird bereits von einem anderen Benutzer registriert. Wenn dies der Fall ist, entfernen Sie das Gerät aus der Konsole Azure Intune oder manuell Anmeldung kündigen Sie das Gerät, bevor Sie erneut versuchen.
     
@@ -36,10 +36,10 @@ Einige häufige Fehlermeldungen und Lösungsschritte:
     
 Zusätzliche Ressourcen zu Ihrem Problem zu beheben:
   
-1. Mithilfe von [Intune Problembehandlung Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnostizieren und Beheben von häufig auftretenden Fehler der Registrierung. Lesen Sie [Dieses Dokument](https://docs.microsoft.com/en-us/intune/help-desk-operators) für weitere Details. 
+1. Mithilfe von [Intune Problembehandlung Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnostizieren und Beheben von häufig auftretenden Fehler der Registrierung. Lesen Sie [Dieses Dokument](https://docs.microsoft.com/intune/help-desk-operators) für weitere Details. 
     
-2. Lesen Sie diese Dokumente für eine Liste mit häufigen Fehlern, die Registrierung und Auflösung an alle verhindern: [Handbuch für die Problembehandlung](https://support.microsoft.com/en-us/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) und [Problembehandlung Doc](https://docs.microsoft.com/en-us/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+2. Lesen Sie diese Dokumente für eine Liste mit häufigen Fehlern, die Registrierung und Auflösung an alle verhindern: [Handbuch für die Problembehandlung](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) und [Problembehandlung Doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
     
-[Erfahren Sie, wie Windows-Geräte in Microsoft Intune registrieren](https://docs.microsoft.com/en-us/intune/windows-enroll).
+[Erfahren Sie, wie Windows-Geräte in Microsoft Intune registrieren](https://docs.microsoft.com/intune/windows-enroll).
   
 
