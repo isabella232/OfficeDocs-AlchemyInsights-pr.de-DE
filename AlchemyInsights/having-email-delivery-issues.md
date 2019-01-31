@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6a7bc2f3-7d03-4c6f-b15f-cc7e89d92102
-ms.openlocfilehash: 115df36605aaef400e6d4eeff7070cc2398bd89c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4b95206e9185f386abafd865ff8c4dc5dd5738d1
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29500749"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655630"
 ---
 # <a name="having-email-delivery-issues"></a>Gibt es Probleme bei der e-Mail-Übermittlung?
 
@@ -21,7 +21,7 @@ Wir haben festgestellt, dass Ihre Benutzer keine e-Mails senden die folgenden Do
   
 {HealthCheckString}
   
-Die NS oder MX-Datensätze der (DNS) domäneneinstellungen sind nicht für die e-Mail-Übermittlung an Ihrem Office 365-Dienst ordnungsgemäß konfiguriert. Sie können weitere Informationen zum [Aktualisieren von DNS-Einträgen in Office 365](https://support.office.com/article/https://support.office.com/en-us/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) verweisen. 
+Die NS oder MX-Datensätze der (DNS) domäneneinstellungen sind nicht für die e-Mail-Übermittlung an Ihrem Office 365-Dienst ordnungsgemäß konfiguriert. Sie können weitere Informationen zum [Aktualisieren von DNS-Einträgen in Office 365](https://support.office.com/article/https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) verweisen. 
   
 Um diese zu beheben, gehen Sie zu der Seite [Domänen](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/Domains) in Office 365 Admin Center, und wir helfen Ihnen dabei aus. 
   

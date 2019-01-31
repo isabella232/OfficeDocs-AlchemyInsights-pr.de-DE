@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: 36e0a722ee47c4062c26bfc6ffe6a64297e603e0
-ms.sourcegitcommit: 89964a2e3834c9eefc07f8a3822494d7bbe7b39e
+ms.openlocfilehash: d0674ec4b1cbee2ce66010d39e7c98e9ef0db580
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29505939"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657214"
 ---
 # <a name="troubleshoot-issues-with-microsoft-intune"></a>Behandeln von Problemen mit Microsoft Intune
 
 Überprüfen Sie die unten aufgeführten Ressourcen zur Lösung des Problems jetzt.
   
-1. Verwenden Sie zum Diagnostizieren und beheben einige häufige Fehler [Intune Problembehandlung Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) . Lesen Sie [dieses](https://docs.microsoft.com/en-us/intune/help-desk-operators) Dokument für weitere Details.  
-2. Überprüfen Sie [Intune TechNet ](https://social.technet.microsoft.com/forums/en-us/home?forum=microsoftintuneprod)um Antworten und Lösungen zu allgemeinen Problemen zu suchen.  
+1. Verwenden Sie zum Diagnostizieren und beheben einige häufige Fehler [Intune Problembehandlung Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) . Lesen Sie [dieses](https://docs.microsoft.com/intune/help-desk-operators) Dokument für weitere Details.  
+2. Überprüfen Sie [Intune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)um Antworten und Lösungen zu allgemeinen Problemen zu suchen.  
 3. [Dienststatus](https://portal.office.com/AdminPortal/Home#/servicehealth) auf Status des Dienstes finden Sie unter Auschecken.   
-4. Lesen Sie [Intune Dokumentation](https://docs.microsoft.com/en-us/intune/) für die Planung, Anleitungen, Problembehandlung, Artikel und vieles mehr. 
+4. Lesen Sie [Intune Dokumentation](https://docs.microsoft.com/intune/) für die Planung, Anleitungen, Problembehandlung, Artikel und vieles mehr. 
