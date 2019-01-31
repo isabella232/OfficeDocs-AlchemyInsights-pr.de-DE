@@ -2,44 +2,28 @@
 title: Problembehandlung bei Aktivierung
 ms.author: jillz
 author: jillz
-ms.date: 1/1/1900
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
+ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
-description: Starten Sie den Artikel mit einer sehr kurze Einführung (1 Satz). Der Leser direkten - selber Warum Hier werden? Was sollten sie tun?
-ms.openlocfilehash: 0def754ce0bcf930cdbf5fca3b6248d7777fada0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 96e964635a23c2007ab6590beae5c625c615a3f4
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498265"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646958"
 ---
-Starten Sie den Artikel mit einer sehr kurze Einführung (1 Satz). Der Leser direkten - selber Warum Hier werden? Was sollten sie tun? 
-  
-1. Rufen Sie direkt in eine Liste der Schritte, um die Aufgabe auszuführen.
-    
-    Wenn Sie ein Konzept erläutern müssen oder vorausgesetzte Schritte haben, fügen Sie eine schnelle Zusammenfassung unterhalb der Stufe, in dem sie und [Link](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx) zum Konzept oder Schritte benötigen, hinzu. 
-    
-2. Behalten Sie kurze - Prozeduren vorzugsweise 5 oder weniger Schritte, die nicht mehr als 8.
-    
-3. Verwenden Sie **Benutzeroberflächen-Styleguide** für Elemente der Benutzeroberfläche oder für Text Personen eingeben müssen. 
-    
-4. Verwenden Sie die Verben wählen, ausgewählt haben, oder geben Sie als Aktionen und Menüs als **im Menü** format \> **Befehl**.
-    
-5. Optional fügen Sie einen Screenshot für den Kontext hinzu (wenn Benutzeroberfläche schwierig ist zu suchen oder diese für die Durchführung die Aufgabe erforderlich ist).
-    
-    Maximale Breite: 520 Pixel. Verwenden Sie standard Design, nicht mehr zeigen Sie alle persönlichen Informationen an, und zum Anzeigen von nur was relevant ist zuzuschneiden. 
-    
-    ![Platzhalter - maximale Breite für SOC Artikel Grafik ist 520 Pixel](media/7d43d3be-8658-4a5b-aa15-ed62a47a2b24.png)
-  
-Hinzufügen einer Video- oder Screenshot, verwenden Sie eine zweispaltige Raster und verfügen über die Schritte in der linken und Video oder Screenshot in rechts - finden Sie unter [Schritte und Beispiel video Raster](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx). 
-  
-Ziel: nicht mehr als 500 Wörter für einen Artikel.
-  
-# <a name="example-article"></a>Beispiel-Artikel
+# <a name="activation-troubleshooting"></a>Problembehandlung bei Aktivierung
 
-[Mein Foto ändern](https://support.office.com/article/555376e0-1fca-49ba-8434-307a0525c767.aspx)
+In **Der Systemsteuerung** \> **Programme und Funktionen**, suchen Sie nach Office. Microsoft Office 365 ProPlus oder Microsoft Office 365 Business sollte angezeigt werden. Wenn Sie mehr als eine Version von Office aufgeführten angezeigt wird, deinstallieren Sie die Version konnte nicht. 
   
-
+Wenn Sie erfolgreich mithilfe der Systemsteuerung deinstalliert werden können, um die Version deinstallieren konnte nicht [Support- und Recovery-Assistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy) verwenden. 
+  
+Wenn Office weiterhin nicht lizenzierten ist, gehen Sie zurück, in der **Systemsteuerung** \> **Programme und Funktionen**. Mit der rechten Maustaste in den verbleibenden Office installieren, wählen Sie **Ändern** (oder ändern), und wählen Sie dann **Onlinereparatur**. Die onlinereparatur kann einen Moment dauern. Klicken Sie dann Office neu zu starten und melden Sie sich über Ihre Arbeit oder Schule Konto, wenn Sie aufgefordert werden.
+  
+Wenn Office weiterhin nicht lizenzierten ist, herunterladen Sie, und führen Sie die [Problembehandlung für die Aktivierung](https://aka.ms/SARA-OfficeActivation-Alchemy) auf dem betreffenden Computer, die Probleme bei der Aktivierung zu beheben. 
+  
+Weitere Informationen finden Sie unter: [nicht lizenziertes Produkt und die Aktivierung von Fehlern in Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
