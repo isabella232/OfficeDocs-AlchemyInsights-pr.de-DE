@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: ac4188c0-a4f3-4852-9ed4-075ea684423c
-ms.openlocfilehash: 03ee6b6697362701fcc603e6f8d2710685648d5b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 219486963e7205ad0ded6c9292297de5da7bcf8f
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29470338"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29653924"
 ---
-# <a name="create-and-use-a-shared-mailbox"></a><span data-ttu-id="d0c3e-102">Erstellen und Verwenden eines freigegebenen Postfachs</span><span class="sxs-lookup"><span data-stu-id="d0c3e-102">Create and use a shared mailbox</span></span>
+# <a name="create-and-use-a-shared-mailbox"></a><span data-ttu-id="ae2e2-102">Erstellen und Verwenden eines freigegebenen Postfachs</span><span class="sxs-lookup"><span data-stu-id="ae2e2-102">Create and use a shared mailbox</span></span>
 
-<span data-ttu-id="d0c3e-103">Über ein freigegebenes Postfach können mehrere Personen E-Mails für einen Alias wie "vertrieb@contoso.com" senden und empfangen, ohne dass eine weitere Lizenz zugewiesen werden muss.</span><span class="sxs-lookup"><span data-stu-id="d0c3e-103">A shared mailbox lets more than one person send and receive email for an alias, like sales@contoso.com, without assigning another license.</span></span>
+<span data-ttu-id="ae2e2-103">Über ein freigegebenes Postfach können mehrere Personen E-Mails für einen Alias wie "vertrieb@contoso.com" senden und empfangen, ohne dass eine weitere Lizenz zugewiesen werden muss.</span><span class="sxs-lookup"><span data-stu-id="ae2e2-103">A shared mailbox lets more than one person send and receive email for an alias, like sales@contoso.com, without assigning another license.</span></span>
   
-- [<span data-ttu-id="d0c3e-104">Hier können Sie die ersten Schritte beim</span><span class="sxs-lookup"><span data-stu-id="d0c3e-104">Go here to get started</span></span>](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
+- [<span data-ttu-id="ae2e2-104">Hier können Sie die ersten Schritte beim</span><span class="sxs-lookup"><span data-stu-id="ae2e2-104">Go here to get started</span></span>](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
     
-<span data-ttu-id="d0c3e-105">Sie können auch den [Erstellen eines freigegebenen Postfachs](https://support.office.com/article/https://support.office.com/en-us/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9.aspx) Artikel lesen, in der Sie alles Wissenswerte werden freigegebene Postfächer, einschließlich deren Verwendung kennen.</span><span class="sxs-lookup"><span data-stu-id="d0c3e-105">You can also read the [Create a shared mailbox](https://support.office.com/article/https://support.office.com/en-us/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9.aspx) article which will tell you everything you need to know about shared mailboxes, including how to use them.</span></span> 
+<span data-ttu-id="ae2e2-105">Sie können auch den [Erstellen eines freigegebenen Postfachs](https://support.office.com/article/https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9.aspx) Artikel lesen, in der Sie alles Wissenswerte werden freigegebene Postfächer, einschließlich deren Verwendung kennen.</span><span class="sxs-lookup"><span data-stu-id="ae2e2-105">You can also read the [Create a shared mailbox](https://support.office.com/article/https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9.aspx) article which will tell you everything you need to know about shared mailboxes, including how to use them.</span></span> 
   
 
