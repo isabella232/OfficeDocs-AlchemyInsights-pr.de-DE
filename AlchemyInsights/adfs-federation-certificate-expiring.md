@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: c608489be8497233d9d4f87ec53649026b823250
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 6170265dac1eebe8fa1acf766d2eb8d6b0a5908b
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29470172"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662362"
 ---
 # <a name="adfs-federation-certificate-expiring"></a>AD FS-Verbund Zertifikat abläuft.
 
@@ -24,10 +24,10 @@ Gehen Sie folgendermaßen vor, um dieses Problem zu beheben:
   
 1. Installieren Sie die Microsoft Azure Active Directory-Modul für Windows PowerShell auf dem Computer (sofern das Modul nicht bereits installiert ist). Wechseln Sie zu diesem Zweck zum [Verwalten von Azure Active Directory mithilfe von Windows PowerShell](https://aka.ms/aadposh).
     
-2. Führen Sie die Schritte in der "Szenario 1: die AD FS Tokensignaturzertifikat abgelaufen" im Abschnitt ["Ist ein Problem aufgetreten, den Zugriff auf die Website" Fehler von AD FS, wenn ein Verbundbenutzer bei Office 365, Azure, oder Intune anmeldet](https://support.microsoft.com/en-us/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
+2. Führen Sie die Schritte in der "Szenario 1: die AD FS Tokensignaturzertifikat abgelaufen" im Abschnitt ["Ist ein Problem aufgetreten, den Zugriff auf die Website" Fehler von AD FS, wenn ein Verbundbenutzer bei Office 365, Azure, oder Intune anmeldet](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
     
-3. Führen Sie die Schritte [zum Aktualisieren oder reparieren die Einstellungen einer verbunddomäne in Office 365, Azure, oder Intune](https://support.microsoft.com/en-us/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3).
+3. Führen Sie die Schritte [zum Aktualisieren oder reparieren die Einstellungen einer verbunddomäne in Office 365, Azure, oder Intune](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3).
     
-    Weitere Informationen zum Erneuern von Zertifikaten für den Verbund finden Sie unter [Erneuern von Zertifikaten für Office 365 und Azure Active Directory Federation](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect-o365-certs).
+    Weitere Informationen zum Erneuern von Zertifikaten für den Verbund finden Sie unter [Erneuern von Zertifikaten für Office 365 und Azure Active Directory Federation](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).
     
 
