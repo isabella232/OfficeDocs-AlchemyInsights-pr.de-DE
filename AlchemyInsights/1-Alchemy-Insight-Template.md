@@ -11,16 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
-ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
+ms.openlocfilehash: 278a26f4b986a85e33442baef690d3bb44462ace
+ms.sourcegitcommit: 32355b76d45b730a069575efeec708149d4aeaa3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29662929"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29697129"
 ---
-# <a name="required-customer-facing-h1-h2-doesnt-work"></a>Erforderliche Kunden Facing H1, H2 funktioniert nicht
-Beispieltext Sperren - gemäß den folgenden Schritten:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Erforderliche Alchemy Kopfzeile H1, H2 des funktionieren nicht.
+Bewährte Methoden und Richtlinien zum Erstellen von Alchemy:
 
+1. **Alchemy Einblicke in Ordnern nicht schachteln**- Url-Struktur umbrochen werden. Wir versuchen beheben.
 1. Dateien im Ordner **AlchemyInsights** sollte Regel-ID und Name der Regel über das [Portal Alchemy Partner](https://alchemyportal.azurewebsites.net) im Dateinamen.
     1. Kurs ***976-How-to-enable-litigation-hold***
 1. Verwenden Sie die Metadaten im oberen Bereich des diese Datei als Vorlage. Nichts ist erforderlich.
@@ -35,7 +36,6 @@ Beispieltext Sperren - gemäß den folgenden Schritten:
 
 Und dies ist wirklich noch etwas zu lang. Bewährt hat ungefähr 400 Zeichen:
 
-Wenn Ihre Inhalte bereit ist, ziehen Sie es der live-Verzweigung. Wechseln Sie zu der [Alchemy Partner-Portal](https://alchemyportal.azurewebsites.net) , und geben Sie den Dateinamen in das Feld Url. Stellen Sie sicher, Erkenntnisse überprüft und veröffentlicht "Ja", sagt, und klicken Sie dann auf Regel aktualisieren. (Dies wird in der neuen Version des Portals - Freigabe bald schönere aussehen.)
-
-![URL-Feld](media/for-content-team.PNG)
+Wenn Ihre Inhalte bereit ist, ziehen Sie es der live-Verzweigung. Wechseln Sie zu der [Alchemy Partner-Portal](https://alchemyportal.azurewebsites.net) , und geben Sie den Dateinamen in das Feld Url. Stellen Sie sicher, Erkenntnisse überprüft und veröffentlicht "Ja", sagt, und klicken Sie dann auf Regel aktualisieren. **(Dies sieht schönere in der neuen Version des Portals - bald freigeben.)** 
+ ![-Url-Feld](media/for-content-team.PNG)
 
