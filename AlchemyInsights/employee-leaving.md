@@ -11,21 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-description: 'Ziel: nicht mehr als 500 Wörter für einen Artikel.'
-ms.openlocfilehash: ba06121faec69ab80805be9f1507a1dd5e9649d8
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+description: ''
+ms.openlocfilehash: c3ffcb36c9030204eba7fa89f97c93aebcb5f29b
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29662182"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29758484"
 ---
-Ziel: nicht mehr als 500 Wörter für einen Artikel.
-  
 # <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a>Haben einen Mitarbeiter verlassen, und den Zugriff auf Daten und e-Mail-blockieren benötigt?
-
-Gehen Sie zu diesem Zweck wie folgt vor:
   
-1. Wechseln Sie zur [aktiven Benutzer](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/users).
+1. Wechseln Sie zur [aktiven Benutzer](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
     
 2. Wählen Sie den Benutzer, den Sie blockieren möchten. 
     
@@ -33,6 +29,6 @@ Gehen Sie zu diesem Zweck wie folgt vor:
     
 4. Wählen Sie **blockieren die Benutzer an der Anmeldung** \> **Speichern**. 
     
- **Hinweis**: Abmeldung für einige apps möglicherweise nicht direkt. Erkundigen Sie sich bei Weitere Aktionen in diesem Artikel: [Entfernen von einem früheren Mitarbeiter von Office 365](https://support.office.com/article/https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)
+ **Hinweis**: Abmeldung für einige apps möglicherweise nicht direkt. Erkundigen Sie sich bei Weitere Aktionen in diesem Artikel: [Entfernen von einem früheren Mitarbeiter von Office 365](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)
   
 
