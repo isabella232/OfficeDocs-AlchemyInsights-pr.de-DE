@@ -11,19 +11,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 853f9dd9fd84c90b0f184f7b348d8eb931933ac8
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d9f5719bfc7b6a7d35f114cd21f39cbc2b628824
+ms.sourcegitcommit: 1e50e5b1db18c22b60e429636a272d37c21bc45d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29470399"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "29770652"
 ---
-# <a name="about-delegates-in-outlook-and-outlook-on-the-web"></a>Über Delegaten in Outlook und Outlook im Web
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Problembehandlung bei der Delegierung in Outlook und Outlook im Web
 
-Weitere Informationen finden Sie unter den folgenden Themen:
-  
-- **Outlook**: [ermöglichen eine andere Person Ihre e-Mail und Ihren Kalender verwaltet](https://support.office.com/article/41C40C04-3BD1-4D22-963A-28EAFEC25926)
-    
-- **Outlook im Web**: [Delegierung der Kalender in Outlook im Web für Unternehmen](https://support.office.com/article/532e6410-ee80-42b5-9b1b-a09345ccef1b)
-    
+**Problembehandlung mit dem Tool SaRA:**
 
+1. Herunterladen und Installieren von SaRA Tool von hier aus
+1. Wählen Sie Outlook, klicken Sie dann "treten Probleme mit Mein Kalender"
+1. Sagen Sie Ja, für die betroffenen Computer
+1. Fügen Sie die e-Mail-Adresse des betroffenen Benutzers
+1. Wählen Sie "Ich Probleme mit Stellvertretungsberechtigungen dem"
+1. Nächste aufgefordert werden Wenn Sie die Person aus, und weisen Sie Berechtigungen sind, geben Sie die e-Mail-Adresse der Stellvertretung. Wenn Sie Berechtigungen erhalten, und Sie der Stellvertretung sind, geben Sie die e-Mail-Adresse der Person, die Sie Berechtigungen zugewiesen haben.
+1. Wählen Sie die Option, die Ihr Szenario entspricht, klicken Sie im Menü "Weiter". 
+1. Wählen Sie im Menü nächste Berechtigungsstufe aus.
+1. In dieser Phase SaRA Tool führt automatisierte überprüft und werden Ihnen Lösungsmöglichkeit oder alternativ bietet eine Diagnoseprotokoll, die für eine zusätzliche Problembehandlung verwendet werden können.
+1. Sie finden die Protokolle in den SaRA Ergebnisordner befindet sich unter C:\Users\Username\AppData\Local\SaraResults
