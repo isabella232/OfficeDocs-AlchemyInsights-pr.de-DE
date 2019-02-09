@@ -9,15 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 8e48c645-8df6-4fb5-8da6-f13b0a3bb0cc
-ms.openlocfilehash: 66b09a31445a61e8e375b918c72a0a246359c35a
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 3694a4818b7c2c68845efc52d6898efe40e67ee7
+ms.sourcegitcommit: ca06ef831226d629de3057a0df85e017b80f3356
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29661714"
+ms.lasthandoff: 02/08/2019
+ms.locfileid: "29786661"
 ---
-[<span data-ttu-id="bd800-102">Office 365 für Bildungseinrichtungen frei</span><span class="sxs-lookup"><span data-stu-id="bd800-102">Office 365 Education for free</span></span>](https://products.office.com/student/office-in-education?ms.officeurl=students)
+# <a name="office-365-education-for-free"></a><span data-ttu-id="1c731-102">Office 365 für Bildungseinrichtungen frei</span><span class="sxs-lookup"><span data-stu-id="1c731-102">Office 365 Education for free</span></span>
+
+[<span data-ttu-id="1c731-103">Office 365 für Bildungseinrichtungen frei</span><span class="sxs-lookup"><span data-stu-id="1c731-103">Office 365 Education for free</span></span>](https://products.office.com/student/office-in-education?ms.officeurl=students)
   
-<span data-ttu-id="bd800-p101">Es sich nicht um eine Testversion! Schüler und Lehrer sind für Office 365 Education, einschließlich Word, Excel, PowerPoint, OneNote, und nun Microsoft-Teams sowie zusätzliche vor Ort Tools.</span><span class="sxs-lookup"><span data-stu-id="bd800-p101">It's not a trial! Students and teachers are eligible for Office 365 Education, which includes Word, Excel, PowerPoint, OneNote, and now Microsoft Teams, plus additional classroom tools.</span></span>
+<span data-ttu-id="1c731-p101">Es sich nicht um eine Testversion! Schüler und Lehrer sind für Office 365 Education, einschließlich Word, Excel, PowerPoint, OneNote, und nun Microsoft-Teams sowie zusätzliche vor Ort Tools.</span><span class="sxs-lookup"><span data-stu-id="1c731-p101">It's not a trial! Students and teachers are eligible for Office 365 Education, which includes Word, Excel, PowerPoint, OneNote, and now Microsoft Teams, plus additional classroom tools.</span></span>
   
 
