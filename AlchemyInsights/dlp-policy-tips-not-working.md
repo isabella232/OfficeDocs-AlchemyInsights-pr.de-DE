@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: c59fb005168e02b4aa8dda26b335ac763ab61aa0
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: f7dfc010c3624b2192da01d9e50e58dd6bb653df
+ms.sourcegitcommit: ca06ef831226d629de3057a0df85e017b80f3356
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657759"
+ms.lasthandoff: 02/08/2019
+ms.locfileid: "29786733"
 ---
+# <a name="dlp-policy-tip-issues"></a>DLP-Richtlinientipps Probleme
+
 Bei Verwendung von **DLP-Richtlinien**können Benutzer eine Richtlinie Verletzung mit **richtlinientipps**benachrichtigt werden. Administratoren können richtlinientipps anzuzeigenden beim Testen ihrer DLP-Richtlinie oder vollständiger Erzwingungsvollmodus die Richtlinie wird konfigurieren. 
   
 Um die Richtlinie zu konfigurieren Sie Tipps für die DLP-Richtlinie die Sicherheit und Compliance Center in vollständiger Erzwingungsvollmodus wie folgt:

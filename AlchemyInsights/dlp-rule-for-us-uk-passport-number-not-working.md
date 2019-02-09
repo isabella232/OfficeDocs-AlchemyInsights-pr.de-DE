@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: 5722f7b6c9a2f905fed2ef4164787e020260edf7
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: ec7f11676982b56a46c83bf276c2212ce765ba6f
+ms.sourcegitcommit: ca06ef831226d629de3057a0df85e017b80f3356
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29656422"
+ms.lasthandoff: 02/08/2019
+ms.locfileid: "29786697"
 ---
+# <a name="problems-with-dlp---usuk-passport-numbers"></a>Probleme mit DLP - US / Ausweisnummern Großbritannien
+
 Haben Sie Probleme mit **Data Loss Prevention (DLP)** funktioniert nicht für Inhalt mit einer **US / Großbritannien Reisepassnummer** bei Verwendung eines DLP-Typs vertraulicher Informationen in Office 365? In diesem Fall enthält stellen Sie sicher, dass Ihre Inhalte die erforderliche Informationen für welche die DLP-Richtlinie Ansichtsseite sucht bei der Auswertung. 
   
 Beispiel für eine **US / Großbritannien Reisepassnummer** mit einer Vertrauensstufe von 75 % konfigurierte Richtlinie, die folgenden ausgewertet werden und muss für die Regel ausgelöst erkannt werden 
