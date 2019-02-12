@@ -6,34 +6,34 @@ ms.date: 5/24/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 29782984-30d5-4c1b-b1dd-eff6fab41078
-ms.openlocfilehash: a7bcfa9ea64d11032fdd738484a16810c965c96e
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 29e4e5c105fa5c68a286c277c4039f15a77d5c5d
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29469793"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29941759"
 ---
-# <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a><span data-ttu-id="0e311-102">Freigeben einer Datei oder eines Ordners in SharePoint oder OneDrive</span><span class="sxs-lookup"><span data-stu-id="0e311-102">Share a file or folder in SharePoint or OneDrive</span></span>
+# <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a><span data-ttu-id="7a91e-102">Freigeben einer Datei oder eines Ordners in SharePoint oder OneDrive</span><span class="sxs-lookup"><span data-stu-id="7a91e-102">Share a file or folder in SharePoint or OneDrive</span></span>
 
-1. <span data-ttu-id="0e311-103">Öffnen Sie einen Browser, und wechseln Sie zur Datei oder des Ordners, den Sie freigeben, wählen Sie sie aus, und wählen Sie **Freigeben**möchten.</span><span class="sxs-lookup"><span data-stu-id="0e311-103">Open a browser and go to the file or folder you want to share, select it, and then select **Share**.</span></span> 
+1. <span data-ttu-id="7a91e-103">Öffnen Sie einen Browser, und wechseln Sie zur Datei oder des Ordners, den Sie freigeben, wählen Sie sie aus, und wählen Sie **Freigeben**möchten.</span><span class="sxs-lookup"><span data-stu-id="7a91e-103">Open a browser and go to the file or folder you want to share, select it, and then select **Share**.</span></span> 
     
-2. <span data-ttu-id="0e311-104">(Optional) Wenn der Verknüpfungstyp angegeben wird nicht gewünschten, klicken Sie auf den Pfeil nach unten, um einen anderen Typ auszuwählen:</span><span class="sxs-lookup"><span data-stu-id="0e311-104">(Optional) If the link type isn't the one you want, click the down arrow to select a different type:</span></span>
+2. <span data-ttu-id="7a91e-104">(Optional) Wenn der Verknüpfungstyp angegeben wird nicht gewünschten, klicken Sie auf den Pfeil nach unten, um einen anderen Typ auszuwählen:</span><span class="sxs-lookup"><span data-stu-id="7a91e-104">(Optional) If the link type isn't the one you want, click the down arrow to select a different type:</span></span>
     
-  - <span data-ttu-id="0e311-p101">**Alle Benutzer** haben Zugriff auf jeder, der diesen Link empfängt, ob sie sie von Ihnen erhalten oder von einer anderen Person weitergeleitet. Dies kann Personen außerhalb Ihrer Organisation enthalten.</span><span class="sxs-lookup"><span data-stu-id="0e311-p101">**Anyone** gives access to anyone who receives this link, whether they receive it directly from you or forwarded from someone else. This may include people outside of your organization.</span></span> 
+  - <span data-ttu-id="7a91e-p101">**Alle Benutzer** haben Zugriff auf jeder, der diesen Link empfängt, ob sie sie von Ihnen erhalten oder von einer anderen Person weitergeleitet. Dies kann Personen außerhalb Ihrer Organisation enthalten.</span><span class="sxs-lookup"><span data-stu-id="7a91e-p101">**Anyone** gives access to anyone who receives this link, whether they receive it directly from you or forwarded from someone else. This may include people outside of your organization.</span></span> 
     
-  - <span data-ttu-id="0e311-107">\*\*Personen, die in \<Your Organization\> \*\* haben alle Benutzer in Ihrer Organisation den Zugriff auf den Link, ob von Ihnen Erhalt oder von einer anderen Person weitergeleitet.</span><span class="sxs-lookup"><span data-stu-id="0e311-107">**People in \<Your Organization\>** gives everyone in your organization access to the link, whether they receive it directly from you or forwarded from someone else.</span></span> 
+  - <span data-ttu-id="7a91e-107">\*\*Personen, die in \<Your Organization\> \*\* haben alle Benutzer in Ihrer Organisation den Zugriff auf den Link, ob von Ihnen Erhalt oder von einer anderen Person weitergeleitet.</span><span class="sxs-lookup"><span data-stu-id="7a91e-107">**People in \<Your Organization\>** gives everyone in your organization access to the link, whether they receive it directly from you or forwarded from someone else.</span></span> 
     
-  - <span data-ttu-id="0e311-p102">**Bestimmte Personen** ermöglicht den Zugriff nur für die Personen Sie angeben, obwohl andere Personen möglicherweise bereits Zugriff haben. Wenn die Einladung zur Freigabe von Personen weitergeleitet werden, werden nur Personen, die Zugriff auf das Element bereits den Link verwenden können.</span><span class="sxs-lookup"><span data-stu-id="0e311-p102">**Specific people** gives access only to the people you specify, although other people may already have access. If people forward the sharing invitation, only people who already have access to the item will be able to use the link.</span></span> 
+  - <span data-ttu-id="7a91e-p102">**Bestimmte Personen** ermöglicht den Zugriff nur für die Personen Sie angeben, obwohl andere Personen möglicherweise bereits Zugriff haben. Wenn die Einladung zur Freigabe von Personen weitergeleitet werden, werden nur Personen, die Zugriff auf das Element bereits den Link verwenden können.</span><span class="sxs-lookup"><span data-stu-id="7a91e-p102">**Specific people** gives access only to the people you specify, although other people may already have access. If people forward the sharing invitation, only people who already have access to the item will be able to use the link.</span></span> 
     
     > [!NOTE]
-    > <span data-ttu-id="0e311-p103">Wenn eine dieser Optionen nicht verfügbar ist oder wenn Sie einen anderen Linktyp standardmäßig angezeigt werden soll, können Sie Ihre Organisation geltende Einstellungen ändern, indem unterschiedlich sein und sollte im klassischen SharePoint Administrationscenter und auf **Freigabe** , klicken Sie im linken Bereich. [Erfahren Sie mehr](https://go.microsoft.com/fwlink/?linkid=866426)</span><span class="sxs-lookup"><span data-stu-id="0e311-p103">If one of these options isn't available, or if you want a different link type to appear by default, you can change your organization-wide settings by going to the classic SharePoint admin center and clicking **sharing** in the left pane. [Learn more](https://go.microsoft.com/fwlink/?linkid=866426)</span></span>
+    > <span data-ttu-id="7a91e-p103">Wenn eine dieser Optionen nicht verfügbar ist oder wenn Sie einen anderen Linktyp standardmäßig angezeigt werden soll, können Sie Ihre Organisation geltende Einstellungen ändern, indem unterschiedlich sein und sollte im klassischen SharePoint Administrationscenter und auf **Freigabe** , klicken Sie im linken Bereich. [Erfahren Sie mehr](https://go.microsoft.com/fwlink/?linkid=866426)</span><span class="sxs-lookup"><span data-stu-id="7a91e-p103">If one of these options isn't available, or if you want a different link type to appear by default, you can change your organization-wide settings by going to the classic SharePoint admin center and clicking **sharing** in the left pane. [Learn more](https://go.microsoft.com/fwlink/?linkid=866426)</span></span>
   
-3. <span data-ttu-id="0e311-p104">In der Standardeinstellung ist **Bearbeiten zulassen** aktiviert. Wenn Sie Personen zu nur die Dateien anzeigen möchten, deaktivieren Sie das Kontrollkästchen.</span><span class="sxs-lookup"><span data-stu-id="0e311-p104">By default, **Allow editing** is turned on. If you want people to only view your files, clear the check box.</span></span> 
+3. <span data-ttu-id="7a91e-p104">In der Standardeinstellung ist **Bearbeiten zulassen** aktiviert. Wenn Sie Personen zu nur die Dateien anzeigen möchten, deaktivieren Sie das Kontrollkästchen.</span><span class="sxs-lookup"><span data-stu-id="7a91e-p104">By default, **Allow editing** is turned on. If you want people to only view your files, clear the check box.</span></span> 
     
-4. <span data-ttu-id="0e311-114">Geben Sie die Namen der Personen ein, die, denen Sie freigeben möchten, und eine Nachricht, wenn Sie möchten.</span><span class="sxs-lookup"><span data-stu-id="0e311-114">Enter the names of the people you want to share with and a message, if you want.</span></span>
+4. <span data-ttu-id="7a91e-114">Geben Sie die Namen der Personen ein, die, denen Sie freigeben möchten, und eine Nachricht, wenn Sie möchten.</span><span class="sxs-lookup"><span data-stu-id="7a91e-114">Enter the names of the people you want to share with and a message, if you want.</span></span>
     
-5. <span data-ttu-id="0e311-115">Klicken Sie auf **Senden**.</span><span class="sxs-lookup"><span data-stu-id="0e311-115">Click **Send**.</span></span> 
+5. <span data-ttu-id="7a91e-115">Klicken Sie auf **Senden**.</span><span class="sxs-lookup"><span data-stu-id="7a91e-115">Click **Send**.</span></span> 
     
 
