@@ -7,16 +7,16 @@ ms.date: 3/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 6a6fa89baabb5f952e90c3eed1017c7cbad5ffa0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: a1d2a7ac79f5d7f4ef691b3ba7e110945a106fdf
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29470252"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29905759"
 ---
 # <a name="how-to-make-an-office-365-purchase"></a>Wie stellen Sie den Kauf eines Office 365
 
@@ -30,12 +30,12 @@ In der Verwaltungskonsole können Einkäufe in Office 365 vorgenommen werden. We
     
   - Wählen Sie ** wechseln der Pläne ** zum Anzeigen der Liste der neuen Pläne, die verfügbar sind. 
     
-  - Wählen Sie einen Plan aus, um die neuen Gesamtkosten pro Monat anzuzeigen. Lesen Sie unbedingt die **wichtigsten Informationen**, und wählen Sie zum Auschecken Weiter aus. 
+  - Wählen Sie einen Plan für die neue Gesamtkosten pro Monat anzuzeigen. Achten Sie darauf, lesen Sie die wichtigsten Informationen und anschließend auf **Weiter** , auszuchecken. 
     
  **Zusätzliche Ressourcen**
   
 - [Zuweisen von Lizenzen zu Benutzern in Office 365 Business](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
     
-- [Kündigen von Office 365 Business](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [Office 365 für Unternehmen Abbrechen](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
     
 

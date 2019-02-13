@@ -7,14 +7,14 @@ ms.date: 4/26/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: cfd69bab102ac58343ce98db3fb02b594673ea63
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 6e877493f44b4636e1293582b5baf6bf98d1d251
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29470406"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29905651"
 ---
 # <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Lösungen für Probleme mit der Installation von Office auf einem Terminal Server
 
@@ -24,13 +24,13 @@ Um gemeinsam genutzter Computer Aktivierung verwenden, benötigen Sie einen Offi
     
 - Überprüfen, ob die Aktivierung von Office 365 ProPlus erfolgreich war
     
-- Überprüfen von Fehlermeldungen zur Aktivierung gemeinsam genutzter Computer
+- Überprüfen Sie die Fehlermeldungen für die Aktivierung gemeinsam genutzter Computer:
     
-  - Die in Ihrem Konto gefundenen Produkte können nicht verwendet werden, um Office in Szenarien mit gemeinsam genutzten Computern zu aktivieren.
+  - "Die Produkte in Ihrem Konto gefundenen können nicht verwendet werden, zum Aktivieren von Office in Szenarien gemeinsam genutzter Computer"
   
 Dieser Fehler weist darauf hin, dass Sie nicht über ein Office 365-Plan verfügen, der Office 365 ProPlus enthält.
     
-  - Nicht lizenziertes Produkt
+  - "Nicht lizenziertes Produkt"
     
   - Überprüfen Sie, dass der Benutzer eine Lizenz für Office 365 ProPlus zugeordnet ist.
     
