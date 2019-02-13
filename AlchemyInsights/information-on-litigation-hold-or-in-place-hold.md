@@ -7,14 +7,14 @@ ms.date: 11/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 46f868dba0f5e99ed1d2df7cf9bed7e5ebb350c9
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 9ecfb5bb167a0c959d39d47713bbb0e64862abb8
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29660130"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29926927"
 ---
 - Zum Anwenden einer Aufbewahrung für eventuelle Archiv halten sowie einen in-Place für ein Postfach ein [Exchange Online – Plan 2 Lizenz](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) erforderlich ist. Wenn Sie alle anderen Plan haben, weisen Sie eine separate Lizenz [Exchange Online-Archivierung](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) für das Konto zu. 
     
