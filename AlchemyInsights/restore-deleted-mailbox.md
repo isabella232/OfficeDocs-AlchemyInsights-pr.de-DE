@@ -1,5 +1,5 @@
 ---
-title: Wiederherstellen von gelöschten Postfachs
+title: Wiederherstellen eines gelöschten Postfachs
 ms.author: pebaum
 author: pebaum
 ms.date: 9/12/2017
@@ -14,25 +14,25 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: f9529dc92637e6b6174ff3cb8d1587ab2dffd0e2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: da3d35e5f86f2b76fe6bd25829458b1b2d1a1e9a
+ms.sourcegitcommit: c3ed7525f24f80cc6372aa3f496463500bb0c3ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927503"
+ms.lasthandoff: 02/19/2019
+ms.locfileid: "30088112"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Wiederherstellen eines gelöschten Postfachs
 
-Wenn der Benutzer ihrer Exchange Online-Lizenz verliert, ihr Postfach ist 30 Tage lang aufbewahrt und wiederhergestellt werden kann, indem Sie einfach erneut die Lizenz für dem Benutzer zuweisen.
+Wenn der Benutzer seine Exchange Online-Lizenz verliert, wird sein Postfach 30 Tage lang aufbewahrt und kann durch einfaches erneutes Zuweisen der Lizenz zum Benutzer wiederhergestellt werden.
   
- *Dies funktioniert nur innerhalb von 30 Tagen.*  Wechseln Sie im Admin-Portal an: 
+ *Dies funktioniert nur innerhalb von 30 Tagen.*  Wechseln Sie im Admin-Portal zu: 
   
-1. **Benutzer** \> **Aktive** Benutzer. Wählen Sie den betreffenden Benutzer. 
+1. **Benutzer** \> **Aktive** Benutzer. Wählen Sie den betreffenden Benutzer aus. 
     
-2. Drücken Sie **Bearbeiten** , um Lizenzen ändern 
+2. Drücken Sie **Bearbeiten** , um Produktlizenzen zu ändern 
     
-3. Weisen Sie Exchange Online Lizenz zu, und drücken Sie **Speichern**
+3. Weisen Sie die Exchange Online-Lizenz zu, und klicken Sie auf **Speichern** .
     
-Wenn Sie versuchen, ein gemeinsames Postfach wiederherzustellen, ist es auch wiederherstellbare für 30 Tage. Sie finden Sie unter **Benutzer** \> **Gelöschte** Benutzer. Freigegebene Postfächer erfordern keine Lizenz. 
+Wenn Sie versuchen, ein FreigeGebenes Postfach wiederherzustellen, ist es auch 30 Tage lang wiederherstellbar. Sie finden Sie unter **Users** \> **deleted** users; freigegebene Postfächer erfordern keine Lizenz. Wenn Sie wissen, dass Sie einen gelöschten Benutzer wiederherstellen müssen, finden Sie weitere Informationen unter [Wiederherstellen eines Benutzers in Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/restore-user).
   
 
