@@ -1,5 +1,5 @@
 ---
-title: Externe Freigabe ein- oder ausschalten für SharePoint zu aktivieren
+title: Aktivieren oder Deaktivieren der externen Freigabe für SharePoint
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ad290ba4-169e-4866-9c78-2763319e9ed0
-ms.openlocfilehash: 4db09cced893480f842585268bf850dc49f0d20a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1b915ff5514711e2ff27b07e35748d53689a486f
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29935946"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209340"
 ---
-# <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>Externe Freigabe ein- oder ausschalten für SharePoint zu aktivieren
+# <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>Aktivieren oder Deaktivieren der externen Freigabe für SharePoint
 
-1. Wechseln Sie in das Office 365 Administrationscenter zu [die Dienste &amp; -add-ins Seite](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), und klicken Sie auf **Sites**.
+1. Wechseln Sie im Microsoft 365 Admin Center zur [Seite Dienste &amp; -Add-ins](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), und klicken Sie auf **Websites**.
     
-2. Aktivieren Sie oder Deaktivieren der Einstellung, oder wählen Sie eine Freigabe aus, wenn es aktiviert ist.
+2. Aktivieren oder deaktivieren Sie die Einstellung, oder wählen Sie eine Freigabeoption aus, wenn Sie aktiviert ist.
     
 > [!NOTE]
-> Deaktivieren der Freigabe für SharePoint deaktiviert es für OneDrive. Um externe Freigabe auf jeder Website zu ermöglichen, muss Ihre Organisation geltende Einstellung auf. > externe Freigabe für OneDrive oder eine beliebige einzelne SharePoint-Websites zu schalten Sie es organisationsweiten für SharePoint. Sie können dann es für bestimmte Websitesammlungen deaktivieren. Zum Verwalten von Einstellungen für externer Freigabe Kommunikation-Websites und Websites, die Office 365-Gruppen angehören, müssen Sie die neue SharePoint Administrationscenter (Preview) oder über PowerShell verwenden. Weitere Informationen zum Verwalten von Einstellungen für externe Freigabe finden Sie unter [externe Freigabe ein- oder ausschalten zu aktivieren](https://go.microsoft.com/fwlink/?linkid=866426). 
+> Durch das Deaktivieren der Freigabe für SharePoint wird es für OneDrive deaktiviert. Damit die externe Freigabe auf jeder Website zulässig ist, muss Ihre organisationsweite Einstellung "ein" sein. > um die externe Freigabe für OneDrive oder einzelne SharePoint-Websites zu ermöglichen, müssen Sie Sie für SharePoint organisationsweit aktivieren. Sie können Sie für bestimmte Websitesammlungen deaktivieren. Zum Verwalten externer Freigabeeinstellungen für Kommunikationswebsites und-Websites, die zu Office 365-Gruppen gehören, müssen Sie das neue SharePoint Admin Center (Preview) oder PowerShell verwenden. Weitere Informationen zum Verwalten externer Freigabeeinstellungen finden Sie unter [Aktivieren oder Deaktivieren der externen Freigabe](https://go.microsoft.com/fwlink/?linkid=866426). 
   
-[Erfahren Sie mehr über externe Freigabe in SharePoint](https://go.microsoft.com/fwlink/?linkid=734908)
+[Weitere Informationen zur externen Freigabe in SharePoint](https://go.microsoft.com/fwlink/?linkid=734908)
   
 

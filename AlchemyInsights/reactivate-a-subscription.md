@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 78dd997b1e8870fc5a06fc6560753717b8d7e39d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e15b6e7c958d3efdfe8baa21494c356c7b7d7614
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905327"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209448"
 ---
 # <a name="reactivate-a-subscription"></a>Reaktivieren eines Abonnements
 
-Wenn Ihr Abonnement abläuft, von Microsoft, deaktiviert wurde oder Sie in der Mitte ein Abonnement Begriff abgebrochen, können Sie es im Office 365 Administrationscenter reaktivieren.
+Wenn Ihr Abonnement abgelaufen ist, von Microsoft deaktiviert wurde oder Sie es in der Mitte einer Abonnementlaufzeit abgebrochen haben, können Sie es im Microsoft 365 Admin Center reaktivieren.
   
 1. Wechseln Sie im Admin Center zur Seite [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), oder wählen Sie **Abrechnung** \> **Abonnements** aus.
     
 2. Wählen Sie das Abonnement aus, das Sie reaktivieren möchten, und klicken Sie dann auf **Reaktivieren**.
     
-    Wenn Sie nicht **reaktivieren** als verfügbare Aktion angezeigt wird, verwenden Sie die Option "wollen wir uns anrufen" mit einem Supporttechniker Ihr Abonnement reaktivieren sprechen. 
+    Wenn reaktivieren nicht als **** verfügbare Aktion angezeigt wird, verwenden Sie die Option "rufen Sie uns an", um mit einem Supporttechniker zu sprechen, um Ihr Abonnement zu reaktivieren. 
     
 3. Geben Sie Ihre Zahlungsdetails ein. Hier können Sie Ihre vorhandenen Zahlungsinformationen aktualisieren.
     

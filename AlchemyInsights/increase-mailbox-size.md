@@ -1,5 +1,5 @@
 ---
-title: Erhöhen der Postfachgröße
+title: Vergrößern der Postfachgröße
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 892eff30359f71984cae2f4ae2448dad49e4d6bd
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 3ecff82230295ca161dc83efcede3d989bb7cb5a
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906767"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208296"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Wechseln von Plänen zum Vergrößern des Postfachs
 
-Wenn die Größe des Postfachs bereits 100 GB ist, besteht keine Möglichkeit, es zu erhöhen. In diesem Fall führen Sie [Diese Empfehlung](https://support.office.com/client/e57572ff-0ba7-4782-ba5d-cdac3142ea71). 
+Wenn die Postfachgröße bereits 100 GB ist, gibt es keine Möglichkeit, Sie zu vergrößern. Befolgen Sie in diesem Fall [diese Ratschläge](https://support.office.com/client/e57572ff-0ba7-4782-ba5d-cdac3142ea71). 
   
-Wenn die Größe des Postfachs 50 GB ist, können Sie sie durch den Wechsel zu [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) oder [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software)auf 100 GB erhöhen. Hier sind die Schritte so wechseln Sie zu einem anderen Office 365-Plan:
+Wenn die Postfachgröße 50 GB beträgt, können Sie Sie auf 100 GB vergrößern, indem Sie zu [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) oder [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software)wechseln. Hier sind die Schritte zum Wechseln zu einem anderen Office 365-Plan:
   
-1. Wechseln Sie im Office 365 Admin Center zur Seite [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), oder wählen Sie **Abrechnung** \> **Abonnements** aus.
+1. wechseln sie im Microsoft 365 admin center zur seite [abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) , oder wählen sie **abrechnungs** \> **abonnements**aus.
     
 2. Wählen Sie **Pläne wechseln** aus, um die Liste der verfügbaren neuen Pläne anzuzeigen. 
     

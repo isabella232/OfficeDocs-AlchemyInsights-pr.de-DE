@@ -1,5 +1,5 @@
 ---
-title: Beim Versuch, eine Testversion zu finden?
+title: Versuchen Sie, eine Testversion zu finden?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,26 +11,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: a932770042274ed721c2394c2edf2db1e9dae4b5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: bf7ba2f9f90d6c7220973b13ade4f154a0ca3655
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29901223"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208188"
 ---
-# <a name="trying-to-find-a-trial"></a>Beim Versuch, eine Testversion zu finden?
+# <a name="trying-to-find-a-trial"></a>Versuchen Sie, eine Testversion zu finden?
 
-Wenn Sie einen neuen Dienst testen möchten finden eine Liste der verfügbaren Abonnements für Testversion im Office 365 Administrationscenter Sie.
+Wenn Sie einen neuen Dienst ausprobieren möchten, finden Sie im Microsoft 365 Admin Center eine Liste der verfügbaren Abonnements.
   
-1. Wechseln Sie zur Seite [Dienste erwerben](https://go.microsoft.com/fwlink/p/?linkid=868433) , oder wählen Sie **Abrechnung** \> **Dienste erwerben**.
+1. Wechseln Sie zur Seite [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) , oder wählen Sie **Billing** \> **Purchase Services**aus.
     
-2. Hier finden Sie das Abonnement, das auf Ihre Bedürfnisse Mouseover, erfüllt, und wählen Sie **kostenlose Testversion zu starten**.
+2. Suchen Sie das Abonnement, das Ihren Anforderungen entspricht, und klicken Sie dann auf **﻿Kostenlose Testversion starten**.
     
     > [!NOTE]
-    > Nicht alle Abonnements stehen als Testversion zur Verfügung. Wenn die Schaltfläche **Start kostenlose Testversion** , wenn Sie mit der Maus über einem Abonnement nicht angezeigt wird, bedeutet dies, dass eine Testversion nicht verfügbar ist. 
+    > Nicht alle Abonnements sind als Testversion verfügbar. Wenn die Schaltfläche **﻿Kostenlose Testversion starten** nicht angezeigt wird, wenn Sie mit der Maus über ein Abonnement fahren, ist keine Testversion verfügbar. 
   
-3. Sie können aufgefordert, geben Sie eine Kreditkarte oder andere Zahlungsmethode, um zusätzliche Überprüfung als Sicherheitsmaßnahme bereitzustellen. Sie wird nur für dieses kostenlose Testversion belastet. Wir wird Ihre Zahlungsinformationen auf Datei, und es wird nicht bei jedem Auftrag ohne Ihre Zustimmung verwenden.
+3. Sie werden möglicherweise aufgefordert, eine Kreditkarte oder eine andere Zahlungsmethode einzugeben, um eine zusätzliche Überprüfung als Sicherheitsmaßnahme zu ermöglichen. Sie werden für diese ﻿kostenlose Testversion nicht belastet. Wir behalten Ihre Zahlungsinformationen in der Datei bei und verwenden Sie nicht ohne Ihre Genehmigung.
     
-4. Wählen Sie **bestellen**.
+4. Klicken Sie auf **Bestellung aufgeben**.
     
 

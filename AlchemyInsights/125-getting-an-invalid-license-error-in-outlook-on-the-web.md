@@ -1,5 +1,5 @@
 ---
-title: 125 Fehler ungültige Lizenz in Outlook im Web abrufen?
+title: 125 wird ein ungültiger Lizenzfehler in Outlook im Web abgerufen?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: c341ac08f261d926a2ab229e6a56f69c6ce14181
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1b0969720aeb10eb50eeb221ae7e467052650e15
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29909323"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209035"
 ---
-# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Abrufen von Fehler ungültige Lizenz in Outlook im Web?
+# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Sie haben einen ungültigen Lizenzfehler in Outlook im Web abgerufen?
 
-Wenn Sie Outlook im Web verwenden, und Sie eine Fehlermeldung **ist ein Fehler aufgetreten** , die erhalten enthält **X-OWA-Fehler: Microsoft.Exchange.Data.Storage.InvalidLicenseException**, Ihre Exchange Online-Lizenz ist nicht ordnungsgemäß zugewiesen oder vor kurzem hat abgelaufen. Ihre Admin kann eine Lizenz Ihnen zuweisen, indem Sie folgende Schritte:
+Wenn Sie Outlook im Web verwenden und ein Fehler aufgetreten ist **** , der **X-OWA-Error: Microsoft. Exchange. Data. Storage. InvalidLicenseException**enthält, ist Ihre Exchange Online-Lizenz nicht ordnungsgemäß zugewiesen oder hat vor kurzem abgelaufen. Ihr Administrator kann Ihnen eine Lizenz zuweisen, indem Sie die folgenden Schritte ausführen:
   
-1. Öffnen Sie die [Office 365 Administrationscenter](https://portal.office.com/adminportal/home#/homepage) , und wählen Sie **einen Benutzer bearbeiten**unter **aktive Benutzer**.
+1. Öffnen Sie das [Microsoft 365 Admin Center](https://portal.office.com/adminportal/home#/homepage) , und wählen Sie unter **aktive Benutzer**die Option **Benutzer bearbeiten**aus.
     
-2. Wählen Sie den Benutzer in der Seite **Benutzer bearbeiten** wird geöffnet. Klicken Sie in der Eigenschaftenseite Benutzer für **Lizenzen**auf **Bearbeiten** .
+2. Wählen Sie auf der Seite **Benutzer bearbeiten** , die geöffnet wird, den Benutzer aus. Klicken Sie auf der Seite mit den Benutzereigenschaften auf **Bearbeiten** für **Produktlizenzen**.
     
-3. Auf der Seite **Lizenzen** , das geöffnet wird, wählen Sie den entsprechenden Wert für den **Speicherort** aus, und weisen Sie eine Lizenz, die Exchange Online enthält (Erweitern Sie die Lizenz aus, um seine Details anzuzeigen). Wenn Sie fertig sind, klicken Sie auf **Speichern**.
+3. Wählen Sie auf der Seite **Produktlizenzen** , die geöffnet wird, den entsprechenden **Standort** Wert aus, und weisen Sie eine Lizenz mit Exchange Online zu (erweitern Sie die Lizenz, um die Details zu sehen). Klicken Sie nach Abschluss des Vorgangs auf **Speichern**.
     
 

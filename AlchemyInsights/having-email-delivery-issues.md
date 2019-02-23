@@ -1,5 +1,5 @@
 ---
-title: Gibt es Probleme bei der e-Mail-Übermittlung?
+title: E-Mail-Zustellungsprobleme?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6a7bc2f3-7d03-4c6f-b15f-cc7e89d92102
-ms.openlocfilehash: 2f96c6ee5d2f58265057641694c0536a42a5faa3
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 89e9507141a28422de16455d95b052df77c6545a
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905039"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209988"
 ---
-# <a name="having-email-delivery-issues"></a>Gibt es Probleme bei der e-Mail-Übermittlung?
+# <a name="having-email-delivery-issues"></a>E-Mail-Zustellungsprobleme?
 
-Wir haben festgestellt, dass Ihre Benutzer keine e-Mails senden die folgenden Domänen empfangen können:
+Wir haben festgestellt, dass Ihre Benutzer keine e-Mails empfangen können, die an die folgenden Domänen gesendet werden:
   
 {HealthCheckString}
   
-Die NS oder MX-Datensätze der (DNS) domäneneinstellungen sind nicht für die e-Mail-Übermittlung an Ihrem Office 365-Dienst ordnungsgemäß konfiguriert. Sie können weitere Informationen zum [Aktualisieren von DNS-Einträgen in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) verweisen. 
+Die NS-oder MX-Einträge der Domäneneinstellungen (DNS) sind nicht ordnungsgemäß für die e-Mail-Zustellung an Ihren Office 365-Dienst konfiguriert. Detaillierte Anweisungen finden Sie unter [Aktualisieren von DNS-Einträgen in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) . 
   
-Um diese zu beheben, gehen Sie zu der Seite [Domänen](https://admin.microsoft.com/adminportal/home#/Domains) in Office 365 Admin Center, und wir helfen Ihnen dabei aus. 
+Um das Problem zu beheben, wechseln Sie zur Seite [Domains](https://admin.microsoft.com/adminportal/home#/Domains) im Microsoft 365 Admin Center, und wir helfen Ihnen dabei. 
   
-Auf andere gemeinsamen Lösungen [die Domänen häufig gestellte Fragen zu überprüfen](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) . 
+Weitere allgemeine Lösungen [finden Sie in den häufig](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) gestellten Domänen. 
   
 

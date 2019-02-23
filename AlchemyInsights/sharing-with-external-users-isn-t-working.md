@@ -1,5 +1,5 @@
 ---
-title: Freigabe für externe Benutzer ist nicht funktionsfähig
+title: Freigabe für externe Benutzer funktioniert nicht
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -11,32 +11,32 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 20b538846997c021b6e88596a1e8aff401ea935b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 4b132a3cb0fac015ab44a1fa08565af15b7e8121
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900868"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207684"
 ---
-# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Beheben von Problemen, die gemeinsame Nutzung von SharePoint-Inhalten mit externen Benutzern
+# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Beheben von Problemen beim Freigeben von SharePoint-Inhalten für externe Benutzer
 
-Stellen Sie sicher, dass externe Freigabe für Ihre Organisation aktiviert ist:
+Stellen Sie sicher, dass die externe Freigabe für Ihre Organisation aktiviert ist:
   
-1. Wechseln Sie zu der [Services &amp; Seite im Office 365 Administrationscenter-add-ins](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), und klicken Sie auf **Sites**.
+1. Wechseln Sie zur [Seite &amp; Dienste-Add-ins im Microsoft 365 Admin Center](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), und klicken Sie auf **Websites**.
     
-2. Stellen Sie sicher, dass die Einstellung auf "Aktiviert" aktiviert ist Wenn "Nur vorhandene externe Benutzer" ausgewählt ist, stellen Sie sicher, dass der externe Benutzer in Office 365 Administrationscenter aufgeführt ist.
+2. Stellen Sie sicher, dass die Einstellung auf "ein" aktiviert ist. Wenn "nur vorhandene externe Benutzer" ausgewählt ist, stellen Sie sicher, dass der externe Benutzer im Microsoft 365 Admin Center aufgeführt ist.
     
-Stellen Sie sicher, dass externe Freigabe für die Website aktiviert. Für eine klassische Websitesammlung:
+Stellen Sie sicher, dass die externe Freigabe für die Website aktiviert ist. Für eine klassische Websitesammlung:
   
-1. Klicken Sie in der klassischen SharePoint-Verwaltungskonsole im linken Bereich auf **Websitesammlungen**.
+1. Klicken Sie im klassischen SharePoint Admin Center im linken Bereich auf **Websitesammlungen**.
     
-2. Wählen Sie die Website oder Websites, und klicken Sie auf dem Menüband auf **Freigabe**.
+2. Wählen Sie die Website oder Websites aus, und klicken Sie auf dem Menüband auf **Freigabe**.
     
-Für eine Teamwebsite, zu der eine Office 365-Gruppe gehört, oder eine Kommunikation-Website:
+Für eine Teamwebsite, die zu einer Office 365-Gruppe oder einer Kommunikationswebsite gehört:
   
-- Diese neuen Websitetypen haben die gleiche sharing festlegen als Ihrer Organisation geltende Einstellung, wenn die Einstellung der gesamten Organisation erlaubt die Freigabe von Dateien mithilfe von Links, die Anmeldung nicht erforderlich ist. In diesem Fall können die Websites mit neuen und vorhandenen externen Benutzern, die Anmeldung nutzt. Um die Einstellung für bestimmte Standorte zu ändern, verwenden Sie die neue SharePoint Administrationscenter (Preview) oder über PowerShell. [Erfahren Sie mehr](https://go.microsoft.com/fwlink/?linkid=871863).
+- Diese neuen Websitetypen haben dieselbe Freigabe Einstellung wie Ihre organisationsweite Einstellung, es sei denn, die organisationsweite Einstellung ermöglicht das Freigeben von Dateien mit Links, die keine Anmeldung erfordern. In diesem Fall ermöglichen die Websites die Freigabe für neue und vorhandene externe Benutzer, die sich anmelden. Um die Einstellung für bestimmte Websites zu ändern, verwenden Sie das neue SharePoint Admin Center (Preview) oder PowerShell. [Weitere Informationen](https://go.microsoft.com/fwlink/?linkid=871863).
     
 > [!NOTE]
-> Die externe Freigabe für jede Website können restriktiver als Ihrer Organisation geltende Einstellung, aber nicht mehr als die Einstellung der gesamten Organisation permissive festgelegt. 
+> Die Einstellung für die externe Freigabe für jede Website kann restriktiver sein als die organisationsweite Einstellung, aber nicht mehr als die organisationsweite Einstellung. 
   
 

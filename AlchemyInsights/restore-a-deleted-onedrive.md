@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 5298f192-326b-4820-b007-7e1a1c3c2b13
-ms.openlocfilehash: 075ceb583e5a2a7533dfb4b77eec01a65de6a4e0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 8239f72c41c45b42b467c05e249b284e0a2c1afb
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918647"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208260"
 ---
 # <a name="restore-a-deleted-onedrive"></a>Wiederherstellen einer gelöschten OneDrive
 
-Nachdem ein Benutzer gelöscht wurde, können Sie der Benutzer OneDrive für 30 Tage über das Office 365 Administrationscenter zugreifen. Andere Benutzer können weiterhin freigegebene Inhalte in die OneDrive für die Dauer zugreifen, die Sie in der Verwaltungskonsole OneDrive festgelegt haben. (Informationen zum Konfigurieren dieses finden Sie [die Standard-Datei Aufbewahrung für gelöschte OneDrive Benutzer festgelegt](https://go.microsoft.com/fwlink/?linkid=874267).) Nach diesem Zeitraum wird die OneDrive für 93 Tage in den Papierkorb verschoben, und anschließend gelöscht.
+Nachdem Sie einen Benutzer gelöscht haben, können Sie 30 Tage lang über das Microsoft 365 Admin Center auf die OneDrive des Benutzers zugreifen. Andere Benutzer können den Zugriff auf freigegebene Inhalte in der OneDrive für die Zeitdauer fortsetzen, die Sie im OneDrive Admin Center festgelegt haben. (Informationen dazu, wie Sie diese Einstellung festlegen, finden Sie unter [Festlegen der standardmäßigen Dateiaufbewahrung für gelöschte OneDrive-Benutzer](https://go.microsoft.com/fwlink/?linkid=874267).) Nach diesem Zeitpunkt wird der OneDrive für 93 Tage in den Papierkorb verschoben und dann gelöscht.
   
-Nach der ersten 30 Tage, wenn der Gelöschte Benutzer nicht mehr in der Office 365-Verwaltungskonsole angezeigt wird, können Sie den Benutzer OneDrive über PowerShell zugreifen. Info finden Sie unter [Wiederherstellen einer gelöschten OneDrive](https://go.microsoft.com/fwlink/?linkid=874269).
+Nach den anfänglichen 30 Tagen, wenn der gelöschte Benutzer nicht mehr im Microsoft 365 Admin Center angezeigt wird, können Sie über PowerShell auf die OneDrive des Benutzers zugreifen. Weitere Informationen finden Sie unter [Wiederherstellen einer gelöschtEn OneDrive](https://go.microsoft.com/fwlink/?linkid=874269).
   
 

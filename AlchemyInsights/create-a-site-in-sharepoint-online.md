@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: e1c4cd224e75fadfc1b5d3afb643f5ed854258d0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 41af5e51743623f108cb614911ff88308809c4b5
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920483"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207900"
 ---
 # <a name="create-a-site"></a>Erstellen einer Website
 
-Sie können die verschiedene Typen von Websites in SharePoint Online erstellen. Um eine neue Website Typen zu erstellen, finden Sie unter folgenden Themen.
+Sie können unterschiedliche Websitetypen in SharePoint Online erstellen. Informationen zum Erstellen eines der neuen Websitetypen finden Sie in den folgenden Themen.
   
-- [Erstellen einer Teamwebsite, die eine Office 365-Gruppe hat](https://go.microsoft.com/fwlink/?linkid=866292)
+- [Erstellen einer Teamwebsite mit einer Office 365-Gruppe](https://go.microsoft.com/fwlink/?linkid=866292)
     
-- [Erstellen einer Website für die Kommunikation in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866294)
+- [Erstellen einer Kommunikationswebsite in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866294)
     
-Sie können auch diese Websites aus der neuen SharePoint Admin Center Vorschau erstellen.
+Sie können diese Websites auch in der neuen SharePoint Admin Center-Vorschau erstellen.
   
-Um eine klassische Website zu erstellen, führen Sie eine der folgenden Aktionen aus:
+Führen Sie einen der folgenden Schritte aus, um eine klassische Website zu erstellen:
   
-- Wechseln Sie zur [Seite im Office 365 Administrationscenter-Websites](https://portal.office.com/adminportal/home#/SitesList), und wählen Sie dann **eine Website hinzufügen**.
+- Wechseln Sie zur [Seite Websites im Microsoft 365 Admin Center](https://portal.office.com/adminportal/home#/SitesList), und wählen Sie dann **Website hinzufügen**aus.
     
-- Wählen Sie in der klassischen SharePoint Administrationscenter auf der Seite Site Collections **neu** \> **Private Websitesammlung**.
+- Wählen Sie im klassischen SharePoint Admin Center auf der Seite Websitesammlungen die Option **neue** \> **private Websitesammlung**aus.
     
-Weitere Informationen finden Sie unter [Erstellen einer Websitesammlung](https://go.microsoft.com/fwlink/?linkid=866295). Info zu ermöglichen, dass Benutzer ihre eigenen Websites erstellen finden Sie unter [Manage Site Creation in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
+Weitere Informationen finden Sie unter [Erstellen einer Websitesammlung](https://go.microsoft.com/fwlink/?linkid=866295). Informationen dazu, wie Benutzer eigene Websites erstellen können, finden Sie unter [Manage Site Creation in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
   
 

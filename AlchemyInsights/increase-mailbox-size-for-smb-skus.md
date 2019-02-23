@@ -1,5 +1,5 @@
 ---
-title: Erhöhen der Postfachgröße für SMB-SKUs
+title: Vergrößern der Postfachgröße für SMB-SKUs
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: ba7da00f2a82b016af812dedc13f3e5131c99f05
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 51691206576822cdfb71e28e58ccf81fc1fa9654
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925847"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207936"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Wechseln von Plänen zum Vergrößern des Postfachs
 
-Wenn die Größe des Postfachs 50 GB ist, können Sie die Größe des Postfachs auf 100 GB durch den Wechsel zu [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) oder [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software)erhöhen. Hier sind die Schritte so wechseln Sie zu einem anderen Office 365-Plan:
+Wenn die Postfachgröße 50 GB beträgt, können Sie die Postfachgröße auf 100 GB verlängern, indem Sie zu [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) oder [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software)wechseln. Hier sind die Schritte zum Wechseln zu einem anderen Office 365-Plan:
   
-1. Wechseln Sie im Office 365 Admin Center zur Seite [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), oder wählen Sie **Abrechnung** \> **Abonnements** aus.
+1. wechseln sie im Microsoft 365 admin center zur seite [abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) , oder wählen sie **abrechnungs** \> **abonnements**aus.
     
 2. Wählen Sie **Pläne wechseln** aus, um die Liste der verfügbaren neuen Pläne anzuzeigen. 
     
