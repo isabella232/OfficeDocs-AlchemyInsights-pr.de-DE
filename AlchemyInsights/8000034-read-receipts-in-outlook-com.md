@@ -1,5 +1,5 @@
 ---
-title: 8000034 lesebestätigungen in Outlook.com
+title: 8000034 Lesebestätigungen in Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8cae0e22-0dfc-4575-9f62-041aacbd9da9
-ms.openlocfilehash: 9f3a47f27099c5e53e251ed9d80a18dd643069f2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 251ffb13eb2c0042b9c077acc8845f89c06ab2d7
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29898523"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30243968"
 ---
 # <a name="read-receipts-in-outlookcom"></a>Lesebestätigungen in Outlook.com
 
-Sie können keine lesebestätigung in Outlook.com anfordern, aber Sie können lesebestätigungen für mit Outlook für Windows gesendete Outlook.com-Nachrichten anfordern. Informationen hierzu finden Sie unter [Hinzufügen und Lesen Einnahmen und Übermittlung Benachrichtigungen Anforderung](https://go.microsoft.com/fwlink/p/?linkid=874355).
+Sie können keine Lesebestätigung in Outlook.com anfordern, aber Sie k? nnen Lesebestätigungen für Outlook.com-Nachrichten anfordern, die mit Outlook für Windows gesendet werden. Weitere Informationen hierzu finden Sie unter [Hinzufügen und Anfordern von Lesebestätigungen und Zustellungsbenachrichtigungen](https://go.microsoft.com/fwlink/p/?linkid=874355).
   
-Um auszuwählen, wie Outlook.com reagiert, um bestätigungsanforderungen zu lesen, rufen Sie die **Einstellungsseite**![Einstellungen](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Optionen** \> **Mail** \> **Automatische Verarbeitung** \> **lesebestätigungen**. 
+um auszuwählen, wie Outlook.com auf lese bestätigungsanforderungen antwortet, wechseln sie zu **einstellungen** \> **optionen** \> **e-Mail-** \> **automatische verarbeitung** \> **lesebestätigungen**. 
   
-Wählen Sie in der Betaversion Outlook.com **Einstellungen**![Einstellungen](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) und suchen Sie nach **lesebestätigungen**. 
+Wählen Sie in der Outlook.com-Beta **Einstellungen** aus, und suchen Sie nach **Lesebestätigungen**. 
   
 

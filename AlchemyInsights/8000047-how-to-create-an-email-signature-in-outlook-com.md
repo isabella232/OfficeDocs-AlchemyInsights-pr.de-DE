@@ -1,5 +1,5 @@
 ---
-title: 8000047 wie eine e-Mail-Signatur in Outlook.com erstellen
+title: 8000047 Erstellen einer e-Mail-Signatur in Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0ebfc3b9-de3c-487c-b01b-7b027e4c562f
-ms.openlocfilehash: a66b7961a81ab7a0ec76edf7fa0c1e2e85b9eed7
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 384104963a98e07a77dbfaba64787ef30fb4be29
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938405"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244148"
 ---
-# <a name="how-to-create-an-email-signature"></a>Gewusst wie: Erstellen einer e-Mail-Signatur
+# <a name="how-to-create-an-email-signature"></a>So erstellen Sie eine e-Mail-Signatur
 
-Wenn Sie die Betaversion Outlook.com verwenden:
+Wenn Sie die Outlook.com-Beta Version verwenden:
   
-- Wählen Sie oben auf der Seite **Einstellungen**![Einstellungen](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **vollständige ansichtseinstellungen** \> **zum Verfassen und beantworten**. 
+- Klicken Sie oben auf der Seite auf **Einstellungen** \> **anzeigen vollständige Einstellungen** \> **Erstellen und Antworten**. 
     
 Wenn Sie klassische Outlook.com verwenden:
   
-- Wählen Sie oben auf der Seite **Einstellungen**![Einstellungen](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Optionen** \> **Mail** \> **Layout** \> **E-Mail-Signatur**. 
+- Klicken Sie oben auf der Seite auf **Einstellungen** \> **Optionen** \> **** \> **** \> **e-Mail-Layout e-Mail-Signatur**. 
     
  **Hinweis:** Sie können nur eine Signatur pro Konto haben. 
   
-Erfahren Sie mehr über das [Erstellen und hinzufügen eine e-Mail-Signatur in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001404&amp;clcid=0x409).
+Erfahren Sie mehr über das [Erstellen und Hinzufügen einer e-Mail-Signatur in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001404&amp;clcid=0x409).
   
 

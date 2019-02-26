@@ -1,5 +1,5 @@
 ---
-title: 8000015 blockieren oder Zulassen von Absendern
+title: 8000015 blockieren oder Aufheben der Blockierung von Absendern
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: 49750888b92a62058efe8f09ccb03930afae43f5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e4932e5d5cedcd98917ee6578a818284b8a93926
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941507"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30243824"
 ---
-# <a name="block-or-unblock-senders"></a>Blockieren oder Zulassen von Absendern
+# <a name="block-or-unblock-senders"></a>Blockieren oder Aufheben der Blockierung von Absendern
 
-Fügen Sie die e-Mail-Adresse oder Domäne zur Liste blockierter Absender, um diese Nachrichten direkt in den Junk-e-Mail-Ordner verschieben. E-Mail wird automatisch aus dem Junk-e-Mail-Ordner nach 14 Tagen entfernt und kann nicht rückgängig gemacht.
+Fügen Sie eine beliebige e-Mail-Adresse oder Domäne zu Ihrer Liste blockierter Absender hinzu, um diese Nachrichten direkt in Ihren Junk-e-Mail-Ordner zu verschieben. E-Mails werden nach 14 Tagen automatisch aus dem Junk-e-Mail-Ordner entfernt und sind nicht wiederherstellbar.
   
-1. Wechseln Sie zu **Einstellungen** \> **vollständige Einstellungen für die Ansicht**. 
+1. Wechseln Sie zu **Einstellungen** \> **Ansicht vollständige Einstellungen**. 
     
-2. Wählen Sie **Mail** \> **Junk-e-Mail**. 
+2. Wählen Sie e-Mail **Junk-e-Mail**aus. **** \> 
     
-3. Um einen Absender zu blockieren, geben Sie den e-Mail-Adresse oder die Domäne, die Sie blockieren, und wählen Sie **Hinzufügen**möchten. 
+3. Zum Blockieren eines Absenders geben Sie die e-Mail-Adresse oder Domäne ein, die Sie blockieren möchten, und wählen Sie **Hinzufügen**aus. 
     
-    Zum Aufheben der Blockierung von eines Absenders, wählen Sie das Element in der Liste aus, und wählen Sie **Entfernen**![löschen](media/deb47846-8483-4f9d-813a-fc8fe288b583.png).
+    Wählen Sie zum Aufheben der Blockierung eines Absenders das Element in der Liste aus, und wählen Sie **Entfernen**aus.
     
 4. Wählen Sie **Speichern** aus. 
     
-Weitere Informationen finden Sie unter [Absender blockieren oder Zulassen von Absendern in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873133).
+Weitere Informationen finden Sie unter [Blockieren von Absendern oder Aufheben der Blockierung von Absendern in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873133).
   
 

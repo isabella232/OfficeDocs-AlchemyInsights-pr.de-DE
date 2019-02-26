@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e03a7476-f02d-4c2c-bc55-42cad0ab8622
-ms.openlocfilehash: 0b9022698567a572156201a40271ee46ec01e5fc
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 26e7ecf0d6c2fe5eb94fa2fc10015e45850f955e
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920123"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244724"
 ---
-# <a name="deal-with-spam-or-phishing-scams-in-your-inbox"></a>Umgang mit Spam oder Phishing Betrug in Ihrem Posteingang
+# <a name="deal-with-spam-or-phishing-scams-in-your-inbox"></a>Behandeln von Spam-oder Phishing-Scams in Ihrem Posteingang
 
-Wenn Sie eine e-Mail, die Spam oder Phishing-Betrug aussieht erhalten, können Sie mit der rechten Maustaste die Nachricht melden und markieren **als Junk**. 
+Wenn Sie eine e-Mail erhalten, die wie Spam oder Phishing-Betrug aussieht, können Sie Sie melden, indem Sie mit der rechten Maustaste auf die Nachricht klicken und **als Junk markieren**auswählen. 
   
-Junk-e-Mail-Filter in Outlook.com verbessern, wenn Sie eine Nachricht als Junk markieren. Sie können auch meldet sie als Phishing-Betrug oder Blockieren von der e-Mail-Adressen und Domänen, denen Sie nicht Nachrichten empfangen möchten.
+Die Junk-e-Mail-Filter in Outlook.com verbessern, wenn Sie eine Nachricht als Junk markieren. Sie können es auch als Phishing-Betrug melden oder die e-Mail-Adressen und Domänen blockieren, von denen Sie keine Nachrichten empfangen möchten.
   
-Wenn Sie glauben, Sie haben eine Phishing oder spoofing Betrug erhalten, markieren der Nachricht als Junk-e-Gehe zu Ihrem Ordner Junk-e-Mail- und wählen Sie aus **nicht-spam** \> **Phishing** als Phishing-Betrug markieren. Erfahren Sie mehr dazu, wie Sie [mit der Missbrauch, Phishing oder spoofing](https://go.microsoft.com/fwlink/p/?linkid=873139).
+Wenn Sie glauben, dass Sie einen Phishing-oder Spoofing-betrug erhalten haben, markieren Sie die e-Mail als Junk, wechseln Sie zu Ihrem Junk-e-Mail-Ordner, und wählen Sie **nicht Spam** \> - **Phishing** aus, um Sie als Phishing-Betrüger zu markieren. Erfahren Sie mehr über den [Umgang mit Missbrauch, Phishing oder Spoofing](https://go.microsoft.com/fwlink/p/?linkid=873139).
   
-E-Mail-Adressen zu blockieren, rufen Sie die **Einstellungsseite**![Einstellungen](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Optionen** \> **Blockierte Absender**. Um der Liste sicherer Absender Adressen oder Domänen hinzuzufügen, wählen Sie **sicherer Absender**aus. 
+Um e-Mail-Adressen zu blockieren, wechseln Sie zu **Einstellungen** \> **Optionen** \> **Blockierte Absender**. Um Ihrer Liste sicherer Absenderadressen oder Domänen hinzuzufügen, wählen Sie **sichere Absender**aus. 
   
-Wenn Sie einen Anstieg in Spam angezeigt werden, lesen Sie zum [Schützen von Spam- und Junk-e-Mail aus dem Posteingang](https://go.microsoft.com/fwlink/p/?linkid=873140).
+Wenn Sie eine höhere spamrate erkennen, lesen Sie, wie Sie [Spam-und Junk-e-Mails aus Ihrem Posteingang halten](https://go.microsoft.com/fwlink/p/?linkid=873140)können.
   
 

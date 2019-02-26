@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 6b5f15ba-ced9-4215-8c23-3ec1962a283a
-ms.openlocfilehash: dc862658e261a7feb4464d622f8a6274e0f1b7e9
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0d1426cf7cf55bd4172dd6192e8e9df784d6479d
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941327"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244328"
 ---
-# <a name="reduce-junk-email-in-your-inbox"></a>Junk-e-Mail in Ihrem Posteingang reduzieren
+# <a name="reduce-junk-email-in-your-inbox"></a>Reduzieren von Junk-e-Mails in Ihrem Posteingang
 
-Wenn Sie einen Anstieg in Spam angezeigt werden, lesen Sie zum [Schützen von Spam- und Junk-e-Mail aus dem Posteingang](https://go.microsoft.com/fwlink/p/?linkid=873140).
+Wenn Sie eine höhere spamrate erkennen, lesen Sie, wie Sie [Spam-und Junk-e-Mails aus Ihrem Posteingang halten](https://go.microsoft.com/fwlink/p/?linkid=873140)können.
   
-Wenn Sie eine e-Mail, die Spam aussieht erhalten, können Sie mit der rechten Maustaste die Nachricht melden und markieren **als Junk**. 
+Wenn Sie eine e-Mail erhalten, die wie Spam aussieht, können Sie Sie melden, indem Sie mit der rechten Maustaste auf die Nachricht klicken und **als Junk markieren**auswählen. 
   
-Junk-e-Mail-Filter in Outlook.com verbessern, wenn Sie eine Nachricht als Junk markieren. Sie können auch blockieren, die e-Mail-Adressen und Domänen, denen Sie nicht Nachrichten empfangen möchten.
+Die Junk-e-Mail-Filter in Outlook.com verbessern, wenn Sie eine Nachricht als Junk markieren. Sie können auch die e-Mail-Adressen und Domänen blockieren, von denen Sie keine Nachrichten empfangen möchten.
   
-E-Mail-Adressen zu blockieren, rufen Sie die **Einstellungsseite**![Einstellungen](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Optionen** \> **Blockierte Absender**. Um der Liste sicherer Absender Adressen oder Domänen hinzuzufügen, wählen Sie **sicherer Absender**aus. 
+Um e-Mail-Adressen zu blockieren, wechseln Sie zu **Einstellungen** \> **Optionen** \> **Blockierte Absender**. Um Ihrer Liste sicherer Absenderadressen oder Domänen hinzuzufügen, wählen Sie **sichere Absender**aus. 
   
 

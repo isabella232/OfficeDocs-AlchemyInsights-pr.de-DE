@@ -1,5 +1,5 @@
 ---
-title: 8000046 drucken e-Mails und Kalender in Outlook.com
+title: 8000046 Drucken von e-Mails und Kalendern in Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 40063c6e-2c45-420d-ae63-9eb274b64f5e
-ms.openlocfilehash: 74d0708cb4f6b2d3785cf9fd4225c534ae7e9d52
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 3bd27184cff5341363d3d11e194d64881df44fdd
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936035"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244544"
 ---
-# <a name="print-email-and-calendars-in-outlookcom"></a>Drucken von e-Mails und Kalender in Outlook.com
+# <a name="print-email-and-calendars-in-outlookcom"></a>Drucken von e-Mails und Kalendern in Outlook.com
 
-E-Mail-Nachrichten zu drucken:
+So drucken Sie e-Mail-Nachrichten
   
-1. Wählen Sie die Nachricht, den, die Sie drucken möchten.
+1. Wählen Sie die zu druckende Nachricht aus.
     
-2. Wählen Sie oben auf der Seite ![Weitere Aktionen](media/64993e8a-4a62-43b1-aa05-90f5ad4cba54.png) \> **Drucken**. 
+2. Wählen Sie oben auf der Seite "..." aus. \> **Drucken**. 
     
-Um den Kalender zu drucken, müssen Sie die klassische Outlook.com verwenden. Kalender drucken ist nicht in der Betaversion Outlook.com derzeit verfügbar.
+Sie müssen den klassischen Outlook.com verwenden, um den Kalender zu drucken. Der Kalenderdruck ist derzeit nicht in der Outlook.com-Beta Version verfügbar.
   
-1. Am oberen Rand der Seite stellen Sie sicher, dass die Outlook.com Beta Umschalten auf off gesetzt ist.
+1. Stellen Sie oben auf der Seite sicher, dass die Outlook.com Beta-Umschaltfläche auf aus festgelegt ist.
     
-2. Wählen Sie unten auf der Seite  ![Kalender](media/9e1a821a-c32e-4851-a866-342a39ffdca0.png).
+2. Wählen Sie am unteren Rand der Seite das Kalendersymbol aus.
     
-3. Wählen Sie die Ansicht **Tag**, **Arbeitswoche**, **Woche**oder **Monat** am oberen Rand der Seite. 
+3. Wählen Sie die Ansicht **** **Tag**, Woche, **Woche**oder **Monat** oben auf der Seite aus. 
     
-4. Wählen Sie am oberen Rand der Seite **Drucken**. 
+4. Klicken Sie oben auf der Seite auf **Drucken**. 
     
-Erfahren Sie mehr über das [print e-Mail und Kalender in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001208&amp;clcid=0x409).
+Erfahren Sie mehr über das [Drucken von e-Mails und Kalendern in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001208&amp;clcid=0x409).
   
 

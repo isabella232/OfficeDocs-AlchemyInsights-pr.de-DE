@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: b65125f0-7d6a-42c8-a5d8-a1ce733dddf7
-ms.openlocfilehash: 7b66cfc49df40b326506a089fc29d58e35fb1f5e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 88906b68e22bc21549e92c074ebb053be9b8660b
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29929123"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244472"
 ---
 # <a name="delete-a-contact"></a>Löschen eines Kontakts
 
-1. Wählen Sie am oberen Rand der Seite, die app-Start ![Startprogramm für die App-Schaltfläche. ](media/9634bec0-78d1-4282-8aea-7c5e81f162d2.png) und wählen Sie dann die **Personen**aus. 
+1. Wählen Sie oben auf der Seite das App-Startfeld aus, und wählen Sie dann **Personen**aus. 
     
-2. Wählen Sie den Kontakt zu löschen, und wählen **Löschen**![löschen](media/deb47846-8483-4f9d-813a-fc8fe288b583.png).
+2. Wählen Sie den Kontakt aus, den Sie löschen möchten, und wählen Sie **Löschen**aus.
     
-    Wenn Sie nicht **Löschen**auswählen können, möglicherweise der Kontakt aus Skype oder ein Konto verbundenen für soziale Netzwerke. Um den Kontakt zu löschen, wechseln Sie zur Skype oder das Konto der Kontakt gespeichert ist.
+    Wenn Sie **Löschen**nicht auswählen können, ist der Kontakt möglicherweise von Skype oder einem verbundenen Konto für soziale Netzwerke. Um den Kontakt zu löschen, wechseln Sie zu Skype oder dem Konto, in dem sich der Kontakt befindet.
     
-3. Wählen Sie **Löschen** , um zu bestätigen. 
+3. Wählen Sie **Löschen** aus, um zu bestätigen. 
     
 
