@@ -1,5 +1,5 @@
 ---
-title: 8000001 deaktivieren praxisorientierte Posteingang
+title: 8000001 Deaktivieren des fokussierten Posteingangs
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7d169f0f-828b-4d2a-b60b-ec9297df2c59
-ms.openlocfilehash: a4a4399d1fbf9cf2696c912c6ff51c36390dbb60
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 9d4b55c9a7c955031568b384a1fa89f5478f091b
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906479"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30243896"
 ---
-# <a name="turn-off-focused-inbox"></a><span data-ttu-id="54d53-102">Posteingang praxisorientierte deaktivieren</span><span class="sxs-lookup"><span data-stu-id="54d53-102">Turn off Focused Inbox</span></span>
+# <a name="turn-off-focused-inbox"></a><span data-ttu-id="e7b64-102">Deaktivieren des fokussierten Posteingangs</span><span class="sxs-lookup"><span data-stu-id="e7b64-102">Turn off Focused Inbox</span></span>
 
-1. <span data-ttu-id="54d53-103">Wählen Sie **Einstellungen**![Einstellungen](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **praxisorientierte Posteingang**.</span><span class="sxs-lookup"><span data-stu-id="54d53-103">Select **Settings**![Settings](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Focused Inbox**.</span></span>
+1. <span data-ttu-id="e7b64-103">Wählen Sie **Einstellungen** \> **fokussierter Posteingang**aus.  </span><span class="sxs-lookup"><span data-stu-id="e7b64-103">Select **Settings**  \> **Focused Inbox**.</span></span>
     
-2. <span data-ttu-id="54d53-104">Wählen Sie unter **bei Eintreten des e-Mail-** **Nachrichten nicht sortiert**.</span><span class="sxs-lookup"><span data-stu-id="54d53-104">Under **When email is received**, select **Don't sort messages**.</span></span>
+2. <span data-ttu-id="e7b64-104">Wählen Sie unter **beim Empfangen von e-Mails die**Option **keine Nachrichten sortieren**aus.</span><span class="sxs-lookup"><span data-stu-id="e7b64-104">Under **When email is received**, select **Don't sort messages**.</span></span>
     
-3. <span data-ttu-id="54d53-105">Wählen Sie **OK** aus.</span><span class="sxs-lookup"><span data-stu-id="54d53-105">Select **OK**.</span></span>
+3. <span data-ttu-id="e7b64-105">Wählen Sie **OK** aus.</span><span class="sxs-lookup"><span data-stu-id="e7b64-105">Select **OK**.</span></span>
     
-<span data-ttu-id="54d53-106">Finden Sie weitere Informationen finden Sie unter [Praxisorientierte Posteingang für Outlook](https://go.microsoft.com/fwlink/p/?linkid=873108).</span><span class="sxs-lookup"><span data-stu-id="54d53-106">To learn more, see [Focused Inbox for Outlook](https://go.microsoft.com/fwlink/p/?linkid=873108).</span></span>
+<span data-ttu-id="e7b64-106">Weitere Informationen finden Sie unter [Focused inbox for Outlook](https://go.microsoft.com/fwlink/p/?linkid=873108).</span><span class="sxs-lookup"><span data-stu-id="e7b64-106">To learn more, see [Focused Inbox for Outlook](https://go.microsoft.com/fwlink/p/?linkid=873108).</span></span>
   
 

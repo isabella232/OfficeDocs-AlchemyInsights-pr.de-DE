@@ -1,5 +1,5 @@
 ---
-title: Anfügen von Dateien in Outlook.com 8000052
+title: 8000052 Anfügen von Dateien in Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f6d43c80-cfca-4898-9567-746177cfadc4
-ms.openlocfilehash: e3f1b2692af4d70167133c7a4f913338e491d242
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e6709cc7b29922b3af919ed1a813cdd701d4a424
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941003"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244292"
 ---
-# <a name="how-to-attach-files"></a><span data-ttu-id="cd014-102">Gewusst wie: Anhängen von Dateien</span><span class="sxs-lookup"><span data-stu-id="cd014-102">How to attach files</span></span>
+# <a name="how-to-attach-files"></a><span data-ttu-id="3377d-102">Anhängen von Dateien</span><span class="sxs-lookup"><span data-stu-id="3377d-102">How to attach files</span></span>
 
-<span data-ttu-id="cd014-103">So fügen Sie Dateien im klassischen Outlook.com an:</span><span class="sxs-lookup"><span data-stu-id="cd014-103">To attach files in classic Outlook.com:</span></span>
+<span data-ttu-id="3377d-103">So fügen Sie Dateien in klassischer Outlook.com an:</span><span class="sxs-lookup"><span data-stu-id="3377d-103">To attach files in classic Outlook.com:</span></span>
   
-1. <span data-ttu-id="cd014-104">Erstellen Sie eine neue Nachricht oder eine Antwort auf eine Nachricht ein.</span><span class="sxs-lookup"><span data-stu-id="cd014-104">Compose a new message or reply to a message.</span></span>
+1. <span data-ttu-id="3377d-104">VerFassen einer neuen Nachricht oder Antworten auf eine Nachricht.</span><span class="sxs-lookup"><span data-stu-id="3377d-104">Compose a new message or reply to a message.</span></span>
     
-2. <span data-ttu-id="cd014-105">Wählen Sie am oberen Rand des Bereichs zum Verfassen **Anfügen**aus.</span><span class="sxs-lookup"><span data-stu-id="cd014-105">At the top of the compose pane, select **Attach**.</span></span> 
+2. <span data-ttu-id="3377d-105">Wählen Sie oben im Bereich verfassen die Option **Anfügen**aus.</span><span class="sxs-lookup"><span data-stu-id="3377d-105">At the top of the compose pane, select **Attach**.</span></span> 
     
-<span data-ttu-id="cd014-106">So fügen Sie Dateien in der Betaversion Outlook.com an:</span><span class="sxs-lookup"><span data-stu-id="cd014-106">To attach files in the Outlook.com beta:</span></span>
+<span data-ttu-id="3377d-106">So fügen Sie Dateien in der Outlook.com-Beta an:</span><span class="sxs-lookup"><span data-stu-id="3377d-106">To attach files in the Outlook.com beta:</span></span>
   
-1. <span data-ttu-id="cd014-107">Erstellen Sie eine neue Nachricht oder eine Antwort auf eine Nachricht ein.</span><span class="sxs-lookup"><span data-stu-id="cd014-107">Compose a new message or reply to a message.</span></span>
+1. <span data-ttu-id="3377d-107">VerFassen einer neuen Nachricht oder Antworten auf eine Nachricht.</span><span class="sxs-lookup"><span data-stu-id="3377d-107">Compose a new message or reply to a message.</span></span>
     
-2. <span data-ttu-id="cd014-108">Wählen Sie am unteren Rand des Bereichs zum Verfassen</span><span class="sxs-lookup"><span data-stu-id="cd014-108">At the bottom of the compose pane, select</span></span> ![Anfügen](media/da223d01-5fe6-448c-a3a3-e2b5262da4b9.png)<span data-ttu-id="cd014-110">.</span><span class="sxs-lookup"><span data-stu-id="cd014-110"></span></span>
+2. <span data-ttu-id="3377d-108">Wählen Sie unten im Bereich verfassen das Symbol Büroklammer aus.</span><span class="sxs-lookup"><span data-stu-id="3377d-108">At the bottom of the compose pane, select the paperclip icon.</span></span>
     
-<span data-ttu-id="cd014-111">Erfahren Sie mehr dazu, [wie Sie Dateien in Outlook.com an](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="cd014-111">Learn more about [how to attach files in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span></span>
+<span data-ttu-id="3377d-109">Erfahren Sie mehr über [das Anfügen von Dateien in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="3377d-109">Learn more about [how to attach files in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span></span>
   
 
