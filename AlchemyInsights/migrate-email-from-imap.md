@@ -1,26 +1,26 @@
 ---
-title: Migrieren von e-Mail von IMAP
+title: Migrieren von e-Mails von IMAP
 ms.author: pebaum
 author: pebaum
 ms.date: 5/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.assetid: 1d51fc10-cb67-4afa-a597-aef8dc90b9f8
-ms.openlocfilehash: 470a504498f1f62a774a404f136f306b4cd1e93f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 075c0aef5ce46fdd25926cee7aaf1a45794423b6
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911267"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30404890"
 ---
-# <a name="when-you-get-a-not-an-accepted-domain-error"></a>Wenn Sie erhalten eine "keine akzeptierte Domäne" Fehler
+# <a name="when-you-get-a-not-an-accepted-domain-error"></a>Wenn Sie einen Fehler "keine akzeptierte Domäne" erhalten
 
-Beim Versuch, eine e-Mail-Adresse oder während der Migration von Postfächern der Benutzer oder einer Gruppe hinzufügen, möglicherweise werden erhalten Sie die folgende Fehlermeldung: **die Domäne kann nicht verwendet werden, da es eine akzeptierte Domäne für Exchange-System nicht noch ist.**
+Wenn Sie versuchen, eine e-Mail-Adresse für den Benutzer oder eine Gruppe oder während der Migration von Postfächern hinzuzufügen, erhalten Sie möglicherweise die folgende Fehlermeldung: **Sie können die Domäne nicht verwenden, da es sich dabei nicht um eine akzeptierte Domäne für das Exchange-System handelt.**
   
-In den meisten Fällen wird dieser Fehler ein Ergebnis des Domänennamens * (beispielsweise "contoso.com") * nicht wird vollständig eingerichtet für Ihre Organisation. 
+In den meisten Fällen ist dieser Fehler ein Ergebnis des Domänennamens * (wie contoso.com) *, der nicht vollständig für Ihre Organisation eingerichtet wurde. 
   
-Stellen Sie sicher, dass die Domäne Setup vollständig ist, gemäß die Anweisungen in [einer Domäne zu Office 365 hinzufügen](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
+Stellen Sie sicher, dass die Domäne vollständig eingerichtet ist, indem Sie die Anweisungen unter [Hinzufügen einer Domäne zu Office 365](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611)ausführen.
   
 

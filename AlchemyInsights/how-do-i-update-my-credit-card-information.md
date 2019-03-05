@@ -7,22 +7,22 @@ ms.date: 2/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: ae1634d9ff33c8c50574842b9bc689582db496dd
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 81bb27d7e09a528e07162298ff4f98b75c2dd41a
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917675"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30405178"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Wie aktualisiere ich meine Kreditkarteninformationen?
 
 1. Wechseln Sie im Admin Center zur Seite [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), oder wählen Sie **Abrechnung** \> **Abonnements** aus.
     
-2. Wählen Sie das Abonnement, das Sie gekauft haben, mit dem Kreditkarte oder Bankkonto, die Sie aktualisieren und anschließend auf **Zahlungsdetails aktualisieren**möchten.
+2. Wählen Sie das Abonnement aus, das Sie mit der Kreditkarte oder dem Bankkonto erworben haben, das Sie aktualisieren möchten, und klicken Sie dann auf **Zahlungsdetails aktualisieren**.
     
 3. Wählen Sie den Dropdownpfeil unter **Zahlungsmethode hinzufügen oder auswählen**, anschließend die zu aktualisierende Kreditkarte bzw. das Bankkonto und dann **Details bearbeiten** aus.
     
@@ -30,6 +30,6 @@ ms.locfileid: "29917675"
     
 5. Daraufhin sollte eine Bestätigungsmeldung angezeigt werden.
     
-Weitere Informationen finden Sie unter [Problembehandlung Kreditkarte und Konten](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Weitere Informationen finden Sie unter [Problembehandlung bei Kreditkarten und Bankkonten](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
   
 

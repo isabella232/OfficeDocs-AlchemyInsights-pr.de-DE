@@ -1,23 +1,23 @@
 ---
-title: Die Domäne wird bereits verwendet
+title: Die Domäne wird bereits verwendet.
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/8/2017
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.assetid: 3b01008b-f57d-4a82-837c-d22a0ac6a294
-ms.openlocfilehash: 18b1c7b76bd0c86ca48d7eb526990944c1ece80e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 8b6bb50164bb48b955d6cc4873c547232efe1527
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940427"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30405394"
 ---
-# <a name="the-domain-is-already-in-use"></a>Die Domäne wird bereits verwendet
+# <a name="the-domain-is-already-in-use"></a>Die Domäne wird bereits verwendet.
 
-Die Domäne hinzuzufügen, bereits gesuchten gehört zu einer anderen Organisation. Bevor Sie es auf diese Organisation hinzufügen können, müssen Sie zuerst die Domäne aus der Organisation entfernen. Die unten aufgeführten Artikel führt Sie durch die Prozesse.
+Die Domäne, die Sie hinzufügen möchten, gehört bereits zu einer anderen Organisation. Sie müssen zuerst die Domäne aus dieser Organisation entfernen, bevor Sie Sie dieser Organisation hinzufügen können. Die folgenden Artikel führen Sie durch diese Prozesse.
   
 - [Entfernen einer Domäne aus Office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
     

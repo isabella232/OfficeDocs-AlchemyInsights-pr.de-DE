@@ -9,19 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8cae0e22-0dfc-4575-9f62-041aacbd9da9
-ms.openlocfilehash: 251ffb13eb2c0042b9c077acc8845f89c06ab2d7
-ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
+ms.openlocfilehash: 6dd7096dbedb4db5064e5c548956de562fad979a
+ms.sourcegitcommit: b1fef941ee5c1392a6b05f6f1ba92080b99d8589
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "30243968"
+ms.lasthandoff: 03/04/2019
+ms.locfileid: "30376035"
 ---
 # <a name="read-receipts-in-outlookcom"></a>Lesebestätigungen in Outlook.com
 
 Sie können keine Lesebestätigung in Outlook.com anfordern, aber Sie k? nnen Lesebestätigungen für Outlook.com-Nachrichten anfordern, die mit Outlook für Windows gesendet werden. Weitere Informationen hierzu finden Sie unter [Hinzufügen und Anfordern von Lesebestätigungen und Zustellungsbenachrichtigungen](https://go.microsoft.com/fwlink/p/?linkid=874355).
   
-um auszuwählen, wie Outlook.com auf lese bestätigungsanforderungen antwortet, wechseln sie zu **einstellungen** \> **optionen** \> **e-Mail-** \> **automatische verarbeitung** \> **lesebestätigungen**. 
-  
-Wählen Sie in der Outlook.com-Beta **Einstellungen** aus, und suchen Sie nach **Lesebestätigungen**. 
-  
-
+um auszuwählen, wie Outlook.com auf lese bestätigungsanforderungen antwortet, wechseln sie zu einstellungen für die [nachrichtenverarbeitung](https://go.microsoft.com/fwlink/?linkid=2080838) (**einstellungen** > **alle Outlook-einstellungen** > für die**nachrichtenverarbeitung**anzeigen).
