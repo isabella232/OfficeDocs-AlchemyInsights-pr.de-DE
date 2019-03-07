@@ -1,5 +1,5 @@
 ---
-title: Microsoft-Teams - Wiederherstellen einer gelöschten Teamwebsite
+title: Microsoft Teams – Wiederherstellen einer gelöschten Team Website
 ms.author: heidip
 author: microsoftheidi
 ms.date: 6/8/2018
@@ -8,17 +8,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b26be13f-7b8f-4393-9083-2b4d97b6cd80
-ms.openlocfilehash: 1382cb840a768afac42ac5a521ee44ef380341a5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: fb1b75df37b38635ba101b1f2cd9f678e631a7f9
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29930715"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468518"
 ---
-# <a name="restoring-a-deleted-team-site"></a>Wiederherstellen einer gelöschten Teamwebsite
+# <a name="restoring-a-deleted-team-site"></a>Wiederherstellen einer gelöschten Team Website
 
-Löschen Sie als Besitzer Team, versehentlich ein Team? Dies geschieht, aber Sie können weiterhin aufgerufen werden.
-  
-Führen Sie zum Wiederherstellen eines gelöschten Teams für Microsoft-Teams, die der folgenden Schritte: [Wiederherstellen eines gelöschten Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)
+Haben Sie ein Team versehentlich gelöscht? Wenn es weniger als 30 Tage her ist, seit Sie das Team gelöscht haben, haben Sie Glück; Sie können es wiederherstellen. Führen Sie dazu die folgenden Schritte aus: [Wiederherstellen eines gelöschten Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)
   
 
