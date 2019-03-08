@@ -1,5 +1,5 @@
 ---
-title: Wiederherstellen gelöschter Benutzer
+title: Wiederherstellen eines gelöschten Benutzers
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: c2d6117c0cbb84a2812179ce4af35a5382359b82
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 02930690acf5abea6673123f2f95631280faaeae
+ms.sourcegitcommit: ed5d2fdfd9e2622e3cce192a80402f32d3a8ca78
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936179"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30475453"
 ---
-# <a name="restore-a-user-in-office-365"></a><span data-ttu-id="ec2ab-102">Wiederherstellen eines Benutzers in Office 365</span><span class="sxs-lookup"><span data-stu-id="ec2ab-102">Restore a user in Office 365</span></span>
+# <a name="restore-a-user-in-office-365"></a><span data-ttu-id="d1646-102">Wiederherstellen eines Benutzers in Office 365</span><span class="sxs-lookup"><span data-stu-id="d1646-102">Restore a user in Office 365</span></span>
 
-<span data-ttu-id="ec2ab-103">Wiederherstellen eines Benutzers in Office 365 mit der folgenden Schritte aus:</span><span class="sxs-lookup"><span data-stu-id="ec2ab-103">Restore a user in Office 365 using these steps:</span></span>
+<span data-ttu-id="d1646-103">Wiederherstellen eines Benutzers in Office 365 mit den folgenden Schritten:</span><span class="sxs-lookup"><span data-stu-id="d1646-103">Restore a user in Office 365 using these steps:</span></span>
   
-1. <span data-ttu-id="ec2ab-104">Wechseln Sie zu [Benutzer \> Benutzer gelöscht](https://admin.microsoft.com/adminportal/home#/deletedusers).</span><span class="sxs-lookup"><span data-stu-id="ec2ab-104">Go to [Users \> Deleted users](https://admin.microsoft.com/adminportal/home#/deletedusers).</span></span>
+1. <span data-ttu-id="d1646-104">Wechseln Sie [zu \> gelöschte](https://admin.microsoft.com/adminportal/home#/deletedusers)Benutzer Benutzer.</span><span class="sxs-lookup"><span data-stu-id="d1646-104">Go to [Users \> Deleted users](https://admin.microsoft.com/adminportal/home#/deletedusers).</span></span>
     
-2. <span data-ttu-id="ec2ab-105">Wählen Sie den Benutzer, und wählen Sie dann **Wiederherstellen**.</span><span class="sxs-lookup"><span data-stu-id="ec2ab-105">Choose the user, then select **Restore**.</span></span>
+2. <span data-ttu-id="d1646-105">Wählen Sie den Benutzer aus, und wählen Sie dann **Wiederherstellen**aus.</span><span class="sxs-lookup"><span data-stu-id="d1646-105">Choose the user, then select **Restore**.</span></span>
     
-3. <span data-ttu-id="ec2ab-106">Befolgen Sie die Anweisungen zum Festlegen Ihres Kennworts.</span><span class="sxs-lookup"><span data-stu-id="ec2ab-106">Follow the prompts to set the password.</span></span>
+3. <span data-ttu-id="d1646-106">Befolgen Sie die Anweisungen zum Festlegen Ihres Kennworts.</span><span class="sxs-lookup"><span data-stu-id="d1646-106">Follow the prompts to set the password.</span></span>
     
-4. <span data-ttu-id="ec2ab-107">Klicken Sie auf **e-Mail senden, und schließen**, und Sie fertig sind.</span><span class="sxs-lookup"><span data-stu-id="ec2ab-107">Click **Send email and close**, and you're done!</span></span>
+4. <span data-ttu-id="d1646-107">Klicken Sie auf **E-Mail senden und beenden**, und Sie sind fertig!</span><span class="sxs-lookup"><span data-stu-id="d1646-107">Click **Send email and close**, and you're done!</span></span>
     
-<span data-ttu-id="ec2ab-p101">War nicht so einfach? Weitere Informationen und Schritte mit Screenshots Auschecken in diesem Artikel: [Wiederherstellen eines Benutzers in Office 365](https://support.office.com/article/Restore-a-user-in-Office-365-2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx)</span><span class="sxs-lookup"><span data-stu-id="ec2ab-p101">Wasn't that easy? For more details and steps with screen shots, check out this article: [Restore a user in Office 365](https://support.office.com/article/Restore-a-user-in-Office-365-2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx)</span></span>
-  
 
+<span data-ttu-id="d1646-108">War das nicht so einfach?</span><span class="sxs-lookup"><span data-stu-id="d1646-108">Wasn't that easy?</span></span> <span data-ttu-id="d1646-109">Weitere Informationen und Schritte mit Screenshots finden Sie in diesem Artikel: [Wiederherstellen eines Benutzers in Office 365](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx).</span><span class="sxs-lookup"><span data-stu-id="d1646-109">For more details and steps with screen shots, check out this article: [Restore a user in Office 365](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx).</span></span> <span data-ttu-id="d1646-110">Wenn Sie erkennen, dass Sie stattdessen das Postfach des Benutzers wiederherstellen müssen, finden Sie weitere Informationen unter: [Löschen oder Wiederherstellen von Benutzerpostfächern in Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="d1646-110">If you realize you instead need to restore user's mailbox, see: [Delete or restore user mailboxes in Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).</span></span>
