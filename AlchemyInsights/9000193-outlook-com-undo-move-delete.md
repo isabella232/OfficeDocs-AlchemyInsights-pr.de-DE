@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
-ms.openlocfilehash: cdac247b0a60af9d74481dfffba9b06c07c837e3
-ms.sourcegitcommit: e3df67530bd5205410acf5beba4a07acab9692f0
+ms.openlocfilehash: 566a12c192e117401a9d49486b468b0f4af93d5c
+ms.sourcegitcommit: 53ac59b8afb80cac084eeeec9d2f65591ebcb232
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30347550"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "30701498"
 ---
 # <a name="action-confirmations"></a>Aktions Bestätigungen
 
-Mit der Aktion Bestätigungsfunktion in Outlook.com können Sie eine Verschiebung oder einen Nachrichten Löschvorgang rückgängig machen, die Sie gerade versehentlich durchgeführt haben. Das Dialogfeld rückgängig wird am unteren Rand des Bildschirms ca. 5 Sekunden lang angezeigt, und die Aktion verschieben oder Nachricht löschen wird storniert.
+Mit dem Feature Aktion-Bestätigungen in Outlook.com können Sie ein verschieben oder Löschen von Nachrichten rückgängig machen, die Sie gerade versehentlich vorgenommen haben. Das Dialogfeld rückgängig wird am unteren Rand des Bildschirms ungefähr 5 Sekunden lang angezeigt, und die Aktion verschieben oder löschen wird storniert.
 
-Sie können dies unter **Einstellungen** > **Allgemeine** > **Benachrichtigungen** > -**[Aktions Bestätigungen](https://outlook.live.com/mail/options/general/notifications)** deaktivieren.
+Sie können diese Einstellung in**** [Aktions Bestätigungen](https://outlook.live.com/mail/options/general/notifications) deaktivieren (**Einstellungen** > **alle allgemeinen** > **** > Outlook-Einstellungen anzeigen).
 
-Hinweis: das Senden von Nachrichten kann nicht rückgängig gemacht werden. Weitere Informationen finden Sie unter [Ich möchte eine Nachricht in Outlook.com abrufen](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a) .
+Hinweis: das Senden von Nachrichten kann nicht rückgängig gemacht werden. Weitere Informationen finden Sie unter [Ich möchte eine Nachricht in Outlook.com abrufen](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a).
