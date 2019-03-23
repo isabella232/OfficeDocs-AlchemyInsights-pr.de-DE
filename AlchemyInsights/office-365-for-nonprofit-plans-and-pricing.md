@@ -1,5 +1,5 @@
 ---
-title: Office 365 für gemeinnützige Pläne und zu Preisen
+title: Office 365 für gemeinnützige Pläne und Preise
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: 84a51e2bb3da804ac1bcc3c7cb8f0efb1fbf58fe
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cfe62608a50d634616fc9f57461eda1b401110f1
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920555"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757457"
 ---
-# <a name="office-365-for-nonprofit-plans-and-pricing"></a>Office 365 für gemeinnützige Pläne und zu Preisen
+# <a name="office-365-for-nonprofit-plans-and-pricing"></a>Office 365 für gemeinnützige Pläne und Preise
 
-Qualifizierte gemeinnützige Organisationen können Office 365 gemeinnützige als eine Spenden empfangen oder Durchführen eines Upgrades auf Erweiterte Funktionen mit einem erhebliche Rabatt. Für die Verwendung für einen Office 365 gemeinnützige Plan müssen Sie in Ihrem Land und Signieren Microsoft Nichtdiskriminierung Richtlinie [erkannt gemeinnützige Status](https://go.microsoft.com/fwlink/p/?LinkID=330253) halten. Microsoft behält sich das Recht, Überprüfen der Berechtigung können Sie jederzeit und an den Dienst für Organisationen, die angehalten werden soll. 
+Qualifizierte gemeinnützige Organisationen können Office 365 Nonprofit als Spende oder ein Upgrade auf Erweiterte Funktionen mit einem erheblichen Rabatt erhalten. Um für einen gemeinnützigen Office 365-Plan zu qualifizieren, müssen Sie den erkannten [gemeinnützigen Status](https://go.microsoft.com/fwlink/p/?LinkID=330253) in Ihrem Land halten und die nicht Diskriminierungs Richtlinie von Microsoft unterzeichnen. Microsoft behält sich das Recht vor, die Berechtigung jederzeit zu überprüfen und den Dienst für nicht berechtigte Organisationen auszusetzen. 
   
-Finden Sie unter [häufig gestellte Fragen zu](https://products.office.com/nonprofit/office-365-nonprofit) für zusätzliche Fragen zu diesem Angebot. 
+Weitere Fragen zu diesem Angebot finden Sie in der [FAQ](https://products.office.com/nonprofit/office-365-nonprofit) . 
   
-- [Überprüfen Sie die gemeinnützige Pläne](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
+- [Überarbeiten der gemeinnützigen Pläne](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
     
-- [Vergleichen Sie alle Office 365-Pläne](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Vergleichen aller Office 365-Pläne](https://products.office.com/business/compare-more-office-365-for-business-plans)
     
 

@@ -1,5 +1,5 @@
 ---
-title: Steuerelement-erstellen von Gruppen
+title: Steuern der Erstellung von Gruppen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,17 +10,17 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 29ccda0d9f24928adef47c7e5362ce94d7998070
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 134361cc92b86ab13a5cd3443b6fabe2df3b83bb
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29933551"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753317"
 ---
-# <a name="control-creation-of-o365-groups"></a>Steuerelement-Erstellung von O365-Gruppen
+# <a name="control-creation-of-o365-groups"></a>Steuern der Erstellung von O365-Gruppen
 
-Standardmäßig können alle Benutzer innerhalb des Unternehmens O365 Gruppen zu erstellen. Falls erforderlich, können Sie diese ändern, und weisen Sie das Recht, O365-Gruppen einen Satz von Personen innerhalb Ihres Unternehmens zu erstellen. Beachten Sie, dass dies Auswirkungen auf die Erstellung von Gruppen aus keinen O365-Dienst (wie Outlook, Teams, Planer und usw.) haben wird.
+Standardmäßig können alle Benutzer innerhalb des Unternehmens O365-Gruppen erstellen. Falls erforderlich, können Sie dies ändern und dem Benutzer in Ihrem Unternehmen das Recht zum Erstellen von O365-Gruppen zuweisen. Beachten Sie, dass sich dies auf die Erstellung von Gruppen aus einem beliebigen O365-Dienst auswirkt (beispielsweise Outlook, Teams, Planner usw.).
   
-Anleitung: [Benutzer, Office 365 Gruppen erstellen können verwalten](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)
+Anleitung: [Verwalten der Benutzer, die Office 365-Gruppen erstellen können](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)

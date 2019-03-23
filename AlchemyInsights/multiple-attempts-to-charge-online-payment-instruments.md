@@ -1,5 +1,5 @@
 ---
-title: Mehrere Versuche, die online-Zahlungsinstrumente berechnen
+title: Mehrere Versuche, Online-Zahlungsinstrumente zu berechnen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: e81f13c958d6a49eb038cc1595f346326288f722
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 5d9acc81b18bc8f71efa5f8aea00bbb008672efc
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918791"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755657"
 ---
-# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Mehrere Versuche, die online-Zahlungsinstrumente berechnen
+# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Mehrere Versuche, Online-Zahlungsinstrumente zu berechnen
 
-Wir stellen Sie mehrere Versuche, die online-Zahlungsinstrumente zu berechnen, bevor Sie eine Aktion für den Dienst. Nach einer Zahlung Methode ausgewählt ist, alle überfällige Beträge müssen mit der ausgewählten Zahlungsmethode bezahlt werden. Um die aktuellen Zahlungsinformationen für Ihr Abonnement zu aktualisieren, folgen Sie den Schritten [Hinzufügen, aktualisieren oder Entfernen einer Kreditkarte oder Bankkonto in Office 365 für Unternehmen](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Es wird mehrfach versucht, Online-Zahlungsinstrumente zu berechnen, bevor eine Aktion für den Dienst ausgeführt wird. Nachdem eine Zahlungsmethode ausgewählt wurde, müssen alle überfälligen Beträge mit der ausgewählten Zahlungsmethode bezahlt werden. Wenn Sie die aktuellen Zahlungsinformationen für Ihr Abonnement aktualisieren möchten, führen Sie die Schritte unter [hinzufügen, aktualisieren oder Entfernen einer Kreditkarte oder eines Bankkontos in Office 365 for Business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724)aus.
   
 

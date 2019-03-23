@@ -1,5 +1,5 @@
 ---
-title: Melden Sie sich wiederholte _vti_rpc öffnen
+title: Wiederholtes anmelden zum Öffnen von _vti_rpc
 ms.author: dludwig
 author: dludwig
 manager: jecon
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 1fb88cca-5dd4-4167-8783-13646082cfa0
-ms.openlocfilehash: cf0f9349ad3071f40bb3e9814ec62e68ec414376
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 7ec0bb975ac5600e3d79588b09a93a36a92b8e75
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936071"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755837"
 ---
-# <a name="repeated-login-to-open-vtirpc"></a>Melden Sie sich wiederholte _vti_rpc öffnen
+# <a name="repeated-login-to-open-vtirpc"></a>Wiederholtes anmelden zum Öffnen von _vti_rpc
 
-Wenn OneDrive-Dateien mithilfe von Office 2016 arbeiten, können Sie die Meldung angezeigt: "Teilen Sie uns das Konto, das Sie zum Öffnen der _vti_rpc verwenden möchten." In Version 1708 (16.0.8431.2094) wurde dieses Problem behoben. Um dieses Problem zu beheben, aktualisieren Sie auf die neueste Version von Office. Wählen Sie **Datei** \> **Konto** \> **Optionen aktualisieren** \> **Jetzt aktualisieren**.
+Wenn Sie an OneDrive-Dateien mit Office 2016 arbeiten, wird möglicherweise die Meldung "teilen Sie uns das Konto, das Sie zum Öffnen von _vti_rpc verwenden möchten" angezeigt. Dieses Problem wurde in Version 1708 (16.0.8431.2094) behoben. Um dieses Problem zu beheben, aktualisieren Sie auf die neueste Version von Office. Wählen **** \> Sie Update **** Optionen \> für Datei **Konten** \> **Jetzt aktualisieren**aus.
   
 

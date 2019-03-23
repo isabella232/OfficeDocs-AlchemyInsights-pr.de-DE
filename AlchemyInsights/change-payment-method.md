@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 28ee3f903eee3592d33aa82a93869f74f0260ba0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: f35f40a8e9016f4975e93b0e3f0bb8c465db9386
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940464"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30756701"
 ---
 # <a name="change-payment-method"></a>Ändern der Zahlungsmethode
 
-Sie können überprüfen, ob die Zahlungsmethode, der konfiguriert ist, indem Sie auf **Abrechnung** \> **Abonnements**. Wählen Sie das Abonnement, das Sie überprüfen möchten. Die Zahlungsmethode, die so konfiguriert ist, für das Abonnement unter **Payment Method**wird angezeigt. Wählen Sie zum Aktualisieren von Details der vorhandenen Zahlungsmethode **Zahlungsdetails zu aktualisieren**.
+Sie können die Zahlungsmethode, die konfiguriert ist, überprüfen, indem Sie auf **Abrechnungs** \> **Abonnements**gehen. Wählen Sie das Abonnement aus, das Sie überprüfen möchten. Die für das Abonnement konfigurierte Zahlungsmethode wird unter **Zahlungsmethode**angezeigt. Zum Aktualisieren der Details der vorhandenen Zahlungsmethode wählen Sie **Zahlungsdetails aktualisieren**aus.
   
 1. Wechseln Sie im Admin Center zur Seite [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), oder wählen Sie **Abrechnung** \> **Abonnements** aus.
     
-2. Wählen Sie das Abonnement, das Sie ändern die Zahlungsmethode für, und wählen **Payment Method ändern**möchten.
+2. Wählen Sie das Abonnement aus, für das Sie die Zahlungsmethode ändern möchten, und wählen Sie dann **Zahlungsmethode ändern**aus.
     
-3. Führen Sie die Schritte auf dem Bildschirm, um die Änderung abzuschließen.
+3. Führen Sie die Schritte auf dem Bildschirm aus, um die Änderung abzuschließen.
     
-Schritt-für-Schritt-Anleitung finden Sie unter: [Ändern Sie die Zahlungsmethode für Office 365 für Unternehmen](https://support.office.com/article/8652f539-3123-4a8f-b9bd-6aa2f0e0372d)
+Eine Schritt-für-Schritt-Anleitung finden Sie unter: [Ändern der Zahlungsmethode für Office 365 for Business](https://support.office.com/article/8652f539-3123-4a8f-b9bd-6aa2f0e0372d)
   
 

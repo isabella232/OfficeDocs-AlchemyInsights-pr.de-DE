@@ -1,5 +1,5 @@
 ---
-title: Löschen der Websitesammlung
+title: Websitesammlung löschen
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 48710191-b17d-4560-b356-b351371d4d73
-ms.openlocfilehash: 5b41278be56dccc714ba23f38c206a580cd80800
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 04edde4c22c9ab465cbcff4cb08d8f5965943fad
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940103"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757529"
 ---
 # <a name="delete-a-sharepoint-site-collection"></a>Löschen einer SharePoint-Websitesammlung
 
-1. Wählen Sie das Kontrollkästchen neben der Websitesammlung im klassischen SharePoint Administrationscenter, klicken Sie auf der Seite Site Collections.
+1. Aktivieren Sie im klassischen SharePoint Admin Center auf der Seite Websitesammlungen das Kontrollkästchen neben der Websitesammlung.
     
-2. Wählen Sie auf der Registerkarte Websitesammlungen **Löschen**.
+2. Klicken Sie auf der Registerkarte Websitesammlungen auf **Löschen**.
     
 

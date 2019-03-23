@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
-ms.openlocfilehash: 33ca4e4b31729a1a11cee3d1359cd75286cb1b6a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 93dc59ce44dab51281f0480fe0f401ca22e1f519
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29937187"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754897"
 ---
 # <a name="restore-a-deleted-file-or-folder"></a>Wiederherstellen einer gelöschten Datei oder eines Ordners
 
-1. Wechseln Sie zu der SharePoint-Website oder OneDrive.
+1. Wechseln Sie zur SharePoint-Website oder OneDrive.
     
-2. Klicken Sie im linken Bereich auf **Papierkorb** . Wenn Sie Recycle Bin sehen, klicken Sie auf das Symbol Einstellungen, und klicken Sie dann auf **Websiteinhalt**. Der Papierkorb ist ganz rechts auf der Befehlsleiste im oberen Bereich auf.
+2. Klicken Sie im linken Bereich auf **Papierkorb** . Wenn der Papierkorb nicht angezeigt wird, klicken Sie auf das Symbol "Einstellungen", und klicken Sie dann auf **Websiteinhalt**. Der Papierkorb befindet sich ganz rechts auf der Befehlsleiste oben.
     
-3. Klicken Sie auf der linken Seite der Elemente, die Sie wiederherstellen möchten.
+3. Klicken Sie links neben den Elementen, die Sie wiederherstellen möchten.
     
 4. Klicken Sie auf **Wiederherstellen**.
     
-Gelöschte Elemente werden für 93 Tage beibehalten. Wenn Sie das Element nicht wird, die, das Sie benötigen angezeigt, kann es aus dieser Papierkorb gelöscht und wurden in den Papierkorb der Websitesammlung verschoben. Um zu überprüfen, klicken Sie auf den Link **im endgültigen Papierkorb** am unteren Rand des Papierkorbs. 
+Gelöschte Elemente werden für 93 Tage aufbewahrt. Wenn das gesuchte Element nicht angezeigt wird, wurde es möglicherweise aus diesem Papierkorb gelöscht und in den Papierkorb der Websitesammlung verschoben. Klicken Sie zum Überprüfen auf den Link für den **endgültigen Papierkorb** am unteren Rand des Papierkorbs. 
   
-Wenn Sie noch nicht nach dem Element suchen können können Sie das Überwachungsprotokoll suchen, wenn die Protokollierung aktiviert ist. [Suchen Sie das Überwachungsprotokoll in die Office 365-Sicherheit &amp; Compliance Center](https://support.office.com/article/0d4d0f35-390b-4518-800e-0c7ec95e946c.aspx)
+Wenn das Element weiterhin nicht gefunden werden kann, können Sie das Überwachungsprotokoll durchsuchen, wenn die Protokollierung aktiviert ist. [Durchsuchen des Überwachungsprotokolls im Office 365 Security &amp; Compliance Center](https://support.office.com/article/0d4d0f35-390b-4518-800e-0c7ec95e946c.aspx)
   
 

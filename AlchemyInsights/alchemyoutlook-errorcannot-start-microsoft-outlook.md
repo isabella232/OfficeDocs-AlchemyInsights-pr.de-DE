@@ -1,5 +1,5 @@
 ---
-title: Alchemy - 'kann nicht Outlook Fehler beim Starten von Microsoft Outlook'
+title: Alchemy-Outlook-Fehler "Microsoft Outlook kann nicht gestartet werden"
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ebdbdce7-6366-4dc0-84e0-54dacb938680
-ms.openlocfilehash: 8b22d80cbb4ebf1792555f614cec94ebe1613fd6
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.openlocfilehash: f35b769d5037b0b8dd4dec7af760124abacfd11a
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29969964"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30756341"
 ---
-"Microsoft Outlook kann nicht gestartet werden."
+"Microsoft Outlook kann nicht gestartet werden"
 
 # <a name="outlook-error-cannot-start-microsoft-outlook"></a>Outlook-Fehler: "Microsoft Outlook kann nicht gestartet werden"
 
-Sie Probleme beim Starten von Outlook 2016, Outlook 2010 oder Outlook 2013 oder empfangen "kann nicht starten Sie Microsoft Outlook. Öffnen Sie das Outlook-Fenster kann nicht"Fehlermeldungen?
+Probleme beim Starten von Outlook 2016, Outlook 2013 oder Outlook 2010 oder empfangen "Microsoft Outlook kann nicht gestartet werden. Outlook-Fenster kann nicht geöffnet werden "Fehlermeldungen?
   
-Verwenden Sie zuerst die Schritte zur Problembehandlung in [diesem Artikel](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) zum Beheben dieser Probleme beim Starten. 
+Verwenden Sie zunächst die Schritte zur Problembehandlung in [diesem Artikel](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) , um diese Probleme beim Start zu beheben. 
   
-Sie können auch die [Erweiterte Diagnose-Tool](https://aka.ms/SaRA-OutlookAdvDiagnostics) auf dem betreffenden Computer ausführen. 
+Sie können auch das [Erweiterte Diagnosetool](https://aka.ms/SaRA-OutlookAdvDiagnostics) auf dem betroffenen Computer ausführen. 
   
 

@@ -1,5 +1,5 @@
 ---
-title: Abgelaufene Abonnement
+title: Abgelaufenes Abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: c14b143eeca57a0c1154c8600f1f9af855f78ab0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 3a2f33686c2d9fd6803c0a5fc208a2e6bd80cd4b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29928187"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757493"
 ---
-# <a name="expired-subscription"></a>Abgelaufene Abonnement
+# <a name="expired-subscription"></a>Abgelaufenes Abonnement
 
-Es wird angezeigt, dass Sie einen oder mehrere abgelaufene Abonnements verfügen. Wenn Dienst fortgesetzt werden soll, müssen Sie das Abonnement reaktivieren oder stellen Sie eine neue Bestellung.
+Es wird angezeigt, dass Sie über ein oder mehrere abgelaufene Abonnements verfügen. Wenn Sie den Dienst fortsetzen möchten, müssen Sie das Abonnement erneut aktivieren oder einen neuen Kauf tätigen.
   
- **Erneut aktivieren**
+ **Reaktivieren**
   
 1. Wechseln Sie im Admin Center zur Seite [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), oder wählen Sie **Abrechnung** \> **Abonnements** aus.
     
-2. Wählen Sie das Abonnement reaktiviert werden.
+2. Wählen Sie das Abonnement aus, das erneut aktiviert werden soll.
     
-3. Wählen Sie auf der rechten Seite **erneut aktivieren**.
+3. Klicken Sie auf der rechten **** Seite auf reaktivieren.
     
- **Stellen Sie eine neue Bestellung**
+ **Erstellen eines neuen Kaufs**
   
-1. Klicken Sie in der Verwaltungskonsole, wechseln Sie zur Seite [Dienste erwerben](https://go.microsoft.com/fwlink/p/?linkid=868433) , oder wählen Sie **Abrechnung** \> **Dienste erwerben**.
+1. Wechseln Sie im Admin Center zur Seite [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) , oder wählen Sie **Billing** \> **Purchase Services**aus.
     
-2. Wählen Sie ein Abonnement erwerben möchten.
+2. Wählen Sie ein Abonnement aus, das Sie erwerben möchten.
     
-3. Zeigen Sie auf die Kachel, und wählen Sie **Jetzt kaufen**.
+3. Bewegen Sie den Mauszeiger über die Kachel, und wählen Sie **Jetzt kaufen**aus.
     
 
