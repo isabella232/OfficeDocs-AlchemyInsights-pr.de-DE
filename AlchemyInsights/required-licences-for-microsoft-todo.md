@@ -9,48 +9,48 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 7fc665d0af708f0dbcb9241de8102a976459436a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: c492b46fa507c75a166eb4a8cfa48019a3ec7d4c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926963"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757853"
 ---
-# <a name="required-licenses-for-microsoft-todo"></a>Erforderlichen Lizenzen für Microsoft ToDo
+# <a name="required-licenses-for-microsoft-todo"></a>Erforderliche Lizenzen für Microsoft ToDo
 
-[Erforderlichen Lizenzen für Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
+[Erforderliche Lizenzen für Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
-Ein Benutzer muss eine der folgenden Lizenzen Microsoft ToDo verwenden können:
+Ein Benutzer muss über eine der folgenden Lizenzen verfügen, um Microsoft ToDo verwenden zu können:
   
 - Business Essentials
     
 - Business Premium
     
-- Microsoft 365 Firstline F1
+- Microsoft 365 F1
     
-- Alle Office 365 Enterprise-plan
+- Office 365 Enterprise-Plan
     
-- Sichere produktive Business
+- Sicheres produktive Unternehmen
     
 - Secure Productive Enterprise E3
     
 - Secure Productive Enterprise E5
     
-- Alle Office 365 Schulungsplan
+- Jeder Office 365 Education-Plan
     
 - Microsoft 365 A3
     
 - Microsoft 365 A5
     
-Zusätzlich zu einer gültigen Product-Lizenz ist eine der folgenden Versionen von Exchange Online für die Synchronisierung von Benutzerdaten können erledigen erforderlich: 
+Zusätzlich zu einer gültigen Produktlizenz wird eine der folgenden Versionen von Exchange Online für ToDo benötigt, um Benutzerdaten synchronisieren zu können: 
   
 - Exchange Online Plan 1
     
 - Exchange Online Plan 2
     
-- Exchange-Grundlagen
+- Exchange Essentials
     
 - Exchange Online-Kiosk
     
