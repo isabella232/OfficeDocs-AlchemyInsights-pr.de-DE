@@ -1,5 +1,5 @@
 ---
-title: Löschen der Teamwebsite
+title: Team Website löschen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 5213e00e-c856-4155-8364-d7f97e3cb094
-ms.openlocfilehash: fcf30b2d7a53b7e2f01aa4ad60d3056783a562c8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e10a7cefa28c437fb7d041fda8cbcb164940b0f9
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912167"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755117"
 ---
-# <a name="delete-a-sharepoint-team-site"></a><span data-ttu-id="355c3-102">Löschen einer SharePoint-Teamwebsite</span><span class="sxs-lookup"><span data-stu-id="355c3-102">Delete a SharePoint team site</span></span>
+# <a name="delete-a-sharepoint-team-site"></a><span data-ttu-id="46a66-102">Löschen einer SharePoint-Teamwebsite</span><span class="sxs-lookup"><span data-stu-id="46a66-102">Delete a SharePoint team site</span></span>
 
-1. <span data-ttu-id="355c3-103">Wechseln Sie zur Website.</span><span class="sxs-lookup"><span data-stu-id="355c3-103">Go to the site.</span></span>
+1. <span data-ttu-id="46a66-103">Wechseln Sie zur Website.</span><span class="sxs-lookup"><span data-stu-id="46a66-103">Go to the site.</span></span>
     
-2. <span data-ttu-id="355c3-104">Klicken Sie auf das Symbol **Einstellungen** in der oberen rechten Ecke.</span><span class="sxs-lookup"><span data-stu-id="355c3-104">Click the **Settings** icon in the upper right.</span></span> 
+2. <span data-ttu-id="46a66-104">Klicken Sie oben rechts auf das Symbol " **Einstellungen** ".</span><span class="sxs-lookup"><span data-stu-id="46a66-104">Click the **Settings** icon in the upper right.</span></span> 
     
-3. <span data-ttu-id="355c3-p101">Klicken Sie auf **websiteeinstellungen** . Klicken Sie unter **Websiteinformationen** oder **Websiteaktionen**auf **diese Website löschen**, und klicken Sie dann auf **Löschen**.</span><span class="sxs-lookup"><span data-stu-id="355c3-p101">Click **Site** settings. Under **Site Information** or **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span>
+3. <span data-ttu-id="46a66-105">Klicken Sie auf **Website** Einstellungen.</span><span class="sxs-lookup"><span data-stu-id="46a66-105">Click **Site** settings.</span></span> <span data-ttu-id="46a66-106">Klicken Sie unter **Website Informationen** oder **Websiteaktionen**auf **diese Website löschen**, und klicken Sie dann auf **Löschen**.</span><span class="sxs-lookup"><span data-stu-id="46a66-106">Under **Site Information** or **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span>
     
 
