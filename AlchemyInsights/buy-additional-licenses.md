@@ -1,5 +1,5 @@
 ---
-title: Weitere Lizenzen erwerben
+title: Erwerben zusätzlicher Lizenzen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,32 +9,32 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: fe2d5d9e78ad6f1e05d99d1e754b3ba990f28e58
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 76570a37a8683863eba8ad18b7f92e86bafa97f6
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925307"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760013"
 ---
-# <a name="buy-additional-licenses"></a><span data-ttu-id="c5694-102">Weitere Lizenzen erwerben</span><span class="sxs-lookup"><span data-stu-id="c5694-102">Buy additional licenses</span></span>
+# <a name="buy-additional-licenses"></a><span data-ttu-id="978dd-102">Erwerben zusätzlicher Lizenzen</span><span class="sxs-lookup"><span data-stu-id="978dd-102">Buy additional licenses</span></span>
 
-1. <span data-ttu-id="c5694-103">Wechseln Sie im Admin Center zur Seite [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), oder wählen Sie **Abrechnung** \> **Abonnements** aus.</span><span class="sxs-lookup"><span data-stu-id="c5694-103">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="978dd-103">Wechseln Sie im Admin Center zur Seite [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), oder wählen Sie **Abrechnung** \> **Abonnements** aus.</span><span class="sxs-lookup"><span data-stu-id="978dd-103">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
     
-2. <span data-ttu-id="c5694-104">Klicken Sie auf der Seite **Abonnements** wählen Sie das Abonnement, dem Sie zusätzliche Lizenzen erwerben möchten, und wählen Sie dann auf **Hinzufügen/Entfernen von Lizenzen**.</span><span class="sxs-lookup"><span data-stu-id="c5694-104">On the **Subscriptions** page, choose the subscription that you want to add licenses to, and then choose **Add/Remove licenses**.</span></span>
+2. <span data-ttu-id="978dd-104">Wählen Sie auf der Seite **Abonnements** das Abonnement aus, dem Sie Lizenzen hinzufügen möchten, und wählen Sie dann **Lizenzen hinzufügen/entfernen**aus.</span><span class="sxs-lookup"><span data-stu-id="978dd-104">On the **Subscriptions** page, choose the subscription that you want to add licenses to, and then choose **Add/Remove licenses**.</span></span>
     
-    [<span data-ttu-id="c5694-105">Was geschieht, wenn ich den Link hinzufügen/entfernen nicht angezeigt wird?</span><span class="sxs-lookup"><span data-stu-id="c5694-105">What if I don't see the Add/Remove link?</span></span>](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1#bkmk_no_link)
+    [<span data-ttu-id="978dd-105">Was geschieht, wenn der Link zum Hinzufügen/Entfernen nicht angezeigt wird?</span><span class="sxs-lookup"><span data-stu-id="978dd-105">What if I don't see the Add/Remove link?</span></span>](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1#bkmk_no_link)
     
-3. <span data-ttu-id="c5694-p101">Geben Sie in das **gesamte Lizenzen** die Gesamtzahl der Lizenzen, die Sie für dieses Abonnement benötigen, und wählen Sie dann **Submit** \> **Schließen**. Wenn Sie 100 Lizenzen haben, und Sie weitere 5 hinzufügen müssen, geben Sie beispielsweise 105.</span><span class="sxs-lookup"><span data-stu-id="c5694-p101">In the **Total licenses** box, enter the total number of licenses that you need for this subscription, and then choose **Submit** \> **Close**. For example, if you have 100 licenses and you need to add 5 more, enter 105.</span></span>
+3. <span data-ttu-id="978dd-106">Geben Sie im Feld **Total licenses** die Gesamtzahl der Lizenzen ein, die Sie für dieses Abonnement benötigen, und \*\*\*\* \> wählen Sie dann **Schließen**aus.</span><span class="sxs-lookup"><span data-stu-id="978dd-106">In the **Total licenses** box, enter the total number of licenses that you need for this subscription, and then choose **Submit** \> **Close**.</span></span> <span data-ttu-id="978dd-107">Wenn Sie beispielsweise 100-Lizenzen haben und 5 weitere hinzufügen möchten, geben Sie 105 ein.</span><span class="sxs-lookup"><span data-stu-id="978dd-107">For example, if you have 100 licenses and you need to add 5 more, enter 105.</span></span>
     
     > [!NOTE]
-    > <span data-ttu-id="c5694-p102">Wenn Sie Ihr Abonnement oder per Kreditkarte Bankkonto bezahlen, sind alle neuen Lizenzen, die Sie kaufen verfügbar, unmittelbar nachdem Sie eine Auftragsbestätigung erhalten. Wenn Sie nach Rechnung bezahlen, müssen Sie möglicherweise eine Prüfung Credit warten, bevor eine neue Lizenz zur Verfügung gestellt werden.</span><span class="sxs-lookup"><span data-stu-id="c5694-p102">If you pay for your subscription by credit card or bank account, any new licenses that you buy are available immediately after you receive an order confirmation. If you pay by invoice, you might have to wait for a credit check before your new licenses are available to use.</span></span> 
+    > <span data-ttu-id="978dd-108">Wenn Sie Ihr Abonnement per Kreditkarte oder Bankkonto bezahlen, werden alle neuen Lizenzen, die Sie kaufen, unmittelbar nach Erhalt einer Auftragsbestätigung zur Verfügung gestellt.</span><span class="sxs-lookup"><span data-stu-id="978dd-108">If you pay for your subscription by credit card or bank account, any new licenses that you buy are available immediately after you receive an order confirmation.</span></span> <span data-ttu-id="978dd-109">Wenn Sie per Rechnung bezahlen, müssen Sie möglicherweise auf eine Bonitätsprüfung warten, bevor Ihre neuen Lizenzen zur Verfügung stehen.</span><span class="sxs-lookup"><span data-stu-id="978dd-109">If you pay by invoice, you might have to wait for a credit check before your new licenses are available to use.</span></span> 
   
- <span data-ttu-id="c5694-110">**Zusätzliche Ressourcen**</span><span class="sxs-lookup"><span data-stu-id="c5694-110">**Additional Resources**</span></span>
+ <span data-ttu-id="978dd-110">**Weitere Ressourcen**</span><span class="sxs-lookup"><span data-stu-id="978dd-110">**Additional Resources**</span></span>
   
-- [<span data-ttu-id="c5694-111">Lizenzen für Ihre Office 365 kaufen</span><span class="sxs-lookup"><span data-stu-id="c5694-111">Buy licenses for your Office 365</span></span>](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)
+- [<span data-ttu-id="978dd-111">Erwerben von Lizenzen für Office 365</span><span class="sxs-lookup"><span data-stu-id="978dd-111">Buy licenses for your Office 365</span></span>](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)
     
-- [<span data-ttu-id="c5694-112">Zuweisen von Lizenzen zu Benutzern in Office 365 für Unternehmen</span><span class="sxs-lookup"><span data-stu-id="c5694-112">Assign licenses to users in Office 365 for Business</span></span>](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
+- [<span data-ttu-id="978dd-112">Zuweisen von Lizenzen zu Benutzern in Office 365 for Business</span><span class="sxs-lookup"><span data-stu-id="978dd-112">Assign licenses to users in Office 365 for Business</span></span>](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
     
 
