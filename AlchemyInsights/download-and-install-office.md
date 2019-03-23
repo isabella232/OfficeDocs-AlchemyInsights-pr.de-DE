@@ -1,5 +1,5 @@
 ---
-title: Office herunterladen und installieren
+title: Herunterladen und Installieren von Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c040c5d7-ff1c-4a29-91e7-a6ad7c3b410b
-ms.openlocfilehash: 95d6ff680dff8c6b045fd00e3d1212a0cf18b893
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 7bdc84bf69eba228aaf536befe4b5ce5d150f3b2
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29916955"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754181"
 ---
-# <a name="download-and-install-office"></a>Office herunterladen und installieren
+# <a name="download-and-install-office"></a>Herunterladen und Installieren von Office
 
-Ihr Abonnement **Business Essentials** umfasst nicht die Office-apps. Um Office erhalten möchten, müssen Sie auf das **Business** oder **Business Premium** -Abonnement zu aktualisieren. Sehen Sie sich hier die verfügbaren Abonnements mit Office: [Office 365 Business-Pläne](https://products.office.com/compare-all-microsoft-office-products?tab=2)
+Ihr **Business Essentials** -Abonnement enthält nicht die Office-Apps. Um Office zu erhalten, müssen Sie ein Upgrade auf das **Business** -oder **Business Premium** -Abonnement durchführen. Sehen Sie sich die verfügbaren Abonnements mit Office hier an: [office 365 Business-Pläne](https://products.office.com/compare-all-microsoft-office-products?tab=2)
   
 

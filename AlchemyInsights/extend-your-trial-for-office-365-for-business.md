@@ -1,5 +1,5 @@
 ---
-title: Erweitern Sie Ihre Testversion für Office 365 für Unternehmen
+title: Erweitern Ihrer Testversion für Office 365 for Business
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 051f302d1180154179675bcd75c4098b76124faa
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 82644b45852a77739aa926a272338fc2662677fe
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29937835"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754325"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>Erweitern Sie Ihre Testversion für Office 365 für Unternehmen
+# <a name="extend-your-trial-for-office-365-for-business"></a>Erweitern Ihrer Testversion für Office 365 for Business
 
-Wenn Test-Abonnement innerhalb von 15 Tagen ablaufen ist, und die Testversion noch nicht vor dem erweitert wurde, können Sie Ihre Testversion für einen anderen Zeitraum von 30 Tagen erweitern. Sie können nur einmal durchführen.
+Wenn Ihr Testabonnement innerhalb von 15 Tagen abläuft und die Testphase noch nicht verlängert wurde, können Sie Ihre Testversion um einen weiteren Zeitraum von 30 Tage verlängern. Dies können Sie nur ein Mal durchführen.
   
 1. Wechseln Sie im Admin Center zur Seite [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), oder wählen Sie **Abrechnung** \> **Abonnements** aus.
     
-2. Wählen Sie das Test-Abonnement, das Sie erweitern möchten.
+2. Wählen Sie das Testabonnement aus, das Sie erweitern möchten.
     
-3. Wählen Sie **Extend trial** , und führen Sie die Schritte im Assistenten. 
+3. Wählen Sie **Testversion verlängern** , und führen Sie die Schritte im Assistenten aus. 
     
-4. Sie müssen angeben Kreditkarteninformationen, um Ihre Testversion zu erweitern. Ihre Kreditkarte für die Testversion Erweiterung nicht geladen.
+4. Sie müssen Kreditkarteninformationen angeben, um Ihre Testversion zu verlängern. Ihre Kreditkarte wird für die Testversion nicht belastet.
     
-Weitere Informationen zum Erweitern der Versuche oder für eine schrittweise Anleitung finden Sie unter [Extend Ihre Testversion für Office 365 für Unternehmen](https://support.office.com/article/75533195-f1f6-4c2c-8ceb-0b5597790d7b).
+Weitere Informationen zum verlängern von Tests oder für schrittweise Anleitungen finden Sie unter [extend your Trial for Office 365 for Business](https://support.office.com/article/75533195-f1f6-4c2c-8ceb-0b5597790d7b).
   
 
