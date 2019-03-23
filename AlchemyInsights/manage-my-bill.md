@@ -1,5 +1,5 @@
 ---
-title: Verwalten von meiner Zahlung
+title: Meine Rechnung verwalten
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f844501a-e575-48b8-9c1b-9f800c7b89f8
-ms.openlocfilehash: 39b7f2a566ce3f6b759c4a23cb1f602be909205e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: eff17074de4c198ec475573081a01f4288dd3ecb
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906027"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759833"
 ---
-# <a name="manage-my-bill-and-payments"></a>Verwalten von Meine Bill und Zahlungen
+# <a name="manage-my-bill-and-payments"></a>Meine Rechnung und Zahlungen verwalten
 
-Als Administrator haben Sie Zugriff auf alle Abrechnung und Zahlungen Optionen in der Verwaltungskonsole.
+Als Administrator haben Sie Zugriff auf alle Ihre Abrechnungs-und Zahlungsoptionen im Admin Center.
   
-- Ihre Bill oder Rechnung anzeigen.
+- Anzeigen Ihrer Rechnung oder Rechnung.
     
-- Fügen Sie hinzu, aktualisieren Sie oder entfernen Sie die Zahlungsoption.
+- Hinzufügen, aktualisieren oder Entfernen der Zahlungsoption.
     
 - Wechseln Sie zu einem anderen Office 365.
     
-- Verlängern des Abonnements an.
+- Verlängern Sie Ihr Abonnement.
     
-- Erwerben Sie ein weiteres Abonnement.
+- Kaufen Sie ein weiteres Abonnement.
     
 - Erweitern Sie Ihre Testversion.
     
-- Kündigen des Abonnements an.
+- Kündigen Sie Ihr Abonnement an.
     
 

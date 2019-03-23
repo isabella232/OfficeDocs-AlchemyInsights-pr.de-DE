@@ -9,29 +9,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: a2d5a988ac0eb01bb15a57a2a018c21b8861f147
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a5d701f61b0987978c759aa27d8e4f06e4be2b92
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938339"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760301"
 ---
 # <a name="question-about-licenses"></a>Frage zu Lizenzen
 
-Wenn Sie möchten wissen, wie viele Lizenzen Sie erworben haben, oder wie viele Lizenzen von einem Abonnement zugewiesen sind:
+Wenn Sie wissen möchten, wie viele Lizenzen Sie erworben haben oder wie viele Lizenzen aus einem Abonnement zugewiesen wurden:
   
 1. Wechseln Sie im Admin Center zur Seite [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), oder wählen Sie **Abrechnung** \> **Abonnements** aus.
     
-2. Wählen Sie das Abonnement, dem Sie mehr darüber erfahren möchten.
+2. Wählen Sie das Abonnement aus, über das Sie mehr wissen möchten.
     
-3. Auf der linken Seite der Abonnementkarte ist Informationen über Ihre Lizenzen:
+3. Auf der linken Seite der Abonnementkarte finden Sie Informationen zu ihren Lizenzen:
     
-  - Die Anzahl **erworben** wird die Anzahl der Lizenzen, denen Sie für bezahlen. 
+  - Die **** gekaufte Nummer ist die Anzahl der Lizenzen, die Sie bezahlen. 
     
-  - Die Anzahl der **zugewiesen** ist die Anzahl der Lizenzen, die einem Benutzer zugewiesen. 
+  - Die **zugewiesene** Anzahl ist die Anzahl der Lizenzen, die einem Benutzer zugewiesen sind. 
     
-4. Wenn Sie weitere Lizenzen hinzufügen möchten, oder wenn Sie zu haben, wählen Sie **Lizenzen hinzufügen/entfernen** , um die Menge erworben anzupassen. 
+4. Wenn Sie weitere Lizenzen hinzufügen möchten, oder wenn Sie zu viele haben, wählen Sie **Lizenzen hinzufügen/entfernen** aus, um den gekauften Betrag anzupassen. 
     
 

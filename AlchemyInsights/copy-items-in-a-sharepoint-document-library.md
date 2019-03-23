@@ -9,32 +9,32 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: 2bea9fea9ddaca686a5c4fb1cf629cb1a0ebea63
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d162d60ad55711d7165f32630faa1c6cd1b4b756
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917912"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760805"
 ---
 # <a name="copy-items-in-a-sharepoint-document-library"></a>Kopieren von Elementen in einer SharePoint-Dokumentbibliothek
 
-1. Navigieren Sie in einem Webbrowser zu den Dateien, Ordner oder Links, die Sie kopieren, und klicken Sie dann auf **in kopieren**möchten.
+1. Navigieren Sie in einem Webbrowser zu den Dateien, Ordnern oder Links, die Sie kopieren möchten, und klicken Sie dann auf **Kopieren**in.
     
     > [!NOTE]
-    > **Kopieren Sie in** ist nicht verfügbar, wenn Sie die klassische Erfahrung von SharePoint Online nutzen. 
+    > **Kopieren in** ist nicht verfügbar, wenn Sie die klassische Version von SharePoint Online verwenden. 
   
-2. Wählen Sie unter **Ziel wählen**Sie den Speicherort der Elemente kopiert werden soll. Wenn Sie auf eine andere Website kopieren oder Unterwebsite und nicht angezeigt, dass es aufgeführt, klicken Sie auf **Durchsuchen von Websites** , um die vollständige Liste der Websites, die Sie zum Kopieren können, finden Sie unter. 
+2. Wählen Sie unter **Ziel auswählen**den Speicherort aus, an den Sie die Elemente kopieren möchten. Wenn Sie zu einer anderen Website oder Unterwebsite kopieren und diese nicht aufgeführt sehen, klicken Sie auf **Websites Durchsuchen** , um die vollständige Liste der Websites anzuzeigen, in die Sie kopieren können. 
     
     > [!NOTE]
-    > Wenn Sie nicht, dass andere Websites aufgeführt sehen, wenn Sie Elemente kopieren, noch nicht kopieren zwischen Standorten konfiguriert wurde. Aktivieren Sie wechseln Sie zu der Einstellungsseite der im SharePoint Administrationscenter, und klicken Sie auf **OK**. 
+    > Wenn beim Kopieren von Elementen keine anderen Websites aufgeführt werden, wurde das Kopieren zwischen Websites nicht konfiguriert. Um Sie zu aktivieren, wechseln Sie zur Seite Einstellungen im SharePoint Admin Center, und klicken Sie auf **OK**. 
   
-    So erstellen Sie einen neuen Ordner zum Kopieren von Dateien möchten, markieren Sie einen Speicherort in der Ordnerhierarchie, klicken Sie auf **Neuer Ordner**, geben Sie einen Namen für den Ordner, und klicken Sie auf das Kontrollkästchen, um den Namen zu speichern.
+    Wenn Sie einen neuen Ordner erstellen möchten, in den die Dateien kopiert werden sollen, wählen Sie einen Speicherort in der Ordnerhierarchie aus, klicken Sie auf **neuer Ordner**, geben Sie einen Namen für den Ordner ein, und klicken Sie auf das Häkchen, um den Namen zu speichern.
     
-3. Klicken Sie auf **Hier kopieren**.
+3. Klicken Sie **hier auf Kopieren**.
     
 > [!NOTE]
->  Sie können bis zu 500 MB von Dateien und Ordnern gleichzeitig zu kopieren. > bei Verwendung von **in kopieren** mit Dokumenten, die Versionsverlauf, nur die aktuellste Version wird kopiert. 
+>  Sie können bis zu 500 MB Dateien und Ordner gleichzeitig kopieren. > Wenn Sie **Copy to** mit Dokumenten mit Versionsverlauf verwenden, wird nur die neueste Version kopiert. 
   
 

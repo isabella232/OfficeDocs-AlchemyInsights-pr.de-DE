@@ -1,5 +1,5 @@
 ---
-title: Weitere Lizenzen erwerben
+title: Erwerben zusätzlicher Lizenzen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,32 +9,32 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: fe2d5d9e78ad6f1e05d99d1e754b3ba990f28e58
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 76570a37a8683863eba8ad18b7f92e86bafa97f6
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925307"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760013"
 ---
-# <a name="buy-additional-licenses"></a>Weitere Lizenzen erwerben
+# <a name="buy-additional-licenses"></a>Erwerben zusätzlicher Lizenzen
 
 1. Wechseln Sie im Admin Center zur Seite [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), oder wählen Sie **Abrechnung** \> **Abonnements** aus.
     
-2. Klicken Sie auf der Seite **Abonnements** wählen Sie das Abonnement, dem Sie zusätzliche Lizenzen erwerben möchten, und wählen Sie dann auf **Hinzufügen/Entfernen von Lizenzen**.
+2. Wählen Sie auf der Seite **Abonnements** das Abonnement aus, dem Sie Lizenzen hinzufügen möchten, und wählen Sie dann **Lizenzen hinzufügen/entfernen**aus.
     
-    [Was geschieht, wenn ich den Link hinzufügen/entfernen nicht angezeigt wird?](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1#bkmk_no_link)
+    [Was geschieht, wenn der Link zum Hinzufügen/Entfernen nicht angezeigt wird?](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1#bkmk_no_link)
     
-3. Geben Sie in das **gesamte Lizenzen** die Gesamtzahl der Lizenzen, die Sie für dieses Abonnement benötigen, und wählen Sie dann **Submit** \> **Schließen**. Wenn Sie 100 Lizenzen haben, und Sie weitere 5 hinzufügen müssen, geben Sie beispielsweise 105.
+3. Geben Sie im Feld **Total licenses** die Gesamtzahl der Lizenzen ein, die Sie für dieses Abonnement benötigen, und **** \> wählen Sie dann **Schließen**aus. Wenn Sie beispielsweise 100-Lizenzen haben und 5 weitere hinzufügen möchten, geben Sie 105 ein.
     
     > [!NOTE]
-    > Wenn Sie Ihr Abonnement oder per Kreditkarte Bankkonto bezahlen, sind alle neuen Lizenzen, die Sie kaufen verfügbar, unmittelbar nachdem Sie eine Auftragsbestätigung erhalten. Wenn Sie nach Rechnung bezahlen, müssen Sie möglicherweise eine Prüfung Credit warten, bevor eine neue Lizenz zur Verfügung gestellt werden. 
+    > Wenn Sie Ihr Abonnement per Kreditkarte oder Bankkonto bezahlen, werden alle neuen Lizenzen, die Sie kaufen, unmittelbar nach Erhalt einer Auftragsbestätigung zur Verfügung gestellt. Wenn Sie per Rechnung bezahlen, müssen Sie möglicherweise auf eine Bonitätsprüfung warten, bevor Ihre neuen Lizenzen zur Verfügung stehen. 
   
- **Zusätzliche Ressourcen**
+ **Weitere Ressourcen**
   
-- [Lizenzen für Ihre Office 365 kaufen](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)
+- [Erwerben von Lizenzen für Office 365](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)
     
-- [Zuweisen von Lizenzen zu Benutzern in Office 365 für Unternehmen](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
+- [Zuweisen von Lizenzen zu Benutzern in Office 365 for Business](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
     
 
