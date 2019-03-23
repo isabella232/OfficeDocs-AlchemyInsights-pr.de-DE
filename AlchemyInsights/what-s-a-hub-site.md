@@ -1,5 +1,5 @@
 ---
-title: Was ist die Hub-Standort?
+title: Was ist ein Hub-Standort?
 ms.author: clake
 author: spowriter
 manager: scotv
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c74df953-2ddc-4375-aea0-9f410881bb2e
-ms.openlocfilehash: 7be7928baa630021f590b435a3d4710056ff6dca
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cd414235a38d24b0889ccb400e011c387919691c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911483"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30765735"
 ---
-# <a name="whats-a-hub-site"></a>Was ist die Hub-Standort?
+# <a name="whats-a-hub-site"></a>Was ist ein Hub-Standort?
 
-Hub-Standort können Sie Websites organisieren, und geben sie eine gemeinsame Navigation und branding. Global oder SharePoint-Admins ist möglich Hubstandorte erstellen und angeben, welche Benutzer ihre Websites die Hub-Standort zugeordnet werden können. Weitere Informationen finden Sie unter [SharePoint Hubstandorte neu in Office 365](https://go.microsoft.com/fwlink/?linkid=869388).
+Mithilfe eines Hub-Standorts können Sie Websites organisieren und Ihnen eine allgemeine Navigation und Branding bieten. Globale oder SharePoint-Administratoren können Hub-Standorte erstellen und angeben, welche Benutzer ihre Websites dem Hub-Standort zuordnen können. Weitere Informationen finden Sie unter [SharePoint Hub Sites New in Office 365](https://go.microsoft.com/fwlink/?linkid=869388).
   
 

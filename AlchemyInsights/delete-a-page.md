@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c0fde770-ba1d-4aeb-8c9a-83b646fc80ce
-ms.openlocfilehash: 443bc10ce0e8d9d6aa78a043357e0f5ed1a6f065
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a29d55b634cae68d859010c1099baab4c516c203
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900287"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754577"
 ---
 # <a name="delete-a-sharepoint-page"></a>Löschen einer SharePoint-Seite
 
-1. Wechseln Sie zu der Website, in die Seite.
+1. Wechseln Sie zu der Website, auf der sich die Seite befindet.
     
-2. Klicken Sie im linken Bereich auf **Websiteinhalte**. 
+2. Klicken Sie auf der linken Seite auf **Websiteinhalte**. 
     
-3. Klicken Sie auf den linken Rand der Seite Websiteinhalte auf **Seiten**. 
+3. Klicken Sie auf der linken Seite der Seite Websiteinhalte auf **Seiten**. 
     
-4. Wählen Sie die Seite, und klicken Sie dann auf die **Auslassungszeichen (...)** , die rechts auf der Seite. 
+4. Wählen Sie die Seite aus, und klicken Sie dann auf die **Ellipsen (...)** rechts neben der Seite. 
     
-5. Klicken Sie auf ** Löschen **. 
+5. Klicken Sie auf * * Löschen * *. 
     
 

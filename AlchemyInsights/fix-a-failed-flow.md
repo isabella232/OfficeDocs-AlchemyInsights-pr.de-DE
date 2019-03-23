@@ -1,5 +1,5 @@
 ---
-title: Beheben Sie einen fehlerhaften Fluss
+title: Beheben eines fehlgeschlagenen Flusses
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 856b15c9-2b41-4528-8195-7bfccbf78d69
-ms.openlocfilehash: ff04720b594fcd56fdafaecfacb78feb2bac8de5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 28e3d83ee2b16c003f50a3b8815c034a97f5d55b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29928115"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762819"
 ---
-# <a name="fix-a-flow-that-failed"></a>Beheben Sie eine Abläufe, die Fehler
+# <a name="fix-a-flow-that-failed"></a>Beheben eines Fehlers
 
-1. Besuchen Sie [Microsoft Ablauf](https://flow.microsoft.com/), und klicken Sie auf das Symbol für Benachrichtigungen in der oberen rechten Ecke. (Oder in der mobilen app, wählen Sie die Registerkarte Aktivität.) Wählen Sie den Ablauf, der nicht die Details anzeigen.
+1. Wechseln Sie zu [Microsoft Flow](https://flow.microsoft.com/), und klicken Sie oben rechts auf das Benachrichtigungssymbol. (Oder wählen Sie in der mobilen APP die Registerkarte Aktivität aus.) Wählen Sie den Fluss aus, bei dem die Details nicht untersuchtwurden.
     
-2. Hier finden Sie im Schritt rotes Ausrufezeichen Symbol für den Ablauf die Fehlermeldung angezeigt.
+2. Suchen Sie den Schritt mit dem roten Ausrufezeichen, um die Fehlermeldung für den Fluss anzuzeigen.
     
-3. Je nach der Fehlermeldung werden bearbeiten den Ablauf und dieses Problem angezeigt. 
+3. Je nach Fehlermeldung sollten Sie in der Lage sein, den Fluss zu bearbeiten und zu korrigieren. 
     
-[Allgemeine Flow mit Fehlern](https://go.microsoft.com/fwlink/?linkid=872110)
+[Häufige Fluss Fehler](https://go.microsoft.com/fwlink/?linkid=872110)
   
 

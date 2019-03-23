@@ -9,34 +9,34 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: 7a9a4d454f82788598059feb8c5b3f1234a3ef6c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: f7cc1369bd179bf410871054b2d4184a55a2b342
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29897947"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762495"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopieren oder Verschieben von Elementen in einer SharePoint-Dokumentbibliothek
 
-Sie können kopieren und Verschieben von Dateien, Ordner und Links an andere Speicherorte innerhalb einer Dokumentbibliothek. Sie können auch zwischen Standorten Elemente kopieren. Wenn Sie [die gezielte Version Option eingerichtet](https://go.microsoft.com/fwlink/?linkid=622980)haben, können Sie Elemente zwischen Standorten, zu verschieben.
+Sie können Dateien, Ordner und Links zu verschiedenen Speicherorten in einer Dokumentbibliothek kopieren und verschieben. Sie können Elemente auch über Websites kopieren. Wenn Sie [die Option für die gezielte Freigabe eingerichtet](https://go.microsoft.com/fwlink/?linkid=622980)haben, können Sie auch Elemente über Websites verschieben.
   
-1. Navigieren Sie in einem Browser zu der Dateien, Ordner oder Links, den, die Sie verschieben, und klicken auf **zu kopieren** oder **Verschieben**möchten.
+1. Navigieren Sie in einem Browser zu den Dateien, Ordnern oder Links, die Sie verschieben möchten, und klicken Sie dann auf **Kopieren in** oder **verschieben**nach.
     
     > [!NOTE]
-    > **Zum Kopieren** und **Verschieben in** nicht bei Verwendung die klassische Erfahrung von SharePoint Online verfügbar. 
+    > **Kopieren** und **Verschieben in** sind nicht verfügbar, wenn Sie die klassische Version von SharePoint Online verwenden. 
   
-2. Wählen Sie unter **Ziel wählen**Sie den gewünschten Speicherort für die Sie kopieren oder verschieben die Elemente aus, oder klicken Sie auf **Durchsuchen von Websites** , um die vollständige Liste der Websites finden Sie unter. 
+2. Wählen Sie unter **Ziel auswählen**den Speicherort aus, an den Sie die Elemente kopieren oder verschieben möchten, oder klicken Sie auf **Websites Durchsuchen** , um die vollständige Liste der Websites anzuzeigen. 
     
     > [!NOTE]
-    > Wenn Sie nicht, dass andere Websites aufgeführt sehen, wenn Sie Elemente kopieren, noch nicht kopieren zwischen Standorten konfiguriert wurde. Aktivieren Sie wechseln Sie zu der Einstellungsseite der im SharePoint Administrationscenter, und klicken Sie auf **OK**. 
+    > Wenn beim Kopieren von Elementen keine anderen Websites aufgeführt werden, wurde das Kopieren zwischen Websites nicht konfiguriert. Um Sie zu aktivieren, wechseln Sie zur Seite Einstellungen im SharePoint Admin Center, und klicken Sie auf **OK**. 
   
-    Um einen neuen Ordner erstellen möchten, wählen Sie einen Speicherort in der Ordnerhierarchie, klicken Sie auf **Neuer Ordner**, geben Sie einen Namen für den Ordner, und klicken Sie auf das Kontrollkästchen, um den Namen zu speichern.
+    Wählen Sie zum Erstellen eines neuen Ordners einen Speicherort in der Ordnerhierarchie aus, klicken Sie auf **neuer Ordner**, geben Sie einen Namen für den Ordner ein, und klicken Sie auf das Häkchen, um den Namen zu speichern.
     
-3. Klicken Sie auf **Hier kopieren** oder **Verschieben Sie hier**.
+3. Klicken Sie auf **hier kopieren** oder hier **verschieben**.
     
 > [!NOTE]
->  Sie können bis zu 500 MB von Dateien und Ordnern gleichzeitig zu kopieren. > beim Kopieren von Dokumenten, die Versionsverlauf, nur die aktuellste Version wird kopiert. Beim Verschieben von Dokumenten wird deren Verlauf auch verschoben. 
+>  Sie können bis zu 500 MB Dateien und Ordner gleichzeitig kopieren. > beim Kopieren von Dokumenten mit Versionsverlauf wird nur die neueste Version kopiert. Beim Verschieben von Dokumenten wird auch deren Verlauf verschoben. 
   
 

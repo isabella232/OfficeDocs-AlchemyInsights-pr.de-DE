@@ -1,5 +1,5 @@
 ---
-title: Verwalten Sie Ihrer SharePoint oder OneDrive-Speichers
+title: Verwalten Ihres SharePoint-oder OneDrive-Speichers
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: 52ca89c1b5f4e26baec48d832216edb6d6d2742f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a6e6d95f79b058326255f480b1f72ceb8d94bfd9
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29932363"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30761200"
 ---
-# <a name="manage-your-sharepoint-or-onedrive-storage"></a>Verwalten Sie Ihrer SharePoint oder OneDrive-Speichers
+# <a name="manage-your-sharepoint-or-onedrive-storage"></a>Verwalten Ihres SharePoint-oder OneDrive-Speichers
 
  **SharePoint Online**
   
-Für die meisten Organisationen wird SharePoint-Speicher automatisch verwaltet, damit Sie nicht notwendige Grenzwerte pro Websitesammlung. So überprüfen Sie wie viel Speicher für SharePoint müssen Sie folgende Aktionen ausführen:
+Für die meisten Organisationen wird der SharePoint-Speicher automatisch verwaltet, sodass Sie keine Einschränkungen pro Websitesammlung festlegen müssen. So überprüfen Sie, wie viel SharePoint-Speicher Sie haben:
   
-- Suchen Sie in der klassischen SharePoint-Verwaltungskonsole in der rechten oberen Ecke der Seite Site Collections für Ihren Speicher verfügbar und insgesamt.
+- Suchen Sie im klassischen SharePoint Admin Center oben rechts auf der Seite Websitesammlungen nach dem verfügbaren und vollständigen Speicher.
     
-Informationen darüber, wie die maximale Anzahl berechnet wird finden Sie unter [SharePoint Online-Begrenzungen](https://go.microsoft.com/fwlink/p/?LinkID=856113). Wenn extra Speicher erwerben möchten, finden Sie unter [Ändern von Speicherplatz für Ihr Abonnement](https://go.microsoft.com/fwlink/?linkid=866428).
+Informationen dazu, wie Ihr Grenzwert berechnet wird, finden Sie unter [SharePoint Online-Grenzwerte](https://go.microsoft.com/fwlink/p/?LinkID=856113). Weitere Informationen finden Sie unter [Ändern des Speicherplatzes für Ihr Abonnement](https://go.microsoft.com/fwlink/?linkid=866428).
   
  **OneDrive**
   
 So ändern Sie den Standardspeicher für neue und vorhandene OneDrive-Benutzer:
   
-- Wechseln Sie zu der [Seite Speicher von der OneDrive-Verwaltungskonsole](https://admin.onedrive.com/?v=StorageSettings), und geben Sie einen neuen Betrag in GB.
+- Wechseln Sie zur [Seite "Speicher" des OneDrive Admin Center](https://admin.onedrive.com/?v=StorageSettings), und geben Sie einen neuen Betrag in GB ein.
     
-Um wie viel Speicher überprüfen Sie in Ihrer eigenen OneDrive verwenden, finden Sie unter [Manage Ihrer OneDrive for Business-Speicher](https://go.microsoft.com/fwlink/?linkid=866429). Info zu den Speicher, der mit verschiedenen Plänen enthalten ist, finden Sie unter [OneDrive for Business – dienstbeschreibung](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+Informationen zum Überprüfen des Speicherplatzes, den Sie in Ihrem eigenen OneDrive verwenden, finden Sie unter [Manage Your OneDrive for Business Storage](https://go.microsoft.com/fwlink/?linkid=866429). Informationen zum Speicherplatz, der mit jedem Plan geliefert wird, finden Sie unter [OneDrive for Business Service Description](https://go.microsoft.com/fwlink/p/?LinkID=826071).
   
 

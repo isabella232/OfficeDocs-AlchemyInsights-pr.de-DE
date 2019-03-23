@@ -1,5 +1,5 @@
 ---
-title: So identifizieren Sie eine Belastung auf Kreditkarte oder Bank-Anweisung
+title: So identifizieren Sie eine Gebühr für Ihre Kreditkarte oder Ihren Kontoauszug
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: d349d107642ed042c8878d3703a1def89e2906d5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: c698c085fc7d1d62eb5c615061198cd5395fbbab
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936971"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758537"
 ---
-# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>So identifizieren Sie eine Belastung auf Kreditkarte oder Bank-Anweisung
+# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>So identifizieren Sie eine Gebühr für Ihre Kreditkarte oder Ihren Kontoauszug
 
-Die Beschreibung der Kosten für ein Office 365-Abonnement sieht folgendermaßen aus:
+Die Gebührenbeschreibung für ein Office 365-Abonnement sieht wie folgt aus:
   
-MSFT \* E012345ABC 0000 - MSBILL.INFO, WA
+MSFT \* E012345ABC 0000-MSBILL.info, WA
   
-Die 10 alphanumerische Zeichenfolge folgt MSFT \* ist die Nummer der Gebühr bezieht sich auf. Um die Rechnung zu suchen, wechseln Sie zur Seite [wechseln](https://go.microsoft.com/fwlink/p/?linkid=848039) , oder wählen Sie **Abrechnung** \> **Wechsel** Ihre letzten Rechnungen anzeigen. Die Nummer wird in der Nähe der rechten Ecke des Rechnungsdokuments. 
+Die mit 10 Buchstaben (alphanumerische \* Zeichenfolge) folgende msft ist die Rechnungsnummer, auf die sich die Gebühr bezieht. Um die Rechnung zu finden, wechseln Sie zur Seite [Rechnungen](https://go.microsoft.com/fwlink/p/?linkid=848039) , oder **** \> wählen Sie **Rechnungen** aus, um Ihre letzten Rechnungen anzuzeigen. Die Rechnungsnummer befindet sich in der rechten Ecke des Rechnungsbelegs. 
   
 

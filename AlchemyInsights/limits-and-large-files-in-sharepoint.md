@@ -1,5 +1,5 @@
 ---
-title: Grenzwerte und großer Dateien in SharePoint
+title: Grenzwerte und umfangreiche Dateien in SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
-ms.openlocfilehash: d78074e8719a4be6c0ddc5927c519bdf273f0bb5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 182668e057a90d80c1c52a1de449fbb365589c1f
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29933947"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30761344"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Dateien, die mit SharePoint Online hochgeladen werden können
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Dateien, die nicht in SharePoint Online hochgeladen werden können
 
-Wenn eine Datei mit SharePoint Online hoch wird nicht, stellen Sie Folgendes sicher:
+Wenn eine Datei nicht in SharePoint Online hochgeladen wird, vergewissern Sie sich:
   
-- Es ist weniger als 15 GB Größe.
+- Es ist weniger als 15 GB groß.
     
-- Der gesamte Pfad, einschließlich des Dateinamens beträgt weniger als 400 Zeichen.
+- Der gesamte Pfad, einschließlich des Datei namens, beträgt weniger als 400 Zeichen.
     
-- Der Datei darf nicht der Zeichen " \* : \< \> ? / \ | und ist nicht in der Liste der [Ungültige Namen](https://go.microsoft.com/fwlink/?linkid=866430).
+- Der Dateiname enthält nicht die Zeichen " \* :? \< \> / \ | und ist nicht in der Liste der ungültigen [Namen](https://go.microsoft.com/fwlink/?linkid=866430)aufgeführt.
     
-Wenn Sie versuchen, die Datei mithilfe der OneDrive-desktop-app hochzuladen, finden Sie unter [Einschränkungen und Einschränkungen, wenn Sie Dateien und Ordner synchronisieren](http://go.microsoft.com/fwlink/p/?LinkID=717734) oder [Synchronisierungsprobleme OneDrive zu beheben](https://go.microsoft.com/fwlink/?linkid=866431).
+Wenn Sie versuchen, die Datei mithilfe der OneDrive-Desktop-App hochzuladen, finden Sie [Einschränkungen und Einschränkungen bei der Synchronisierung von Dateien und Ordnern oder bei](http://go.microsoft.com/fwlink/p/?LinkID=717734) der Behebung von [OneDrive-Synchronisierungsproblemen](https://go.microsoft.com/fwlink/?linkid=866431).
   
 

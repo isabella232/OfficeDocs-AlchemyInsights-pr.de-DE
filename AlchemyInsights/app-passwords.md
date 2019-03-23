@@ -1,39 +1,37 @@
 ---
-title: App-Kennwörtern
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 3/20/2018
+title: 500 App-Kennwörter
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
-ms.assetid: e0d62ef3-cba0-4df8-a234-ce75a4f6cd84
-ms.openlocfilehash: c883dda38f959624668e202b188ff6e2ddd4ed47
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.custom: 500
+ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
+ms.openlocfilehash: 77a90338106ffeefc93b3631c0424156195ea1b8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938231"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762531"
 ---
-# <a name="app-passwords"></a>App-Kennwörtern
+# <a name="app-passwords"></a>App-Kennwörter
 
-Eine app-Kennwort ist ein Code, der eine Berechtigung app oder Gerät auf Ihre Office 365-Konto zugreifen. Wenn Ihre Admin mehrstufige Authentifizierung für Ihre Organisation aktiviert wurde und Sie apps, die Verbindung mit Ihrem Office 365-Konto verwenden, müssen Sie ein Kennwort für die app zu erstellen, damit die app eine Verbindung zu Office 365 herstellen kann. Wenn Sie Outlook 2016 verwenden oder früher mit Office 365 verwenden, müssen Sie beispielsweise erstellen Sie ein app-Kennwort.
+Ein App-Kennwort ist ein Code, der eine APP oder ein Gerät für den Zugriff auf Ihr Office 365-Geschäfts-oder Schulkonto berechtigt. Wenn Ihr Konto mehrstufige Authentifizierung (MFA) erfordert und die APP eine Verbindung mit Ihrem Konto herstellt, müssen Sie ein App-Kennwort generieren, damit die APP eine Verbindung mit Office 365 herstellen kann. Outlook 2016 und frühere Versionen von Outlook erfordern beispielsweise ein App-Kennwort.
   
-1. Überprüfen Sie, ob Ihre Office 365 Admin mehrstufige Authentifizierung für Ihr Konto aktiviert hat. Wenn sie noch nicht, wenn Sie versuchen, führen Sie die folgenden Schritte aus, die Optionen in Office 365 nicht angezeigt.
+ **Hinweis**: bevor Sie die folgenden Schritte ausführen, überprüfen Sie mit ihrem Office 365-Administrator, dass MFA für Ihr Konto erforderlich ist. Wenn dies nicht der Fall ist, stehen Ihnen die in den Schritten beschriebenen Optionen nicht zur Verfügung.
+  
+1. Melden Sie sich mit Ihrem Geschäfts-oder Schulkonto und Ihrem Kennwort bei Office 365 an.
     
-2. Melden Sie sich bei Office 365 mit Ihrem Konto arbeiten oder Schule mit Ihrem Kennwort wie gewohnt. Nach dem **Anmelden**auswählen, wird eine Seite mit Ihrem Benutzernamen und einige Optionen angezeigt werden. 
+2. Wählen Sie **jetzt einrichten**aus.
     
-3. Wählen Sie auf **jetzt einrichten**. 
+3. Wählen Sie Ihre Authentifizierungsmethode aus, und folgen Sie den Anweisungen.
     
-4. Wählen Sie die Authentifizierungsmethode aus, und klicken Sie dann auf der Seite befolgen.
+4. Nachdem Sie Ihre alternative Kontaktmethode überprüft haben, klicken Sie auf **weiter**.
     
-5. Nachdem Sie Ihrer Kontaktliste alternative Methode überprüft haben, wählen Sie **Weiter**. 
-    
-6. Erhalten Sie eine app-Kennwort, die Sie mit Outlook, Apple-Mail- usw. verwenden können. Wählen Sie das Kopiersymbol, um das Kennwort in die Zwischenablage zu kopieren. Sie müssen nicht das Kennwort merken zu müssen. 
-    
-7. Wenn Sie Ihre Office 365-e-Mail-Konto in Outlook (oder einer anderen Anwendung) hinzufügen, und Sie werden aufgefordert, ein Kennwort, ältere dieses app-Kennwort in das Feld Kennwort, anstatt Sie Ihr Kontokennwort eingeben. 
+5. Sie erhalten ein App-Kennwort, das Sie mit Outlook, Apple Mail und anderen apps verwenden können, die es benötigen. Wählen Sie **Kopieren** aus, um das Kennwort zu kopieren, sodass Sie es an einer anderen Stelle einfügen können (Sie müssen es nicht merken). 
     
 

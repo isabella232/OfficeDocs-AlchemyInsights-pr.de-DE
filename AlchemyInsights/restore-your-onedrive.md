@@ -1,5 +1,5 @@
 ---
-title: Wiederherstellen Sie Ihrer OneDrive
+title: Wiederherstellen der OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8c07fc4e-98ba-438d-a4f7-9cfb1ed6a08a
-ms.openlocfilehash: ec6f47f32e47c2e75544e36b8c1cd6f165f5f890
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.openlocfilehash: aa8fce9a3666e875efe0260f3604e13292dd4a26
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29969892"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30763935"
 ---
-# <a name="restore-your-onedrive"></a>Wiederherstellen Sie Ihrer OneDrive
+# <a name="restore-your-onedrive"></a>Wiederherstellen der OneDrive
 
-Wenn viele Ihrer OneDrive Dateien abrufen gelöscht, Overwritted, beschädigt oder mit Malware infiziert, können Sie Ihre gesamte OneDrive zu einem früheren Zeitpunkt in den letzten 30 Tagen wiederherstellen.
+Wenn viele ihrer OneDrive-Dateien gelöscht, overwritted, beschädigt oder mit Schadsoftware infiziert werden, können Sie Ihre gesamte OneDrive in einem früheren Zeitpunkt innerhalb der letzten 30 Tage wiederherstellen.
   
-1. Wechseln Sie zu Ihrer OneDrive in Ihrem Webbrowser.
+1. Wechseln Sie in Ihrem Webbrowser zu ihrer OneDrive.
     
-2. Klicken Sie auf das Symbol Einstellungen in der oberen rechten Ecke, und wählen Sie dann auf **Wiederherstellen Ihrer OneDrive**.
+2. Klicken Sie oben rechts auf das Symbol "Einstellungen", und wählen Sie dann **OneDrive wiederherstellen**aus.
     
-3. Wählen Sie ein Datum aus der Liste aus, oder wählen Sie **benutzerdefinierte Datum und Uhrzeit**.
+3. Wählen Sie ein Datum aus der Liste aus, oder wählen Sie **Datum und Uhrzeit anpassen**aus.
     
-4. Klicken Sie auf **Wiederherstellen** , um alle Aktivitäten nach dem Datum rückgängig zu machen, den Sie ausgewählt haben. 
+4. Klicken Sie auf **Wiederherstellen** , um alle Aktivitäten nach dem ausgewählten Datum rückgängig zu machen. 
     
-[Weitere Hilfe Wiederherstellen von Dateien](https://go.microsoft.com/fwlink/?linkid=872874)
+[Weitere Hilfe bei der Wiederherstellung von Dateien](https://go.microsoft.com/fwlink/?linkid=872874)
   
 

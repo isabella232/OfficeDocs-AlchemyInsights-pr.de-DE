@@ -9,22 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: aa64c5a62e0d58703676e7bcfb0f956b994ff447
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 6e1c6870440cab3a74f697cd71ab463b2b4aad0b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29924875"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759401"
 ---
 # <a name="open-a-sharepoint-library-in-file-explorer"></a>Öffnen einer SharePoint-Bibliothek im Datei-Explorer
 
-1. Navigieren Sie zu der Bibliothek in Internet Explorer 10 oder Internet Explorer 11. 
+1. Wechseln Sie in Internet Explorer 10 oder Internet Explorer 11 zur Bibliothek. 
     
-2. Klicken Sie auf das Symbol für die Ansicht in der oberen rechten Ecke, und klicken Sie dann auf **Ansicht im Datei-Explorer**.
+2. Klicken Sie oben rechts auf das Ansichtssymbol, und klicken Sie dann **im Datei-Explorer auf anzeigen**.
     
 > [!NOTE]
-> Öffnen einer Dokumentbibliothek im Datei-Explorer ist hilfreich, wenn Sie kopieren oder verschieben Sie mehrere Dateien und Ordner nach, jedoch sollten Sie regelmäßig in der Bibliothek arbeiten müssen, wird empfohlen, synchronisieren es. Zum Beheben von Startproblemen im Datei-Explorer öffnen finden Sie unter [im Explorer öffnen](https://go.microsoft.com/fwlink/?linkid=871665). Info zum Einrichten von Sync finden Sie unter [Synchronisieren von SharePoint-Dateien mit dem neuen OneDrive-Synchronisierungsclient](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Das Öffnen einer Bibliothek im Datei-Explorer ist praktisch, wenn Sie mehrere Dateien und Ordner einmal kopieren oder verschieben müssen, aber wenn Sie regelmäßig in der Bibliothek arbeiten möchten, wird die Synchronisierung empfohlen. Informationen zur Problembehandlung beim Öffnen im Datei-Explorer finden Sie unter [Open in Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Weitere Informationen zum Einrichten der Synchronisierung finden Sie unter [Synchronisieren von SharePoint-Dateien mit dem neuen OneDrive-synchronisierungsclient](https://go.microsoft.com/fwlink/?linkid=871666). 
   
 

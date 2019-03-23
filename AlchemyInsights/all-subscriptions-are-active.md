@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: 30dcd5d66baecaf55cce3cbb3ae2f6d2e50fa6f2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: bef24376d9cffbc9eed3adf05efdff6229157bd8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905939"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30764367"
 ---
 # <a name="all-subscriptions-are-active"></a>Alle Abonnements sind aktiv
 
-Die Abonnements sind aktiv. Dies kann überprüft werden, indem Sie auf der Seite [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) oder durch Auswählen von **Abrechnung** \> **Abonnements**. Ihre Abonnements werden nach dem Status mit aktiven Abonnements oben angeordnet. Zusätzliche Informationen wie die Anzahl von Elementen und Zahlung Methode Lizenz kann angezeigt werden, indem Sie auf das Abonnement.
+Ihre Abonnements sind aktiv. Sie können dies überprüfen, indem Sie zur Seite [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) wechseln oder indem Sie **Abrechnungs** \> **Abonnements**auswählen. Ihre Abonnements werden nach Status sortiert, mit aktiven Abonnements oben. Weitere Informationen, wie Lizenzanzahl und Zahlungsmethode, können durch Auswählen des Abonnements angezeigt werden.
   
-Wenn Sie Probleme mit Ihrem Dienst haben, verwenden Sie die Option "wollen wir uns anrufen" an einen Supportmitarbeiter sprechen.
+Wenn Sie Probleme mit Ihrem Dienst haben, verwenden Sie die Option "rufen Sie uns an", um mit einem Supporttechniker zu sprechen.
   
 

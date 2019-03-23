@@ -1,5 +1,5 @@
 ---
-title: Freigeben von in SharePoint
+title: Freigeben in SharePoint
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
-ms.openlocfilehash: 063c9139dc519d45e1160dd8c72df10f63d4fadf
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 88f91f897aacf22ae9c82c59d5eb50b3ffcd5330
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911375"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758933"
 ---
-# <a name="how-to-share-in-sharepoint-online"></a>Gewusst wie: Freigeben von in SharePoint Online
+# <a name="how-to-share-in-sharepoint-online"></a>Freigeben in SharePoint Online
 
-So geben Sie eine Website frei
+So geben Sie eine Website frei:
   
 1. Öffnen Sie die Website in einem Webbrowser.
     
-2. Wenn die Website zu einer Office 365-Gruppe gehört, klicken Sie auf das Symbol Einstellungen in der oberen rechten Ecke, und klicken Sie dann auf **Websiteberechtigungen**. Klicken Sie auf **Personen einladen**, und wählen Sie dann zum Hinzufügen von Mitgliedern der Gruppe Office 365, oder geben Sie nur die Website. 
+2. Wenn die Website zu einer Office 365-Gruppe gehört, klicken Sie oben rechts auf das Symbol "Einstellungen", und klicken Sie dann auf **Websiteberechtigungen**. Klicken Sie auf **Personen einladen**, und wählen Sie dann Mitglieder zur Office 365-Gruppe hinzufügen oder nur die Website freigeben. 
     
-    Klicken Sie für eine Website Kommunikation in der rechten oberen Ecke auf **Freigeben Website** , geben Sie den Namen der Person ein, und wählen Sie dann die Berechtigungsstufe (Lesen, bearbeiten oder Full Control). 
+    Klicken Sie für eine Kommunikationswebsite oben rechts auf **Website freigeben** , geben Sie den Namen der Person ein, und wählen Sie dann die Berechtigungsstufe aus (lesen, bearbeiten oder Vollzugriff). 
     
-    Klicken Sie für eine klassische Teamwebsite in der rechten oberen Ecke auf **Freigeben** . Geben Sie den Namen der Person, die Sie einladen, oder geben Sie jeder für alle Benutzer in der Organisation freigeben möchten. Klicken Sie auf **Freigeben**.
+    Klicken Sie für eine klassische Teamwebsite oben rechts auf **Freigeben** . Geben Sie den Namen der Person ein, die Sie einladen möchten, oder geben Sie jeden ein, der für alle Benutzer in Ihrer Organisation freigegeben werden soll. Klicken Sie auf **Freigeben**.
     
-[Erfahren Sie, wie eine Datei oder einen Ordner freigeben.](https://go.microsoft.com/fwlink/?linkid=511430)
+[Informationen zum Freigeben einer Datei oder eines Ordners](https://go.microsoft.com/fwlink/?linkid=511430)
   
 

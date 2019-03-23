@@ -1,5 +1,5 @@
 ---
-title: Excel-AutoFilter-Problem
+title: AutoFilter-Problem
 ms.author: chrsm
 author: chrsm
 manager: jecon
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 4ef9e25f-7ac3-46fc-af90-cb24ad1c99ce
-ms.openlocfilehash: d19c2bbe96ae8c291876ff8b9537ddfda484e11a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 63f6ef815751b9cb0d5eebab006e374c61426733
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905507"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752921"
 ---
-# <a name="excel-autofilter-issue"></a>Excel-AutoFilter-Problem
+# <a name="excel-autofilter-issue"></a>AutoFilter-Problem
 
-Wenn Excel 2016: Verwenden der AutoFilter-Dropdownliste nicht alle verfügbaren Kontrollkästchen anzeigen oder die Kontrollkästchen nicht angeklickt werden kann, kann es aufgrund ein bekanntes Problem in früheren Excel-Builds sein. 
+Wenn Sie Excel 2016 verwenden, wenn Ihre AutoFilter-Dropdownliste nicht alle verfügbaren Kontrollkästchen anzeigt oder die Kontrollkästchen nicht clickable sind, kann dies auf ein bekanntes Problem in früheren Builds von Excel zurückzuführen sein. 
   
-Dieses Problem wird jetzt in der **Version 1707 (8326.2073)** oder höher behoben. Wenn Sie das Update sofort erhalten möchten, öffnen Sie Excel, und wählen Sie **Datei** \> **Konto** \> **Optionen aktualisieren** \> **Jetzt aktualisieren**.
+Dieses Problem ist jetzt in **Version 1707 (8326,2073)** oder höher behoben. Öffnen Sie Excel, und wählen Sie **Update** **Optionen** \> für **Datei** \> **Konten** \> , um das Update sofort zu erhalten.
   
 
