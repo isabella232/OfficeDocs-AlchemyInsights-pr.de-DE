@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: fb7a525e-3527-4b4f-84a7-8d969e97abf7
-ms.openlocfilehash: 3deb5f1ac8ec663c43848beb9d0a815198206e19
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 7d254fe04d98e28cd88f010749a423aea1474fe1
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405070"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758753"
 ---
 # <a name="update-dns-records"></a>Aktualisieren von DNS-Einträgen
 
-Das Einrichten Ihrer DNS-Einträge ist wichtig, damit Ihr Office 365-Abonnement mit Ihrem benutzerdefinierten Domänennamen funktioniert. Verwenden Sie die folgenden Links, um Ihre DNS-Einträge hinzuzufügen oder zu aktualisieren.
+Das Einrichten der DNS-Einträge ist wichtig, damit Ihr Office 365-Abonnement Arbeiten mit Ihrem benutzerdefinierten Domänennamen funktioniert. Verwenden Sie die nachstehenden Links zum Hinzufügen oder Aktualisieren Ihrer DNS-Einträge.
   
 - [Aktualisieren von DNS-Einträgen in Office 365](https://support.office.com/article/B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23)
     

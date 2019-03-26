@@ -1,5 +1,5 @@
 ---
-title: Domäne überprüfen
+title: Überprüfen der Domäne
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,20 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 99b4b225-38b3-4af2-afd7-29769ef5c2a0
-ms.openlocfilehash: be907ec3ef667e353561a832cee466699662440a
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: aec50ebaee7561566721bd68fe309c0933d55617
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404854"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760409"
 ---
-# <a name="trying-to-verify-your-domain"></a>Versuchen Sie, Ihre Domäne zu überprüfen?
+# <a name="trying-to-verify-your-domain"></a>Sie versuchen, Ihre Domäne zu überprüfen?
 
-Sie müssen Ihrer Domänenregistrierungsstelle einen TXT-Eintrag hinzufügen, um zu überprüfen, ob Sie Ihre Domäne besitzen. Folgen Sie dem Assistenten zum Hinzufügen von Domänen, indem Sie auf **Einstellungen** \> **Domäne**und dann auf **Domäne hinzufügen**klicken. 
+Sie müssen einen TXT-Eintrag zu Ihrer Domänenregistrierungsstelle hinzufügen, um sicherzustellen, dass Sie Eigentümer der Domäne sind. Folgen Sie dem Assistenten zum Hinzufügen von Domänen, indem Sie auf **Einstellungen** \> **Domäne** und dann auf **Domäne hinzufügen klicken**. 
   
-BeFolgen Sie die Anweisungen im folgenden Artikel, um einen TXT-Eintrag hinzuzufügen, um Ihre Domäne zu überprüfen. Wählen Sie Ihre Domänenregistrierungsstelle für spezifische Anweisungen für Ihre Domäne aus.
+Folgen Sie den Anweisungen im unten stehenden Artikel, um einen TXT-Eintrag zum Überprüfen Ihrer Domäne hinzuzufügen. Wählen Sie Ihre Domänenregistrierungsstelle aus, um spezifische Anweisungen für Ihre Domäne zu erhalten.
   
 [Erstellen von DNS-Einträgen für Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
   
