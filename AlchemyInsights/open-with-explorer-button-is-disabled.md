@@ -1,5 +1,5 @@
 ---
-title: Mit der Schaltfläche Explorer öffnen ist deaktiviert.
+title: Die Schaltfläche "mit Explorer öffnen" ist deaktiviert
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -9,20 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ff0f9110-10be-4c27-acaa-1615f81a53f2
-ms.openlocfilehash: 656d8787edb6ca00f6753d096c2c475a5b27c39d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ee77923fbf4b6e54aa3d9f8fd046f4a740e99e44
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927971"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766527"
 ---
-# <a name="the-open-with-explorer-button-is-disabled"></a>Das mit der Schaltfläche Explorer öffnen ist deaktiviert.
+# <a name="the-open-with-explorer-button-is-disabled"></a>Die Schaltfläche mit Explorer öffnen ist deaktiviert.
 
-- Navigieren Sie zur SharePoint oder dem OneDrive in Internet Explorer 10 oder Internet Explorer 11. Die Schaltfläche ist nicht kompatibel mit anderen Webbrowsern.
+- Navigieren Sie zum Speicherort von SharePoint oder OneDrive in Internet Explorer 10 oder Internet Explorer 11. Die Schaltfläche ist nicht mit anderen Webbrowser kompatibel.
     
 > [!NOTE]
-> Öffnen einer Dokumentbibliothek im Datei-Explorer ist hilfreich, wenn Sie kopieren oder verschieben Sie mehrere Dateien und Ordner nach, jedoch sollten Sie regelmäßig in der Bibliothek arbeiten müssen, wird empfohlen, synchronisieren es. Weitere Hilfe sowie von anderen Problemen im Datei-Explorer öffnen finden Sie unter [im Explorer öffnen](https://go.microsoft.com/fwlink/?linkid=871665). Info zum Einrichten von Sync finden Sie unter [Synchronisieren von SharePoint-Dateien mit dem neuen OneDrive-Synchronisierungsclient](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Das Öffnen einer Bibliothek im Datei-Explorer ist praktisch, wenn Sie mehrere Dateien und Ordner einmal kopieren oder verschieben müssen, aber wenn Sie regelmäßig in der Bibliothek arbeiten möchten, wird die Synchronisierung empfohlen. Weitere Hilfe und andere Probleme beim Öffnen im Datei-Explorer finden Sie unter [Open in Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Weitere Informationen zum Einrichten der Synchronisierung finden Sie unter [Synchronisieren von SharePoint-Dateien mit dem neuen OneDrive-synchronisierungsclient](https://go.microsoft.com/fwlink/?linkid=871666). 
   
 

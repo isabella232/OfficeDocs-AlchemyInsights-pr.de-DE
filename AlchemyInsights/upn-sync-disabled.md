@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
-ms.openlocfilehash: 983796ce8fb7e8b52c0ce31aa13597b53cc9e038
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 2a03ac64d92c07b523b015850251b33c58bb76f8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29921707"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767227"
 ---
 # <a name="upn-sync-disabled"></a>UPN-Synchronisierung deaktiviert
 
-Wenn Sie Azure AD vor dem 30 März 2016 Synchronisierung gestartet führen Sie das folgende Azure AD-PowerShell-Cmdlet, um weiche UPN-Übereinstimmung für Ihre Organisation nur zu aktivieren:
+Wenn Sie vor dem 30. März 2016 mit der Synchronisierung mit Azure AD begonnen haben, führen Sie das folgende Azure AD PowerShell-Cmdlet aus, um die UPN-weiche Übereinstimmung nur für Ihre Organisation zu aktivieren:
   
- **Set-MsolDirSyncFeature-Feature EnableSoftMatchOnUpn-$True aktivieren**
+ **Set-MsolDirSyncFeature-Feature EnableSoftMatchOnUpn-enable $True**
   
-Weiche Übereinstimmung UPN ist automatisch für Organisationen eingeschaltet, die an oder nach 30 März 2016 Azure AD synchronisiert wird gestartet.
+Die UPN-weiche Übereinstimmung wird automatisch für Organisationen aktiviert, die an oder nach dem 30. März 2016 mit Azure AD synchronisiert haben.
   
-Weitere Informationen zum Aktivieren der weiche Übereinstimmung UPN und andere Synchronisierung Features, finden Sie unter [Verbinden von Azure Active Directory Sync Service-Features](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).
+Weitere Informationen zum Aktivieren von Soft Match für UPN und andere Synchronisierungsfunktionen finden Sie unter [Azure AD Connect Sync Service Features](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).
   
 

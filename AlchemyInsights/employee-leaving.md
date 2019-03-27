@@ -9,26 +9,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
 description: ''
-ms.openlocfilehash: d66d92afb22f65fe937316d6f799696dc481657a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 3d7a1399cb1378cd6960d308d2df440310408b9d
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940571"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767463"
 ---
-# <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a>Haben einen Mitarbeiter verlassen, und den Zugriff auf Daten und e-Mail-blockieren benötigt?
+# <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a>Haben Sie einen Mitarbeiter verlassen und müssen Sie den Zugriff auf Daten und e-Mails blockieren?
   
-1. Wechseln Sie zur [aktiven Benutzer](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+1. Wechseln Sie zu [aktive Benutzer](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
     
-2. Wählen Sie den Benutzer, den Sie blockieren möchten. 
+2. Wählen Sie den Benutzer aus, den Sie blockieren möchten. 
     
-3. Neben Anmeldestatus wählen Sie **Bearbeiten**aus. 
+3. Wählen Sie neben Anmeldestatus die Option **Bearbeiten**aus. 
     
-4. Wählen Sie **blockieren die Benutzer an der Anmeldung** \> **Speichern**. 
+4. Wählen Sie blocken Sie **den Benutzer aus** \> ****. 
     
- **Hinweis**: Abmeldung für einige apps möglicherweise nicht direkt. Erkundigen Sie sich bei Weitere Aktionen in diesem Artikel: [Entfernen von einem früheren Mitarbeiter von Office 365](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)
+ **Hinweis**: die Abmeldung für einige apps ist möglicherweise nicht sofort. Weitere Aktionen in diesem Artikel: [Entfernen eines ehemaligen Mitarbeiters aus Office 365](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)
   
 

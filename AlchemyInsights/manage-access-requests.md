@@ -1,5 +1,5 @@
 ---
-title: Zugriffsanforderungen verwalten
+title: Verwalten von Zugriffsanforderungen
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -9,26 +9,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: ba64b23e5f179b3b0cfd2226e565d8f72d097b45
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 401600c1e6eb635e8b973d1d16a6ad05f0c795b5
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29921059"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766059"
 ---
-# <a name="manage-access-requests"></a>Zugriffsanforderungen verwalten
+# <a name="manage-access-requests"></a>Verwalten von Zugriffsanforderungen
 
-Wenn ein Benutzer versucht, ein Element in SharePoint zugreifen und sie sind nicht berechtigt, wird eine Meldung angezeigt, dass sie über die Berechtigung zum Zugriff auf das Element benötigen. Der Benutzer kann anfordern, Access (in einigen Fällen zu dem jeweiligen Element oder die Gruppe "Leistungsprotokollbenutzer") und ein Websitebesitzer genehmigen oder ablehnen können. Wenn eine Person, die kein Websitebesitzer ist eine Website mit einer anderen Person gemeinsam, erhalten der Websitebesitzer auch eine Access-Anforderung für den neuen Benutzer. Genehmigen oder ablehnen zugriffsanforderungen:
+Wenn ein Benutzer versucht, auf ein Element in SharePoint zuzugreifen, und er nicht über die Berechtigung verfügt, wird eine Meldung angezeigt, dass er die Berechtigung zum Zugreifen auf das Element benötigt. Der Benutzer kann den Zugriff (in einigen Fällen auf das jeweilige Element oder den Beitritt zur Gruppe) anfordern, und ein Websitebesitzer kann die Anforderung genehmigen oder ablehnen. Wenn jemand, der kein Websitebesitzer ist, eine Website für eine andere Person freigibt, erhält der Websitebesitzer auch eine Zugriffsanforderung für den neuen Benutzer. So können Sie Zugriffsanforderungen genehmigen oder ablehnen:
   
-1. Wechseln Sie zu der Website, klicken Sie auf das Symbol Einstellungen in der oberen rechten Ecke, und klicken Sie dann auf **Websiteeinstellungen**. (Wenn Sie Website-Einstellungen nicht angezeigt wird, klicken Sie auf **Websiteberechtigungen**und klicken Sie dann auf **Erweiterte Berechtigungen**. Suchen Sie nach einem Banner, das eine Verknüpfung mit "Zugriffsanforderungen und anzeigen Einladungen")
+1. Wechseln Sie zur Website, klicken Sie oben rechts auf das Symbol "Einstellungen", und klicken Sie dann auf **Websiteeinstellungen**. (Wenn die Websiteeinstellungen nicht angezeigt werden, klicken Sie auf **Websiteberechtigungen**und dann auf **Erweiterte Berechtigungseinstellungen**. Suchen Sie nach einem Banner, das einen Link mit dem Namen "Show Access Requests and Invitations" enthält.)
     
-2. Klicken Sie unter **Benutzer und Berechtigungen**auf **Access-Anforderungen und Einladungen**. (Wenn dies nicht angezeigt wird, haben keine zugriffsanforderungen vorgenommen wurden.)
+2. Klicken Sie unter **Benutzer und Berechtigungen**auf **Zugriffsanforderungen und-Einladungen**. (Falls dies nicht der Fall ist, wurden keine Zugriffsanforderungen vorgenommen.)
     
-3. Wenn die Benutzer die Berechtigung einzeln übergeben möchten, klicken Sie auf **Genehmigen** oder **Ablehnen**. Klicken Sie zum Auswählen einer bestimmten Berechtigungsstufe zuerst auf die Auslassungspunkte (...) neben den Namen der Person. Alternativ dazu fügen Sie den Benutzer zu einer Gruppe mit der Berechtigung zur Website hinzu. Kommunikationswebsites und klassische Teamwebsites können Sie Folgendes auf der Seite Websiteeinstellungen machen. Für Websites, die ein Office 365-Gruppe angehören, können Sie den Benutzer zur Gruppe hinzufügen.
+3. Klicken Sie auf genehmigen oder **ablehnen**, **** um dem Benutzer die Berechtigung einzeln zu erteilen. Klicken Sie zum Auswählen einer bestimmten Berechtigungsstufe zunächst auf die Auslassungspunkte (...) neben dem Namen der Person. Alternativ können Sie den Benutzer einer Gruppe hinzufügen, die über die Berechtigung für die Website verfügt. Für Kommunikationswebsites und klassische Teamwebsites können Sie dies auf der Seite Websiteeinstellungen tun. Für Websites, die zu einer Office 365-Gruppe gehören, können Sie den Benutzer der Gruppe hinzufügen.
     
-    [Zugriffsanforderungen verwalten](https://go.microsoft.com/fwlink/?linkid=2008747)
+    [Verwalten von Zugriffsanforderungen](https://go.microsoft.com/fwlink/?linkid=2008747)
     
     [Weitere Informationen zu Berechtigungsstufen](https://go.microsoft.com/fwlink/?linkid=867071)
     

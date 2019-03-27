@@ -1,5 +1,5 @@
 ---
-title: Hinzufügen oder Reduzieren von Lizenzen
+title: Hinzufügen oder reduzieren von Lizenzen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: 244cf804ea0f270bf56ba3247beb91463ffb66b4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 38d706c035613bf4f3ff87ffbfa19621aa386763
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29922895"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767427"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a>Hinzufügen oder Reduzieren von Lizenzen
+# <a name="how-to-add-or-reduce-licenses"></a>Hinzufügen oder reduzieren von Lizenzen
 
-Es folgt das Entfernen oder weitere Lizenzen erwerben.
+Hier erfahren Sie, wie Sie weitere Lizenzen entfernen oder erwerben.
   
 1. Wechseln Sie im Admin Center zur Seite [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), oder wählen Sie **Abrechnung** \> **Abonnements** aus.
     
-2. Wählen Sie auf der linken Seite des Abonnements aus der möchten Sie hinzufügen und Entfernen von Lizenzen
+2. Wählen Sie auf der linken Seite das Abonnement aus, für das Sie Lizenzen hinzufügen/entfernen möchten.
     
 3. Wählen Sie **Lizenzen hinzufügen/entfernen** aus.
     
-4. Geben Sie die Gesamtzahl der Benutzer benötigt.
+4. Geben Sie die Gesamtzahl der benötigten Benutzer ein.
     
-    Wenn Sie derzeit 25 Lizenzen haben und Sie 5 entfernen möchten, geben Sie 20 in dieses Feld fest.
+    Wenn Sie beispielsweise derzeit 25 Lizenzen haben und 5 entfernen möchten, geben Sie 20 in dieses Feld ein.
     
 5. Wählen Sie **Übermitteln** aus.
     
 > [!NOTE]
-> Alle neuen Gebühr (Lizenz Erhöhung) oder einer (Lizenz senken) wird auf Ihrer nächsten Rechnung angezeigt. 
+> Alle neuen Gebühren (Lizenz Zuwachs) oder Guthaben (Lizenz Rückgang) werden auf Ihrer nächsten Rechnung angezeigt. 
   
  **Ressourcen**
   

@@ -1,5 +1,5 @@
 ---
-title: Konfigurieren von überwachungseinstellungen
+title: Konfigurieren von Überwachungseinstellungen
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 98b3d4fa-9210-43e8-9faf-7af3dd9d8557
-ms.openlocfilehash: 44c7209f651427017aac6c146cccb698c0a71d67
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 9a5b157bb70e6c1ff445a2b51d0dca8f30890f4c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918935"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766131"
 ---
-# <a name="configure-sharepoint-audit-settings"></a>Konfigurieren von überwachungseinstellungen für SharePoint
+# <a name="configure-sharepoint-audit-settings"></a>Konfigurieren von SharePoint-Überwachungseinstellungen
 
-SharePoint-Website-Auflistung-Administratoren können Benutzeraktionen Inhalten durch Konfigurieren von überwachungseinstellungen nachverfolgen.
+SharePoint-Websitesammlungsadministratoren können Benutzeraktionen für Inhalte nachverfolgen, indem Sie Überwachungseinstellungen konfigurieren.
   
 1. Öffnen Sie die SharePoint-Website.
     
-2. Klicken Sie auf das Symbol Einstellungen, und klicken Sie dann auf **websiteeinstellungen**. Wenn "Websiteeinstellungen" nicht angezeigt wird, klicken Sie auf **Websiteinformationen**, und klicken Sie dann auf **Alle websiteeinstellungen anzeigen**.
+2. Klicken Sie auf das Symbol Einstellungen und dann auf **Websiteeinstellungen**. Wenn "Websiteeinstellungen" nicht angezeigt wird, klicken Sie auf **Website Informationen**, und klicken Sie dann auf **Alle Websiteeinstellungen einblenden**.
     
-3. Wählen Sie unter **Verwaltung der Websitesammlung** **überwachungseinstellungen Websitesammlung**ein. (Wenn es nicht angezeigt wird, klicken Sie auf **websiteeinstellungen der obersten Ebene** zuerst.) 
+3. Wählen Sie unter **Websitesammlungsverwaltung**die Option **Website Sammlungs Überwachungseinstellungen**aus. (Wenn es nicht angezeigt wird, klicken Sie zuerst auf **Websiteeinstellungen auf oberster Ebene wechseln** .) 
     
-Informationen darüber, was ist enthalten in SharePoint Überwachungsprotokollberichte sowie zum anzeigen können, finden Sie unter [Konfigurieren der Einstellungen für eine Websitesammlung zu überwachen](https://go.microsoft.com/fwlink/?linkid=404050).
+Informationen dazu, was in SharePoint-Überwachungsprotokollberichten enthalten ist und wie diese angezeigt werden, finden Sie unter [Konfigurieren von Überwachungseinstellungen für eine Websitesammlung](https://go.microsoft.com/fwlink/?linkid=404050).
   
 

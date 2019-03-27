@@ -1,5 +1,5 @@
 ---
-title: Ändern Sie, wie oft Sie Zahlen
+title: Ändern der Häufigkeit, mit der Sie zahlen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
-ms.openlocfilehash: a39f9859b71213bd149b3bd9195f5c0439b2de3b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: af0c53ff35ea4d6f9fdf99503c26f5d7f0050dfb
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925595"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766599"
 ---
-# <a name="change-how-often-you-pay"></a>Ändern Sie, wie oft Sie Zahlen
+# <a name="change-how-often-you-pay"></a>Ändern der Häufigkeit, mit der Sie zahlen
 
- **Ihrer Häufigkeit ändern möchten?** Wenn Sie ändern, wie häufig Sie Ihre Office 365 für Business-Abonnements, entweder von monatlich oder Monthly aus, um jährlich, jährliche bezahlen möchten können wir Sie dabei helfen. Sie müssen das gleiche-Abonnement mit der neuen Zahlung Häufigkeit und das Abonnement der alten. Verwenden Sie die Option "wollen wir uns anrufen", um mit einem Supporttechniker sprechen. 
+ **Sie möchten Ihre Zahlungshäufigkeit ändern?** Wenn Sie ändern möchten, wie häufig Sie für Ihr Office 365 for Business-Abonnement bezahlen, entweder von Annual zu Monthly oder Monthly to Annual, können wir Ihnen dabei helfen. Sie müssen dasselbe Abonnement mit der neuen Zahlungshäufigkeit erwerben und das alte Abonnement kündigen. Verwenden Sie die Option "lassen Sie uns anrufen", um mit einem Supporttechniker zu sprechen. 
   
 

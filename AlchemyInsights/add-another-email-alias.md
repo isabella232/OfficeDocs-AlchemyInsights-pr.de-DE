@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 1fd498dbbc96b2226c42553b652c04cfbb5e75ca
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 66d20ca17287ee762266a22a376f59f5f8975a00
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208008"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767319"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Erstellen oder Hinzufügen eines e-Mail-Alias für einen Benutzer
 
@@ -28,7 +28,7 @@ Sie müssen einen e-Mail-Alias für einen Benutzer erstellen oder eine zusätzli
     
 3. Wählen Sie rechts in der Zeile **Benutzername/E-Mail-Aliase** die Option **Bearbeiten** aus.
     
-4. Geben Sie im Feld **Alias** eine neue e-Mail ein, und wählen Sie dann **Hinzufügen**aus. Wenn Sie Ihr Abonnement von GoDaddy oder einem anderen Partner erworben haben, müssen Sie zur GoDaddy/Partner Management Console wechseln, um den neuen Alias als primären zu konfigurieren. 
+4. Geben Sie im Feld **Alias** eine neue e-Mail ein, und wählen Sie dann **Hinzufügen**aus. Wenn Sie Ihr Abonnement bei GoDaddy oder einem anderen Partner gekauft haben und den neuen Alias als primäre E-Mail-Adresse festlegen möchten, müssen Sie zur Verwaltungskonsole "GoDaddy/partner" wechseln. 
     
     **WICHTIG**: Wenn die Fehlermeldung " **Es wurde kein Parameter gefunden, der dem Parametername 'EmailAddresses' entspricht**" angezeigt wird, bedeutet dies, dass es etwas länger dauert, bis Office 365 das Einrichten Ihres Mandanten oder Ihrer benutzerdefinierten Domäne (falls Sie kürzlich eine hinzugefügt haben) abgeschlossen hat. Der Setupvorgang kann bis zu 4 Stunden dauern. Warten Sie eine Zeitlang, damit dieser Vorgang abgeschlossen werden kann. Versuchen Sie es dann erneut. Sollte das Problem weiterhin bestehen, rufen Sie den Support an. Er wird eine vollständige Synchronisierung für Sie durchführen.
     

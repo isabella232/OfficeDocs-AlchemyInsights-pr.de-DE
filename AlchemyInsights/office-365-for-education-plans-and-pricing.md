@@ -1,5 +1,5 @@
 ---
-title: Office 365 für Bildungseinrichtungen Pläne und zu Preisen
+title: Office 365 für Bildungspläne und Preise
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: 8f9ddaf5d572a563555962ec79e7c35cc4ae4b23
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 540fe0e8f9edd6949229e90e256aa2626584dd3b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905255"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767219"
 ---
-# <a name="get-office-365-free-for-your-entire-school"></a>Rufen Sie Office 365 kostenlos für Ihre gesamte Schule
+# <a name="get-office-365-free-for-your-entire-school"></a>Office 365 kostenlos für Ihre gesamte Schule
 
-Verbessern der Zusammenarbeit von vor Ort und Schule mit kostenlose Produktivitätstools. Sie benötigen, um sicherzustellen, dass Sie diese Angebote nutzen einer anerkannten Bildungseinrichtung sind.
+Verbessern der Zusammenarbeit von Klassenzimmern und Schulen mit kostenlosen Produktivitätstools Sie müssen sich vergewissern, dass Sie eine anerkannte akademische Institution sind, um diese Angebote nutzen zu können.
   
-- [Überprüfen Sie die Pläne für Bildungseinrichtungen](https://products.office.com/academic/compare-office-365-education-plans)
+- [Überdenken der Bildungspläne](https://products.office.com/academic/compare-office-365-education-plans)
     
-- [Erste Schritte mit Office 365-Schulung](https://support.office.com/article/ab02abe5-a1ee-458c-b749-5b44416ccf1)
+- [Erste Schritte mit Office 365 Education](https://support.office.com/article/ab02abe5-a1ee-458c-b749-5b44416ccf1)
     
-- [Vergleichen Sie alle Office 365-Pläne](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Vergleichen aller Office 365-Pläne](https://products.office.com/business/compare-more-office-365-for-business-plans)
     
 

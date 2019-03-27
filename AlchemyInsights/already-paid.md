@@ -1,5 +1,5 @@
 ---
-title: Bereits werden bezahlt?
+title: Bereits bezahlt?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 091e3fa1-b67f-40a4-b72f-b69c9f2c741f
-ms.openlocfilehash: 76c5d1bba93abf52bf60bf59d0b901e70fff3598
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 33897829d1ab902e423eb2f8e9e1b2dfc5f869fd
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29923594"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766923"
 ---
-# <a name="already-paid"></a>Bereits werden bezahlt?
+# <a name="already-paid"></a>Bereits bezahlt?
 
-Wenn Sie bereits Zahlung gesendet haben, können wir wissen:
+Wenn Sie bereits eine Zahlung gesendet haben, können Sie uns Folgendes mitteilen:
   
-1. Wechseln Sie zur Seite [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) , oder wählen Sie **Abrechnung** \> **Abonnements**.
+1. Wechseln Sie zur Seite [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) , oder wählen Sie **Abrechnungs** \> **Abonnements**aus.
     
-2. Wählen Sie ein Abonnement, und wählen Sie im Abschnitt **meiner Zahlung** **Bill anzeigen**.
+2. Wählen Sie ein Abonnement aus, und wählen Sie im Abschnitt **meine Rechnung** die Option **Rechnung anzeigen**aus.
     
-3. Wählen Sie auf der Seite **Details Bill** **bereits bezahlt?** Sie werden aufgefordert, geben Informationen im Zusammenhang mit der die Zahlung, die gesendet wurde. 
+3. Wählen Sie auf der Seite **Rechnungsdetails** die Option **bereits bezahlt aus?** Sie werden aufgefordert, Informationen zu der gesendeten Zahlung einzugeben. 
     
-4. Wenn alle erforderlichen Informationen eingegeben wurde, wählen Sie **Senden**.
+4. Wenn alle erforderlichen Informationen eingegeben wurden, wählen Sie **senden**aus.
     
 

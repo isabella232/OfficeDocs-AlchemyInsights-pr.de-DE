@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 999008cd1b8f5d4b07660351605e60b87d557883
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: f8c412bda739179b295d62a1d6a6e31a88cf59c2
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208440"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767031"
 ---
 # <a name="change-a-users-email-address"></a>Ändern der E-Mail-Adresse eines Benutzers
 
-Das Ändern der e-Mail-Adresse eines Benutzers ist einfach! Führen Sie die folgenden Schritte aus:
+Das Ändern der e-Mail-Adresse eines Benutzers ist einfach! Führen Sie einfach die folgenden Schritte aus:
   
 1. wechseln sie im Microsoft 365 admin center zur seite [benutzer](https://go.microsoft.com/fwlink/p/?linkid=834822) , oder wählen sie **** \> **aktive**benutzer aus.
     
@@ -34,7 +34,7 @@ Das Ändern der e-Mail-Adresse eines Benutzers ist einfach! Führen Sie die folg
     
     Wenn Sie die Fehlermeldung " **es tut uns leid, der Benutzer konnte nicht bearbeitet werden. Über lesen Sie die Benutzerinformationen, und versuchen**Sie es erneut: "es heißt, Sie sind kein Office 365 globaler Administrator, und Sie haben keine Berechtigung, den Namen des Benutzers zu ändern.
     
-5. Wählen Sie **als primäre** e-Mail-Adresse festlegen aus, die als primäre e-Mail-Adresse für diese Person festgelegt werden soll. Wenn Sie Ihr Abonnement von GoDaddy erworben haben, müssen Sie sich bei Ihrer Verwaltungskonsole anmelden, um die primäre e-Mail-Adresse festzulegen. 
+5. Wählen Sie **Als primäre E-Mail-Adresse festlegen** für die E-Mail-Adresse aus, die Sie als primäre E-Mail-Adresse für diese Person festlegen möchten. Wenn Sie Ihr Abonnement von GoDaddy erworben haben, müssen Sie sich bei Ihrer Verwaltungskonsole anmelden, um die primäre e-Mail-Adresse festzulegen. 
     
 6. Klicken Sie auf **Speichern**und dann auf **Schließen**, und Sie sind fertig!
     

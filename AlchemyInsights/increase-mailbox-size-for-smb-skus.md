@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 51691206576822cdfb71e28e58ccf81fc1fa9654
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 8d0d846c97bac885e0082670dbeec3f4fd8c1129
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30207936"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766887"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Wechseln von Plänen zum Vergrößern des Postfachs
 
-Wenn die Postfachgröße 50 GB beträgt, können Sie die Postfachgröße auf 100 GB verlängern, indem Sie zu [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) oder [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software)wechseln. Hier sind die Schritte zum Wechseln zu einem anderen Office 365-Plan:
+Eine Postfachgröße von 50 GB können Sie auf 100 GB erhöhen, indem Sie zu [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) oder [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software) wechseln. Hier sind die erforderlichen Schritte für den Wechsel zu einem anderen Office 365-Plan:
   
 1. wechseln sie im Microsoft 365 admin center zur seite [abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) , oder wählen sie **abrechnungs** \> **abonnements**aus.
     

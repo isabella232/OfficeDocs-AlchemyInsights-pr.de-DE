@@ -1,5 +1,5 @@
 ---
-title: Wenn wird meine Kreditkarte aufgeladen?
+title: Wann wird meine Kreditkarte belastet?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: 0cf6f678f7310d2b82aeee025298229b8d7e67e4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: adad4b8d16185db033a5405b2b09dc8f72fb221b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29942335"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766707"
 ---
-# <a name="when-is-my-credit-card-charged"></a>Wenn wird meine Kreditkarte aufgeladen?
+# <a name="when-is-my-credit-card-charged"></a>Wann wird meine Kreditkarte belastet?
 
-Mit einer ursprüngliche Kaufdatum kann es bis zu zwei Tage für die Belastung erfolgt dauern.
+Bei einem erstmaligen Erwerb kann es bis zu zwei Tage dauern, bis die Gebühr eintritt.
   
-Wiederkehrende Gebühren Vorkommen innerhalb eines Tages der Rechnung erstellt wird.
+Wiederkehrende Zuschläge erfolgen innerhalb eines Tages nach der Erstellung der Rechnung.
   
-Wenn die Belastung nicht erfolgreich ist, wird das System weiterhin versuchen, das Gleichgewicht über den nächsten Wochen auszugleichen. Führen Sie Upgrades an Ihre Zahlungsinformationen zu einem beliebigen Zeitpunkt, um sicherzustellen, dass der nächste Gebühr Versuch erfolgreich ist. Weitere Informationen finden Sie unter [Hinzufügen, aktualisieren oder Entfernen einer Kreditkarte oder Bankkonto in Office 365 für Unternehmen](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Wenn die Gebühr nicht erfolgreich ist, versucht das System in den nächsten Wochen weiterhin, den Saldo zu begleichen. Sie können jederzeit Aktualisierungen an Ihren Zahlungsinformationen vornehmen, um sicherzustellen, dass der nächste Ladevorgang erfolgreich ist. Weitere Informationen finden Sie unter [hinzufügen, aktualisieren oder Entfernen einer Kreditkarte oder eines Bankkontos in Office 365 for Business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
   
 
