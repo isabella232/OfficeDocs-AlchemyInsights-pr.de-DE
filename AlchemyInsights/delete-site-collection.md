@@ -1,5 +1,5 @@
 ---
-title: Websitesammlung löschen
+title: Löschen einer Website
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 48710191-b17d-4560-b356-b351371d4d73
-ms.openlocfilehash: 04edde4c22c9ab465cbcff4cb08d8f5965943fad
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 37606af8cbbd1d54cde646400386652b0d5aae56
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30757529"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747561"
 ---
-# <a name="delete-a-sharepoint-site-collection"></a><span data-ttu-id="0d5de-102">Löschen einer SharePoint-Websitesammlung</span><span class="sxs-lookup"><span data-stu-id="0d5de-102">Delete a SharePoint site collection</span></span>
+# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="b8a24-102">Löschen einer SharePoint-Website</span><span class="sxs-lookup"><span data-stu-id="b8a24-102">Delete a SharePoint site</span></span>
 
-1. <span data-ttu-id="0d5de-103">Aktivieren Sie im klassischen SharePoint Admin Center auf der Seite Websitesammlungen das Kontrollkästchen neben der Websitesammlung.</span><span class="sxs-lookup"><span data-stu-id="0d5de-103">In the classic SharePoint admin center, on the site collections page, select the check box next to the site collection.</span></span>
+1. <span data-ttu-id="b8a24-103">Klicken Sie im neuen SharePoint Admin Center auf der Seite Websites auf das Kontrollkästchen neben der Website, die Sie löschen möchten.</span><span class="sxs-lookup"><span data-stu-id="b8a24-103">In the new  SharePoint admin center, on the Sites page, click the check box next to the site you wish to delete.</span></span>
     
-2. <span data-ttu-id="0d5de-104">Klicken Sie auf der Registerkarte Websitesammlungen auf **Löschen**.</span><span class="sxs-lookup"><span data-stu-id="0d5de-104">On the Site Collections tab, select **Delete**.</span></span>
+2. <span data-ttu-id="b8a24-104">Klicken Sie auf der Menü Band Symbolleiste auf **Löschen**.</span><span class="sxs-lookup"><span data-stu-id="b8a24-104">On the ribbon toolbar, click **Delete**.</span></span>
     
 

@@ -1,5 +1,5 @@
 ---
-title: Externe Freigabe mit einer Teamwebsite
+title: Externe Freigabe mit einer Team Website
 ms.author: kirks
 author: Techwriter40
 ms.date: 1/3/2019
@@ -8,27 +8,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: 8753cb5595607a7ea63e1861affcd16d61e7827e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cc5f917522f31349c48c8232496dc862d6769539
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936283"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747489"
 ---
-# <a name="external-sharing-with-a-team-site"></a><span data-ttu-id="1ca16-102">Externe Freigabe mit einer Teamwebsite</span><span class="sxs-lookup"><span data-stu-id="1ca16-102">External Sharing with a Team Site</span></span>
+# <a name="external-sharing-with-a-team-site"></a><span data-ttu-id="4cf6d-102">Externe Freigabe mit einer Team Website</span><span class="sxs-lookup"><span data-stu-id="4cf6d-102">External Sharing with a Team Site</span></span>
 
-<span data-ttu-id="1ca16-103">Gehen Sie folgendermaßen vor, um externe Benutzer, die Freigabe für Teamwebsites zu aktivieren:</span><span class="sxs-lookup"><span data-stu-id="1ca16-103">To turn on external user sharing for Team Sites, follow these steps:</span></span> 
+<span data-ttu-id="4cf6d-103">Gehen Sie folgendermaßen vor, um die externe Benutzer Freigabe für Team Websites zu aktivieren:</span><span class="sxs-lookup"><span data-stu-id="4cf6d-103">To turn on external user sharing for Team Sites, follow these steps:</span></span> 
   
-1. <span data-ttu-id="1ca16-p101">Open sehen die **Modern Admin Center** – Wenn Sie in der klassischen-Verwaltungskonsole Sie sind eine Schaltfläche **versuchen Sie es jetzt** oder **die Vorschau** aus der rechten oberen Ecke. Dadurch gelangen Sie zur Modern-Verwaltungskonsole.</span><span class="sxs-lookup"><span data-stu-id="1ca16-p101">Open the **Modern Admin Center** - If you're in the classic Admin Center you'll see a **Try it now** or **Try the preview** button from the top right. This will take you to the Modern Admin Center.</span></span> 
+1. <span data-ttu-id="4cf6d-104">Klicken Sie im neuen SharePoint Admin Center auf **aktive Websites**.</span><span class="sxs-lookup"><span data-stu-id="4cf6d-104">In the new SharePoint admin center, click **Active Sites**.</span></span>
   
-2. <span data-ttu-id="1ca16-106">Wählen Sie **aktiven Websites**aus.</span><span class="sxs-lookup"><span data-stu-id="1ca16-106">Select **Active Sites**.</span></span> 
+2. <span data-ttu-id="4cf6d-105">Wählen Sie eine Website mit einer **Team Website** -Vorlage aus.</span><span class="sxs-lookup"><span data-stu-id="4cf6d-105">Select a site that has a **Team Site** template.</span></span> 
   
-3. <span data-ttu-id="1ca16-107">Wählen Sie eine Website, die über eine Vorlage für **Teamwebsite** verfügt.</span><span class="sxs-lookup"><span data-stu-id="1ca16-107">Select a site that has a **Team Site** template.</span></span> 
+3. <span data-ttu-id="4cf6d-106">Wählen Sie im oberen Menü die Schaltfläche **Freigabe** aus.</span><span class="sxs-lookup"><span data-stu-id="4cf6d-106">Select the **Sharing** button from the top menu.</span></span> 
   
-4. <span data-ttu-id="1ca16-108">Wählen Sie die Schaltfläche **Freigabe** im oberen Menü aus.</span><span class="sxs-lookup"><span data-stu-id="1ca16-108">Select the **Sharing** button from the top menu.</span></span> 
+ <span data-ttu-id="4cf6d-107">**Hinweis**: Wenn eine moderne Team Website erstellt wird, wird die Option für die externe Freigabe standardmäßig auf neue und vorhandene externe Benutzer festgelegt.</span><span class="sxs-lookup"><span data-stu-id="4cf6d-107">**Note**: By default, when a Modern Team Site is created, the External sharing option will be set to New and existing external users.</span></span> 
   
- <span data-ttu-id="1ca16-109">**Hinweis**: in der Standardeinstellung beim Erstellen einer modernen Teamwebsite die Option Freigabe externe festgelegt auf neuen und vorhandenen externen Benutzern.</span><span class="sxs-lookup"><span data-stu-id="1ca16-109">**Note**: By default, when a Modern Team Site is created, the External sharing option will be set to New and existing external users.</span></span> 
-  
- <span data-ttu-id="1ca16-p102">**Hinweis:** Wenn Sie mehr als einen Standort ausgewählt haben, wird die Schaltfläche **Freigabe** deaktiviert angezeigt. Wählen Sie nur einen Standort aus.</span><span class="sxs-lookup"><span data-stu-id="1ca16-p102">**Note:** If you have more than one site selected, the **Sharing** button will appear disabled. Select only one site.</span></span> 
+ <span data-ttu-id="4cf6d-108">**Hinweis:** Wenn Sie mehrere Websites ausgewählt haben, wird die **Freigabe** Schaltfläche deaktiviert angezeigt.</span><span class="sxs-lookup"><span data-stu-id="4cf6d-108">**Note:** If you have more than one site selected, the **Sharing** button will appear disabled.</span></span> <span data-ttu-id="4cf6d-109">Wählen Sie nur eine Website aus.</span><span class="sxs-lookup"><span data-stu-id="4cf6d-109">Select only one site.</span></span> 
   
 

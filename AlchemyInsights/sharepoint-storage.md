@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 81f966e1c759003765a6a6a82988a5fbb456e3c0
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 08e882f822411734d69a3c714d4ec8059c6cd60b
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30759761"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747921"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="04a71-102">Verwalten des SharePoint Online-Speichers</span><span class="sxs-lookup"><span data-stu-id="04a71-102">Manage your SharePoint Online storage</span></span>
+# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="4bd4d-102">Verwalten des SharePoint Online-Speichers</span><span class="sxs-lookup"><span data-stu-id="4bd4d-102">Manage your SharePoint Online storage</span></span>
 
-<span data-ttu-id="04a71-103">Für die meisten Organisationen wird der SharePoint-Speicher automatisch verwaltet, sodass Sie keine Einschränkungen pro Websitesammlung festlegen müssen.</span><span class="sxs-lookup"><span data-stu-id="04a71-103">For most organizations, SharePoint storage is managed automatically so you don't need to set limits per site collection.</span></span> <span data-ttu-id="04a71-104">So überprüfen Sie, wie viel SharePoint-Speicher Sie haben:</span><span class="sxs-lookup"><span data-stu-id="04a71-104">To check how much SharePoint storage you have:</span></span>
+<span data-ttu-id="4bd4d-103">Für die meisten Organisationen wird der SharePoint-Speicher automatisch verwaltet, sodass Sie keine Einschränkungen pro Websitesammlung festlegen müssen.</span><span class="sxs-lookup"><span data-stu-id="4bd4d-103">For most organizations, SharePoint storage is managed automatically so you don't need to set limits per site collection.</span></span> <span data-ttu-id="4bd4d-104">So überprüfen Sie, wie viel SharePoint-Speicher Sie haben:</span><span class="sxs-lookup"><span data-stu-id="4bd4d-104">To check how much SharePoint storage you have:</span></span>
   
-- <span data-ttu-id="04a71-105">Suchen Sie im klassischen SharePoint Admin Center oben rechts auf der Seite Websitesammlungen nach dem verfügbaren und vollständigen Speicher.</span><span class="sxs-lookup"><span data-stu-id="04a71-105">In the classic SharePoint admin center, in the upper right of the site collections page, look for your available and total storage.</span></span>
+- <span data-ttu-id="4bd4d-105">Suchen Sie im neuen SharePoint Admin Center oben rechts auf der Seite Websites nach dem verfügbaren und vollständigen Speicher.</span><span class="sxs-lookup"><span data-stu-id="4bd4d-105">In the new SharePoint admin center, in the upper right of the sites page, look for your available and total storage.</span></span>
     
-<span data-ttu-id="04a71-106">Informationen dazu, wie Ihr Grenzwert berechnet wird, finden Sie unter [SharePoint Online-Grenzwerte](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span><span class="sxs-lookup"><span data-stu-id="04a71-106">For info about how your limit is calculated, see [SharePoint Online Limits](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span></span> <span data-ttu-id="04a71-107">Weitere Informationen finden Sie unter [Ändern des Speicherplatzes für Ihr Abonnement](https://go.microsoft.com/fwlink/?linkid=866428).</span><span class="sxs-lookup"><span data-stu-id="04a71-107">To buy extra storage, see [Change storage space for your subscription](https://go.microsoft.com/fwlink/?linkid=866428).</span></span>
+<span data-ttu-id="4bd4d-106">Informationen dazu, wie Ihr Grenzwert berechnet wird, finden Sie unter [SharePoint Online-Grenzwerte](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span><span class="sxs-lookup"><span data-stu-id="4bd4d-106">For info about how your limit is calculated, see [SharePoint Online Limits](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span></span> <span data-ttu-id="4bd4d-107">Weitere Informationen finden Sie unter [Ändern des Speicherplatzes für Ihr Abonnement](https://go.microsoft.com/fwlink/?linkid=866428).</span><span class="sxs-lookup"><span data-stu-id="4bd4d-107">To buy extra storage, see [Change storage space for your subscription](https://go.microsoft.com/fwlink/?linkid=866428).</span></span>
   
-<span data-ttu-id="04a71-108">Weitere Informationen zum Überwachen der Speicherung einzelner Websites mithilfe von PowerShell und zum manuellen Verwalten des Website Sammlungs Speichers finden Sie unter [Verwalten von speichergrenzwertEn für Websitesammlungen](https://go.microsoft.com/fwlink/?linkid=867833) .</span><span class="sxs-lookup"><span data-stu-id="04a71-108">For info about monitoring the storage of individual sites using PowerShell and managing site collection storage manually, see [Manage site collection storage limits](https://go.microsoft.com/fwlink/?linkid=867833)</span></span>
+<span data-ttu-id="4bd4d-108">Weitere Informationen zum Überwachen der Speicherung einzelner Websites mithilfe von PowerShell und zum manuellen Verwalten des Website Sammlungs Speichers finden Sie unter [Verwalten von speichergrenzwertEn für Websitesammlungen](https://go.microsoft.com/fwlink/?linkid=867833) .</span><span class="sxs-lookup"><span data-stu-id="4bd4d-108">For info about monitoring the storage of individual sites using PowerShell and managing site collection storage manually, see [Manage site collection storage limits](https://go.microsoft.com/fwlink/?linkid=867833)</span></span>
   
 
