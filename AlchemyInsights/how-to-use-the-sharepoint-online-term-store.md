@@ -1,5 +1,5 @@
 ---
-title: 'Gewusst wie: Verwenden von SharePoint Online Terminologiespeicher'
+title: Verwenden des SharePoint Online-Terminologiespeicher
 ms.author: kirks
 author: Techwriter40
 ms.date: 12/17/2018
@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: a1eb23c097e8540856df9d350798a0cdfeb73f15
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ac2e27eac4110def1ab91e5124b21b216ddbc178
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29932471"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747669"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a>Gewusst wie: Verwenden von SharePoint Online Terminologiespeicher
+# <a name="how-to-use-the-sharepoint-online-term-store"></a>Verwenden des SharePoint Online-Terminologiespeicher
 
-Der Laufzeitspeicher steht ein globaler Administrator für Office 365, SharePoint Admin und Begriff Store-Admins und finden Sie in der klassischen SharePoint Online-Verwaltungskonsole. 
+Der Terminologiespeicher ist für einen Office 365-Administrator für globale Administratoren, SharePoint-Administratoren und Terminologiespeicher verfügbar und kann im neuen SharePoint Online Admin Center gefunden werden. 
   
-Weitere Informationen zum Verwenden der SharePoint Online-Terminologiespeicher und die Taxonomie in SharePoint Online finden Sie unter [Einführung in verwaltete Metadaten](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
+Weitere Informationen zur Verwendung des SharePoint Online-Terminologiespeicher und der Taxonomie in SharePoint Online finden Sie unter [Einführung in verwaltete Metadaten](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
   
-Wenn Sie ein Problem mit Begriffen nicht angezeigt oder angezeigt werden zeitweise haben, sollten Sie warten, 24 Stunden, und melden Sie sich eine Supportanfrage, falls das Problem weiterhin auftritt. Obwohl 24 Stunden einen längeren Zeitraum sein können, könnte ein Problem Zwischenspeichern oder wir möglicherweise bereits an einer Lösung für dieses Problem funktioniert.
+Wenn ein Problem mit Begriffen auftritt, die nicht oder nur sporadisch angezeigt werden, wird empfohlen, 24 Stunden zu warten und dann eine Supportanfrage zu protokollieren, wenn das Problem weiterhin besteht. Auch wenn 24 Stunden eine lange Zeit sein können, könnte es ein Problem Zwischenspeicherung geben, oder wir arbeiten bereits an einer Lösung für dieses Problem.
   
 

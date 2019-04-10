@@ -167,7 +167,7 @@
 | 3/22/2019 | [8000015 blockieren oder Aufheben der Blockierung von Absendern](/AlchemyInsights/block-or-unblock-senders) | umbenannte |
 | 3/22/2019 | [726 Blockieren der e-Mail-Weiterleitung](/AlchemyInsights/blocking-email-forwarding) | umbenannte |
 | 3/22/2019 | [763 Blockieren des Exchange Online PowerShell-Zugriffs für Benutzer](/AlchemyInsights/blocking-exchange-online-powershell-access-for-users) | umbenannte |
-| 3/22/2019 | [Kaufen eines Abonnements von Office 365 Business von Ihrer Testversion aus](/AlchemyInsights/buy-a-subscription-to-office-365-for-business-from-your-free-trial) | Geändert |
+| 3/22/2019 | [So aktivieren Sie Microsoft Office 365 Business](/AlchemyInsights/buy-a-subscription-to-office-365-for-business-from-your-free-trial) | Geändert |
 | 3/22/2019 | [Erwerben zusätzlicher Lizenzen](/AlchemyInsights/buy-additional-licenses) | Geändert |
 | 3/22/2019 | [608 Kalenderinformationen zu Hybrid-Setups](/AlchemyInsights/calendar-information-on-hybrid-setups) | umbenannte |
 | 3/22/2019 | [613 Kalender VeröffentlichungsInformationen](/AlchemyInsights/calendar-publishing-information) | umbenannte |
@@ -202,7 +202,7 @@
 | 3/22/2019 | [Ändern von Berechtigungen für eine SharePoint-Liste oder-Bibliothek](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | Geändert |
 | 3/22/2019 | [8000036 Bild ändern in Outlook.com](/AlchemyInsights/change-picture-in-outlook-com) | umbenannte |
 | 3/22/2019 | [8000006 Ändern des Profilnamens in Outlook.com](/AlchemyInsights/change-profile-name-in-outlook-com) | umbenannte |
-| 3/22/2019 | [Ändern der alternativen e-Mail-Adresse für die Rechnungs Benachrichtigung](/AlchemyInsights/change-the-alternate-email-address-for-billing-notification) | Geändert |
+| 3/22/2019 | [Ändern der alternativen E-Mail-Adresse für Rechnungsbenachrichtigungen](/AlchemyInsights/change-the-alternate-email-address-for-billing-notification) | Geändert |
 | 3/22/2019 | [Ändern der Gruppe "Domäne für Office 365"](/AlchemyInsights/change-the-domain-for-group) | Geändert |
 | 3/22/2019 | [8000041 Ändern des Aussehens des Outlook.com-Postfachs](/AlchemyInsights/change-the-look-of-your-outlook-com-mailbox) | umbenannte |
 | 3/22/2019 | [Ändern des UPN](/AlchemyInsights/change-upn) | Geändert |
@@ -370,7 +370,7 @@
 | 3/22/2019 | [Meine Rechnung und Zahlungen verwalten](/AlchemyInsights/manage-my-bill-and-payments) | Geändert |
 | 3/22/2019 | [Meine Rechnung verwalten](/AlchemyInsights/manage-my-bill) | Geändert |
 | 3/22/2019 | [Verwalten synchronisierter Benutzerkonten](/AlchemyInsights/manage-synchronized-user-accounts) | Geändert |
-| 3/22/2019 | [Verwalten der Benutzer, die Office 365-Gruppen erstellen können](/AlchemyInsights/manage-who-can-create-office-365-groups) | Geändert |
+| 3/22/2019 | [Verwalten von Personen, die Office 365-Gruppen erstellen können](/AlchemyInsights/manage-who-can-create-office-365-groups) | Geändert |
 | 3/22/2019 | [Verwalten Ihres SharePoint-oder OneDrive-Speichers](/AlchemyInsights/manage-your-sharepoint-or-onedrive-storage) | Geändert |
 | 3/22/2019 | [Zuordnen einer SharePoint-Bibliothek zu einem Netzlaufwerk](/AlchemyInsights/map-a-sharepoint-library-to-a-network-drive) | Geändert |
 | 3/22/2019 | [Zuordnen der SharePoint-Bibliothek zum Netzlaufwerk](/AlchemyInsights/map-sharepoint-library-to-network-drive) | Geändert |
@@ -484,55 +484,23 @@
 | 3/28/2019 | [Einschränken von SharePoint Online auf den klassischen Modus](/AlchemyInsights/restrict-sharepoint-online-to-classic-mode) | umbenannte |
 
 
-## <a name="week-of-february-25-2019"></a>Woche vom 2019
+## <a name="week-of-april-01-2019"></a>Woche vom 01. April 2019
 
 
 | Zeitpunkt der Veröffentlichung |Titel des Themas | Änderung |
 |------|------------|--------|
-| 2/25/2019 | [1800014 in-app-Unterstützung für die Outlook Mobile-App abrufen](/AlchemyInsights/1800014-get-in-app-support-for-the-outlook-mobile-app) | Geändert |
-| 2/25/2019 | [1800014 Einrichten von e-Mails in der mobilen Outlook-App](/AlchemyInsights/1800014-set-up-email-in-the-outlook-mobile-app) | Geändert |
-| 2/25/2019 | [8000001 Deaktivieren des fokussierten Posteingangs](/AlchemyInsights/8000001-turn-off-focused-inbox) | Geändert |
-| 2/25/2019 | [8000009 Erstellen eines Ordners in Outlook.com](/AlchemyInsights/8000009-create-a-folder-in-outlook-com) | Geändert |
-| 2/25/2019 | [8000012 Löschen eines Kontakts in Outlook.com](/AlchemyInsights/8000012-delete-a-contact-in-outlook-com) | Geändert |
-| 2/25/2019 | [8000013 Ändern der Schriftart in Outlook.com](/AlchemyInsights/8000013-change-font-in-outlook-com) | Geändert |
-| 2/25/2019 | [8000014 Ändern der Sprache in Outlook.com](/AlchemyInsights/8000014-how-to-change-language-in-outlook-com) | Geändert |
-| 2/25/2019 | [8000015 blockieren oder Aufheben der Blockierung von Absendern](/AlchemyInsights/8000015-block-or-unblock-senders) | Geändert |
-| 2/25/2019 | [8000015 empfangen von e-Mails von blockierten Absendern in Outlook.com](/AlchemyInsights/8000015-receiving-email-from-blocked-senders-in-outlook-com) | Geändert |
-| 2/25/2019 | [8000029 Umgang mit Phishing in Outlook.com](/AlchemyInsights/8000029-deal-with-phishing-in-outlook-com) | Geändert |
-| 2/25/2019 | [8000029 Umgang mit Spam in Outlook.com](/AlchemyInsights/8000029-deal-with-spam-in-outlook-com) | Geändert |
-| 2/25/2019 | [8000029 Umgang mit Spam oder Phishing in Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | Geändert |
-| 2/25/2019 | [8000033 Antworten auf oder Weiterleiten von Nachrichten in der Outlook.com-Beta Version](/AlchemyInsights/8000033-how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | Geändert |
-| 2/25/2019 | [8000034 Lesebestätigungen in Outlook.com](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | Geändert |
-| 2/25/2019 | [8000036 ändern Sie Ihren e-Mail-Namen in Outlook.com](/AlchemyInsights/8000036-change-your-email-name-in-outlook-com) | Geändert |
-| 2/25/2019 | [8000046 Drucken von e-Mails und Kalendern in Outlook.com](/AlchemyInsights/8000046-print-email-and-calendars-in-outlook-com) | Geändert |
-| 2/25/2019 | [8000047 Erstellen einer e-Mail-Signatur in Outlook.com](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | Geändert |
-| 2/25/2019 | [8000052 Anfügen von Dateien in Outlook.com](/AlchemyInsights/8000052-attach-files-in-outlook-com) | Geändert |
-| 2/25/2019 | [8000059 Ändern der Design Aktion (FMS)](/AlchemyInsights/8000059-how-to-change-theme-action-fms) | Geändert |
-| 2/25/2019 | [Empfohlene Schritte zum Ausführen eines kompromittierten Kontos](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | Geändert |
-| 2/26/2019 | [Wiederherstellen einer gelöschten Office 365-Gruppe](/AlchemyInsights/restore-a-deleted-office-365-group) | Geändert |
-| 2/26/2019 | [9000215 Outlook.com-Abonnements](/AlchemyInsights/9000215-outlook-com-subscriptions) | hinzugefügt |
-| 2/27/2019 | [9000199 PST-Dateien in Outlook.com](/AlchemyInsights/9000199-outlook-com-read-pst-files) | hinzugefügt |
-| 2/27/2019 | [9000202 Outlook.com-Optionen](/AlchemyInsights/9000202-outlook-com-options) | hinzugefügt |
-| 2/27/2019 | [9000203 Outlook.comfilter](/AlchemyInsights/9000203-outlook-com-filters) | hinzugefügt |
-| 2/28/2019 | [8000036 Change profile PIC/Name in Outlook.com](/AlchemyInsights/8000036-6-outlook-com-update-profile) | hinzugefügt |
-| 2/28/2019 | [8000049 Skype-Symbol fehlt in Outlook.com](/AlchemyInsights/8000049-2-outlook-com-skype-button) | hinzugefügt |
-| 2/28/2019 | [8000088 e-Mail Speichern in Outlook.com](/AlchemyInsights/8000088-outlook-com-save-emails) | hinzugefügt |
-| 2/28/2019 | [9000071 kann @-Symbol nicht auf dem Mac eingeben](/AlchemyInsights/9000071-outlook-com-cant-type-@-on-mac) | hinzugefügt |
-| 2/28/2019 | [9000193 rückgängig verschieben oder löschen in Outlook.com](/AlchemyInsights/9000193-outlook-com-undo-move-delete) | hinzugefügt |
-| 2/28/2019 | [9000198 Outlook.com-Kalender Beta](/AlchemyInsights/9000198-outlook-com-calendar-beta) | hinzugefügt |
-| 3/1/2019 | [8000035 Anforderung zum Zurücksetzen von Outlook.com Beta auf klassische Outlook.com](/AlchemyInsights/8000035-5-outlook-com-roll-back-from-beta-to-classic) | hinzugefügt |
-| 3/1/2019 | [8000035 wie die neue Outlook.com aussehen wie die alte](/AlchemyInsights/8000035-7-make-new-outlook-com-like-old-version) | hinzugefügt |
-| 3/1/2019 | [8000043 POP-, IMAP-und SMTP-Einstellungen für Outlook.com](/AlchemyInsights/8000043-2-outlook-com-pop-imap-smtp-settings) | hinzugefügt |
-| 3/1/2019 | [8000090 Outlook.com Alle auswählen](/AlchemyInsights/8000090-outlook-com-select-all) | hinzugefügt |
-| 3/1/2019 | [8000091 Outlook.com reagieren](/AlchemyInsights/8000091-outlook-com-react-pop-up) | hinzugefügt |
-| 3/1/2019 | [8000092 Outlook.com-Nachrichtenquelle anzeigen](/AlchemyInsights/8000092-outlook-com-view-message-source) | hinzugefügt |
-| 3/1/2019 | [8000093 Outlook.com verbundene Konto Berechtigungen](/AlchemyInsights/8000093-outlook-com-connected-account-permissions) | hinzugefügt |
-| 3/1/2019 | [1800009Outlook für Mac in-App-Support](/AlchemyInsights/1800009-outlook-for-mac-in-app-support) | Geändert |
-| 3/1/2019 | [8000057 sichere Links in Outlook.com](/AlchemyInsights/8000057-safe-links-in-outlook-com-0) | Geändert |
-| 3/1/2019 | [9000232 Outlook.com-Adressbuch](/AlchemyInsights/9000232-outlook-com-address-book) | hinzugefügt |
-| 3/1/2019 | [9000233 Outlook.com-PIN](/AlchemyInsights/9000233-outlook-com-pin) | hinzugefügt |
-| 3/1/2019 | [9000234 interner Outlook.com-Serverfehler](/AlchemyInsights/9000234-outlook-com-internal-server-error) | hinzugefügt |
-| 3/1/2019 | [9000236 Outlook.com Konto hinzufügen](/AlchemyInsights/9000236-outlook-com-add-account) | hinzugefügt |
-| 3/1/2019 | [9000238 Outlook.com-Alias hinzufügen](/AlchemyInsights/9000238-outlook-com-add-alias) | hinzugefügt |
-| 3/1/2019 | [9000239 Outlook.com-Weiterleitung](/AlchemyInsights/9000239-outlook-com-forwarding) | hinzugefügt |
-| 3/1/2019 | [9000240 Outlook.com replies](/AlchemyInsights/9000240-outlook-com-replies) | hinzugefügt |
+| 4/1/2019 | [Aktivieren von Office 365 ATP für SharePoint, OneDrive und Microsoft Teams](/AlchemyInsights/enable-office-365-atp-spo-odb-teams) | hinzugefügt |
+| 4/1/2019 | [Office 365 Advanced Threat Protection (ATP)-Setup](/AlchemyInsights/office-365-atp-setup) | hinzugefügt |
+| 4/1/2019 | [9000071 kann @-Symbol nicht auf dem Mac eingeben](/AlchemyInsights/outlook-com-cant-type-chars-on-mac) | umbenannte |
+| 4/1/2019 | [Wiederherstellen einer Office 365-Gruppe über das Exchange Admin Center](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | Geändert |
+| 4/1/2019 | [Behandeln von Problemen mit Office 365 Advanced Threat Protection (ATP)](/AlchemyInsights/troubleshoot-issues-office-365-atp) | hinzugefügt |
+| 4/2/2019 | Klassifizierungs Bezeichnungen in Office 365 | hinzugefügt |
+| 4/2/2019 | Übersicht über Data Loss Prevention (DLP) | hinzugefügt |
+| 4/2/2019 | Desktop-App für SharePoint | hinzugefügt |
+| 4/2/2019 | Grenzwerte und Einschränkungen für Hub-Standorte | hinzugefügt |
+| 4/2/2019 | OneDrive: fehlende Dateien oder Ordner | hinzugefügt |
+| 4/2/2019 | Website oder Liste als Vorlage speichern | hinzugefügt |
+| 4/2/2019 | SharePoint-Hubwebsites – Übersicht | hinzugefügt |
+| 4/2/2019 | Website-und Inhaltsstruktur entfernt | hinzugefügt |
+| 4/2/2019 | Problembehandlung bei Fehler 404, Datei nicht gefunden | hinzugefügt |
+| 4/3/2019 | [Fehlercode 550 5.7.705 Zugriff verweigert, Mandant hat den Schwellenwert überschritten](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | Geändert |

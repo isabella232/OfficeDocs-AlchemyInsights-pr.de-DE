@@ -9,29 +9,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: a631af20e28a531a40f078e290239a372c38ab74
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 37f256ef31402f5139fdd7c2af8f3a6ca9dc3525
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941707"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747202"
 ---
-Probleme bei der Archivierung von Elementen in das Archivpostfach. Stellen Sie sicher, dass Sie die folgenden Schritte ausgeführt haben:
-  
-1. Vergewissern Sie sich, dass ein **archivieren Postfach** aktiviert wurde. Wenn dies nicht der Fall ist, verwenden Sie in [diesem Artikel](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) die Schritte aus, um das Archivpostfach aktivieren. 
+# <a name="move-email-to-the-archive-mailbox"></a>Verschieben von e-Mails in das Archivpostfach
+ 
+1. Vergewissern Sie sich, dass ein **Archivpostfach** aktiviert wurde. Wenn nicht, führen Sie die Schritte in [diesem Artikel](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) aus, um das Archivpostfach zu aktivieren.
+
+2. Damit Nachrichten automatisch in das Archivpostfach archiviert werden, muss ein Aufbewahrungs mit der Aktion **in Archiv verschieben** so festgelegt werden, dass es **automatisch auf das gesamte Postfach (Standard) angewendet**wird. Führen Sie die folgenden Schritte aus, um das Tag: [Archive default-Tag](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Foffice365%2Fsecuritycompliance%2Fset-up-an-archive-and-deletion-policy-for-mailboxes%23create-a-custom-archive-default-policy-tag&data=04%7C01%7Cstephow%40microsoft.com%7C89934e16dbd84ebdef6708d6b319b348%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636893320296576506%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C-1&sdata=UibWi%2BtrO3ITZ6iF%2FtKQj5JyxzEb9Mu9frBJPT6FNFI%3D&reserved=0)zu erstellen.
     
-2. Wählen Sie in der Exchange-Verwaltungskonsole **Retention Tags** unter **Verwaltung der Richtlinientreue**, erstellen Sie ein **aufbewahrungstag** mit der Aktion **in Archiv verschieben** , enthält das gewünschte **Aufbewahrungszeitraum**.
+3. Als Nächstes fügen Sie das **Archiv** -Tag zu ihrer Aufbewahrungsrichtlinie hinzu. Wählen Sie im Exchange Admin Center **Aufbewahrungsrichtlinien** > Hinzufügen des **Tags Move to Archive** zur Richtlinie > **Speichern**. 
     
-3. Klicken Sie in der Exchange-Verwaltungskonsole wählen Sie **Aufbewahrungsrichtlinien**, erstellen Sie eine **Aufbewahrungsrichtlinie** , und fügen Sie Ihrer aufbewahrungstag **in Archiv verschieben** dieser Richtlinie. 
+4. Weisen Sie jetzt die [Aufbewahrungsrichtlinie](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) dem Postfach des jeweiligen Benutzers zu. Die gleiche Richtlinie wird sowohl auf das **primäre** als auch auf das **Archiv** Postfach angewendet. 
     
-4. Sie [weisen die Aufbewahrungsrichtlinie](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) Postfach für den betreffenden Benutzer. Die gleiche Richtlinie wird auf **primäre** und **das Archivpostfach** angewendet werden. 
-    
-Das Postfach des Benutzers sollte jetzt eine Archivrichtlinie Elemente in das Archivpostfach verschieben. Möglicherweise erforderlich sind, um zu erzwingen, dass die verwaltete Ordner-Assistent (mehrstufiger Authentifizierung das) ausführen und die neuen Einstellungen auf das Postfach des Benutzers angewendet werden. Führen Sie den folgenden Befehl während [EXO PowerShell verbunden](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) , um den Assistenten für verwaltete Ordner für ein bestimmtes Postfach zu starten: 
+Möglicherweise müssen Sie erzwingen, dass der Assistent für verwaltete Ordner ausgeführt wird und die neuen Einstellungen auf das Postfach des Benutzers anwenden. Führen Sie den folgenden Befehl aus [, während Sie mit Exo PowerShell verbunden](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) sind, um den Assistenten für verwaltete Ordner für ein bestimmtes Postfach zu starten: 
   
 ```
 Start-ManagedFolderAssistant -Identity <name of the mailbox>
 ```
 
-Möchten Sie weitere Informationen zum Einrichten einer Richtlinie für den archivieren, finden Sie unter [Set up ein Archiv und Löschung Richtlinie für Postfächer](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
+Weitere Informationen zum Einrichten einer Archivrichtlinie finden Sie unter [Einrichten einer Archiv-und Löschrichtlinie für Postfächer](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
   
 

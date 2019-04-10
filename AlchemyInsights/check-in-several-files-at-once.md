@@ -1,5 +1,5 @@
 ---
-title: Überprüfen Sie gleichzeitig mehrere Dateien
+title: Mehrere Dateien gleichzeitig einChecken
 ms.author: kirks
 author: Techwriter40
 ms.date: 9/17/2018
@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
-ms.openlocfilehash: 525ea95aa8925696a72fb9c006506df92044ea7a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 76d234e4a5c0ea69fcb9c5f529568c192d00d3c0
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940787"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747453"
 ---
-# <a name="check-in-several-files-at-once"></a>Überprüfen Sie gleichzeitig mehrere Dateien
+# <a name="check-in-several-files-at-once"></a>Mehrere Dateien gleichzeitig einChecken
 
-Um mehrere Dateien in mehreren Ordnern einzuchecken, wählen Sie auf der Seite **Ansicht bearbeiten** unter **Ordner** **alle Elemente ohne Ordner anzeigen** . 
+Wenn Sie mehrere Dateien in mehreren Ordnern einchecken möchten, wählen Sie auf der Seite **Ansicht bearbeiten** die Option **alle Elemente ohne Ordner** unter **Ordner** anzeigen aus. 
   
- **Hinweis**: SharePoint Online und Office 365 nicht aktuell Zulassen mehrerer Dateien bei der sich mit modernen Modus. Verwenden Sie Classic Erfahrung durch Klicken auf **Klassische SharePoint** in der unteren linken Ecke der Leiste Schnellstart. 
+ **Hinweis**: SharePoint Online und Office 365 lassen derzeit beim Einchecken im modernen Modus keine mehrfach Dateien zu. 
   
-Finden Sie unter häufig gestellte Fragen zu Check-in/Check-Out, finden Sie [wichtige Fragen zum Auschecken, Einchecken, und Versionen](https://go.microsoft.com/fwlink/?linkid=2018786).
+Weitere häufig gestellte Fragen zum Einchecken/Auschecken finden Sie unter [häufigste Fragen zu Auschecken, Einchecken und Versionen](https://go.microsoft.com/fwlink/?linkid=2018786).
   
 

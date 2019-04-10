@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 25bc059326d1c91fcdd331811dfc402ecd16f688
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 71c41134a267cdd18c2168d4835078da103ad840
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754649"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747993"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Löschen von Websites, die zu einer Office 365-Gruppe gehören:
 
-Wenn Benutzer eine neue Teamwebsite aus SharePoint Home erstellen (oder Sie erstellen eine neue Teamwebsite aus der neuen SharePoint Admin Center-Vorschau), wird automatisch eine entsprechende Office 365-Gruppe erstellt. Office 365 Gruppen verbundene Teamwebsites werden auch erstellt, wenn Sie eine Office 365-Gruppe oder ein Team in Microsoft Teams erstellen. Zum Löschen einer SharePoint-Website, die zu einer Office 365-Gruppe gehört, müssen Sie die Office 365-Gruppe selbst löschen. 
+Wenn Benutzer eine neue Teamwebsite aus SharePoint Home erstellen oder eine neue Teamwebsite aus dem neuen SharePoint Admin Center erstellen, wird automatisch eine entsprechende Office 365-Gruppe erstellt. Office 365 Gruppen verbundene Teamwebsites werden auch erstellt, wenn Sie eine Office 365-Gruppe oder ein Team in Microsoft Teams erstellen. Zum Löschen einer SharePoint-Website, die zu einer Office 365-Gruppe gehört, müssen Sie die Office 365-Gruppe selbst löschen. 
   
 1. Wechseln Sie zur [Seite Gruppen des Microsoft 365 Admin Center](https://portal.office.com/adminportal/home#/groups).
     
@@ -40,11 +40,11 @@ Hinweis: beim Löschen einer Gruppe kann eine Verzögerung auftreten, bevor die 
   
 **Löschen einer SharePoint-Websitesammlung:**
 
-So löschen Sie eine klassische Websitesammlung
+So löschen Sie eine Website:
   
-1. Aktivieren Sie im klassischen SharePoint Admin Center auf der Seite Websitesammlungen das **Kontrollkästchen** neben der Websitesammlung. 
+1. Klicken Sie im neuen SharePoint Admin Center auf der Seite Websites auf das **Kontrollkästchen** neben der Website, die Sie löschen möchten. 
     
-2. Klicken Sie auf der Registerkarte Websitesammlungen auf **löschen.**
+2. Klicken Sie auf der Menü Band Symbolleiste auf **löschen.**
     
 **Eine Website versehentlich gelöscht?**
 

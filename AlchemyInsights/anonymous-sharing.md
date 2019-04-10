@@ -8,29 +8,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: ee558542fe692e5dd637a2943b8b8b436b329ef5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 402e10c131a0c331938854e2176983f1007fb315
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29914327"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747417"
 ---
 # <a name="anonymous-sharing"></a>Anonyme Freigabe
 
  **Aktivieren des anonymen Zugriffs**
   
-Klicken Sie im klassischen SharePoint Administrationscenter auf **Freigabe** , klicken Sie im linken Bereich. 
+Klicken Sie im neuen SharePoint Admin Center im linken Bereich auf **Freigabe** . 
   
-- Wählen Sie Folgendes aus: **Zulassen Freigabe an externe Benutzer authentifiziert und über anonymen Zugriff.**
+- Wählen Sie Folgendes aus: **Zulassen der Freigabe für authentifizierte externe Benutzer und Verwendung des anonymen Zugriffs.**
   
-(Optional können Sie festlegen Links in einer bestimmten Anzahl von Tagen ablaufen, und wählen, wie der Empfänger die Links verwenden können.)
+(Optional können Sie das Ablaufen von Links nach einer bestimmten Anzahl Tage festlegen und angeben, wie Empfänger die Links verwenden können.)
     
- **Freigeben einer Datei oder eines Ordners anonym**
+ **Anonymes Freigeben einer Datei oder eines Ordners**
   
-- Wählen Sie Datei oder des Ordners, den Sie freigeben möchten, und klicken Sie dann auf **Freigeben**. 
+- Wählen Sie die Datei oder den Ordner aus, die Sie freigeben möchten, und klicken Sie dann auf **Freigeben**. 
     
-- Wer soll diese Verknüpfung für die Arbeit? Klicken Sie auf **jeder.**
+- Für wen soll dieser Link funktionieren? Klicken Sie auf **jeder.**
   
- **Hinweis**: **Jeder Benutzer** erstellt eine Verknüpfung, die jede Person auf das Dokument oder Ordner zugreifen, auch wenn sie nicht Office 365 oder OneDrive angemeldet sind. Verwenden Sie diese Personen innerhalb oder außerhalb Ihres Unternehmens zur Verfügung. Dieser Link kann auch um an alle Personen weitergeleitet werden. 
+ **Hinweis**: **jeder** erstellt einen Link, den jeder für den Zugriff auf das Dokument oder den Ordner verwenden kann, auch wenn er nicht bei Office 365 oder OneDrive angemeldet ist. Verwenden Sie diese, um Sie für jeden, innerhalb oder außerhalb Ihres Unternehmens freizugeben. Dieser Link kann auch an alle Personen weitergeleitet werden. 
     
 

@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
-ms.openlocfilehash: da7d2ccfa2f5e74c76c530893fd4457e21a32280
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0ca85a43f21935708f8a9c689306ed3560627dea
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941255"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747381"
 ---
 # <a name="error-messages-when-sharing"></a>Fehlermeldungen bei der Freigabe
 
-Wenn Sie eine beim Versuch Fehlermeldung, einen externen Benutzer ohne mitteilen, wahrscheinlich externe Freigabe ist nicht aktiviert, oder Freigabe auf nicht zulassen, dass die Ebene der Freigabe des Benutzers versucht, festgelegt ist.
+Wenn beim Versuch, eine Freigabe für einen externen Benutzer zu verwenden, eine Fehlermeldung angezeigt wird, ist die höchstwahrscheinlich externe Freigabe nicht aktiviert, oder die Freigabe ist so festgelegt, dass die Freigabestufe des Benutzers nicht zulässig ist.
   
-In der * klassische * SharePoint Admin center, klicken Sie auf **Freigabe** , klicken Sie im linken Bereich. Wählen Sie die Ebene der Freigabe Sie zulassen möchten. Stellen Sie sicher, dass externe Freigabe für die Website aktiviert ist. 
+Klicken Sie im neuen SharePoint Admin Center im linken Bereich auf **Freigabe** . Wählen Sie die Freigabeebene aus, die Sie zulassen möchten. Stellen Sie sicher, dass die externe Freigabe für die Website aktiviert ist. 
   
-Wenn der Benutzer versucht, melden Sie sich eine Fehlermeldung empfängt, versuchen Sie die folgenden Schritte aus:
+Wenn der Benutzer, der versucht, sich anzumelden, eine Fehlermeldung erhält, führen Sie die folgenden Schritte aus:
   
-- Stellen Sie sicher, dass der Benutzer die Einladung zur Freigabe akzeptiert hat, die gesendet wurde.
+- Stellen Sie sicher, dass der Benutzer die gesendete Freigabeeinladung akzeptiert hat.
     
-- Stellen Sie sicher, dass der Benutzer die Einladung mit der e-Mail-Adresse akzeptiert, die sie an gesendet wurde.
+- Stellen Sie sicher, dass der Benutzer die Einladung mit der e-Mail-Adresse akzeptiert, an die er gesendet wurde.
     
 

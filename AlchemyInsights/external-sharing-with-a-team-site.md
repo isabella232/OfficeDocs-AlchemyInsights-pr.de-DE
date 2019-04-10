@@ -1,5 +1,5 @@
 ---
-title: Externe Freigabe mit einer Teamwebsite
+title: Externe Freigabe mit einer Team Website
 ms.author: kirks
 author: Techwriter40
 ms.date: 1/3/2019
@@ -8,27 +8,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: 8753cb5595607a7ea63e1861affcd16d61e7827e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cc5f917522f31349c48c8232496dc862d6769539
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936283"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747489"
 ---
-# <a name="external-sharing-with-a-team-site"></a>Externe Freigabe mit einer Teamwebsite
+# <a name="external-sharing-with-a-team-site"></a>Externe Freigabe mit einer Team Website
 
-Gehen Sie folgendermaßen vor, um externe Benutzer, die Freigabe für Teamwebsites zu aktivieren: 
+Gehen Sie folgendermaßen vor, um die externe Benutzer Freigabe für Team Websites zu aktivieren: 
   
-1. Open sehen die **Modern Admin Center** – Wenn Sie in der klassischen-Verwaltungskonsole Sie sind eine Schaltfläche **versuchen Sie es jetzt** oder **die Vorschau** aus der rechten oberen Ecke. Dadurch gelangen Sie zur Modern-Verwaltungskonsole. 
+1. Klicken Sie im neuen SharePoint Admin Center auf **aktive Websites**.
   
-2. Wählen Sie **aktiven Websites**aus. 
+2. Wählen Sie eine Website mit einer **Team Website** -Vorlage aus. 
   
-3. Wählen Sie eine Website, die über eine Vorlage für **Teamwebsite** verfügt. 
+3. Wählen Sie im oberen Menü die Schaltfläche **Freigabe** aus. 
   
-4. Wählen Sie die Schaltfläche **Freigabe** im oberen Menü aus. 
+ **Hinweis**: Wenn eine moderne Team Website erstellt wird, wird die Option für die externe Freigabe standardmäßig auf neue und vorhandene externe Benutzer festgelegt. 
   
- **Hinweis**: in der Standardeinstellung beim Erstellen einer modernen Teamwebsite die Option Freigabe externe festgelegt auf neuen und vorhandenen externen Benutzern. 
-  
- **Hinweis:** Wenn Sie mehr als einen Standort ausgewählt haben, wird die Schaltfläche **Freigabe** deaktiviert angezeigt. Wählen Sie nur einen Standort aus. 
+ **Hinweis:** Wenn Sie mehrere Websites ausgewählt haben, wird die **Freigabe** Schaltfläche deaktiviert angezeigt. Wählen Sie nur eine Website aus. 
   
 
