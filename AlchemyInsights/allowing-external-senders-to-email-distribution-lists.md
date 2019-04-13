@@ -11,21 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 714
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: 6da684ab0aefa74f47f15dbb95f8ec96f92feca8
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 58dddb870c14cdd690059bb43bd63beaae2127b6
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30785811"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858815"
 ---
 # <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>Zulassen, dass externe Absender Nachrichten an Verteilergruppen senden
 
 Wenn Benutzer außerhalb Ihrer Organisation beim Senden von Nachrichten an ihre Verteilergruppen Fehlermeldungen erhalten oder Sie überprüfen möchten, ob ihre Verteilergruppen für den Empfang von e-Mails von externen Absendern konfiguriert sind, führen Sie die folgenden Schritte aus:
-  
-1. Wechseln Sie zum Knoten **Gruppen** im [Office 365-Verwaltungsportal](https://portal.office.com/adminportal/home#/groups).
-    
-2. Wählen Sie die Verteilergruppe aus, und klicken Sie in den Gruppeneigenschaften, die angezeigt werden, auf **Bearbeiten** im Abschnitt, der **externe Absender zulassen**enthält.
-    
-3. Vergewissern Sie sich, dass in der angezeigten **Bearbeitungs Details** -Übersicht, dass **Personen außerhalb meiner Organisation e-Mails an diese Verteilergruppe senden können.** ist **auf**, und klicken Sie dann auf **Speichern**.
-    
 
+1. Wechseln Sie zum Knoten **Gruppen** im [Office 365-Verwaltungsportal](https://portal.office.com/adminportal/home#/groups).
+
+2. Wählen Sie die Verteilergruppe aus, und klicken Sie in den Gruppeneigenschaften, die angezeigt werden, auf **Bearbeiten** im Abschnitt, der **externe Absender zulassen**enthält.
+
+3. Vergewissern Sie sich, dass in der angezeigten **Bearbeitungs Details** -Übersicht, dass **Personen außerhalb meiner Organisation e-Mails an diese Verteilergruppe senden können.** ist **auf**, und klicken Sie dann auf **Speichern**.
