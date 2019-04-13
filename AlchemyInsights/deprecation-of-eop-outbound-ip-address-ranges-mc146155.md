@@ -10,21 +10,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1065
 ms.assetid: bd41784e-8002-428d-bc19-25671cfd34e8
-ms.openlocfilehash: 0def0a93c61ea762918f1c9e6edb2e9b04446851
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 17beb1722142d94ea05b67ce5ed1f20f8b11375c
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30777271"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858095"
 ---
 # <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>VerAltete EOP-ausgehende IP-Adressbereiche
 
 Wir haben ein potenzielles Problem mit Ihrer Organisation erkannt, das (falls nicht vom 26. Oktober 2018 korrigiert) den Nachrichtenfluss zu Ihren lokalen oder externen Zielen unterbrechen kann. Wie bereits kommuniziert, werden zur Vereinfachung der Verwaltung von IP-Adressbereichen die IP-Adressbereiche von Exchange Online Protection (EOP) konsolidiert, die zum Senden und empfangen von e-Mails außerhalb von Office 365 verwendet werden. Unsere Analyse weist darauf hin, dass eine oder mehrere externe e-Mail-Quellen oder-Ziele, die Sie in Nachrichtenübermittlungs-Konnektoren konfiguriert haben, keine Verbindungen von den [hier](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)geZEIGTEN IP-Adressbereichen annehmen.
-  
-Handeln Sie vor dem 26. Oktober, um sicherzustellen, dass diese Quellen und Ziele Verbindungen zu und von allen [veröffentlichten EoP-IP-Adressen](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)annehmen.
-  
-Weitere Informationen zu dieser Änderung finden Sie unter Nachrichten Center Beiträge [MC146155](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC146155), [MC148620](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC148620)oder [MC149274](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC149274).
-  
- **Hinweis**: Wenn Sie zuvor IP-oder URL-Veröffentlichung über HTML, XML und RSS für Endpunkt Aktualisierungen verwendet haben, sollten Sie auch zu den neuen Webdiensten migrieren, um diese Art von Updates zu automatisieren. Weitere Informationen finden Sie unter [office 365-Endpunkt Kategorien und office 365-IP-Adress-und-URL-Webdienst](https://techcommunity.microsoft.com/t5/Office-365-Blog/Announcing-Office-365-endpoint-categories-and-Office-365-IP/ba-p/177638).
-  
 
+Handeln Sie vor dem 26. Oktober, um sicherzustellen, dass diese Quellen und Ziele Verbindungen zu und von allen [veröffentlichten EoP-IP-Adressen](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)annehmen.
+
+Weitere Informationen zu dieser Änderung finden Sie unter Nachrichten Center Beiträge [MC146155](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC146155), [MC148620](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC148620)oder [MC149274](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC149274).
+
+**Hinweis**: Wenn Sie zuvor IP-oder URL-Veröffentlichung über HTML, XML und RSS für Endpunkt Aktualisierungen verwendet haben, sollten Sie auch zu den neuen Webdiensten migrieren, um diese Art von Updates zu automatisieren. Weitere Informationen finden Sie unter [office 365-Endpunkt Kategorien und office 365-IP-Adress-und-URL-Webdienst](https://techcommunity.microsoft.com/t5/Office-365-Blog/Announcing-Office-365-endpoint-categories-and-Office-365-IP/ba-p/177638).
