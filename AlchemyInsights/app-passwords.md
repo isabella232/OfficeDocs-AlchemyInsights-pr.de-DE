@@ -11,27 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 500
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 77a90338106ffeefc93b3631c0424156195ea1b8
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 5e87d3c7094b137ece751aed71cfd6b15777bfb8
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30762531"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31857843"
 ---
-# <a name="app-passwords"></a><span data-ttu-id="d9eab-102">App-Kennwörter</span><span class="sxs-lookup"><span data-stu-id="d9eab-102">App passwords</span></span>
+# <a name="app-passwords"></a><span data-ttu-id="337b5-102">App-Kennwörter</span><span class="sxs-lookup"><span data-stu-id="337b5-102">App passwords</span></span>
 
-<span data-ttu-id="d9eab-103">Ein App-Kennwort ist ein Code, der eine APP oder ein Gerät für den Zugriff auf Ihr Office 365-Geschäfts-oder Schulkonto berechtigt.</span><span class="sxs-lookup"><span data-stu-id="d9eab-103">An app password is a code that gives an app or device permission to access your Office 365 work or school account.</span></span> <span data-ttu-id="d9eab-104">Wenn Ihr Konto mehrstufige Authentifizierung (MFA) erfordert und die APP eine Verbindung mit Ihrem Konto herstellt, müssen Sie ein App-Kennwort generieren, damit die APP eine Verbindung mit Office 365 herstellen kann.</span><span class="sxs-lookup"><span data-stu-id="d9eab-104">If your account requires multi-factor authentication (MFA), and the app connects to your account, you need to generate an app password so the app can connect to Office 365.</span></span> <span data-ttu-id="d9eab-105">Outlook 2016 und frühere Versionen von Outlook erfordern beispielsweise ein App-Kennwort.</span><span class="sxs-lookup"><span data-stu-id="d9eab-105">For example, Outlook 2016 and earlier versions Outlook of require an app password.</span></span>
-  
- <span data-ttu-id="d9eab-106">**Hinweis**: bevor Sie die folgenden Schritte ausführen, überprüfen Sie mit ihrem Office 365-Administrator, dass MFA für Ihr Konto erforderlich ist.</span><span class="sxs-lookup"><span data-stu-id="d9eab-106">**Note**: Before you try the following steps, verify with your Office 365 admin that MFA is required for your account.</span></span> <span data-ttu-id="d9eab-107">Wenn dies nicht der Fall ist, stehen Ihnen die in den Schritten beschriebenen Optionen nicht zur Verfügung.</span><span class="sxs-lookup"><span data-stu-id="d9eab-107">If it isn't, the options described in the steps won't be available to you.</span></span>
-  
-1. <span data-ttu-id="d9eab-108">Melden Sie sich mit Ihrem Geschäfts-oder Schulkonto und Ihrem Kennwort bei Office 365 an.</span><span class="sxs-lookup"><span data-stu-id="d9eab-108">Sign in to Office 365 with your work or school account and your password.</span></span>
-    
-2. <span data-ttu-id="d9eab-109">Wählen Sie **jetzt einrichten**aus.</span><span class="sxs-lookup"><span data-stu-id="d9eab-109">Choose **Set it up now**.</span></span>
-    
-3. <span data-ttu-id="d9eab-110">Wählen Sie Ihre Authentifizierungsmethode aus, und folgen Sie den Anweisungen.</span><span class="sxs-lookup"><span data-stu-id="d9eab-110">Select your authentication method and follow the prompts.</span></span>
-    
-4. <span data-ttu-id="d9eab-111">Nachdem Sie Ihre alternative Kontaktmethode überprüft haben, klicken Sie auf **weiter**.</span><span class="sxs-lookup"><span data-stu-id="d9eab-111">After you verify your alternate contact method, choose **Next**.</span></span>
-    
-5. <span data-ttu-id="d9eab-112">Sie erhalten ein App-Kennwort, das Sie mit Outlook, Apple Mail und anderen apps verwenden können, die es benötigen.</span><span class="sxs-lookup"><span data-stu-id="d9eab-112">You'll get an app password that you can use with Outlook, Apple Mail, and other apps that require it.</span></span> <span data-ttu-id="d9eab-113">Wählen Sie **Kopieren** aus, um das Kennwort zu kopieren, sodass Sie es an einer anderen Stelle einfügen können (Sie müssen es nicht merken).</span><span class="sxs-lookup"><span data-stu-id="d9eab-113">Choose **Copy** to copy the password so you can paste it elsewhere (you don't need to memorize it).</span></span> 
-    
+<span data-ttu-id="337b5-103">Ein App-Kennwort ist ein Code, der eine APP oder ein Gerät für den Zugriff auf Ihr Office 365-Geschäfts-oder Schulkonto berechtigt.</span><span class="sxs-lookup"><span data-stu-id="337b5-103">An app password is a code that gives an app or device permission to access your Office 365 work or school account.</span></span> <span data-ttu-id="337b5-104">Wenn Ihr Konto mehrstufige Authentifizierung (MFA) erfordert und die APP eine Verbindung mit Ihrem Konto herstellt, müssen Sie ein App-Kennwort generieren, damit die APP eine Verbindung mit Office 365 herstellen kann.</span><span class="sxs-lookup"><span data-stu-id="337b5-104">If your account requires multi-factor authentication (MFA), and the app connects to your account, you need to generate an app password so the app can connect to Office 365.</span></span> <span data-ttu-id="337b5-105">Outlook 2016 und frühere Versionen von Outlook erfordern beispielsweise ein App-Kennwort.</span><span class="sxs-lookup"><span data-stu-id="337b5-105">For example, Outlook 2016 and earlier versions Outlook of require an app password.</span></span>
 
+ <span data-ttu-id="337b5-106">**Hinweis**: bevor Sie die folgenden Schritte ausführen, überprüfen Sie mit ihrem Office 365-Administrator, dass MFA für Ihr Konto erforderlich ist.</span><span class="sxs-lookup"><span data-stu-id="337b5-106">**Note**: Before you try the following steps, verify with your Office 365 admin that MFA is required for your account.</span></span> <span data-ttu-id="337b5-107">Wenn dies nicht der Fall ist, stehen Ihnen die in den Schritten beschriebenen Optionen nicht zur Verfügung.</span><span class="sxs-lookup"><span data-stu-id="337b5-107">If it isn't, the options described in the steps won't be available to you.</span></span>
+
+1. <span data-ttu-id="337b5-108">Melden Sie sich mit Ihrem Geschäfts-oder Schulkonto und Ihrem Kennwort bei Office 365 an.</span><span class="sxs-lookup"><span data-stu-id="337b5-108">Sign in to Office 365 with your work or school account and your password.</span></span>
+
+2. <span data-ttu-id="337b5-109">Wählen Sie **jetzt einrichten**aus.</span><span class="sxs-lookup"><span data-stu-id="337b5-109">Choose **Set it up now**.</span></span>
+
+3. <span data-ttu-id="337b5-110">Wählen Sie Ihre Authentifizierungsmethode aus, und folgen Sie den Anweisungen.</span><span class="sxs-lookup"><span data-stu-id="337b5-110">Select your authentication method and follow the prompts.</span></span>
+
+4. <span data-ttu-id="337b5-111">Nachdem Sie Ihre alternative Kontaktmethode überprüft haben, klicken Sie auf **weiter**.</span><span class="sxs-lookup"><span data-stu-id="337b5-111">After you verify your alternate contact method, choose **Next**.</span></span>
+
+5. <span data-ttu-id="337b5-112">Sie erhalten ein App-Kennwort, das Sie mit Outlook, Apple Mail und anderen apps verwenden können, die es benötigen.</span><span class="sxs-lookup"><span data-stu-id="337b5-112">You'll get an app password that you can use with Outlook, Apple Mail, and other apps that require it.</span></span> <span data-ttu-id="337b5-113">Wählen Sie **Kopieren** aus, um das Kennwort zu kopieren, sodass Sie es an einer anderen Stelle einfügen können (Sie müssen es nicht merken).</span><span class="sxs-lookup"><span data-stu-id="337b5-113">Choose **Copy** to copy the password so you can paste it elsewhere (you don't need to memorize it).</span></span>
