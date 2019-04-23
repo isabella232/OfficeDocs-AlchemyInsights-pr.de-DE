@@ -1,5 +1,5 @@
 ---
-title: DLP-Richtlinientipps nicht funktionsfähig
+title: DLP-Richtlinien Tipps funktionieren nicht
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: ffed863e8d44d2513fbcf53edd9bfa14b859b913
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cddc790c7ad64cb917fb91df9fcdb60fd22bb306
+ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900791"
+ms.lasthandoff: 04/15/2019
+ms.locfileid: "31869594"
 ---
-# <a name="dlp-policy-tip-issues"></a>DLP-Richtlinientipps Probleme
+# <a name="dlp-policy-tip-issues"></a>DLP-Richtlinientipp Probleme
 
-Bei Verwendung von **DLP-Richtlinien**können Benutzer eine Richtlinie Verletzung mit **richtlinientipps**benachrichtigt werden. Administratoren können richtlinientipps anzuzeigenden beim Testen ihrer DLP-Richtlinie oder vollständiger Erzwingungsvollmodus die Richtlinie wird konfigurieren. 
+Bei der Verwendung von **DLP-Richtlinien**können Benutzer mit **Richtlinien Tipps**über eine Richtlinienverletzung benachrichtigt werden. Administratoren können Richtlinien Tipps so konfigurieren, dass Sie beim Testen der DLP-Richtlinie angezeigt werden oder wenn die Richtlinie vollständig ausgeführt wird. 
   
-Um die Richtlinie zu konfigurieren Sie Tipps für die DLP-Richtlinie die Sicherheit und Compliance Center in vollständiger Erzwingungsvollmodus wie folgt:
+Gehen Sie folgendermaßen vor, um Richtlinien Tipps für ihre DLP-Richtlinie im Security and Compliance Center im vollständigen Erzwing Modus zu konfigurieren:
   
-- Stellen Sie sicher, richtlinientipps waren für die DLP-Regel entsprechend den Schritten **aktiviert** [hier](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- Verwenden Sie die Schritte [hier](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips), um sicherzustellen, dass Richtlinien Tipps für die DLP-Regel **aktiviert** wurden.
     
-- Sicherzustellen, dass Ihre **Inhalte entspricht** **erforderlich** gemacht: Auslösen die Regel, die in diesem Artikel beschriebenen [hier](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+- Stellen Sie sicher, dass Ihre Inhalte mit dem **übereinstimmen** , was zum Auslösen der in [](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)diesem Artikel beschriebenen Regel **erforderlich** ist.
     
-- Tipps zu Richtlinien in OWA und Outlook angezeigt. Allerdings werden bei Verwendung von **Outlook 2013 oder höher**, richtlinientipps nur unter bestimmten Umständen angezeigt. Diese Bedingungen sind hier aufgeführt: [unterstützte Bedingungen für Outlook 2013 oder höher, zum Anzeigen von Richtlinientipps](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
+- Richtlinien Tipps werden in OWA und Outlook angezeigt. Bei Verwendung von **Outlook 2013 oder höher**werden Richtlinien Tipps jedoch nur unter bestimmten Bedingungen angezeigt. Diese Bedingungen sind hier aufgeführt: [unterstützte Bedingungen für Outlook 2013 oder höher zum Anzeigen von Richtlinien Tipps](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
     
-Weitere Informationen zu DLP-richtlinientipps, finden Sie unter: [Anzeigen von Tipps zu Richtlinien für DLP-Richtlinien](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+Weitere Informationen zu DLP-Richtlinien Tipps finden Sie unter: [Anzeigen von Richtlinien Tipps für DLP-Richtlinien](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
   
 
