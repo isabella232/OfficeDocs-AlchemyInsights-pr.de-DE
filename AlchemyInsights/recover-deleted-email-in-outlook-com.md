@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000011
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: 28266eff5fc77c855370f7fc75a7b7332d1e72e2
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 7f18d2a5196234e450f7e639b6d63d1ddfcf411a
+ms.sourcegitcommit: 32ee065560611cd527754f482b9ad244878975a0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773736"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31980629"
 ---
 # <a name="recover-deleted-email"></a>Wiederherstellen gelöschter e-Mails
 
@@ -26,7 +26,7 @@ ms.locfileid: "30773736"
   
  **Hinweis**: Sie können nur alle auswählen, wenn alle Nachrichten sichtbar sind. Dadurch wird verhindert, dass versehentliche Aktionen für Nachrichten angezeigt werden. **Ctrl + click** wählt einzelne Nachrichten aus, **Umschalt + Klick** wählt alles zwischen zwei Klicks aus. 
     
-3. Wenn die Nachricht nicht in gelöschten Elementen ist, wählen Sie **Gelöschte Elemente wiederherstellen** oben im Fenster aus. 
+3. Wenn die Nachricht nicht in "Gelöschte Elemente" gespeichert ist, wählen Sie oben im Fenster die Option **Gelöschte Elemente aus diesem Ordner wiederherstellen aus** . 
     
  **Wichtige Informationen zu gelöschten Elementen:**
   
