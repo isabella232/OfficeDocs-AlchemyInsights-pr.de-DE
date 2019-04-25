@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 889f1e71-fc26-4753-9a2b-14508bc5d38f
 ms.openlocfilehash: 9c678a49c681a806102f5fd0d64a85d84bbbb66d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29934127"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388697"
 ---
 # <a name="onedrive-not-responding"></a>OneDrive reagiert nicht
 
-Für neu erstellte Konten müssen Benutzer bei Office 365-Portal mit ihren eigenen Konto anmelden und klicken Sie auf OneDrive, um die Bereitstellung der Website OneDrive manuell zu starten.
+Bei neu erstellten Konten müssen sich Benutzer im Office 365-Portal mit Ihrem eigenen Konto anmelden und auf OneDrive klicken, um die Bereitstellungsseite der OneDrive-Website manuell zu starten.
   
-Wenn der Benutzer bereits OneDrive geklickt hat und ihrer persönlichen Website ist nicht innerhalb von 24 Stunden bereitgestellt, melden Sie jedoch eine Support-Ticket, um Hilfe zu erhalten.
+Wenn der Benutzer jedoch bereits auf OneDrive geklickt hat und seine persönliche Website nicht innerhalb von 24 Stunden bereitgestellt wurde, melden Sie sich für weitere Unterstützung an.
   
 

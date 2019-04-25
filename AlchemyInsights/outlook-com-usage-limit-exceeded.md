@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000054
 ms.openlocfilehash: 5e5e1a38e3fb4d09b1da3223f473e08fe2bd3684
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30780141"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372703"
 ---
 # <a name="email-and-storage-quota-in-outlookcom"></a>E-Mail-und Speicherkontingent in Outlook.com
 
@@ -24,6 +24,6 @@ Microsoft bietet 15 GB e-Mail-Speicherplatz pro Kostenloses Outlook.com-Konto. O
   
 Wenn Ihr Posteingang voll ist, können Sie keine Nachrichten senden oder empfangen, und Personen, die Ihnen e-Mails senden, erhalten eine Fehlermeldung, dass Ihr Posteingang voll ist. Tipps zum Freigeben von Speicherplatz in Ihrem Posteingang finden Sie unter [Speichergrenzwerte in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001900&amp;clcid=0x409).
 
-**Sende Grenzwerte**
+**Sendegrenzen**
 
 Im Rahmen unserer Bemühungen zur Reduzierung des Platzes gibt es eine tägliche e-Mail-Sende Grenze in Outlook.com. Weitere Informationen finden Sie unter [Senden von Grenzwerten in Outlook.com](https://support.office.com/article/279ee200-594c-40f0-9ec8-bb6af7735c2e) .

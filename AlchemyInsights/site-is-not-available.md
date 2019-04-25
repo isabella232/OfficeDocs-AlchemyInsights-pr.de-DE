@@ -1,5 +1,5 @@
 ---
-title: Site ist nicht verfügbar
+title: Website ist nicht verfügbar
 ms.author: kirks
 author: Techwriter40
 ms.date: 12/4/2018
@@ -9,14 +9,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a8343f03-1b8c-4c29-be84-72b025e51d72
 ms.openlocfilehash: 95911bd58f39ff45e68313a18f167e8ba91b0070
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911591"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370109"
 ---
-# <a name="site-is-not-available"></a>Site ist nicht verfügbar
+# <a name="site-is-not-available"></a>Website ist nicht verfügbar
 
-SharePoint- oder OneDrive-Website nicht auf mehrere Benutzer verfügbar ist, möglicherweise ein temporäres Problem. Überprüfen Sie das[Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , um festzustellen, ob es sich bei Ihrem Mandanten beeinträchtigt wird. 
+Wenn Ihre SharePoint-oder OneDrive-Website nicht mehreren Benutzern zur Verfügung steht, kann es zu einem temporären Dienst Problem geben. Überprüfen Sie das[Dienststatus-Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , um festzustellen, ob Ihre Mandanten betroffen sind. 
   
 

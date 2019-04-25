@@ -1,5 +1,5 @@
 ---
-title: Fragen zur Verwendung von Office Deployment Tool (ODT)
+title: Fragen zur Verwendung des Office-BereitstellungsTools (ODT)
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,21 +10,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
 ms.openlocfilehash: e91d40f872dd401ee210ac05eb39d64b6fb88027
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925343"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371767"
 ---
-# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Fragen zur Verwendung von Office Deployment Tool (ODT)
+# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Fragen zur Verwendung des Office-BereitstellungsTools (ODT)
 
 Laden Sie das Office-Bereitstellungstool aus dem [Microsoft Download Center herunter](http://go.microsoft.com/fwlink/p/?LinkID=626065).
   
 Führen Sie nach dem Download die selbst entpackende ausführbare Datei aus, die die ausführbare Datei (setup.exe) und eine Beispielkonfigurationsdatei (configuration.xml) für das Office-Bereitstellungstool enthält.
   
- **Zum Ausschließen oder Entfernen von Office 365 ProPlus-Produkte von Client-Computern:**
+ **So können Sie Office 365 proPlus-Produkte von Clientcomputern ausschließen oder entfernen:**
   
-Wenn Sie Office 365 ProPlus installieren, können Sie bestimmte Produkte ausschließen. Führen Sie dazu die Schritte für die Installation von Office mit dem ODT aus, fügen Sie jedoch das ExcludeApp-Element in der Konfigurationsdatei hinzu. Mit dieser Konfigurationsdatei werden z. B. alle Office 365 ProPlus-Produkte mit Ausnahme von Publisher installiert:
+Bei der Installation von Office 365 ProPlus können Sie bestimmte Produkte ausschließen. Führen Sie dazu die Schritte für die Installation von Office mit dem Office-Bereitstellungstool aus, fügen Sie jedoch der Konfigurationsdatei das "ExcludeApp"-Element hinzu. Mit dieser Konfigurationsdatei werden z.B. alle Office 365 ProPlus-Produkte mit Ausnahme von Publisher installiert:
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">
