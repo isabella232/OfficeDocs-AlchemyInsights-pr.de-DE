@@ -1,5 +1,5 @@
 ---
-title: Veröffentlichungsinfrastruktur mit einer Website Kommunikation
+title: Veröffentlichungs Infrastruktur mit einer Kommunikationswebsite
 ms.author: kirks
 author: Techwriter40
 ms.date: 1/14/2019
@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
 ms.openlocfilehash: 228d048dba0f4b175855eebdf2b0019f7d1ed4f0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940260"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389118"
 ---
-# <a name="publishing-infrastructure-with-a-communication-site"></a>Veröffentlichungsinfrastruktur mit einer Website Kommunikation
+# <a name="publishing-infrastructure-with-a-communication-site"></a>Veröffentlichungs Infrastruktur mit einer Kommunikationswebsite
 
 
-Aktivieren das Feature SharePoint Server-Veröffentlichungsinfrastruktur ist mit Kommunikationswebsites **nicht unterstützt** . 
+Das Aktivieren der SharePoint Server-Veröffentlichungs Infrastruktur wird für Kommunikationswebsites **nicht unterstützt** . 
   
-Weitere Informationen finden Sie unter [Wechsel von Publishing sites zu kommunikationswebsites](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience). 
+Weitere Informationen finden Sie unter [Wechseln von Veröffentlichungswebsites zu Kommunikationswebsites](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience). 
   
 

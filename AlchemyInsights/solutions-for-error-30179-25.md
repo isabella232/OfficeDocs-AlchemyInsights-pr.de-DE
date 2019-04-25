@@ -1,5 +1,5 @@
 ---
-title: Lösungen für Fehler 30179 25
+title: Lösungen für Fehler 30179-25
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 858c2f23-bcf5-42e4-92c5-8749eed29dfb
 ms.openlocfilehash: 795799fe403a17befc4d2b5a434f59f81ae7f5c5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938159"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32369857"
 ---
-# <a name="solutions-for-error-30179-25"></a>Lösungen für Fehler 30179 25
+# <a name="solutions-for-error-30179-25"></a>Lösungen für Fehler 30179-25
 
-Möglicherweise ein Fehler mit der Meldung "konnte nicht stream Office" (Fehlercode [30179 25](https://support.office.com/article/e40d3c7d-98f6-4284-94a0-882beaa44593?wt.mc_id=Alchemy_ClientDIA)) Wenn auf die Festplatte nicht mehr genug Speicherplatz ausgeführt wird. 
+Möglicherweise wird ein Fehler mit der Meldung "Couldn 'T Stream Office" angezeigt (Fehlercode [30179-25](https://support.office.com/article/e40d3c7d-98f6-4284-94a0-882beaa44593?wt.mc_id=Alchemy_ClientDIA)), wenn auf der Festplatte nicht mehr genügend Speicherplatz zur Verfügung steht. 
   
-[Freien Speicherplatz auf der Festplatte](https://support.microsoft.com/help/12425/windows-10-free-up-drive-space) , und klicken Sie dann [Office neu installieren](https://portal.office.com/OLS/MySoftware.aspx).
+[Geben Sie Speicherplatz auf der Festplatte frei](https://support.microsoft.com/help/12425/windows-10-free-up-drive-space) , und installieren Sie dann [Office neu](https://portal.office.com/OLS/MySoftware.aspx).
   
 

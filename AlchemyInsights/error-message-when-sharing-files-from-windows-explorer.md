@@ -9,20 +9,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
 ms.openlocfilehash: 06e3df2b5099dbc1f90c1dd06b372dcedfe4fc42
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927467"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32402666"
 ---
 # <a name="error-message-when-sharing-files-from-windows-explorer"></a>Fehlermeldung beim Freigeben von Dateien aus dem Windows-Explorer
 
-Beim Versuch, in Windows Explorer freigeben, wird möglicherweise die folgende Fehlermeldung angezeigt:
+Wenn Sie versuchen, eine Freigabe über Windows Explorer auszuführen, wird möglicherweise die folgende Fehlermeldung angezeigt:
   
-"Es ist leider sind wir sofort den Server zu erreichen. Versuchen Sie es später"
+"Leider können wir den Server nicht sofort erreichen. Versuchen Sie es später erneut. "
   
-So beheben Sie Fehler Nachricht, Internet Explorer wechseln Sie auf **Extras** \> **Internetoptionen** \> klicken Sie auf der Registerkarte **Erweitert** , und deaktivieren Sie das Kontrollkästchen mit dem Titel **nicht verschlüsselte Seiten auf der Festplatte speichern**. 
+Zum Beheben von Fehler **** \> Meldungen klicken Sie im Internet Explorer **auf Extras** \> und dann auf die Registerkarte **erweitert** , und deaktivieren Sie dann das Kontrollkästchen verschlüsselte **Seiten nicht auf Datenträgerspeichern**. 
   
- **Hinweis**: Möglicherweise müssen Sie den Browser für die Einstellung wirksam wird neu starten. Weitere Informationen finden Sie unter ["Kann nicht sofort den Server erreichen" Fehlermeldung beim Freigeben von Dateien](https://go.microsoft.com/fwlink/?linkid=2022914).
+ **Hinweis**: möglicherweise müssen Sie den Browser neu starten, damit die Einstellung wirksam wird. Weitere Informationen finden Sie unter ["Fehler beim Erreichen der Server-sofort Meldung" beim Freigeben von Dateien](https://go.microsoft.com/fwlink/?linkid=2022914).
   
 

@@ -1,5 +1,5 @@
 ---
-title: Behandeln von Problemen mit Android-Geräte in Microsoft Intune registrieren
+title: Behandeln von Problemen bei der Registrierung von Android-Geräten in Microsoft InTune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,36 +10,36 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.openlocfilehash: 0e727bd47a7d549a439e4666fa9dbb8a02e39778
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939347"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420591"
 ---
-# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Behandeln von Problemen mit Android-Geräte in Microsoft Intune registrieren
+# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Behandeln von Problemen bei der Registrierung von Android-Geräten in Microsoft InTune
 
-Überprüfen Sie die unten aufgeführten Ressourcen zur Lösung des Problems jetzt.
+Lesen Sie die unten aufgeführten Ressourcen, um Ihr Problem jetzt zu beheben.
   
-Häufige Probleme und Lösungsschritte:
+Einige häufige Probleme und Lösungsschritte:
   
- **Gerät nicht verschlüsselt Fehler im Unternehmensportal:** Sobald neuere Versionen von Android, insbesondere beginnend mit Version 7.0, erforderlich zum Starten des Kennung dafür sorgen, dass Ihr Gerät vollständig verschlüsselt ist. Häufig sind, aktivieren eine Pin zum Starten des oder das Gerät vollständig zu verschlüsseln. Lesen Sie [Dieses Dokument](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) Weitere Informationen. 
+ **Fehler beim nicht VerschlüsselTen Gerät im Unternehmens Portal:** Neuere Versionen von Android, insbesondere ab v 7.0, erfordern einen startpasscode, um sicherzustellen, dass Ihr Gerät vollständig verschlüsselt ist. Gängige Lösungen sind die Aktivierung einer Start-PIN oder das vollständige Verschlüsseln des Geräts. Lesen Sie [Dieses Dokument](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) , um weitere Informationen zu erhalten. 
   
- **Nicht Geräten erkundigen Sie sich bei dem Intune-Dienst oder als "Fehlerhaft" in der Verwaltungskonsole Intune anzeigen:** Einige Samsung 4.4 und 5.5 Geräte möglicherweise nicht in den Dienst überprüft. Es gibt 3 Lösungsvorschläge für dieses Problem: 
+ **Geräte können nicht mit dem InTune-Dienst Einchecken oder als "fehlerhaft" in der InTune-Verwaltungskonsole angezeigt werden:** Einige Samsung 4,4-und 5,5-Geräte können nicht in den Dienst einchecken. Es gibt drei mögliche Lösungen für dieses Problem: 
   
-1. Öffnen Sie manuell die Intune Unternehmensportal-app, die automatisch eine Synchronisierung Gerät wird initiiert.
+1. Öffnen Sie die Intune-Unternehmens Portal-APP, die automatisch eine Gerätesynchronisierung initiiert.
     
-2. Aktualisieren Sie das Gerät auf Android 6.0 oder höher.
+2. Aktualisieren Sie das Gerät auf Android 6,0 oder höher.
     
-3. Verwalten von der Intune Unternehmensportal deaktivieren Sie Samsung Smart-Manager. [In diesem Dokument](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) Weitere Informationen zu diesen Problemen und Lösungen überprüfen. 
+3. Deaktivieren Sie Samsung Smart Manager aus der Verwaltung des InTune-Unternehmensportals. Lesen Sie [Dieses Dokument](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) , um weitere Informationen zu diesen Problemen und Lösungen zu finden. 
     
- **Benutzer Lizenz Typ ungültig** oder **Fehler Benutzer Name nicht erkannt:** der Benutzer eine Lizenz Intune oder zur Abstimmung zugewiesen werden soll. Lesen Sie diese Dokumente über eine Lizenz zuweisen: Office-Verwaltungskonsole oder Azure-Portal. 
+ **Benutzer lizenzTyp ungültig** oder **Benutzer Name nicht erkannt Fehler:** dem Benutzer muss eine InTune-oder EMS-Lizenz zugewiesen sein. Lesen Sie diese Dokumente zum Zuweisen einer Lizenz über: Office Admin Center oder Azure Portal. 
   
-Zusätzliche Ressourcen zu Ihrem Problem zu beheben:
+Weitere Ressourcen zur Lösung des Problems:
   
-1. Mithilfe von [Intune Problembehandlung Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnostizieren und Beheben von häufig auftretenden Fehler der Registrierung. Lesen Sie [Dieses Dokument](https://docs.microsoft.com/intune/help-desk-operators) für weitere Details. 
+1. Verwenden Sie [InTune-Problem Behandlungs Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) zur Diagnose und Lösung allgemeiner Registrierungsfehler. Weitere Informationen finden Sie in [diesem Dokument](https://docs.microsoft.com/intune/help-desk-operators) . 
     
-2. Lesen Sie [Dieses Dokument](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) für eine Liste mit häufigen Fehlern, die Registrierung und Auflösung für jeden zu verhindern. 
+2. In [diesem Dokument](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) finden Sie eine Liste häufig auftretender Fehler, die die Registrierung und die Auflösungen verhindern. 
     
-3. [Erfahren Sie, wie in Microsoft Intune Android-Geräte zu registrieren](https://docs.microsoft.com/intune/android-enroll).
+3. [Erfahren Sie, wie Sie Android-Geräte in Microsoft InTune registrieren](https://docs.microsoft.com/intune/android-enroll).
     
 
