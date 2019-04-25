@@ -13,32 +13,32 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5bfed1a3-473e-4e2d-acf0-9b1bbb08fa26
 ms.openlocfilehash: 7d72d902e933313082e725d3e467f77a7ec8ae5b
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30755261"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32391675"
 ---
-# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a><span data-ttu-id="c1e13-102">Lösungen für "Office (64-Bit oder 32-Bit) konnten nicht installiert werden</span><span class="sxs-lookup"><span data-stu-id="c1e13-102">Solutions for "Office (64-bit or 32-bit) couldn't be installed</span></span>
+# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a><span data-ttu-id="fb6dc-102">Lösungen für "Office (64-Bit oder 32-Bit) konnten nicht installiert werden</span><span class="sxs-lookup"><span data-stu-id="fb6dc-102">Solutions for "Office (64-bit or 32-bit) couldn't be installed</span></span>
 
 
 
-<span data-ttu-id="c1e13-103">Der Fehler "Office (64-Bit oder 32-Bit) konnte nicht installiert werden" tritt auf, da Sie keine 64-Bit-und 32-Bit-Versionen von Office kombinieren können.</span><span class="sxs-lookup"><span data-stu-id="c1e13-103">The "Office (64-bit or 32-bit) couldn't be installed" error occurs because you can't mix 64-bit and 32-bit versions of Office.</span></span>
+<span data-ttu-id="fb6dc-103">Der Fehler "Office (64-Bit oder 32-Bit) konnte nicht installiert werden" tritt auf, da Sie keine 64-Bit-und 32-Bit-Versionen von Office kombinieren können.</span><span class="sxs-lookup"><span data-stu-id="fb6dc-103">The "Office (64-bit or 32-bit) couldn't be installed" error occurs because you can't mix 64-bit and 32-bit versions of Office.</span></span>
   
-<span data-ttu-id="c1e13-104">Um diesen Fehler zu beheben und von 32-Bit zu 64-Bit zu wechseln, müssen Sie die folgenden Schritte in dieser Reihenfolge ausführen.</span><span class="sxs-lookup"><span data-stu-id="c1e13-104">To fix this error and switch from 32-bit to 64-bit, you must do the following in this order.</span></span>
+<span data-ttu-id="fb6dc-104">Um diesen Fehler zu beheben und von 32-Bit zu 64-Bit zu wechseln, müssen Sie die folgenden Schritte in dieser Reihenfolge ausführen.</span><span class="sxs-lookup"><span data-stu-id="fb6dc-104">To fix this error and switch from 32-bit to 64-bit, you must do the following in this order.</span></span>
   
-1. <span data-ttu-id="c1e13-105">Herunterladen und Installieren des [Support-und](https://aka.ms/SARA-OfficeUninstall-Alchemy)Wiederherstellungs-Assistenten.</span><span class="sxs-lookup"><span data-stu-id="c1e13-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+1. <span data-ttu-id="fb6dc-105">Herunterladen und Installieren des [Support-und](https://aka.ms/SARA-OfficeUninstall-Alchemy)Wiederherstellungs-Assistenten.</span><span class="sxs-lookup"><span data-stu-id="fb6dc-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
     
-1. <span data-ttu-id="c1e13-106">Wenn er geöffnet wird, wählen Sie unter **Office-Produkte deinstallieren** die Version aus, die Sie deinstallieren möchten, und klicken Sie dann auf **weiter**.</span><span class="sxs-lookup"><span data-stu-id="c1e13-106">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span> 
+1. <span data-ttu-id="fb6dc-106">Wenn er geöffnet wird, wählen Sie unter **Office-Produkte deinstallieren** die Version aus, die Sie deinstallieren möchten, und klicken Sie dann auf **weiter**.</span><span class="sxs-lookup"><span data-stu-id="fb6dc-106">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span> 
     
-2. <span data-ttu-id="c1e13-107">Fahren Sie weiter durch die Bildschirme, und starten Sie den Computer neu.</span><span class="sxs-lookup"><span data-stu-id="c1e13-107">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="fb6dc-107">Fahren Sie weiter durch die Bildschirme, und starten Sie den Computer neu.</span><span class="sxs-lookup"><span data-stu-id="fb6dc-107">Continue going through screens and restart your computer when prompted.</span></span>
     
-    <span data-ttu-id="c1e13-108">Nach dem Neustart wird der Support-und wiederHerstellungs-Assistent automatisch wieder geöffnet, um den Deinstallationsvorgang abzuschließen.</span><span class="sxs-lookup"><span data-stu-id="c1e13-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="fb6dc-108">Nach dem Neustart wird der Support-und wiederHerstellungs-Assistent automatisch wieder geöffnet, um den Deinstallationsvorgang abzuschließen.</span><span class="sxs-lookup"><span data-stu-id="fb6dc-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
     
-3. <span data-ttu-id="c1e13-109">Folgen Sie den verbleibenden Ansagen, und [Installieren Sie Office](https://portal.office.com/OLS/MySoftware.aspx) mit der korrekten 32-Bit-oder 64-Bit-Version neu.</span><span class="sxs-lookup"><span data-stu-id="c1e13-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) with the correct 32-bit or 64-bit version.</span></span> 
+3. <span data-ttu-id="fb6dc-109">Folgen Sie den verbleibenden Ansagen, und [Installieren Sie Office](https://portal.office.com/OLS/MySoftware.aspx) mit der korrekten 32-Bit-oder 64-Bit-Version neu.</span><span class="sxs-lookup"><span data-stu-id="fb6dc-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) with the correct 32-bit or 64-bit version.</span></span> 
     
-    <span data-ttu-id="c1e13-110">Führen Sie die Schritte unter [Installieren von Office auf einem PC](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA) aus.</span><span class="sxs-lookup"><span data-stu-id="c1e13-110">Follow the steps in [Install Office on a PC](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)</span></span>
+    <span data-ttu-id="fb6dc-110">Führen Sie die Schritte unter [Installieren von Office auf einem PC](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA) aus.</span><span class="sxs-lookup"><span data-stu-id="fb6dc-110">Follow the steps in [Install Office on a PC](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)</span></span>
     
-<span data-ttu-id="c1e13-111">Weitere Informationen finden Sie unter ["Fehler beim Installieren von Office (64-Bit oder 32-Bit)"](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="c1e13-111">For more information, see ["Office (64-bit or 32-bit) couldn't be installed" error when trying to install](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)</span></span>
+<span data-ttu-id="fb6dc-111">Weitere Informationen finden Sie unter ["Fehler beim Installieren von Office (64-Bit oder 32-Bit)"](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="fb6dc-111">For more information, see ["Office (64-bit or 32-bit) couldn't be installed" error when trying to install](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)</span></span>
   
 
