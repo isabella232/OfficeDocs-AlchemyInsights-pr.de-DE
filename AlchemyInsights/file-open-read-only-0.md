@@ -1,5 +1,5 @@
 ---
-title: Datei schreibgeschützt zu öffnen.
+title: Schreibgeschütztes Datei öffnen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,42 +10,42 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6a828f8d-ff31-40a7-b701-b2339e771817
 ms.openlocfilehash: be232b682b7bb3d24f59ad10501edbd796e6bcaf
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29935863"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32401752"
 ---
-# <a name="file-open-read-only"></a>Datei schreibgeschützt zu öffnen.
+# <a name="file-open-read-only"></a>Schreibgeschütztes Datei öffnen
 
-Sie möglicherweise feststellen, dass beim Öffnen von Dateien, mit Schreibschutz öffnen. In einigen Fällen ist dies für die Sicherheit zu erhöhen, wie beim Öffnen von Dateien aus dem Internet und in anderen Fällen es aufgrund einer Einstellung werden kann, die geändert werden können. Hier sind einige Szenarien, in dem eine Datei schreibgeschützt geöffnet wird, und einige Schritte, die Sie ergreifen können, die zu ändern.
+Wenn Sie Dateien öffnen, werden Sie möglicherweise als schreibgeschützt geöffnet. In einigen Fällen gilt dies für zusätzliche Sicherheit, beispielsweise beim Öffnen von Dateien aus dem Internet und anderen Zeiten, kann dies auf eine Einstellung zurückzuführen sein, die geändert werden kann. Hier sind einige Szenarios, in denen eine Datei schreibgeschützt geöffnet wird, und einige Schritte, die Sie ausführen können, um dies zu ändern.
   
- **Meine Antivirussoftware verursacht diese schreibgeschützt zu öffnen.**
+ **Mein Antivirus bewirkt, dass Sie schreibgeschützt öffnen**
   
-Einige Antivirenprogramme können Sie vor vor potenziell unsicheren Dateien schützen, indem Sie sie schreibgeschützt öffnen. Sie müssen möglicherweise überprüfen Sie mit Ihrem antivirus Anbieter erfahren, wie diese Einstellungen anpassen. BitDefender, beispielsweise hat Inhalt zum Hinzufügen von Anwendungsausschlüsse hier: [wie Anwendung oder prozessausschlüsse in Bitdefender Control Center hinzugefügt](https://www.bitdefender.com/support/how-to-add-application-or-process-exclusions-in-bitdefender-control-center-1119.mdl).
+Einige Antivirenprogramme schützen Sie möglicherweise vor potenziell unsicheren Dateien, indem Sie diese schreibgeschützt öffnen. Möglicherweise müssen Sie sich beim Antivirus-Anbieter erkundigen, wie Sie diese Einstellungen anpassen. BitDefender hat beispielsweise Inhalte zum Hinzufügen von Anwendungs Ausschlüssen hier: [Hinzufügen von Anwendungs-oder Prozess Ausschlüssen in BitDefender Control Center](https://www.bitdefender.com/support/how-to-add-application-or-process-exclusions-in-bitdefender-control-center-1119.mdl).
   
- **Werden die Dateieigenschaften schreibgeschützt zu?**
+ **Sind die Dateieigenschaften auf schreibgeschützt festgelegt?**
   
-Sie können die Dateieigenschaften suchen, indem Sie mit der rechten Maustaste auf die Datei klicken und Eigenschaften auswählen. Wenn der Schreibschutz aktiviert ist, können Sie es deaktivieren, und klicken Sie auf OK.
+Sie können die Dateieigenschaften überprüfen, indem Sie mit der rechten Maustaste auf die Datei klicken und Eigenschaften auswählen. Wenn das Read-only-Attribut aktiviert ist, können Sie es deaktivieren und auf OK klicken.
   
- **Der Inhalt ist in der geschützten Ansicht**
+ **Der Inhalt befindet sich in der geschützten Ansicht**
   
-Dateien aus dem Internet und aus anderen vor potenziell unsicheren Speicherorten können enthalten, Viren, Würmer oder andere Arten von Schadsoftware, die Ihren Computer beschädigen können. Dies ist auch häufig die Groß-/Kleinschreibung mit e-Mail-Anlagen oder Dateien, die Sie heruntergeladen haben. Um Ihren Computer zu schützen, werden die Dateien aus diesen vor potenziell unsicheren Speicherorten in der geschützten Ansicht geöffnet. Mithilfe der geschützten Ansicht können Sie eine Datei gelesen und finden Sie unter seinen Inhalt bei gleichzeitiger Verringerung der Risiken. Weitere Informationen über geschützte Ansicht und wie Sie Einstellungen ändern, finden Sie unter in diesem Artikel: [Was ist die geschützte Ansicht?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Dateien aus dem Internet und aus anderen potenziell unsicheren Speicherorten können Viren, Würmer oder andere Arten von Schadsoftware enthalten, die Ihren Computer schädigen können. Dies gilt häufig auch für e-Mail-Anhänge oder Dateien, die Sie heruntergeladen haben. Um Ihren Computer zu schützen, werden Dateien aus diesen potenziell unsicheren Speicherorten in der geschützten Ansicht geöffnet. Mithilfe der geschützten Ansicht können Sie eine Datei lesen und deren Inhalt anzeigen, während Sie die Risiken reduzieren. Weitere Informationen zur geschützten Ansicht und zum Ändern der Einstellungen finden Sie in diesem Artikel: [Was ist geschützte Ansicht?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
  **Ist OneDrive voll?**
   
-Wenn die Datei in OneDrive gespeichert wird und OneDrive Speicherplatz voll ist, können Sie das Dokument zu speichern, bis Sie unter Ihrem vorgesehenen Platz sind nicht möglich. Sie können Ihre freien Speicherplatz auf OneDrive überprüfen, indem Sie auf das Symbol OneDrive in der Mitte der Benachrichtigung und Speicher verwalten auswählen, oder Sie können zum [http://onedrive.live.com](http://onedrive.live.com), melden Sie sich, und beachten Sie verwendeten Speicherplatz in der unteren linken Seite des Bildschirms.
+Wenn die Datei in OneDrive gespeichert ist und Ihr OneDrive-Speicherplatz voll ist, können Sie das Dokument erst speichern, wenn Sie den zugewiesenen Speicherplatz belegt haben. Sie können Ihren freien Speicherplatz auf OneDrive überprüfen, indem Sie auf das OneDrive-Symbol im Notification Center klicken und die Option Speicher verwalten [http://onedrive.live.com](http://onedrive.live.com)auswählen, oder Sie wechseln zu, melden Sie sich an, und notieren Sie sich die Menge des verwendeten Speicherplatzes in der unteren linken Ecke des Bildschirms.
   
- **Werden Office ist aktiviert?**
+ **Ist Office aktiviert?**
   
-Wenn Office nicht aktiviert ist, oder wenn Ihr Abonnement abgelaufen ist, können Sie im schreibgeschützten Modus mit eingeschränkter Funktionalität befinden. Informationen zum Aktivieren von Office finden Sie unter: [nicht lizenziertes Produkt und die Aktivierung von Fehlern in Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Wenn Office nicht aktiviert ist oder Ihr Abonnement abgelaufen ist, können Sie den schreibgeschützten Modus "reduzierte Funktionalität" nutzen. Informationen zum Aktivieren von Office finden Sie unter: nicht [lizenzierte Produkte und Aktivierungsfehler in Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
- **Erfolglos...**
+ **Wenn alle anderen Fehler auftreten...**
   
-- Starten Sie den Computer neu
+- Neustarten des Computers
     
-- Installieren von Office-updates
+- Installieren von Office-Updates
     
-- Führen Sie eine onlinereparatur von Office
+- Durchführen einer Online Reparatur von Office
     
 
