@@ -1,5 +1,5 @@
 ---
-title: Konvertieren von Postfach des Benutzers in einem freigegebenen Postfach?
+title: Konvertieren des Benutzerpostfachs in ein freigegebenes Postfach
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,19 +10,19 @@ localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 description: ''
 ms.openlocfilehash: 4da54121763fd33aa111f3bb3c26963cd271dc51
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906731"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32374322"
 ---
-Sie können nur ein Benutzerpostfach auf ein freigegebenes Postfach konvertieren, wenn der Benutzer eine Exchange-Lizenz verfügt. Nachdem das Postfach konvertiert wurde, wird weiterhin in der Liste der aktiven Benutzer angezeigt wird, da diese Liste freigegebene Postfächer enthält. Allerdings werden die konvertierte Mailbox auch in der Liste freigegebenes Postfach angezeigt. 
+Sie können ein Benutzerpostfach nur in ein freigegebenes Postfach konvertieren, wenn der Benutzer über eine Exchange-Lizenz verfügt. Nachdem das Postfach konvertiert wurde, wird es weiterhin in der Liste der aktiven Benutzer angezeigt, da diese Liste freigegebene Postfächer enthält. Das konvertierte Postfach wird jedoch auch in der Liste freigegebener Postfächer angezeigt. 
   
-Wenn Sie versuchen, ein Postfach in der Exchange-Verwaltungskonsole zu konvertieren, und die Konvertierung ein Fehler auftritt, deaktivieren Sie Ihre Browsercaches und Cookies, und versuchen Sie es erneut. Wenn weiterhin nicht funktioniert, wiederholen Sie die Konvertierung von des Postfachs in der Exchange-Verwaltungsshell mithilfe des folgenden Befehls:
+Wenn Sie versuchen, ein Postfach in der Exchange-Verwaltungskonsole zu konvertieren, und die Konvertierung fehlschlägt, löschen Sie den Browsercache und die Cookies, und versuchen Sie es erneut. Wenn es immer noch nicht funktioniert, versuchen Sie, das Postfach in der Exchange-Verwaltungsshell zu konvertieren, indem Sie den folgenden Befehl ausführen:
   
 ```
 Set-Mailbox -Type Shared
 ```
 
-Weitere Informationen zur Konvertierung Postfach steht in [ein Benutzerpostfach auf ein freigegebenes Postfach zu konvertieren](https://support.office.com/client/2e122487-e1f5-4f26-ba41-5689249d93ba).
+Weitere Informationen zur Post Fach Konvertierung finden [Sie unter Konvertieren eines Benutzerpostfachs in ein freigegebenes Postfach](https://support.office.com/client/2e122487-e1f5-4f26-ba41-5689249d93ba).
   

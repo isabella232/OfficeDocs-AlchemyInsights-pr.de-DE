@@ -1,5 +1,5 @@
 ---
-title: Bereitstellungsprobleme in OneDrive und SharePoint
+title: Probleme bei der Einrichtung von OneDrive und SharePoint
 ms.author: kirks
 author: Techwriter40
 ms.date: 9/21/2018
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f3a5720d-a030-40b7-832e-d7e7c6799bb1
 ms.openlocfilehash: b9b129996837f646c951f2d0b29c28dd1ecb0728
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940934"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422371"
 ---
-# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Bereitstellungsprobleme in OneDrive und SharePoint
+# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Probleme bei der Einrichtung von OneDrive und SharePoint
 
-Wenn ein Benutzer ein Office 365-Mandanten hinzugefügt wird, können sie finden Sie unter SharePoint Online oder OneDrive Business Symbole aufgeführt als "Einrichten", bis der Bereitstellungsprozess abgeschlossen ist. Für neu erstellte Konten müssen Benutzer melden Sie sich bei Office 365-Portal mit ihren eigenen Konto, und klicken Sie dann auf OneDrive, um die Bereitstellung der Website OneDrive manuell zu starten.
+Wenn ein Benutzer einem vorhandenen Office 365-Mandanten hinzugefügt wird, werden möglicherweise die Symbole SharePoint Online oder OneDrive for Business als "einrichten" angezeigt, bis der bereit stellungs Vorgang abgeschlossen ist. Bei neu erstellten Konten müssen sich die Benutzer im Office 365-Portal mit Ihrem eigenen Konto anmelden und dann auf OneDrive klicken, um die Bereitstellungsseite der OneDrive-Website manuell zu starten.
   
-Wenn mehr als 24 Stunden vergangen sind, da Sie zuerst dieses Problem gesehen haben, melden Sie sich an einer Supportanfrage. In vielen Fällen arbeiten wir bereits an einer Lösung. Geben Sie uns bitte mindestens 24 Stunden für die Durchführung eine Lösung.
+Wenn seit dem ersten Auftreten dieses Problems mehr als 24 Stunden vergangen sind, protokollieren Sie einen Supportfall. In vielen Fällen arbeiten wir bereits an einer Lösung. Bitte geben Sie uns mindestens 24 Stunden Zeit, um eine Lösung abzuschließen.
   
 

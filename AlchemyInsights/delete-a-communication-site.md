@@ -1,5 +1,5 @@
 ---
-title: Löschen einer Website Kommunikation
+title: Löschen einer Kommunikationswebsite
 ms.author: kirks
 author: Techwriter40
 ms.date: 11/27/2018
@@ -9,30 +9,30 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbf9ca67-56ff-4455-aa2d-30b39f883ddb
 ms.openlocfilehash: d9e92b484e36e3fcc6a84dd655385b6e8d21434b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29916235"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405807"
 ---
-# <a name="delete-a-communication-site"></a>Löschen einer Website Kommunikation
+# <a name="delete-a-communication-site"></a>Löschen einer Kommunikationswebsite
 
-Um eine Kommunikation-Website löschen möchten, führen Sie die folgenden Schritte aus: 
+Führen Sie die folgenden Schritte aus, um eine Kommunikationswebsite zu löschen: 
   
 1. Wechseln Sie zur Website. 
   
-2. Klicken Sie auf das Symbol Einstellungen (die Zahnrad) in der oberen rechten Ecke. 
+2. Klicken Sie oben rechts auf das Symbol "Einstellungen" (Gear). 
   
-3. Klicken Sie unter **Websiteinformationen**auf **diese Website löschen**, und klicken Sie dann auf **Löschen**. 
+3. Klicken Sie unter **Website Informationen**auf **Website löschen**, und klicken Sie dann auf **Löschen**. 
   
-Administratoren können auch eine Website für die Kommunikation im Modern Admin Center löschen, indem Sie folgende Schritte: 
+Administratoren können eine Kommunikationswebsite auch aus dem modernen Admin Center löschen, indem Sie die folgenden Schritte ausführen: 
   
-1. Testen Sie das neue Admin Center auf die Schaltfläche **versuchen Sie es jetzt** in der oberen rechten Ecke. 
+1. Testen Sie das neue Admin Center, indem Sie auf die Schaltfläche **jetzt testen** in der oberen rechten Ecke klicken. 
   
-2. Wählen Sie **aktiven Websites**aus. 
+2. Wählen Sie **aktive Standorte**aus. 
   
-3. Klicken Sie neben der zu löschenden Website und eine Option zum **Löschen** von im Hauptmenü angezeigt. 
+3. Klicken Sie neben der zu löschenden Website auf eine **Löschen** -Option, die im oberen Menü angezeigt wird. 
   
- **Hinweis:** Wenn Sie dauerhaft löschen die Website für die Kommunikation (indem entfernen es aus dem Papierkorb) möchten, damit Sie die Website-URL erneut verwenden können, verwenden Sie [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) für den Papierkorb ausgewertet werden soll und [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) aus dem Papierkorb die Website entfernen. 
+ **Hinweis:** Wenn Sie die Kommunikationswebsite dauerhaft löschen möchten (indem Sie Sie aus dem Papierkorb entfernen), können Sie die Website-URL erneut verwenden, [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) um den Papierkorb auszuwerten und [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) die Website aus dem Papierkorb zu entfernen. 
   
 

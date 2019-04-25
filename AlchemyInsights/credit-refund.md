@@ -1,5 +1,5 @@
 ---
-title: Credit/Rückerstattung
+title: Guthaben/Rückerstattung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,20 +10,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
 ms.openlocfilehash: 63624f7487292d09034f55a9ec976efa18363a91
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911843"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406613"
 ---
-# <a name="creditrefund"></a>Credit/Rückerstattung
+# <a name="creditrefund"></a>Guthaben/Rückerstattung
 
- **Abbruch**
+ **Stornierung**
   
-Wenn Sie ein Abonnement zu kündigen erhalten Sie eine endgültige Rechnung mit einer Credit fällig am nächsten Abrechnungsdatum. Dies kann dauern, bis zu 30 Tagen ab dem Datum empfangen, die das Abonnement abgebrochen wurde.
+Wenn Sie ein Abonnement kündigen, erhalten Sie eine endgültige Rechnung mit einem Guthaben, das am nächsten Abrechnungsdatum fällig ist. Es kann bis zu 30 Tage dauern, bis das Abonnement gekündigt wurde.
   
- **Arbeitsplatz ändern**
+ **Sitz Änderung**
   
-Wenn von einem Abonnement Lizenzen entfernt werden, wird die nicht verwendete Zeit auf diese Lizenzen als haben in der nächsten Stückliste angewendet werden. Dies kann ab dem Datum empfangen, den die Lizenzen entfernt werden bis zu 30 Tage dauern.
+Wenn Lizenzen aus einem Abonnement entfernt werden, wird die nicht verwendete Zeit für diese Lizenzen als Gutschrift auf die nächste Rechnung angewendet. Es kann bis zu 30 Tage dauern, bis das Datum, an dem die Lizenzen entfernt wurden, empfangen wird.
   
 

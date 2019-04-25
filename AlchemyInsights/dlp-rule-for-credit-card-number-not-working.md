@@ -10,21 +10,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
 ms.openlocfilehash: e1d60c493a27efb7f724d57051e21fad5bd0242f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919079"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404493"
 ---
-Haben Sie Probleme mit der **Data Loss Prevention (DLP)** funktioniert nicht für Inhalt mit einer **Kreditkartennummer** , wenn ein anderes DLP vertrauliche Informationen in Office 365 verwenden? Wenn dies der Fall ist, stellen Sie sicher, Ihre Inhalte enthält die erforderliche Informationen zum Auslösen der DLP-Richtlinie, wenn sie ausgewertet wird. Beispiel für eine **Kreditkarte Richtlinie** mit einer Vertrauensstufe von 85 % konfiguriert, die folgenden ausgewertet werden und erkannt werden muss, für die Regel ausgelöst: 
+Haben Sie Probleme mit **Data Loss Prevention (DLP)** , die nicht für Inhalte, die eine **Kreditkartennummer** enthalten, bei Verwendung eines DLP-vertraulichen Informationstyps in O365? Wenn dies der Fall ist, stellen Sie sicher, dass Ihre Inhalte die erforderlichen Informationen enthalten, um die DLP-Richtlinie auszulösen, wenn Sie ausgewertet wird. Bei einer **Kreditkarten Richtlinie** , die mit einem Konfidenzniveau von 85% konfiguriert wurde, werden beispielsweise folgende Werte ausgewertet und müssen erkannt werden, damit die Regel ausgelöst wird: 
   
-- **[Format:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-19)** 16 Stellen die formatiert werden können oder unformatierte (Dddddddddddddddd), und geben Sie den Test mit Luhn müssen. 
+- **[Format:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-19)** 16 Ziffern, die formatiert oder unformatiert (dddddddddddddddd) werden können und den Luhn-Test bestehen müssen. 
     
-- **[Muster:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-19)** Sehr komplex und robuste Muster, das Karten aus alle wichtigen Marken weltweit, einschließlich Visa, Mastercard, Discover-Karte, JCB, amerikanische Express, Geschenkgutscheine und Bestellung Karten erkennt. 
+- **[Muster:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-19)** Sehr komplexes und robustes Muster, das Karten aller wichtigen Marken weltweit erkennt, einschließlich Visa, MasterCard, Discover Card, JCB, American Express, Geschenkkarten und dinerkarten. 
     
-- **[Prüfsumme:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-19)** Ja, die Prüfsumme Luhn 
+- **[Prüfsumme:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-19)** Ja, die Luhn-Prüfsumme 
     
-- **[Definition:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-19)** Eine DLP-Richtlinie ist 85 % sicher, dass diese Art von vertraulichen Informationen festgestellt wurde "If"; innerhalb einer Nähe von 300 Zeichen: 
+- **[Definition:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-19)** Eine DLP-Richtlinie ist 85% sicher, dass Sie diese Art von vertraulichen Informationen erkannt hat, wenn Sie innerhalb einer Nähe von 300 Zeichen: 
     
   - Die Funktion Func_credit_card findet Inhalte, die dem Muster entsprechen.
     
@@ -36,16 +36,16 @@ Haben Sie Probleme mit der **Data Loss Prevention (DLP)** funktioniert nicht fü
     
   - Die Funktion Func_expiration_date findet ein Datum im richtigen Datumsformat.
     
-  - Übergibt die Prüfsumme
+  - Die Prüfsumme wird übergeben.
     
-    Beispielsweise würde im folgende Beispiel für eine DLP Kreditkarte Anzahl Richtlinie ausgelöst:
+    Das folgende Beispiel würde beispielsweise für eine DLP-Kreditkartennummern Richtlinie auslösen:
     
   - Visa: 4485 3647 3952 7352 
     
-  - Gültig bis: 2/2009
+  - Expires: 2/2009
     
-Weitere Informationen zu Anforderungen für eine **Kreditkartennummer** für Ihre Inhalte erkannt werden, finden Sie im folgenden Abschnitt in diesem Artikel: [Was der vertraulichen Informationstypen für Kreditkarte-suchen](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#credit-card-number)
+Weitere Informationen dazu, was erforderlich ist, damit eine **Kreditkartennummer** für Ihre Inhalte erkannt wird, finden Sie im folgenden Abschnitt dieses Artikels: [was die Typen vertraulicher Informationen für Kreditkartennummern suchen](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#credit-card-number)
   
-Mit einer anderen integrierten vertrauliche Informationstyp finden Sie Informationen im folgenden Artikel auf was für andere Typen erforderlich ist: [was der vertraulichen Informationstypen suchen](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+Verwenden Sie einen anderen integrierten vertraulichen Informationstyp, um Informationen darüber zu erhalten, was für andere Typen erforderlich ist: [was die Typen für vertrauliche Informationen suchen](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
   
 
