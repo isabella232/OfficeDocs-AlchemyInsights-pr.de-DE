@@ -1,5 +1,5 @@
 ---
-title: Was kann ich mit Versioning machen?
+title: Was kann ich mit der Versionsverwaltung tun?
 ms.author: toresing
 author: tomresing
 ms.date: 6/21/2018
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 36c890c4-cafc-4409-8887-4a5c039692e3
 ms.openlocfilehash: 5f47dbb2b4cc8ce2959318011174eddabefacbd5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917243"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422942"
 ---
-# <a name="what-can-i-do-with-versioning"></a>Was kann ich mit Versioning machen?
+# <a name="what-can-i-do-with-versioning"></a>Was kann ich mit der Versionsverwaltung tun?
 
-Sie können Versioning in SharePoint-Listen und Bibliotheken zu verwenden:
+Sie können die Versionsverwaltung in SharePoint-Listen und-Bibliotheken verwenden, um Folgendes zu tun:
   
-- **Nachverfolgen Verlauf von einer Version**. Wenn versionsverwaltung aktiviert ist, können Sie sehen, wann ein Element oder eine Datei geändert wurde und von wem. Sie können auch sehen, wenn Eigenschaften (Informationen zur Datei) geändert wurden. Beispielsweise das Fälligkeitsdatum an, der ein Listenelement geändert wird, wird diese Informationen im Versionsverlauf angezeigt. Sie können auch Kommentare angezeigt, die Personen vornehmen, wenn sie Dateien in Bibliotheken einchecken. 
+- **Verfolgen Sie den Verlauf einer Version**. Wenn die Versionsverwaltung aktiviert ist, können Sie sehen, wann ein Element oder eine Datei geändert wurde und wer Sie geändert hat. Sie können auch sehen, wann Eigenschaften (Informationen zur Datei) geändert wurden. Wenn beispielsweise jemand das Fälligkeitsdatum eines Listenelements ändert, wird dies im Versionsverlauf angezeigt. Sie können auch die Kommentare anzeigen, die Personen beim Überprüfen von Dateien in Bibliotheken treffen. 
     
-- **Wiederherstellen einer vorherigen Version**. Wenn Sie einen Fehler in eine aktuelle Version, vorgenommen, wenn die aktuelle Version beschädigt ist oder wenn Sie eine frühere Version einfach besser gefällt, können Sie die aktuelle Version mit einer vorherigen Sitzung ersetzen. Die wiederhergestellte Version wird die neue aktuelle Version. 
+- **Wiederherstellen einer früheren Version**. Wenn Sie in einer aktuellen Version einen Fehler gemacht haben, wenn die aktuelle Version beschädigt ist oder wenn Sie einfach nur eine frühere Version bevorzugen, können Sie die aktuelle Version durch eine vorherige ersetzen. Die wiederhergestellte Version wird zur neuen aktuellen Version. 
     
-- **Anzeigen einer früheren Version**. Sie können eine frühere Version anzeigen, ohne die aktuelle Version überschreiben. Wenn Sie in einem Microsoft Office-Dokument-Versionsverlauf wie etwa einer Word oder Excel-Datei anzeigen, können Sie die beiden Versionen, um zu ermitteln, was sind die Unterschiede vergleichen. 
+- **Zeigen Sie eine frühere Version**an. Sie können eine frühere Version anzeigen, ohne Ihre aktuelle Version zu überschreiben. Wenn Sie den Versionsverlauf in einem Microsoft Office-Dokument, wie beispielsweise einer Word-oder Excel-Datei, anzeigen, können Sie die beiden Versionen vergleichen, um die Unterschiede zu bestimmen. 
     
-[Erfahren Sie mehr über die Funktionsweise der versionsverwaltung in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875710)
+[Weitere Informationen zur Funktionsweise der Versionsverwaltung in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875710)
   
 

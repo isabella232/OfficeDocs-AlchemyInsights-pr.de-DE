@@ -1,5 +1,5 @@
 ---
-title: Benutzerpostfach erstellt wird
+title: Erstelltes Benutzerpostfach
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6ad981b2-cb62-4495-b852-88df10299fe3
 ms.openlocfilehash: 469ede873bd8e946525726156474246b28ff63ba
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904967"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423402"
 ---
-# <a name="your-users-mailbox-is-being-created"></a>Postfach des Benutzers wird erstellt
+# <a name="your-users-mailbox-is-being-created"></a>Das Postfach des Benutzers wird erstellt.
 
-Es kann bis zu einer Stunde, bevor ein neues Postfach verwenden kann dauern.
+Es kann bis zu einer Stunde dauern, bis ein neues Postfach einsatzbereit ist.
   
-Wenn das Postfach des Benutzers "für mehr als eine Stunde vorbereitet wurde hat", können Sie versuchen löschen und Neuerstellen des Benutzers oder an einen Supportmitarbeiter sprechen mithilfe der Option "wollen wir uns anrufen".
+Wenn sich das Postfach des Benutzers mehr als eine Stunde lang "vorbereitet" hat, können Sie versuchen, den Benutzer zu löschen und neu zu erstellen, oder die Option "lassen Sie uns anrufen" verwenden, um mit einem Supporttechniker zu sprechen.
   
 
