@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000080
 ms.openlocfilehash: e1d2739ad5e1e3d2c3d5f19aee344ee1ee2ab458
-ms.sourcegitcommit: 0b6e9470c6b73616ba8bacef7010f739b7fac332
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "30742400"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418848"
 ---
-# <a name="how-to-get-support-in-outlookcom"></a><span data-ttu-id="3ad33-102">So erhalten Sie Support in Outlook.com</span><span class="sxs-lookup"><span data-stu-id="3ad33-102">How to get support in Outlook.com</span></span>
+# <a name="how-to-get-support-in-outlookcom"></a><span data-ttu-id="5d5c4-102">So erhalten Sie Support in Outlook.com</span><span class="sxs-lookup"><span data-stu-id="5d5c4-102">How to get support in Outlook.com</span></span>
 
-<span data-ttu-id="3ad33-103">Outlook.com bietet keinen Telefonsupport, aber wir haben dedizierte Teams, die Ihnen helfen können.</span><span class="sxs-lookup"><span data-stu-id="3ad33-103">Sorry, Outlook.com doesn't offer phone support, but we do have dedicated teams who can help you.</span></span>
-<span data-ttu-id="3ad33-104">Geben Sie Ihre Frage ein, oder beschreiben Sie Ihr Problem im **Hilfe** Feld oben, und wählen Sie dann **Hilfe abrufen**aus.</span><span class="sxs-lookup"><span data-stu-id="3ad33-104">Enter your question or describe your issue in the **Help** box above, and then select **Get help**.</span></span>
+<span data-ttu-id="5d5c4-103">Outlook.com bietet keinen Telefonsupport, aber wir haben dedizierte Teams, die Ihnen helfen können.</span><span class="sxs-lookup"><span data-stu-id="5d5c4-103">Sorry, Outlook.com doesn't offer phone support, but we do have dedicated teams who can help you.</span></span>
+<span data-ttu-id="5d5c4-104">Geben Sie Ihre Frage ein, oder beschreiben Sie Ihr Problem im **Hilfe** Feld oben, und wählen Sie dann **Hilfe abrufen**aus.</span><span class="sxs-lookup"><span data-stu-id="5d5c4-104">Enter your question or describe your issue in the **Help** box above, and then select **Get help**.</span></span>
 
 

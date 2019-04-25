@@ -9,14 +9,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 89b29dd9-edfe-49a4-84eb-5dc270d64526
 ms.openlocfilehash: ef4ddd1498fc499a169d9790e175913e144e3c2a
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29968236"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410265"
 ---
-# <a name="install-onedrive"></a><span data-ttu-id="10d86-102">Installieren von OneDrive</span><span class="sxs-lookup"><span data-stu-id="10d86-102">Install OneDrive</span></span>
+# <a name="install-onedrive"></a><span data-ttu-id="b223b-102">Installieren von OneDrive</span><span class="sxs-lookup"><span data-stu-id="b223b-102">Install OneDrive</span></span>
 
-<span data-ttu-id="10d86-p101">Der OneDrive-Sync-Client wird mit Windows 10 vorinstalliert. Installation von OneDrive für Windows 7 oder Mac oder um die mobile app für Ihr Telefon oder Tablet zu erhalten, wechseln Sie zur [http://onedrive.com/download](http://onedrive.com/download).</span><span class="sxs-lookup"><span data-stu-id="10d86-p101">The OneDrive sync client is preinstalled with Windows 10. To install OneDrive for Windows 7 or Mac, or to get the mobile app for your phone or tablet, go to [http://onedrive.com/download](http://onedrive.com/download).</span></span>
+<span data-ttu-id="b223b-103">Der OneDrive-synchronisierungsclient ist mit Windows 10 vorinstalliert.</span><span class="sxs-lookup"><span data-stu-id="b223b-103">The OneDrive sync client is preinstalled with Windows 10.</span></span> <span data-ttu-id="b223b-104">Wechseln Sie zur Installation von OneDrive für Windows 7 oder Mac oder zum Abrufen der mobilen App für Ihr Telefon oder Tablet [http://onedrive.com/download](http://onedrive.com/download).</span><span class="sxs-lookup"><span data-stu-id="b223b-104">To install OneDrive for Windows 7 or Mac, or to get the mobile app for your phone or tablet, go to [http://onedrive.com/download](http://onedrive.com/download).</span></span>
   
 
