@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b812e53a-d519-4f3e-8438-4115a8e8e906
 ms.openlocfilehash: 615aa2c40cd5633ab5e3fb1605fbc1c3afa430be
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208872"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400536"
 ---
-# <a name="having-issues-getting-outlook-to-connect"></a><span data-ttu-id="b454e-102">Haben Sie Probleme beim Einrichten von Outlook für die Verbindung?</span><span class="sxs-lookup"><span data-stu-id="b454e-102">Having issues getting Outlook to connect?</span></span>
+# <a name="having-issues-getting-outlook-to-connect"></a><span data-ttu-id="1418b-102">Haben Sie Probleme beim Einrichten von Outlook für die Verbindung?</span><span class="sxs-lookup"><span data-stu-id="1418b-102">Having issues getting Outlook to connect?</span></span>
 
-<span data-ttu-id="b454e-103">Wir haben festgestellt, dass Outlook nicht für die ordnungsgemäße Funktionsweise unter den folgenden Domänen konfiguriert ist:</span><span class="sxs-lookup"><span data-stu-id="b454e-103">We've detected that Outlook isn't configured to work properly under the following domain(s):</span></span>
+<span data-ttu-id="1418b-103">Wir haben festgestellt, dass Outlook nicht für die ordnungsgemäße Funktionsweise unter den folgenden Domänen konfiguriert ist:</span><span class="sxs-lookup"><span data-stu-id="1418b-103">We've detected that Outlook isn't configured to work properly under the following domain(s):</span></span>
   
-<span data-ttu-id="b454e-104">{HealthCheckString}</span><span class="sxs-lookup"><span data-stu-id="b454e-104">{HealthCheckString}</span></span>
+<span data-ttu-id="1418b-104">{HealthCheckString}</span><span class="sxs-lookup"><span data-stu-id="1418b-104">{HealthCheckString}</span></span>
   
-<span data-ttu-id="b454e-p101">Die NS-oder CNAME-Einträge der Domäneneinstellungen (DNS) werden nicht ordnungsgemäß eingerichtet. Detaillierte Anweisungen finden Sie unter [Aktualisieren von DNS-Einträgen in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) .</span><span class="sxs-lookup"><span data-stu-id="b454e-p101">The NS or CNAME records of the domain (DNS) settings aren't setup correctly. You can refer to [Updating DNS records in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) for detailed instructions.</span></span> 
+<span data-ttu-id="1418b-105">Die NS-oder CNAME-Einträge der Domäneneinstellungen (DNS) werden nicht ordnungsgemäß eingerichtet.</span><span class="sxs-lookup"><span data-stu-id="1418b-105">The NS or CNAME records of the domain (DNS) settings aren't setup correctly.</span></span> <span data-ttu-id="1418b-106">Detaillierte Anweisungen finden Sie unter [Aktualisieren von DNS-Einträgen in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) .</span><span class="sxs-lookup"><span data-stu-id="1418b-106">You can refer to [Updating DNS records in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) for detailed instructions.</span></span> 
   
-<span data-ttu-id="b454e-107">Um das Problem zu beheben, wechseln Sie zur Seite [Domains](https://admin.microsoft.com/adminportal/home#/Domains) im Microsoft 365 Admin Center, und wir helfen Ihnen dabei.</span><span class="sxs-lookup"><span data-stu-id="b454e-107">To fix it, please go to the [Domains](https://admin.microsoft.com/adminportal/home#/Domains) page in the Microsoft 365 admin center, and we'll help you with it.</span></span> 
+<span data-ttu-id="1418b-107">Um das Problem zu beheben, wechseln Sie zur Seite [Domains](https://admin.microsoft.com/adminportal/home#/Domains) im Microsoft 365 Admin Center, und wir helfen Ihnen dabei.</span><span class="sxs-lookup"><span data-stu-id="1418b-107">To fix it, please go to the [Domains](https://admin.microsoft.com/adminportal/home#/Domains) page in the Microsoft 365 admin center, and we'll help you with it.</span></span> 
   
-<span data-ttu-id="b454e-108">Weitere allgemeine Lösungen [finden Sie in den häufig](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) gestellten Domänen.</span><span class="sxs-lookup"><span data-stu-id="b454e-108">[Check the Domains FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) for other common solutions.</span></span> 
+<span data-ttu-id="1418b-108">Weitere allgemeine Lösungen [finden Sie in den häufig](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) gestellten Domänen.</span><span class="sxs-lookup"><span data-stu-id="1418b-108">[Check the Domains FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) for other common solutions.</span></span> 
   
 

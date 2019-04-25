@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.openlocfilehash: dda19e5e2ea5aef121f8d4949659bd594e4f00e7
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925559"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398853"
 ---
-# <a name="add-or-remove-an-email-address-for-a-user"></a><span data-ttu-id="6bd47-102">Fügen Sie hinzu oder entfernen Sie eine e-Mail-Adresse für einen Benutzer</span><span class="sxs-lookup"><span data-stu-id="6bd47-102">Add or remove an email address for a user</span></span>
+# <a name="add-or-remove-an-email-address-for-a-user"></a><span data-ttu-id="507c6-102">Hinzufügen oder Entfernen einer e-Mail-Adresse für einen Benutzer</span><span class="sxs-lookup"><span data-stu-id="507c6-102">Add or remove an email address for a user</span></span>
 
-<span data-ttu-id="6bd47-103">[Hier können Sie die ersten Schritte beim](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions).</span><span class="sxs-lookup"><span data-stu-id="6bd47-103">[Go here to get started](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions).</span></span>
+<span data-ttu-id="507c6-103">[Gehen Sie hier, um zu beginnen](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions).</span><span class="sxs-lookup"><span data-stu-id="507c6-103">[Go here to get started](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions).</span></span>
     
- <span data-ttu-id="6bd47-p101">**Hinweis**: Sie können mehrere e-Mail-Adresse für einen Benutzer verfügen, aber weitere *e-Mail-Aliasnamen* kann nur für den Empfang von e-Mail verwendet werden. Wenn Sie zum Senden von e-Mails mit dem Alias müssen, erstellen Sie ein [freigegebenes Postfach](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9). Auf diese Weise erhalten Sie den Alias senden und Empfangen von e-Mail-Nachrichten.</span><span class="sxs-lookup"><span data-stu-id="6bd47-p101">**Note**: You can have more than one email address for a user, but additional  *email aliases*  can only be used for receiving email. If you need to send email with an alias, create a [shared mailbox](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9). This way you'll get the alias to send and receive mail.</span></span> 
+ <span data-ttu-id="507c6-104">**Hinweis**: Sie können mehr als eine e-Mail-Adresse für einen Benutzer haben, aber zusätzliche *e-Mail-Aliase* können nur für den Empfang von e-Mails verwendet werden.</span><span class="sxs-lookup"><span data-stu-id="507c6-104">**Note**: You can have more than one email address for a user, but additional  *email aliases*  can only be used for receiving email.</span></span> <span data-ttu-id="507c6-105">Wenn Sie e-Mails mit einem Alias senden müssen, erstellen Sie ein [freigegebenes Postfach](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9).</span><span class="sxs-lookup"><span data-stu-id="507c6-105">If you need to send email with an alias, create a [shared mailbox](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9).</span></span> <span data-ttu-id="507c6-106">Auf diese Weise erhalten Sie den Alias zum Senden und empfangen von e-Mails.</span><span class="sxs-lookup"><span data-stu-id="507c6-106">This way you'll get the alias to send and receive mail.</span></span> 
   
 

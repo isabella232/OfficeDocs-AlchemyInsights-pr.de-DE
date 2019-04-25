@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom: 8000052
 ms.assetid: f6d43c80-cfca-4898-9567-746177cfadc4
 ms.openlocfilehash: ea64b9d4a8153867e9752b57c3d3a35836772053
-ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/17/2019
-ms.locfileid: "31903699"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396722"
 ---
-# <a name="how-to-attach-files"></a><span data-ttu-id="44894-102">Anhängen von Dateien</span><span class="sxs-lookup"><span data-stu-id="44894-102">How to attach files</span></span>
+# <a name="how-to-attach-files"></a><span data-ttu-id="f177b-102">Anhängen von Dateien</span><span class="sxs-lookup"><span data-stu-id="f177b-102">How to attach files</span></span>
 
   
-1. <span data-ttu-id="44894-103">VerFassen einer neuen Nachricht oder Antworten auf eine Nachricht.</span><span class="sxs-lookup"><span data-stu-id="44894-103">Compose a new message or reply to a message.</span></span>
+1. <span data-ttu-id="f177b-103">VerFassen einer neuen Nachricht oder Antworten auf eine Nachricht.</span><span class="sxs-lookup"><span data-stu-id="f177b-103">Compose a new message or reply to a message.</span></span>
     
-2. <span data-ttu-id="44894-104">Wählen Sie unten im Bereich verfassen das Symbol Büroklammer aus.</span><span class="sxs-lookup"><span data-stu-id="44894-104">At the bottom of the compose pane, select the paperclip icon.</span></span>
+2. <span data-ttu-id="f177b-104">Wählen Sie unten im Bereich verfassen das Symbol Büroklammer aus.</span><span class="sxs-lookup"><span data-stu-id="f177b-104">At the bottom of the compose pane, select the paperclip icon.</span></span>
     
-<span data-ttu-id="44894-105">Erfahren Sie mehr über [das Anfügen von Dateien in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="44894-105">Learn more about [how to attach files in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span></span>
+<span data-ttu-id="f177b-105">Erfahren Sie mehr über [das Anfügen von Dateien in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="f177b-105">Learn more about [how to attach files in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span></span>
   
 
