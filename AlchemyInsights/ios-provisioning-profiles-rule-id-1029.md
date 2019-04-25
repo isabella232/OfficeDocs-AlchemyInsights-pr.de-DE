@@ -1,5 +1,5 @@
 ---
-title: iOS Provisioning Profile Regel-Id 1029
+title: iOS-proProfiling-Regel-ID 1029
 ms.author: pebaum
 author: pebaum
 ms.date: 9/10/2018
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 14d30092-8cf5-4fe6-a2a3-8a337e96cb1c
 ms.openlocfilehash: 590dd3d603cfe6581b7dac752ea82df1eab2a141
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29914651"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32409824"
 ---
-# <a name="ios-provisioning-profiles"></a>iOS Provisioning Profile
+# <a name="ios-provisioning-profiles"></a>iOS-proProfiling-profile
 
-Apple iOS Line-of-Business verwendet das Konzept einer Bereitstellung Profil die verwendet wird, überprüfen Sie die Integrität der Anwendung und Erzwingen von Richtlinien, die im Profil definiert. Diese Bereitstellung Profile laufen ab nach 12 Monate und ein neues Profil muss daher zugeordnet, mit der bereitgestellten app in der Reihenfolge für die apps auf weiterhin ausgeführt.
+Apple iOS-Branchen nutzen das Konzept eines proarbeits Profils, mit dem die Integrität der Anwendung überprüft und Richtlinien erzwungen werden, die im Profil definiert sind. Diese bereitstellungsprofile laufen nach 12 Monaten ab, sodass ein neues Profil der bereitgestellten App zugeordnet werden muss, damit die apps weiterhin ausgeführt werden können.
   
-Im folgende Artikel wird beschrieben, wie erstellen Sie eine neue Bereitstellung mit einer iOS LOB-app bereitgestellt über Intune Profil zuordnen: [Verwendung iOS-app provisioning Profile zu verhindern, dass Ihre apps ablaufen](https://docs.microsoft.com/intune/app-provisioning-profile-ios)
+Der folgende Artikel beschreibt, wie Sie ein neues Bereitstellungsprofil mit einer über InTune bereitgestellten iOS-Branchen-app erstellen: [verwenden Sie IOS-App-bereitstellungsprofile, um zu verhindern, dass Ihre apps ablaufen](https://docs.microsoft.com/intune/app-provisioning-profile-ios) .
   
 

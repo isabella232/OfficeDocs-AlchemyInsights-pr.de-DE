@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online-Terminologiespeicher fehlen Begriffe
+title: Fehlende Ausdrücke aus dem SharePoint Online-Terminologiespeicher
 ms.author: kirks
 author: Techwriter40
 ms.date: 10/30/2018
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a0f6a3b6-c17b-44a6-bb0f-039dbbc3f614
 ms.openlocfilehash: 3378eaac63103bf2499fd989d3878b00bab900cf
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29935049"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420627"
 ---
-# <a name="terms-missing-from-sharepoint-online-term-store"></a>SharePoint Online-Terminologiespeicher fehlen Begriffe
+# <a name="terms-missing-from-sharepoint-online-term-store"></a>Fehlende Ausdrücke aus dem SharePoint Online-Terminologiespeicher
 
-Die Ausdrücke in SharePoint Online Sie erwarten, finden Sie unter Terminologiespeicher nicht angezeigt oder werden zeitweise angezeigt wird.
+Die Begriffe im SharePoint Online-Terminologiespeicher, die Sie erwarten, werden nicht angezeigt oder werden gelegentlich angezeigt.
   
-Wenn mehr als 24 Stunden vergangen sind, da Sie zuerst dieses Problem gesehen haben, melden Sie sich an einer Supportanfrage. Wir wissen, dass 24 Stunden, wie lange mag. In vielen Fällen wir bereits arbeiten an einer Lösung so geben Sie uns bitte mindestens 24 Stunden.
+Wenn seit dem ersten Auftreten dieses Problems mehr als 24 Stunden vergangen sind, protokollieren Sie einen Supportfall. Wir wissen, dass 24 Stunden wie eine lange Zeit erscheinen können. In vielen Fällen arbeiten wir bereits an einer Lösung, damit Sie uns mindestens 24 Stunden geben können.
   
 

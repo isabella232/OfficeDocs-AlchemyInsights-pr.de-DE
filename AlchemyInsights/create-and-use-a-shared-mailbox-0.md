@@ -10,22 +10,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
 ms.openlocfilehash: 1171fc78b817c73162cd3fdad48cd7d517bd15f7
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906695"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406991"
 ---
 # <a name="create-and-use-a-shared-mailbox"></a>Erstellen und Verwenden eines freigegebenen Postfachs
 
-Ein freigegebenes Postfach kann mehrere Personen senden und Empfangen von e-Mails für einen Alias, wie **sales@contoso.com**, ohne eine weitere Lizenz zuweisen.
+Ein freigegebenes Postfach ermöglicht es mehr als einer Person, e-Mails für einen Alias, wie **Sales@contoso.com**, zu senden und zu empfangen, ohne eine andere Lizenz zuzuweisen.
   
-[Erstellen eines freigegebenen Postfachs](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) wird erläutert, wie Sie: 
+[Erstellen eines freigegebenen Postfachs](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) erläutert die folgenden Vorgehensweise: 
   
 - Erstellen eines freigegebenen Postfachs
     
-- Stellen Sie den Benutzern Berechtigungen zum Verwenden eines freigegebenen Postfachs
+- Erteilen von Berechtigungen für Benutzer zum Verwenden eines freigegebenen Postfachs
     
-- Zugriff auf das freigegebene Postfach in Outlook oder Outlook im Web
+- Zugreifen auf das freigegebene Postfach in Outlook oder Outlook im Web
     
 

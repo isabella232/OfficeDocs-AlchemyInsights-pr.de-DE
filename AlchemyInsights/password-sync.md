@@ -1,5 +1,5 @@
 ---
-title: 'Gewusst wie: Prüfen Sie Kennwort Synchronisierungsstatus'
+title: Überprüfen des Kenn Wort Synchronisierungs Status
 ms.author: pebaum
 author: pebaum
 ms.date: 12/5/2017
@@ -15,24 +15,24 @@ search.appverid:
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
 ms.openlocfilehash: 735604a097b6b86bd39207de230f8cef3163e96b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29929375"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372955"
 ---
-# <a name="enable-password-sync"></a>Aktivieren Sie Kennwort Sync
+# <a name="enable-password-sync"></a>Kennwortsynchronisierung aktivieren
 
-1.  Wählen Sie **Dirsync-Status** auf der Homepage O365 Admin Center. 
+1.  Wählen **** Sie auf der O365 Admin Center-startSeite dirsyncstatus aus. 
     
-     * Alternativ können Sie für **Benutzer** wechseln \> ** aktive Benutzer **, und wählen Sie auf der Seite aktive Benutzer **Weitere** \> **verzeichnissynchronisierung.** * 
+     * Alternativ können Sie zu **Benutzer** \> * * aktive Benutzer * wechseln,*und wählen Sie auf der Seite aktive Benutzer **Weitere** \> **Verzeichnissynchronisierung aus.** * 
     
-2. Wählen Sie im Bereich Directory-Synchronisierung **Wechseln Sie zur Dirsync-Verwaltung**. 
+2. Wählen Sie im Bereich Verzeichnissynchronisierung die Option **zu Dirsync-Verwaltung wechseln**aus. 
     
-3. Nachdem Sie Ihr Status wird angezeigt, und nehmen Sie Änderungen vor:
+3. Jetzt sehen Sie Ihren Status und nehmen Änderungen vor:
     
-    **Kennwort Sync aktiviert:** (True oder False). Gibt an, ob Sie kennwortsynchronisierung zwischen lokalen und Office 365-Mandanten aktiviert haben. 
+    **Kennwortsynchronisierung aktiviert:** (True oder false). Gibt an, ob die Kennwortsynchronisierung zwischen lokalen und Ihrem Office 365-Mandanten aktiviert ist. 
     
-    **Zuletzt Kennwort Sync:** (Zuletzt Kennwort Sync ausgeführt wurde). Dadurch wird eine Warnung sowie einen Link zu Problembehandlungstool angezeigt, ob die letzte Synchronisierung vor mehr als drei Tagen wurde. 
+    **Letzte Kennwortsynchronisierung:** (Zuletzt ausgeführte Kennwortsynchronisierung). Dadurch wird eine Warnung und ein Link zu einem Problembehandlungstool angezeigt, wenn die letzte Synchronisierung mehr als drei Tage zurückliegt. 
     
 
