@@ -1,5 +1,5 @@
 ---
-title: Informationen zum beweissicherungsverfahren oder Compliance-Archiv
+title: Informationen zum Rechtsstreit oder in-situ-Aufbewahrung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,21 +10,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
 ms.openlocfilehash: 9ecfb5bb167a0c959d39d47713bbb0e64862abb8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926927"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410409"
 ---
-- Zum Anwenden einer Aufbewahrung für eventuelle Archiv halten sowie einen in-Place für ein Postfach ein [Exchange Online – Plan 2 Lizenz](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) erforderlich ist. Wenn Sie alle anderen Plan haben, weisen Sie eine separate Lizenz [Exchange Online-Archivierung](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) für das Konto zu. 
+- Zum Anwenden eines Rechtsstreits oder eines in-situ-Speichers für ein Postfach ist eine [Exchange Online-Plan 2-Lizenz](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) erforderlich. Wenn Sie einen anderen Plan haben, weisen Sie dem Konto eine separate [Exchange Online-Archivierungs](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) Lizenz zu. 
     
-- **So aktivieren Sie eine Aufbewahrung für eventuelle Rechtsstreitigkeiten** für einen einzelnen Benutzer, befolgen Sie die Schritte [hier](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Wenn beweissicherungsverfahren aktiviert ist, wird im Postfach alle Inhalte in der Warteschleife platziert.
+- Führen Sie die [hier](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)beschriebenen Schritte aus, um für einen einzelnen Benutzer **eine Beweissicherung zu aktivieren** . Wenn die Rechtsstreitigkeit aktiviert ist, wird der gesamte Inhalt des Postfachs in der Warteschleife gehalten.
     
-- Wenn ein **Compliance - Archiv auf die einzelnen Benutzer** oder einem Haltestatus für **alle Postfächer in der gesamten Organisation**anwenden möchten, können Sie Aufbewahrungsrichtlinien gemäß den Schritten konturierte [hier](https://docs.microsoft.com/Office365/securitycompliance/retention-policies )im Office 365-Sicherheit und Compliance Center verwenden.
+- Wenn Sie einen **in-situ-Speicher für einzelne Benutzer** oder für **alle Postfächer in der gesamten Organisation**aktivieren möchten, können Sie die Aufbewahrungsrichtlinien im Office 365 Security and Compliance Center verwenden, indem Sie die [hier](https://docs.microsoft.com/Office365/securitycompliance/retention-policies )beschriebenen Schritte ausführen.
     
     > [!NOTE]
-    > Für die gesamte Org Aufbewahrungsrichtlinien werden neue Benutzer automatisch dem Haltebereich hinzugefügt werden. 
+    > Bei organisationsweiten Aufbewahrungsrichtlinien werden neue Benutzer automatisch dem Haltestatus hinzugefügt. 
   
-- Um anzuzeigen, oder ermitteln den Inhalt von Postfächern, der in die Warteschleife gestellt wird, verwenden Sie **eDiscovery-Suche und Export**. Führen Sie die Schritte aus erläuterten [hier](https://docs.microsoft.com/office365/securitycompliance/export-search-results)Informationen zur Verwendung von **eDiscovery-Suche und Export**.
+- Verwenden Sie **eDiscovery-Suche und-Export**, um den Postfachinhalt anzuzeigen oder zu ermitteln, der gespeichert wird. Weitere Informationen zur Verwendung von **eDiscovery-Suche und-Export**finden Sie unter den [hier](https://docs.microsoft.com/office365/securitycompliance/export-search-results)beschriebenen Schritten.
     
 

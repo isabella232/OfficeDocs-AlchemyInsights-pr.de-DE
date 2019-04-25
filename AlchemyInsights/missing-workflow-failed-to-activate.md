@@ -1,5 +1,5 @@
 ---
-title: Fehlende Workflow konnte nicht aktiviert
+title: FehlEnder Workflow konnte nicht aktiviert werden
 ms.author: kirks
 author: Techwriter40
 ms.date: 12/3/2018
@@ -9,35 +9,35 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e46ae8c5-3d81-457e-8c77-f7c1cbe267c4
 ms.openlocfilehash: ce088227a3206fa05b99331fdb022fbe4886203f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917567"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418432"
 ---
-# <a name="missing-workflow-failed-to-activate"></a>Fehlende Workflow konnte nicht aktiviert
+# <a name="missing-workflow-failed-to-activate"></a>FehlEnder Workflow konnte nicht aktiviert werden
 
-Sie können nicht in einer Microsoft SharePoint-Websitesammlung ein Global wieder verwendbaren Workflows (beispielsweise "Genehmigung - SharePoint 2010") zu einer Liste oder Bibliothek hinzufügen.
+In einer Microsoft SharePoint-Websitesammlung können Sie einer Liste oder Bibliothek keinen Global wiederverwendbaren Workflow (wie "Genehmigungs-SharePoint 2010") hinzufügen.
   
-Gehen Sie folgendermaßen vor, um dieses Problem zu beheben: 
+Führen Sie die folgenden Schritte aus, um dieses Problem zu beheben: 
   
 1. Öffnen Sie die Stammwebsite der Websitesammlung in SharePoint Designer 2013.
   
-2. Wählen Sie unter **Standortobjekten** **Workflows**aus. 
+2. Wählen Sie unter **Website Objekte**die Option **Workflows**aus. 
   
-3. Wählen Sie im Abschnitt **neu** des Menübands **Workflows** **Wieder Verwendbarer Workflow**aus. 
+3. Wählen Sie im Abschnitt **neu** des Menübands **Workflows** **wieder verwendbarer Workflow**aus. 
   
-4. Klicken Sie auf das Formular **Wieder verwendbaren Workflow erstellen** , geben Sie den Namen ** *Repair2010* **. Klicken Sie auf **SharePoint 2010-Workflows**für **Plattformtyp**und klicken Sie dann auf **OK**. 
+4. Geben Sie im Formular **wieder verwendbare Workflows erstellen** den Namen * * *Repair2010* * * ein. Klicken Sie unter **Plattformtyp**auf **sharePoint 2010-Workflow**, und klicken Sie dann auf **OK**. 
   
-1. Aktivieren Sie im Abschnitt **Speichern** des Menübands **Workflow** **Veröffentlichen**. 
+1. Wählen Sie im **Workflow** -Menüband im Abschnitt **Speichern** die Option **veröffentlichen**aus. 
   
-2. Wählen Sie im Abschnitt **Verwalten** des Menübands **Workflow** **Global veröffentlichen**. Klicken Sie im Dialogfeld Bestätigung wählen Sie **OK**aus. 
+2. Wählen Sie im Abschnitt **Verwalten** des Menübands **Workflow** die Option **Global veröffentlichen**aus. Klicken Sie im daraufhin angezeigten Bestätigungsdialogfeld auf **OK**. 
   
-3. In einem Webbrowser die Stammwebsite der Websitesammlung zu suchen, und klicken Sie dann auf zugreifen **Site Settings** \> **Websitesammlungs-Features**. Klicken Sie dann Umschalten des **Workflows** Features: 
+3. Navigieren Sie in einem Webbrowser zu der Stammwebsite der Websitesammlung, und greifen Sie dann auf Website **Sammlungs Features**für **Websiteeinstellungen** \> zu. Aktivieren Sie dann das Feature **Workflows** : 
   
-· Wenn das Feature *aktiviert* ist, klicken Sie auf **deaktivieren,** und klicken Sie dann auf **Aktivieren**. 
+· Wenn das Feature *aktiviert* ist, klicken Sie auf Deaktivieren **,** und klicken Sie dann auf **aktivieren**. 
   
-· Wenn das Feature *deaktiviert* ist, klicken Sie auf **Aktivieren**. 
+· Wenn das Feature *deaktiviert* ist, klicken Sie auf **aktivieren**. 
   
 Weitere Informationen finden Sie im folgenden [Artikel](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
   
