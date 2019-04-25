@@ -9,14 +9,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
 ms.openlocfilehash: 0e371df49b298707d4f8d3a832c49a4b369b9b29
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29942046"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398997"
 ---
 # <a name="edit-a-read-only-file"></a>Bearbeiten einer schreibgeschützten Datei
 
-In Dokumentbibliotheken Wenn Sie auf den Namen eines Dokuments, kann das Office-Programm unerwartet sie als eine schreibgeschützte Datei öffnen. Um es zur Bearbeitung zu öffnen, klicken Sie auf **Öffnen** (den drei Punkten), und klicken Sie dann auf **Bearbeiten.**
+In Dokumentbibliotheken wird das Office-Programm, wenn Sie auf den Namen eines Dokuments klicken, unerwarteterweise als schreibgeschützte Datei geöffnet. Klicken Sie zum Öffnen der Bearbeitung auf **Öffnen** (die drei Punkte), und klicken Sie dann auf **Bearbeiten.**
   
 

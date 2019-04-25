@@ -1,5 +1,5 @@
 ---
-title: Problembehandlung bei Ablauf Authentifizierung Fehlern
+title: Problembehandlung bei Fluss Authentifizierungsfehlern
 ms.author: kaarins
 author: kaarins
 ms.date: 6/27/2018
@@ -9,24 +9,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c15fed9f-65c6-422e-9d32-87e889a44b51
 ms.openlocfilehash: e578149e37c86178b98cf6073f6ed6325f42c455
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941075"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32393612"
 ---
-# <a name="troubleshoot-flow-authentication-errors"></a>Problembehandlung bei Ablauf Authentifizierung Fehlern
+# <a name="troubleshoot-flow-authentication-errors"></a>Problembehandlung bei Fluss Authentifizierungsfehlern
 
-In vielen Fällen fehl, Abläufe aufgrund eines Authentifizierungsfehlers. Wenn Sie diese Art von Fehler verfügen, die Fehlermeldung "Nicht autorisiert" enthält, oder ein Fehlercode 401 oder 403 angezeigt wird. Sie können in der Regel einen Authentifizierungsfehler beheben, durch die Verbindung zu aktualisieren:
+In vielen Fällen können Flows aufgrund eines Authentifizierungsfehlers fehlschlagen. Bei einem solchen Fehler enthält die Fehlermeldung "nicht autorisiert" oder es wird ein Fehlercode von 401 oder 403 angezeigt. Sie können in der Regel einen Authentifizierungsfehler beheben, indem Sie die Verbindung aktualisieren:
   
-1. Am oberen Rand der Webportal klicken Sie oder tippen Sie auf das Zahnradsymbol öffnen im Menü Einstellungen und klicken Sie auf, oder tippen Sie auf **Verbindungen**.
+1. Klicken oder tippen Sie oben im Webportal auf das Zahnradsymbol, um das Menü Einstellungen zu öffnen, und klicken Sie dann auf **Verbindungen**.
     
-2. Haben Sie die Verbindung, für die Sie die nicht autorisierte Fehlermeldung gesehen haben.
+2. Führen Sie einen Bildlauf zu der Verbindung aus, für die die nicht autorisierte Fehlermeldung angezeigt wurde.
     
-3. Neben der Verbindung klicken Sie oder tippen Sie auf den Link " **Kennwort bestätigen** " in die Meldung über die Verbindung nicht authentifiziert wird. 
+3. Klicken oder tippen Sie neben der Verbindung in der Nachricht, dass die Verbindung nicht authentifiziert wird, auf den Link **Kennwort überprüfen** . 
     
-4. Überprüfen Sie Ihre Anmeldeinformationen durch Befolgen der Anweisungen, die angezeigt werden, zurück zu Ihrer Fluss ausführen bei einem Ausfall, und klicken Sie dann klicken oder tippen Sie **erneut zu übermitteln**.
+4. Überprüfen Sie Ihre Anmeldeinformationen, indem Sie die angezeigten Anweisungen befolgen, zu Ihrem Fluss Lauf fehlschlagen zurückkehren und dann auf **erneut übermitteln**klicken oder tippen.
     
-Weitere Informationen finden Sie unter [Troubleshooting einen Fluss](https://go.microsoft.com/fwlink/?linkid=872110).
+Weitere Informationen finden Sie unter [Troubleshooting a Flow](https://go.microsoft.com/fwlink/?linkid=872110).
   
 

@@ -1,5 +1,5 @@
 ---
-title: Zum Deaktivieren des externen Gruppen
+title: Deaktivieren externer Gruppen
 ms.author: pebaum
 author: pebaum
 ms.date: 12/17/2018
@@ -9,24 +9,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
 ms.openlocfilehash: 4d911c319c3e8e327f9b3af3ba67816e646bc468
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29899135"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399590"
 ---
-# <a name="how-to-disable-external-groups"></a>Zum Deaktivieren des externen Gruppen
+# <a name="how-to-disable-external-groups"></a>Deaktivieren externer Gruppen
 
-Yammer, dass externe messaging Exchange-Transportregeln (ETRs), eine Reihe proaktiven Steuerelemente zu verhindern, dass Unternehmensinformationen freigegeben gilt. Um Benutzer daran zu hindern, Erstellen von externen Gruppen müssen Sie eine Exchange-Transportregel (ETR) konfigurieren, und konfigurieren Sie Yammer, um die Exchange-Transportregel verwenden, um externe messaging blockieren. 
+Jammern externe Messaging wendet Exchange-Transport Regeln (ETRs), eine Reihe proaktiver Steuerelemente an, um zu verhindern, dass Unternehmensinformationen freigegeben werden. Um Benutzer daran zu hindern, externe Gruppen zu erstellen, müssen Sie eine Exchange-Transportregel (ETR) konfigurieren und dann jammern konfigurieren, dass die Exchange-Transportregel zum Blockieren von externem Messaging verwendet wird. 
   
-Gehen folgendermaßen Sie vor, um ETR in Yammer anwenden festzulegen, nach dem Erstellen einer Regel in Exchange Online-Verwaltungskonsole:
+Nachdem Sie eine Regel in Exchange Online Admin Center erstellt haben, führen Sie die folgenden Schritte aus, um ETR auf Anwenden in jammern festzulegen:
   
-- Melden Sie sich bei Yammer als eine überprüften Admin, und klicken Sie in der **Yammer-Verwaltungskonsole**, fahren Sie mit C **Ontent und Sicherheit \> Security Settings.**
+- Melden Sie sich bei jammern als verifizierter Administrator an, und wechseln Sie im **Jammer Verwaltungscenter**zu C ontent ** \> und Sicherheits Sicherheitseinstellungen.**
     
-- Wählen Sie unter **Externe Messaging**, **erzwingen Ihrer Exchange Online Exchange-Transportregeln (ETRs) in Yammer.**
+- Wählen Sie unter **externe Nachrichtenübermittlung** **die Option Exchange Online-Transport Regeln erzwingen (ETRs) in jammern aus.**
     
-- Klicken Sie auf **Save**. 
+- Wählen Sie **Speichern** aus. 
     
-Weitere Informationen finden Sie unter [externe messaging in einem Yammer-Netzwerk mit Exchange-Transportregeln](https://support.office.com/article/Control-external-messaging-in-a-Yammer-network-with-Exchange-Transport-Rules-f8fd6403-c8f3-4307-9230-65304d6000d9)
+Weitere Informationen finden Sie unter [Steuerelement für externe Nachrichten in einem Jammer-Netzwerk mit Exchange-Transport Regeln](https://support.office.com/article/Control-external-messaging-in-a-Yammer-network-with-Exchange-Transport-Rules-f8fd6403-c8f3-4307-9230-65304d6000d9) .
   
 

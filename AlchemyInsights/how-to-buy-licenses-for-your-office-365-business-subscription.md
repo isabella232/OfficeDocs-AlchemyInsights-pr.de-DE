@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.openlocfilehash: 1d9c0009e743e2cb514124ba5b9c3292580d9a88
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30207972"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399914"
 ---
 # <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a>Erwerben von Lizenzen für Ihr Office 365 Business-Abonnement
 
-Wenn Sie Ihren Benutzern Office 365-Lizenzen zuweisen, haben Sie möglicherweise die Notwendigkeit, zusätzliche Lizenzen zu erwerben. Zu diesem Zweck:
+Wenn Sie Ihren Benutzern Office 365-Lizenzen zuweisen, haben Sie möglicherweise die Notwendigkeit, zusätzliche Lizenzen zu erwerben. Gehen Sie hierfür folgendermaßen vor:
   
 - wechseln sie im Microsoft 365 admin center zur seite [abonnements]( https://go.microsoft.com/fwlink/p/?linkid=842054) , oder wählen sie **abrechnungs** \> **abonnements**aus.
     

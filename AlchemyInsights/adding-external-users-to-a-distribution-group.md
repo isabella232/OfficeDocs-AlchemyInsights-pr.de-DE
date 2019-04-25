@@ -1,5 +1,5 @@
 ---
-title: Hinzufügen von externen Benutzern an eine Verteilergruppe?
+title: Hinzufügen externer Benutzer zu einer Verteilergruppe?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/22/2017
@@ -9,38 +9,38 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
 ms.openlocfilehash: ce67797a1838630ab3a42e1eeeefc401a0e3f753
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906875"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398457"
 ---
-# <a name="adding-external-users-to-a-distribution-group"></a>Hinzufügen von externen Benutzern an eine Verteilergruppe?
+# <a name="adding-external-users-to-a-distribution-group"></a>Hinzufügen externer Benutzer zu einer Verteilergruppe?
 
-Hinzufügen eines externen Kontakts einen Distribution Group (DG) ist ein 2-Schritt-Prozess:
+Das Hinzufügen eines externen Kontakts zu einer Verteilergruppe (DG) besteht aus zwei Schritten:
   
-1. Erstellen Sie eine E-Mail-Kontakt für den externen Benutzer:
+1. Erstellen eines e-Mail-Kontakts für den externen Benutzer:
     
-1. Klicken Sie [hier](https://admin.microsoft.com/adminportal/home#/Contact) , um die Seite Kontakt bearbeiten dem Verwaltungsportal zu navigieren. 
+1. Klicken Sie [hier](https://admin.microsoft.com/adminportal/home#/Contact) , um zur Bearbeitungsseite Kontakt im Administratorportal zu navigieren. 
     
-2. Klicken Sie auf **einen Kontakt hinzufügen**.
+2. Klicken Sie auf **Kontakt hinzufügen**.
     
-3. Geben Sie die Informationen für den Kontakt, und klicken Sie auf **Speichern**.
+3. Geben Sie die Informationen für Ihren Kontakt ein, und klicken Sie auf **Speichern**.
     
-2. Fügen Sie den E-Mail-Kontakt Ihre DG hinzu:
+2. Fügen Sie den e-Mail-Kontakt Ihrer DG hinzu:
     
-1. Klicken Sie [hier](https://admin.microsoft.com/adminportal/home#/groups) , um die Seite Gruppen zu navigieren. 
+1. Klicken Sie [hier](https://admin.microsoft.com/adminportal/home#/groups) , um zur Seite Gruppen zu navigieren. 
     
-2. Hier finden Sie die DG soll den externen Benutzer auf Hinzufügen, und klicken auf, um das Dialogfeld bearbeiten zu öffnen.
+2. Suchen Sie die DG, der Sie den externen Benutzer hinzufügen möchten, und klicken Sie darauf, um das Dialogfeld bearbeiten zu öffnen.
     
-3. Klicken Sie auf die Schaltfläche **Bearbeiten** in der Liste **Mitglieder** . 
+3. Klicken Sie in der Liste **Mitglieder** auf die Schaltfläche **Bearbeiten** . 
     
 4. Klicken Sie auf **Mitglieder hinzufügen**.
     
-5. Wählen Sie den E-Mail-Kontakt, die Sie im vorherigen Schritt erstellt haben, und klicken Sie auf **Speichern**.
+5. Wählen Sie den e-Mail-Kontakt aus, den Sie im vorherigen Schritt erstellt haben, und klicken Sie auf **Speichern**.
     
-Wenn auch nach der folgenden Schritte die für externe Benutzer-e-Mails nicht werden, um die DG gesendet können oder daraus-e-Mails empfangen keine, kann es sein, dass die DG gekennzeichnet ist, um nur e-Mails von internen Benutzern zu ermöglichen. Sie können diese Konfiguration überprüfen und beheben Befolgen der Anweisungen [hier](https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx)
+Wenn auch nach diesen Schritten Ihre externen Benutzer keine e-Mails an die DG senden können oder keine e-Mails davon erhalten, kann es sein, dass die DG so gekennzeichnet ist, dass nur e-Mails von internen Benutzern zugelassen werden. Sie können diese Konfiguration überprüfen und befolgen Sie die Anweisungen [hier](https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx)
   
- **Hinweis:** Diese Anweisungen gelten nicht für Ihre Gruppe Typ ist "Office 365 Group" anstelle von "Verteilergruppe". Wenn dies der Fall ist, können Sie den externen Benutzer direkt auf die Gruppe aus Outlook oder Outlook im Web hinzufügen. In [diesem Artikel](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx)können ausführliche Erläuterung auf O365 Gruppen Gäste sowie Anweisungen zum Hinzufügen von externen Gäste gefunden werden.
+ **Hinweis:** Diese Anweisungen gelten nicht, wenn der Typ Ihrer Gruppe "Office 365 Group" anstelle von "Verteilergruppe" lautet. In diesem Fall können Sie den externen Benutzer aus Outlook oder Outlook im Web direkt der Gruppe hinzufügen. Ausführliche Erläuterungen zu O365-Gruppen Gästen sowie Anweisungen zum Hinzufügen von externen Gästen finden Sie in [diesem Artikel](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
   
 

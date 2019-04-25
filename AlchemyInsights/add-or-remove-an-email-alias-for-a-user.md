@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.openlocfilehash: dda19e5e2ea5aef121f8d4949659bd594e4f00e7
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925559"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398853"
 ---
-# <a name="add-or-remove-an-email-address-for-a-user"></a>Fügen Sie hinzu oder entfernen Sie eine e-Mail-Adresse für einen Benutzer
+# <a name="add-or-remove-an-email-address-for-a-user"></a>Hinzufügen oder Entfernen einer e-Mail-Adresse für einen Benutzer
 
-[Hier können Sie die ersten Schritte beim](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions).
+[Gehen Sie hier, um zu beginnen](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions).
     
- **Hinweis**: Sie können mehrere e-Mail-Adresse für einen Benutzer verfügen, aber weitere *e-Mail-Aliasnamen* kann nur für den Empfang von e-Mail verwendet werden. Wenn Sie zum Senden von e-Mails mit dem Alias müssen, erstellen Sie ein [freigegebenes Postfach](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9). Auf diese Weise erhalten Sie den Alias senden und Empfangen von e-Mail-Nachrichten. 
+ **Hinweis**: Sie können mehr als eine e-Mail-Adresse für einen Benutzer haben, aber zusätzliche *e-Mail-Aliase* können nur für den Empfang von e-Mails verwendet werden. Wenn Sie e-Mails mit einem Alias senden müssen, erstellen Sie ein [freigegebenes Postfach](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9). Auf diese Weise erhalten Sie den Alias zum Senden und empfangen von e-Mails. 
   
 

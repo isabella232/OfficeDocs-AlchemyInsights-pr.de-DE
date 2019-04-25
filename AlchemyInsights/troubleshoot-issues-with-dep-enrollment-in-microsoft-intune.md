@@ -1,5 +1,5 @@
 ---
-title: Behandeln von Problemen mit DEP Registrierung in Microsoft Intune
+title: Behandeln von Problemen mit der DEP-Registrierung in Microsoft InTune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,22 +10,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5d32afde-47ab-4b1e-a669-662e5dbdc213
 ms.openlocfilehash: cfbf75b5278e04a3063d97210dee4497e4499421
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29937119"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32391329"
 ---
-# <a name="troubleshoot-issues-with-dep-enrollment-in-microsoft-intune"></a>Behandeln von Problemen mit DEP Registrierung in Microsoft Intune
+# <a name="troubleshoot-issues-with-dep-enrollment-in-microsoft-intune"></a>Behandeln von Problemen mit der DEP-Registrierung in Microsoft InTune
 
-Überprüfen Sie die unten aufgeführten Ressourcen zur Lösung des Problems jetzt. 
+Lesen Sie die unten aufgeführten Ressourcen, um Ihr Problem jetzt zu beheben. 
   
-1. Wenn DEP Gerät keine Verbindung zu registrieren kann und mehrstufiger Authentifizierung das (Multi-Factor Authentication) aktiviert ist, deaktivieren Sie mehrstufiger Authentifizierung das. Derzeit mehrstufiger Authentifizierung das nicht für die Datenausführungsverhinderung Registrierung unterstützt
+1. Wenn das DEP-Gerät nicht registriert werden kann und MFA (Multi-Factor Authentication) aktiviert ist, deaktivieren Sie MFA. Derzeit wird MFA für die datenAUSFÜHRUNGSverHINDERung nicht unterstützt
     
-2. Mithilfe von [Intune Problembehandlung Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnostizieren und Beheben von häufig auftretenden Fehler der Registrierung. Lesen Sie [Dieses Dokument](https://docs.microsoft.com/intune/help-desk-operators) für weitere Details. 
+2. Verwenden Sie [InTune-Problem Behandlungs Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) zur Diagnose und Lösung allgemeiner Registrierungsfehler. Weitere Informationen finden Sie in [diesem Dokument](https://docs.microsoft.com/intune/help-desk-operators) . 
     
-3. Lesen Sie diese Dokumente für eine Liste mit häufigen Fehlern, die Registrierung und Auflösung an alle verhindern: [Handbuch für die Problembehandlung](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) und [Problembehandlung Doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)
+3. Sehen Sie sich diese Dokumente an, um eine Liste allgemeiner Fehler zu finden, die die Registrierung und Auflösungen für jeden verhindern: [Problembehandlung](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) und [Problembehandlung (Dokument](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) )
     
-4. [Informieren Sie sich über die Registrierung Programm](https://docs.microsoft.com/intune/device-enrollment-program-enroll-ios).
+4. [Erfahren Sie mehr über das Geräte Registrierungsprogramm](https://docs.microsoft.com/intune/device-enrollment-program-enroll-ios).
     
 

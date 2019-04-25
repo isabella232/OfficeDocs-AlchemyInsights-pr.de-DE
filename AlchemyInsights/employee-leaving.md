@@ -13,11 +13,11 @@ ms.custom: ''
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
 description: ''
 ms.openlocfilehash: 3d7a1399cb1378cd6960d308d2df440310408b9d
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30767463"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398889"
 ---
 # <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a>Haben Sie einen Mitarbeiter verlassen und müssen Sie den Zugriff auf Daten und e-Mails blockieren?
   
