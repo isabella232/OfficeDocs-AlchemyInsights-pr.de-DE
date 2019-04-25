@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 3eddff13-0dc2-41ff-995a-83df2c941eb7
 ms.openlocfilehash: 454287824158de97fa233b08769febcafb4b4a72
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754973"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422943"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-wrong-account"></a><span data-ttu-id="14204-102">Volumenlizenz-Enterprise-Vertrag bei falschem Konto aktiviert</span><span class="sxs-lookup"><span data-stu-id="14204-102">Volume licensing enterprise agreement activated on wrong account</span></span>
+# <a name="volume-licensing-enterprise-agreement-activated-on-wrong-account"></a><span data-ttu-id="a20a4-102">Volumenlizenz-Enterprise-Vertrag bei falschem Konto aktiviert</span><span class="sxs-lookup"><span data-stu-id="a20a4-102">Volume licensing enterprise agreement activated on wrong account</span></span>
 
-<span data-ttu-id="14204-103">Wenn Sie feststellen, dass Ihre Abonnements, die über einen Volumenlizenz-Enterprise-Vertrag erworben wurden, auf dem falschen Mandanten aktiviert wurden, verwenden Sie die Option "rufen Sie uns an", um mit einem Supporttechniker zu sprechen.</span><span class="sxs-lookup"><span data-stu-id="14204-103">If you find your subscriptions purchased through a Volume Licensing Enterprise Agreement have been activated on the wrong tenant, please use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="a20a4-103">Wenn Sie feststellen, dass Ihre Abonnements, die über einen Volumenlizenz-Enterprise-Vertrag erworben wurden, auf dem falschen Mandanten aktiviert wurden, verwenden Sie die Option "rufen Sie uns an", um mit einem Supporttechniker zu sprechen.</span><span class="sxs-lookup"><span data-stu-id="a20a4-103">If you find your subscriptions purchased through a Volume Licensing Enterprise Agreement have been activated on the wrong tenant, please use the "Let us call you" option to talk to a support engineer.</span></span>
   
 

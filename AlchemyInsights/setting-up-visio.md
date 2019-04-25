@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0162885a-13d5-4400-9972-935c9186c608
 ms.openlocfilehash: 58fcd20751861add0269a1f71cb896c79b48a92d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906551"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421455"
 ---
-# <a name="setting-up-visio"></a><span data-ttu-id="d2efc-102">Einrichten von Visio</span><span class="sxs-lookup"><span data-stu-id="d2efc-102">Setting up Visio</span></span>
+# <a name="setting-up-visio"></a><span data-ttu-id="9d658-102">Einrichten von Visio</span><span class="sxs-lookup"><span data-stu-id="9d658-102">Setting up Visio</span></span>
 
-<span data-ttu-id="d2efc-103">Anscheinend verwenden Sie beim Einrichten von Visio in Ihrem Office 365-Abonnement Hilfe benötigen.</span><span class="sxs-lookup"><span data-stu-id="d2efc-103">Looks like you need help setting up Visio with your Office 365 subscription.</span></span>
+<span data-ttu-id="9d658-103">Sie benötigen Hilfe beim Einrichten von Visio mit Ihrem Office 365-Abonnement.</span><span class="sxs-lookup"><span data-stu-id="9d658-103">Looks like you need help setting up Visio with your Office 365 subscription.</span></span>
   
-<span data-ttu-id="d2efc-p101">Hinweis für Mac-Benutzer: der Visio-Produktteams ist zu diesem Zeitpunkt nicht für Mac OS verfügbar. Wenn Sie einen PC verfügen sollten Sie mithilfe der nachfolgenden Schritte der Softwareinstallation sein.</span><span class="sxs-lookup"><span data-stu-id="d2efc-p101">Notice for Mac users: The Visio product is not available for MacOS at this time. If you have a PC you should be able to install the software using the steps below.</span></span>
+<span data-ttu-id="9d658-104">Hinweis für Mac-Benutzer: das Visio-Produkt ist derzeit nicht für MacOS verfügbar.</span><span class="sxs-lookup"><span data-stu-id="9d658-104">Notice for Mac users: The Visio product is not available for MacOS at this time.</span></span> <span data-ttu-id="9d658-105">Wenn Sie einen PC haben, sollten Sie in der Lage sein, die Software mithilfe der folgenden Schritte zu installieren.</span><span class="sxs-lookup"><span data-stu-id="9d658-105">If you have a PC you should be able to install the software using the steps below.</span></span>
   
-<span data-ttu-id="d2efc-106">Führen Sie die Schritte in [diesem Artikel](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710.aspx) zum Abrufen Ihrer-Setups wurde abgeschlossen.</span><span class="sxs-lookup"><span data-stu-id="d2efc-106">You can follow the steps in [this article](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710.aspx) to get your setup completed.</span></span> 
+<span data-ttu-id="9d658-106">Führen Sie die Schritte in [diesem Artikel](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710.aspx) aus, um das Setup abzuschließen.</span><span class="sxs-lookup"><span data-stu-id="9d658-106">You can follow the steps in [this article](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710.aspx) to get your setup completed.</span></span> 
   
 

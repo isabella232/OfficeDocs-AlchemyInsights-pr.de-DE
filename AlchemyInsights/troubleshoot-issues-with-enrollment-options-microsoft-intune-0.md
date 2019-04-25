@@ -1,5 +1,5 @@
 ---
-title: Behandeln von Problemen mit der Registrierungsoptionen Microsoft Intune
+title: Behandeln von Problemen mit Registrierungsoptionen Microsoft InTune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,22 +10,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
 ms.openlocfilehash: 03677ad3e2b9183796890fe993a305476521eae8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29924803"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420411"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a><span data-ttu-id="f27fa-102">Behandeln von Problemen mit der Registrierungsoptionen Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="f27fa-102">Troubleshoot issues with enrollment options Microsoft Intune</span></span>
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a><span data-ttu-id="9017f-102">Behandeln von Problemen mit Registrierungsoptionen Microsoft InTune</span><span class="sxs-lookup"><span data-stu-id="9017f-102">Troubleshoot issues with enrollment options Microsoft Intune</span></span>
 
-<span data-ttu-id="f27fa-103">Überprüfen Sie die unten aufgeführten Ressourcen zur Lösung des Problems jetzt.</span><span class="sxs-lookup"><span data-stu-id="f27fa-103">Review the resources listed below to resolve your issue now.</span></span> 
+<span data-ttu-id="9017f-103">Lesen Sie die unten aufgeführten Ressourcen, um Ihr Problem jetzt zu beheben.</span><span class="sxs-lookup"><span data-stu-id="9017f-103">Review the resources listed below to resolve your issue now.</span></span> 
   
-- <span data-ttu-id="f27fa-104">[Überprüfung Intune TechNet finden Sie Antworten und Lösungen zu häufig auftretender Probleme zu finden](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).</span><span class="sxs-lookup"><span data-stu-id="f27fa-104">[Review Intune TechNet to find answers and solutions to common issues](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).</span></span>
+- <span data-ttu-id="9017f-104">[Überarbeiten Sie InTune TechNet, um Antworten und Lösungen für häufige Probleme zu finden](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).</span><span class="sxs-lookup"><span data-stu-id="9017f-104">[Review Intune TechNet to find answers and solutions to common issues](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).</span></span>
     
-- <span data-ttu-id="f27fa-p101">Mithilfe von [Intune Problembehandlung Portal](https://aka.ms/intunetroubleshooting) diagnostizieren und Beheben von häufig auftretenden Fehler der Registrierung. Lesen Sie [Dieses Dokument](https://docs.microsoft.com/intune/help-desk-operators) für weitere Details.</span><span class="sxs-lookup"><span data-stu-id="f27fa-p101">Use [Intune Troubleshooting Portal](https://aka.ms/intunetroubleshooting) to diagnose and resolve common enrollment failures. Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span> 
+- <span data-ttu-id="9017f-105">Verwenden Sie [InTune-Problem Behandlungs Portal](https://aka.ms/intunetroubleshooting) zur Diagnose und Lösung allgemeiner Registrierungsfehler.</span><span class="sxs-lookup"><span data-stu-id="9017f-105">Use [Intune Troubleshooting Portal](https://aka.ms/intunetroubleshooting) to diagnose and resolve common enrollment failures.</span></span> <span data-ttu-id="9017f-106">Weitere Informationen finden Sie in [diesem Dokument](https://docs.microsoft.com/intune/help-desk-operators) .</span><span class="sxs-lookup"><span data-stu-id="9017f-106">Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span> 
     
-- <span data-ttu-id="f27fa-107">Lesen Sie [Dieses Dokument](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) für eine Liste mit häufigen Fehlern, die Registrierung und Auflösung für jeden zu verhindern.</span><span class="sxs-lookup"><span data-stu-id="f27fa-107">Review [this document](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) for a list of common errors that prevent enrollment and resolutions to each.</span></span> 
+- <span data-ttu-id="9017f-107">In [diesem Dokument](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) finden Sie eine Liste häufig auftretender Fehler, die die Registrierung und die Auflösungen verhindern.</span><span class="sxs-lookup"><span data-stu-id="9017f-107">Review [this document](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) for a list of common errors that prevent enrollment and resolutions to each.</span></span> 
     
-- <span data-ttu-id="f27fa-108">[Informieren Sie sich über Registrierungsoptionen in Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).</span><span class="sxs-lookup"><span data-stu-id="f27fa-108">[Learn about enrollment options in Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).</span></span>
+- <span data-ttu-id="9017f-108">[Erfahren Sie mehr über Registrierungsoptionen in Microsoft InTune](https://docs.microsoft.com/intune/enrollment-options).</span><span class="sxs-lookup"><span data-stu-id="9017f-108">[Learn about enrollment options in Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).</span></span>
     
 
