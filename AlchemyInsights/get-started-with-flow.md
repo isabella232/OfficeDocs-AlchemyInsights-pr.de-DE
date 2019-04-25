@@ -1,5 +1,5 @@
 ---
-title: Erste Schritte mit Ablauf
+title: Erste Schritte mit Flow
 ms.author: toresing
 author: tomresing
 ms.date: 5/18/2018
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 46adf2ae-f55c-4ae5-9540-7fcfcb0a3e4f
 ms.openlocfilehash: d02aa48f510183875718183138f65db17570c07c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939671"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400932"
 ---
 # <a name="get-started-with-microsoft-flow"></a>Erste Schritte mit Microsoft Flow
 
-Microsoft-Flow ermöglichen Folgendes:
+Mit Microsoft Flow haben Sie folgende Möglichkeiten:
   
-- Suchen Sie bequem nach Vorlagen und Dienste.
+- Einfache Suche nach Vorlagen und Diensten.
     
-- Wählen Sie aus der am häufigsten verwendeten Dienste.
+- Wählen Sie aus den beliebtesten Diensten.
     
-- Finden Sie eine Übersicht über alle Abläufe.
+- Hier finden Sie eine Übersicht über die einzelnen Flows.
     
-[Erfahren Sie mehr über Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=874446)
+[Weitere Informationen zu Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=874446)
   
 

@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0162885a-13d5-4400-9972-935c9186c608
 ms.openlocfilehash: 58fcd20751861add0269a1f71cb896c79b48a92d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906551"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421455"
 ---
 # <a name="setting-up-visio"></a>Einrichten von Visio
 
-Anscheinend verwenden Sie beim Einrichten von Visio in Ihrem Office 365-Abonnement Hilfe benötigen.
+Sie benötigen Hilfe beim Einrichten von Visio mit Ihrem Office 365-Abonnement.
   
-Hinweis für Mac-Benutzer: der Visio-Produktteams ist zu diesem Zeitpunkt nicht für Mac OS verfügbar. Wenn Sie einen PC verfügen sollten Sie mithilfe der nachfolgenden Schritte der Softwareinstallation sein.
+Hinweis für Mac-Benutzer: das Visio-Produkt ist derzeit nicht für MacOS verfügbar. Wenn Sie einen PC haben, sollten Sie in der Lage sein, die Software mithilfe der folgenden Schritte zu installieren.
   
-Führen Sie die Schritte in [diesem Artikel](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710.aspx) zum Abrufen Ihrer-Setups wurde abgeschlossen. 
+Führen Sie die Schritte in [diesem Artikel](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710.aspx) aus, um das Setup abzuschließen. 
   
 

@@ -10,24 +10,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7b5b4e06-6943-4b2f-b8e4-cdaf13e65c77
 ms.openlocfilehash: 9d6a232821884644db08160f18e1dfae2349c349
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911519"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422333"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Wiederherstellen eines gelöschten Postfachs
 
-Wenn ein Benutzer ihre Exchange Online-Lizenz verliert, bleibt ihr Postfach für 30 Tage. Während dieser 30-Tage-Zeitraum kann das Postfach durch erneut dem Benutzer die Lizenz zuweisen wiederhergestellt werden. Dies ist jedoch nur möglich für 30 Tage.
+Wenn ein Benutzer seine Exchange Online-Lizenz verliert, wird sein Postfach 30 Tage lang aufbewahrt. Während dieses Zeitraums von 30 Tagen kann das Postfach wiederhergestellt werden, indem die Lizenz dem Benutzer erneut zugewiesen wird. Dies ist jedoch nur 30 Tage lang möglich.
   
-In der Admin-Portal:
+Im Admin-Portal:
   
-- Wechseln Sie zu **Benutzern** \> **aktive Benutzer**. Wählen Sie den betreffenden Benutzer.
+- Wechseln Sie zu **Benutzer** \> **Aktive Benutzer**. Wählen Sie den betreffenden Benutzer aus.
     
-- Wählen Sie ** bearbeiten ** Lizenzen ändern. 
+- Wählen Sie * * bearbeiten * * aus, um Produktlizenzen zu ändern. 
     
-- Weisen Sie der Exchange Online-Lizenzvertrags für den Benutzer, und wählen Sie dann auf **Speichern**.
+- Weisen Sie dem Benutzer die Exchange Online-Lizenz zu, und wählen Sie dann **Speichern**aus.
     
-Freigegebene Postfächer können innerhalb von 30 Tagen auch wiederhergestellt werden. Finden Sie unter **Benutzer** freigegebene Postfächer \> **Gelöschte Benutzer**. Freigegebene Postfächer erfordern keine Exchange Online-Lizenz.
+FreigeGebene Postfächer können auch innerhalb von 30 Tagen wiederhergestellt werden. Freigegebene Postfächer **** \> finden Sie unter **Gelöschte**Benutzer Benutzer. FreigeGebene Postfächer erfordern keine Exchange Online-Lizenz.
   
 

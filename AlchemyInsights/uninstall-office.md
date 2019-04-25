@@ -9,26 +9,26 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6d728dd5-4b98-4bc3-a866-c0ec82779b6b
-description: In den nachfolgenden Schritten wird beschrieben, wie Office über einen PC zu deinstallieren.
+description: In den folgenden Schritten wird beschrieben, wie Sie Office von einem PC deinstallieren.
 ms.openlocfilehash: 5702f41f3c43183381608f2a2cfc8218887ba21a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940176"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423794"
 ---
 # <a name="uninstall-office"></a>Deinstallieren von Office
 
-Herunterladen Sie und installieren Sie die [Unterstützung und Recovery-Assistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+Herunterladen und Installieren des [Support-und](https://aka.ms/SARA-OfficeUninstall-Alchemy)Wiederherstellungs-Assistenten.
   
-1. Wenn es geöffnet wird, wählen Sie **Deinstallieren von Office-Produkte** der Versions zu deinstallieren, und wählen Sie **Weiter**aus. 
+1. Wenn er geöffnet wird, wählen Sie unter **Office-Produkte deinstallieren** die Version aus, die Sie deinstallieren möchten, und klicken Sie dann auf **weiter**. 
     
-2. Folgen Sie Bildschirme durchgehen, und einen Neustart des Computers, wenn Sie aufgefordert werden.
+2. Fahren Sie weiter durch die Bildschirme, und starten Sie den Computer neu.
     
-    Nach dem Neustart der Support and Recovery-Assistent automatisch erneut geöffnet wird, um die Deinstallation abzuschließen.
+    Nach dem Neustart wird der Support-und wiederHerstellungs-Assistent automatisch wieder geöffnet, um den Deinstallationsvorgang abzuschließen.
     
-3. Führen Sie die verbleibenden Anweisungen und [Office neu installieren](https://portal.office.com/OLS/MySoftware.aspx) oder schließen Sie den Assistenten zu. 
+3. Folgen Sie den verbleibenden Ansagen, und [Installieren Sie Office neu](https://portal.office.com/OLS/MySoftware.aspx) , oder schließen Sie den Assistenten. 
     
-Wählen Sie eine Liste der anderen Optionen Deinstallieren [Office über einen PC deinstallieren](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA).
+Eine Liste der anderen Deinstallationsoptionen finden Sie unter [Deinstallieren von Office auf einem PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA).
   
 

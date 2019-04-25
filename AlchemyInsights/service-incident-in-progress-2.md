@@ -1,5 +1,5 @@
 ---
-title: Dienst Vorfall in Bearbeitung
+title: Dienst Vorfall wird ausgeführt
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 10/9/2017
@@ -9,20 +9,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e63fd594-347a-4a07-8dbd-a7074d6398bf
 ms.openlocfilehash: d4474f850cbb80f67b2733a2f105e048d4de8bee
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905003"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421887"
 ---
-# <a name="service-incident-in-progress"></a>Dienst Vorfall in Bearbeitung
+# <a name="service-incident-in-progress"></a>Dienst Vorfall wird ausgeführt
 
-Sie sind möglicherweise durch eine Service Vorfall betroffen oder advisory, ist derzeit, die untersucht wird. Sie können den letzten Status überprüfen, indem Sie auf der Seite [Dienststatus](https://admin.microsoft.com/adminportal/home#/servicehealth) . 
+Möglicherweise sind Sie von einem Dienst Vorfall oder einer Beratung betroffen, die derzeit untersucht wird. Sie können den aktuellen Status überprüfen, indem Sie zur Seite [Dienst Integrität](https://admin.microsoft.com/adminportal/home#/servicehealth) wechseln. 
   
-Zu diesem Zweck können Sie eine Zusammenfassung der dieser Vorfall unten suchen:
+Nachfolgend finden Sie eine Übersicht über diesen Vorfall:
   
-> **Vorfall Anzahl:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Vorfallnummer:** [{Vorfall](https://admin.microsoft.com/adminportal/home#/servicehealth) -Nr.}
     
-> Die beeinträchtigen Beschreibung: {ImpactDescription}
+> Auswirkung Beschreibung: {ImpactDescription}
     
 
