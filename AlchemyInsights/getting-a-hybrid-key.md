@@ -1,5 +1,5 @@
 ---
-title: Abrufen einer Hybrid-Taste
+title: Einen Hybrid Schlüssel
 ms.author: dstrome
 author: dstrome
 manager: serdars
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f3195f97-4f11-482f-8cb4-58f1ab93cd8c
 ms.openlocfilehash: c9b28dd1a8a7e4ac2b38a95868461e2f1d137f1d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29934955"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400788"
 ---
-# <a name="getting-an-exchange-hybrid-key"></a><span data-ttu-id="08770-102">Abrufen eines Exchange Hybrid-Schlüssels</span><span class="sxs-lookup"><span data-stu-id="08770-102">Getting an Exchange hybrid key</span></span>
+# <a name="getting-an-exchange-hybrid-key"></a><span data-ttu-id="d11fc-102">Aufrufen eines Exchange-Hybrid Schlüssels</span><span class="sxs-lookup"><span data-stu-id="d11fc-102">Getting an Exchange hybrid key</span></span>
 
-<span data-ttu-id="08770-p101">Zum Verbinden Ihrer lokalen Organisation mit Exchange Online in Office 365 müssen Sie mindestens einen Exchange-Server in Ihrer lokalen Organisation einrichten. Dieser Server wird verwendet, um eine hybridbereitstellung zu erstellen, die Ihrer lokalen Exchange-Organisation zu Exchange Online stellt eine Verbindung her. Wenn einen Hybrid-Schlüssel für diesen Server erhalten möchten, führen Sie die Schritte unter [Exchange Hybrid Product Key Distribution-Assistenten](http://aka.ms/hybridkey).</span><span class="sxs-lookup"><span data-stu-id="08770-p101">To connect your on-premises organization to Exchange Online in Office 365, you need to set up at least one Exchange server in your on-premises organization. This server is used to create a hybrid deployment that connects your on-premises Exchange organization to Exchange Online. To get a hybrid key for this server, follow the steps at [Exchange hybrid product key distribution wizard](http://aka.ms/hybridkey).</span></span>
+<span data-ttu-id="d11fc-103">Um Ihre lokale Organisation mit Exchange Online in Office 365 zu verbinden, müssen Sie mindestens einen Exchange-Server in Ihrer lokalen Organisation einrichten.</span><span class="sxs-lookup"><span data-stu-id="d11fc-103">To connect your on-premises organization to Exchange Online in Office 365, you need to set up at least one Exchange server in your on-premises organization.</span></span> <span data-ttu-id="d11fc-104">Dieser Server wird verwendet, um eine hybridbereitstellung zu erstellen, die Ihre lokale Exchange-Organisation mit Exchange Online verbindet.</span><span class="sxs-lookup"><span data-stu-id="d11fc-104">This server is used to create a hybrid deployment that connects your on-premises Exchange organization to Exchange Online.</span></span> <span data-ttu-id="d11fc-105">Wenn Sie einen Hybrid Schlüssel für diesen Server erhalten möchten, führen Sie die Schritte unter [Exchange Hybrid Product Key Distribution Wizard](http://aka.ms/hybridkey)aus.</span><span class="sxs-lookup"><span data-stu-id="d11fc-105">To get a hybrid key for this server, follow the steps at [Exchange hybrid product key distribution wizard](http://aka.ms/hybridkey).</span></span>
   
 
