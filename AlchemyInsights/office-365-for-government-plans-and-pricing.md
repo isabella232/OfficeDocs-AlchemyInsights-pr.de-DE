@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
 ms.openlocfilehash: c7fffc223bbb89d5ab4d6a1e290b9b6f7df3bd91
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30764835"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388700"
 ---
-<span data-ttu-id="60023-102">Office 365 US Government-Pläne sind für die besonderen Anforderungen von US-Regierungsorganisationen konzipiert.</span><span class="sxs-lookup"><span data-stu-id="60023-102">Office 365 U.S. Government plans are designed for the unique needs of U.S. government organizations.</span></span> <span data-ttu-id="60023-103">Sie bieten alle Features und Funktionen von Office 365-Diensten in einer segmentierten Cloud-Community, die es Organisationen ermöglicht, US-Konformitäts-und Sicherheitsstandards zu erfüllen.</span><span class="sxs-lookup"><span data-stu-id="60023-103">They provide all the features and capabilities of Office 365 services in a segmented government cloud community that enables organizations to meet U.S. compliance and security standards.</span></span>
+<span data-ttu-id="89239-102">Office 365 US Government-Pläne sind für die besonderen Anforderungen von US-Regierungsorganisationen konzipiert.</span><span class="sxs-lookup"><span data-stu-id="89239-102">Office 365 U.S. Government plans are designed for the unique needs of U.S. government organizations.</span></span> <span data-ttu-id="89239-103">Sie bieten alle Features und Funktionen von Office 365-Diensten in einer segmentierten Cloud-Community, die es Organisationen ermöglicht, US-Konformitäts-und Sicherheitsstandards zu erfüllen.</span><span class="sxs-lookup"><span data-stu-id="89239-103">They provide all the features and capabilities of Office 365 services in a segmented government cloud community that enables organizations to meet U.S. compliance and security standards.</span></span>
   
-- [<span data-ttu-id="60023-104">Überdenken der Regierungspläne</span><span class="sxs-lookup"><span data-stu-id="60023-104">Review the Government plans</span></span>](https://products.office.com/government/compare-office-365-government-plans)
+- [<span data-ttu-id="89239-104">Überdenken der Regierungspläne</span><span class="sxs-lookup"><span data-stu-id="89239-104">Review the Government plans</span></span>](https://products.office.com/government/compare-office-365-government-plans)
     
-- [<span data-ttu-id="60023-105">Vergleichen aller Office 365-Pläne</span><span class="sxs-lookup"><span data-stu-id="60023-105">Compare all Office 365 plans</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [<span data-ttu-id="89239-105">Vergleichen aller Office 365-Pläne</span><span class="sxs-lookup"><span data-stu-id="89239-105">Compare all Office 365 plans</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
     
 
