@@ -10,15 +10,15 @@ localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba5e44e-f0ae-4978-98a3-90065447af08
 ms.openlocfilehash: 542d1c91b87e6d7b918d091f463cf56697213778
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920159"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389597"
 ---
-Wenn alle Kennwörter läuft nie ab festlegen möchten, wechseln Sie zur [Sicherheit &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security). Klicken Sie auf neben **Kennwort-Richtlinie** **Bearbeiten** , und aktivieren Sie den Schieberegler auf **aktiviert**.
+Wenn Sie festlegen möchten, dass alle Kennwörter nie ablaufen, gehen Sie zu [Sicherheit &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security). Klicken Sie neben **Kennwortrichtlinie**auf **Bearbeiten** , und aktivieren Sie **** den Schieberegler auf ein.
   
-Ausführlichere Informationen finden Sie unter: [Legen Sie die Richtlinie für Ihre Organisation für den Kennwortablauf.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)
+Ausführlichere Informationen finden Sie unter [Festlegen der Kennwortablaufrichtlinie für Ihre Organisation.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)
   
-[Legen Sie das Kennwort ein, die für bestimmte Benutzer läuft nie ab](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
+[Festlegen, dass Kennwort für bestimmte Benutzer nie abläuft](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
   

@@ -9,15 +9,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5d38b331-a0e8-4937-8bda-4f8f715e1976
 ms.openlocfilehash: 724e9f7501826dc238932ec08e8628d077e20e2c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918447"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423644"
 ---
 # <a name="update-your-domain-nameservers-to-office-365"></a>Aktualisieren des Domänennamenservers auf Office 365
 
-Hinweis: Namenserver Änderungen können manchmal weitergegeben bis zu 48 Stunden dauern.
+Hinweis: Die Verarbeitung von Änderungen an Nameservern kann manchmal bis zu 48 Stunden dauern.
   
 Zum Einrichten Ihrer Domäne in Office 365 müssen die Namenserver Ihrer Registrierungsstelle aktualisiert werden. Erstellen oder bearbeiten Sie Ihre Namenservereinträge Ihrer Domänenregistrierungsstelle.
   
@@ -25,9 +25,9 @@ Zum Einrichten Ihrer Domäne in Office 365 müssen die Namenserver Ihrer Registr
     
 2. Erstellen oder bearbeiten Sie zwei Namenservereinträge so, dass sie diesen Werten entsprechen:
     
-  - ns1.BDM.microsoftonline.com
+  - ns1.bdm.microsoftonline.com
     
-  - NS2.BDM.microsoftonline.com
+  - ns2.bdm.microsoftonline.com
     
 3. Speichern Sie die Änderungen.
     

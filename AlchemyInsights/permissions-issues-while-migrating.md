@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbec51a7-5513-4848-a9ae-cdf993e000a8
 ms.openlocfilehash: 3cdf5909595b5b1fac9aeb00865546c1dcff5f09
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29937475"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372163"
 ---
-# <a name="user-profile-and-photo-synchronization"></a>Synchronisierung des Benutzerprofils und Foto
+# <a name="user-profile-and-photo-synchronization"></a>Benutzerprofil-und Fotosynchronisierung
 
- **Foto Profilsynchronisierung** – Benutzer können Beachten Sie, dass ihre Profilfotos nicht mit SharePoint synchronisiert werden. Oder sie haben möglicherweise versucht, ihre Fotos-Profil zu aktualisieren, und das Foto weiterhin als das alte Foto angezeigt wird. Um sicherzustellen, dass das Profilfoto zeigt, wie erwartet, muss der Benutzer zum Initiieren der Synchronisierung Foto. 
+ **Profilfoto Synchronisierung** – Benutzer können feststellen, dass Ihr Profilfoto nicht mit SharePoint synchronisiert wird. Sie haben möglicherweise versucht, Ihr Profilfoto zu aktualisieren, und das Foto wird weiterhin als altes Foto angezeigt. Um sicherzustellen, dass das Profilfoto wie erwartet angezeigt wird, muss der Benutzer eine Fotosynchronisierung initiieren. 
   
-Weitere Informationen zu den Synchronisierungsprozess Foto finden Sie unter [Informationen zu Bild profilsynchronisierung in Office 365](https://go.microsoft.com/fwlink/?linkid=2022634)
+Weitere Informationen zum Foto Synchronisierungsprozess finden Sie unter [Informationen zur Profilbild Synchronisierung in Office 365](https://go.microsoft.com/fwlink/?linkid=2022634)
   
-- **Profile Synchronization** – die Zeit, die für die Durchführung eine profilsynchronisierung erforderlich ist, hängt die Anzahl der Änderungen (geschäftlich) der Auftrag für den AD-Import muss Prozess. Wenn viele Änderungen vorhanden sind, der Zeitgeberauftrag hat viele Aufgaben ausführen, und es dauert länger, damit die Änderungen in der Benutzerprofildienst-Anwendung übernommen werden. Wenn der Zeitgeberauftrag für eine kleine auszuführende Aufgaben besitzt, werden die Änderungen in der Benutzerprofilanwendung viel schneller berücksichtigt. 
+- **Profilsynchronisierung** : die Zeit, die zum Abschließen einer Profilsynchronisierung erforderlich ist, hängt von der Anzahl der Änderungen ab, die der AD-Import Auftrag verarbeiten muss. Wenn es viele Änderungen gibt, hat der Zeitgeberauftrag viel Arbeit, und es dauert länger, bis die Änderungen in der Benutzerprofilanwendung wiedergegeben werden. Wenn für den Zeitgeberauftrag ein kleiner Arbeitsumfang vorliegt, werden die Änderungen in der Benutzerprofilanwendung deutlich schneller widergespiegelt. 
   
-Weitere Informationen zu den Synchronisierungsprozess Profil finden Sie unter [Informationen zu benutzerprofilsynchronisierung in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022639)
+Weitere Informationen zum Profil Synchronisierungsprozess finden Sie unter [Informationen zur Benutzerprofil Synchronisierung in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022639)
     
-- **Update Profile in Office eingegangen** - Delve-Benutzer können ihre Office 365-Profil verwalten. Weitere Informationen finden Sie unter [anzeigen und Aktualisieren des Profils in Office ausführlicher behandelt](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
+- **Update Profil in Office Tauchen Sie ein** , Benutzer können ihr Office 365-Profil verwalten. Weitere Informationen finden Sie unter [anzeigen und Aktualisieren Ihres Profils in Office](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba)-vertiefen.
     
 
