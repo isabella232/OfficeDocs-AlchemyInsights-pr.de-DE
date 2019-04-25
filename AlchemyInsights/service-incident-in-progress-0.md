@@ -1,5 +1,5 @@
 ---
-title: Dienst Vorfall in Bearbeitung
+title: Dienst Vorfall wird ausgeführt
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 9/19/2017
@@ -9,20 +9,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3d8a7342-327e-43c1-b9a2-2b2b78651cae
 ms.openlocfilehash: 86c7dc93516bb196925e63083e3ed9c02bfe3bf1
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900827"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421959"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="8dbcb-102">Dienst Vorfall in Bearbeitung</span><span class="sxs-lookup"><span data-stu-id="8dbcb-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="44e35-102">Dienst Vorfall wird ausgeführt</span><span class="sxs-lookup"><span data-stu-id="44e35-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="8dbcb-p101">Sie sind möglicherweise durch eine Service Vorfall betroffen oder advisory, ist derzeit, die untersucht wird. Sie können den letzten Status überprüfen, indem Sie auf der Seite [Dienststatus](https://admin.microsoft.com/adminportal/home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="8dbcb-p101">You might be affected by a service incident or advisory that is currently being investigated. You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span> 
+<span data-ttu-id="44e35-103">Möglicherweise sind Sie von einem Dienst Vorfall oder einer Beratung betroffen, die derzeit untersucht wird.</span><span class="sxs-lookup"><span data-stu-id="44e35-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="44e35-104">Sie können den aktuellen Status überprüfen, indem Sie zur Seite [Dienst Integrität](https://admin.microsoft.com/adminportal/home#/servicehealth) wechseln.</span><span class="sxs-lookup"><span data-stu-id="44e35-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span> 
   
-<span data-ttu-id="8dbcb-105">Zu diesem Zweck können Sie eine Zusammenfassung der dieser Vorfall unten suchen:</span><span class="sxs-lookup"><span data-stu-id="8dbcb-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="44e35-105">Nachfolgend finden Sie eine Übersicht über diesen Vorfall:</span><span class="sxs-lookup"><span data-stu-id="44e35-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="8dbcb-106">**Vorfall Anzahl:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="8dbcb-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="44e35-106">**Vorfallnummer:** [{Vorfall](https://admin.microsoft.com/adminportal/home#/servicehealth) -Nr.}</span><span class="sxs-lookup"><span data-stu-id="44e35-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
     
-> <span data-ttu-id="8dbcb-107">Die beeinträchtigen Beschreibung: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="8dbcb-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="44e35-107">Auswirkung Beschreibung: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="44e35-107">Impact description: {ImpactDescription}</span></span>
     
 
