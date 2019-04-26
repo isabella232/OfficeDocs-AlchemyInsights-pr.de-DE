@@ -1,5 +1,5 @@
 ---
-title: Die Domäne wird bereits verwendet.
+title: Die Domäne wird bereits verwendet
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/8/2017
@@ -9,15 +9,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3b01008b-f57d-4a82-837c-d22a0ac6a294
 ms.openlocfilehash: 8b6bb50164bb48b955d6cc4873c547232efe1527
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405394"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370253"
 ---
-# <a name="the-domain-is-already-in-use"></a>Die Domäne wird bereits verwendet.
+# <a name="the-domain-is-already-in-use"></a>Die Domäne wird bereits verwendet
 
-Die Domäne, die Sie hinzufügen möchten, gehört bereits zu einer anderen Organisation. Sie müssen zuerst die Domäne aus dieser Organisation entfernen, bevor Sie Sie dieser Organisation hinzufügen können. Die folgenden Artikel führen Sie durch diese Prozesse.
+Die Domäne, die Sie hinzufügen möchten, gehört bereits zu einer anderen Organisation. Sie müssen die Domäne zuerst aus dieser Organisation entfernen, bevor Sie sie zur aktuellen Organisation hinzufügen können. Die nachfolgenden Artikel führen Sie durch diese Prozesse.
   
 - [Entfernen einer Domäne aus Office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
     
