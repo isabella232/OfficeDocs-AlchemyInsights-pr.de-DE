@@ -11,33 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800005
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: 925fc5aae484d0b3dc3ccdcd467598390a47aebe
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f5a6eaae111e75c844d638f4d9b4eda5280ab42a
+ms.sourcegitcommit: 67535d801ba448e6ea7131fdebbc0e7ae9beffe2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401183"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33867937"
 ---
-# <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a><span data-ttu-id="03e58-102">Beheben von Suchproblemen durch erneutes Erstellen des sofort Suchkatalogs</span><span class="sxs-lookup"><span data-stu-id="03e58-102">Fix search issues by rebuilding your Instant Search catalog</span></span>
+# <a name="troubleshoot-search-issues"></a><span data-ttu-id="1059b-102">Behandeln von Suchproblemen</span><span class="sxs-lookup"><span data-stu-id="1059b-102">Troubleshoot search issues</span></span>
 
-1. <span data-ttu-id="03e58-103">Schließen Sie Outlook, und öffnen Sie die **System**Steuerung.</span><span class="sxs-lookup"><span data-stu-id="03e58-103">Close Outlook and open **Control Panel**.</span></span>
-    
-    > [!NOTE]
-    > <span data-ttu-id="03e58-104">Je nachdem, welche Version von Office Sie verwenden, müssen Sie möglicherweise auf die Schaltfläche **Start** klicken, und klicken Sie im **Startmenü** mit der rechten Maustaste auf **System**Steuerung.</span><span class="sxs-lookup"><span data-stu-id="03e58-104">Depending on the version of Office you're using, you might need to click the **Start** button, and on the **Start** menu, right-click **Control Panel**.</span></span> 
-  
-2. <span data-ttu-id="03e58-105">Führen Sie einen der folgenden Schritte aus:</span><span class="sxs-lookup"><span data-stu-id="03e58-105">Do one of the following:</span></span>
-    
-  - <span data-ttu-id="03e58-106">Wählen Sie **indizierungSoptionen**aus.</span><span class="sxs-lookup"><span data-stu-id="03e58-106">Choose **Indexing Options**.</span></span>
-    
-  - <span data-ttu-id="03e58-107">Geben Sie in das **Suchfeld** *Indizierung* ein, und wählen Sie dann **Indizierungsoptionen**aus.</span><span class="sxs-lookup"><span data-stu-id="03e58-107">In the **Search** box, type  *Indexing*  , and then choose **Indexing Options**.</span></span>
-    
-3. <span data-ttu-id="03e58-108">Aktivieren Sie im Dialogfeld **indizierte Speicher** Orte unter **ausgewählte Speicherorte ändern**das Kontrollkästchen für den Speicherort, den Sie ändern möchten, und klicken Sie dann auf **OK**.</span><span class="sxs-lookup"><span data-stu-id="03e58-108">In the **Indexed Locations** dialog box, under **Change selected locations**, select the check box for the location you want to modify, and then click **OK**.</span></span>
-    
-4. <span data-ttu-id="03e58-109">Klicken Sie im Dialogfeld **Erweiterte Optionen** auf der Registerkarte **Index Einstellungen** unter **Problembehandlung**auf **neu erstellen**.</span><span class="sxs-lookup"><span data-stu-id="03e58-109">In the **Advanced Options** dialog box, on the **Index Settings** tab, under **Troubleshooting**, click **Rebuild**.</span></span>
-    
-    > [!NOTE]
-    > <span data-ttu-id="03e58-110">Im Dialogfeld **Index neu erstellen** wird eine Warnung angezeigt, dass der Abschluss des Indexes möglicherweise sehr viel Zeit in Anspruch nimmt.</span><span class="sxs-lookup"><span data-stu-id="03e58-110">A **Rebuild Index** dialog box opens warning that the "index might take a long time to complete."</span></span> <span data-ttu-id="03e58-111">Klicken Sie auf **OK** , um mit der Neuerstellung des Indexes zu beginnen.</span><span class="sxs-lookup"><span data-stu-id="03e58-111">Choose **OK** to start rebuilding the index.</span></span> 
-  
-<span data-ttu-id="03e58-112">Weitere Informationen finden Sie im bekannten Problem [keine Suchergebnisse für POP/IMAP-Konten](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).</span><span class="sxs-lookup"><span data-stu-id="03e58-112">For more information, see the known issue [No search results for POP/IMAP accounts](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).</span></span>
-  
+<span data-ttu-id="1059b-103">Wenn Sie Probleme mit der Suche haben, finden Sie weitere Informationen unter den folgenden Links.</span><span class="sxs-lookup"><span data-stu-id="1059b-103">If you're having problems with search, please see the links below for help troubleshooting.</span></span>
 
+<span data-ttu-id="1059b-104">Dies sind die am häufigsten auftretenden Probleme und sind ein guter Ausgangspunkt:</span><span class="sxs-lookup"><span data-stu-id="1059b-104">These are the most common issues, and are a good place to start:</span></span>
+- [<span data-ttu-id="1059b-105">Outlook-Suche gibt keine Ergebnisse zurück</span><span class="sxs-lookup"><span data-stu-id="1059b-105">Outlook search returns no results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [<span data-ttu-id="1059b-106">Outlook-Suche gibt unvollständige Ergebnisse zurück</span><span class="sxs-lookup"><span data-stu-id="1059b-106">Outlook search returns incomplete results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [<span data-ttu-id="1059b-107">Outlook-Suche kann ältere e-Mails nicht finden</span><span class="sxs-lookup"><span data-stu-id="1059b-107">Outlook search can't find older emails</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+
+<span data-ttu-id="1059b-108">Mögliche Lösungen für seltenere Probleme finden Sie hier:</span><span class="sxs-lookup"><span data-stu-id="1059b-108">Possible solutions for less common problems can be found here:</span></span>
+- [<span data-ttu-id="1059b-109">Nur Outlook 2016: Suchregisterkarte ist abgeblendet</span><span class="sxs-lookup"><span data-stu-id="1059b-109">Outlook 2016 only: Search tab is grayed out</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [<span data-ttu-id="1059b-110">Freigegebenes Postfach: Probleme mit Suchergebnissen</span><span class="sxs-lookup"><span data-stu-id="1059b-110">Shared Mailbox: Problems with search results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [<span data-ttu-id="1059b-111">Fehler: die Suchleistung hat Auswirkungen auf ein Problem bei der Konfiguration von Outlook.</span><span class="sxs-lookup"><span data-stu-id="1059b-111">Error: Search performance will be impacted because of a problem with how Outlook is configured</span></span>](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [<span data-ttu-id="1059b-112">Suchordner zeigen unerwartete PersonMetadata Elemente ohne Betreff an</span><span class="sxs-lookup"><span data-stu-id="1059b-112">Search folders show unexpected PersonMetadata items with no subject</span></span>](https://support.microsoft.com/en-us/help/4035436/outlook-search-folders-show-items-with-blank-subject)
