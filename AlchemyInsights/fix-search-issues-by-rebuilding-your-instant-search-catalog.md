@@ -11,33 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800005
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: 925fc5aae484d0b3dc3ccdcd467598390a47aebe
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f5a6eaae111e75c844d638f4d9b4eda5280ab42a
+ms.sourcegitcommit: 67535d801ba448e6ea7131fdebbc0e7ae9beffe2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401183"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33867937"
 ---
-# <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a>Beheben von Suchproblemen durch erneutes Erstellen des sofort Suchkatalogs
+# <a name="troubleshoot-search-issues"></a>Behandeln von Suchproblemen
 
-1. Schließen Sie Outlook, und öffnen Sie die **System**Steuerung.
-    
-    > [!NOTE]
-    > Je nachdem, welche Version von Office Sie verwenden, müssen Sie möglicherweise auf die Schaltfläche **Start** klicken, und klicken Sie im **Startmenü** mit der rechten Maustaste auf **System**Steuerung. 
-  
-2. Führen Sie einen der folgenden Schritte aus:
-    
-  - Wählen Sie **indizierungSoptionen**aus.
-    
-  - Geben Sie in das **Suchfeld** *Indizierung* ein, und wählen Sie dann **Indizierungsoptionen**aus.
-    
-3. Aktivieren Sie im Dialogfeld **indizierte Speicher** Orte unter **ausgewählte Speicherorte ändern**das Kontrollkästchen für den Speicherort, den Sie ändern möchten, und klicken Sie dann auf **OK**.
-    
-4. Klicken Sie im Dialogfeld **Erweiterte Optionen** auf der Registerkarte **Index Einstellungen** unter **Problembehandlung**auf **neu erstellen**.
-    
-    > [!NOTE]
-    > Im Dialogfeld **Index neu erstellen** wird eine Warnung angezeigt, dass der Abschluss des Indexes möglicherweise sehr viel Zeit in Anspruch nimmt. Klicken Sie auf **OK** , um mit der Neuerstellung des Indexes zu beginnen. 
-  
-Weitere Informationen finden Sie im bekannten Problem [keine Suchergebnisse für POP/IMAP-Konten](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).
-  
+Wenn Sie Probleme mit der Suche haben, finden Sie weitere Informationen unter den folgenden Links.
 
+Dies sind die am häufigsten auftretenden Probleme und sind ein guter Ausgangspunkt:
+- [Outlook-Suche gibt keine Ergebnisse zurück](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [Outlook-Suche gibt unvollständige Ergebnisse zurück](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [Outlook-Suche kann ältere e-Mails nicht finden](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+
+Mögliche Lösungen für seltenere Probleme finden Sie hier:
+- [Nur Outlook 2016: Suchregisterkarte ist abgeblendet](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [Freigegebenes Postfach: Probleme mit Suchergebnissen](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [Fehler: die Suchleistung hat Auswirkungen auf ein Problem bei der Konfiguration von Outlook.](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [Suchordner zeigen unerwartete PersonMetadata Elemente ohne Betreff an](https://support.microsoft.com/en-us/help/4035436/outlook-search-folders-show-items-with-blank-subject)
