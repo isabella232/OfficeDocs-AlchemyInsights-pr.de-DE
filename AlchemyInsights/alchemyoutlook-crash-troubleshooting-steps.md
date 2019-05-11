@@ -10,13 +10,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
+ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 096e98335f99a28a9d7dba215ccc5334caf9f137
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d0e1211e8cdd20b9d3792fda2c50507f7860f466
+ms.sourcegitcommit: 5718d96f30f25619845223e8622ce13b4a52114c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397969"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33883126"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Schritte zur Problembehandlung in Outlook
 
@@ -28,6 +29,6 @@ Schritt 2: reparieren Sie Outlook, und führen [Sie den Support-und Wiederherste
   
 Schritt 3: Erstellen Sie ein neues Outlook-Profil, oder Sie können das [Outlook-Profil Tool](https://aka.ms/SaRA-OutlookSetupProfile) auf dem betroffenen Computer ausführen. 
   
-Wenn das Problem nach einem Update aufgetreten ist und die obigen Schritte nicht funktionieren, müssen Sie möglicherweise zu einem früheren Build zurückkehren. Weitere Informationen finden Sie unter [Zurücksetzen auf eine frühere Version von office 2013 oder office 2016 Click-to-Run](https://support.microsoft.com/help/2770432).
+Wenn das Problem nach einem Update aufgetreten ist und die obigen Schritte nicht funktionieren, müssen Sie möglicherweise zu einem früheren Build zurückkehren. Weitere Informationen finden Sie unter [Zurücksetzen auf eine frühere Version von Office 2013 oder Office 2016 Click-to-Run](https://support.microsoft.com/help/2770432).
   
 
