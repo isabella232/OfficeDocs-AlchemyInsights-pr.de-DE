@@ -1,24 +1,26 @@
 ---
-title: 8000048 kann beim Verfassen von e-Mails in Outlook.com keine Kontakte auswählen
+title: Kontakte können beim Verfassen von e-Mails in Outlook.com nicht ausgewählt werden
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 5/31/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/4/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000048
 ms.assetid: 3f53fe58-1b89-4f80-a9a6-e2a719e6f943
-ms.openlocfilehash: 1ff45a8f7e3f774864050f091604e896ecacc596
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000048"
+- "818"
+- "879"
+- "880"
+ms.openlocfilehash: 4353fc8c043524f15b24e1949bed47d1ad1c5023
+ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32395580"
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34703117"
 ---
-# <a name="cant-select-contacts-when-composing-email"></a>Beim Verfassen von e-Mails können Kontakte nicht ausgewählt werden
+# <a name="cant-select-contacts-when-composing-email"></a>Kontakte können beim Verfassen von e-Mails nicht ausgewählt werden
 
-Wenn Sie eine neue e-Mail erstellen und auf die Schaltflächen **an** oder **CC** klicken, werden einige Kunden möglicherweise nicht in der Liste der Kontakte angezeigt. Um Namen auszuwählen, beginnen Sie mit der Eingabe in den Feldern " **an** " oder " **CC** ", und ihre Verwandten Kontakte werden angezeigt. 
-  
-
+Wenn Sie eine neue e-Mail erstellen, sehen einige Kunden Ihre Kontaktliste nicht, wenn Sie auf die Schaltflächen **an** oder **CC** klicken. Um einen Kontakt auszuwählen, beginnen Sie mit der Eingabe in den Feldern **an** oder **CC** , und ihre Verwandten Kontakte werden angezeigt.
