@@ -1,8 +1,8 @@
 ---
-title: Teams verschiebt sich
+title: Teams wechselt
 ms.author: heidip
 author: heidip
-manager: serdars
+manager: dansimp
 ms.date: 3/5/2019
 ms.audience: Admin
 ms.topic: article
@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1686
-ms.openlocfilehash: 77d5e2d924197fb529fe23a3f496d828000c951c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 55b0f503f59fdf34132067713fa48fd6e79023a5
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420807"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34757748"
 ---
-# <a name="using-teams-shifts"></a><span data-ttu-id="3c4b5-102">Verwenden von Teams-Verschiebungen</span><span class="sxs-lookup"><span data-stu-id="3c4b5-102">Using Teams Shifts</span></span>
+# <a name="using-teams-shifts"></a><span data-ttu-id="9cb22-102">Verwenden von Microsoft Teams-Verschiebungen</span><span class="sxs-lookup"><span data-stu-id="9cb22-102">Using Teams Shifts</span></span>
 
-<span data-ttu-id="3c4b5-103">Die Shifts-app in Teams ermöglicht schnelles und effektives Zeitmanagement und Kommunikation für Frontline-Teams.</span><span class="sxs-lookup"><span data-stu-id="3c4b5-103">The Shifts app in Teams enables fast and effective time management and communication for frontline teams.</span></span> <span data-ttu-id="3c4b5-104">Manager und Mitarbeiter können mit ihren mobilen Geräten Zeitpläne verwalten und in Kontakt bleiben.</span><span class="sxs-lookup"><span data-stu-id="3c4b5-104">It lets managers and employees use their mobile devices to manage schedules and keep in touch.</span></span>
+<span data-ttu-id="9cb22-103">Die Shifts-app in Microsoft Teams ermöglicht schnelles und effektives Zeitmanagement und Kommunikation für Frontline-Teams.</span><span class="sxs-lookup"><span data-stu-id="9cb22-103">The Shifts app in Teams enables fast and effective time management and communication for frontline teams.</span></span> <span data-ttu-id="9cb22-104">Führungskräfte und Mitarbeiter können mit ihren mobilen Geräten Zeitpläne verwalten und in Kontakt bleiben.</span><span class="sxs-lookup"><span data-stu-id="9cb22-104">It lets managers and employees use their mobile devices to manage schedules and keep in touch.</span></span>
 
-<span data-ttu-id="3c4b5-105">Weitere Informationen finden Sie unter [Shifts for Teams](https://docs.microsoft.com/en-us/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).</span><span class="sxs-lookup"><span data-stu-id="3c4b5-105">To learn more see [Shifts for Teams](https://docs.microsoft.com/en-us/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).</span></span> <span data-ttu-id="3c4b5-106">Sie erhalten Informationen zum Abrufen von Schichten und zum Einrichten.</span><span class="sxs-lookup"><span data-stu-id="3c4b5-106">You’ll get information about how to get Shifts and how to set it up.</span></span>
+<span data-ttu-id="9cb22-105">Weitere Informationen finden Sie unter [Schichten für Teams](https://docs.microsoft.com/en-us/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).</span><span class="sxs-lookup"><span data-stu-id="9cb22-105">To learn more see [Shifts for Teams](https://docs.microsoft.com/en-us/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).</span></span> <span data-ttu-id="9cb22-106">Sie erhalten Informationen darüber, wie Sie Schichtungen erhalten und wie Sie Sie einrichten.</span><span class="sxs-lookup"><span data-stu-id="9cb22-106">You’ll get information about how to get Shifts and how to set it up.</span></span>
 
-<span data-ttu-id="3c4b5-107">Wenn Sie bereits Änderungen aktiviert haben, lesen Sie erste [Schritte in Schichten](https://support.office.com/en-us/article/get-started-in-shifts-5f3e30d8-1821-4904-be26-c3cd25a497d6) , um zu erfahren, wie Sie Zeitpläne erstellen.</span><span class="sxs-lookup"><span data-stu-id="3c4b5-107">If you've already enabled Shifts, read [Get started in Shifts](https://support.office.com/en-us/article/get-started-in-shifts-5f3e30d8-1821-4904-be26-c3cd25a497d6) to learn how to create schedules.</span></span>
+<span data-ttu-id="9cb22-107">Wenn Sie die Verschiebungen bereits aktiviert haben, finden Sie unter [Erste Schritte in Schichten](https://support.office.com/en-us/article/get-started-in-shifts-5f3e30d8-1821-4904-be26-c3cd25a497d6) Informationen zum Erstellen von Zeitplänen.</span><span class="sxs-lookup"><span data-stu-id="9cb22-107">If you've already enabled Shifts, read [Get started in Shifts](https://support.office.com/en-us/article/get-started-in-shifts-5f3e30d8-1821-4904-be26-c3cd25a497d6) to learn how to create schedules.</span></span>
 
