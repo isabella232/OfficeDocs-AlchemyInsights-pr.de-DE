@@ -7,28 +7,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4583259b-acb2-45a0-9469-2abe496011ab
-ms.openlocfilehash: 89edbfcff929a51c639aa66ecf994cf1d6157810
-ms.sourcegitcommit: 03258ec4f5476a1ea6dd3a31d17bda815bc5a18a
+ms.openlocfilehash: 319e6da1e908ac3705d8c4144e7d006f99157c5f
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/24/2019
-ms.locfileid: "33243338"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34760095"
 ---
 # <a name="sharepoint-hub-sites-overview"></a>SharePoint-Hubwebsites – Übersicht
 
-Mithilfe von SharePoint-Hub-Websites können Sie die Anforderungen Ihrer Organisation erfüllen, indem Sie Websites basierend auf dem Projekt, der Abteilung, dem Bereich, der Region usw. verbinden und organisieren.
+SharePoint Hub-Websites helfen Ihnen, die Anforderungen Ihrer Organisation zu erfüllen, indem Sie Websites basierend auf Projekt, Abteilung, Abteilung, Region usw. verbinden und organisieren, wodurch folgendes erleichtert wird:
 
-- Entdecken Sie verwandte Inhalte wie Neuigkeiten und andere Websiteaktivitäten.
-
-
-- Anwenden allgemeiner Navigation und Branding auf zugeordnete Websites.
+- Ermitteln Sie verwandte Inhalte wie Nachrichten und andere Websiteaktivitäten.
 
 
-- Suchen Sie auf allen zugeordneten Websites.
+- Verwenden einer einheitlichen Navigation und Branding auf verwandten Websites.
 
 
-Weitere Informationen zum Erstellen eines Hub-Standorts über das neue Admin Center oder Microsoft PowerShell finden Sie unter [Erstellen einer Hub-Website in SharePoint Online](https://docs.microsoft.com/en-us/sharepoint/create-hub-site) . 
+- Durchsuchen aller verwandten Websites.
 
-Weitere Informationen zum Zuordnen vorhandener Websites zu einem Hub-Standort aus dem neuen Admin Center oder aus der PowerShell finden Sie unter [Zuordnen einer SharePoint-Website zu einer Hub](https://support.office.com/en-us/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05) -Website.  
 
-Weitere Informationen zum Entfernen einer vorhandenen Hub-Website aus dem neuen Admin Center oder aus der PowerShell finden Sie unter [Entfernen einer Hub-Website](https://docs.microsoft.com/en-us/sharepoint/remove-hub-site) . 
+Weitere Informationen zum Erstellen eines Hub-Standorts aus dem neuen Admin Center oder von Microsoft PowerShell finden Sie unter [Create a Hub Site in SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site) . 
+
+Weitere Informationen zum Zuordnen einer vorhandenen Websites zu einem Hub-Standort aus dem neuen Admin Center oder der PowerShell finden Sie unter [Zuordnen einer SharePoint-Website zu einem Hub](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05) -Standort.  
+
+Weitere Informationen zum Entfernen eines vorhandenen Hub-Standorts aus dem neuen Admin Center oder der PowerShell finden Sie unter [Remove a Hub Site](https://docs.microsoft.com/sharepoint/remove-hub-site) . 

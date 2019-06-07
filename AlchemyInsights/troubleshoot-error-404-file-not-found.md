@@ -7,26 +7,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: 467feb3cb436a2e0135162657876e5c45d8d56bd
-ms.sourcegitcommit: 03258ec4f5476a1ea6dd3a31d17bda815bc5a18a
+ms.openlocfilehash: 045c29520ec60f9f093d3c9f129213213826466e
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/24/2019
-ms.locfileid: "33243346"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34757677"
 ---
 # <a name="troubleshoot-error-404-file-not-found"></a>Problembehandlung bei Fehler 404, Datei nicht gefunden
 
-Wenn Benutzer versuchen, auf eine Website oder Datei in SharePoint oder OneDrive zuzugreifen, wird ein Fehler 404 empfangen. Dies wird häufig dadurch verursacht, dass eine Website oder Datei oder Gruppe umbenannt, verschoben oder gelöscht wird. Zum Beispiel: Benutzer erleben einen 404-Fehler beim Versuch, auf die Stammweb Site Sammlung zuzugreifen, und Sie wurde gelöscht.
+Ein Fehler 404 wird empfangen, wenn Benutzer versuchen, auf eine Website oder Datei in SharePoint oder OneDrive zuzugreifen. Dies wird häufig dadurch verursacht, dass eine Website oder eine Datei oder eine Gruppe umbenannt, verschoben oder gelöscht wird. Beispiel: bei Benutzern tritt ein 404-Fehler auf, wenn versucht wird, auf die Stammweb Site Sammlung zuzugreifen, und Sie wurde gelöscht.
 
-So lösen Sie den Fehler 404 für eine Website, die umbenannt, verschoben oder gelöscht wurde:
+So beheben Sie den Fehler 404 für eine Website, die umbenannt, verschoben oder gelöscht wurde:
 
-Klassische Websites, die im klassischen Admin Center vorhanden sind, finden Sie unter [Wiederherstellen einer gelöschten Websitesammlung](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection).
+Informationen zu klassischen Websites, die im klassischen Admin Center vorhanden sind, finden Sie unter [Wiederherstellen einer gelöschten Websitesammlung](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
 
 
-Weitere Informationen finden Sie unter [anzeigen und Wiederherstellen gelöschter Websites im neuen SharePoint Admin Center](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection)für moderne Websites (Kommunikations-, Gruppen-oder andere Websites), die im neuen SharePoint Admin Center vorhanden sind.
+Informationen zu modernen Websites (Kommunikation, Gruppenverbindung oder andere Websites), die im neuen SharePoint Admin Center vorhanden sind, finden Sie unter [anzeigen und Wiederherstellen von gelöschten Websites im neuen SharePoint Admin Center](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
 
-So lösen Sie den Fehler 404 für eine Datei (oder ein anderes Element), das umbenannt, verschoben oder gelöscht wurde:
+So beheben Sie den Fehler 404 für eine Datei (oder ein anderes Element), die umbenannt, verschoben oder gelöscht wurde:
 
-Wechseln Sie zur SharePoint-oder OneDrive-Website, und zeigen Sie den Papierkorb anhand der Websiteinhalte an. Weitere Informationen finden Sie unter [Wiederherstellen von Elementen im Papierkorb einer SharePoint-Website](https://support.office.com/en-us/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online).
+Wechseln Sie zur SharePoint-oder OneDrive-Website, und zeigen Sie den Papierkorb aus dem Websiteinhalt an. Siehe, [Wiederherstellen von Elementen im Papierkorb einer SharePoint-Website](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online).
 
-Wenn das Element weiterhin nicht gefunden werden kann, können Sie das Überwachungsprotokoll durchsuchen wenn die Protokollierung aktiviert ist, [Suchen Sie das Überwachungsprotokoll im Office 365 Security _AMP_ Compliance Center](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fclient%252fsearch-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c).
+Wenn das Element weiterhin nicht gefunden werden kann, können Sie das Überwachungsprotokoll durchsuchen, wenn die Protokollierung aktiviert ist siehe [das Überwachungsprotokoll im Office 365 Security #a0 Compliance Center durchsuchen](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fclient%252fsearch-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c).

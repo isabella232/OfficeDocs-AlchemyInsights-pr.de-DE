@@ -8,18 +8,41 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 14b005e353b162b7c49c350ec434798009269219
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 425752ce9b25132005fcff503b90aac2b9130903
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34716856"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34760739"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Aktivieren der externen Freigabe in SharePoint Online
 
-Wenn Ihre Organisation Arbeit ausführt, die Dokumente gemeinsam nutzt oder direkt mit Lieferanten, Kunden oder Kunden zusammenarbeitet, können Sie die <a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview"><span style="color: blue;">Features für die externe Freigabe von SharePoint Online</span></a> verwenden, um Inhalte für Personen außerhalb des Computers freizugeben. Organisation.
+Wenn Ihre Organisation Arbeit ausführt, die Dokumente gemeinsam nutzt oder direkt mit Lieferanten, Kunden oder Kunden zusammenarbeitet, können Sie die [Features für die externe Freigabe von SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) verwenden, um Inhalte für Personen außerhalb des Computers freizugeben. Organisation.
 
-Weitere Informationen zur externen Freigabe finden Sie unter den Links unten.</span></u></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview#what-is-an-external-user"><span style="color: blue;">Was ist ein externer Benutzer?</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document"><span style="color: blue;">Was geschieht, wenn ich eine Website oder ein Dokument freigebe?</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/turn-external-sharing-on-or-off"><span style="color: blue;">Aktivieren und Deaktivieren der externen Freigabe für SharePoint Online</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/change-external-sharing-site"><span style="color: blue;">Aktivieren oder Deaktivieren der externen Freigabe für eine Website</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/create-b2b-extranet"><span style="color: blue;">Verwenden von SharePoint Online als Business-to-Business-Extranet-Lösung (B2B)</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/en-us/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c"><span style="color: blue;">Freigeben von SharePoint-Dateien oder-Ordnern</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/en-us/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US"><span style="color: blue;">Beenden der Freigabe von OneDrive-oder SharePoint-Dateien oder-Ordnern oder Ändern von Berechtigungen</span></a></span></li> <li><a href="https://docs.microsoft.com/en-us/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center">Löschen eines externen Benutzers</a></li> </ul> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong style="mso-bidi-font-weight: normal;"><u><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;">
+Weitere Informationen zur externen Freigabe finden Sie unter den Links unten.
 
-Erhalten Sie einen Fehler mit einem externen Benutzer? &nbsp;Überprüfen Sie die folgenden Links. </span></u></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/en-us/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0"><span style="color: blue;">Fehlermeldung, wenn ein externer Benutzer eine SharePoint Online Einladung mithilfe eines anderen Kontos akzeptiert</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f"><span style="color: blue;">Zugriff auf einen freigegebenen Ordner verweigert</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/sharepoint-onedrive-error-message"><span style="color: blue;">OSE-Freigabe Fehler in SharePoint und OneDrive</span></a></span></li> </ul>
+[Was ist ein externer Benutzer?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+
+[Was geschieht, wenn ich eine Website oder ein Dokument freigebe?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+
+
+[Aktivieren oder Deaktivieren der externen Freigabe für SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)</
+
+[Aktivieren oder Deaktivieren der externen Freigabe für eine Website](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+
+[Verwenden von SharePoint Online als Business-to-Business-Extranet-Lösung (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+
+[Freigeben von SharePoint-Dateien oder-Ordnern](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[Beenden der Freigabe von OneDrive-oder SharePoint-Dateien oder-Ordnern oder Ändern von Berechtigungen](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+
+[Löschen eines externen Benutzers](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+
+Erhalten Sie einen Fehler mit einem externen Benutzer? &nbsp;Überprüfen Sie die folgenden Links.
+
+- [Fehlermeldung, wenn ein externer Benutzer eine SharePoint Online Einladung mithilfe eines anderen Kontos akzeptiert](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0- )
+
+- [Zugriff auf einen freigegebenen Ordner verweigert](https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f)
+
+- [OSE-Freigabe Fehler in SharePoint und OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 

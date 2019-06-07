@@ -2,7 +2,7 @@
 title: 1554 Winsock-Fehler 10061
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 12/7/2018
 ms.audience: ITPro
 ms.topic: article
@@ -10,23 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1554
 ms.assetid: caecfa19-86c9-4aa4-9c83-b8a974ce60b9
-ms.openlocfilehash: 7651effc43cb0c4bc2fbbe5349bb72303943f493
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3fa3b2f2e10d3ebe480861e1f2d7ecaa262afe14
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419979"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34757090"
 ---
 # <a name="winsock-error-10061"></a>Winsock-Fehler 10061
 
-Dieser Fehlercode besagt, dass Office 365 keinen TCP-Socket (Verbindung) mit dem Zielhost herstellen konnte. Die wahrscheinlichste Ursache für diesen Fehler ist ein Problem mit der Konfiguration Ihrer Firewall. Um das Problem zu beheben, überprüfen Sie die folgenden Einstellungen:
+Dieser Fehlercode bedeutet, dass Office 365 keinen TCP-Socket (Connection) mit dem Ziel Host einrichten konnten. Die wahrscheinlichste Ursache dieses Fehlers ist ein Problem mit der Konfiguration Ihrer Firewall. Um das Problem zu beheben, überprüfen Sie die folgenden Einstellungen:
 
 - Überprüfen der Firewall-Konfiguration mit den Informationen in [Office 365-URLs und IP-Adressbereichen](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
 
-- Wenn der Fehler spezifisch für Exchange Online Protection (EOP) ist, sollten Sie zuvor eine Änderung an den [Exchange Online Protection-IP-Adressen](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)mitgeteilt haben.
+- Wenn der Fehler spezifisch für Exchange Online Protection (EoP) ist, sollten Sie zuvor eine Änderung an den [IP-Adressen des Exchange Online Schutzes](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)mitgeteilt haben.
 
-- Stellen Sie sicher, dass der InternetdienstAnbieter den Anschluss nicht blockiert.
+- Stellen Sie sicher, dass der Internetdienstanbieter den Port nicht blockiert.
 
-- Überprüfen Sie die Einstellungen für Smarthost und Zielserver in ihren Connectors.
+- Überprüfen Sie die Einstellungen für Smart Host und Zielserver in ihren Connectors.
 
 Beachten Sie, dass Office 365 *eingehende* Verbindungen auf diese Weise nicht blockiert.

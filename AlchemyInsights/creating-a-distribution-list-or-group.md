@@ -2,7 +2,7 @@
 title: 711 Erstellen einer Verteilerliste oder-Gruppe
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 711
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
-ms.openlocfilehash: fb8bc8354f659776b7ee5083581483534954b768
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a45bf0eea6abcd0fdb5c5d4aeec00a91a3e038f4
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32406891"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34753382"
 ---
 # <a name="create-distribution-groups"></a>Erstellen von Verteilergruppen
 
-Sie verwenden Verteilergruppen (auch als Verteilerlisten bezeichnet), um e-Mail-Nachrichten an Personengruppen innerhalb und außerhalb Ihrer Organisation zu senden. Die Erstellung ist einfach! Anweisungen hierzu finden Sie unter [Erstellen von Verteilerlisten im Microsoft 365 Admin Center](https://support.office.com/article/b1ffe755-59e5-4369-826d-825f145a8400).
+Sie verwenden Verteilergruppen (auch als Verteilerlisten bezeichnet), um e-Mail-Nachrichten an Personengruppen innerhalb und außerhalb Ihrer Organisation zuzustellen. Sie zu erstellen ist einfach! Anweisungen finden Sie unter [Create Distribution Lists in the Microsoft 365 Admin Center](https://support.office.com/article/b1ffe755-59e5-4369-826d-825f145a8400).
 
-**Hinweis**: ein Administrator muss die Mitgliedschaft einer Verteilergruppe verwalten. Wenn Sie möchten, dass Benutzer ihre eigenen Gruppenmitgliedschaftslisten verwalten, sollten Sie stattdessen [Office 365-Gruppen](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) in Erwägung ziehen. 
+**Hinweis**: ein Administrator muss die Mitgliedschaft einer Verteilergruppe verwalten. Wenn Sie möchten, dass Benutzer ihre eigenen Gruppenmitgliedschaftslisten verwalten können, sollten Sie stattdessen [Office 365 Gruppen](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) in Frage stellen. 
