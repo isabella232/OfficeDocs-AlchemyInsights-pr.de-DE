@@ -1,30 +1,30 @@
 ---
-title: Identifizieren von Haltebereichen für Postfächer
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
+title: Identifizieren von in Postfächern gelegten Haltebereichen
+ms.author: chrisda
+author: chrisda
+manager: dansimp
 ms.date: 11/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: b993f28d9321805003f04a7eb168f81a7acd3030
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 247fbdd6cfa468d416fa7659311c5d53d049f38b
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32413830"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34754965"
 ---
-Verfügen Sie über Inhalte, die in einem Speicher **aufbewahrt** werden, den Sie nicht identifizieren können? **** Sie müssen **herausfinden** , wo sich die Aufbewahrungszeit **** des Postfachs befindet? Haltebereiche ( *Aufbewahrungs Features* ) können in Office 365 mit einer der folgenden Methoden angewendet werden: 
+Haben Sie Inhalte, die durch einen **Haltestatus** **aufbewahrt** werden, den Sie nicht identifizieren können? Sie müssen **herausfinden** , wo sich der Aufbewahrungsort auf dem **Postfach** befindet? Haltestatus ( *Aufbewahrungsfunktionen* ) können von einer der folgenden Methoden in Office 365 angewendet werden: 
   
 - Aufbewahrung für eventuelle Rechtsstreitigkeiten 
     
-- eDiscovery-Haltebereich
+- eDiscovery-Aufbewahrung
     
 - Compliance-Archiv
     
-- Aufbewahrungsrichtlinie für Office 365 
+- Office 365 Aufbewahrungsrichtlinie 
     
   - Spezifische Aufbewahrungsrichtlinien für Standorte
     
@@ -32,6 +32,6 @@ Verfügen Sie über Inhalte, die in einem Speicher **aufbewahrt** werden, den Si
     
 - Office 365-Bezeichnungen
     
-Informationen dazu, welche Art von Haltebereich auf das Postfach eines Benutzers angewendet wird, finden Sie unter vorGehens [Weise: Identifizieren des Aufbewahrungs Typs für ein Exchange Online-Postfach](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).
+Informationen zum Identifizieren des Aufbewahrungs Typs, der auf das Postfach eines Benutzers angewendet wird, finden Sie unter [Identifizieren des Aufbewahrungs Typs, der in einem Exchange Online Postfach gespeichert](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)ist.
   
 
