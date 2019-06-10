@@ -1,5 +1,5 @@
 ---
-title: Automatisches Anwenden von Vertraulichkeits Bezeichnungen
+title: Automatisches Anwenden von Sensitivitäts Bezeichnungen
 ms.author: stephow
 author: stephow-MSFT
 manager: laurawi
@@ -9,29 +9,29 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 65d359f9826e689963cfe5e83b37227cbadd526b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ac2542f9d1990c5a76773f36bde03d0b31728bdd
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408718"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769542"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>Automatisches Anwenden von Vertraulichkeits Bezeichnungen
+# <a name="auto-apply-sensitivity-labels"></a>Automatisches Anwenden von Sensitivitäts Bezeichnungen
 
-Vertraulichkeits Bezeichnungen können mannually auf Inhalte von Benutzern angewendet werden, oder Sie können Sie so konfigurieren, dass Sie automatisch auf Inhalte angewendet werden.
+Vertraulichkeits Bezeichnungen können mannually auf Inhalte von Benutzern angewendet werden oder Sie können so konfiguriert werden, dass Sie automatisch auf Inhalte angewendet werden.
 
-Durch automatisches Anwenden von Vertraulichkeits Bezeichnungen wird verhindert, dass Benutzer die Klassifizierung von Inhalten und die Notwendigkeit, Sie über Richtlinienkonfigurationen zu informieren.
+Durch automatisches Anwenden von Sensitivitäts Bezeichnungen wird den Benutzern das Klassifizieren von Inhalten und die Notwendigkeit, diese über Richtlinienkonfigurationen zu informieren, nicht mehr geübt.
 
-Zum automatischen Anwenden von Bezeichnungen ist Folgendes erforderlich:
+Um Beschriftungen automatisch anzuwenden, ist Folgendes erforderlich:
 
 - Azure Information Protection-P2-Abonnement
-- [Herunterladen und Installieren des Azure Information Protection Unified-Bezeichnungs Clients](https://docs.microsoft.com/en-us/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- [Herunterladen und Installieren des Azure Information Protection Unified Labeling-Clients](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Wir arbeiten an nativer Unterstützung, die den Azure Information Protection Unified-Beschriftungs Client in Zukunft nicht erfordert.
+Wir arbeiten an der systemeigenen Unterstützung, die in Zukunft nicht den Unified Labeling-Client für Azure Information Protection erfordert.
 
-Derzeit unterstützt nur Windows den vereinheitlichten Beschriftungs Client.  Die Funktion wird auf Mac, iOS und Android noch nicht unterstützt.
+Derzeit unterstützt nur Windows den Unified Labeling-Client.  Das Feature wird auf Mac, IOS und Android noch nicht unterstützt.
 
-Weitere Informationen zu Vertraulichkeits Bezeichnungen, die automatisch auf Inhalte angewendet werden, finden Sie unter:
+Weitere Informationen zu Sensitivitäts Bezeichnungen und zur automatischen Anwendung auf Inhalte finden Sie unter:
 
-- [Übersicht über Vertraulichkeitsbezeichnungen](https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels)
-- [Automatisches Anwenden einer Vertraulichkeitsbezeichnung auf Inhalte](https://docs.microsoft.com/en-us/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Übersicht über Vertraulichkeitsbezeichnungen](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [Automatisches Anwenden einer Vertraulichkeitsbezeichnung auf Inhalte](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

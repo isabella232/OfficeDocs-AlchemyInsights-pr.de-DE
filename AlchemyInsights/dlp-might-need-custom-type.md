@@ -10,29 +10,29 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: cd5bac5efe3a16d32f9b695c8cb452a1eaa3a796
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0ccdc524625ac76031004300a2406d5bfddcc759
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32399105"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770316"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP benötigt möglicherweise einen benutzerdefinierten Typ
 
-Mit einer DLP-Richtlinie (Data Loss Prevention) können Sie vertrauliche Daten in Ihrer Organisation identifizieren und schützen. In einigen Szenarien müssen Sie möglicherweise Ihren eigenen **benutzerdefinierten** Typ für vertrauliche Informationen erstellen, um die Daten Ihrer Organisation zu schützen.
+Mit einer Richtlinie zur Verhinderung von Datenverlust (Data Loss Prevention, DLP) können Sie vertrauliche Daten in Ihrer Organisation identifizieren und schützen. In einigen Szenarien müssen Sie möglicherweise einen eigenen **benutzerdefinierten** Typ für vertrauliche Informationen erstellen, um die Daten Ihrer Organisation zu schützen.
 
-Beispielsweise muss Ihre Organisation Mitarbeiter-IDs oder andere Daten in einem bestimmten für Ihre org spezifischen Format identifizieren und schützen. In den folgenden Artikeln finden Sie weitere Informationen. 
+Beispielsweise kann es sein, dass Ihre Organisation Mitarbeiter-IDs oder andere Daten in einem bestimmten für Ihre org spezifischen Format identifizieren und schützen muss. Wenn dies der Fall ist, finden Sie weitere Informationen in den folgenden Artikeln. 
   
  **Anpassen eines benutzerdefinierten vertraulichen Informationstyps**
   
-Wenn ein integrierter vertraulicher Informationstyp Ihre Anforderungen mit wenigen Optimierungen erfüllen würde, können Sie [einen integrierten vertraulichen Informationstyp anpassen](https://docs.microsoft.com/en-us/office365/securitycompliance/customize-a-built-in-sensitive-information-type). Sie können beispielsweise Stichwörter hinzufügen oder entfernen oder unterstützende Nachweise wie ein Datum oder eine Adresse hinzufügen oder entfernen.
+Wenn ein integrierter vertraulicher Informationstyp Ihren Anforderungen mit nur wenigen Optimierungen entspricht, können Sie [einen integrierten vertraulichen Informationstyp anpassen](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type). Beispielsweise können Sie Stichwörter hinzufügen oder entfernen oder unterstützende Beweise wie ein Datum oder eine Adresse hinzufügen oder entfernen.
   
  **Erstellen eines benutzerdefinierten vertraulichen Informationstyps**
   
-Wenn Sie jedoch einen anderen Typ vertraulicher Informationen identifizieren und schützen müssen, können Sie auf der Benutzeroberfläche des Security & Compliance Center [einen benutzerdefinierten vertraulichen Informationstyp erstellen](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type) . 
+Wenn Sie jedoch einen anderen Typ vertraulicher Informationen insgesamt identifizieren und schützen müssen, können Sie [einen benutzerdefinierten Typ vertraulicher Informationen](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) auf der Benutzeroberfläche des Security #a0 Compliance Center erstellen. 
   
-**Erstellen eines benutzerdefinierten Typs für vertrauliche Informationen in Security & Compliance Center PowerShell**
+**Erstellen eines benutzerdefinierten Typs für vertrauliche Informationen im Security #a0 Compliance Center PowerShell**
 
-Wenn die Benutzeroberfläche nicht alle Optionen bereitstellt, die Sie benötigen, können Sie [einen benutzerdefinierten vertraulichen Informationstyp in Security _AMP_ Compliance Center PowerShell erstellen](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Wenn Sie mit einer XML-Datei beginnen, können Sie jede verfügbare Option verwenden.
+Wenn die Benutzeroberfläche nicht alle benötigten Optionen bereitstellt, können Sie [in Security #a0 Compliance Center PowerShell einen benutzerdefinierten Typ für vertrauliche Informationen erstellen](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Wenn Sie mit einer XML-Datei beginnen, können Sie jede verfügbare Option verwenden.
 
     

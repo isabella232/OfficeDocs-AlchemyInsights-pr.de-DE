@@ -1,5 +1,5 @@
 ---
-title: Outlook-Synchronisierungs Limit von 3,99 GB
+title: Outlook-Synchronisierungs Grenzwert von 3,99 GB
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -9,15 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 9000169
-ms.openlocfilehash: 31e89c9d77abd669dac52dfe26e0f91f5d553b75
-ms.sourcegitcommit: 8e5b9ee3f8ef10c6d973923f955c23fa436adb84
+ms.openlocfilehash: 172b2b11791d7bfd4e4e7a52cdc4d66b48ccd4c9
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "33470914"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34771129"
 ---
-# <a name="outlook-sync-status-bar-remains-at-399-gb"></a>Outlook-Synchronisierungsstatus Leiste bleibt bei 3,99 GB
+# <a name="outlook-sync-status-bar-remains-at-399-gb"></a>Die Outlook-Synchronisierungsstatus Leiste verbleibt bei 3,99 GB
 
-Verringern Sie die Größe des Ordnerinhalts, oder erstellen Sie einen Synchronisierungsfilter für große Ordner bei oder nahe 4 GB.
+Versuchen Sie, die Größe des Ordnerinhalts zu reduzieren oder einen Synchronisierungsfilter für große Ordner mit oder nahe 4 GB zu erstellen.
 
-Weitere Informationen finden Sie unter Statusleiste Fortschritt zeigt nie mehr als 3,99 GB bei der anfänglichen [Synchronisierung von umfangreichen Ordnern](https://support.microsoft.com/en-us/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial).
+Weitere Informationen finden Sie unter Statusleisten Fortschritt zeigt nie mehr als 3,99 GB, die bei [der ersten Synchronisierung großer Ordner](https://support.microsoft.com/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial)verbleiben.
