@@ -1,29 +1,32 @@
 ---
-title: 8000075 Outlook.com Change Password-Französisch
+title: Kennwort für Outlook.com ändern – Französisch
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/8/2019
+ms.date: 6/10/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000075
-ms.openlocfilehash: b462177f44c23db07e3aca2b68e5fac20365e916
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000075"
+- "1153"
+- "1154"
+ms.openlocfilehash: 41eb60feb56008afafe51a686e663bf02458a248
+ms.sourcegitcommit: 65e270e6aaa58294d1e866a66cac787da22e8d13
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388443"
+ms.lasthandoff: 06/11/2019
+ms.locfileid: "34820183"
 ---
-# <a name="changer-votre-mot-de-passe-dans-outlookcom"></a>Changer votre mot de Passin dans Outlook.com
+# <a name="changer-votre-mot-de-passe-dans-outlookcom"></a>Changer votre mot de passe dans Outlook.com
 
 Votre mot de passe Outlook.com est le même que votre mot de passe compte Microsoft.
 
-1. Accédez à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **Modifier Le mot de passe**.
-2. Par mesure de Sécurité, vous pouvez être invité à CONFIRMER votre identité à aide d ' un Code de sécurité.
-3. Entrez votre mot de passe Actuel, Votre nouveau mot de passe, puis sélectionnez **enregistrer**.
+1. Accédez à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **sécurité du mot de passe**.
+2. Par mesure de Sécurité, vous pouvez être invité à CONFIRMER votre identité à aide d ' un-Code de sécurité.
+3. Entrez votre mot de Pass Actuel, Votre nouveau mot de passe, puis sélectionnez **enregistrer**.
 
-Si vous avez oublié votre mot de passe, accédez à la [Page de réinitialisation de mot de passe de compTe Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909), puis Suivez les invites.
+Si vous avez oublié votre mot de passe, accédez à la [Page de réinitialisation de mot de passe de Compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909), puis Suivez les invites.
 
 Si vous pensez que votre Outlook.com a été piraté, voir [Mon compte Outlook.com a été piraté](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8).
