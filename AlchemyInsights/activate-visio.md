@@ -12,20 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 0ddafabd1896040fc93d4ad49bc306bea3104492
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 9a516f6ca1fa351f8484271da0bdc47ba7f12447
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765059"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34883160"
 ---
 # <a name="activate-visio"></a>Aktivieren von Visio
 
-Der Administrator muss einem Benutzer eine [Visio-Lizenz](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) zuweisen, bevor die Desktop-Visio-Desktop-App, die im Visio Online-Plan 2 enthalten ist, installiert und aktiviert werden kann. (Visio Online Plan 1 enthält keine Desktop Version von Visio).
+Damit ein Benutzer die Desktop-Visio-Desktop-App, die in seinem Visio Online-Plan 2 enthalten ist, installieren und aktivieren kann, muss dem Benutzer eine [Visio-Lizenz](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)zugewiesen worden sein.
+
+**Hinweis:** Visio Online Plan 1 enthält keine Desktop Version von Visio.
+
+So aktivieren Sie Visio:
 
 1. [Installieren Sie Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) , wenn es nicht bereits installiert ist.
-2. Wenn die Installation abgeschlossen ist, öffnen Sie die app. In vielen Fällen wird die APP automatisch aktiviert, und der Benutzer kann sofort mit der Verwendung von Visio beginnen.
-    Wenn Sie zur Anmeldung aufgefordert werden, muss sich der Benutzer mit dem gleichen Büro-oder Schulkonto anmelden, dem die Visio-Lizenz zugewiesen wurde. 
+2. Wenn die Installation abgeschlossen ist, öffnen Sie Visio. In vielen Fällen wird die APP automatisch aktiviert, und Sie können sofort mit der Verwendung von Visio beginnen. Wenn Sie zur Anmeldung aufgefordert werden, müssen Sie sich mit dem gleichen Arbeits-oder Schulkonto anmelden, das mit einer Visio-Lizenz versehen wurde. 
+
+Führen Sie bei Aktivierungsproblemen die [Aktivierungsproblem Behandlung](https://aka.ms/SARA-OfficeActivation-Alchemy) auf dem betroffenen Computer aus.
 
 Ausführliche Informationen finden Sie unter:<br>
 [Aktivieren von Office auf einem PC](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
