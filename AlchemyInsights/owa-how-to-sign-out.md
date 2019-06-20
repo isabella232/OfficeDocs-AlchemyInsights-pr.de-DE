@@ -1,5 +1,5 @@
 ---
-title: Abmelden von Outlook im Web
+title: Vorgehensweise zum Abmelden bei Outlook im Internet
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 99927bf4f17ff7fac1e4c61d17ab4ee706c4d891
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.openlocfilehash: 81a0ef4df7b64878d2611c7d31256b9f3babd85e
+ms.sourcegitcommit: 20a3cfa10114176f8997fd151e83d167a81945e4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33643400"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34273598"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Abmelden von Outlook im Web
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Vorgehensweise zum Abmelden bei Outlook im Internet
 
-1. Wählen Sie in der oberen rechten Ecke ihren Namen oder Ihr Bild aus.
-    
-    Wenn Ihr Bild am oberen Rand des Bildschirms nicht angezeigt wird, überprüfen Sie, ob die Anzeige Blockierung aktiviert ist. Manchmal wird dadurch verhindert, dass das Bild angezeigt wird.
-    
-2. Wählen Sie **Abmelden aus**. 
-    
-    Deaktivieren Sie das Kontrollkästchen für **angemeldet bleiben** auf der Seite, auf der Sie Ihr Kennwort eingeben, um das automatische Anmelden an Ihrem Geschäfts-oder Schulkonto zu beenden. 
-    
-Weitere Informationen finden Sie unter [Anmelden an oder aus Outlook im Web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).
+Wenn Sie sich bei Outlook im Internet abmelden möchten, wählen Sie in der oberen rechten Ecke ihren Namen oder Ihr Bild aus, und wählen Sie **Abmelden aus**.
+
+So beenden Sie die automatische Anmeldung bei Ihrem geschäftlichen oder Schulkonto:
+
+1. Wählen Sie Ihren Namen oder Ihr Bild **aus**, und wählen Sie Abmelden aus.
+1. Wechseln Sie zu [Outlook.Office.com](https://outlook.office.com/) , und wählen Sie **anderes Konto verwenden**aus.
+1. Melden Sie sich mit der e-Mail-Adresse an, die Sie verwenden möchten.
+
+Weitere Informationen finden Sie unter [Anmelden bei oder aus Outlook im Internet](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).
