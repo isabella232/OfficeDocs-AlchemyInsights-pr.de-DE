@@ -1,9 +1,9 @@
 ---
-title: Löschen eines Kontakts in Outlook im Web
+title: Löschen eines Kontakts in Outlook im Internet
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/9/2019
+ms.date: 5/21/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "8000012"
 - "1997"
-ms.openlocfilehash: 9e9f4a4bd712fa961f1e7a4da7c78a8dfc4c5a35
-ms.sourcegitcommit: 2247a2e723b6c0a1cf3af1f2d82afa1f45803812
+ms.openlocfilehash: 7ad83d301230c81b4b3e635e6ef61faf683344f0
+ms.sourcegitcommit: c72efee4375c3462641639ec78a171d8eae6d631
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/09/2019
-ms.locfileid: "33866579"
+ms.lasthandoff: 05/21/2019
+ms.locfileid: "34335416"
 ---
-# <a name="delete-a-contact"></a><span data-ttu-id="38982-102">Löschen eines Kontakts</span><span class="sxs-lookup"><span data-stu-id="38982-102">Delete a contact</span></span>
+# <a name="delete-a-contact"></a><span data-ttu-id="85654-102">Löschen eines Kontakts</span><span class="sxs-lookup"><span data-stu-id="85654-102">Delete a contact</span></span>
 
-1. <span data-ttu-id="38982-103">Wählen Sie das **Personen** Symbol in der unteren linken Ecke des Bildschirms aus.</span><span class="sxs-lookup"><span data-stu-id="38982-103">Select the **People** icon at the bottom left corner of the screen.</span></span>
+1. <span data-ttu-id="85654-103">Wählen Sie in der unteren linken Ecke der Seite das **Personen** Symbol aus.</span><span class="sxs-lookup"><span data-stu-id="85654-103">At the bottom left corner of the page, select the **People** icon.</span></span>
+2. <span data-ttu-id="85654-104">Wählen Sie den Kontakt aus, den Sie löschen möchten, und klicken Sie dann auf **Löschen**.</span><span class="sxs-lookup"><span data-stu-id="85654-104">Select the contact you want to delete and select **Delete**.</span></span>
 
-2. <span data-ttu-id="38982-104">Wählen Sie den Kontakt aus, den Sie löschen möchten, und wählen Sie **Löschen**aus.</span><span class="sxs-lookup"><span data-stu-id="38982-104">Select the contact you want to delete and select **Delete**.</span></span>
-
-    <span data-ttu-id="38982-105">Wenn Sie **Löschen**nicht auswählen können, ist der Kontakt möglicherweise von Skype oder einem verbundenen Konto für soziale Netzwerke.</span><span class="sxs-lookup"><span data-stu-id="38982-105">If you can't select **Delete**, the contact might be from Skype or a connected social network account.</span></span> <span data-ttu-id="38982-106">Um den Kontakt zu löschen, wechseln Sie zu Skype oder dem Konto, in dem sich der Kontakt befindet.</span><span class="sxs-lookup"><span data-stu-id="38982-106">To delete the contact, go to Skype or the account where the contact is located.</span></span>
-
-3. <span data-ttu-id="38982-107">Wählen Sie **Löschen** aus, um zu bestätigen.</span><span class="sxs-lookup"><span data-stu-id="38982-107">Select **Delete** to confirm.</span></span>
+<span data-ttu-id="85654-105">Wenn Sie **Delete**nicht auswählen können, ist der Kontakt möglicherweise über Skype oder ein verbundenes Konto für soziale Netzwerke.</span><span class="sxs-lookup"><span data-stu-id="85654-105">If you can't select **Delete**, the contact might be from Skype or a connected social network account.</span></span> <span data-ttu-id="85654-106">Wechseln Sie zum Löschen des Kontakts zu Skype oder dem Konto, in dem sich der Kontakt befindet.</span><span class="sxs-lookup"><span data-stu-id="85654-106">To delete the contact, go to Skype or the account where the contact is located.</span></span>
