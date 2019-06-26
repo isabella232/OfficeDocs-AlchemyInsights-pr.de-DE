@@ -1,5 +1,5 @@
 ---
-title: Datei schreibgeschützt geöffnet
+title: Dateien sind für die Bearbeitung gesperrt
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 2b311b134afe0c71dcc6bfdcd387eec1a624c312
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 154e1c8493f8846087e943119f1308af9bff33eb
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757085"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35222667"
 ---
 # <a name="why-you-might-not-be-able-to-edit-files"></a>Warum können Sie Dateien möglicherweise nicht bearbeiten?
 
@@ -24,9 +24,9 @@ Hinweis: Bibliotheken mit Auschecken, erforderliche Spalten/Metadaten oder wenn 
 
 Für OneDrive-Bibliotheken wird in OneDrive ein Sperrsymbol neben dem Synchronisierungsstatus angezeigt, und der Benutzer kann die Bibliothek erst synchronisieren, wenn die erwähnten Einstellungen entfernt wurden.
 
-Weitere Informationen zu gesperrten Dateien für Word/Excel finden Sie in den folgenden Artikeln.
+Weitere Informationen zu gesperrten Dateien für Word oder Excel finden Sie in den folgenden Artikeln.
 
-[Die Excel-Datei ist für die Bearbeitung durch einen anderen Benutzer gesperrt.](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [Die Excel-Datei ist für die Bearbeitung durch einen anderen Benutzer gesperrt.](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-[Word-Datei ist für die Bearbeitung durch einen anderen Benutzer gesperrt](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [Word-Datei ist für die Bearbeitung durch einen anderen Benutzer gesperrt](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
 
