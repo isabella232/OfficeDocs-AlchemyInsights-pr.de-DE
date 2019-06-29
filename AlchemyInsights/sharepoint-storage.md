@@ -9,23 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "2008"
+- "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 08e882f822411734d69a3c714d4ec8059c6cd60b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 5d3c93a1e78d3481394a39aa484bf2cdd1435be2
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32421203"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35354760"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="0a157-102">Verwalten des SharePoint Online-Speichers</span><span class="sxs-lookup"><span data-stu-id="0a157-102">Manage your SharePoint Online storage</span></span>
+# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="06a9d-102">Verwalten des SharePoint Online Speichers</span><span class="sxs-lookup"><span data-stu-id="06a9d-102">Manage your SharePoint Online storage</span></span>
 
-<span data-ttu-id="0a157-103">Für die meisten Organisationen wird der SharePoint-Speicher automatisch verwaltet, sodass Sie keine Einschränkungen pro Websitesammlung festlegen müssen.</span><span class="sxs-lookup"><span data-stu-id="0a157-103">For most organizations, SharePoint storage is managed automatically so you don't need to set limits per site collection.</span></span> <span data-ttu-id="0a157-104">So überprüfen Sie, wie viel SharePoint-Speicher Sie haben:</span><span class="sxs-lookup"><span data-stu-id="0a157-104">To check how much SharePoint storage you have:</span></span>
+<span data-ttu-id="06a9d-103">Für die meisten Organisationen wird der SharePoint-Speicher automatisch verwaltet, sodass Sie keine Beschränkungen pro Websitesammlung festlegen müssen.</span><span class="sxs-lookup"><span data-stu-id="06a9d-103">For most organizations, SharePoint storage is managed automatically so you don't need to set limits per site collection.</span></span> <span data-ttu-id="06a9d-104">So überprüfen Sie die Menge an SharePoint-Speicher:</span><span class="sxs-lookup"><span data-stu-id="06a9d-104">To check how much SharePoint storage you have:</span></span>
   
-- <span data-ttu-id="0a157-105">Suchen Sie im neuen SharePoint Admin Center oben rechts auf der Seite Websites nach dem verfügbaren und vollständigen Speicher.</span><span class="sxs-lookup"><span data-stu-id="0a157-105">In the new SharePoint admin center, in the upper right of the sites page, look for your available and total storage.</span></span>
-    
-<span data-ttu-id="0a157-106">Informationen dazu, wie Ihr Grenzwert berechnet wird, finden Sie unter [SharePoint Online-Grenzwerte](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span><span class="sxs-lookup"><span data-stu-id="0a157-106">For info about how your limit is calculated, see [SharePoint Online Limits](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span></span> <span data-ttu-id="0a157-107">Weitere Informationen finden Sie unter [Ändern des Speicherplatzes für Ihr Abonnement](https://go.microsoft.com/fwlink/?linkid=866428).</span><span class="sxs-lookup"><span data-stu-id="0a157-107">To buy extra storage, see [Change storage space for your subscription](https://go.microsoft.com/fwlink/?linkid=866428).</span></span>
-  
-<span data-ttu-id="0a157-108">Weitere Informationen zum Überwachen der Speicherung einzelner Websites mithilfe von PowerShell und zum manuellen Verwalten des Website Sammlungs Speichers finden Sie unter [Verwalten von speichergrenzwertEn für Websitesammlungen](https://go.microsoft.com/fwlink/?linkid=867833) .</span><span class="sxs-lookup"><span data-stu-id="0a157-108">For info about monitoring the storage of individual sites using PowerShell and managing site collection storage manually, see [Manage site collection storage limits](https://go.microsoft.com/fwlink/?linkid=867833)</span></span>
-  
+- <span data-ttu-id="06a9d-105">Suchen Sie im neuen SharePoint Admin Center in der oberen rechten Ecke der Seite Websites nach dem verfügbaren und dem Gesamtspeicher.</span><span class="sxs-lookup"><span data-stu-id="06a9d-105">In the new SharePoint admin center, in the upper right of the sites page, look for your available and total storage.</span></span>
 
+<span data-ttu-id="06a9d-106">Informationen zur Berechnung des Grenzwerts finden Sie unter [SharePoint Online Limits](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span><span class="sxs-lookup"><span data-stu-id="06a9d-106">For info about how your limit is calculated, see [SharePoint Online Limits](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span></span> <span data-ttu-id="06a9d-107">Weitere Informationen zum Kauf von zusätzlichem Speicher finden Sie unter [Ändern des Speicherplatzes für Ihr Abonnement](https://go.microsoft.com/fwlink/?linkid=866428).</span><span class="sxs-lookup"><span data-stu-id="06a9d-107">To buy extra storage, see [Change storage space for your subscription](https://go.microsoft.com/fwlink/?linkid=866428).</span></span>
+  
+<span data-ttu-id="06a9d-108">Informationen zum Überwachen des Speichers einzelner Websites mithilfe von PowerShell und manueller Verwaltung des Website Sammlungs Speichers finden Sie unter [Manage Site Collection Storage Limits](https://go.microsoft.com/fwlink/?linkid=867833) .</span><span class="sxs-lookup"><span data-stu-id="06a9d-108">For info about monitoring the storage of individual sites using PowerShell and managing site collection storage manually, see [Manage site collection storage limits](https://go.microsoft.com/fwlink/?linkid=867833)</span></span>
+  
