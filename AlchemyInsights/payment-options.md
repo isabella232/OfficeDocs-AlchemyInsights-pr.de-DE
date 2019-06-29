@@ -9,13 +9,16 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
+ms.custom:
+- "1639"
+- "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: 58781dd64bd99d2b709142aa090a30d1e8d4652a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a3534000b8b8f3d8c2a2cd9b5b3cf1eb278d3c85
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372631"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35360772"
 ---
 # <a name="payment-options"></a>Zahlungsoptionen
 
@@ -27,7 +30,7 @@ Kreditkarte, Bankkonto (Lastschrift) und Rechnung (Zahlung per Scheck oder elekt
   
 Wenn Sie mit Kreditkarte oder Bankkonto bezahlen, wird Ihnen die Abonnementgebühr automatisch am Tag nach dem Rechnungsdatum bis zum Ende der Laufzeit Ihres Abonnements belastet. Sie können, wann immer nötig, [Ihre Kreditkarteninformationen oder Bankkontodaten aktualisieren](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide). Sie können auf Wunsch auch [Erhalten einer Kopie Ihrer Rechnung per E-Mail](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email).
   
-Wenn Ihre Kreditkarte abgelehnt wurde oder einen überfälligen Saldo aufweist, können Sie die Option **Jetzt bezahlen** auf der Seite **Abrechnung** \> [Abonnements](https://portal.office.com/adminportal/home#/subscriptions) auswählen. 
+Wenn Ihre Kreditkarte abgelehnt wurde oder einen überfälligen Saldo aufweist, können Sie die Option **Jetzt bezahlen** auf der Seite **Abrechnung** \> [Abonnements](https://portal.office.com/adminportal/home#/subscriptions) auswählen.
   
  **Zahlung per Rechnung (Scheck oder elektronischer Zahlungsverkehr)**
   
@@ -43,4 +46,3 @@ Wenn Sie Ihre Zahlungsweise für ein aktuelles Abonnement ändern möchten, füh
   
 [Bezahlen für Ihr Office 365 Business-Abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
   
-
