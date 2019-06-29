@@ -1,5 +1,5 @@
 ---
-title: Vergleichen von Office 365-Plänen
+title: Office 365 Pläne vergleichen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,25 +9,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "472"
+- "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: c5a36dab129523d54109f761343ed2adb5ef7f5f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f9635956184ed2bb46772b7a2f25c4798a1aa082
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408251"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35362212"
 ---
-# <a name="compare-office-365-plans"></a>Vergleichen von Office 365-Plänen
+# <a name="compare-office-365-plans"></a>Office 365 Pläne vergleichen
 
-Vergleichen, wechseln oder erwerben von Office 365-Plänen
+Vergleichen, wechseln oder kaufen von Office 365 Plänen
   
-Office 365-Pläne sind für [](https://products.office.com/compare-all-microsoft-office-products?tab=2)Unternehmen und [Unternehmensebene](https://products.office.com/business/compare-more-office-365-for-business-plans)verfügbar. Darüber hinaus steht Office 365 für akademische [Einrichtungen](https://products.office.com/academic/compare-office-365-education-plans), [Behörden](https://products.office.com/government/compare-office-365-government-plans)und gemeinnützige Organisationen [](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)zur Verfügung.
+Office 365 Pläne stehen für unter [](https://products.office.com/compare-all-microsoft-office-products?tab=2)nehmen und Unternehmen auf [Unternehmensebene](https://products.office.com/business/compare-more-office-365-for-business-plans)zur Verfügung. Darüber hinaus steht Office 365 [akademischen Institutionen](https://products.office.com/academic/compare-office-365-education-plans), [Regierungsorganisationen](https://products.office.com/government/compare-office-365-government-plans)und gemeinnützigen Einrichtungen [](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)zur Verfügung.
   
-Wenn Ihre Organisation alle Pläne und Preise vergleichen möchte, überarbeiten Sie [alle Office 365-Pläne vergleichen](https://products.office.com/business/compare-more-office-365-for-business-plans).
+Wenn Ihre Organisation an einem Vergleich aller Pläne und Preise interessiert ist, überprüfen Sie [alle Office 365 Pläne vergleichen](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-wenn ihre organisation bereits einen Office 365-plan erworben hat und daran interessiert ist, zu einem anderen plan zu wechseln, den sie im Microsoft 365 admin center ausführen können, wechseln sie zu den [abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), oder wählen sie **abrechnungs** \> **abonnements**aus. Wählen Sie **Pläne wechseln** aus, um die Liste der verfügbaren neuen Pläne anzuzeigen. 
+Wenn Ihre Organisation bereits einen Office 365 Plan erworben hat und daran interessiert ist, zu einem anderen Plan zu wechseln, den Sie im Microsoft 365 Admin Center verwenden können, wechseln Sie zu den [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), oder wählen Sie **Abrechnungs** \> **Abonnements**aus. Wählen Sie **Pläne wechseln** aus, um die Liste der verfügbaren neuen Pläne anzuzeigen.
   
-Ihre Organisation kann Office 365-Pläne auch mit den Anforderungen und Funktionsanforderungen der Benutzer kombinieren und vergleichen. wechseln sie im Office 365-administrator zur seite [purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) , oder wählen sie **billing** \> **purchase services**aus.
+In Ihrer Organisation können auch Office 365 Pläne kombiniert und abgeglichen werden, um den Anforderungen und Funktionen von Benutzern gerecht zu werden. Klicken Sie im Office 365 Administrator auf die Seite " [Einkaufsdienste](https://go.microsoft.com/fwlink/p/?linkid=868433) ", oder wählen Sie " **Abrechnungs** \> **Kauf Dienste**" aus.
   
-
