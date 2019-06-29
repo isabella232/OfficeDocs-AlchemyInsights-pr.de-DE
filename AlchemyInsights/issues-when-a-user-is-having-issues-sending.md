@@ -8,15 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 322
+ms.custom:
+- "322"
+- "3100011"
 ms.assetid: 66c651d2-7e58-4bd8-a009-05065e644043
-ms.openlocfilehash: 7f1f14c1dddb8261df6e902f3b54c58a1538671e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 72f21dcaf5cfc8aa742a6eb49e342e5937f613e4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409738"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35381512"
 ---
-# <a name="a-user-is-having-issues-sending-email-messages"></a><span data-ttu-id="acf3f-102">Ein Benutzer hat Probleme beim Senden von e-Mail-Nachrichten</span><span class="sxs-lookup"><span data-stu-id="acf3f-102">A user is having issues sending email messages</span></span>
+# <a name="a-user-is-having-issues-sending-email-messages"></a><span data-ttu-id="98130-102">Ein Benutzer hat Probleme beim Senden von e-Mail-Nachrichten</span><span class="sxs-lookup"><span data-stu-id="98130-102">A user is having issues sending email messages</span></span>
 
-<span data-ttu-id="acf3f-103">Es sieht aus wie ein Problem mit dem Nachrichtenfluss.</span><span class="sxs-lookup"><span data-stu-id="acf3f-103">It looks like you have a mail flow issue.</span></span> <span data-ttu-id="acf3f-104">Wir verfügen über eine Diagnose, die viele häufige Probleme bei der Nachrichtenübermittlung identifiziert.</span><span class="sxs-lookup"><span data-stu-id="acf3f-104">We have diagnostics that will help identify many common mail flow problems.</span></span> <span data-ttu-id="acf3f-105">Klicken Sie unten auf **Diagnose ausführen** .</span><span class="sxs-lookup"><span data-stu-id="acf3f-105">Click **Run Diagnostics** below.</span></span>
+<span data-ttu-id="98130-103">Es sieht so aus, als ob Sie ein Nachrichtenflussproblem haben.</span><span class="sxs-lookup"><span data-stu-id="98130-103">It looks like you have a mail flow issue.</span></span> <span data-ttu-id="98130-104">Wir verfügen über eine Diagnose, mit der viele häufige Probleme beim Nachrichtenfluss identifiziert werden können.</span><span class="sxs-lookup"><span data-stu-id="98130-104">We have diagnostics that will help identify many common mail flow problems.</span></span> <span data-ttu-id="98130-105">Klicken Sie unten auf **Diagnose ausführen** .</span><span class="sxs-lookup"><span data-stu-id="98130-105">Click **Run Diagnostics** below.</span></span>

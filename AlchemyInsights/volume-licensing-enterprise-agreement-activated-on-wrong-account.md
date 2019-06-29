@@ -1,5 +1,5 @@
 ---
-title: Volumenlizenz-Enterprise-Vertrag bei falschem Konto aktiviert
+title: Volumenlizenzierung Enterprise-Vertrag aktiviert für falsches Konto
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "463"
+- "1500021"
 ms.assetid: 3eddff13-0dc2-41ff-995a-83df2c941eb7
-ms.openlocfilehash: 454287824158de97fa233b08769febcafb4b4a72
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 541b7fb9e048e048549c710a10102024b6087910
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422943"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35365308"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-wrong-account"></a><span data-ttu-id="a20a4-102">Volumenlizenz-Enterprise-Vertrag bei falschem Konto aktiviert</span><span class="sxs-lookup"><span data-stu-id="a20a4-102">Volume licensing enterprise agreement activated on wrong account</span></span>
+# <a name="volume-licensing-enterprise-agreement-activated-on-wrong-account"></a><span data-ttu-id="9e58d-102">Volumenlizenzierung Enterprise-Vertrag aktiviert für falsches Konto</span><span class="sxs-lookup"><span data-stu-id="9e58d-102">Volume licensing enterprise agreement activated on wrong account</span></span>
 
-<span data-ttu-id="a20a4-103">Wenn Sie feststellen, dass Ihre Abonnements, die über einen Volumenlizenz-Enterprise-Vertrag erworben wurden, auf dem falschen Mandanten aktiviert wurden, verwenden Sie die Option "rufen Sie uns an", um mit einem Supporttechniker zu sprechen.</span><span class="sxs-lookup"><span data-stu-id="a20a4-103">If you find your subscriptions purchased through a Volume Licensing Enterprise Agreement have been activated on the wrong tenant, please use the "Let us call you" option to talk to a support engineer.</span></span>
-  
-
+<span data-ttu-id="9e58d-103">Wenn Sie feststellen, dass Ihre Abonnements, die über eine Volumenlizenz-Enterprise-Vereinbarung erworben wurden, auf dem falschen Mandanten aktiviert wurden, verwenden Sie die Option "Wir rufen Sie an", um mit einem Supporttechniker in Kontakt zu treten.</span><span class="sxs-lookup"><span data-stu-id="9e58d-103">If you find your subscriptions purchased through a Volume Licensing Enterprise Agreement have been activated on the wrong tenant, please use the "Let us call you" option to talk to a support engineer.</span></span>

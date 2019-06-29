@@ -10,25 +10,26 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "831"
+- "2000020"
 ms.assetid: 523894a9-94a2-4ed8-848c-58ac9b597bc8
-ms.openlocfilehash: bf6bfc5f24ebcb1c2ec60de32eb12812a1044020
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7245542aaf24990f7181d635244b8f47a93aafde
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32369749"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35354652"
 ---
-# <a name="error-code-30174-4-when-installing-office"></a><span data-ttu-id="3162c-102">Fehlercode 30174-4 bei der Installation von Office</span><span class="sxs-lookup"><span data-stu-id="3162c-102">Error code 30174-4 when installing Office</span></span>
+# <a name="error-code-30174-4-when-installing-office"></a><span data-ttu-id="42f8c-102">Fehlercode 30174-4 bei der Installation von Office</span><span class="sxs-lookup"><span data-stu-id="42f8c-102">Error code 30174-4 when installing Office</span></span>
 
-<span data-ttu-id="3162c-103">Diese Fehlermeldung wird möglicherweise angezeigt, wenn Ihre Antivirensoftware, Firewall, Proxyeinstellungen oder Verbindung die Installation von Office verhindert.</span><span class="sxs-lookup"><span data-stu-id="3162c-103">You might see this error if your anti-virus software, firewall, proxy settings, or connection prevent you from installing Office.</span></span> <span data-ttu-id="3162c-104">Here are some things you can try to fix the problem.</span><span class="sxs-lookup"><span data-stu-id="3162c-104">Here are some things you can try to fix the problem.</span></span>
+<span data-ttu-id="42f8c-103">Dieser Fehler wird möglicherweise angezeigt, wenn Sie von Ihrer Antiviren-Software, Ihrer Firewall, ihren Proxyeinstellungen oder ihrer Verbindung keine Office-Installation verhindern.</span><span class="sxs-lookup"><span data-stu-id="42f8c-103">You might see this error if your anti-virus software, firewall, proxy settings, or connection prevent you from installing Office.</span></span> <span data-ttu-id="42f8c-104">Here are some things you can try to fix the problem.</span><span class="sxs-lookup"><span data-stu-id="42f8c-104">Here are some things you can try to fix the problem.</span></span>
   
-- <span data-ttu-id="3162c-105">Verwenden einer drahtgebundenen Verbindung</span><span class="sxs-lookup"><span data-stu-id="3162c-105">Use a wired connection</span></span>
-    
-- <span data-ttu-id="3162c-106">Proxyeinstellungen vorübergehend deaktivieren</span><span class="sxs-lookup"><span data-stu-id="3162c-106">Temporarily turn off proxy settings</span></span>
-    
-- <span data-ttu-id="3162c-107">Vorübergehendes Deaktivieren von Antivirussoftware</span><span class="sxs-lookup"><span data-stu-id="3162c-107">Temporarily turn off antivirus software</span></span>
-    
-[<span data-ttu-id="3162c-108">Fehlercode 30174-4 bei der Installation von Office</span><span class="sxs-lookup"><span data-stu-id="3162c-108">Error code 30174-4 when installing Office</span></span>](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
-  
+- <span data-ttu-id="42f8c-105">Verwenden einer verkabelten Verbindung</span><span class="sxs-lookup"><span data-stu-id="42f8c-105">Use a wired connection</span></span>
 
+- <span data-ttu-id="42f8c-106">Vorübergehendes Deaktivieren von Proxyeinstellungen</span><span class="sxs-lookup"><span data-stu-id="42f8c-106">Temporarily turn off proxy settings</span></span>
+
+- <span data-ttu-id="42f8c-107">Vorübergehendes Deaktivieren der Antivirus-Software</span><span class="sxs-lookup"><span data-stu-id="42f8c-107">Temporarily turn off antivirus software</span></span>
+
+[<span data-ttu-id="42f8c-108">Fehlercode 30174-4 bei der Installation von Office</span><span class="sxs-lookup"><span data-stu-id="42f8c-108">Error code 30174-4 when installing Office</span></span>](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
+  

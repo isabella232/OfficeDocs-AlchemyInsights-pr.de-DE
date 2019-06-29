@@ -8,29 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5d38b331-a0e8-4937-8bda-4f8f715e1976
-ms.openlocfilehash: 724e9f7501826dc238932ec08e8628d077e20e2c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "6"
+- "14"
+ms.openlocfilehash: 8e25c510233f2a00d133ea69a338141c5a475465
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423644"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35352888"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a><span data-ttu-id="13ffb-102">Aktualisieren des Domänennamenservers auf Office 365</span><span class="sxs-lookup"><span data-stu-id="13ffb-102">Update your domain nameservers to Office 365</span></span>
+# <a name="update-your-domain-nameservers-to-office-365"></a><span data-ttu-id="8b6b9-102">Aktualisieren des Domänennamenservers auf Office 365</span><span class="sxs-lookup"><span data-stu-id="8b6b9-102">Update your domain nameservers to Office 365</span></span>
 
-<span data-ttu-id="13ffb-103">Hinweis: Die Verarbeitung von Änderungen an Nameservern kann manchmal bis zu 48 Stunden dauern.</span><span class="sxs-lookup"><span data-stu-id="13ffb-103">Note: Nameserver changes can sometimes take up to 48 hours to propagate.</span></span>
+<span data-ttu-id="8b6b9-103">Hinweis: Die Verarbeitung von Änderungen an Nameservern kann manchmal bis zu 48 Stunden dauern.</span><span class="sxs-lookup"><span data-stu-id="8b6b9-103">Note: Nameserver changes can sometimes take up to 48 hours to propagate.</span></span>
   
-<span data-ttu-id="13ffb-p101">Zum Einrichten Ihrer Domäne in Office 365 müssen die Namenserver Ihrer Registrierungsstelle aktualisiert werden. Erstellen oder bearbeiten Sie Ihre Namenservereinträge Ihrer Domänenregistrierungsstelle.</span><span class="sxs-lookup"><span data-stu-id="13ffb-p101">To set up your domain in Office 365, the nameservers at your registrar need to be updated. Create or edit your nameserver records at your domain registrar.</span></span>
+<span data-ttu-id="8b6b9-p101">Zum Einrichten Ihrer Domäne in Office 365 müssen die Namenserver Ihrer Registrierungsstelle aktualisiert werden. Erstellen oder bearbeiten Sie Ihre Namenservereinträge Ihrer Domänenregistrierungsstelle.</span><span class="sxs-lookup"><span data-stu-id="8b6b9-p101">To set up your domain in Office 365, the nameservers at your registrar need to be updated. Create or edit your nameserver records at your domain registrar.</span></span>
   
-1. <span data-ttu-id="13ffb-106">Navigieren Sie zur Website Ihrer Domänenregistrierungsstelle, und suchen Sie den Bereich, in dem Sie die Namenserver bearbeiten können.</span><span class="sxs-lookup"><span data-stu-id="13ffb-106">Go to your domain registrar's website and find the area where you can edit the nameservers.</span></span>
-    
-2. <span data-ttu-id="13ffb-107">Erstellen oder bearbeiten Sie zwei Namenservereinträge so, dass sie diesen Werten entsprechen:</span><span class="sxs-lookup"><span data-stu-id="13ffb-107">Create or edit two nameserver records to match these values:</span></span>
-    
-  - <span data-ttu-id="13ffb-108">ns1.bdm.microsoftonline.com</span><span class="sxs-lookup"><span data-stu-id="13ffb-108">ns1.bdm.microsoftonline.com</span></span>
-    
-  - <span data-ttu-id="13ffb-109">ns2.bdm.microsoftonline.com</span><span class="sxs-lookup"><span data-stu-id="13ffb-109">ns2.bdm.microsoftonline.com</span></span>
-    
-3. <span data-ttu-id="13ffb-110">Speichern Sie die Änderungen.</span><span class="sxs-lookup"><span data-stu-id="13ffb-110">Save changes.</span></span>
-    
-<span data-ttu-id="13ffb-111">Detaillierte Anweisungen finden Sie auch in diesem Artikel: [Ändern von Namenservern zum Einrichten von Office 365 bei einer beliebigen Domänenregistrierungsstelle](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)</span><span class="sxs-lookup"><span data-stu-id="13ffb-111">You can also find detailed instructions in this article: [Change nameservers to set up Office 365 with any domain registrar](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)</span></span>
-  
+1. <span data-ttu-id="8b6b9-106">Navigieren Sie zur Website Ihrer Domänenregistrierungsstelle, und suchen Sie den Bereich, in dem Sie die Namenserver bearbeiten können.</span><span class="sxs-lookup"><span data-stu-id="8b6b9-106">Go to your domain registrar's website and find the area where you can edit the nameservers.</span></span>
 
+2. <span data-ttu-id="8b6b9-107">Erstellen oder bearbeiten Sie zwei Namenservereinträge so, dass sie diesen Werten entsprechen:</span><span class="sxs-lookup"><span data-stu-id="8b6b9-107">Create or edit two nameserver records to match these values:</span></span>
+
+  - <span data-ttu-id="8b6b9-108">ns1.bdm.microsoftonline.com</span><span class="sxs-lookup"><span data-stu-id="8b6b9-108">ns1.bdm.microsoftonline.com</span></span>
+
+  - <span data-ttu-id="8b6b9-109">ns2.bdm.microsoftonline.com</span><span class="sxs-lookup"><span data-stu-id="8b6b9-109">ns2.bdm.microsoftonline.com</span></span>
+
+3. <span data-ttu-id="8b6b9-110">Speichern Sie die Änderungen.</span><span class="sxs-lookup"><span data-stu-id="8b6b9-110">Save changes.</span></span>
+
+<span data-ttu-id="8b6b9-111">Detaillierte Anweisungen finden Sie auch in diesem Artikel: [Ändern von Namenservern zum Einrichten von Office 365 bei einer beliebigen Domänenregistrierungsstelle](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)</span><span class="sxs-lookup"><span data-stu-id="8b6b9-111">You can also find detailed instructions in this article: [Change nameservers to set up Office 365 with any domain registrar](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)</span></span>
+  

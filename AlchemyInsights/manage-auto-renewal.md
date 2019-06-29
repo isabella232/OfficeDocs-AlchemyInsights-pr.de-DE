@@ -9,25 +9,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "350"
+- "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: 753c8fee83aa318e184bf5ba3442848b9cb2d6fe
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 046a753bcea55e4419f562cbf9a5a7e94cfa5c32
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409257"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35380720"
 ---
-# <a name="manage-recurring-billing"></a><span data-ttu-id="2ee32-102">Verwalten der wiederkehrenden Abrechnung</span><span class="sxs-lookup"><span data-stu-id="2ee32-102">Manage recurring billing</span></span>
+# <a name="manage-recurring-billing"></a><span data-ttu-id="fe5af-102">Verwalten von wiederkehrenden Rechnungen</span><span class="sxs-lookup"><span data-stu-id="fe5af-102">Manage recurring billing</span></span>
 
-<span data-ttu-id="2ee32-103">Zum Verwalten der wiederkehrenden Abrechnung können Sie die **wiederkehrende Abrechnung** ein-oder ausschalten.</span><span class="sxs-lookup"><span data-stu-id="2ee32-103">To manage recurring billing, you can toggle **Recurring billing** on or off.</span></span> 
+<span data-ttu-id="fe5af-103">Zum Verwalten der wiederkehrenden Abrechnung können Sie die **wiederkehrende Abrechnung** ein-oder ausschalten.</span><span class="sxs-lookup"><span data-stu-id="fe5af-103">To manage recurring billing, you can toggle **Recurring billing** on or off.</span></span>
   
-1. <span data-ttu-id="2ee32-104">Wechseln Sie im Admin Center zur Seite [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) , oder wechseln Sie zu **Abrechnungs** \> **Abonnements**.</span><span class="sxs-lookup"><span data-stu-id="2ee32-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or go to **Billing** \> **Subscriptions**.</span></span>
-    
-2. <span data-ttu-id="2ee32-105">Wählen Sie das Abonnement aus, für das Sie eine wiederkehrende Abrechnung verwalten möchten.</span><span class="sxs-lookup"><span data-stu-id="2ee32-105">Choose the subscription for which you want to manage recurring billing.</span></span>
-    
-3. <span data-ttu-id="2ee32-106">UmSchalten der **wiederkehrenden Abrechnungs** -Umschaltfläche **auf ein** oder **aus**.</span><span class="sxs-lookup"><span data-stu-id="2ee32-106">Switch the **Recurring billing** toggle to **On** or **Off**.</span></span>
-    
-<span data-ttu-id="2ee32-107">Weitere Informationen finden Sie unter: [Verwalten der wiederkehrenden Abrechnung für Ihr Abonnement](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).</span><span class="sxs-lookup"><span data-stu-id="2ee32-107">For more information, see: [Manage recurring billing for your subscription](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).</span></span>
-  
+1. <span data-ttu-id="fe5af-104">Wechseln Sie im Admin Center zur Seite [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) , oder wechseln Sie zu **Abrechnungs** \> **Abonnements**.</span><span class="sxs-lookup"><span data-stu-id="fe5af-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or go to **Billing** \> **Subscriptions**.</span></span>
 
+2. <span data-ttu-id="fe5af-105">Wählen Sie das Abonnement aus, für das Sie wiederkehrende Abrechnung verwalten möchten.</span><span class="sxs-lookup"><span data-stu-id="fe5af-105">Choose the subscription for which you want to manage recurring billing.</span></span>
+
+3. <span data-ttu-id="fe5af-106">Wechseln Sie die Umschaltfläche für **wiederkehrende Fakturierung** **auf ein** oder **aus**.</span><span class="sxs-lookup"><span data-stu-id="fe5af-106">Switch the **Recurring billing** toggle to **On** or **Off**.</span></span>
+
+<span data-ttu-id="fe5af-107">Weitere Informationen finden Sie unter: [Verwalten von wiederkehrenden Rechnungen für Ihr Abonnement](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).</span><span class="sxs-lookup"><span data-stu-id="fe5af-107">For more information, see: [Manage recurring billing for your subscription](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).</span></span>
+  

@@ -1,26 +1,26 @@
 ---
-title: 8000049 Outlook.com-Status wird immer als verfügbar angezeigt
+title: Outlook.com Status wird immer als verfügbar angezeigt
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 5/31/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/5/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000049
+ms.custom:
+- "817"
+- "1767"
+- "1768"
+- "8000049"
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
-ms.openlocfilehash: 4f19d74c0181e987691c7da0b3408f0511e3c164
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 5ade09e56eeb283d61bcb7b4b49fa65103b5e26e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373626"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371864"
 ---
-# <a name="my-outlookcom-status-always-shows-as-available"></a><span data-ttu-id="ff35e-102">Mein Outlook.com-Status wird immer als verfügbar angezeigt.</span><span class="sxs-lookup"><span data-stu-id="ff35e-102">My Outlook.com status always shows as Available</span></span>
+# <a name="my-status-always-shows-as-available"></a><span data-ttu-id="bc259-102">Mein Status wird immer als verfügbar angezeigt</span><span class="sxs-lookup"><span data-stu-id="bc259-102">My status always shows as Available</span></span>
 
-<span data-ttu-id="ff35e-103">Ihr Kontostatus wird neben Ihrem Konto Bild angezeigt und ermöglicht Ihren Outlook.com und Skype-Kontakten, zu wissen, ob Sie zum chatten oder zu einem Skype-Anruf verfügbar sind.</span><span class="sxs-lookup"><span data-stu-id="ff35e-103">Your account status appears next to your account picture and lets your Outlook.com and Skype contacts know if you're available to chat or have a Skype call.</span></span> <span data-ttu-id="ff35e-104">Sie können Ihren Kontostatus in Outlook.com oder Skype ändern, aber jedes Mal, wenn Sie sich bei Outlook.com anmelden, wird Ihr Kontostatus auf verfügbar zurückgesetzt.</span><span class="sxs-lookup"><span data-stu-id="ff35e-104">you can change your account status in Outlook.com or Skype, but each time you sign in to Outlook.com, your account status will be reset to Available.</span></span>
-  
-<span data-ttu-id="ff35e-105">Sie können verhindern, dass Ihr Status geändert wird, indem Sie die Outlook.com-Beta Version verwenden oder sich nicht von Outlook.com abmelden.</span><span class="sxs-lookup"><span data-stu-id="ff35e-105">You can prevent your status from changing by using the Outlook.com beta, or by not signing out of Outlook.com.</span></span> <span data-ttu-id="ff35e-106">Beachten Sie, dass das Schließen Ihres Browsers nicht identisch mit dem Abmelden und keine Auswirkung auf Ihren Status hat.</span><span class="sxs-lookup"><span data-stu-id="ff35e-106">Note that closing your browser is not the same as signing out and has no effect on your status.</span></span> <span data-ttu-id="ff35e-107">Wenn Sie beim Schließen des Browsers angemeldet bleiben möchten, aktivieren Sie das Kontrollkästchen **mich angemeldet lassen** an der Anmeldebestätigung.</span><span class="sxs-lookup"><span data-stu-id="ff35e-107">To stay signed in when closing your browser, select the **Keep me signed in** box at the sign in prompt.</span></span> 
-  
-
+<span data-ttu-id="bc259-103">Jedes Mal, wenn Sie sich bei Outlook.com anmelden, wird Ihr Kontostatus auf verfügbar zurückgesetzt.</span><span class="sxs-lookup"><span data-stu-id="bc259-103">Each time you sign in to Outlook.com, your account status will be reset to Available.</span></span> <span data-ttu-id="bc259-104">Sie können verhindern, dass sich Ihr Status ändert, indem Sie sich nicht bei Outlook.com abmelden.</span><span class="sxs-lookup"><span data-stu-id="bc259-104">You can prevent your status from changing by not signing out of Outlook.com.</span></span> <span data-ttu-id="bc259-105">Wenn Sie beim Schließen Ihres Browsers angemeldet bleiben möchten, aktivieren Sie das Kontrollkästchen **angemeldet** bleiben auf der Outlook.com-Anmeldeseite.</span><span class="sxs-lookup"><span data-stu-id="bc259-105">To stay signed in when closing your browser, select the **Keep me signed in** box on the Outlook.com sign-in page.</span></span>

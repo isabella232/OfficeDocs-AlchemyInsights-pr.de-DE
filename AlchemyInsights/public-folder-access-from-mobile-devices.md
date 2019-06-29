@@ -8,16 +8,18 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "634"
+- "3500007"
 ms.assetid: 3a0915f6-9f4e-4049-82e2-804a498e70ee
-ms.openlocfilehash: cbb8eece0f8b04ab6b34ae81bfc95895c8e9208b
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 4d0c6f33a80735b23109af63f91470b9393892bc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34762115"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370710"
 ---
-# <a name="public-folder-access-from-mobile-devices"></a><span data-ttu-id="cf9e6-102">Zugriff auf Öffentliche Ordner von mobilen Geräten</span><span class="sxs-lookup"><span data-stu-id="cf9e6-102">Public folder access from mobile devices</span></span>
+# <a name="public-folder-access-from-mobile-devices"></a><span data-ttu-id="114f9-102">Zugriff auf Öffentliche Ordner von mobilen Geräten</span><span class="sxs-lookup"><span data-stu-id="114f9-102">Public folder access from mobile devices</span></span>
 
-<span data-ttu-id="cf9e6-103">Wenn Sie ähnliche Funktionen wie öffentliche Ordner haben möchten und Inhalte auf mobilen Geräten zugänglich sind, finden Sie weitere Informationen [zu Office 365 Gruppen](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) für eine bessere Alternative.</span><span class="sxs-lookup"><span data-stu-id="cf9e6-103">If you would like to have functionality similar to public folders and have content accessible on mobile devices, consult [Learn about Office 365 Groups](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) for a better alternative.</span></span> 
+<span data-ttu-id="114f9-103">Wenn Sie ähnliche Funktionen wie öffentliche Ordner haben möchten und Inhalte auf mobilen Geräten zugänglich sind, finden Sie weitere Informationen [zu Office 365 Gruppen](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) für eine bessere Alternative.</span><span class="sxs-lookup"><span data-stu-id="114f9-103">If you would like to have functionality similar to public folders and have content accessible on mobile devices, consult [Learn about Office 365 Groups](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) for a better alternative.</span></span>
   
-
