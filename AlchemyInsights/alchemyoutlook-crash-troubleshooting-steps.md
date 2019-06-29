@@ -1,5 +1,5 @@
 ---
-title: Alchemy – Outlook Crash troubleshooting steps
+title: Schritte zur Problembehandlung für Alchemy-Outlook-Absturz
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -9,26 +9,27 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "377"
+- "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: d0e1211e8cdd20b9d3792fda2c50507f7860f466
-ms.sourcegitcommit: 5718d96f30f25619845223e8622ce13b4a52114c
+ms.openlocfilehash: 4c93a542fe4bf615bfa7a2cc0a2ce8e443a4dedc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/10/2019
-ms.locfileid: "33883126"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357568"
 ---
-# <a name="outlook-crash-troubleshooting-steps"></a>Schritte zur Problembehandlung in Outlook
+# <a name="outlook-crash-troubleshooting-steps"></a>Schritte zur Problembehandlung bei Outlook-Absturz
 
-Wenn Sie Probleme mit dem Desktop Absturz von Outlook haben, führen Sie die folgenden drei Schritte aus, die in diesem Artikel ausführlich beschrieben werden: [Behandeln von Problemen, die Outlook zum Absturz bringen oder bei Verwendung mit Office 365 abstürzt.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
+Wenn Sie Probleme mit dem Outlook-Desktop haben, beginnen Sie mit den folgenden drei Schritten, die in diesem Artikel ausführlich aufgeführt sind: Behebung von [Problemen, die dazu führen, dass Outlook abstürzt oder reagiert, wenn Sie mit Office 365 verwendet werden.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
   
 Schritt 1: untersuchen möglicher Probleme mit Add-Ins.
   
-Schritt 2: reparieren Sie Outlook, und führen [Sie den Support-und Wiederherstellungs-Assistenten aus, um Outlook-Startfehler](https://aka.ms/SaRA-OutlookWontStart) auf dem betroffenen Computer zu beheben. 
+Schritt 2: Reparieren von Outlook und Ausführen des [Support-und Wiederherstellungs-Assistenten zum Beheben von Outlook-Startfehlern](https://aka.ms/SaRA-OutlookWontStart) auf dem betroffenen Computer.
   
-Schritt 3: Erstellen Sie ein neues Outlook-Profil, oder Sie können das [Outlook-Profil Tool](https://aka.ms/SaRA-OutlookSetupProfile) auf dem betroffenen Computer ausführen. 
+Schritt 3: Erstellen eines neuen Outlook-Profils oder Sie können das [Outlook-Profil Tool](https://aka.ms/SaRA-OutlookSetupProfile) auf dem betroffenen Computer ausführen.
   
-Wenn das Problem nach einem Update aufgetreten ist und die obigen Schritte nicht funktionieren, müssen Sie möglicherweise zu einem früheren Build zurückkehren. Weitere Informationen finden Sie unter [Zurücksetzen auf eine frühere Version von Office 2013 oder Office 2016 Click-to-Run](https://support.microsoft.com/help/2770432).
+Wenn das Problem aufgetreten ist, nachdem ein Update und die oben beschriebenen Schritte nicht funktionieren, müssen Sie möglicherweise zu einem vorherigen Build zurückkehren. Weitere Informationen finden Sie unter Vorgehens [Weise zum Wiederherstellen einer früheren Version von Office 2013 oder Office 2016 Klick-und-Los](https://support.microsoft.com/help/2770432).
   
-
