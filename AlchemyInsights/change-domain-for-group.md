@@ -1,5 +1,5 @@
 ---
-title: Ändern der Domäne für die Office 365-Gruppe
+title: Domäne für Office 365 Gruppe ändern
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,17 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "749"
+- "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: f993938c4c5b58409bbc48261051a7d5af74574b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 90d557c8d0b09fe22ead65953255a68383f68ec0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32394687"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35361996"
 ---
-# <a name="change-the-domain-for-office-365-group"></a>Ändern der Gruppe "Domäne für Office 365"
+# <a name="change-the-domain-for-office-365-group"></a>Ändern der Domäne für Office 365 Gruppe
 
-Wenn Sie die Domäne für eine Office 365-Gruppe während der Erstellung ändern möchten, führen Sie die Schritte unter [Wählen Sie die Domäne aus, die beim Erstellen von office 365-Gruppen verwendet](https://support.office.com/article/7cf5655d-e523-4bc3-a93b-3ccebf44a01a.aspx)werden soll.
+Wenn Sie die Domäne für eine Office 365 Gruppe während der Erstellung ändern möchten, führen Sie die Schritte unter [Wählen Sie die Domäne aus, die beim Erstellen von Office 365 Gruppen verwendet](https://support.office.com/article/7cf5655d-e523-4bc3-a93b-3ccebf44a01a.aspx)werden soll aus.
   
-Nachdem die Office 365-Gruppe bereits erstellt wurde, gibt es derzeit keine Möglichkeit, die Domäne zu ändern. Die einzige Möglichkeit besteht darin, eine neue Office 365-Gruppe zu erstellen und gegebenenfalls die alte zu löschen (zusätzliche e-Mail-Adressen können über das [Exchange Admin Center](https://outlook.office365.com/ecp.aspx)hinzugefügt werden).
+Nachdem die Office 365 Gruppe bereits erstellt wurde, gibt es derzeit keine Möglichkeit, die Domäne zu ändern. Die einzige Möglichkeit besteht darin, eine neue Office 365 Gruppe zu erstellen und gegebenenfalls die alte zu löschen (weitere e-Mail-Adressen können über das [Exchange Admin Center](https://outlook.office365.com/ecp.aspx)hinzugefügt werden).

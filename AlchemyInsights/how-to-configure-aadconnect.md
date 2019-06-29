@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 646
+ms.custom:
+- "646"
+- "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 2dc4ae7d6809c24ce599ac128570e9354c9f2b30
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 0569cb10c1d1dd422709de5d2569e43ee9d75386
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34752560"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35385337"
 ---
 # <a name="configure-sync-features"></a>Konfigurieren von Synchronisierungsfeatures
 
@@ -23,7 +25,7 @@ Azure AD Connect umfasst mehrere Features, die standardmäßig aktiviert sind od
 
 - [Filter](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) Grenzwerte die Objekte werden mit Azure AD synchronisiert. Standardmäßig werden alle Computerkonten "Benutzer", "Kontakte", "Gruppen" und "Windows 10" synchronisiert. Sie können Objekte basierend auf Domänen, OUs oder anderen Attributen einschließen oder ausschließen.
 
-- [Password Hash Synchronisierung](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) synchronisiert den Kennworthash vom lokalen Active Directory auf Azure AD. Dadurch wird die Kennwortverwaltung an einem Ort ermöglicht, jedoch wird das gleiche Kennwort sowohl in lokalen als auch in Cloud-Umgebungen verwendet. Da Active Directory die autorisierende Quelle ist, können Sie Ihre eigenen Kennwortrichtlinien verwenden.
+- Bei der [Kennworthash Synchronisierung](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) wird der Kennworthash vom lokalen Active Directory auf Azure AD synchronisiert. Dadurch wird die Kennwortverwaltung an einem Ort ermöglicht, jedoch wird das gleiche Kennwort sowohl in lokalen als auch in Cloud-Umgebungen verwendet. Da Active Directory die autorisierende Quelle ist, können Sie Ihre eigenen Kennwortrichtlinien verwenden.
 
 - [Self-Service Password Reset (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) ermöglicht Benutzern das Zurücksetzen Ihrer eigenen Kennwörter in der Cloud, während Ihre lokale Kennwortrichtlinie weiterhin angewendet wird.
 

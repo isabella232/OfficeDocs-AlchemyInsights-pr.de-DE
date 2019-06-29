@@ -6,22 +6,20 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.assetid: ''
-ms.openlocfilehash: 6166493f79379f44b1a9bbbaca6becfe624fe912
-ms.sourcegitcommit: 22ce2315c8cf643137ab3420cdc1cda41433d44a
+ms.custom:
+- "1874"
+- "9000265"
+ms.openlocfilehash: 8b45766e920fa5bd6eab8abc6ef808ae978808dc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/14/2019
-ms.locfileid: "34057711"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35379640"
 ---
 # <a name="modern-site-as-root-site"></a>Moderne Website als Stammwebsite
 
-[Ziel Release](https://docs.microsoft.com/en-us/office365/admin/manage/release-options-in-office-365?view=o365-worldwide) -Kunden können jetzt die moderne Kommunikationswebsite auf der klassischen Stammwebsite Ihres SharePoint-Mandanten aktivieren.
+Zu diesem Zeitpunkt haben wir uns auf der Grundlage von Feedback zur Vorschau entschieden, das Rollout des Features zu verschieben, um eine Kommunikationswebsite als Stammwebsite zu aktivieren. Wir bitten um Entschuldigung für etwaige Unannehmlichkeiten und kommunizieren einen neuen Zeitplan über das Nachrichten Center, sobald dieser verfügbar ist.
 
-Dieses Feature kann durch Ausführen eines einfachen PowerShell-Cmdlets aktiviert werden. Bei erfolgreicher Ausführung der PowerShell-Befehle verfügt die Stammwebsite über eine neue Homepage für die Kommunikationswebsite. Details zu den PowerShell-Cmdlets und Funktionsanforderungen finden Sie im Artikel [enable-SPOCommSite](https://docs.microsoft.com/en-us/powershell/module/sharepoint-online/Enable-SPOCommSite?view=sharepoint-ps). 
+Kommunikationswebsites können derzeit nicht als Stammwebsite aktiviert werden.
 
-Nach und nach werden wir das in der Standardeinstellung für Zielversionen von Kunden Anfang Mai 2019 und die Einführung weltweit bis Ende Juni 2019 zur Verfügung stellen. Weitere Informationen finden Sie im [Message Center](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter) für andere neue Features mit modern. 
-
-**Wichtig**: Löschen Sie Ihre klassische Stammwebsite nicht, um eine moderne Kommunikationswebsite zu erstellen. Dies wird von Microsoft nicht unterstützt. Durch das Löschen der Stammwebsite werden alle SharePoint-Websites in Ihrer Organisation für alle Benutzer unzugänglich, bis Sie die Website wiederherstellen oder eine neue Website mit derselben URL erstellen. 
- 
- 
+**Wichtig**: Löschen Sie Ihre klassische Stammwebsite nicht, um eine moderne Kommunikationswebsite zu erstellen. Dies wird von Microsoft nicht unterstützt. Wenn Sie die Stammwebsite löschen, können alle SharePoint-Websites in Ihrer Organisation erst für alle Benutzer zugänglich gemacht werden, wenn Sie die Website wiederherstellen oder eine neue Website mit derselben URL erstellen.

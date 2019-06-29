@@ -1,5 +1,5 @@
 ---
-title: Probleme mit Junk-e-Mails, die von LinkedIn ausgehen
+title: Probleme mit Junk-e-Mail, die behaupten, von LinkedIn zu sein
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -9,17 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 8000079
-ms.openlocfilehash: 4f7e77758f2a3aa669c70b1b1b5c17f917023754
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.custom:
+- "1276"
+- "8000079"
+ms.openlocfilehash: 64e2349a329bee570685034ca4bab9988c71182f
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33643396"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35374096"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Probleme mit Junk-e-Mails, die von LinkedIn ausgehen
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Probleme mit Junk-e-Mail, die behaupten, von LinkedIn zu sein
 
-Wir wissen, dass einige Benutzer Junk-e-Mails erhalten, die von LinkedIn beansprucht werden.
+Wir sind uns bewusst, dass einige Benutzer Junk-e-Mails erhalten, die von LinkedIn beansprucht werden.
 
 Es wird empfohlen, eine Posteingangsregel zum Filtern dieser e-Mails zu verwenden.
 

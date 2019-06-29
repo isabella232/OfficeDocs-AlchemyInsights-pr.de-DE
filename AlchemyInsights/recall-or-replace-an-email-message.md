@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1860
+ms.custom:
+- "1860"
+- "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770808"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356596"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Rückruf oder Ersetzen einer e-Mail-Nachricht
 
@@ -25,12 +27,13 @@ ms.locfileid: "34770808"
 - Wenn Sie Administrator sind, können Sie **Nachrichten im Namen von Benutzern mithilfe von PowerShell abrufen**. Sie können keine Nachrichten aus dem Admin Center abrufen. Scrollen Sie nach unten zu "suchen und Löschen von e-Mail-Nachrichten in Ihrer Organisation", um weitere Informationen zu erhalten.
 
 ***Zurückrufen oder Ersetzen einer von Ihnen gesendeten e-Mail-Nachricht***
+
 1. Wählen Sie im Bereich Ordner auf der linken Seite des Outlook-Fensters den Ordner Gesendete Elemente aus.
 2. Öffnen Sie die Nachricht, die Sie abrufen möchten. Sie müssen doppelklicken, um die Nachricht zu öffnen. Wenn Sie die Nachricht auswählen, damit Sie im Lesebereich angezeigt wird, können Sie die Nachricht nicht mehr abrufen.
 3. Wählen Sie auf der Registerkarte Nachricht die Option **Aktionen** > **Rückruf dieser Nachricht**aus.
 4. Wählen Sie ungelesene **Kopien dieser Nachricht löschen** oder ungelesene **Kopien löschen aus, und ersetzen Sie Sie durch eine neue Nachricht, und**wählen Sie dann **OK**aus.
 5. Wenn Sie eine Ersatznachricht senden, verfassen Sie die Nachricht, und wählen Sie dann **senden**aus.
-6. Der Erfolg oder Misserfolg eines Nachrichtenrückrufs hängt von den Einstellungen der Empfänger in Outlook ab. 
+6. Der Erfolg oder Misserfolg eines Nachrichtenrückrufs hängt von den Einstellungen der Empfänger in Outlook ab.
 
 Weitere Informationen, einschließlich der Vorgehensweise zum Überprüfen des Rückrufs, finden Sie unter [Rückruf oder Ersetzen einer von Ihnen gesendeten e-Mail-Nachricht](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 

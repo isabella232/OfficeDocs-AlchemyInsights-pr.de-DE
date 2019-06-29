@@ -3,23 +3,25 @@ title: Outlook.com kann keine Überprüfungscodes empfangen
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/24/2019
+ms.date: 6/5/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 8000060
+ms.custom:
+- "1005"
+- "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0528d95d00eeed816fee15c6b1e8c791a7e76a2d
-ms.sourcegitcommit: 70551369a9799b25f042f20a4de88a8d33666037
+ms.openlocfilehash: 9ade368e32f89493d922b9a7285726f9d249d53b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33299359"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35376688"
 ---
-# <a name="if-you-cant-get-verification-codes"></a>Wenn Sie keine Verifizierungscodes abrufen können
+# <a name="cant-get-verification-codes"></a>Bestätigungscodes können nicht abgerufen werden
 
-Wenn Sie nicht auf Ihre alternative e-Mail-Adresse oder Telefonnummer zugreifen können, gehen Sie zu Ihren [Sicherheitsgrundlagen](https://account.microsoft.com/security), wählen Sie **Ich habe keine von diesen**, und folgen Sie den Anweisungen, um Ihre Sicherheitsinformationen zu ersetzen.
+Wenn Sie nicht auf Ihre alternative e-Mail-Adresse oder Telefonnummer zugreifen können, gehen Sie zu Ihrer Microsoft-Konto [Sicherheitsgrundlagen](https://account.microsoft.com/security) Seite, wählen Sie auf der Anmeldeseite keines **davon** aus, und befolgen Sie die Anweisungen zum Ersetzen der Sicherheitsinformationen.
 
-Beachten Sie, dass die [Microsoft Authenticator-App](https://go.microsoft.com/fwlink/?linkid=2016117) keine Internetverbindung benötigt, um einen Verifizierungscode bereitzustellen.
+*Hinweis:* Die [Microsoft Authenticator-App](https://go.microsoft.com/fwlink/?linkid=2016117) benötigt keine Internetverbindung, um Ihnen einen Verifizierungscode zur Verfügung zu stellen.
 
-Weitere Informationen finden Sie [& Sicherheitscodes](https://support.microsoft.com/help/12428/).
+Weitere Informationen finden Sie unter [Microsoft-Konto Sicherheitsinformationen und-Überprüfungscodes](https://support.microsoft.com/help/12428/).

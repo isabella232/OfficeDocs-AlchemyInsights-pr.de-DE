@@ -1,31 +1,35 @@
 ---
-title: Outlook.com hinzufügen von Kennzeichnungen oder Erinnerungen
+title: Outlook.com hinzufügen von Flags oder Erinnerungen
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 3/21/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000304
+ms.custom:
+- "1921"
+- "9000304"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 62dda911dac38220df7a413f9cf3e042c643a2bf
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 4b3626cb02284e3527cc85142621febd5380a888
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417892"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35377408"
 ---
 # <a name="adding-flags-and-reminders-in-outlookcom"></a>Hinzufügen von Flags und Erinnerungen in Outlook.com
 
-So können Sie eine Erinnerung für ein Geburtstags Ereignis festlegen oder bearbeiten:
+So legen Sie eine Erinnerung für ein Ereignis fest oder bearbeiten Sie:
 
-1. Wechseln Sie zum [Kalender](https://outlook.live.com/calendar/).
-1. Stellen Sie im linken Bereich unter **Kalender**sicher, dass der Kalender **Geburtstag** ausgewählt ist.
-1. Wählen Sie den Geburtstag aus, an den Sie erinnern möchten, und wählen Sie die Pfeile in der oberen rechten Ecke aus, um ihn zu erweitern.
-1. Wählen Sie **** neben "Erinnerung" eine Erinnerungszeit aus.Outlook.com speichert Ihre Änderungen automatisch.
+1. Wechseln Sie zu [Kalender](https://outlook.live.com/calendar/).
+1. Wählen Sie das Ereignis aus, an das Sie erinnert werden möchten, und wählen Sie dann die Pfeile in der oberen rechten Ecke aus, um es zu erweitern.
+1. Wählen Sie als nächstes die Option Erinnerungszeit aus, um **mich daran zu erinnern**.Outlook.com speichert die Änderungen automatisch.
 
-Wenn Sie sich an eine Nachverfolgung einer Nachricht erinnern möchten, können Sie ein Nachverfolgungskennzeichen hinzufügen:
+Wenn Sie sich daran erinnern möchten, dass eine Nachricht nachverfolgt werden soll, können Sie eine Nachverfolgungskennzeichnung hinzufügen:
 
-1. Hovern Sie in der Nachrichtenliste über die Nachricht, um die Option Flag anzuzeigen.
-1. Wählen Sie das Kennzeichensymbol aus, um die Nachricht zu kennzeichnen. Um alle markierten Nachrichten anzuzeigen, aktivieren Sie das Häkchen in der unteren linken Ecke der Seite.
+1. Zu [e-Mail](https://outlook.live.com/mail/) wechseln
+1. Zeigen Sie in der Nachrichtenliste auf die Nachricht, um die Option Flag anzuzeigen.
+1. Wählen Sie das Flag-Symbol aus, um die Nachricht zu kennzeichnen. Wenn Sie alle gekennzeichneten Nachrichten anzeigen möchten, aktivieren Sie das Häkchen in der unteren linken Ecke der Seite, um zu Aufgaben zu wechseln.
+ 
+Weitere Informationen finden Sie [unter kennzeichnen oder anheften einer Nachricht in Outlook.com](https://support.office.com/article/8e911e69-30d6-4cc8-8c71-a1163560618a).

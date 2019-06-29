@@ -6,21 +6,23 @@ manager: joallard
 ms.date: 3/21/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000258
+ms.custom:
+- "1850"
+- "9000258"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 24109e65c691811facc7c49983d0e8400a6c02e1
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 979047010dee0bb5908fe9f2c9f5897f82ba0c67
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419172"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375680"
 ---
 # <a name="organizing-your-outlookcom-mailbox"></a>Organisieren Ihres Outlook.com-Postfachs
 
-Eine Kontaktliste ist eine Sammlung von e-Mail-Adressen und eignet sich zum Senden von e-Mails an eine Gruppe von Personen. So erstellen Sie eine Kontaktliste
+Eine Kontaktliste ist eine Sammlung von e-Mail-Adressen und ist hilfreich, um e-Mails an eine Gruppe von Personen zu senden. So erstellen Sie eine Kontaktliste:
 
-1. Gehen Sie zu [Personen](https://outlook.live.com/people/).
+1. Wechseln Sie zu [Personen](https://outlook.live.com/people/).
 1. Wählen Sie oben auf der Seite den Pfeil neben **neuer Kontakt** aus, und wählen Sie dann **neue Kontaktliste**aus.
 1. Geben Sie einen Namen für die Liste ein, und fügen Sie dann Namen oder e-Mail-Adressen hinzu.
 1. Wählen Sie **Erstellen** aus.

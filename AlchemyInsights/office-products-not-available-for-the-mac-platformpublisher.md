@@ -9,15 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a6c57ee4-c6bc-4a40-87f0-ceecf6c29238
-ms.openlocfilehash: 61ac258e2251b9ec54c925fc6ad6968723e5128c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "755"
+- "2000016"
+ms.openlocfilehash: fbcd22d11894441188732b9d4c2895df10f5e9e0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388938"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35378272"
 ---
 # <a name="office-products-not-available-for-the-mac-platform"></a>Office-Produkte, die für die Mac-Plattform nicht verfügbar sind
 
-Visio, Project, Publisher und Access stehen für die Mac-Plattform nicht zur Verfügung, [Visio Online](https://products.office.com/visio/visio-online) und [Project Online](https://products.office.com/project/project-online-premium) sind jedoch verfügbar und funktionieren auf allen Plattformen. 
+Visio, Project, Publisher und Access sind für die Mac-Plattform nicht verfügbar, [Visio Online](https://products.office.com/visio/visio-online) und [Project Online](https://products.office.com/project/project-online-premium) sind jedoch verfügbar und können auf allen Plattformen verwendet werden.
   
-

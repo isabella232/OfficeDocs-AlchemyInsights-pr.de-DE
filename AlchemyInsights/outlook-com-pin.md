@@ -1,5 +1,5 @@
 ---
-title: 9000233 Outlook.com-PIN
+title: 9000233 Outlook.com-Pin
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -8,20 +8,22 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000233
-ms.openlocfilehash: af81ead91c865d2b36ea20476b91c51e36452690
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1817"
+- "9000233"
+ms.openlocfilehash: 4a3813c9c926e7a6b9106703204dae644b06b84a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392372"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373448"
 ---
 # <a name="change-your-pin"></a>PIN ändern
 
-Outlook.com verwendet keine PIN, aber Sie können sich mit einer PIN oder einem Windows-Gruß an Ihrem PC anmelden. So ändern Sie Ihre PIN in Windows 10:
+Outlook.com verwendet keine PIN, aber Sie können sich mit einer PIN oder einem Windows Hello an Ihrem PC anmelden. So ändern Sie die PIN in Windows 10:
 
-1. Wechseln Sie zu Start, und wählen Sie dann **Einstellungen** > **** > für die**Anmeldeoptionen**aus.
-2. Wählen Sie die Schaltfläche **ändern** unter **Pin**aus.
-3. Geben Sie Ihre aktuelle PIN ein, und bestätigen Sie Ihre neue PIN darunter.
+1. Klicken Sie auf die Schaltfläche Start, oder drücken Sie die Windows-Taste auf der Tastatur, und wählen Sie dann **Einstellungen** > für**Anmeldeoptionen**für die**Konten** > aus.
+2. Klicken Sie unter **Pin**auf die Schaltfläche **ändern** .
+3. Geben Sie Ihre aktuelle PIN ein, und bestätigen Sie dann Ihre neue PIN darunter.
 
-[Weitere Informationen zu Windows Hello.](https://support.microsoft.com/help/17215/)
+[Lesen Sie mehr über Windows Hello.](https://support.microsoft.com/help/17215/)

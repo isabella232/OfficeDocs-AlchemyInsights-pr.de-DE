@@ -8,21 +8,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 2ed85d10-162f-4e4a-a843-7ad20e00a077
-ms.openlocfilehash: 453a6e771f8e6bef4202c1f0bd7ff03035a157e5
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "121"
+- "1600017"
+ms.openlocfilehash: b9667919238ed5df38bde9f42e814ce486924438
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32377919"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35369268"
 ---
 # <a name="service-incident-in-progress"></a>Dienst Vorfall wird ausgeführt
 
-Möglicherweise sind Sie von einem Dienst Vorfall oder einer Beratung betroffen, die derzeit untersucht wird. Sie können den aktuellen Status überprüfen, indem Sie zur Seite [Dienst Integrität](https://admin.microsoft.com/adminportal/home#/servicehealth) wechseln. 
+Möglicherweise sind Sie von einem Dienst Vorfall oder einer Empfehlung betroffen, die derzeit untersucht wird. Sie können den neuesten Status überprüfen, indem Sie zur Seite [Dienst Integrität](https://admin.microsoft.com/adminportal/home#/servicehealth) wechseln.
   
-Nachfolgend finden Sie eine Übersicht über diesen Vorfall:
+Nachfolgend finden Sie eine Zusammenfassung dieses Vorfalls:
   
-> **Vorfallnummer:** [{Vorfall](https://admin.microsoft.com/adminportal/home#/servicehealth) -Nr.}
+> **Vorfallnummer:** [{Ereignis](https://admin.microsoft.com/adminportal/home#/servicehealth) -Nr}
     
-> Auswirkung Beschreibung: {ImpactDescription}
-    
-
+> Beschreibung der Auswirkung: {ImpactDescription}

@@ -1,5 +1,5 @@
 ---
-title: Verschieben von e-Mails in Office 365
+title: E-Mail-Adresse in Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,21 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "640"
+- "3500008"
 ms.assetid: c360a785-bfff-4f8a-9a91-44e40f696799
-ms.openlocfilehash: 940a42679f482a77e2f4ac93b1cd127fdd0c443f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e85b0af127ff7c92c7c9e0a42f5084de5de689c6
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418066"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35379424"
 ---
-# <a name="move-email-to-office-365"></a>Verschieben von e-Mails in Office 365
+# <a name="move-email-to-office-365"></a>E-Mail-Adresse in Office 365
 
-Sie haben mehrere Optionen für die Migration von e-Mails zu Office 365. Der [Office 365-e-Mail-Migrations Ratgeber](https://aka.ms/alchemyinsight-mailmigrationadvisor) hilft Ihnen bei der Auswahl des besten für Ihre Umgebung und führt Sie auch durch die e-Mail-Migration. 
+Sie haben mehrere Optionen zum Migrieren von e-Mails zu Office 365. Der [Office 365-e-Mail-Migrations Ratgeber](https://aka.ms/alchemyinsight-mailmigrationadvisor) unterstützt Sie bei der Auswahl der besten für Ihre Umgebung und führt Sie auch durch die e-Mail-Migration.
   
-Informationen zu Ihren Optionen, ohne die Migration zu starten, finden Sie unter [Möglichkeiten zum Migrieren mehrerer e-Mail-Konten zu Office 365](https://support.office.com/article/0a4913fe-60fb-498f-9155-a86516418842).
+Informationen zu Ihren Optionen, ohne die Migration zu starten, finden Sie unter [beschließen eines Migrationspfads](https://docs.microsoft.com/en-us/Exchange/mailbox-migration/decide-on-a-migration-path).
 
-Überprüfen Sie die Seite " [Office 365 mit](https://www.microsoft.com/fasttrack/microsoft-365/office-365) der Überprüfung annehmen" für die Unterstützung bei der Migration, falls berechtigt.
+Überprüfen Sie auch die Seite [Adopt Office 365 with](https://www.microsoft.com/fasttrack/microsoft-365/office-365) Kurzhilfe mit Migrationsunterstützung, sofern berechtigt.
   
-

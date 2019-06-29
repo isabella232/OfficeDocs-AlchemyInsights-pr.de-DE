@@ -1,5 +1,5 @@
 ---
-title: 976-enable-Litigation-Hold
+title: 976-How-to-enable-Litigation-Hold
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -9,20 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 976
+ms.custom:
+- "976"
+- "3100023"
 ms.assetid: ''
-ms.openlocfilehash: bf450ed6e619c46b7fc4d867284fe5b18854e769
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 84889f9e2ee72197f5ebd0f3a5bf337d0af563d4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408682"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35384752"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>Aufbewahrungspflicht für ein Postfach
 
-- Um ein Postfach mit einem Rechtsstreit oder in-situ-Speicher zu platzieren, ist eine Lizenz für Exchange Online-Plan 2 für Exchange Online [-](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) Lizenzen erforderlich. Wenn einem Postfach eine Plan 1-Lizenz zugewiesen ist, können Sie eine separate Exchange Online-Archivierungs-Add-on-Lizenz für die [Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)-Archivierung hinzufügen.
+- Wenn Sie ein Postfach in einem Beweissicherungsverfahren oder in-situ-Speicher platzieren möchten, ist eine Lizenz für Exchange Online Plan 2 [Exchange Online Plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) erforderlich. Wenn einem Postfach eine Plan 1-Lizenz zugewiesen ist, können Sie eine separate Exchange Online Archivierungs-Add-on-Lizenz [Exchange Online Archivierungs-Add-on-Lizenz](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)zuweisen.
 
-- [Führen Sie die folgenden Schritte](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)aus, um die Aufbewahrung von Rechtsstreitigkeiten für einen einzelnen Benutzer zu aktivieren. Bei Aktivierung des Rechtsstreits wird der gesamte Inhalt des Postfachs beibehalten.
+- [Führen Sie die folgenden Schritte](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)aus, um das Beweissicherungsverfahren für einen einzelnen Benutzer zu aktivieren. Wenn das Beweissicherungsverfahren aktiviert ist, bleiben alle Inhalte im Postfach erhalten.
 
-- Wenn Sie alle Postfächer in Ihrer Organisation anhalten möchten, können Sie eine Office 365-Aufbewahrungsrichtlinie verwenden, indem Sie [die folgenden Schritte](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)ausführen. Beachten Sie, dass für organisationsweite Aufbewahrungsrichtlinien der Richtlinie automatisch neue Benutzer zugewiesen werden.
-
+- Wenn Sie alle Postfächer in Ihrer Organisation aufbewahren möchten, können Sie eine Office 365 Aufbewahrungsrichtlinie verwenden, indem Sie [die folgenden Schritte](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)ausführen. Beachten Sie, dass für organisationsweite Aufbewahrungsrichtlinien neue Benutzer automatisch der Richtlinie zugewiesen werden.

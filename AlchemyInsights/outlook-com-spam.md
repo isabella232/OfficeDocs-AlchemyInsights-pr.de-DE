@@ -1,34 +1,29 @@
 ---
-title: Outlook.com-Spam und Junk-e-Mail
+title: Umgang mit Spam und Junk in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 6/10/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000290
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 31d81e48cfbc02ad5f93faf1aa707f98a3c67f8e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1896"
+- "9000290"
+ms.openlocfilehash: 37e37c7c810ef23182d6d31eec14b0dfa01b615e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373531"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372008"
 ---
-# <a name="spam-and-junk-email-in-outlookcom"></a>Spam-und Junk-e-Mails in Outlook.com
+# <a name="mark-email-messages-as-junk"></a>E-Mail-Nachrichten als Junk markieren
 
-So markieren Sie eine e-Mail als Junk-e-Mail oder als Spam:
+Wenn Sie eine Nachricht als Junk-e-Mail oder Spam markieren möchten, wählen Sie die Nachricht in Ihrer Nachrichtenliste aus, und wählen Sie **Junk** > **Junk**aus.
 
-1. Wählen Sie die Nachrichten in der Nachrichtenliste aus.
-1. Wählen Sie über der Nachrichtenliste **Junk** > -**e**-Mail aus.
+Wenn Sie alle Nachrichten von einer bestimmten e-Mail-Adresse blockieren möchten, wählen Sie die Nachricht oder Nachrichten in der Nachrichtenliste aus, und wählen Sie dann **Junk** > -**Block**aus.
 
-**Hinweis:** Wenn Sie feststellen, dass es sich bei einer e-Mail-Nachricht nicht um Spam handelt, wählen Sie die Nachricht erneut aus ( **** > Sie befindet sich in Ihrem Junk-e-Mail-Ordner), und wählen Sie Junk**Not**Junk Elemente in Ihrem Junk-e-Mail-Ordner werden nach 30 Tagen gelöscht.  [Erfahren Sie mehr darüber, wie Sie Spam-und Junk-e-Mails aus ihrem Outlook.com-Posteingang heraushalten können.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)
+Wenn Sie eine Nachricht versehentlich als Junk markieren, wählen Sie die Nachricht in Ihrem [Junk-e-Mail-Ordner](https://outlook.live.com/mail/junkemail) aus, und wählen Sie **nicht** > Junk**nicht**Junk aus. (*Hinweis:* Elemente in Ihrem Junk-e-Mail-Ordner werden nach 30 Tagen gelöscht.)
 
-So blockieren Sie alle Nachrichten aus bestimmten e-Mail-Adressen oder Domänen:
-
-1. Wählen Sie die Nachrichten in Ihrer Nachrichtenliste aus, und wählen Sie dann **Junk** > **-Block** > **OK**aus. (Wenn die e-Mail-Nachricht bereits in einem neuen Fenster geöffnet ist, wird der **Block** als Option am oberen Rand des Fensters angezeigt.)
-1. Öffnen Sie Ihre [Junk-e-Mail-Einstellungen](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2), geben Sie die e-Mail-Adresse **** > oder Domäne ein, die Sie blockieren möchten, und klicken Sie auf**Speichern**.
-1. In Ihren [Junk-e-Mail-Filtern](https://outlook.live.com/mail/options/mail/junkEmail/filtersOption)können Sie auswählen, dass nur e-Mails von Adressen in der Liste der sicheren Absender und Domänen und sicheren Mailinglisten vertrauenswürdig sind.
-
-[Erfahren Sie mehr über das Blockieren oder Entsperren von Absendern in Outlook.com.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e)
+Weitere Informationen finden Sie unter [kennzeichnen von e-Mails als Junk-e-Mail oder Blockieren von Absendern in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).

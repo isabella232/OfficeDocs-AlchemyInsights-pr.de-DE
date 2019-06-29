@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 9a516f6ca1fa351f8484271da0bdc47ba7f12447
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: f74846f805789731305fa321799007c151309033
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34883160"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358900"
 ---
 # <a name="activate-visio"></a>Aktivieren von Visio
 
@@ -27,8 +27,8 @@ Damit ein Benutzer die Desktop-Visio-Desktop-App, die in seinem Visio Online-Pla
 
 So aktivieren Sie Visio:
 
-1. [Installieren Sie Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) , wenn es nicht bereits installiert ist.
-2. Wenn die Installation abgeschlossen ist, öffnen Sie Visio. In vielen Fällen wird die APP automatisch aktiviert, und Sie können sofort mit der Verwendung von Visio beginnen. Wenn Sie zur Anmeldung aufgefordert werden, müssen Sie sich mit dem gleichen Arbeits-oder Schulkonto anmelden, das mit einer Visio-Lizenz versehen wurde. 
+1. Installieren Sie Visio aus Ihrem [Konto Portal](https://portal.office.com/account#installs) , falls es nicht bereits installiert ist. Hilfe finden Sie unter [Installieren von Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+2. Wenn die Installation abgeschlossen ist, öffnen Sie die Visio-app. Visio wird wahrscheinlich automatisch aktiviert, und Sie können sofort damit beginnen, es zu verwenden. Wenn dies nicht der Fall ist, werden Sie möglicherweise aufgefordert, sich anzumelden. Achten Sie darauf, sich mit dem gleichen Büro-oder Schulkonto anzumelden, dem eine Visio-Lizenz zugewiesen wurde. Befolgen Sie die Anweisungen, um die Aktivierung fortzusetzen. 
 
 Führen Sie bei Aktivierungsproblemen die [Aktivierungsproblem Behandlung](https://aka.ms/SARA-OfficeActivation-Alchemy) auf dem betroffenen Computer aus.
 

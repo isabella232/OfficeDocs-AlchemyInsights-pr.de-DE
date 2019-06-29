@@ -8,14 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000064
-ms.openlocfilehash: e3a25e2719543f5e45150f4eeb8d772d7901033b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1136"
+- "8000064"
+ms.openlocfilehash: 8f7c27368c580986510e6ce80fd2ee7b3b1e1858
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418936"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35374888"
 ---
-# <a name="problemas-de-sincronizacin-del-correo-electrnico"></a>Probleme de sincronización del correo electrónico
+# <a name="problemas-de-sincronizacin-del-correo-electrnico"></a>Problems de sincronización del correo electrónico
 
-Si No puede envir o recibir correo electrónico, o no puede Nektar eine Outlook.com, pruebe estas [Soluciones](https://support.office.com/es-es/article/solución-de-problemas-de-sincronización-del-correo-electrónico-de-outlook-com-d39e3341-8d79-4bf1-b3c7-ded602233642?ui=es-ES&rs=es-ES&ad=ES).
+Si No puede envir o recibir correo electrónico, o no puede nektarisieren einer Outlook.com, pruebe [estas Soluciones](https://support.office.com/es-es/article/solución-de-problemas-de-sincronización-del-correo-electrónico-de-outlook-com-d39e3341-8d79-4bf1-b3c7-ded602233642?ui=es-ES&rs=es-ES&ad=ES).

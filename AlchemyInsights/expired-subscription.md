@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "456"
+- "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 3a2f33686c2d9fd6803c0a5fc208a2e6bd80cd4b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a32b3df7df1975b69d3c618195ab3dab3a8da51c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32402096"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35388028"
 ---
 # <a name="expired-subscription"></a>Abgelaufenes Abonnement
 
-Es wird angezeigt, dass Sie über ein oder mehrere abgelaufene Abonnements verfügen. Wenn Sie den Dienst fortsetzen möchten, müssen Sie das Abonnement erneut aktivieren oder einen neuen Kauf tätigen.
+Es wird angezeigt, dass Sie über mindestens ein abgelaufenes Abonnement verfügen. Wenn Sie den Dienst fortsetzen möchten, müssen Sie das Abonnement erneut aktivieren oder einen neuen Einkauf tätigen.
   
  **Reaktivieren**
   
 1. Wechseln Sie im Admin Center zur Seite [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), oder wählen Sie **Abrechnung** \> **Abonnements** aus.
-    
-2. Wählen Sie das Abonnement aus, das erneut aktiviert werden soll.
-    
-3. Klicken Sie auf der rechten **** Seite auf reaktivieren.
-    
- **Erstellen eines neuen Kaufs**
-  
-1. Wechseln Sie im Admin Center zur Seite [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) , oder wählen Sie **Billing** \> **Purchase Services**aus.
-    
-2. Wählen Sie ein Abonnement aus, das Sie erwerben möchten.
-    
-3. Bewegen Sie den Mauszeiger über die Kachel, und wählen Sie **Jetzt kaufen**aus.
-    
 
+2. Wählen Sie das Abonnement aus, das reaktiviert werden soll.
+
+3. Wählen Sie auf der rechten **** Seite reactivate aus.
+
+ **Einen neuen Einkauf tätigen**
+  
+1. Wechseln Sie im Admin Center zur Seite " [Einkaufsdienste](https://go.microsoft.com/fwlink/p/?linkid=868433) ", oder wählen Sie " **Abrechnungs** \> **Kauf Dienste**" aus.
+
+2. Wählen Sie ein Abonnement aus, das Sie kaufen möchten.
+
+3. Zeigen Sie auf die Kachel, und wählen Sie **Jetzt kaufen**aus.

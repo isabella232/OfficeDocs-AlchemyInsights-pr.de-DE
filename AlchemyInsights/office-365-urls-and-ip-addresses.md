@@ -1,5 +1,5 @@
 ---
-title: Office 365-URLs und-IP-Adressen
+title: Office 365 von URLs und IP-Adressen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,17 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "287"
+- "827"
+- "1600028"
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
-ms.openlocfilehash: 16d52acc83f2074236c79493ebd64ae3fd9eec37
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 64db615ffe29b9ea72bcba6d0490f0c8bd4f7fe5
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389154"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35378560"
 ---
 # <a name="office-365-urls-and-ip-address-ranges"></a>URLs und IP-Adressbereiche für Office 365
 
-Office 365 erfordert eine Verbindung mit dem Internet. Die Endpunkte in diesem Artikel, [office 365-URLs und IP-Adressbereiche](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service), müssen für Benutzer für den Zugriff auf Office 365 erreichbar sein.
-  
-
+Für Office 365 ist eine Verbindung mit dem Internet erforderlich. Die Endpunkte in diesem Artikel [Office 365 URLs und IP-Adressbereiche](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service)müssen für Benutzer erreichbar sein, um auf Office 365 zugreifen zu können.

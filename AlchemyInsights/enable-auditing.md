@@ -9,24 +9,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 286
+ms.custom:
+- "286"
+- "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 4f5829ac1ecc7d01575df360929d1a775e626e2a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 84794755f7756838393f11d617fcc8a5e3748e9f
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398925"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35388460"
 ---
 # <a name="search-the-audit-log"></a>Durchsuchen des Überwachungsprotokolls
 
-Gehen Sie folgendermaßen vor, um das [](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)Office 365-Überwachungsprotokoll zu durchsuchen. 
+Führen Sie die [folgenden Schritte aus](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log), um das Office 365 Überwachungsprotokoll zu durchsuchen.
 
 **Exchange**
 
-- Exchange-Verwaltungsaktivitäten werden standardmäßig überwacht.
+- Exchange-Administratoraktivitäten werden standardmäßig überwacht.
 
-- Wir aktivieren die postfachüberwachung standardmäßig in Office 365. Lesen Sie [diesen Artikel](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing), um die Überwachung für ein einzelnes Postfach oder für alle Postfächer in Ihrer Organisation zu aktivieren.
+- Wir sind dabei, die postfachüberwachung in Office 365 standardmäßig zu aktivieren. Um die Überwachung für ein einzelnes Postfach oder für alle Postfächer in Ihrer Organisation zu aktivieren, lesen Sie [diesen Artikel](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
 - Office 365 Gruppen Postfächer und Postfächer für Öffentliche Ordner in Exchange Online unterstützen keine Überwachungsprotokollierung.
 
@@ -34,13 +36,13 @@ Gehen Sie folgendermaßen vor, um das [](https://docs.microsoft.com/office365/se
 
 - Es ist keine zusätzliche Konfiguration erforderlich, um die Überwachung für SharePoint und OneDrive zu aktivieren.
 
-- SharePoint und OneDrive unterstützen die Überwachung der folgenden Aktivitätstypen: 
+- SharePoint und OneDrive unterstützen die Überwachung der folgenden Aktivitätstypen:
 
     - Datei-, Ordner-und Seiten Aktivitäten
     - Freigabe-und Zugriffs Anforderungs Aktivitäten
-    - Aktivitäten der Websiteverwaltung
+    - Website Verwaltungsaktivitäten
     - Datei Synchronisierungsaktivitäten
 
-- Informationen zu überwachten Aktivitäten in anderen Office 365-Diensten finden Sie [in der Tabelle in diesem Artikel](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
+- Informationen zu überwachten Aktivitäten in anderen Office 365 Diensten finden Sie [in der Tabelle in diesem Artikel](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
 
-- Hier finden Sie eine Liste häufig gestellter Fragen zu häufig gestellten [Fragen](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) zum Durchsuchen des Überwachungsprotokolls.
+- Hier eine Liste mit häufig gestellten Fragen, [häufig gestellte Fragen](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) zum Durchsuchen des Überwachungsprotokolls.

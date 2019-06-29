@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "257"
+- "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: fb585c2aa6317ef89c939680246506d2c86bbf67
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: c4771f8a66d131d08a558a216c1d75869fbc13a3
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32396758"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359345"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Kauf eines Abonnements von Office 365 Home aus Ihrer kostenlosen Testversion heraus
 
@@ -25,19 +27,17 @@ ms.locfileid: "32396758"
  **Sie können den gleichen Plan wie Ihre Testversion kaufen.**
   
 1. Wechseln Sie im Admin Center zur Seite [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), oder wählen Sie **Abrechnung** \> **Abonnements** aus.
-    
-2. Wählen Sie **Jetzt kaufen** für das gewünschte Testabonnement aus, und führen Sie die Schritte zum Auschecken aus. 
-    
-oder **Sie können ein anderes Abonnement erwerben**
+
+2. Wählen Sie **Jetzt kaufen** für das gewünschte Testabonnement aus, und führen Sie die Schritte zum Auschecken aus.
+
+oder **Sie können ein anderes Abonnement kaufen** .
   
 1. Melden Sie sich bei Office 365 mit Ihrem Firmen- oder Schulkonto als globaler Administrator an. [Hier erfahren Sie, wie Sie sich anmelden.](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4)
-    
-2. Wählen Sie **Office 365** auf der Startseite aus. 
-    
-3. Wählen Sie oben rechts auf der Seite unter der Navigationsleiste **kaufen**aus.
-    
-4. Auf der Seite **Abonnements erwerben** enthält der Plan, den Sie versuchen, ein Banner **in der Testversion** . 
-    
-5. Wählen Sie **Jetzt kaufen** für das gewünschte Testabonnement aus, und führen Sie die Schritte zum Auschecken aus. 
-    
 
+2. Wählen Sie auf der Startseite **Office 365** aus.
+
+3. Klicken Sie in der rechten oberen Ecke der Seite unter der Navigationsleiste auf **kaufen**.
+
+4. Auf der Seite " **Abonnements kaufen** " verfügt der Plan, den Sie versuchen, über ein **Test** -Banner.
+
+5. Wählen Sie **Jetzt kaufen** für das gewünschte Testabonnement aus, und führen Sie die Schritte zum Auschecken aus.

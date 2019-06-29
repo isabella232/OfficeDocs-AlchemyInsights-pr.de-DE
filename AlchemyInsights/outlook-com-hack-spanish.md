@@ -1,5 +1,5 @@
 ---
-title: 8000066-Rule 2-Outlook.com gehackt-Spanisch
+title: 8000066-Regel 2-Outlook.com gehackt-Spanisch
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -8,17 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000066
-ms.openlocfilehash: c48f936ab8ce1a643118040af85a336c4bd94b2f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1139"
+- "1140"
+- "8000066"
+- "8000067"
+ms.openlocfilehash: 70bffbce3214158ac258622e10e0d68bd60532ac
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419027"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35374708"
 ---
 # <a name="han-pirateado-mi-cuenta-de-outlookcom"></a>Han Pirateado mi cuenta de Outlook.com
 
-Si su cuenta se ha Pirateado significa que alguien robó La Contraseña y es que esté usando La cuenta Para obtener acces a su información Personal o envir Correo No Río Deseado.
+Si su cuenta se ha Pirateado significa que alguien robó La Contraseña y es que esté usando La cuenta Para obtener acceso a su información Personal o envil Correo No Río Deseado.
 
 [Siga las instrucciones para recuperar su cuenta.](https://support.office.com/es-es/article/han-pirateado-mi-cuenta-de-outlook-com-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=es-ES&rs=es-ES&ad=ES)
 

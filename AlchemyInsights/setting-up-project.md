@@ -7,20 +7,23 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "33"
+- "1600006"
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
 description: Ziel nicht mehr als 500 Wörter für einen Artikel.
-ms.openlocfilehash: fed43928bcf8a232901c0679376fed3f43705265
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 944387230dc641af258e101de672430b49da5935
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32421419"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35355084"
 ---
 # <a name="setting-up-project"></a>Einrichten des Projekts
 
-Sie benötigen Hilfe beim Einrichten von Project mit Ihrem Office 365-Abonnement.
-Hinweis für Mac-Benutzer: das Projekt Produkt ist derzeit nicht für MacOS verfügbar. Wenn Sie einen PC haben, sollten Sie in der Lage sein, die Software mithilfe der folgenden Schritte zu installieren.
+Sieht so aus, als benötigen Sie Hilfe beim Einrichten von Project mit Ihrem Office 365-Abonnement.
+Hinweis für Mac-Benutzer: das Projekt Produkt steht derzeit nicht für MacOS zur Verfügung. Wenn Sie über einen PC verfügen, sollten Sie die Software mithilfe der folgenden Schritte installieren können.
   
-Führen Sie die Schritte in [diesem Artikel](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)aus, um das Setup abzuschließen.
+Sie können die Schritte in [diesem Artikel](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)befolgen, um das Setup abzuschließen.
   
-Wenn während der Installation Fehler auftreten, installieren Sie [Project mit dem Support-und Wiederherstellungs-Assistenten](https://aka.ms/SaRA-ProjectSetupScenario) .
+Wenn während des Setups Fehler auftreten, [Installieren Sie Project mithilfe des Support-und Wiederherstellungs-Assistenten](https://aka.ms/SaRA-ProjectSetupScenario) .

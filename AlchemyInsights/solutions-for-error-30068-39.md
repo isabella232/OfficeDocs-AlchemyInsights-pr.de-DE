@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "833"
+- "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 4d41c7a5ed053d5d2a4cd3dd11be94cb74649c87
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 07c593d439a9954c70c1a41539a624a7a97c47e3
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373783"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35368152"
 ---
 # <a name="solutions-for-error-30068-39"></a>Lösungen für Fehler 30068-39
 
-Probieren Sie diese Lösungen aus, um den Fehler [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA)zu beheben:
+Versuchen Sie es mit diesen Lösungen, um den Fehler [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA)zu beheben:
   
-- Starten Sie den Computer neu, und versuchen Sie, [Office zu installieren](https://portal.office.com/OLS/MySoftware.aspx).
-    
-- Überprüfen Sie, ob der **Microsoft-Klick-und-Los-**[Dienst deaktiviert ist](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) und ob er deaktiviert ist, indem Sie den Status in **manuell** oder **automatisch**ändern.
-    
-- Herunterladen und Installieren des [Support-und](https://aka.ms/SARA-OfficeUninstall-Alchemy)Wiederherstellungs-Assistenten.
-    
-1. Wenn er geöffnet wird, wählen Sie unter **Office-Produkte deinstallieren** die Version aus, die Sie deinstallieren möchten, und klicken Sie dann auf **weiter**. 
-    
-2. Fahren Sie weiter durch die Bildschirme, und starten Sie den Computer neu.
-    
-    Nach dem Neustart wird der Support-und wiederHerstellungs-Assistent automatisch wieder geöffnet, um den Deinstallationsvorgang abzuschließen.
-    
-3. Folgen Sie den verbleibenden Ansagen, und [Installieren Sie Office neu](https://portal.office.com/OLS/MySoftware.aspx) , oder schließen Sie den Assistenten. 
-    
+- Starten Sie Ihren Computer neu, und [Installieren Sie Office](https://portal.office.com/OLS/MySoftware.aspx).
 
+- Überprüfen Sie, ob der **Microsoft-Klick-und-Los**-[Dienst deaktiviert ist](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) und wenn er deaktiviert ist, und ändern Sie den Status in **manuell** oder **automatisch**.
+
+- Downloaden und installieren Sie den [Support-und](https://aka.ms/SARA-OfficeUninstall-Alchemy)Wiederherstellungs-Assistenten.
+
+1. Wenn es geöffnet wird, wählen Sie unter **Office-Produkte deinstallieren** die Version aus, die Sie deinstallieren möchten, und wählen Sie **weiter**aus.
+
+2. Fahren Sie fort, und starten Sie den Computer neu, wenn Sie dazu aufgefordert werden.
+
+    Nach dem Neustart wird der Support-und Wiederherstellungs-Assistent automatisch erneut geöffnet, um den Deinstallationsvorgang abzuschließen.
+
+3. Befolgten verbleibenden Eingabeaufforderungen, und [Installieren Sie Office](https://portal.office.com/OLS/MySoftware.aspx) oder schließen Sie den Assistenten.

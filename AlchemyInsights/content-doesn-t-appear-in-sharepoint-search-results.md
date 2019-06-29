@@ -1,5 +1,5 @@
 ---
-title: Inhalt wird nicht in SharePoint-Suchergebnissen angezeigt
+title: Inhalte werden nicht in SharePoint-Suchergebnissen angezeigt
 ms.author: tlarsen
 author: tklarsen
 ms.date: 1/8/2019
@@ -7,28 +7,30 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "750"
+- "5300017"
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: de607b75f973322359888c300ba1849e117d0092
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 8215b0a5cde5adffa3bec37d6699418557f914dd
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408071"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35363804"
 ---
-# <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Inhalt wird nicht in SharePoint-Suchergebnissen angezeigt
+# <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Inhalte werden nicht in SharePoint-Suchergebnissen angezeigt
 
-Führen Sie die folgenden Schritte zur Problembehandlung aus, wenn der erwartete Inhalt nicht in den Suchergebnissen angezeigt wird:
+Befolgen Sie diese Schritte zur Problembehandlung, wenn der erwartete Inhalt nicht in den Suchergebnissen angezeigt wird:
   
-1. Vergewissern Sie sich, dass die **Website** mit den erwarteten Inhalten so festgelegt ist, dass Inhalte in Suchergebnissen angezeigt werden. Führen Sie die Schritte unter [Anzeigen von Inhalten auf einer Website in Suchergebnissen](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results)aus.
-    
-2. Vergewissern Sie sich, dass die **Liste** oder **Bibliothek** , die den erwarteten Inhalt enthält, so festgelegt ist, dass Inhalte in Suchergebnissen angezeigt werden. Führen Sie die Schritte unter [Anzeigen von Inhalten aus Listen oder Bibliotheken in Suchergebnissen aus](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results). 
-    
-3. Stellen Sie sicher, dass das Seiten-, Dokument-oder benutzerdefinierte Seitenlayout als **Hauptversion** veröffentlicht wird. Folgen Sie Schritt 3 in [Suche gibt nicht alle Ergebnisse in SharePoint Online zurück](https://go.microsoft.com/fwlink/?linkid=874525).
-    
-4. Stellen Sie sicher, dass der Benutzer über die **Berechtigung** zum Anzeigen des Inhalts verfügt. Führen Sie die Schritte unter [Grundlegendes zu Berechtigungsstufen in SharePoint](https://go.microsoft.com/fwlink/?linkid=867071)aus.
-    
-5. Indizieren Sie die Inhalte **erneut** , indem Sie die Schritte unter [Manuelles anfordern von Durchforstung und Neuindizierung einer Website, einer Bibliothek oder einer Liste](https://docs.microsoft.com/sharepoint/crawl-site-content)ausführen. Dies kann eine Weile dauern, 24 Stunden warten, bevor Sie die Ergebnisse erneut überprüfen.
-    
-Weitere Informationen finden Sie unter [Aktivieren von Inhalten auf einer Website durchsuchbar](https://docs.microsoft.com/sharepoint/make-site-content-searchable). 
-  
+1. Stellen Sie sicher, dass die **Website** mit dem erwarteten Inhalt so festgelegt ist, dass Inhalte in den Suchergebnissen angezeigt werden können. Führen Sie die Schritte unter [Anzeigen von Inhalten auf einer Website in Suchergebnissen](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results)aus.
 
+2. Stellen Sie sicher, dass die **Liste** oder **Bibliothek** , die den erwarteten Inhalt enthält, so festgelegt ist, dass Inhalte in den Suchergebnissen angezeigt werden können. Führen Sie die Schritte unter [Anzeigen von Inhalten aus Listen oder Bibliotheken in Suchergebnissen aus](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results).
+
+3. Stellen Sie sicher, dass das Seiten-, Dokument-oder benutzerdefinierte Seitenlayout als **Hauptversion** veröffentlicht wird. Befolgen von Schritt 3 in der [Suche werden nicht alle Ergebnisse in SharePoint Online zurückgegeben](https://go.microsoft.com/fwlink/?linkid=874525).
+
+4. Stellen Sie sicher, dass der Benutzer über **Berechtigungen** zum Anzeigen des Inhalts verfügt. Befolgen Sie die Schritte unter [Grundlegendes zu Berechtigungsstufen in SharePoint](https://docs.microsoft.com/en-us/sharepoint/understanding-permission-levels).
+    
+5. Wenn das Suchschema durch Hinzufügen einer neuen verwalteten Eigenschaft, durch Bearbeiten einer verwalteten Eigenschaft oder durch Entfernen einer verwalteten Eigenschaft geändert wurde, müssen Sie eine Durchforstung und eine erneute Indizierung anfordern. Führen Sie die Schritte unter Manuelles anfordern des durch [forstens und erneuten Indizierens einer Website, einer Bibliothek oder einer Liste aus,](https://docs.microsoft.com/sharepoint/crawl-site-content)um den Inhalt **neu** zu indizieren. Dies kann eine Weile dauern, warten Sie 24 Stunden, bevor Sie die Ergebnisse erneut überprüfen.
+
+Weitere Informationen finden Sie unter [Aktivieren des Inhalts einer Website, um durchsuchbar zu sein](https://docs.microsoft.com/sharepoint/make-site-content-searchable). 
+  

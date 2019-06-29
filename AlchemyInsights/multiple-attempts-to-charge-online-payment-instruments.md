@@ -1,5 +1,5 @@
 ---
-title: Mehrere Versuche, Online-Zahlungsinstrumente zu berechnen
+title: Mehrere Versuche zum aufpreisen von Online Zahlungsinstrumenten
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "445"
+- "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 5d9acc81b18bc8f71efa5f8aea00bbb008672efc
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7738636d8004e6f64c8cafa9ad4edab03f775040
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417749"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35379280"
 ---
-# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Mehrere Versuche, Online-Zahlungsinstrumente zu berechnen
+# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Mehrere Versuche zum aufpreisen von Online Zahlungsinstrumenten
 
-Es wird mehrfach versucht, Online-Zahlungsinstrumente zu berechnen, bevor eine Aktion für den Dienst ausgeführt wird. Nachdem eine Zahlungsmethode ausgewählt wurde, müssen alle überfälligen Beträge mit der ausgewählten Zahlungsmethode bezahlt werden. Wenn Sie die aktuellen Zahlungsinformationen für Ihr Abonnement aktualisieren möchten, führen Sie die Schritte unter [hinzufügen, aktualisieren oder Entfernen einer Kreditkarte oder eines Bankkontos in Office 365 for Business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724)aus.
+Wir machen mehrere Versuche, Online Zahlungsinstrumente zu belasten, bevor wir auf den Dienst reagieren. Nachdem eine Zahlungsmethode ausgewählt wurde, müssen alle überfälligen Beträge mit der ausgewählten Zahlungsmethode bezahlt werden. Um die aktuellen Zahlungsinformationen für Ihr Abonnement zu aktualisieren, führen Sie die Schritte unter [hinzufügen, aktualisieren oder Entfernen einer Kreditkarte oder eines Bankkontos in Office 365 für Unternehmen](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724)aus.
   
-

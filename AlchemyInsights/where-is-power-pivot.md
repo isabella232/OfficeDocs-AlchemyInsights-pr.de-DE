@@ -9,35 +9,37 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "144"
+- "145"
+- "146"
+- "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 1ff407cea0a992ca4236218cfdf93ec315e723a9
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 31487d8ca65974497bb1edbf2b0204abd11cb87b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422786"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35365108"
 ---
 # <a name="where-is-power-pivot"></a>Wo befindet sich Power Pivot?
 
 Es gibt drei Gründe, warum Power Pivot nicht angezeigt wird:
   
- **Ihre Version von Excel enthält Sie nicht**
+**Ihre Version von Excel enthält Sie nicht**
   
-Nicht alle Versionen von Excel schließen Power Pivot ein. Sie müssen ein Upgrade auf eine Office-Version mit Power Pivot durchführen. [Überprüfen Sie die Liste der unterstützten Versionen.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
+Nicht alle Versionen von Excel enthalten Power Pivot. Sie müssen ein Upgrade auf eine Version von Office durchführen, die Power Pivot enthält. [Überprüfen Sie die Liste der unterstützten Versionen.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
   
- **Sie haben Power Pivot nicht aktiviert.**
+**Power Pivot wurde nicht aktiviert.**
   
 Wenn Sie in einer Excel-Version arbeiten, die Power Pivot unterstützt, überprüfen Sie, ob das Add-in aktiviert ist:
   
-1. Wählen Sie **Datei** \> **Optionen** \> **-Add-ins**aus.
-    
-2. Wählen Sie im Dropdownfeld **Verwalten** die Option **com-Add-ins** aus, und klicken Sie auf **Gehe**zu.
-    
-3. Aktivieren Sie im Dialogfeld **com-Add-ins** das Kontrollkästchen neben **Microsoft Power Pivot für Excel**, und klicken Sie dann auf **OK**. 
-    
- **Sie haben mehrere Abonnements oder Konten**
-  
-Möglicherweise haben verschiedene Office 365-Abonnements verschiedenen Benutzerkonten zugewiesen. Stellen Sie sicher, dass Sie bei einem Konto mit einer Version von Excel angemeldet sind, die Power Pivot unterstützt. Überprüfen Sie die Liste der [unterstützten Versionen](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx), und befolgen Sie die Anweisungen, um [zwischen verschiedenen Office-Konten zu wechseln](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).
-  
+1. Wählen Sie **Add-ins**für **Datei** \> **Optionen** \> aus.
 
+2. Wählen Sie im Dropdownfeld **Verwalten** die Option **com-Add-ins** aus, und klicken Sie auf **Gehe**zu.
+
+3. Aktivieren Sie im Dialogfeld **com-Add-ins** das Kontrollkästchen neben **Microsoft Power Pivot für Excel**, und klicken Sie dann auf **OK**.
+
+**Sie haben mehrere Abonnements oder Konten**
+  
+Möglicherweise haben Sie unterschiedliche Office 365 Abonnements, die verschiedenen Benutzerkonten zugewiesen sind. Stellen Sie sicher, dass Sie bei einem Konto mit einer Excel-Version angemeldet sind, die Power Pivot unterstützt. Überprüfen Sie die Liste der [unterstützten Versionen](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx), und befolgen Sie die Anweisungen, um [zwischen verschiedenen Office-Konten zu wechseln](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).

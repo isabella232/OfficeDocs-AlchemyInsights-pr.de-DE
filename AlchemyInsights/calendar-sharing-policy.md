@@ -12,14 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "618"
 - "899"
+- "3800014"
 ms.assetid: bc3db17b-87f8-4e50-b3ee-8b105b70d67a
-ms.openlocfilehash: 04bf66956cf7a92917d023082ad72a3cb51a41de
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: c405904b19db1d6c0fe7b484a71ebd977eeabaa0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32396181"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359908"
 ---
 # <a name="policy-error-when-sharing-a-calendar"></a>Richtlinienfehler beim Freigeben eines Kalenders
 
-Wenn Sie versuchen, Ihren Kalender freizugeben, und die Fehlermeldung angezeigt wird: "Richtlinie lässt nicht zu, dass Berechtigungen auf dieser Ebene einem oder mehreren Empfängern erteilt werden", finden Sie in [diesem Thema](https://support.microsoft.com/help/3187524/policy-does-not-allow-granting-permissions-at-this-level-to-one-or-mor).
+Wenn Sie versuchen, Ihren Kalender freizugeben, und Sie erhalten den Fehler "Richtlinie lässt die Gewährung von Berechtigungen auf dieser Ebene an mindestens einen der Empfänger nicht zu (en)", lesen Sie [dieses Thema](https://support.microsoft.com/help/3187524/policy-does-not-allow-granting-permissions-at-this-level-to-one-or-mor).

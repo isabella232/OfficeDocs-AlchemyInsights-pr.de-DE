@@ -1,5 +1,5 @@
 ---
-title: Installieren von Mac Office aus dem Portal
+title: Vorgehensweise zum Installieren von Mac Office aus dem Portal
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,21 +10,22 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9b3a36d7-9d59-424f-91f4-5cd58a878ef8
-ms.custom: 647
-ms.openlocfilehash: 08d11a8ccb016c28d3ce0e444b0d33ad73bc6354
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "647"
+- "2000016"
+ms.openlocfilehash: 0ee6319e09d08815d6fd96d68fc193bdbe2998a6
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417569"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35384601"
 ---
-# <a name="how-to-install-mac-office-from-the-portal"></a>Installieren von Mac Office aus dem Portal
-
+# <a name="how-to-install-mac-office-from-the-portal"></a>Vorgehensweise zum Installieren von Mac Office aus dem Portal
 
 1. [Deinstallieren Sie Office 2011 für Mac auf ihren Computern](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).
-    
-2. [Stellen Sie sicher, dass Mac-Software-Downloads im Office 365-Administratorportal aktiviert sind](https://support.office.com/article/c13051e6-f75c-4737-bc0d-7685dcedf360?wt.mc_id=Alchemy_ClientDIA).
-    
+
+2. [Stellen Sie sicher, dass die Mac-Software Downloads im Office 365-Verwaltungsportal aktiviert sind](https://support.office.com/article/c13051e6-f75c-4737-bc0d-7685dcedf360?wt.mc_id=Alchemy_ClientDIA).
+
 3. [Weisen Sie Ihren Mac-Benutzern eine Office-Lizenz zu](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA).
-    
-4. Benutzer können dann die Office-Software selbst installieren, oder Sie können [Office für Mac-Benutzer bereitstellen](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).
+
+4. Benutzer können dann die Office-Software selbst installieren, oder Sie können [Office für Ihre Mac-Benutzer](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac)einsetzen.

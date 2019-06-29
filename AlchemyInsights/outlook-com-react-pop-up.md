@@ -1,5 +1,5 @@
 ---
-title: 8000091 Outlook.com reagieren
+title: 8000091 Outlook.com reagieren Popup
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -8,18 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000091
-ms.openlocfilehash: f68a4d947c1698eadae9b4a8f8f4e01331c5211d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1412"
+- "1413"
+- "8000091"
+ms.openlocfilehash: e2347c94ac3741e8e455cab81db68ca7e747205d
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392098"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373160"
 ---
-# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com ist bereit für Prime Time
+# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com ist für Prime Time verfügbar
 
-Es ist uns klar, dass einige Kunden bei jeder Anmeldung die Meldung "Outlook.com ist bereit für Prime Time" sehen, und wir arbeiten an einer Lösung.
+Wir sind uns bewusst, dass einige Kunden bei jeder Anmeldung das Popup "Outlook.com is ready for Prime Time" sehen können, und wir arbeiten an einer Lösung.
 
-Tut mir leid.
+Das tut mir leid.
 
-[Erfahren Sie mehr über das neue Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=2001300)
+[Erfahren Sie mehr über die neuen Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=2001300)

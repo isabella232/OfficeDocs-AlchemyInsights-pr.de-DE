@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 9000339
-ms.openlocfilehash: 744857bb459e8f0b01848f9df0c89a2eb84faa88
-ms.sourcegitcommit: 1f3c9a60b041cc26c09fbc6485b92a8e44f500d6
+ms.custom:
+- "1968"
+- "9000339"
+ms.openlocfilehash: 1313c16454bd23c245d971963bbfab1fc3fa224a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33527408"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375032"
 ---
 # <a name="facebook-notifications"></a>Facebook-Benachrichtigungen
 
@@ -25,5 +27,5 @@ Wenn Sie keine Benachrichtigungen von Facebook erhalten möchten, können Sie Ih
 1. Wählen Sie **neue Regel hinzufügen**aus.
 1. Nennen Sie Ihre Regel "Facebook".
 1. Fügen Sie eine Bedingung von "from" hinzu, und geben Sie "Notification@facebookmail.com" ein.
-1. Fügen Sie eine Aktion von "Delete" hinzu. Durch Auswählen von DELETE werden die Nachrichten in Ihren gelöschten Elementen verbleiben und können wiederhergestellt werden. Wenn Sie "als Junk markieren" auswählen, werden die Nachrichten automatisch gelöscht und können nicht wiederhergestellt werden.
+1. Fügen Sie eine Aktion von "Delete" hinzu. Die Auswahl von DELETE bedeutet, dass die Nachrichten in Ihren gelöschten Elementen verbleiben und wiederhergestellt werden können. Wenn Sie "als Junk-e-Mail markieren" auswählen, werden die Nachrichten automatisch gelöscht und können nicht wiederhergestellt werden.
 1. Klicken Sie auf **Speichern**.

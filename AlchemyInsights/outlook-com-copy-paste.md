@@ -6,20 +6,22 @@ manager: joallard
 ms.date: 3/21/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000303
+ms.custom:
+- "1920"
+- "9000303"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 08ed0835415d879d196f67567eed5c538e3a67df
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ba51aa82b1eb98ecedcbf779301daa8beafb2f25
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418178"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375608"
 ---
 # <a name="copy-and-paste-in-outlookcom"></a>Kopieren und Einfügen in Outlook.com
 
-Es gibt keine Schaltflächen zum Kopieren oder Einfügen in Outlook.com, Sie können jedoch Tastenkombinationen verwenden:
+Es gibt keine Schaltflächen kopieren oder Einfügen in Outlook.com, aber Sie können Tastenkombinationen verwenden:
 
-**Auf einem PC:** STRG + C zum Kopieren, STRG + X zum Ausschneiden und STRG + V zum Einfügen.
+**Auf einem PC:** STRG + C zu kopieren, STRG + X zum Ausschneiden und STRG + V zum Einfügen.
 
-**Auf einem Mac:** CMD + C zum Kopieren, CMD + X zum Ausschneiden und CMD + V zum Einfügen.
+**Auf einem Mac:** CMD + C to Copy, CMD + X to Cut und CMD + V zum Einfügen.

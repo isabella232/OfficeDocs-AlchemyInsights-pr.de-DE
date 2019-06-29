@@ -1,26 +1,34 @@
 ---
-title: Outlook.com Beenden von Nachrichten in den Junk-Ordner
+title: Beenden von Nachrichten an den Junk-e-Mail-Ordner in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 5/16/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000290
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: a45058474722af57b772cf6637195aa475faa045
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1897"
+- "9000290"
+ms.openlocfilehash: 835efcaa5b86feb38285f51aaea492cfefd8e339
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373243"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371792"
 ---
-# <a name="stop-messages-going-to-your-junk-email-folder"></a>Anhalten von Nachrichten in Ihrem Junk-e-Mail-Ordner
+# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Beenden von Nachrichten an den Junk-e-Mail-Ordner
 
-Wenn Sie feststellen, dass eine e-Mail-Nachricht in Ihrem Junk-e-Mail-Ordner kein Spam oder Junk war:
+Wenn Sie feststellen, dass eine e-Mail-Nachricht in Ihrem Junk-e-Mail-Ordner nicht Junk ist:
 
-1. Öffnen Sie Ihren [Junk-e-Mail-Ordner](https://outlook.live.com/mail/junkemail) , und wählen Sie die Nachricht aus. (Elemente in Ihrem Junk-e-Mail-Ordner werden nach 30 Tagen gelöscht.)
-1. Wählen Sie oberhalb der Nachrichtenliste **nicht Junk** > **nicht**Junk aus.
-1. Öffnen Sie Ihre [Junk-e-Mail-Einstellungen](https://go.microsoft.com/fwlink/?linkid=2035804).
-1. Geben Sie unter **sichere Absender**die e-Mail-Adresse oder Domäne ein, die Sie hinzufügen möchten, und wählen Sie **Hinzufügen**aus. E-Mails von Adressen oder Domänen in der Liste sicherer Absender werden nicht in Ihren Junk-e-Mail-Ordner verschoben.
+1. Öffnen Sie den [Ordner Junk-e-Mail](https://outlook.live.com/mail/junkemail).
+1. Wählen Sie die Nachricht aus. (*Hinweis:* Elemente in Ihrem Junk-e-Mail-Ordner werden nach 30 Tagen gelöscht.)
+1. Wählen Sie oberhalb der Nachrichtenliste die Option **Junk** > ****-und nicht-Junk-e-Mail.
+
+Wenn Sie verhindern möchten, dass Nachrichten von einem Absender an den Junk-e-Mail-Ordner gesendet werden, fügen Sie den Absender zur Liste sicherer Absender hinzu:
+
+1. Öffnen Sie die [Junk-e-Mail-Einstellungen](https://go.microsoft.com/fwlink/?linkid=2035804).
+1. Wählen Sie unter **sichere Absender und Domänen**die Option **Hinzufügen**aus, geben Sie die e-Mail-Adresse oder Domäne ein, die Sie hinzufügen möchten, und klicken Sie dann auf **Speichern**.
+
+Weitere Informationen finden Sie unter [kennzeichnen von e-Mails als Junk-e-Mail oder Blockieren von Absendern in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).

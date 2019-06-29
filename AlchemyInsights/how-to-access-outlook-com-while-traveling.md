@@ -1,44 +1,24 @@
 ---
-title: 8000056 Zugriff auf Outlook.com während der Reise
+title: Zugriff auf Outlook.com während der Reise
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 5/31/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/6/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000056
+ms.custom:
+- "921"
+- "8000056"
 ms.assetid: d497edc0-f945-4c45-9fe0-f7060c259848
-ms.openlocfilehash: 06ffae55cb9683eec2b0df2a87bf6ed4616c306e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 56a0df203b091d2e8addd01a9fcd297fe726ac84
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400130"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35385904"
 ---
 # <a name="how-to-access-outlookcom-while-traveling"></a>Zugriff auf Outlook.com während der Reise
 
-Stellen Sie sicher, dass Ihr Microsoft-Konto mit Sicherheitsinformationen – eine Alternative e-Mail-Adresse oder Telefonnummer, in der Sie Sicherheitscodes abrufen können – auf dem neuesten Stand ist, um auf Outlook.com zuzugreifen.
-  
-1. Wechseln Sie zur Seite [Sicherheitsgrundlagen](https://go.microsoft.com/fwlink/p/?linkid=842325) und melden Sie sich mit Ihrem Microsoft-Konto an. 
-    
-2. Wählen Sie **Update Info** \> **Hinzufügen von Sicherheitsinformationen**aus. 
-    
-3. BeFolgen Sie die Anweisungen, um Ihre e-Mail-Adresse oder Telefonnummer einzugeben. Microsoft sendet einen Sicherheitscode an die neue e-Mail-Adresse oder Telefonnummer.
-    
-4. Geben Sie den Sicherheitscode ein, und klicken Sie auf **weiter**. Ihre neuen Sicherheitsinformationen werden in der Liste angezeigt. 
-    
-Wenn Sie in Urlaub fahren und keine Sicherheitscodes erhalten können, machen Sie Ihr Gerät zu einem vertrauenswürdigen Gerät. Microsoft sendet Ihnen daher keine Authentifizierungscodes, wenn Sie sich auf diesem Gerät bei Outlook.com anmelden.
-  
-1. Gehen Sie auf dem Gerät, das Sie als vertrauenswürdiges Gerät erstellen möchten, auf die Seite [Sicherheitseinstellungen](https://go.microsoft.com/fwlink/p/?linkid=2002000&amp;clcid=0x409) , und melden Sie sich bei Ihrem Microsoft-Konto an. 
-    
-2. Wählen Sie aus, ob Sie einen Sicherheitscode per e-Mail, Text oder Authentifikator-APP erhalten möchten. Nachdem Sie den Code eingegeben haben, geben Sie ihn in das Textfeld ein.
-    
-3. Aktivieren Sie das Kontrollkästchen **I melden Sie sich häufig auf diesem Gerät an. Fragen Sie nicht nach einem Code.**
-    
-4. Wählen Sie **senden**aus. 
-    
-Verwenden Sie automatische Antworten, um Personen mitzuteilen, dass Sie nicht sofort auf Ihre Nachrichten antworten. Erfahren Sie, wie Sie [automatische Antworten in Outlook.com senden](https://go.microsoft.com/fwlink/p/?linkid=2002100&amp;clcid=0x409).
-  
-
+Wenn Sie auf Reisen Outlook.com zugreifen möchten, stellen Sie sicher, dass Ihre Microsoft-Konto Sicherheitsinformationen-eine Alternative e-Mail-Adresse oder Telefonnummer, unter der Sie Sicherheitscodes abrufen können-auf dem neuesten Stand sind. Weitere Informationen finden Sie unter [How to Access Outlook.com When Traveling](https://support.office.com/article/c44f16da-7156-4890-853c-286aafeda87e).

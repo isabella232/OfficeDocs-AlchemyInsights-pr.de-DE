@@ -10,28 +10,27 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "828"
+- "2000020"
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
-ms.openlocfilehash: 841e181243932bacb18bdb49508468db1da3c715
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 2252409775d3de9e02454b0d90902ab60c8b8317
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32421167"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35368332"
 ---
 # <a name="solutions-for-error-30016-4"></a>Lösungen für Fehler 30016-4
 
-
-Wenn Sie versuchen, Office 365 proPlus von einem Computer zu deinstallieren, und Sie die Fehlermeldung erhalten, **ging etwas schief 30016-4**, bedeutet dies, dass das Laufwerk **% Temp%** einem anderen Laufwerk als **% Programme%** zugeordnet ist.
+Wenn Sie versuchen, Office 365 ProPlus von einem Computer zu deinstallieren, und Sie die Fehlermeldung erhalten, **ging etwas falsch 30016-4**, bedeutet dies, dass das Laufwerk **% Temp%** einem anderen Laufwerk als **% Programme%** zugeordnet ist.
   
-So beheben, laden und installieren Sie den [Support-und](https://aka.ms/SARA-OfficeUninstall-Alchemy) Wiederherstellungs-Assistenten
+Zum beheben, herunterladen und Installieren des [Support-und](https://aka.ms/SARA-OfficeUninstall-Alchemy) Wiederherstellungs-Assistenten
   
-1. Wenn er geöffnet wird, wählen Sie unter **Office-Produkte deinstallieren** die Version aus, die Sie deinstallieren möchten, und klicken Sie dann auf **weiter**. 
-    
-2. Fahren Sie weiter durch die Bildschirme, und starten Sie den Computer neu.
-    
-    Nach dem Neustart wird der Support-und wiederHerstellungs-Assistent automatisch wieder geöffnet, um den Deinstallationsvorgang abzuschließen.
-    
-3. Folgen Sie den verbleibenden Ansagen, und [Installieren Sie Office neu](https://portal.office.com/OLS/MySoftware.aspx) , oder schließen Sie den Assistenten. 
-    
+1. Wenn es geöffnet wird, wählen Sie unter **Office-Produkte deinstallieren** die Version aus, die Sie deinstallieren möchten, und wählen Sie **weiter**aus.
 
+2. Fahren Sie fort, und starten Sie den Computer neu, wenn Sie dazu aufgefordert werden.
+
+    Nach dem Neustart wird der Support-und Wiederherstellungs-Assistent automatisch erneut geöffnet, um den Deinstallationsvorgang abzuschließen.
+
+3. Befolgten verbleibenden Eingabeaufforderungen, und [Installieren Sie Office](https://portal.office.com/OLS/MySoftware.aspx) oder schließen Sie den Assistenten.

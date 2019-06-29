@@ -1,5 +1,5 @@
 ---
-title: Aktivieren eines Microsoft Office 365-Volume-Lizenz Abonnements
+title: Aktivieren eines Microsoft Office 365 Volumenlizenzabonnements
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "481"
+- "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 25a501f6c07bfee15c18b0cce4f27dd2e6ec3e47
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6e47011a79db805085e16e520455b64b937f0c3b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389930"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358828"
 ---
-# <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Aktivieren eines Microsoft Office 365-Volume-Lizenz Abonnements
+# <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Aktivieren eines Microsoft Office 365 Volumenlizenzabonnements
 
-1. Melden Sie sich beim [VLSC-Portal (Volume Licensing Service Center)](http://go.microsoft.com/fwlink/p/?LinkId=329762)an.
-    
-2. Navigieren Sie zu Ihrem Office 365-Abonnement, und wählen Sie **aktivieren**aus.
-    
-3. Eine e-Mail wird an Ihren Online-Dienst (OLS)-Kontakt gesendet.
-    
-4. Die Aktivierungs-e-Mail bietet Ihnen zwei Optionen: **registrieren Sie sich**oder melden Sie sich **an**. Wenn Sie zuvor eine Testversion erstellt haben, wählen Sie **Anmelden aus**. Wenn Sie noch keinen Office 365-Mandanten haben, wählen Sie **registrieren**.
-    
-5. Melden Sie sich bei Office 365[https://portal.office.com](https://portal.office.com)() mit Ihren vorhandenen Office 365-Administratoranmeldeinformationen an. Nachdem Sie sich erfolgreich angemeldet haben, erhalten Sie eine weitere e-Mail, die Ihren Kauf bestätigt.
-    
-6. nachdem sie sich angemeldet haben, können sie zur seite [abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) wechseln oder **abrechnungs**  - \> **abonnements** wählen, um zu überprüfen, ob ihre erworbenen Office 365-abonnements innerhalb ihres mandanten aktiviert sind. (Sie können auch im VLSC auf die Registerkarte **Abonnement** klicken, um Details anzuzeigen, die sicherstellen, dass Ihr Abonnement hinterlegt wurde.) 
-    
+1. Melden Sie sich beim [Volume Licensing Service Center (VLSC)-Portal](http://go.microsoft.com/fwlink/p/?LinkId=329762)an.
 
+2. Navigieren Sie zu Ihrem Office 365 Abonnement, und wählen Sie **aktivieren**aus.
+
+3. Eine e-Mail wird an Ihren Online Dienste-Kontakt (OLS) gesendet.
+
+4. Die Aktivierungs-e-Mail stellt Ihnen zwei Optionen zur Verfügung: **registrieren**oder **Anmelden**. Wenn Sie zuvor eine Testversion erstellt haben, wählen Sie **Anmelden aus**. Wenn Sie noch keinen Office 365 Mandanten haben, wählen Sie **registrieren**aus.
+
+5. Melden Sie sich bei Office 365[https://portal.office.com](https://portal.office.com)() mit Ihren vorhandenen Office 365 Administratoranmeldeinformationen an. Nachdem Sie sich erfolgreich angemeldet haben, erhalten Sie eine weitere e-Mail, die Ihren Kauf bestätigt.
+
+6. Nachdem Sie sich angemeldet haben, können Sie zur Seite [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) wechseln oder die Option **Abrechnungs**  - \> **Abonnements** auswählen, um zu überprüfen, ob Ihre erworbenen Office 365 Abonnements in Ihrem Mandanten aktiviert sind. (Sie können auch die Registerkarte **Abonnement** in der VLSC auswählen, um Details anzuzeigen, die überprüfen, ob Ihr Abonnement hinterlegt wurde.) 

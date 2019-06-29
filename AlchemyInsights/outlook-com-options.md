@@ -9,16 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 9000202
-ms.openlocfilehash: b0363a27e87fa92672f514d728ec13dc89f4cbec
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1770"
+- "9000202"
+ms.openlocfilehash: 16ca62f924b9f253e30d90f1f147570151cdf787
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392431"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373736"
 ---
-# <a name="how-to-find-options-in-outlookcom-settings"></a>GeWusst wie Suchen von Optionen in Outlook.com-Einstellungen
+# <a name="how-to-find-options-in-outlookcom-settings"></a>Vorgehensweise suchen von Optionen in Outlook.com-Einstellungen
 
-Wählen Sie oben auf der Seite das Zahnradsymbol aus, um die Einstellungen zu öffnen. Klicken Sie unten im Bereich Einstellungen auf **alle Outlook-Einstellungen anzeigen**.
+Wählen Sie oben auf der Seite das Zahnradsymbol aus, um die Einstellungen zu öffnen. Wählen Sie unten im Bereich Einstellungen die Option [**alle Outlook-Einstellungen anzeigen**](https://outlook.live.com/mail/options/general/timeAndLanguage)aus.
 
-Dadurch werden Ihre allgemeinen, E-Mail, Kalender und (falls zutreffend) Premium-Einstellungen und-Optionen angezeigt.
+Dadurch werden Ihre allgemeinen, e-Mail-, Kalender-und (falls zutreffend) Premium-Einstellungen und-Optionen angezeigt.

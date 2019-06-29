@@ -8,16 +8,18 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000082
-ms.openlocfilehash: 2ef958ed8da16f7c0510b65e1ddec890b10c7c75
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1348"
+- "8000082"
+ms.openlocfilehash: 08ad9846feb52242459274f0ca75fa8facbd38e3
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392103"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372656"
 ---
 # <a name="skype-icon-missing"></a>Skype-Symbol fehlt
 
-Wir haben das Skype-Symbol vorübergehend aus Outlook.com als Teil einer Entwurfs Aktualisierung und eines Feature-Updates entfernt, die wir freuen uns auf die Einführung. Wir schätzen Ihre Geduld, während wir eine neue und verbesserte Erfahrung für Sie vorbereiten.
+Wir haben das Skype-Symbol aus Outlook.com vorübergehend als Teil einer Entwurfs Aktualisierung und eines Funktionsupdates entfernt, die wir mit Begeisterung für das Rollout bereitstellen möchten. Wir freuen uns über Ihre Geduld, während wir eine neue und verbesserte Erfahrung für Sie vorbereiten.
 
 Sie können Skype weiterhin über Ihren Browser unter [Web.Skype.com](https://web.skype.com/)verwenden.

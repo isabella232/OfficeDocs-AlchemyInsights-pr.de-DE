@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ed36ddd74a4d8a92b1743fe75574993e7de2e193
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: 5d4ee6859fef7cd91630e12eab5a5c7206c13dde
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34914106"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35381872"
 ---
 # <a name="install-visio"></a>Installieren von Visio
 
 Visio wird als eigenständige Anwendung verkauft, wenn Sie es jedoch noch nicht haben, [kaufen oder testen Sie Visio](https://products.office.com/visio). 
 
-Wenn Sie über ein Abonnement für Visio Online Plan 2 verfügen, wird Benutzern keine Option zur Installation von Visio aus " **meine Installationen** " im [Konto Portal](https://portal.office.com/account#installs) angezeigt, es sei denn, Ihnen ist eine [Lizenz zugewiesen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764).
-
 **Hinweis**: Visio Online Plan 1 enthält keine Desktop Version von Visio, daher ist keine Installation möglich.
 
-Spezifische Anweisungen zum herunterladen und Installieren von Visio finden Sie unter [install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764). 
+Wenn Sie über ein Abonnement für Visio Online Plan 2 verfügen, müssen Sie einem Benutzer [eine Lizenz zuweisen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) , oder es wird keine Option zum Installieren von Visio von " **meine Installationen** " im [My-Konto Portal](https://portal.office.com/account#installs)installiert. 
 
-Wenn Sie über ein gültiges Abonnement/eine gültige Lizenz verfügen und während des Setups Probleme auftreten, versuchen Sie, Visio mit dem [Support-und](https://aka.ms/SaRA-VisioSetupScenario)Wiederherstellungs-Assistenten zu installieren.
+Nicht-Volumenlizenzversionen von Visio Standard oder Visio Professional sind Microsoft-Konten zugeordnet und können nicht im Admin Center verwaltet werden. Um diese Versionen zu installieren, müssen sich die Benutzer bei [Account.Microsoft.com](https://account.microsoft.com) mit dem Microsoft-Konto anmelden, das dieser Visio-Version zugeordnet ist.
+
+Ausführlichere Informationen finden Sie unter [Installieren von Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) und befolgen der Schritte für Ihre Version von Visio.
 
 Weitere Informationen finden Sie unter:<br>
 [Bereitstellungshandbuch für Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
