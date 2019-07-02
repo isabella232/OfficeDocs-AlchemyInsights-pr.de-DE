@@ -12,17 +12,35 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 2f575c71f23aff781f3126ccac2ba066cfd87a5e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 80625a2d3a10c1316dc369db344bb077aeb548b0
+ms.sourcegitcommit: 23f4af808f08643cc7d356dd4abc1d079c28e6dc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35368908"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35411847"
 ---
-# <a name="sharepoint-and-onedrive-audit-logs"></a><span data-ttu-id="43eea-102">SharePoint-und OneDrive-Überwachungsprotokolle</span><span class="sxs-lookup"><span data-stu-id="43eea-102">SharePoint and OneDrive audit logs</span></span>
+# <a name="sharepoint-and-onedrive-audit-logs"></a><span data-ttu-id="7e8ce-102">SharePoint-und OneDrive-Überwachungsprotokolle</span><span class="sxs-lookup"><span data-stu-id="7e8ce-102">SharePoint and OneDrive audit logs</span></span>
 
-- <span data-ttu-id="43eea-103">In SharePoint oder OneDrive ist keine zusätzliche Konfiguration erforderlich, um die Überwachungsprotokollierung zu aktivieren.</span><span class="sxs-lookup"><span data-stu-id="43eea-103">No additional configuration is required within SharePoint or OneDrive to enable audit logging.</span></span>
+<span data-ttu-id="7e8ce-103">**Moderne Unified Audit-Protokolle von SharePoint und OneDrive aus Compliance**</span><span class="sxs-lookup"><span data-stu-id="7e8ce-103">**SharePoint and OneDrive Modern Unified Audit logs from compliance**</span></span>
 
-- <span data-ttu-id="43eea-104">SharePoint und OneDrive unterstützen die folgenden überwachten Aktivitäten: [Datei-und Seiten Aktivitäten](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#file-and-page-activities), [Ordner Aktivitäten](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities), [Freigabe-und Zugriffs Anforderungs Aktivitäten](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities), [Synchronisierungsaktivitäten](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)und [Websiteverwaltung Aktivitäten](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities).</span><span class="sxs-lookup"><span data-stu-id="43eea-104">SharePoint and OneDrive support the following audited activities: [File and page activities](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#file-and-page-activities), [Folder activities](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities), [Sharing and access request activities](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities), [Synchronization activities](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities), and [Site administration activities](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities).</span></span>
+- [<span data-ttu-id="7e8ce-104">Aktivieren/Deaktivieren der einheitlichen Überwachungsprotokollierung</span><span class="sxs-lookup"><span data-stu-id="7e8ce-104">Turn on/off Unified Audit Logging</span></span>](https://docs.microsoft.com/en-us/office365/securitycompliance/turn-audit-log-search-on-or-off) 
 
-- <span data-ttu-id="43eea-105">Weitere Informationen zum Abrufen dieser Ereignisse finden Sie unter [Durchsuchen des Überwachungsprotokolls](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).</span><span class="sxs-lookup"><span data-stu-id="43eea-105">For more information about how to retrieve these events, see [Search the audit log](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).</span></span>
+<span data-ttu-id="7e8ce-105">In SharePoint oder OneDrive ist keine zusätzliche Konfiguration erforderlich.</span><span class="sxs-lookup"><span data-stu-id="7e8ce-105">No additional configuration is required within SharePoint or OneDrive.</span></span>
+
+- <span data-ttu-id="7e8ce-106">Verwenden Sie die Überwachungs Protokollierungs Suche, um die Aktivität der Datei (en), des Ordners (s), des (der) Benutzers (s), der Berechtigungen zu überprüfen:</span><span class="sxs-lookup"><span data-stu-id="7e8ce-106">Use audit logging search to check activity of the file(s), folder(s), user(s), permissions:</span></span>
+
+    - [<span data-ttu-id="7e8ce-107">Datei-und Seiten Aktivitäten</span><span class="sxs-lookup"><span data-stu-id="7e8ce-107">File and page activities</span></span>](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
+    - [<span data-ttu-id="7e8ce-108">Ordner Aktivitäten</span><span class="sxs-lookup"><span data-stu-id="7e8ce-108">Folder activities</span></span>](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+    - [<span data-ttu-id="7e8ce-109">Freigabe-und Zugriffs Anforderungs Aktivitäten</span><span class="sxs-lookup"><span data-stu-id="7e8ce-109">Sharing and access request activities</span></span>](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+    - [<span data-ttu-id="7e8ce-110">Synchronisierungsaktivitäten</span><span class="sxs-lookup"><span data-stu-id="7e8ce-110">Synchronization activities</span></span>](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+    - [<span data-ttu-id="7e8ce-111">Website Verwaltungsaktivitäten</span><span class="sxs-lookup"><span data-stu-id="7e8ce-111">Site administration activities</span></span>](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+- <span data-ttu-id="7e8ce-112">Weitere Informationen zum Abrufen dieser Ereignisse finden Sie unter [Durchsuchen des Überwachungsprotokolls](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).</span><span class="sxs-lookup"><span data-stu-id="7e8ce-112">For more information about how to retrieve these events, see [Search the audit log](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).</span></span>
+
+<span data-ttu-id="7e8ce-113">**Klassische SharePoint-Überwachungsprotokolle**</span><span class="sxs-lookup"><span data-stu-id="7e8ce-113">**SharePoint classic Audit logs**</span></span>
+
+- [<span data-ttu-id="7e8ce-114">Anzeigen und Aktivieren von klassischen SharePoint-Überwachungsprotokollen</span><span class="sxs-lookup"><span data-stu-id="7e8ce-114">View and enable classic SharePoint Audit logs</span></span>](https://support.office.com/en-us/article/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
+
+<span data-ttu-id="7e8ce-115">Die Überwachung muss pro Websitesammlung aktiviert werden.</span><span class="sxs-lookup"><span data-stu-id="7e8ce-115">Auditing need to be enabled per each site collection.</span></span> 
+
+<span data-ttu-id="7e8ce-116">**Hinweis**: Es wird empfohlen, moderne Unified Audit-Protokolle für bessere und erweiterte Überwachungsoptionen zu verwenden als diese klassischen Überwachungsprotokolle.</span><span class="sxs-lookup"><span data-stu-id="7e8ce-116">**Note**: We recommend using Modern Unified Audit logs for better and advanced audit options than these classic audit logs.</span></span>
+
