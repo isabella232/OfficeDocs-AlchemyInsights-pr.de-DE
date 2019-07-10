@@ -12,16 +12,16 @@ ms.custom:
 - "1198"
 - "8000077"
 ms.assetid: 51addffd-7c85-49ef-8ef5-dfa2605605dc
-ms.openlocfilehash: bea7ed27748e67d15b4e1a3c666be0cc7bddab8e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1594aa3c819c528f5b8253654a55fe419d2f36d7
+ms.sourcegitcommit: 7c0575fd30f0f4448e530e1ec40eabb362cb4670
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35361204"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35594965"
 ---
-# <a name="cant-sign-in-to-hotmail-or-outlookcom"></a><span data-ttu-id="c0704-102">Sie können sich nicht bei Hotmail oder Outlook.com anmelden?</span><span class="sxs-lookup"><span data-stu-id="c0704-102">Can't sign in to Hotmail or Outlook.com?</span></span>
+# <a name="cant-sign-in-to-hotmail-or-outlookcom"></a><span data-ttu-id="5bf07-102">Sie können sich nicht bei Hotmail oder Outlook.com anmelden?</span><span class="sxs-lookup"><span data-stu-id="5bf07-102">Can't sign in to Hotmail or Outlook.com?</span></span>
 
-<span data-ttu-id="c0704-103">Um Ihr Outlook.com-Konto aktiv zu halten, müssen Sie sich mindestens alle 365 Tage bei dem Konto anmelden.</span><span class="sxs-lookup"><span data-stu-id="c0704-103">To keep your Outlook.com account active, you must sign in to the account at least once every 365 days.</span></span> <span data-ttu-id="c0704-104">Nach 365 Tagen Inaktivität wird Ihre e-Mail gelöscht und kann nicht wiederhergestellt werden.</span><span class="sxs-lookup"><span data-stu-id="c0704-104">After 365 days of inactivity, your email will be deleted and cannot be recovered.</span></span>
+<span data-ttu-id="5bf07-103">Um Ihr Outlook.com-Konto aktiv zu halten, müssen Sie sich mindestens alle 365 Tage bei dem Konto anmelden.</span><span class="sxs-lookup"><span data-stu-id="5bf07-103">To keep your Outlook.com account active, you must sign in to the account at least once every 365 days.</span></span> <span data-ttu-id="5bf07-104">Nach 365 Tagen Inaktivität wird Ihre e-Mail gelöscht und kann nicht wiederhergestellt werden.</span><span class="sxs-lookup"><span data-stu-id="5bf07-104">After 365 days of inactivity, your email will be deleted and cannot be recovered.</span></span>
   
-<span data-ttu-id="c0704-105">Wenn Sie sich innerhalb von 365 Tagen angemeldet haben, aber immer noch nicht auf Ihr Hotmail-oder Outlook.com-Konto zugreifen können, lesen Sie, wie Sie sich [bei oder aus Outlook.com anmelden](https://go.microsoft.com/fwlink/?linkid=2005840&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="c0704-105">If you've signed in within 365 days but still can't access your Hotmail or Outlook.com account, read [How to sign in to or out of Outlook.com](https://go.microsoft.com/fwlink/?linkid=2005840&amp;clcid=0x409).</span></span>
+<span data-ttu-id="5bf07-105">Wenn Sie sich innerhalb von 365 Tagen angemeldet haben, aber immer noch nicht auf Ihr Hotmail-oder Outlook.com-Konto zugreifen können, lesen Sie, wie Sie sich [bei oder aus Outlook.com anmelden](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="5bf07-105">If you've signed in within 365 days but still can't access your Hotmail or Outlook.com account, read [How to sign in to or out of Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
   
