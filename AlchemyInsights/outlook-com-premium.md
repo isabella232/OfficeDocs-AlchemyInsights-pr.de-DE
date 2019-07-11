@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.custom:
 - "1831"
 - "9000243"
-ms.openlocfilehash: e3640f6792410551aef2b9d22b8dc6922c04027f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4bcf87b2914c22b522dd29b2e754a16a7a31e28c
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373304"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614025"
 ---
 # <a name="outlookcom-premium"></a>Outlook.com Premium
 
 **Vorhandene Premium-Abonnenten**
 
-- Wenn Sie bereits über ein Outlook.com Premium-Abonnement verfügen, lesen Sie die [FAQs zur Outlook.com Premium](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b).
+- Wenn Sie bereits über ein Outlook.com Premium-Abonnement verfügen, lesen Sie die [FAQs zur Outlook.com Premium](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy).
 
 **Neue Abonnenten**
 
 - Es tut uns leid, aber Outlook.com Premium ist jetzt für neue Abonnenten geschlossen.
-- Viele der [Features und Vorteile](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2) sind jetzt mit [Abonnements für Office 365 Home und Office 365 Personal](https://go.microsoft.com/fwlink/?linkid=2017122)enthalten.
+- Viele der [Features und Vorteile](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) sind jetzt mit [Abonnements für Office 365 Home und Office 365 Personal](https://go.microsoft.com/fwlink/?linkid=2017122)enthalten.

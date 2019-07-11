@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1820"
 - "9000236"
-ms.openlocfilehash: 16fed7fc9995ba9b4143495fc268d5b3a31d2a01
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 33bd6fa8a26eb27c1d829268ac0956c2dbf90d58
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377624"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614169"
 ---
 # <a name="add-your-gmail-account-to-outlookcom"></a>Hinzufügen Ihres gmail-Kontos zu Outlook.com
 
@@ -30,4 +30,4 @@ Die Synchronisierung von einem verbundenen Konto mit Ihrem Outlook.com-Konto erf
 
 Sie können e-Mails in Outlook.com aus Ihrem verbundenen Gmail-Konto senden. Wenn Sie eine e-Mail erstellen, wählen Sie aus, und wählen Sie Ihre gmail-Adresse **aus** , oder [Aktualisieren Sie Ihre standardmäßige Absenderadresse](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Weitere Informationen finden Sie unter [Hinzufügen Ihrer anderen e-Mail-Konten zu Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba).
+Weitere Informationen finden Sie unter [Hinzufügen Ihrer anderen e-Mail-Konten zu Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
