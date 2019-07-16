@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1979"
 - "9000345"
-ms.openlocfilehash: f4af8679ac71ab15bd68a62e71143b14f8e20f97
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d241612ec41247c36aa5806429c5b7b547e02098
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373808"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701286"
 ---
 # <a name="account-locked"></a>Konto gesperrt
 
@@ -25,4 +25,4 @@ Wenn die Meldung "Ihr Konto wurde gesperrt" angezeigt wird, wenn Sie versuchen, 
 1. Wechseln Sie zu [Account.Microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) , und melden Sie sich bei Ihrem gesperrten Konto an.Um Ihr Konto freizuschalten, müssen Sie den Sicherheitscode eingeben, der in der Textnachricht von Microsoft angegeben ist. Zum Abrufen der Textnachricht benötigen Sie ein Telefon, das Textnachrichten unterstützt. Wenn Ihr Telefon keine Textnachrichten unterstützt, können Sie einen Freund oder ein Familienmitglied bitten, sein Telefon zu verwenden. Microsoft speichert diese Telefonnummer nicht, sodass die Telefonnummer, die Sie zum Empfangen dieser Textnachricht verwenden, nicht mit Ihrem Konto verknüpft werden muss.
 2. Wenn die Meldung "Nutzungs Grenzwert überschritten" angezeigt wird, wechseln Sie zu [Konto](https://go.microsoft.com/fwlink/?linkid=2090483) Wiederherstellung, und einer unserer Agents überprüft Ihr Konto.
 
-Weitere Informationen finden Sie unter [entsperren meines Outlook.com-Kontos](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4) 
+Weitere Informationen finden Sie unter [entsperren meines Outlook.com-Kontos](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy) 

@@ -11,12 +11,12 @@ ms.custom:
 - "9000304"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 4b3626cb02284e3527cc85142621febd5380a888
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5ed89ac0381760d7396d5920329c9eee6335ddd0
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377408"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35697046"
 ---
 # <a name="adding-flags-and-reminders-in-outlookcom"></a>Hinzufügen von Flags und Erinnerungen in Outlook.com
 
@@ -32,4 +32,4 @@ Wenn Sie sich daran erinnern möchten, dass eine Nachricht nachverfolgt werden s
 1. Zeigen Sie in der Nachrichtenliste auf die Nachricht, um die Option Flag anzuzeigen.
 1. Wählen Sie das Flag-Symbol aus, um die Nachricht zu kennzeichnen. Wenn Sie alle gekennzeichneten Nachrichten anzeigen möchten, aktivieren Sie das Häkchen in der unteren linken Ecke der Seite, um zu Aufgaben zu wechseln.
  
-Weitere Informationen finden Sie [unter kennzeichnen oder anheften einer Nachricht in Outlook.com](https://support.office.com/article/8e911e69-30d6-4cc8-8c71-a1163560618a).
+Weitere Informationen finden Sie [unter kennzeichnen oder anheften einer Nachricht in Outlook.com](https://support.office.com/article/8e911e69-30d6-4cc8-8c71-a1163560618a?wt.mc_id=Office_Outlook_com_Alchemy).
