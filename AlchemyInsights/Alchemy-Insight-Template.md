@@ -1,5 +1,5 @@
 ---
-title: identisch mit filename am besten
+title: identisch mit filename ist am besten
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -11,30 +11,32 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 37398436435fb72cb5c8dca2d0798b86a0c8ccc9
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: b77e514da36701808d46248e8f2a45137751a1c7
+ms.sourcegitcommit: 5447031f9d0a320c49897b8adb5d29ac9437fbc5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32366330"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35786412"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>Erforderlicher Alchemy-Header H1, H2 funktioniert nicht.
-Bewährte Methoden und Richtlinien für die Erstellung von Alchemie:
+Bewährte Methoden und Richtlinien für die Erstellung von Alchemy-Autoren:
 
-1. **Verschachteln Sie Alchemy Insights nicht in Ordnern**– dadurch wird die URL-Struktur unterbrochen. Wir untersuchen, dies zu beheben.
-1. Dateien im Ordner **AlchemyInsights** sollten Kleinbuchstaben-Dateinamen mit Bindestrichen für Leerzeichen enthalten. ***How-to-enable-Litigation-Hold***.
-    1. Schließen Sie die Regel-ID oder die Bucket-ID aus dem [Alchemy-Partner Portal](https://alchemyportal.azurewebsites.net) in das Feld ms. Custom ein. Ex. ***ms. Custom: 100021***
-1. Verwenden Sie die restlichen Metadaten am Anfang dieser Datei als Vorlage.
-1. Navigieren Sie im [Alchemy-Partner Portal](https://alchemyportal.azurewebsites.net)zum Abschnitt **Customer Insight Title:** und verwenden Sie diesen als Ausgangspunkt für Ihren H1-Titel für die Einblicke. 
+1. **Alchemy Insights in Folders nicht Schachteln**-dadurch wird die URL-Struktur unterbrochen. Wir untersuchen, wie Sie dieses Problem beheben.
+1. Dateien im Ordner **AlchemyInsights** sollten klein geschriebene Dateinamen mit Bindestrichen für Leerzeichen (ex) enthalten. ***How-to-enable-Litigation-Hold***.
+    1. Schließen Sie die Regel-ID oder Bucket-ID aus dem [Alchemy-Partner Portal](https://alchemyportal.azurewebsites.net) in das Feld ms. Custom ein. Ex. ***ms. Custom: 100021***
+1. Verwenden Sie die restlichen Metadaten oben in dieser Datei als Vorlage.
+1. Navigieren Sie im [Alchemy-Partner Portal](https://alchemyportal.azurewebsites.net)nach unten zum Abschnitt **Kunden Einblicke Title:** , und verwenden Sie diesen als Ausgangspunkt für den H1-Titel für die Einblicke. 
     > [!NOTE]
-    > Alchemy inSights muss oben nur einen einzelnen H1 haben, oder Sie werden in der Produktion unterbrochen. H2s nicht rendern, verwenden Sie daher **Fett** oder andere Konventionen, um separate Abschnitte anzuzeigen.
-1. Als nächstes füllen Sie den Textkörper mit dem Entwurfsmaterial im Abschnitt Kunden einBlicke auf der Seite Alchemy Rule aus.
-    1. AufZählungslisten sind in Ordnung
+    > Alchemy Insights muss nur ein einzelnes H1 am oberen Rand aufweisen, oder die Produktion wird unterbrochen. H2s Rendern weder so verwenden Sie **Fett** oder andere Konventionen, um separate Abschnitte zu bedeuten.
+1. Geben Sie als nächstes den Textkörper mithilfe des Entwurfs Materials im Abschnitt Kunden Einblicke der Seite Alchemy Rule ein.
+    1. Aufzählungslisten sind in Ordnung
     1. Nummerierte Listen
     1. **Fett** und *kursiv* sind a-OK
-    1. Links sollten immer entweder **"Links zu Web"/External** oder **Deep-Links zu UI-Elementen**, nicht interne Links.
-    1. Bilder werden zu diesem Zeitpunkt nicht offiziell unterstützt, aber es steht in der Roadmap.
+    1. Links sollten immer entweder **"Links to Internet"/External** oder **Deep-Links zu Benutzeroberflächenelementen**sein, keine internen Links.
+    1. Bilder werden zu diesem Zeitpunkt nicht offiziell unterstützt, aber Sie sind in der Roadmap.
 
-Und das ist wirklich schon ein bisschen zu lang. Die bewährte Methode umfasst ungefähr 400 Zeichen---------------------------------
+Und das ist wirklich schon ein bisschen zu lang. Bewährte Methode sind etwa 400 Zeichen---------------------------------
 
-Sobald Ihr Inhalt fertig ist, ziehen Sie ihn in die Live-Verzweigung. Wechseln Sie dann zum [Alchemy-Partner Portal](https://alchemyportal.azurewebsites.net) , und geben Sie den Dateinamen in das Feld URL ein. M
+Nachdem der Inhalt abgeschlossen ist, ziehen Sie ihn in den Live-Zweig. Wechseln Sie dann zum [Alchemy-Partner Portal](https://alchemyportal.azurewebsites.net) , und geben Sie den Dateinamen in das URL-Feld ein. 
+
+
