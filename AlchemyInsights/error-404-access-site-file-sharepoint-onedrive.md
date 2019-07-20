@@ -8,25 +8,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
-ms.openlocfilehash: 794d12c281e963774c694fc0fd21d9e03beec105
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 4900dc4751d5c030a9cef41ec220a336ce144fe3
+ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132127"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35802893"
 ---
 # <a name="error-404-when-accessing-files-in-sharepoint-or-onedrive"></a>Fehler 404 beim Zugriff auf Dateien in SharePoint oder OneDrive
 
 **Fehler 404** wird empfangen, wenn Benutzer versuchen, auf eine Website oder Datei in SharePoint oder OneDrive zuzugreifen. Dies wird häufig dadurch verursacht, dass eine Website oder eine Datei oder eine Gruppe umbenannt, verschoben oder gelöscht wird.
 Bei Benutzern tritt ein 404-Fehler auf, wenn versucht wird, auf die Stammweb Site Sammlung zuzugreifen, und Sie wurde gelöscht.
 
-So beheben Sie den Fehler 404 für eine Website, die umbenannt, verschoben oder gelöscht wurde: Informationen zu klassischen Websites, die im klassischen Admin Center vorhanden sind, finden Sie unter [Wiederherstellen einer gelöschten Websitesammlung](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
+Im folgenden finden Sie Informationen zum Beheben von Fehler 404 für eine Website, die umbenannt, verschoben oder gelöscht wurde:
 
-Informationen zu modernen Websites (Kommunikation, Gruppenverbindung oder andere Standorte), die in der neuen Admin Center-Vorschau vorhanden sind, finden Sie unter [anzeigen und Wiederherstellen von gelöschten Websites im neuen SharePoint Admin Center](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
+- [Wiederherstellen einer gelöschten Websitesammlung](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection): für klassische Websites, die im klassischen Admin Center vorhanden sind.
+- [Anzeigen und Wiederherstellen von gelöschten Websites im neuen SharePoint Admin Center](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center): für moderne Websites (Kommunikation, Gruppenverbindungen oder andere Websites), die in der neuen Admin Center-Vorschau vorhanden sind.
+- [Wiederherstellen von Elementen im Papierkorb einer SharePoint-Website](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be): zum Auflösen einer Datei (oder eines anderen Elements), die umbenannt, verschoben oder gelöscht wurde, wechseln Sie zur SharePoint-oder OneDrive-Website, und zeigen Sie den Papierkorb aus dem Websiteinhalt an.
+- [Durchsuchen des Überwachungsprotokolls im Office 365 Security &amp; Compliance Center](https://support.office.com/client/search-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c): Durchsuchen des Überwachungsprotokolls (wenn die Protokollierung aktiviert ist), wenn das Element weiterhin nicht gefunden werden kann.
 
-Um die Datei (oder ein anderes Element) aufzulösen, das umbenannt, verschoben oder gelöscht wurde, wechseln Sie zur SharePoint-oder OneDrive-Website, und zeigen Sie den Papierkorb aus dem Websiteinhalt an, und lesen Sie die Informationen unter [Wiederherstellen von Elementen im Papierkorb einer SharePoint-Website](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be).
 
- Wenn das Element weiterhin nicht gefunden werden kann, können Sie das Überwachungsprotokoll durchsuchen, wenn die Protokollierung aktiviert ist, finden Sie unter [Durchsuchen des &amp; Überwachungsprotokolls im Office 365 Security Compliance Center](https://support.office.com/client/search-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c).
 
 
     

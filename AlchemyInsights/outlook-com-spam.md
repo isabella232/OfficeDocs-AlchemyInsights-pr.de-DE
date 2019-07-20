@@ -3,7 +3,7 @@ title: Umgang mit Spam und Junk in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/10/2019
+ms.date: 7/19/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,35 @@ localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: ac3f7a268d69959ed1d0feb06bc0e9434ef1d2ce
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 7544b0453f05de5f4d3edc2bdbbc139995343047
+ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35697118"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35800080"
 ---
-# <a name="mark-email-messages-as-junk"></a>E-Mail-Nachrichten als Junk markieren
+# <a name="spam-and-junk-email-in-outlookcom"></a>Spam-und Junk-e-Mails in Outlook.com
 
-Wenn Sie eine Nachricht als Junk-e-Mail oder Spam markieren möchten, wählen Sie die Nachricht in Ihrer Nachrichtenliste aus, und wählen Sie **Junk** > **Junk**aus.
+Wenn Sie zu viel Junk-oder Spam erhalten, probieren Sie die folgenden Methoden aus:
 
-Wenn Sie alle Nachrichten von einer bestimmten e-Mail-Adresse blockieren möchten, wählen Sie die Nachricht oder Nachrichten in der Nachrichtenliste aus, und wählen Sie dann **Junk** > -**Block**aus.
+1. **E-Mail als Junk-e-Mail markieren**
+    1. Wählen Sie die Nachricht aus.
+    1. Wählen Sie **Junk** > **Junk** aus, um die Nachricht in Ihren Junk-e-Mail-Ordner zu versetzen.
+    1. [Erfahren Sie mehr darüber, wie Sie Spam-und Junk-e-Mails aus Ihrem Posteingang heraushalten können.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
 
-Wenn Sie eine Nachricht versehentlich als Junk markieren, wählen Sie die Nachricht in Ihrem [Junk-e-Mail-Ordner](https://outlook.live.com/mail/junkemail) aus, und wählen Sie **nicht** > Junk**nicht**Junk aus. (*Hinweis:* Elemente in Ihrem Junk-e-Mail-Ordner werden nach 30 Tagen gelöscht.)
+1. **Blockieren eines Absenders aus Ihrem Posteingang**
+    1. Wählen Sie die Nachricht aus.
+    1. Wählen Sie **Junk** > -**Block** > **OK**aus.
+    1. [Erfahren Sie mehr über das Blockieren oder Aufheben der Blockierung von Absendern.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
 
-Weitere Informationen finden Sie unter [kennzeichnen von e-Mails als Junk-e-Mail oder Blockieren von Absendern in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+1. **Hinzufügen eines Absenders zu Ihrer Liste blockierter Absender**
+    1. Öffnen Sie die [Junk-e-Mail-Einstellungen](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2).
+    1. Wählen Sie unter **Blockierte Absender und Domänen**die Option **Hinzufügen**aus.
+    1. Geben Sie die e-Mail-Adresse oder Domäne ein, die Sie blockieren möchten, und drücken Sie die EINGABETASTE.
+    1. Wählen Sie unter **Filter**, wenn Sie e-Mails von Adressen unter Sichere Absender und Domänen und sichere Mailinglisten vertrauen möchten.
+    1. Klicken Sie auf **Speichern**.
+
+1. **Erstellen einer Posteingangsregel**
+    1. Klicken Sie mit der rechten Maustaste auf eine Nachricht in Ihrer Nachrichtenliste, und wählen Sie **Regel erstellen**aus.
+    1. Wählen Sie den Ordner aus, in dem alle Nachrichten von diesem Absender verschoben werden sollen, und klicken Sie auf **OK** > ****.
+    1. [Erfahren Sie mehr über Posteingangsregeln in Outlook.com.](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)

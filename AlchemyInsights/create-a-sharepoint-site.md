@@ -13,18 +13,27 @@ ms.custom:
 - "2303"
 - "5200004"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: cc0218dd34844cc1fdeb55a6f84975311826c372
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 022f572aadae3b4d9f6665f9f8be871d79b51817
+ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35364552"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35802965"
 ---
 # <a name="create-a-sharepoint-site"></a>Erstellen einer SharePoint-Website
 
-Weitere Informationen finden Sie unter [Verwalten von Websites im neuen SharePoint Admin Center](https://docs.microsoft.com/sharepoint/manage-site-creation ) für Website Erstellungsoptionen. Wählen Sie diese Option aus, um eine [Teamwebsite](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) (die eine Office 365 Gruppe erstellt) oder eine [Kommunikationswebsite](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb)zu erstellen. Zum Erstellen einer [klassischen Website](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site)oder einer neuen Teamwebsite, die keine Office 365 Gruppe enthält, klicken Sie auf **Weitere Optionen**.
+Informationen zur Erstellung von SharePoint-Websites finden Sie im folgenden:
+- [Verwalten von Websites im neuen SharePoint Admin Center](https://docs.microsoft.com/sharepoint/manage-site-creation): Informationen zu Website Erstellungsoptionen, einschließlich der Vorgehensweise zum Erstellen einer klassischen Website oder einer Microsoft Teams-Website, die keine Office 365 Gruppe enthält.
+- [Erstellen einer Teamwebsite in SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US): Hier erfahren Sie, wie Sie eine Teamwebsite erstellen.
+- [Erstellen Sie eine Kommunikationswebsite in SharePoint Online](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): erfahren Sie, wie Sie eine Kommunikationswebsite erstellen.
+- [Verwalten von Websites im neuen SharePoint Admin Center](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site): Hier erfahren Sie, wie Sie eine klassische Website oder eine Teamwebsite erstellen, die keine Office 365 Gruppe enthält.
+
+
   
-Tipps
-- *Sie können keine Website mit derselben URL einer vorhandenen Website erstellen. Wenn Sie eine Website gelöscht haben und die URL erneut verwenden möchten, ist es möglich, dass die gelöschte Website weiterhin unter **Gelöschte Websites**vorhanden ist. Informationen zum Verwalten gelöschter Websites finden Sie unter [Löschen einer Website](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Informationen zum vollständigen Entfernen einer Website mit PowerShell finden Sie unter [Remove-SPSite-Cmdlet-](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) Beispiel.*
-- *Einige Benutzer können möglicherweise keine Website erstellen. Weitere Informationen finden Sie unter [Manage Site Creation in SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).*
-- *Möglicherweise wird die Website bei der **Erstellung** länger als erwartet blockiert. Wenn seit dem ersten Auftreten dieses Problems mehr als 24 Stunden vergangen sind, melden Sie sich ein Support Ticket an. In vielen Fällen arbeiten wir bereits an einer Lösung. Geben Sie uns mindestens 24 Stunden, um eine Lösung zu vervollständigen.*
+> [! Tipps
+> - Sie können keine Website mit derselben URL einer vorhandenen Website erstellen. Wenn Sie eine Website gelöscht haben und die URL erneut verwenden möchten, ist es möglich, dass die gelöschte Website weiterhin unter **Gelöschte Websites**vorhanden ist. Informationen zum Verwalten gelöschter Websites finden Sie unter [Löschen einer Website](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Informationen zum vollständigen Entfernen einer Website mit PowerShell finden Sie unter [Remove-SPSite-Cmdlet-](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) Beispiel.
+> - Einige Benutzer können möglicherweise keine Website erstellen. Weitere Informationen finden Sie unter [Manage Site Creation in SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
+> - Möglicherweise wird die Website bei der **Erstellung** länger als erwartet blockiert. Wenn seit dem ersten Auftreten dieses Problems mehr als 24 Stunden vergangen sind, melden Sie sich ein Support Ticket an. In vielen Fällen arbeiten wir bereits an einer Lösung. Geben Sie uns mindestens 24 Stunden, um eine Lösung zu vervollständigen.
+> - Wenn Sie eine neue Teamwebsite erstellen müssen, die keine Office 365 Gruppe enthält, 
+
+
