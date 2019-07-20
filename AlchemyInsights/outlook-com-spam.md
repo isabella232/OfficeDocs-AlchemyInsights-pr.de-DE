@@ -3,7 +3,7 @@ title: Umgang mit Spam und Junk in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/10/2019
+ms.date: 7/19/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,35 @@ localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: ac3f7a268d69959ed1d0feb06bc0e9434ef1d2ce
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 7544b0453f05de5f4d3edc2bdbbc139995343047
+ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35697118"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35800080"
 ---
-# <a name="mark-email-messages-as-junk"></a><span data-ttu-id="be0d6-102">E-Mail-Nachrichten als Junk markieren</span><span class="sxs-lookup"><span data-stu-id="be0d6-102">Mark email messages as junk</span></span>
+# <a name="spam-and-junk-email-in-outlookcom"></a><span data-ttu-id="28442-102">Spam-und Junk-e-Mails in Outlook.com</span><span class="sxs-lookup"><span data-stu-id="28442-102">Spam and junk email in Outlook.com</span></span>
 
-<span data-ttu-id="be0d6-103">Wenn Sie eine Nachricht als Junk-e-Mail oder Spam markieren möchten, wählen Sie die Nachricht in Ihrer Nachrichtenliste aus, und wählen Sie **Junk** > **Junk**aus.</span><span class="sxs-lookup"><span data-stu-id="be0d6-103">To mark a message as junk or spam, select the message in your message list and select **Junk** > **Junk**.</span></span>
+<span data-ttu-id="28442-103">Wenn Sie zu viel Junk-oder Spam erhalten, probieren Sie die folgenden Methoden aus:</span><span class="sxs-lookup"><span data-stu-id="28442-103">If you're getting too much junk or spam, try these methods:</span></span>
 
-<span data-ttu-id="be0d6-104">Wenn Sie alle Nachrichten von einer bestimmten e-Mail-Adresse blockieren möchten, wählen Sie die Nachricht oder Nachrichten in der Nachrichtenliste aus, und wählen Sie dann **Junk** > -**Block**aus.</span><span class="sxs-lookup"><span data-stu-id="be0d6-104">To block all messages from a specific email address, select the message or messages in your message list and then select **Junk** > **Block**.</span></span>
+1. <span data-ttu-id="28442-104">**E-Mail als Junk-e-Mail markieren**</span><span class="sxs-lookup"><span data-stu-id="28442-104">**Mark an email as junk**</span></span>
+    1. <span data-ttu-id="28442-105">Wählen Sie die Nachricht aus.</span><span class="sxs-lookup"><span data-stu-id="28442-105">Select the message.</span></span>
+    1. <span data-ttu-id="28442-106">Wählen Sie **Junk** > **Junk** aus, um die Nachricht in Ihren Junk-e-Mail-Ordner zu versetzen.</span><span class="sxs-lookup"><span data-stu-id="28442-106">Select **Junk** > **Junk** to move the message to your Junk Email folder.</span></span>
+    1. [<span data-ttu-id="28442-107">Erfahren Sie mehr darüber, wie Sie Spam-und Junk-e-Mails aus Ihrem Posteingang heraushalten können.</span><span class="sxs-lookup"><span data-stu-id="28442-107">Learn more about how to help keep spam and junk email out of your inbox.</span></span>](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
 
-<span data-ttu-id="be0d6-105">Wenn Sie eine Nachricht versehentlich als Junk markieren, wählen Sie die Nachricht in Ihrem [Junk-e-Mail-Ordner](https://outlook.live.com/mail/junkemail) aus, und wählen Sie **nicht** > Junk**nicht**Junk aus.</span><span class="sxs-lookup"><span data-stu-id="be0d6-105">If you accidentally mark a message as junk, select the message in your [Junk Email folder](https://outlook.live.com/mail/junkemail) and select **Not junk** > **Not junk**.</span></span> <span data-ttu-id="be0d6-106">(*Hinweis:* Elemente in Ihrem Junk-e-Mail-Ordner werden nach 30 Tagen gelöscht.)</span><span class="sxs-lookup"><span data-stu-id="be0d6-106">(*Note:* Items in your Junk Email folder are deleted after 30 days.)</span></span>
+1. <span data-ttu-id="28442-108">**Blockieren eines Absenders aus Ihrem Posteingang**</span><span class="sxs-lookup"><span data-stu-id="28442-108">**Block a sender from your inbox**</span></span>
+    1. <span data-ttu-id="28442-109">Wählen Sie die Nachricht aus.</span><span class="sxs-lookup"><span data-stu-id="28442-109">Select the message.</span></span>
+    1. <span data-ttu-id="28442-110">Wählen Sie **Junk** > -**Block** > **OK**aus.</span><span class="sxs-lookup"><span data-stu-id="28442-110">Select **Junk** > **Block** > **OK**.</span></span>
+    1. [<span data-ttu-id="28442-111">Erfahren Sie mehr über das Blockieren oder Aufheben der Blockierung von Absendern.</span><span class="sxs-lookup"><span data-stu-id="28442-111">Learn more about how to block or unblock senders.</span></span>](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
 
-<span data-ttu-id="be0d6-107">Weitere Informationen finden Sie unter [kennzeichnen von e-Mails als Junk-e-Mail oder Blockieren von Absendern in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="be0d6-107">To learn more, read [Mark email as junk or block senders in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+1. <span data-ttu-id="28442-112">**Hinzufügen eines Absenders zu Ihrer Liste blockierter Absender**</span><span class="sxs-lookup"><span data-stu-id="28442-112">**Add a sender to your blocked senders list**</span></span>
+    1. <span data-ttu-id="28442-113">Öffnen Sie die [Junk-e-Mail-Einstellungen](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2).</span><span class="sxs-lookup"><span data-stu-id="28442-113">Open your [Junk email settings](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2).</span></span>
+    1. <span data-ttu-id="28442-114">Wählen Sie unter **Blockierte Absender und Domänen**die Option **Hinzufügen**aus.</span><span class="sxs-lookup"><span data-stu-id="28442-114">Under **Blocked senders and domains**, select **Add**.</span></span>
+    1. <span data-ttu-id="28442-115">Geben Sie die e-Mail-Adresse oder Domäne ein, die Sie blockieren möchten, und drücken Sie die EINGABETASTE.</span><span class="sxs-lookup"><span data-stu-id="28442-115">Type the email address or domain you want to block and press Enter.</span></span>
+    1. <span data-ttu-id="28442-116">Wählen Sie unter **Filter**, wenn Sie e-Mails von Adressen unter Sichere Absender und Domänen und sichere Mailinglisten vertrauen möchten.</span><span class="sxs-lookup"><span data-stu-id="28442-116">Under **Filters**, choose if you want to trust email from addresses under Safe senders and domains and Safe mailing lists.</span></span>
+    1. <span data-ttu-id="28442-117">Klicken Sie auf **Speichern**.</span><span class="sxs-lookup"><span data-stu-id="28442-117">Select **Save**.</span></span>
+
+1. <span data-ttu-id="28442-118">**Erstellen einer Posteingangsregel**</span><span class="sxs-lookup"><span data-stu-id="28442-118">**Create an inbox rule**</span></span>
+    1. <span data-ttu-id="28442-119">Klicken Sie mit der rechten Maustaste auf eine Nachricht in Ihrer Nachrichtenliste, und wählen Sie **Regel erstellen**aus.</span><span class="sxs-lookup"><span data-stu-id="28442-119">Right-click a message in your message list and select **Create rule**.</span></span>
+    1. <span data-ttu-id="28442-120">Wählen Sie den Ordner aus, in dem alle Nachrichten von diesem Absender verschoben werden sollen, und klicken Sie auf **OK** > \*\*\*\*.</span><span class="sxs-lookup"><span data-stu-id="28442-120">Choose the folder where you want all messages from that sender to be moved, and select **OK** > **OK**.</span></span>
+    1. [<span data-ttu-id="28442-121">Erfahren Sie mehr über Posteingangsregeln in Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="28442-121">Learn more about inbox rules in Outlook.com.</span></span>](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)
