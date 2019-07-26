@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: ebafb4ec807f6e6b9c26935e766456414212de81
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 5da4914548348418c42e1e1b52d1428c0ed0af9b
+ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132722"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35903937"
 ---
 # <a name="edit-a-read-only-file"></a>Bearbeiten einer schreibgeschützten Datei
 
@@ -25,7 +25,7 @@ Anstatt auf den Dokumenttitel zu klicken, klicken Sie auf **Menü öffnen** (die
 
 Hinweise:
 
-- Wenn Sie lieber Dokumente zum Bearbeiten in Office Online öffnen möchten, wenn Sie auf den Titel klicken, können Sie die Bibliothek dafür einrichten (vorausgesetzt, Sie verfügen über die Berechtigung zum Ändern der Bibliothekseinstellungen).
+- Wenn Sie lieber Dokumente zur Bearbeitung in Office öffnen möchten, wenn Sie auf den Titel klicken, können Sie die Bibliothek dafür einrichten (vorausgesetzt, Sie verfügen über die Berechtigung zum Ändern der Bibliothekseinstellungen).
 
 - Wenn Sie über Bibliotheken mit Auschecken, erforderliche Spalten oder nur Benutzer verfügen, die in den Versionseinstellungen einer SharePoint-Dokumentbibliothek bearbeiten können, werden diese Elemente schreibgeschützt synchronisiert.
 
