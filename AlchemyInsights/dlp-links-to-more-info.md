@@ -12,20 +12,23 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: cf18afc7c2ab07b3318a9c79ad657a83810e5a42
-ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
+ms.openlocfilehash: 7687f6cb4a2e71a68edc762e69ccee2994e60c6f
+ms.sourcegitcommit: d6ea6f4456a582559f27b34c0b9455a86a8e61f1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "35475471"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "35941103"
 ---
 # <a name="more-info-about-dlp-issues"></a>Weitere Informationen zu DLP-Problemen
 
-Mit einer DLP-Richtlinie können Sie vertrauliche Informationen über Office 365 identifizieren, überwachen und automatisch schützen. 
+Mit einer DLP-Richtlinie können Sie vertrauliche Informationen über Office 365 identifizieren, überwachen und automatisch schützen.
 
 Weitere Informationen finden Sie unter den folgenden Links:
 
 - [Übersicht über die Verhinderung von Datenverlust](https://docs.microsoft.com/en-us/office365/securitycompliance/data-loss-prevention-policies)
+- [Wonach die Typen von vertraulichen Informationen suchen](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+- [Erstellen eines benutzerdefinierten vertraulichen Informationstyps](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type)
+- [Senden von e-Mail-Benachrichtigungen und Anzeigen von Richtlinien Tipps](https://docs.microsoft.com/en-us/office365/securitycompliance/use-notifications-and-policy-tips)
 - [Protect SharePoint Online files with retention labels and DLP](https://docs.microsoft.com/en-us/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
 - [DLP und Microsoft Teams](https://docs.microsoft.com/en-us/office365/securitycompliance/dlp-microsoft-teams)
 
