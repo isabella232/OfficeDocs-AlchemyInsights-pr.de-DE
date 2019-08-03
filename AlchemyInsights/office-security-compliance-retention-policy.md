@@ -1,25 +1,24 @@
 ---
-title: Automatische Erstellung neuer Aufbewahrungs Bezeichnungen
-ms.author: kirks
-author: Techwriter40
-manager: pamgreen
+title: Weitere Informationen zu Aufbewahrungsrichtlinien
+ms.author: stephow
+author: msft-stephow
+manager: laurawi
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0b52b56da0f23ca410f930eb7f719f6933e6135b
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 7f7417a73e95d96a1b105d904bf926c363d4bcff
+ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35222991"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "35448834"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Automatische Erstellung neuer Aufbewahrungs Bezeichnungen
+# <a name="more-info-about-retention-policies"></a>Weitere Informationen zu Aufbewahrungsrichtlinien
 
 Für die meisten Organisationen nimmt das Volumen und die Komplexität Ihrer Daten täglich zu – e-Mails, Dokumente, Chatnachrichten und vieles mehr.
-
-Die effektive Verwaltung oder Steuerung dieser Informationen ist wichtig, eine Aufbewahrungsrichtlinie kann Ihnen dabei helfen, diese Ziele zu erreichen. Weitere Informationen zu Aufbewahrungsrichtlinien finden Sie unter den Links unten.
+Die effektive Verwaltung oder Steuerung dieser Informationen ist wichtig, und mithilfe einer Aufbewahrungsrichtlinie können Sie diese Ziele erreichen. Weitere Informationen zu Aufbewahrungsrichtlinien finden Sie unter den folgenden Links:
 
 - [Übersicht über Aufbewahrungsrichtlinien](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
 
