@@ -1,27 +1,37 @@
 ---
 title: Informationen zur Aufbewahrung und Löschung von OneDrive
-ms.author: kirks
-author: Techwriter40
-ms.date: 6/20/2019
+ms.author: efrene
+author: efrene
+ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.assetid: ''
-ms.openlocfilehash: a98e7740fb6c921252da6f36bc9e20d7a2be0099
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.custom:
+- "2440"
+- "9000596"
+ms.openlocfilehash: 5e67d280b26512613dbe9ecc0cf8f18134f92686
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35119688"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232602"
 ---
-# <a name="onedrive-retention-and-deletion"></a><span data-ttu-id="18969-102">OneDrive-Aufbewahrung und-Löschung</span><span class="sxs-lookup"><span data-stu-id="18969-102">OneDrive retention and deletion</span></span>
+# <a name="onedrive-retention-and-deletion"></a><span data-ttu-id="c9ca8-102">OneDrive-Aufbewahrung und-Löschung</span><span class="sxs-lookup"><span data-stu-id="c9ca8-102">OneDrive retention and deletion</span></span>
 
-<span data-ttu-id="18969-103">In [diesem Artikel](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) wird beschrieben, was mit dem OneDrive eines Benutzers geschieht, wenn Sie das Office 365 Konto des Benutzers für Ihre Organisation löschen.</span><span class="sxs-lookup"><span data-stu-id="18969-103">[This article](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) describes what happens to a user's OneDrive when you delete the user's Office 365 account for your organization.</span></span>
+- <span data-ttu-id="c9ca8-103">Sie können [einen gelöschten Benutzer OneDrive selbst wiederherstellen](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) .</span><span class="sxs-lookup"><span data-stu-id="c9ca8-103">You can [restore a deleted users OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) yourself.</span></span> <span data-ttu-id="c9ca8-104">Sie befinden sich in 93 Tagen im Papierkorb.</span><span class="sxs-lookup"><span data-stu-id="c9ca8-104">They are in recycle bin for 93 Days.</span></span> 
 
-<span data-ttu-id="18969-104">Weitere Informationen zur Aufbewahrung und Löschung von OneDrive finden Sie unter:</span><span class="sxs-lookup"><span data-stu-id="18969-104">For more information about OneDrive retention and deletion, see:</span></span>
+- <span data-ttu-id="c9ca8-105">In [diesem Artikel](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) erfahren Sie mehr über:</span><span class="sxs-lookup"><span data-stu-id="c9ca8-105">See [this article](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) to learn:</span></span>
+    - <span data-ttu-id="c9ca8-106">So erteilen Sie einem anderen Benutzer Zugriff auf das OneDrive eines gelöschten Benutzers.</span><span class="sxs-lookup"><span data-stu-id="c9ca8-106">How to give another user access to a deleted user's OneDrive.</span></span>
+    - <span data-ttu-id="c9ca8-107">Was geschieht mit dem OneDrive eines Benutzers, wenn Sie das Office 365 Konto des Benutzers für Ihre Organisation löschen?</span><span class="sxs-lookup"><span data-stu-id="c9ca8-107">What happens to a user's OneDrive when you delete the user's Office 365 account for your organization.</span></span>
+    - <span data-ttu-id="c9ca8-108">Konfigurieren der automatischen Zugriffs Delegierung</span><span class="sxs-lookup"><span data-stu-id="c9ca8-108">How to configure automatic access delegation.</span></span>
+    - <span data-ttu-id="c9ca8-109">Funktionsweise des Löschvorgangs von OneDrive</span><span class="sxs-lookup"><span data-stu-id="c9ca8-109">How OneDrive deletion process works.</span></span>
 
-- [<span data-ttu-id="18969-105">Gewähren eines weiteren Benutzers für den Zugriff auf die OneDrive eines gelöschten Benutzers</span><span class="sxs-lookup"><span data-stu-id="18969-105">Give another user access to a deleted user's OneDrive</span></span>](https://docs.microsoft.com/onedrive/retention-and-deletion#give-another-user-access-to-a-deleted-users-onedrive)
-- [<span data-ttu-id="18969-106">Konfigurieren der automatischen Zugriffs Delegierung</span><span class="sxs-lookup"><span data-stu-id="18969-106">Configure automatic access delegation</span></span>](https://docs.microsoft.com/onedrive/retention-and-deletion#configure-automatic-access-delegation)
-- [<span data-ttu-id="18969-107">Eine Beschreibung des OneDrive-Löschvorgangs</span><span class="sxs-lookup"><span data-stu-id="18969-107">A description of the OneDrive deletion process</span></span>](https://docs.microsoft.com/onedrive/retention-and-deletion#the-onedrive-deletion-process)
-- [<span data-ttu-id="18969-108">Wiederherstellen eines gelöschten OneDrive</span><span class="sxs-lookup"><span data-stu-id="18969-108">Restore a deleted OneDrive</span></span>](https://docs.microsoft.com/onedrive/retention-and-deletion#configure-automatic-access-delegation)
+- <span data-ttu-id="c9ca8-110">Sie interessieren sich für die Aufbewahrung von Sicherheits-und Compliance Center-Archiven?:</span><span class="sxs-lookup"><span data-stu-id="c9ca8-110">Interested in Security and Compliance Center retention and hold?:</span></span>
+    - [<span data-ttu-id="c9ca8-111">Aufbewahrungsrichtlinien für OneDrive und SharePoint-Websites</span><span class="sxs-lookup"><span data-stu-id="c9ca8-111">Retention policies for OneDrive and SharePoint sites</span></span>](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+    - [<span data-ttu-id="c9ca8-112">eDiscovery-Aufbewahrung für OneDrive-und SharePoint-Websites</span><span class="sxs-lookup"><span data-stu-id="c9ca8-112">eDiscovery hold for OneDrive and SharePoint sites</span></span>](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+
+
+
