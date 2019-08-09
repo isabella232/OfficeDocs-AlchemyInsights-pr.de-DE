@@ -9,23 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "824"
+- "5800003"
 ms.assetid: 3a05fcd2-639a-4f16-a6ed-1cffa35fbdb3
-ms.openlocfilehash: c97444d0afa001f20e7c0edcd798501cc21bda46
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 37c6f166c14303c8f92ac0e6342554effd181df1
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401468"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36269771"
 ---
 # <a name="fix-onedrive-sync-problems"></a>Beheben von OneDrive Synchronisierungsproblemen
 
-- Überprüfen Sie, ob Sie online auf Ihr OneDrive-Konto zugreifen können: Klicken Sie oben links auf das App-Start Symbol, und klicken Sie dann auf OneDrive.
+- Stellen Sie sicher, dass Sie online auf Ihr OneDrive-Konto zugreifen können: Klicken Sie oben links auf das App-Start Symbol, und klicken Sie dann auf OneDrive.
     
-- Stellen Sie sicher, dass Ihr Computer auf dem neuesten Stand ist: [Laden Sie die neuesten Windows-Updates herunter](http://go.microsoft.com/fwlink/p/?LinkId=825773), [Laden Sie die neueste Version von OneDrive](https://go.microsoft.com/fwlink/p/?linkid=844652)
+- Stellen Sie sicher, dass Ihr Computer auf dem neuesten Stand ist: [herunterladen der neuesten Windows-Updates](http://go.microsoft.com/fwlink/p/?LinkId=825773), [herunterladen der neuesten Version von OneDrive](https://go.microsoft.com/fwlink/p/?linkid=844652)
     
-- Heben Sie die Verknüpfung mit OneDrive auf, und führen Sie OneDrive-Setup erneut aus: Klicken Sie mit der rechten Maustaste auf das blaue OneDrive-Cloud-Symbol im Infobereich ganz rechts auf der Taskleiste. Klicken Sie auf **Einstellungen**und dann auf **Verbindung mit diesem PC aufheben**. Führen Sie die Schritte im Assistenten zum Willkommen beim OneDrive aus, um OneDrive erneut einzurichten.
+- Heben Sie die Verknüpfung OneDrive auf, und führen Sie OneDrive Setup erneut aus: Klicken Sie mit der rechten Maustaste auf das blaue OneDrive Cloud-Symbol im Infobereich, ganz rechts auf der Taskleiste. Klicken Sie auf **Einstellungen**, und klicken Sie dann auf **diesen PC aufheben**. Befolgen Sie die Schritte im Assistenten Willkommen bei OneDrive, um OneDrive erneut einzurichten.
     
-[Weitere Schritte zur Problembehandlung bei Synchronisierungsproblemen](https://go.microsoft.com/fwlink/?linkid=866431)
+[Weitere Schritte zur Problembehandlung bei Synchronisierungsproblemen](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90?ui=en-US&rs=en-US&ad=US)
   
 
