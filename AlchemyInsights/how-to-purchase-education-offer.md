@@ -14,23 +14,21 @@ ms.custom:
 - "369"
 - "1500009"
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: f2603b0ae3d739de43c1ed6bcf7703fcd4c5379c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 208eb40788fcf27332245e4590ad204709b32371
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384217"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390187"
 ---
 # <a name="how-to-purchase-education-offer"></a>Erwerben von Schulungsangeboten
 
 Sie wurden für Office 365 Education genehmigt. Zum Kauf:
   
-1. Wechseln Sie im Admin Center zur Seite [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), oder wählen Sie **Abrechnung** \> **Abonnements** aus.
-    
-2. Wählen Sie die Testversion für **Schüler oder Dozenten**aus.
-    
-3. Wählen Sie **Jetzt kaufen** in der Testversion aus, die Sie kaufen möchten. 
-    
-Wenn Sie ein anderes Abonnement als das, was in der Testversion erworben werden soll, kaufen möchten, wechseln Sie zur Seite " [Einkaufsdienste](https://go.microsoft.com/fwlink/p/?linkid=868433) ", oder wählen Sie " **Fakturierungs** \> **Kauf Dienste**" aus, und wählen Sie aus der Liste unter **Bildungspläne**aus.
-  
+1. Wechseln Sie im Admin Center zur Seite **Abrechnungs** \> [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
+2. Wählen Sie die Testversion für **Schüler oder Dozenten**aus.
+
+3. Wählen Sie **Jetzt kaufen** in der Testversion aus, die Sie kaufen möchten. 
+
+Wenn Sie ein anderes Abonnement als das in der Testversion kaufen möchten, wechseln Sie zur Seite **Gebühren** \> pflichtige [Dienste](https://go.microsoft.com/fwlink/p/?linkid=868433) , und wählen Sie aus der Liste unter **Bildungspläne**aus.

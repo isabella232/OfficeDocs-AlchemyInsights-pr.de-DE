@@ -13,18 +13,18 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 43689cd59be9838c7d4625ed74ef06a4e934517c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3c049644fed3deca18968068afeaa0b7a490f9fe
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383528"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389935"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Reaktivieren und Verwalten von wiederkehrenden Rechnungen
 
 Sieht so aus, als ob Sie ein Abonnement haben, das abgelaufen ist. Wenn Sie ihn reaktivieren möchten, gehen Sie wie folgt vor.
   
-1. Wechseln Sie im Admin Center zur Seite [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) , oder wechseln Sie zu **Abrechnungs** \> **Abonnements**.
+1. Wechseln Sie im Admin Center zur Seite **Abrechnungs** \> [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Wählen Sie das Abonnement aus, das **abgelaufen** oder **deaktiviert**ist.
 
@@ -36,11 +36,10 @@ Sieht so aus, als ob Sie ein Abonnement haben, das abgelaufen ist. Wenn Sie ihn 
 
 Um die monatliche oder jährliche Abrechnung zu verwalten, können Sie die **wiederkehrende Abrechnung** aktivieren oder deaktivieren.
   
-1. Wechseln Sie im Admin Center zur Seite [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) , oder wechseln Sie zu **Abrechnungs** \> **Abonnements**.
+1. Wechseln Sie im Admin Center zur Seite **Abrechnungs** \> [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Wählen Sie das Abonnement aus, für das Sie wiederkehrende Abrechnung verwalten möchten.
 
 3. Wechseln Sie die Umschaltfläche für **wiederkehrende Fakturierung** **auf ein** oder **aus**.
 
-Weitere Informationen finden Sie unter: [Verwalten von wiederkehrenden Rechnungen für Ihr Abonnement](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
-  
+Weitere Informationen finden Sie unter [Turn wiederkehrende Abrechnung aus oder ein](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
