@@ -13,12 +13,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: c4771f8a66d131d08a558a216c1d75869fbc13a3
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1e1e6f115a1314f824ce69f03ee23a3e21ba3cf0
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359345"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386871"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Kauf eines Abonnements von Office 365 Home aus Ihrer kostenlosen Testversion heraus
 
@@ -26,18 +26,16 @@ ms.locfileid: "35359345"
   
  **Sie können den gleichen Plan wie Ihre Testversion kaufen.**
   
-1. Wechseln Sie im Admin Center zur Seite [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), oder wählen Sie **Abrechnung** \> **Abonnements** aus.
+1. Wechseln Sie im Admin Center zur Seite **Abrechnungs** \> [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Wählen Sie **Jetzt kaufen** für das gewünschte Testabonnement aus, und führen Sie die Schritte zum Auschecken aus.
 
 oder **Sie können ein anderes Abonnement kaufen** .
   
-1. Melden Sie sich bei Office 365 mit Ihrem Firmen- oder Schulkonto als globaler Administrator an. [Hier erfahren Sie, wie Sie sich anmelden.](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4)
+1. Wechseln Sie im Admin Center zur Seite **Abrechnungs** \> [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Wählen Sie auf der Startseite **Office 365** aus.
+2. Wählen Sie auf der Seite **Abonnement** die Option **Abonnements hinzufügen**aus.
 
-3. Klicken Sie in der rechten oberen Ecke der Seite unter der Navigationsleiste auf **kaufen**.
+3. Suchen Sie das Abonnement, das Sie kaufen möchten, wählen Sie **Jetzt kaufen**aus, und befolgen Sie die Schritte zum Auschecken.
 
-4. Auf der Seite " **Abonnements kaufen** " verfügt der Plan, den Sie versuchen, über ein **Test** -Banner.
-
-5. Wählen Sie **Jetzt kaufen** für das gewünschte Testabonnement aus, und führen Sie die Schritte zum Auschecken aus.
+Verwenden Sie das neue Admin Center? Neue Schritte finden Sie unter [erwerben eines Abonnements für Office 365 für Unternehmen aus Ihrer kostenlosen Testversion](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).

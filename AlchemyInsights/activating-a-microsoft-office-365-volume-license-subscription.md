@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 6e47011a79db805085e16e520455b64b937f0c3b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 15cdb1130674e92d8a673453921dddb291c5971f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358828"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36385864"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Aktivieren eines Microsoft Office 365 Volumenlizenzabonnements
 
@@ -32,4 +32,4 @@ ms.locfileid: "35358828"
 
 5. Melden Sie sich bei Office 365[https://portal.office.com](https://portal.office.com)() mit Ihren vorhandenen Office 365 Administratoranmeldeinformationen an. Nachdem Sie sich erfolgreich angemeldet haben, erhalten Sie eine weitere e-Mail, die Ihren Kauf bestätigt.
 
-6. Nachdem Sie sich angemeldet haben, können Sie zur Seite [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) wechseln oder die Option **Abrechnungs**  - \> **Abonnements** auswählen, um zu überprüfen, ob Ihre erworbenen Office 365 Abonnements in Ihrem Mandanten aktiviert sind. (Sie können auch die Registerkarte **Abonnement** in der VLSC auswählen, um Details anzuzeigen, die überprüfen, ob Ihr Abonnement hinterlegt wurde.) 
+6. Nachdem Sie sich angemeldet haben, können Sie zur Seite " **Abrechnungs** \> [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) " wechseln, um zu überprüfen, ob Ihre erworbenen Office 365 Abonnements innerhalb Ihres Mandanten aktiviert sind. (Sie können auch die Registerkarte **Abonnement** in der VLSC auswählen, um Details anzuzeigen, die überprüfen, ob Ihr Abonnement hinterlegt wurde.)
