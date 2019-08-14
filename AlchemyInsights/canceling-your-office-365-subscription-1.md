@@ -13,12 +13,12 @@ ms.custom:
 - "53"
 - "1400001"
 ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: 3751135ef7dd28a3a798d460fd2a82add6906b93
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: b1535e88e2c3a48da904b226509f4dd9c4988cc7
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35361679"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387303"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Stornieren des Office 365 Abonnements?
 
@@ -26,4 +26,4 @@ Es tut uns leid, dass Sie gehen, aber hier sind Ihre Optionen zum kündigen Ihre
   
 - **Basierend auf den Daten Ihrer Organisation glauben wir, dass alle Ihre aktuellen Abonnements Testabonnements sind. Es ist nicht erforderlich, ein Testabonnement explizit abzubrechen, da Testabonnements keine Zahlungen erfordern und nach Ablauf der Testphase keine Verpflichtung besteht.**
 
-- Weitere Informationen zum kündigen eines Abonnements oder Schritt-für-Schritt-Anweisungen finden Sie in diesem Artikel: [Cancel Office 365 für Unternehmen](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- Weitere Informationen zum kündigen eines Abonnements oder zu schrittweisen Anweisungen finden Sie in diesem Artikel: [kündigen des Abonnements](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)

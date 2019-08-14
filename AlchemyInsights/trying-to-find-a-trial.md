@@ -13,18 +13,18 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: beed41b96dde1b120a98391187424367e868071e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d11e5e28dbc524e9e894c0d2e504495f3811a763
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366748"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387843"
 ---
 # <a name="trying-to-find-a-trial"></a>Versuchen Sie, eine Testversion zu finden?
 
-Wenn Sie einen neuen Dienst ausprobieren möchten, finden Sie im Microsoft 365 Admin Center eine Liste der Abonnements, die für eine Testversion verfügbar sind.
+Wenn Sie einen neuen Dienst ausprobieren möchten, finden Sie im Admin Center eine Liste der Abonnements, die für eine Testversion zur Verfügung stehen.
   
-1. Wechseln Sie zur Seite [Einkaufsdienste](https://go.microsoft.com/fwlink/p/?linkid=868433) , oder wählen Sie **Fakturierungs** \> **Dienste**aus.
+1. Wechseln Sie im Admin Center zur Seite **Abrechnungs** \> - [Einkaufsdienste](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
 2. Suchen Sie das Abonnement, das Ihren Anforderungen entspricht, und klicken Sie mit der Maus darüber, und wählen Sie **﻿Kostenlose Testversion starten**aus.
 

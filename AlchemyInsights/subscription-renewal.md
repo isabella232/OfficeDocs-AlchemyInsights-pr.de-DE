@@ -13,18 +13,18 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 8dfeeded3106f707a57a2d0bcfb84c5e7a3416ec
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 0a60ea59daad5679f249fd52a15fe2262dee347b
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354076"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388182"
 ---
 # <a name="subscription-recurring-billing"></a>Abonnement wiederkehrende Abrechnung
 
 Wenn Sie wissen möchten, wann Ihr monatliches oder jährliches Abonnement fakturiert wird (wenn **wiederkehrende Abrechnung** aktiviert ist) oder abläuft (wenn die **wiederkehrende Abrechnung** deaktiviert ist):
   
-1. Wechseln Sie im Admin Center zur Seite [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), oder wählen Sie **Abrechnung** \> **Abonnements** aus.
+1. Wechseln Sie im Admin Center zur Seite **Abrechnungs** \> [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Wählen Sie das Abonnement aus, für das Sie mehr wissen möchten.
 
@@ -33,3 +33,5 @@ Wenn Sie wissen möchten, wann Ihr monatliches oder jährliches Abonnement faktu
 4. Wenn Sie den Dienst nach diesem Datum weiter verwenden möchten, wechseln Sie die Umschaltfläche für **wiederkehrende Abrechnungseinstellungen** auf **ein**. Im Status wird das nächste Abrechnungsdatum für das Abonnement angezeigt.
 
 5. Um den Dienst an diesem Datum zu beenden, wechseln Sie die Umschaltfläche für **wiederkehrende Fakturierung** auf **aus**. Der Status zeigt das Datum, an dem das Abonnement abgelaufen ist.
+
+Verwenden Sie das neue Admin Center? Neue Schritte finden Sie unter [Turn wiederkehrende Abrechnung aus oder ein](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription).
