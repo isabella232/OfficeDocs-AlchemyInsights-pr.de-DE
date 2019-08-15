@@ -3,28 +3,53 @@ title: Weitere Informationen zu Aufbewahrungsrichtlinien
 ms.author: stephow
 author: msft-stephow
 manager: laurawi
+ms.date: 08/14/2019
 ms.audience: admin
 ms.topic: article
 ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 7f7417a73e95d96a1b105d904bf926c363d4bcff
-ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
+ms.collection: Adm_O365
+ms.custom:
+- "9000048"
+- "1983"
+ms.openlocfilehash: 8d85116443b74369d33008ae8a398abc4597b6d4
+ms.sourcegitcommit: a2c866d2f3cdc1e18a33a5b2a4209340e83ca3c2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "35448834"
+ms.lasthandoff: 08/14/2019
+ms.locfileid: "36404837"
 ---
 # <a name="more-info-about-retention-policies"></a>Weitere Informationen zu Aufbewahrungsrichtlinien
 
-Für die meisten Organisationen nimmt das Volumen und die Komplexität Ihrer Daten täglich zu – e-Mails, Dokumente, Chatnachrichten und vieles mehr.
-Die effektive Verwaltung oder Steuerung dieser Informationen ist wichtig, und mithilfe einer Aufbewahrungsrichtlinie können Sie diese Ziele erreichen. Weitere Informationen zu Aufbewahrungsrichtlinien finden Sie unter den folgenden Links:
+Für die meisten Organisationen nimmt das Volumen und die Komplexität Ihrer Daten täglich zu – e-Mails, Dokumente, Chatnachrichten und vieles mehr. Die effektive Verwaltung oder Steuerung dieser Informationen ist wichtig, und mithilfe einer Aufbewahrungsrichtlinie können Sie diese Ziele erreichen. Weitere Informationen zu Aufbewahrungsrichtlinien finden Sie unter den folgenden Links:
 
-- [Übersicht über Aufbewahrungsrichtlinien](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
+## <a name="a-from-security-and-compliance-center"></a>A) vom Security and Compliance Center
 
-- [Aufbewahrungstags und Aufbewahrungsrichtlinien](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- Wechseln Sie zu Sicherheit und Compliance #a0 Datensteuerung #a1 Aufbewahrung
+  - Lesen Sie [diesen](https://docs.microsoft.com/en-us/office365/securitycompliance/retention-policies) Artikel
 
-- [Anwenden einer Aufbewahrungsrichtlinie auf eine gesamte Organisation oder bestimmte Speicherorte](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)
+- Wechseln Sie zu Sicherheit und Compliance #a0 eDiscovery> Advanced eDiscovery 
+  - Lesen Sie [diesen](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases) Artikel
 
-- [Neu erstellte oder aktualisierte Aufbewahrungsrichtlinien im Exchange-Verwaltungskonsole gelten nicht für Postfächer](https://docs.microsoft.com/alchemyinsights/retention-policies-in-exchange-admin-center-not-working)
+- Wechseln Sie zu Sicherheit und Compliance #a0 Klassifizierungen #a1 Aufbewahrung
+  - Siehe diese Artikel
+    - [Vertraulichkeits Bezeichnungen](https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels)
+    - [Bezeichnungen (Übersicht)](https://docs.microsoft.com/en-us/office365/securitycompliance/labels)
 
+## <a name="b-legacy-ediscovery-policies"></a>B) ältere eDiscovery-Richtlinien
+
+- Lesen Sie [diesen](https://support.office.com/en-us/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) Artikel
+
+## <a name="c-site-closure-and-deletion-policies"></a>C) Richtlinien zum Schließen und Löschen von Websites
+
+- Lesen Sie [diesen](https://support.office.com/en-us/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) Artikel  
+
+## <a name="d-information-rights-management-irm"></a>D) Verwaltung von Informationsrechten (IRM)
+
+- Siehe diese Artikel
+  - [IRM für eine Liste/Bibliothek](https://support.office.com/en-us/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
+  - [IRM (Übersicht)](https://support.office.com/en-us/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
+
+> [!Note]
+> Es wird dringend empfohlen, zu Sicherheits-und Compliance-Policies zu wechseln, wenn Sie weiterhin Legacy-eDiscovery-oder IRM-oder Site Closure-und Löschungsrichtlinien verwenden.
