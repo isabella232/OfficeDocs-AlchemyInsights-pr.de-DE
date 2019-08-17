@@ -12,12 +12,12 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 9f4a175239bc20aaf489615da63ef35002030a70
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d0af4c933f262fe1ec4c2a6ff16d5f6195398b0d
+ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369664"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36444807"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Aufbewahrungsrichtlinien im Exchange Admin Center
 
@@ -56,4 +56,9 @@ ms.locfileid: "35369664"
   ```
 
  **Hinweis:** Wenn ein Postfach kleiner als 10 MB ist, wird der Assistent für verwaltete Ordner das Postfach nicht automatisch verarbeiten.
-  
+ 
+Weitere Informationen zu Aufbewahrungsrichtlinien im Exchange Admin Center finden Sie unter:
+- [Aufbewahrungstags und Aufbewahrungsrichtlinien](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- [Anwenden einer Aufbewahrungsrichtlinie auf Postfächer](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
+- [Hinzufügen oder Entfernen von Aufbewahrungstags](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+- [Vorgehensweise identifizieren des in einem Postfach gelegten Aufbewahrungs Typs](https://docs.microsoft.com/en-us/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)

@@ -13,33 +13,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: d2187cffc8b6c29785b2c5151d1f608f1efbbd15
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
+ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371432"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36444771"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Durchführen von Inhalts suchen und eDiscovery-suchen
 
-**Inhaltssuche**
+Verwenden Sie das Tool für die Inhaltssuche im Security #a0 Compliance Center, um e-Mails in Exchange-Postfächern, Dokumenten in SharePoint-Websites und OneDrive-Konto und Chat Unterhaltungen in Skype for Business schnell zu finden. Sie können auch das Inhalts Such Tool verwenden, um nach e-Mails, Dokumenten und Chat Unterhaltungen in Office 365-Zusammenarbeitstools wie Microsoft Teams und Office 365 Gruppen zu suchen.
+
+**So führen Sie eine Inhaltssuche durch**
 
 1. Wechseln Sie zum [Security #a0 Compliance Center](https://protection.office.com) , und melden Sie sich an.
-2. Klicken Sie auf **Suche #a0 Untersuchung #a1 Inhaltssuche**.
+2. Klicken Sie auf **Such #a0 Inhaltssuche**.
 3. Klicken Sie auf **neue Suche** , um eine neue Suche zu erstellen.
 4. Geben Sie die erforderlichen Suchbedingungen einschließlich Stichwörter und inhaltsspeicherorte ein.  
 5. Klicken Sie auf **#a0 ausführen speichern** , um die Suche zu benennen, zu starten und dann eine Vorschau der Ergebnisse anzuzeigen.
 
-Ausführliche Anweisungen zum Erstellen von Suchvorgängen und zum Exportieren von Ergebnissen finden Sie in [diesem Artikel](https://docs.microsoft.com/office365/securitycompliance/content-search).
+Ausführliche Anweisungen zum Durchsuchen von Inhalten, zum Exportieren von Ergebnissen und zum Erstellen von eDiscovery-Fällen zum Speichern von Daten finden Sie unter [Inhaltssuche](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) und [eDiscovery-Fälle](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).
 
-**eDiscovery-suchen**
-
-1. Wechseln Sie zum [Security #a0 Compliance Center](https://protection.office.com) , und melden Sie sich an.
-2. Klicken Sie auf **Search #a0 Investigation #a1 eDiscovery**.
-3. Öffnen Sie einen vorhandenen Fall, oder erstellen Sie einen neuen.
-4. Klicken Sie auf der Seite Fall Home auf die Registerkarte **Suchen** .  
-5. Klicken Sie auf **neue Suche** , um eine neue Suche zu erstellen.
-6. Geben Sie die erforderlichen Suchbedingungen einschließlich Stichwörter und inhaltsspeicherorte ein.  
-7. Klicken Sie auf **#a0 ausführen speichern** , um die Suche zu benennen, zu starten und dann eine Vorschau der Ergebnisse anzuzeigen.
-
-Ausführliche Anweisungen zum Erstellen von Suchvorgängen im Zusammenhang mit einem eDiscovery-Fall und zum Exportieren von Ergebnissen finden Sie in [diesem Artikel](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
+Erfahren Sie mehr über die Inhaltssuche, indem Sie die [Anforderungen und Beschränkungen](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) prüfen und [teilweise indizierte Elemente](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) und andere Ergebnisse untersuchen, die Sie beachten sollten.
