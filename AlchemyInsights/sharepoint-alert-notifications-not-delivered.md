@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: e682a1b3dbd0d3a1c2e52be725dd2b57fc66109a
-ms.sourcegitcommit: a2c866d2f3cdc1e18a33a5b2a4209340e83ca3c2
+ms.openlocfilehash: f389785fcd1029ae5a47e07c723874f9f214109d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36404801"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36504462"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint-Benachrichtigungs Benachrichtigungen nicht zugestellt
 
@@ -26,7 +26,7 @@ ms.locfileid: "36404801"
 
 Ermitteln Sie, ob **alle Warnungen nicht zugestellt werden** oder ob **eine einzelne Warnung** aus einer bestimmten Datei oder Bibliothek nicht zugestellt wird.
 
-- **Einzelne Warnungen werden nicht zugestellt**: Wenn eine einzelne Warnung aus einer bestimmten Datei oder Bibliothek nicht zugestellt wird, können Sie versuchen, Sie zu löschen und neu zu erstellen. Informationen zum erneuten Erstellen der Benachrichtigung finden Sie unter [verwalten, anzeigen oder Löschen von SharePoint-Warnungen](https://support.office.com/en-us/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=en-US&ad=US#ID0EAADAAA=Online) .
+- **Einzelne Warnungen werden nicht zugestellt**: Wenn eine einzelne Warnung aus einer bestimmten Datei oder Bibliothek nicht zugestellt wird, können Sie versuchen, Sie zu löschen und neu zu erstellen. Informationen zum erneuten Erstellen der Benachrichtigung finden Sie unter [verwalten, anzeigen oder Löschen von SharePoint-Warnungen](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=en-US&ad=US#ID0EAADAAA=Online) .
 - **Alle Warnungen werden nicht zugestellt**: Wenn alle Warnungen aus mehreren Dateien oder Bibliotheken nicht zugestellt werden, besuchen Sie das [Service-Integritäts Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , um nach eventuellen Ratschlägen/Vorfällen zu suchen, die mit SharePoint oder Exchange möglicherweise auftreten. Das Problem kann mit der SharePoint-Benachrichtigungsfunktion oder mit Verzögerungen in e-Mails durch Exchange auftreten. Es wird auch wichtig sein zu beachten, ob andere e-Mails zugestellt werden, und wenn nicht, ist das Problem wahrscheinlich bei Exchange-Verzögerungen.
 
 FAQ für Benachrichtigungen:
@@ -36,17 +36,17 @@ FAQ für Benachrichtigungen:
 
 Weitere Informationen:
 
-- **Warnungs Setup**: Weitere Informationen zum Einrichten von Warnungen finden Sie unter [Erstellen einer Warnung, um benachrichtigt zu werden, wenn sich eine Datei oder ein Ordner in SharePoint ändert](https://support.office.com/en-us/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **Problembehandlung bei Warnungen**: Weitere Informationen zur Problembehandlung bei Warnungen finden Sie unter [Benutzer erhalten keine SharePoint Online Benachrichtigungs Benachrichtigungen](https://docs.microsoft.com/en-us/sharepoint/support/sites/no-alert-notifications).
-- **Richtlinien für erweiterte O365**-Konformitätswarnungen: Weitere Informationen zum Einrichten dieser Warnungen finden Sie unter [Compliance Alert Policies](https://docs.microsoft.com/en-us/office365/securitycompliance/alert-policies).
-- **SharePoint-und OneDrive-Überwachungsprotokolle**: Weitere Informationen zum Abrufen dieser Ereignisse finden Sie unter [Durchsuchen des Überwachungsprotokolls](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-- **Von Advanced Threat Protection gesendete Warnungen**: siehe [ATP für SharePoint und OneDrive](https://docs.microsoft.com/en-us/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- **Von Data Loss Prevention Policies gesendete Warnungen**: siehe [e-Mail-Benachrichtigungen für DLP-Richtlinien](https://docs.microsoft.com/en-us/office365/securitycompliance/use-notifications-and-policy-tips).
+- **Warnungs Setup**: Weitere Informationen zum Einrichten von Warnungen finden Sie unter [Erstellen einer Warnung, um benachrichtigt zu werden, wenn sich eine Datei oder ein Ordner in SharePoint ändert](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
+- **Problembehandlung bei Warnungen**: Weitere Informationen zur Problembehandlung bei Warnungen finden Sie unter [Benutzer erhalten keine SharePoint Online Benachrichtigungs Benachrichtigungen](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
+- **Richtlinien für erweiterte O365**-Konformitätswarnungen: Weitere Informationen zum Einrichten dieser Warnungen finden Sie unter [Compliance Alert Policies](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
+- **SharePoint-und OneDrive-Überwachungsprotokolle**: Weitere Informationen zum Abrufen dieser Ereignisse finden Sie unter [Durchsuchen des Überwachungsprotokolls](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+- **Von Advanced Threat Protection gesendete Warnungen**: siehe [ATP für SharePoint und OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
+- **Von Data Loss Prevention Policies gesendete Warnungen**: siehe [e-Mail-Benachrichtigungen für DLP-Richtlinien](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
 ## <a name="related-topics"></a>Verwandte Themen
 
 Möchten Sie Microsoft Flow in SharePoint Online testen?
 
-- [Fluss erstellen](https://support.office.com/en-us/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+- [Fluss erstellen](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
 
 - [SharePoint und Flow](https://flow.microsoft.com/en-us/blog/sharepoint-and-flow/)

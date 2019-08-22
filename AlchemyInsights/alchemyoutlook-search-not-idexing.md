@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: 4b55ef73a9234f605fd3dd02dc801866273be1a6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: eab8994e85149e0e4b6c0ed8ae455820cd78607a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397933"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36505830"
 ---
 # <a name="outlook-search-not-indexing"></a>Outlook-Suche nicht indiziert
 
-Wir sind uns der Outlook-Suchprobleme im Zusammenhang mit den neuesten Sicherheitsupdates für Windows vertraut.
+Wir sind uns der Outlook-Suchprobleme im Zusammenhang mit aktuellen Sicherheitsupdates für Windows bewusst.
   
-Bei der Suche in Outlook erhalten Sie möglicherweise folgende Fehlermeldung: * * etwas ist schief gelaufen, und Ihre Suche konnte nicht abgeschlossen werden * *, oder die **Suchergebnisse sind möglicherweise unvollständig, da Elemente noch indiziert**werden. Das Update wurde als optionales Windows-Update ausgegeben. Installieren Sie die entsprechende Version von Windows, auf der dieses Problem angezeigt wird: 
+Bei der Suche in Outlook erhalten Sie möglicherweise einen der folgenden Fehler: Es ist **etwas schief gelaufen, und die Suche konnte nicht abgeschlossen werden**, oder die **Suchergebnisse sind möglicherweise unvollständig, da Elemente noch indiziert**werden. Das Update wurde als optionales Windows-Update ausgegeben. Installieren Sie den entsprechenden Eintrag für die Windows-Version, auf der dieses Problem angezeigt wird: 
   
-> [Windows 7-27. Juni 2017 Update](https://support.microsoft.com/kb/4022168.aspx)
+> [Windows 7-Juni 27, 2017 Update](https://support.microsoft.com/kb/4022168.aspx)
     
-> [Windows 8,1-27. Juni 2017 Update](https://support.microsoft.com/kb/4022720.aspx)
+> [Windows 8.1-Juni 27, 2017 Update](https://support.microsoft.com/kb/4022720.aspx)
     
-> [Windows 10 Version 1703-Juni 27, 2017 Update](https://support.microsoft.com/kb/4022716.aspx)
+> [Windows 10-Version 1703-Juni 27, 2017 Update](https://support.microsoft.com/kb/4022716.aspx)
     
-Die neuesten Informationen finden Sie im Artikel: [Outlook bekannte Probleme im juni 2017 Sicherheitsupdates](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) #5. 
+Die neuesten Informationen finden Sie im Artikel: [bekannte Probleme in Outlook im 2017-Problem mit Sicherheitsupdates im Juni](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) #5. 
   
 

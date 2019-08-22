@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: 49d2b7655cd086fd56f5a6fc45ac437b6ca95970
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 2092a4a1f45d5edf99471c88a0556721b5a1f38e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32412468"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36499422"
 ---
-# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Vorgehensweise, wenn die Größe des Postfachs bereits 100 GB beträgt
+# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Was tun, wenn die Postfachgröße bereits 100 GB beträgt
 
-Bei einem E3-oder E5-Plan beträgt die Größe des Postfachs bereits 100 GB, und es gibt keine Möglichkeit, es zu vergrößern. Löschen Sie stattdessen alte e-Mails, oder aktivieren Sie die e-Mail-Archivierung, um Sie in der Cloud zu speichern. 
+Mit einem E3-oder E5-Plan ist Ihre Postfachgröße bereits 100 GB, und es gibt keine Möglichkeit, Sie zu vergrößern. Löschen Sie stattdessen alte e-Mails, oder aktivieren Sie die e-Mail-Archivierung, um Sie in der Cloud zu speichern. 
   
-So aktivieren Sie die e-Mail-Archivierung
+So aktivieren Sie die e-Mail-Archivierung:
   
-1. wechseln sie im Microsoft 365 admin center zu **admin centers** \> **Exchange**. 
+1. Wechseln Sie im Microsoft 365 Admin Center zu **Admin Centers** \> **Exchange**. 
     
-2. Wählen Sie **Empfänger** \> * * Postfächer * * aus, und wählen Sie ein Postfach aus. 
+2. Wählen Sie **Empfänger** \> **Postfächer**aus, und wählen Sie ein Postfach aus. 
     
-3. Wählen Sie im Detailbereich unter **in-Place Archive**die **Option aktivieren**aus. 
+3. Wählen Sie im Detailbereich unter **in-Place Archive**die Option **enable**aus. 
     
-4. Nach ein paar Minuten wird ein neuer Ordner im Outlook des Benutzers im Web namens " *in-Place Archive* " oder in der Outlook-App namens " *Online Archiv- \<Name\> * " angezeigt. Ihr Benutzer kann e-Mails per Drag & Drop in das Archiv ziehen. 
+4. Nach ein paar Minuten wird ein neuer Ordner in Ihrem Benutzer Outlook im Internetnamens *in-Place Archive* oder in der Outlook-app " *Online Archive \<-Name\> * " angezeigt. Ihr Benutzer kann e-Mails per Drag & Drop in das Archiv verschieben. 
     
-Sie können auf eine unbegrenzte Menge an Speicher für die Archivierung zugreifen. Weitere Informationen finden Sie unter [enable](https://support.office.com/article/enable-unlimited-archiving-in-office-365-admin-help-e2a789f2-9962-4960-9fd4-a00aa063559e)Unlimited Archiving.
+Sie können auf eine unbegrenzte Menge an Speicherplatz für die Archivierung zugreifen. Weitere Informationen finden Sie unter [enable](https://support.office.com/article/enable-unlimited-archiving-in-office-365-admin-help-e2a789f2-9962-4960-9fd4-a00aa063559e)Unlimited Archiving.
   
 

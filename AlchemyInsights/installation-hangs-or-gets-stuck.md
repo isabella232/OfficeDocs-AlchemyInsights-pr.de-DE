@@ -12,14 +12,14 @@ ms.custom:
 - "851"
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
-ms.openlocfilehash: 356528f2269dab7b1d9e3f7ec90a2ceb35adef61
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 321f357f97f4cf1031e5485a6a3f91397b0fbcab
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381800"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498630"
 ---
-# <a name="installation-hangs-or-gets-stuck"></a>Installation hängt oder wird festgefahren
+# <a name="office-installation-hangs-or-gets-stuck"></a>Office-Installation hängt ab oder steckt fest
 
 Dieses Verhalten wird möglicherweise aufgrund von Netzwerkkonnektivität, Antivirensoftware oder Windows Update-Einstellungen auf Ihrem Computer angezeigt. Here are some things you can try to fix the problem.
   

@@ -8,22 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 149bf3f8d261c2c2945ec47c47cf9ca694f7aec9
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 546d9c63d0ed37403d602e942c18d1b35caf6075
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35222955"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36519670"
 ---
-# <a name="why-you-might-not-be-able-to-edit-files"></a>Warum können Sie Dateien möglicherweise nicht bearbeiten?
+# <a name="cant-edit-files"></a>Dateien können nicht bearbeitet werden?
 
-Wenn ein Dokument, ein Arbeitsblatt oder eine Präsentation zum Bearbeiten gesperrt ist und nicht geöffnet werden kann, kann es sein, dass die Datei bereits von einer anderen Person bearbeitet wird oder die Datei ausgecheckt ist. Lassen Sie uns einen kurzen Blick auf einige der Gründe werfen [, warum Sie die Datei möglicherweise nicht bearbeiten können](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Wenn ein Dokument, ein Arbeitsblatt oder eine Präsentation für die Bearbeitung gesperrt ist und nicht in den Windows-Desktopanwendungen geöffnet werden kann, kann es sein, dass die Datei bereits von einer anderen Person bearbeitet wird oder die Datei ausgecheckt ist. Lassen Sie uns einen kurzen Blick auf einige der Gründe werfen [, warum Sie die Datei möglicherweise nicht bearbeiten können](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
-Hinweis: Bibliotheken mit Auschecken, erforderliche Spalten/Metadaten oder wenn die Option Entwurfselementsicherheit auf nur Benutzer, die bearbeiten können, oder nur auf Benutzer beschränkt ist, die Elemente in den Versionseinstellungen der Bibliothek genehmigen können.
+Wenn Sie über Bibliotheken mit **Checkout, erforderliche** oder **** Überprüfungs Spalten oder Metadaten verfügen oder wenn die **Option "Entwurfselementsicherheit** " entweder **nur für Benutzer, die bearbeiten können** , oder **nur für Benutzer, die Elemente** in den Versionseinstellungen genehmigen können, festgelegt ist Bibliothek
 
-Für OneDrive-Bibliotheken wird in OneDrive ein Sperrsymbol neben dem Synchronisierungsstatus angezeigt, und der Benutzer kann die Bibliothek erst synchronisieren, wenn die erwähnten Einstellungen entfernt wurden.
+- Für SharePoint-Dokumentbibliotheken werden diese Elemente schreibgeschützt synchronisiert.
 
-Weitere Informationen zu gesperrten Dateien für Word/Excel finden Sie in den folgenden Artikeln.
+- Für OneDrive-Bibliotheken wird in OneDrive neben dem Synchronisierungsstatus ein Sperrsymbol (OneDrive Datei gesperrt) angezeigt, und der Benutzer kann die Bibliothek erst synchronisieren, wenn die erwähnten Einstellungen entfernt wurden. 
+
+Wenn Sie weitere Informationen zu gesperrten Dateien für Word oder Excel erhalten möchten, verweisen Sie auf die folgenden Artikel.
 
 - [Die Excel-Datei ist für die Bearbeitung durch einen anderen Benutzer gesperrt.](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
