@@ -1,5 +1,5 @@
 ---
-title: Elemente in SharePoint löschen
+title: Löschen von Elementen in SharePoint
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: af5691d7-a55f-4ece-90c8-d6aaece66b1c
-ms.openlocfilehash: 36336948162a81dbd4221395473208b5687a490f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 91f5d3647e6fe4be75f3ce15526d195d61f969c3
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32405046"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36513631"
 ---
-# <a name="delete-items-in-sharepoint"></a>Elemente in SharePoint löschen
+# <a name="delete-items-in-sharepoint"></a>Löschen von Elementen in SharePoint
 
 [Löschen einer Liste](https://go.microsoft.com/fwlink/?linkid=869393)
   

@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 7d300bd006c3e7fae68da1245037819396122fc9
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c3f47e3230270e69b8a5bb7ee4167b0b534460dd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34754929"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498954"
 ---
+# <a name="about-litigation-holds-and-in-place-holds"></a>Informationen zu Beweissicherungsverfahren und in-Place-Aufbewahrungszeit Räumen
+
 - Um ein Beweissicherungsverfahren oder einen in-situ-Speicher auf ein Postfach anzuwenden, ist eine [Exchange Online Plan 2-Lizenz](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) erforderlich. Wenn Sie einen anderen Plan haben, weisen Sie dem Konto eine separate [Exchange Online Archivierungs](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) Lizenz zu. 
     
 - Führen Sie die [hier](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)beschriebenen Schritte aus, **um ein Beweissicherungsverfahren** für einen einzelnen Benutzer zu aktivieren. Wenn das Beweissicherungsverfahren aktiviert ist, werden alle Inhalte im Postfach aufbewahrt.

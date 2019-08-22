@@ -8,27 +8,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: f1a4803838b6511ef4fe7f03cafa4aa13b3c9734
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e4fea7188bd77ba876e2a245414372c3ff836059
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420699"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36500402"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>Problembehandlung bei Zugriff verweigerten Nachrichten
 
-Wenn jemand eine Meldung "Zugriff verweigert" in einem freigegebenen Ordner erhalten hat, hat der Websitesammlungsadministrator möglicherweise den Sperrmodus für Benutzerberechtigungen mit eingeschränktem Zugriff aktiviert. Deaktivieren Sie diese Option: 
+Wenn jemand eine Meldung "Zugriff verweigert" in einem freigegebenen Ordner in SharePoint erhalten hat, hat der Websitesammlungsadministrator möglicherweise den Sperrmodus "eingeschränkter Zugriff auf Benutzerberechtigungen" aktiviert. Um dies zu deaktivieren: 
   
-1. Wechseln Sie zur Website, klicken Sie auf das Symbol Einstellungen, und klicken Sie dann auf **Websiteeinstellungen**.
+1. Wechseln Sie zu der Website, klicken Sie auf das Symbol Einstellungen, und klicken Sie dann auf **Websiteeinstellungen**.
     
 2. Klicken Sie unter **Websitesammlungsverwaltung** auf **Websitesammlungsfeatures**.
     
-3. Klicken Sie neben dem **Sperrmodus für Benutzer mit eingeschränktem Zugriff**auf **Deaktivieren**.
+3. Klicken Sie neben **Benutzer Berechtigungs Sperrmodus für beschränkte Zugriffs**Rechte auf **Deaktivieren**.
     
-Eine Meldung "Zugriff verweigert" kann auch für freigegebene Ordner auftreten, wenn es sich bei der Website um eine Veröffentlichungswebsite handelt. Weitere Informationen finden Sie unter [Zugriff verweigert beim Zugriff auf einen freigegebenen Ordner](https://go.microsoft.com/fwlink/?linkid=2004317).
+Eine Nachricht mit Zugriff verweigert kann auch für freigegebene Ordner auftreten, wenn es sich bei der Website um eine Veröffentlichungswebsite handelt. Informationen finden Sie unter [Zugriff verweigert beim Zugriff auf einen freigegebenen Ordner](https://go.microsoft.com/fwlink/?linkid=2004317).
   
-Wenn eine Person beim Versuch, Zugriffsanforderungen anzuzeigen, die Meldung "Zugriff verweigert" erhalten hat, muss der Benutzer entweder als Websitesammlungsadministrator oder als Mitglied der Gruppe "Besitzer" für die Website hinzugefügt werden. Weitere Informationen finden Sie unter [Access denied to Access Requests List](https://go.microsoft.com/fwlink/?linkid=2004220).
+Wenn ein Benutzer bei dem Versuch, Zugriffsanforderungen anzuzeigen, eine Meldung "Zugriff verweigert" erhalten hat, muss er als Websitesammlungsadministrator oder als Mitglied der Gruppe "Besitzer" für die Website hinzugefügt werden. Weitere Informationen finden Sie unter [Access denied to Access Requests List](https://go.microsoft.com/fwlink/?linkid=2004220).
   
-Wenn ein Benutzer eine Meldung "Zugriff verweigert" erhalten hat, nachdem er aus Active Directory entfernt und dann wieder hinzugefügt wurde, finden Sie weitere Informationen unter [Zugriff verweigert, wenn ein Benutzerkonto mit Office 365 synchronisiert wird](https://go.microsoft.com/fwlink/?linkid=2004318).
+Wenn ein Benutzer eine Meldung "Zugriff verweigert" erhalten hat, nachdem er aus Active Directory lokal entfernt und anschließend wieder hinzugefügt wurde, finden Sie Informationen unter [Zugriff verweigert, wenn ein Benutzerkonto mit Office 365 synchronisiert wird](https://go.microsoft.com/fwlink/?linkid=2004318).
   
 

@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 6fc4bd5f6971ca833084a6a8ad6c25b3fdafb8dc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381728"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498414"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Installieren von Office auf einem Terminal Server
 
@@ -26,7 +26,7 @@ Für die Bereitstellung von Office 365 ProPlus auf einem Windows-Server mit Remo
 
 - Sie müssen die [Aktivierung gemeinsam genutzter Computer](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus)aktivieren.
 
-Wenn Sie Office 365 ProPlus über das Office 365 Portal auf RDS installieren möchten, führen Sie die folgenden Schritte aus, * * in *dem die Standardinstallationseinstellungen* * * verwendet werden:
+Wenn Sie Office 365 ProPlus über das Office 365 Portal, in ***dem standardmäßige Installationseinstellungen verwendet***werden, auf RDS installieren möchten, führen Sie die folgenden Schritte aus:
   
 1. Überprüfen Sie, welche Office 365 Plan Sie haben. [Erfahren Sie, wie](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
@@ -36,7 +36,7 @@ Wenn Sie Office 365 ProPlus über das Office 365 Portal auf RDS installieren mö
 
 4. Melden Sie sich auf dem RDS-Server mit Ihrem Administratorkonto beim Office 365-Portal an, und [Installieren Sie Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
 
-5. Nachdem Office installiert wurde, * * *nicht öffnen oder anmelden* * * für Office-Anwendungen.
+5. ***Öffnen oder melden*** Sie sich nach der Installation von Office nicht bei Office-Anwendungen an.
 
 6. Aktivieren Sie auf dem RDS-Server die Aktivierung freigegebener Computer durch Bearbeiten der Registrierung, indem Sie die folgenden Schritte ausführen:
 
@@ -46,7 +46,7 @@ Wenn Sie Office 365 ProPlus über das Office 365 Portal auf RDS installieren mö
 
 3. Fügen Sie im Registrierungs-Editor einen Zeichenfolgenwert von **SharedComputerLicensing** mit der Einstellung 1 unter HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. Auf dem RDS-Server * * *melden* Sie sich als Endbenutzer * * an, und [Stellen Sie sicher, dass die Aktivierung gemeinsam genutzter Computer für Office 365 ProPlus aktiviert ist](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. Melden Sie sich auf dem RDS-Server ***als Endbenutzer an*** , und [Stellen Sie sicher, dass die Aktivierung gemeinsam genutzter Computer für Office 365 ProPlus aktiviert ist](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
 Ausführliche Informationen zu Voraussetzungen, Setupanweisungen und Anleitungen für benutzerdefinierte Installationen mithilfe des Office-Bereitstellungstools finden Sie unter [Deploy Office 365 ProPlus mithilfe von Remote Desktop Dienste](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   

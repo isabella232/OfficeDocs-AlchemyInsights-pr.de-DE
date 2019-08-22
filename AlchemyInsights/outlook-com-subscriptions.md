@@ -10,21 +10,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
-ms.openlocfilehash: 04b9812e755ced55331c436932558dac6420e060
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 03a76b467d24c1a4e7e478d9ecc2bd4dad8aff7c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373567"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511810"
 ---
-# <a name="subscriptions-and-unsubscribing"></a>Abonnements und Abonnement kündigen
+# <a name="subscriptions-and-unsubscribing"></a>Abonnements und abbestellen
 
-Wenn Sie keine Newsletter oder Werbeaktionen mehr erhalten möchten, gibt es zwei Möglichkeiten zum Kündigen des Abonnements in Outlook.com:
+Wenn Sie den Erhalt von Newslettern oder Werbeaktionen beenden möchten, gibt es zwei Möglichkeiten zum Kündigen des Abonnements in Outlook.com:
 
-1. Wählen Sie in Ihrem Posteingang einen Newsletter oder eine Werbe-e-Mail aus. Klicken Sie oben im Lesebereich auf **Abonnement kündigen**.
-2. öffnen sie [ihre Outlook.com-abonnementeinstellungen](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**einstellungen** > **anzeigen aller** > **e-mail-** > **abonnements**für Outlook-einstellungen), und wählen sie **abonnement kündigen**aus.
+1. Wählen Sie in Ihrem Posteingang einen Newsletter oder eine Werbe-e-Mail aus. Wählen Sie oben im Lesebereich die Option **Abonnement kündigen**aus.
+2. Öffnen Sie [Ihre Outlook.com-Abonnementeinstellungen](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Einstellungen** > **alle Outlook** > **-Einstellungen e-Mail-** > **Abonnements**anzeigen), und wählen Sie **Abonnement kündigen**aus.
 
 Hinweise:
 
-- Derzeit können nicht alle Kunden von dieser Funktion profitieren.
-- Diese Funktion wird nur angezeigt, wenn Sie eine e-Mail des Unternehmens erhalten haben, das die e-Mail-Nachricht gesendet hat.
+- Nicht alle Kunden können in diesem Moment von dieser Funktion profitieren.
+- Dieses Feature wird nur angezeigt, wenn Sie eine e-Mail vom Unternehmen erhalten haben, die abonnierte e-Mails sendet.

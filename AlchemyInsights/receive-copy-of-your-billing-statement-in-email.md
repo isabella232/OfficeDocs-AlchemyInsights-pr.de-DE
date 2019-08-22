@@ -13,14 +13,14 @@ ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 62d67ad0ebaee202f41b0a0fa0e0c36f681588ac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 128f7c3b962d35934e14b80262ac9b2989967bc6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385827"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36510082"
 ---
-# <a name="receive-copy-of-your-billing-statement-in-email"></a>Kopie Ihrer Abrechnungs Anweisung per e-Mail erhalten
+# <a name="receive-copy-of-your-office-365-billing-statement-in-email"></a>Kopie Ihrer Office 365-Abrechnungs Anweisung per e-Mail erhalten
 
 Sie können auf Wunsch eine Kopie Ihrer Rechnung als E-Mail-Anlage erhalten. In diesem Fall sollten Sie Folgendes beachten:
   
@@ -32,4 +32,4 @@ So erhalten Sie Ihre Abrechnungs Anweisung per e-Mail:
   
 1. Wechseln Sie im Admin Center zur Seite **Billing** \> [Billing Notifications](https://go.microsoft.com/fwlink/p/?linkid=853212) .
 
-2. Setzen Sie unter **Möchten Sie die Rechnung als E-Mail-Anlage erhalten?** die Umschaltfläche auf **Ein**. Sie können den Empfang von Rechnungs-E-Mails jederzeit beenden, indem Sie die Umschaltfläche auf **Aus** setzen.
+2. **Wenn Sie die Abrechnungs Anweisung als e-Mail-Anlage empfangen?**, schalten Sie die Umschaltfläche **auf ein ein**. Sie können den Empfang von Rechnungs-E-Mails jederzeit beenden, indem Sie die Umschaltfläche auf **Aus** setzen.

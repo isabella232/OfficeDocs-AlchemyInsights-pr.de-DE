@@ -12,23 +12,23 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: cd75ad71fc731047011627cabe24b74d8f342892
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 870f81742c13b143a0b99e2ce126d9b696e72d28
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386403"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522610"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Vorgehensweise hinzufügen oder Bearbeiten eines VatID
 
-- Wechseln Sie im Admin Center zur Seite **Abrechnungs** \> [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1.  Wechseln Sie im Microsoft 365 Admin Center zur Seite **Abrechnungs** \> [Produkte #a0 servicces](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-- Wählen Sie auf der Seite **Abonnements** das Abonnement aus, das Sie bearbeiten möchten, und klicken Sie dann auf **Weitere Aktionen** \> **Bearbeiten MwSt**.-Nummer.
+2. Suchen Sie die Abonnementkarte für das Abonnement, das Sie aktualisieren möchten.
 
-- Geben Sie unten im Bereich **Dienstnutzungsadresse bearbeiten** Ihre MwSt.-ID in das Feld MwSt.- **Nummer** ein, und wählen Sie dann **Absenden**aus.
+3. Wählen Sie im Abschnitt **Einstellungen #a0 Aktionen** die Option **Dienst Verwendungs Adresse bearbeiten**aus.
+
+4. Geben Sie auf der Seite **Dienstnutzungsadresse bearbeiten** Ihre MwSt.-ID in das Feld MwSt.- **Nummer** ein, und wählen Sie dann **Speichern**aus.
 
     Wenn dieser Vorgang abgeschlossen ist, wird die Mehrwertsteuer für Ihre nächste Rechnung nicht belastet.
 
-Weitere Informationen finden Sie unter [welche Steuern werden für Office 365 berechnet?](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
-
-Verwenden Sie das neue Admin Center? Neue Schritte finden Sie unter [Hinzufügen Ihrer MwSt-ID](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
+Weitere Informationen finden Sie unter [welche Steuern werden mir für Office 365 berechnet?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged) oder [fügen Sie Ihre MwSt.-ID hinzu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
