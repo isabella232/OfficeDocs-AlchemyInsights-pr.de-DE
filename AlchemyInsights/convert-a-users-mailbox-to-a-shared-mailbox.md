@@ -13,16 +13,16 @@ ms.custom:
 - "624"
 - "3500003"
 ms.assetid: a38afd0a-fae5-49e1-9757-6986d5f5531e
-ms.openlocfilehash: 81890c6dce8e72ef30a12bd7fa9c68979fce1e0f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a3a5ca84f6e7e0173bdaef5222033d25abbced8c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360340"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516166"
 ---
 # <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a>Konvertieren eines Benutzerpostfachs in ein freigegebenes Postfach
 
-Wenn Sie das Postfach eines Benutzers in ein freigegebenes Postfach konvertieren, werden alle vorhandenen E-Mails und Kalender beibehalten. Sie befinden sich nun nur in einem freigegebenen Postfach, auf das mehrere Personen (nicht nur eine Person) zugreifen können. Zu einem späteren Zeitpunkt können Sie ein freigegebenes Postfach wieder in ein Benutzerpostfach (privat) konvertieren.
+Wenn Sie das Postfach eines einzelnen Benutzers in ein freigegebenes Postfach konvertieren, werden alle vorhandenen e-Mail-und Kalenderelemente in einem freigegebenen Postfach aufbewahrt, auf das mehrere Personen zugreifen können. Sie können ein freigegebenes Postfach auch wieder in ein Benutzerpostfach (privat) konvertieren.
   
-[Weitere Informationen...](https://support.office.com/article/2e122487-e1f5-4f26-ba41-5689249d93ba)
+[Weitere Informationen...](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox)
   

@@ -13,27 +13,30 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 9592c217a8ea994314f1c1f75ce5928bb8020bac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 93010b4923e86122fefea973c4653af827280ed4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385611"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495030"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Hinzufügen von Arbeitsplätzen zu einem Prepaid-Abonnement
 
-1. Wechseln Sie im Admin Center zur Seite **Abrechnungs** \> [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+Prepaid-Office 365 Lizenzen werden Ihnen als 25-stelliger alphanumerischer Code ausgestellt. Nachdem Sie die benötigten Lizenzen erworben haben, können Sie Sie zu Ihrem Abonnement hinzufügen. 
 
-2. Wählen Sie das Prepaid-Abonnement aus, dem Sie Benutzer hinzufügen möchten.
+1. Wechseln Sie im Admin Center zur Seite **Abrechnungs** > [Produkte #a0 Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-3. Wählen Sie im Menü **Weitere Aktionen** die Option **Lizenz mit Token erneuern oder hinzufügen**aus.
+2. Suchen Sie nach dem Abonnement, dem Sie Lizenzen hinzufügen möchten. Wählen Sie die Dropdownliste **Weitere Aktionen** aus, und wählen Sie dann **Lizenz mit Token erneuern oder hinzufügen**aus.
 
-4. Wählen Sie die Option **neuer und nicht verwendeter Produktschlüssel** aus. (Wenn dieses Abonnement mit einem Produktschlüssel erstellt wurde, der an einem Einzelhandelsstandort erworben wurde, haben Sie möglicherweise die Möglichkeit, Benutzer mit anderen Zahlungsmethoden hinzuzufügen.)
+3. Wählen Sie auf der Seite **Benutzerlizenzen erneuern oder hinzufügen** die Option **neuen und nicht verwendeten Product Key verwenden**aus, und wählen Sie dann **weiter**aus.
 
-5. Wählen Sie **Weiter** aus.
+4. Geben Sie den Product Key ein, und wählen Sie dann **weiter**aus.
 
-6. Geben Sie den Product Key ein, und klicken Sie dann auf **weiter**.
+    > [!NOTE]
+    > Wenn Sie mehr als einen Product Key hinzufügen möchten, können Sie **Weiteren Product Key hinzufügen** auswählen und diesen dann eingeben.
 
-7. Wählen Sie die Option zum Hinzufügen weiterer Benutzer aus, wählen Sie **weiter**aus, und klicken Sie dann auf einlösen. ****
+5. Wählen Sie aus, um Benutzer zum Abonnement hinzuzufügen, und wählen Sie dann **weiter**aus.
 
-Verwenden Sie das neue Admin Center? Neue Schritte finden Sie unter [Hinzufügen von Lizenzen zu oder Erweitern eines Abonnements, das mit einem Product Key bezahlt](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key)wurde.
+6. Überprüfen Sie Ihre Bestelldetails, **** und wählen Sie dann einlösen aus.
+
+Weitere Informationen finden Sie unter [Hinzufügen von Lizenzen zu oder Erweitern eines Abonnements, das mit einem Product Key bezahlt](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key)wurde.

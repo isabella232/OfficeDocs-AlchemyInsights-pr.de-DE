@@ -1,5 +1,5 @@
 ---
-title: Fehler OneDrive kann keine Verbindung zu Windows herstellen
+title: Fehler OneDrive kann keine Verbindung mit Windows herstellen
 ms.author: kirks
 author: Techwriter40
 ms.date: 10/16/2018
@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 69957735-7ae3-4622-b3cf-607c816f3651
-ms.openlocfilehash: 9843360c019e52b4e1cae2db7482f9929bdc3aa6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 165fb1e1574eaff61c2f25a1476bce7da382aefa
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32402366"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526990"
 ---
-# <a name="error-onedrive-cannot-connect-to-windows"></a>Fehler: OneDrive kann keine Verbindung zu Windows herstellen
+# <a name="error-onedrive-cannot-connect-to-windows"></a>Fehler: OneDrive kann keine Verbindung mit Windows herstellen
 
-Um die Fehlermeldung zu beheben, suchen Sie nach der Datei cldflt. sys, um zu sehen, ob Sie aktiv ist, und aktivieren Sie Sie, falls nicht,. 
+Um die Fehlermeldung zu beheben, suchen Sie nach der cldflt. sys-Datei, um zu sehen, ob Sie läuft, und falls nicht, aktivieren Sie Sie. 
   
 Weitere Informationen zum Aktivieren der Datei cldflt. sys finden Sie unter [OneDrive cannot connect to Windows "beim Zugriff auf Dateien in OneDrive.](https://go.microsoft.com/fwlink/?Linkid=2031032)
   

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "995"
 - "6000003"
-ms.openlocfilehash: 93f55a70d696dc24b4f502dfacd4c1340582878a
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 9c2742b715064d55d9525860f78c530294f90999
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753352"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530931"
 ---
 # <a name="manage-office-365-groups-in-yammer"></a>Verwalten von Office 365 Gruppen in "jammern"
 
@@ -30,4 +30,4 @@ Hier finden Sie einige Antworten auf die häufigsten Probleme mit Office 365 Gru
 
   2. Wechseln Sie zu **Netzwerkadministrator, Sicherheitseinstellung**, und stellen Sie sicher, dass **Office 365 Identität** für Benutzer von jammern erzwungen wird.
 
-Weitere Informationen zu Office 365 Gruppen und zu jammern finden Sie unter [jammern und Office 365-Gruppen](https://docs.microsoft.com/en-us/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252fen-us%252farticle%252fYammer-and-Office-365-Groups-d8c239dc-a48b-47ab-b85e-6b4b8191a869). Informationen zum Verwalten einer Gruppe finden Sie unter [Verwalten einer Gruppe in "jammern"](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2) .
+Weitere Informationen zu Office 365 Gruppen und zu jammern finden Sie unter [jammern und Office 365-Gruppen](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252fen-us%252farticle%252fYammer-and-Office-365-Groups-d8c239dc-a48b-47ab-b85e-6b4b8191a869). Informationen zum Verwalten einer Gruppe finden Sie unter [Verwalten einer Gruppe in "jammern"](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2) .

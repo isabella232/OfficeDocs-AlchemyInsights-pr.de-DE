@@ -1,5 +1,5 @@
 ---
-title: Suchen verlorener oder fehlender Dateien in OneDrive oder SharePoint
+title: Suchen nach verlorenen oder fehlenden Dateien in OneDrive oder SharePoint
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
-ms.openlocfilehash: 3da4aab8de8ac36d87a51f101d6da304e1b383f5
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 911b8fffa673e578a7afb83cfff305e4f1806013
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401540"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36525418"
 ---
-# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Suchen verlorener oder fehlender Dateien in OneDrive oder SharePoint
+# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Suchen nach verlorenen oder fehlenden Dateien in OneDrive oder SharePoint
 
-- Überprüfen Sie den Papierkorb, indem Sie zu Ihrem OneDrive oder der SharePoint-Website im Web navigieren und im linken Bereich auf Papierkorb klicken. (Wenn der Papierkorb nicht im linken Bereich angezeigt wird, klicken Sie auf das Symbol "Einstellungen", und wählen Sie dann **Websiteinhalte**aus. **Papierkorb** befindet sich ganz rechts auf der Befehlsleiste oben.) 
+- Überprüfen Sie den Papierkorb, indem Sie zu Ihrem OneDrive oder der SharePoint-Website im Web navigieren und auf Papierkorb im linken Bereich klicken. (Wenn im linken Bereich kein Papierkorb angezeigt wird, klicken Sie auf das Symbol "Einstellungen", und wählen Sie dann **Websiteinhalt**aus. Der **Papierkorb** befindet sich ganz rechts in der Befehlsleiste oben.) 
     
 - Wenn Sie die Dateien auf Ihrem Computer synchronisieren, überprüfen Sie den Papierkorb auf Ihrem Computer. 
     
-- Wenn das gesuchte Element nicht angezeigt wird und es vor kurzem gelöscht wurde, kann ein Websitesammlungsadministrator es möglicherweise aus dem Papierkorb der Websitesammlung wiederherstellen. Wenn Sie der Websitesammlungsadministrator sind, finden Sie weitere Informationen unter [Wiederherstellen gelöschter Elemente aus dem Papierkorb der Websitesammlung](https://go.microsoft.com/fwlink/?linkid=866439).
+- Wenn das gesuchte Element nicht angezeigt wird und es vor kurzem gelöscht wurde, kann es vom Websitesammlungsadministrator möglicherweise aus dem Papierkorb der Websitesammlung wiederhergestellt werden. Wenn Sie der Websitesammlungsadministrator sind, finden Sie weitere Informationen unter [Wiederherstellen gelöschter Elemente aus dem Papierkorb der Websitesammlung](https://go.microsoft.com/fwlink/?linkid=866439).
     
-[Weitere Hilfe zur Wiederherstellung gelöschter Dateien und Ordner in OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
+[Weitere Hilfe beim Wiederherstellen gelöschter Dateien und Ordner in OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
   
 

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
-ms.openlocfilehash: 9dfd0a4c72a279970bc883aee1e999e2bf63cc61
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: c0671e54b9d707bd63c7af275bfc4adc353019c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32366942"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36559156"
 ---
 # <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Aktivieren oder Deaktivieren der externen Freigabe für eine SharePoint-Website
 
@@ -24,11 +24,11 @@ Für eine Website:
   
 1. Klicken Sie im neuen SharePoint Admin Center im linken Bereich auf **Websites**.
     
-2. Wählen Sie die Website oder Websites aus, und klicken Sie auf dem Menüband auf **Freigabe**.
+2. Wählen Sie die Website oder Standorte aus, und klicken Sie auf dem Menüband auf **Freigabe**.
     
-Neue Websites, die von Benutzern erstellt werden (beide Teamwebsites, die zu Office 365-Gruppen und-Websites gehören), haben standardmäßig die gleiche Freigabe Einstellung wie Ihre organisationsweite Einstellung, es sei denn, die organisationsweite Einstellung ermöglicht das Freigeben von Dateien mithilfe von Links, die nicht Anmeldung erforderlich. In diesem Fall ermöglichen die Websites die Freigabe für neue und vorhandene externe Benutzer, die sich anmelden. Um die Einstellung für bestimmte Websites zu ändern, verwenden Sie das neue SharePoint Admin Center.
+Standardmäßig weisen neue Websites, die von Benutzern erstellt werden (beide Teamwebsites, die zu Office 365 Gruppen und Kommunikationswebsites gehören) die gleiche Freigabe Einstellung wie Ihre organisationsweite Einstellung auf, es sei denn, die organisationsweite Einstellung ermöglicht das Freigeben von Dateien mithilfe von Links, die nicht Anmeldung erforderlich. In diesem Fall können die Websites die Freigabe für neue und vorhandene externe Benutzer zulassen, die sich anmelden. Um die Einstellung für bestimmte Websites zu ändern, verwenden Sie das neue SharePoint Admin Center.
   
 > [!NOTE]
-> Die Einstellung für die externe Freigabe für jede Website kann restriktiver sein als die organisationsweite Einstellung, aber nicht mehr als die organisationsweite Einstellung. 
+> Die Einstellung für die externe Freigabe für jeden Standort kann restriktiver sein als die organisationsweite Einstellung, jedoch nicht restriktiver als die organisationsweite Einstellung. 
   
 

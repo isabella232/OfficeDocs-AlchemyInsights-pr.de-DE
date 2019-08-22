@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: f8c412bda739179b295d62a1d6a6e31a88cf59c2
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 51f0f7331d40ce4c87836725eb41d6d4beb26c27
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32394111"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36520846"
 ---
 # <a name="change-a-users-email-address"></a>Ändern der E-Mail-Adresse eines Benutzers
 
-Das Ändern der e-Mail-Adresse eines Benutzers ist einfach! Führen Sie einfach die folgenden Schritte aus:
+Die e-Mail-Adresse eines anderen Benutzers zu ändern ist einfach! Führen Sie einfach die folgenden Schritte aus:
   
-1. wechseln sie im Microsoft 365 admin center zur seite [benutzer](https://go.microsoft.com/fwlink/p/?linkid=834822) , oder wählen sie **** \> **aktive**benutzer aus.
+1. Wechseln Sie im Microsoft 365 Admin Center zur Seite [Benutzer](https://go.microsoft.com/fwlink/p/?linkid=834822) , oder wählen Sie **Benutzer** \> **aktive**Benutzer.
     
 2. Wählen Sie den Benutzer aus.
     
@@ -30,14 +30,14 @@ Das Ändern der e-Mail-Adresse eines Benutzers ist einfach! Führen Sie einfach 
     
 4. Geben Sie im Feld **Alias** eine neue e-Mail ein, und wählen Sie dann **Hinzufügen**aus.
     
-    **Wichtig**: Wenn Sie die Fehlermeldung " **ein Parameter kann nicht gefunden werden, der mit dem Parameternamen ' Emails" übereinstimmt**, erhalten, heißt dies, dass es ein bisschen länger dauert, bis Office 365 die Einrichtung Ihres Mandanten oder Ihre benutzerdefinierte Domäne abgeschlossen hat, wenn Sie vor kurzem einen hinzugefügt haben. . Der Setupvorgang kann bis zu 4 Stunden dauern. Warten Sie eine Weile, bis der Setupvorgang abgeschlossen ist, und versuchen Sie es dann erneut. Wenn das Problem weiterhin besteht, rufen Sie Support an, und führen Sie eine vollständige Synchronisierung für Sie durch.
+    **Wichtig**: Wenn die Fehlermeldung " **ein Parameter kann nicht gefunden werden, der dem Parameternamen ' e-Mail-e-Mail-** Nachrichten entspricht" angezeigt wird, bedeutet dies, dass es etwas länger dauert, bis Office 365 die Einrichtung Ihres Mandanten oder Ihrer benutzerdefinierten Domäne abgeschlossen hat, wenn Sie kürzlich einen hinzugefügt haben. . Der Installationsvorgang kann bis zu 4 Stunden in Anspruch nehmen. Warten Sie eine Weile, damit der Installationsvorgang Zeit hat, und versuchen Sie es dann erneut. Wenn das Problem weiterhin besteht, wenden Sie sich an den Support, um eine vollständige Synchronisierung für Sie durchführen zu können.
     
-    Wenn Sie die Fehlermeldung " **es tut uns leid, der Benutzer konnte nicht bearbeitet werden. Über lesen Sie die Benutzerinformationen, und versuchen**Sie es erneut: "es heißt, Sie sind kein Office 365 globaler Administrator, und Sie haben keine Berechtigung, den Namen des Benutzers zu ändern.
+    Wenn die Fehlermeldung " **es tut uns leid, der Benutzer konnte nicht bearbeitet werden. Überprüfen Sie die Benutzerinformationen, und versuchen**Sie es erneut: "es bedeutet, dass Sie kein Office 365 globaler Administrator sind und keine Berechtigungen zum Ändern des Benutzernamens haben.
     
-5. Wählen Sie **Als primäre E-Mail-Adresse festlegen** für die E-Mail-Adresse aus, die Sie als primäre E-Mail-Adresse für diese Person festlegen möchten. Wenn Sie Ihr Abonnement von GoDaddy erworben haben, müssen Sie sich bei Ihrer Verwaltungskonsole anmelden, um die primäre e-Mail-Adresse festzulegen. 
+5. Wählen Sie **Als primäre E-Mail-Adresse festlegen** für die E-Mail-Adresse aus, die Sie als primäre E-Mail-Adresse für diese Person festlegen möchten. Wenn Sie Ihr Abonnement von GoDaddy erworben haben, müssen Sie sich bei der Verwaltungskonsole anmelden, um die primäre e-Mail-Adresse festzulegen. 
     
 6. Klicken Sie auf **Speichern**und dann auf **Schließen**, und Sie sind fertig!
     
-War das nicht so einfach? Weitere Informationen und Schritte mit Screenshots finden Sie in diesem Artikel: [Ändern eines Benutzernamens und einer e-Mail-Adresse in Office 365](https://support.office.com/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)
+War das nicht so einfach? Weitere Details und Schritte mit Screenshots finden Sie in diesem Artikel: [Ändern eines Benutzernamens und einer e-Mail-Adresse in Office 365](https://support.office.com/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)
   
 

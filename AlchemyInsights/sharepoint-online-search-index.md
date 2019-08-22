@@ -7,14 +7,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: fc49978fbd2c07381dae83061b1a1868cd1df0d0
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 3c3f6384172b2b4d59db6059618572db11059228
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36059251"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507630"
 ---
-# <a name="search-in-sharepoint-online"></a>Suchen in SharePoint Online
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Durchforsten und Indizieren von Inhalten in SharePoint Online
 
 Inhalte müssen durchforstet und dem Suchindex hinzugefügt werden, damit Benutzer in SharePoint Online nach Ihren Suchvorgängen suchen können. Der Inhalt wird automatisch basierend auf einem vordefinierten durchforstungszeitplan gecrawlt (der durchforstungszeitplan kann nicht geändert werden). Der Crawler ruft Inhalte ab, die seit der letzten Durchforstung geändert wurden, und aktualisiert den Index. Wenn Sie sicherstellen möchten, dass Inhalt gecrawlt wird und der Index aktualisiert wird, beachten Sie Folgendes:
 
@@ -30,7 +30,8 @@ Inhalte müssen durchforstet und dem Suchindex hinzugefügt werden, damit Benutz
 
     Wenn seit dem Initiieren der Durchforstung und der vollständigen erneuten Indizierung mehr als 24 Stunden vergangen sind, melden Sie sich einen Supportfall an. In vielen Fällen arbeiten wir bereits an einer Lösung. Geben Sie uns mindestens 24 Stunden, um eine Lösung zu vervollständigen.
 
->[! Wichtig!]: Wenn eine Website, ein Dokument (eine Bibliothek) oder eine Liste gelöscht wurde und weiterhin in den Suchergebnissen angezeigt wird, sollten Benutzer eine **Fehler 404-Datei** erhalten, die nicht gefunden wurde, wenn Sie versuchen, darauf zuzugreifen. Dieses Problem sollte bei weiteren Untersuchungen als Supportfall protokolliert werden. 
+> [!IMPORTANT]
+> Wenn eine Website, ein Dokument (Bibliothek) oder eine Liste gelöscht wurde und weiterhin in den Suchergebnissen angezeigt wird, sollten Benutzer eine **Fehler 404-Datei** erhalten, die nicht gefunden wurde, wenn Sie versuchen, darauf zuzugreifen. Dieses Problem sollte bei weiteren Untersuchungen als Supportfall protokolliert werden. 
 
 
 

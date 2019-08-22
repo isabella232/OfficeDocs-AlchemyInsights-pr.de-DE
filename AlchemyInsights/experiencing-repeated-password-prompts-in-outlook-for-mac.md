@@ -1,5 +1,5 @@
 ---
-title: Werden wiederholte Kenn Wort Ansagen in Outlook für Mac angezeigt?
+title: Sie haben wiederholte Kenn Wort Ansagen in Outlook für Mac?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/22/2017
@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6cc25b24-fc6c-4810-9ff8-6cc3a8b4e863
-ms.openlocfilehash: 5459a2d29fd5847f5841142d77d84805c3d12b01
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7da849fbacbbc32272731cf5829b26437983af4e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32402330"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526606"
 ---
-# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Werden wiederholte Kenn Wort Ansagen in Outlook für Mac angezeigt?
+# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Sie haben wiederholte Kenn Wort Ansagen in Outlook für Mac?
 
-Wir können Ihnen bei der Bereitstellung spezieller Outlook für Mac-Hilfe direkt aus der Anwendung helfen.
+Wir unterstützen Sie bei der Bereitstellung spezieller Outlook für Mac Hilfe direkt aus der Anwendung.
   
-Wechseln Sie zum Mac des betroffenen Benutzers, öffnen Sie Outlook, und klicken Sie auf **Hilfe** \> , um den **Support zu kontaktieren**.
+Wechseln Sie zum Mac des betroffenen Benutzers, öffnen Sie Outlook, und klicken Sie auf **Help** \> **Contact Support**.
   
-Weitere Informationen zur Verwendung von Outlook für Mac in-App-Kundensupport finden Sie in diesem Artikel: [neuer Kontakt Support in outlook 2016 für Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
+Weitere Informationen zur Verwendung Outlook für Mac in-App-Kunden Unterstützung finden Sie in diesem Artikel: [New Contact Support Feature in Outlook 2016 for Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
   
 

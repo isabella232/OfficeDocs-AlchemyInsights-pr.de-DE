@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 29782984-30d5-4c1b-b1dd-eff6fab41078
-ms.openlocfilehash: 428646635f0a9112c49a676ee297d514a86354ae
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f70501f889ea38770fe4393ab219dcb33a27d86b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32370397"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36508746"
 ---
 # <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a>Freigeben einer Datei oder eines Ordners in SharePoint oder OneDrive
 
-1. Öffnen Sie einen Browser, und wechseln Sie zu der Datei oder dem Ordner, den Sie freigeben möchten, wählen Sie ihn aus, und wählen Sie dann **Freigeben**aus. 
+1. Öffnen Sie einen Browser, und wechseln Sie zu der Datei oder dem Ordner, die Sie freigeben möchten, wählen Sie ihn aus, und wählen Sie dann **Freigeben**aus. 
     
-2. Optional Wenn der Verknüpfungstyp nicht der gewünschte ist, klicken Sie auf den Pfeil nach unten, um einen anderen Typ auszuwählen:
+2. Optional Wenn es sich nicht um den gewünschten Verknüpfungstyp handelt, klicken Sie auf den Pfeil nach unten, um einen anderen Typ auszuwählen:
     
-  - **Jeder** Benutzer gibt Zugriff auf jeden, der diesen Link erhält, unabhängig davon, ob er ihn direkt von Ihnen oder von einer anderen Person erhalten hat. Dies kann Personen außerhalb Ihrer Organisation sein. 
+  - **Jeder** Benutzer erhält Zugriff auf alle Personen, die diesen Link erhalten, unabhängig davon, ob Sie ihn direkt von Ihnen erhalten oder von einer anderen Person weitergeleitet werden. Dies kann Personen außerhalb Ihrer Organisation einschließen. 
     
-  - **Personen in \<Ihrer Organisation\> ** haben allen Benutzern in Ihrer Organisation Zugriff auf den Link, unabhängig davon, ob Sie ihn direkt von Ihnen erhalten oder von einer anderen Person weitergeleitet haben. 
+  - **Personen in \<Ihrer Organisation\> ** haben allen in Ihrer Organisation Zugriff auf den Link, unabhängig davon, ob Sie ihn direkt von Ihnen erhalten oder von einer anderen Person weitergeleitet werden. 
     
-  - **Bestimmte Personen** gewähren nur Zugriff auf die von Ihnen angegebenen Personen, auch wenn andere Personen bereits Zugriff haben. Wenn Personen die Freigabeeinladung weiterleiten, können nur Personen, die bereits Zugriff auf das Element haben, den Link verwenden. 
+  - **Bestimmte Personen** gewähren nur Zugriff auf die von Ihnen angegebenen Personen, obwohl andere Personen möglicherweise bereits Zugriff haben. Wenn Personen die Freigabeeinladung weiterleiten, können nur Personen, die bereits Zugriff auf das Element haben, den Link verwenden. 
     
     > [!NOTE]
-    > Wenn eine dieser Optionen nicht verfügbar ist oder Sie möchten, dass standardmäßig ein anderer Verknüpfungstyp angezeigt wird, können Sie Ihre organisationsweiten Einstellungen ändern, indem Sie zum neuen SharePoint Admin Center wechseln und im linken Bereich auf **Freigabe** klicken. [Weitere Informationen](https://go.microsoft.com/fwlink/?linkid=866426)
+    > Wenn eine dieser Optionen nicht verfügbar ist oder wenn standardmäßig ein anderer Linktyp angezeigt werden soll, können Sie Ihre organisationsweiten Einstellungen ändern, indem Sie zum neuen SharePoint Admin Center wechseln und im linken Bereich auf **Freigabe** klicken. [Weitere Informationen](https://go.microsoft.com/fwlink/?linkid=866426)
   
-3. Standardmäßig ist die **Bearbeitung zulassen** aktiviert. Wenn Sie möchten, dass Benutzer Ihre Dateien nur anzeigen, deaktivieren Sie das Kontrollkästchen. 
+3. Standardmäßig ist die Option **Bearbeitung zulassen** aktiviert. Wenn Sie möchten, dass Benutzer Ihre Dateien nur anzeigen, deaktivieren Sie das Kontrollkästchen. 
     
-4. Geben Sie die Namen der Personen ein, für die Sie freigeben möchten, und eine Nachricht, wenn Sie möchten.
+4. Geben Sie bei Bedarf die Namen der Personen ein, für die Sie freigeben möchten, und eine Nachricht.
     
 5. Klicken Sie auf **Senden**. 
     

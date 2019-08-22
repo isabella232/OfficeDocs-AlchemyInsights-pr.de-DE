@@ -12,23 +12,28 @@ ms.assetid: ''
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 2ef6ff1f67b8f04ed09b21568aaef4607950c2d8
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 9ca8190cd90bc199e6f18734bb6607e47b877edd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36271743"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36512881"
 ---
 # <a name="disable-onedrive"></a>OneDrive deaktivieren
 
 Es gibt verschiedene Möglichkeiten, den Zugriff auf OneDrive und seine Dienste abhängig von Ihren geschäftlichen Anforderungen zu deaktivieren:
 
 [Aufheben der Verknüpfung, ausblenden oder Deinstallieren der OneDrive-Anwendung](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
-[nur Synchronisierung für bestimmte Organisationen](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
-zulassen[Deaktivieren der OneDrive-Websiteerstellung für einige Benutzer](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
+
+[Nur Synchronisierung für bestimmte Organisationen zulassen](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
+
+[Deaktivieren der OneDrive Siteerstellung für einige Benutzer](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
+
 [Steuern des Zugriffs auf SharePoint Online-und OneDrive-Daten basierend auf dem Netzwerkstandort](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
-[Deaktivieren persönlicher OneDrive Sync](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
-[Manage connections from Windows Devices to OneDrive and other Services](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
+
+[Deaktivieren der persönlichen OneDrive-Synchronisierung](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
+
+[Verwalten von Verbindungen von Windows-Geräten zu OneDrive und anderen Diensten](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
 
 
 

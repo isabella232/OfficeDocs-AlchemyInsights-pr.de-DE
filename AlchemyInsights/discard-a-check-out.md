@@ -1,5 +1,5 @@
 ---
-title: Auschecken verWerfen
+title: Auschecken verwerfen
 ms.author: kirks
 author: Techwriter40
 ms.date: 9/7/2018
@@ -8,21 +8,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d86bf9c-8158-40e2-a26f-cffe1ed856d1
-ms.openlocfilehash: f3177ba6290767b3f3838a64b51171b27136d15a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 2d4bd517c122e5ddbafd99e43471f29dffbfe157
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404599"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36512674"
 ---
-# <a name="discard-a-check-out-from-a-document-library"></a>Auschecken aus einer Dokumentbibliothek verWerfen
+# <a name="discard-a-check-out-from-a-document-library"></a>Verwerfen eines Auscheckens aus einer Dokumentbibliothek
 
-1. Klicken Sie mit der rechten Maustaste auf die Datei, die Sie auschecken möchten.
+1. Klicken Sie mit der rechten Maustaste auf die Datei, für die Sie das Auschecken verwerfen möchten.
     
-2. Klicken Sie auf **Weitere**, und klicken Sie dann auf auscheckEn verwerfen. **** 
+2. Klicken Sie auf **Weitere**, und klicken Sie dann auf Auschecken verwerfen. **** 
     
-3. Klicken Sie im Dialogfeld auf * * ausChecken * * verWerfen, um das Auschecken zu deaktivieren. 
+3. Klicken Sie im Dialogfeld auf **** Auschecken verwerfen, um das Auschecken zu deaktivieren. 
     
-Weitere Fragen zum Einchecken und Auschecken finden Sie unter [häufigste Fragen zu Auschecken, Einchecken und Versionen](https://go.microsoft.com/fwlink/?linkid=2018786)
+Weitere Fragen zum Einchecken und Auschecken finden Sie unter [Top Questions about Check out, Check in und Versions](https://go.microsoft.com/fwlink/?linkid=2018786).
   
 

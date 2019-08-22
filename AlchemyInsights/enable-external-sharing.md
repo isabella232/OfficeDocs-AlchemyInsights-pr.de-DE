@@ -8,35 +8,35 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: e7b1b58f0b5bf73d50721cf2715b366280867431
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: de0a6940680bc4ec5193c8aa9345b0b214b5fd5b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404048"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527650"
 ---
 # <a name="enable-external-sharing"></a>Aktivieren der externen Freigabe
 
- **So stellen Sie sicher, dass die Freigabe aktiviert ist:**
+ So stellen Sie sicher, dass die Freigabe für SharePoint Online aktiviert ist:
   
 - **Globale Freigabe**
     
-  - Portal-\> External Sharing-\> Overview-Sites, externe Personen können auf Ihre Websites zugreifen: ein
+  - Portal-\> External Sharing-\> Sharing-Übersicht-Websites, lassen Sie externe Personen Zugriff auf Ihre Websites: ein
     
-  - Portal-\> externe Freigabe-\> Websites-Kontrollkästchen externe Personen auf Websites zugreifen lassen
+  - Portal-\> externe Freigabe-\> Websites-"externe Personen können auf Ihre Websites zugreifen" Kontrollkästchen
     
 - **Administrative Freigabe – SharePoint Admin Center**
     
-- Externe Freigabe – stellen Sie sicher, dass eine der beiden Optionen ausgewählt ist:
+    Externe Freigabe – stellen Sie sicher, dass eine der beiden Optionen ausgewählt ist:
     
-  - "Externe Benutzer zulassen, die Einladungen zur Freigabe annehmen und sich als authentifizierte Benutzer anmelden"
+  - "Externe Benutzer zulassen, die Einladungen zur Freigabe akzeptieren und sich als authentifizierte Benutzer anmelden"
     
-  - "Zulassen, dass externe Benutzer, die Freigabeeinladungen und anonyme gastlinks akzeptieren"
+  - "Externe Benutzer zulassen, die Freigabeeinladungen und anonyme Gast-Links akzeptieren"
     
 - **Einzelne Websitesammlungen**
     
-  - Websitesammlungen – wählen Sie Websitesammlung aus, und klicken Sie dann auf Freigabe – über das\> Menüband – Vergewissern Sie sich, dass entweder Freigabeoptionen ausgewählt sind.
+  - Websitesammlungen – wählen Sie die fragliche Websitesammlung aus, und klicken Sie dann auf Freigabe\> – stellen Sie sicher, dass die Option Freigabeoptionen ausgewählt ist.
     
-Weitere Informationen zum Aktivieren der externen Freigabe finden Sie unter [Turn External Sharing on or off for SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
+Weitere Informationen zum Aktivieren der externen Freigabe finden Sie unter [Aktivieren oder Deaktivieren der externen Freigabe für SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
   
 

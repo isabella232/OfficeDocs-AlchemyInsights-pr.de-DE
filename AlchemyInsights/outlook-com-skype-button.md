@@ -9,15 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000049
-ms.openlocfilehash: d167ff9acae2b14aebae8e84096af3831c0ad0c8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 869de50b0bad7f41902fd918f90dd435a5faa4de
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373612"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36512170"
 ---
 # <a name="skype-icon-missing"></a>Skype-Symbol fehlt
 
-Wir haben das Skype-Symbol vorübergehend aus Outlook.com als Teil einer Entwurfs Aktualisierung und eines Feature-Updates entfernt, die wir freuen uns auf die Einführung. Wir schätzen Ihre Geduld, während wir eine neue und verbesserte Erfahrung für Sie vorbereiten.
+Wir haben das Skype-Symbol aus Outlook.com vorübergehend als Teil einer Entwurfs Aktualisierung und eines Feature-Updates entfernt, die wir freuen uns darauf, dass Sie bereit sind. Wir freuen uns über Ihre Geduld, während wir eine neue und verbesserte Erfahrung für Sie vorbereiten.
 
 Sie können Skype weiterhin über Ihren Browser unter [Web.Skype.com](https://web.skype.com)verwenden.

@@ -11,25 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
-ms.openlocfilehash: a7f33c877382130fa07578ab75938f05badd2301
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3effe20e8831571a34983a1f7a1addd8295551f2
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32406880"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36515158"
 ---
-Gehen Sie folgendermaßen vor, um ein neues Outlook-Profil zu erstellen, ein Profil zu bearbeiten oder ein Profil umzubenennen.
+# <a name="create-or-edit-an-outlook-profile"></a>Erstellen oder Bearbeiten eines Outlook-Profils
+
+Führen Sie die folgenden Schritte aus, um ein neues Outlook-Profil zu erstellen, ein Profil zu bearbeiten oder ein Profil umzubenennen.
   
 1. Wählen Sie in Outlook **Datei** \> **Kontoeinstellungen** \> **Verwalten**von Profilen aus.
     
-2. Wählen Sie im Dialogfeld **e-Mail-Setup** die Option **Profile anzeigen**aus.
+2. Wählen Sie im Dialogfeld **Mail-Setup** die Option **Profile anzeigen**aus.
     
 3. Führen Sie einen der folgenden Schritte aus:
     
-  - Wählen Sie **Hinzufügen**aus, um ein neues Profil zu erstellen.
+  - Um ein neues Profil zu erstellen, wählen Sie **Hinzufügen**aus.
     
   - Zum Bearbeiten oder Umbenennen eines Profils wählen Sie **Eigenschaften**aus.
     
-Wenn Sie beim Erstellen oder Bearbeiten eines Outlook-Profils Probleme haben, können Sie das [Outlook-Profil Tool](https://aka.ms/SaRA-OutlookSetupProfile) auf dem betroffenen Computer ausführen. Es werden einige Prüfungen durchgeführt, und wenn Sie bereit sind, erstellen Sie ein Outlook-Profil mit Ihrer e-Mail-Adresse. 
+Wenn beim Erstellen oder Bearbeiten eines Outlook-Profils Probleme auftreten, können Sie das [Outlook-Profil Tool](https://aka.ms/SaRA-OutlookSetupProfile) auf dem betroffenen Computer ausführen. Es werden einige Überprüfungen durchgeführt, und wenn Sie fertig sind, wird ein Outlook-Profil mit Ihrer e-Mail-Adresse erstellt. 
   
 

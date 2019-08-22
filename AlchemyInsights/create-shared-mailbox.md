@@ -1,5 +1,5 @@
 ---
-title: Freigegebenes Postfach erstellen
+title: Erstellen eines freigegebenen Postfachs
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2329ee5-86b7-4803-990e-f4222120faf2
-ms.openlocfilehash: b1e91d783e620a65ba5af533f067da55912fb269
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: c6772f06172e05e6897a5dfa5938323df5d0d8b9
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32407355"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36515194"
 ---
 # <a name="create-a-shared-mailbox"></a>Erstellen eines freigegebenen Postfachs
 
-Über ein freigegebenes Postfach können mehrere Personen E-Mails für einen Alias wie "vertrieb@contoso.com" senden und empfangen, ohne dass eine weitere Lizenz zugewiesen werden muss. Wechseln Sie zum Erstellen eines freigegebenen Postfachs zum [freigegebenen e-Mail-Leitfaden](https://portal.office.com/adminportal/home).
+Über ein freigegebenes Postfach können mehrere Personen E-Mails für einen Alias wie "vertrieb@contoso.com" senden und empfangen, ohne dass eine weitere Lizenz zugewiesen werden muss. Um ein freigegebenes Postfach zu erstellen, wechseln Sie zum [freigegebenen e-Mail-Leitfaden](https://portal.office.com/adminportal/home).
   
-Weitere Informationen zur Verwendung eines freigegebenen Postfachs finden Sie im Artikel [Erstellen eines freigegebenen Postfachs](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) für Tipps und mehr. 
+Im Artikel [Erstellen eines freigegebenen Postfachs](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) finden Sie Tipps und weitere Informationen zur Verwendung eines freigegebenen Postfachs. 
   
 

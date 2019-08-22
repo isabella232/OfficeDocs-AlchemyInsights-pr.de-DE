@@ -12,13 +12,15 @@ ms.custom:
 - "1287"
 - "3200001"
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
-ms.openlocfilehash: 83050b05cffacd3e81d34f05383c213eb0042fae
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 0a32708b5ac8d95ec6777ada2d151a15f90d65bf
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35389468"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36529865"
 ---
+# <a name="dlp-issues-with-us-bank-account-numbers"></a>DLP-Probleme mit US-Bank Kontonummern
+
 Haben Sie Probleme mit der Verhinderung von **Datenverlust (DLP)** , die bei Verwendung eines DLP-Typs für vertrauliche Informationen in O365 nicht für Inhalte mit einer **US-Bank Kontonummer** funktioniert? Wenn dies der Fall ist, stellen Sie sicher, dass Ihre Inhalte die erforderlichen Informationen dafür enthalten, wonach die DLP-Richtlinie bei der Auswertung sucht.
   
 Für eine **US-Bank Kontonummern** Richtlinie, die mit einer Konfidenz Stufe von 85% konfiguriert wurde, werden beispielsweise die folgenden Werte ausgewertet und müssen erkannt werden, damit die Regel ausgelöst wird:

@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2f8699c8-1eb6-4f5e-8c06-08e960092b1a
-ms.openlocfilehash: 12f1e81eaafc2650482803796fc20fd7f8b3bd55
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f168e377aaf61ba3296ca9ce83f9ad27218fcdf7
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32406715"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514942"
 ---
 # <a name="creating-public-folders"></a>Erstellen Öffentlicher Ordner
 
 Bevor Benutzer Öffentliche Ordner in Office 365 verwenden können, müssen Sie mindestens ein Postfach für Öffentliche Ordner erstellen. So erstellen Sie Folgendes:
   
-1. wechseln sie im Microsoft 365 admin center zu **admin centers** \> **Exchange**.
+1. Wechseln Sie im Microsoft 365 Admin Center zu **Admin Centers** \> **Exchange**.
     
-2. Wechseln Sie **** \> zu öffentliche **Ordner-Postfächer**, und klicken Sie dann auf **Hinzufügen**.
+2. Wechseln Sie zu **öffentlichen** \> **Ordner-Postfächern**für Öffentliche Ordner, und klicken Sie dann auf **Hinzufügen**.
     
 3. Geben Sie in **Postfach für öffentliche Ordner** einen Namen für das Postfach für den öffentlichen Ordner an.
     
 4. Klicken Sie auf **Speichern**.
     
-Nachdem Sie ein Postfach erstellt haben, können Sie mit dem Erstellen einzelner Ordner beginnen oder Ihren Benutzern die [Erstellung und Verwendung öffentlicher Ordner in Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97)mitteilen. Als Administrator können Sie auch [Öffentliche Ordner für Ihre Organisation erstellen](https://technet.microsoft.com/library/bb691104%28v=exchg.150%29.aspx).
+Nachdem ein Postfach erstellt wurde, können Sie mit dem Erstellen einzelner Ordner beginnen oder Ihren Benutzern mitteilen, dass Sie mit dem [Erstellen und Verwenden öffentlicher Ordner in Outlook beginnen](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97)möchten. Als Administrator können Sie auch [Öffentliche Ordner für Ihre Organisation erstellen](https://technet.microsoft.com/library/bb691104%28v=exchg.150%29.aspx).
   
-Auf mobilen Geräten kann nicht auf Öffentliche Ordner zugegriffen werden.
+Auf öffentlichen Ordnern kann auf mobilen Geräten nicht zugegriffen werden.
   
 
