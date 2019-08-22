@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 99b4b225-38b3-4af2-afd7-29769ef5c2a0
-ms.openlocfilehash: aec50ebaee7561566721bd68fe309c0933d55617
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 418aea3140a787b4eead14dbc7d127a70564098a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423102"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506178"
 ---
 # <a name="trying-to-verify-your-domain"></a>Sie versuchen, Ihre Domäne zu überprüfen?
 
-Sie müssen einen TXT-Eintrag zu Ihrer Domänenregistrierungsstelle hinzufügen, um sicherzustellen, dass Sie Eigentümer der Domäne sind. Folgen Sie dem Assistenten zum Hinzufügen von Domänen, indem Sie auf **Einstellungen** \> **Domäne** und dann auf **Domäne hinzufügen klicken**. 
+Sie müssen einen TXT-Eintrag zu Ihrer Domänenregistrierungsstelle hinzufügen, um sicherzustellen, dass Sie Eigentümer der Domäne sind. Folgen Sie dem Assistenten für neue Domänen im Microsoft 365 Admin Center, indem Sie zu **Setup** \> **Domänen** und dann **Domäne hinzufügen** wechseln. 
   
 Folgen Sie den Anweisungen im unten stehenden Artikel, um einen TXT-Eintrag zum Überprüfen Ihrer Domäne hinzuzufügen. Wählen Sie Ihre Domänenregistrierungsstelle aus, um spezifische Anweisungen für Ihre Domäne zu erhalten.
   

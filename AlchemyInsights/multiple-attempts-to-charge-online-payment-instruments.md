@@ -13,13 +13,13 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: e0c3ca49bbe612f516a2947f823feae7e5ef7902
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5bcba5903f9ca00b3c6235f9d07e165f35b2a66e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389575"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36548678"
 ---
 # <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Mehrere Versuche zum aufpreisen von Online Zahlungsinstrumenten
 
-Wir machen mehrere Versuche, Online Zahlungsinstrumente zu belasten, bevor wir auf den Dienst reagieren. Nachdem eine Zahlungsmethode ausgewählt wurde, müssen alle überfälligen Beträge mit der ausgewählten Zahlungsmethode bezahlt werden. Um die aktuellen Zahlungsinformationen für Ihr Abonnement zu aktualisieren, führen Sie die Schritte unter [hinzufügen, aktualisieren oder Entfernen einer Kreditkarte oder eines Bankkontos in Office 365 für Unternehmen](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)aus.
+Wir machen mehrere Versuche, Online Zahlungsinstrumente zu belasten, bevor wir auf den Dienst reagieren. Nachdem eine Zahlungsmethode ausgewählt wurde, müssen alle überfälligen Beträge mit der ausgewählten Zahlungsmethode bezahlt werden. Um die aktuellen Zahlungsinformationen für Ihr Abonnement zu aktualisieren, führen Sie die Schritte unter [hinzufügen, aktualisieren oder Entfernen einer Kreditkarte oder eines Bankkontos in Office 365 für Unternehmen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)aus.
