@@ -12,14 +12,16 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 90302767ac2cb4e137bc1fd5fa17edea4602b766
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5d6f8f2dff42d89a91759c4504cab68b5d1c22f4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382880"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36538772"
 ---
-Haben Sie Inhalte, die durch einen **Haltestatus** **aufbewahrt** werden, den Sie nicht identifizieren können? Sie müssen **herausfinden** , wo sich der Aufbewahrungsort auf dem **Postfach** befindet? Haltestatus ( *Aufbewahrungsfunktionen* ) können von einer der folgenden Methoden in Office 365 angewendet werden:
+# <a name="identify-holds-placed-on-mailboxes"></a>Identifizieren von in Postfächern aufbewahrten Haltebereichen
+
+Haben Sie Office 365 Inhalte, die von einem **Haltestatus** **aufbewahrt** werden, den Sie nicht identifizieren können? Sie müssen **herausfinden** , wo sich der Aufbewahrungsort auf dem **Postfach** befindet? Haltestatus (*Aufbewahrungsfunktionen*) können von einer der folgenden Methoden in Office 365 angewendet werden:
   
 - Aufbewahrung für eventuelle Rechtsstreitigkeiten
 

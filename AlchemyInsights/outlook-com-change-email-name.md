@@ -12,16 +12,16 @@ ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: 353703d159072cc8daa7f52d02f7fc1afd72d1df
-ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
+ms.openlocfilehash: c20b8c0919ebe89c473a1f7b9067cceecf13f2c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35701430"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36537456"
 ---
 # <a name="change-your-email-name"></a>Ändern des e-Mail-namens
 
-Wenn Sie über eine e-Mail-Adresse verfügen und den Namen ändern möchten, werden Empfänger in ihren Nachrichten angezeigt:
+Wenn Sie eine Outlook.com-e-Mail-Adresse haben und den Namen ändern möchten, werden Empfänger in ihren Nachrichten angezeigt:
   
 1. Wählen Sie in der rechten oberen Ecke der Seite das Bild für Ihr Konto aus.
 2. Wählen Sie **mein Profil**aus.

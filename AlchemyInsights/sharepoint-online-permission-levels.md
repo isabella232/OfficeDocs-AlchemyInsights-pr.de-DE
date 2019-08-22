@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online-Berechtigungsstufen
+title: SharePoint Online Berechtigungsstufen
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: 97f1001ed0835623e55a08791b2ae81f52b411ac
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7c9170093797d7bdb27ef1c9ee3519ae228a54dd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32374394"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36534886"
 ---
-# <a name="sharepoint-online-permission-levels"></a>SharePoint Online-Berechtigungsstufen
+# <a name="sharepoint-online-permission-levels"></a>SharePoint Online Berechtigungsstufen
 
-SharePoint enthält bereits einige standardmäßige Berechtigungsstufen, die Sie verwenden können, z. B. Mitwirken und Nur anzeigen. Wenn Sie Ihre Anforderungen nicht erfüllen, können Sie zusätzliche Berechtigungsstufen erstellen. Es ist am einfachsten, Berechtigungen nachzuverfolgen, wenn Sie die Standardebenen nicht bearbeiten oder löschen, und wenn Sie Personen zu Gruppen hinzufügen und diesen Gruppen Berechtigungsstufen zuweisen, statt einzelnen Benutzern Berechtigungsstufen zuzuweisen.
+SharePoint enthält bereits einige standardmäßige Berechtigungsstufen, die Sie verwenden können, z. B. Mitwirken und Nur anzeigen. Wenn diese nicht Ihren Anforderungen entsprechen, können Sie zusätzliche Berechtigungsstufen erstellen. Am einfachsten ist es, Berechtigungen nachzuverfolgen, wenn Sie die Standardebenen nicht bearbeiten oder löschen, und wenn Sie Personen zu Gruppen hinzufügen und diesen Gruppen Berechtigungsstufen zuweisen, anstatt einzelnen Benutzern Berechtigungsstufen zuzuweisen.
   
 - [Grundlegendes zu Berechtigungsstufen](https://go.microsoft.com/fwlink/?linkid=867071)
     

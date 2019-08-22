@@ -1,5 +1,5 @@
 ---
-title: Outlook.com so erhalten Sie Support
+title: Outlook.com so erhalten Sie Unterstützung
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -9,16 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000080
-ms.openlocfilehash: 40facaa467504dd62ea4a46ed76b8c42df6b4f28
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 53d68ea75dd5ee92bd170001f4d5e8000b0cbb4b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418900"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36536348"
 ---
 # <a name="how-to-get-outlookcom-support"></a>So erhalten Sie Outlook.com-Unterstützung
 
 Hallo!
-Ich bin kein Chat-bot, aber ich versuche, Ihnen zu helfen.
+Ich bin kein Chat-bot, aber ich werde versuchen, Ihnen zu helfen.
 
 

@@ -1,5 +1,5 @@
 ---
-title: ÜberWachen des bedingten Zugriffs
+title: Überwachen des bedingten Zugriffs
 ms.author: pebaum
 author: pebaum
 ms.date: 8/1/2018
@@ -8,33 +8,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: 756c5e98ed3e9cedd0152b5747ea6bf1ed31778e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 374814f4eabd61433a15876ebf7f351819933c21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418468"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36538741"
 ---
-# <a name="monitoring-conditional-access"></a>ÜberWachen des bedingten Zugriffs
+# <a name="monitoring-conditional-access-for-exchange"></a>Überwachen des bedingten Zugriffs für Exchange
 
-Benutzer mit bedingtem Zugriff erhalten eine Benachrichtigungs-e-Mail, wenn Sie die Zugriffsanforderungen Ihrer Organisation nicht erfüllen. Zur Lösung empfehlen wir eine oder mehrere der folgenden Lösungen:
+Benutzer, die auf bedingten Zugriff abzielen, erhalten eine Benachrichtigungs-e-Mail, wenn Sie die Zugriffsanforderungen Ihrer Organisation nicht erfüllen. Zur Behebung empfehlen wir eine oder mehrere der folgenden Lösungen:
   
-- Wenn das Gerät als registriert gilt, empfehlen Sie dem Benutzer, zur Unternehmensportal-APP zu wechseln und sicherzustellen, dass es im Unternehmensportal angezeigt wird. Wenn dies nicht der Fall ist, sollte der Benutzer das Gerät registrieren.
+- Wenn Sie davon ausgehen, dass das Gerät registriert ist, empfehlen Sie dem Benutzer, zur Unternehmensportal-APP zu wechseln und zu überprüfen, ob er im Unternehmensportal angezeigt wird. Wenn dies nicht der Fall ist, sollte der Benutzer das Gerät registrieren.
     
-- Wechseln Sie im Azure-Portal **zu \> InTune Device Compliance**. Klicken Sie unter **Monitor** auf **Geräte Konformität**. Zeigen Sie Ihren Geräte Konformitätsbericht an, um zu überprüfen, ob das Gerät des Benutzers als kompatibel gekennzeichnet ist. 
+- Wechseln Sie im Azure-Portal **zu \> InTune-Gerätekompatibilität**. Klicken Sie unter **Überwachung** auf **Gerätekompatibilität**. Zeigen Sie Ihren Geräte Kompatibilitätsbericht an, um zu überprüfen, ob das Gerät des Benutzers als konform gekennzeichnet ist. 
     
-- Wechseln Sie im Azure-Portal **zu \> InTune Device Compliance**. Klicken Sie unter **Verwalten**auf **Richtlinien**. Vergewissern Sie sich in der Liste der Konformitätsrichtlinien, dass dem Gerät des Benutzers ein Profil zugewiesen ist. Wenn kein Profil zugewiesen ist, kann InTune den Kompatibilitätsstatus des Geräts nicht bestätigen. 
+- Wechseln Sie im Azure-Portal **zu \> InTune-Gerätekompatibilität**. Klicken Sie unter **Verwalten**auf **Richtlinien**. Überprüfen Sie in der Liste der Konformitätsrichtlinien, ob ein Profil dem Gerät Ihres Benutzers zugewiesen ist. Wenn kein Profil zugewiesen ist, kann InTune den Kompatibilitätsstatus des Geräts nicht bestätigen. 
     
-- Bearbeiten Sie die Zuweisung des bedingten Zugriffs durch den Benutzer.
+- Bearbeiten Sie die Zuweisung für bedingten Zugriff des Benutzers.
     
-1. Navigieren Sie im Azure-Portal **zu \> InTune- \> Richtlinien für bedingten Zugriff** .
+1. Im Azure-Portal gehen Sie **zu \> InTune- \> Richtlinien für bedingten Zugriff**
     
-2. Wählen Sie eine Richtlinie aus der Liste aus.
+2. Auswählen einer Richtlinie aus der Liste
     
-3. Klicken Sie auf **Benutzer und Gruppen**
+3. Klicken Sie auf **Benutzer und Gruppen** .
     
-4. Wenn Sie eine bestimmte Richtlinie auf eine andere Person anwenden möchten **** , fügen Sie Sie der Liste include hinzu. Um sicherzustellen, dass eine Person in der Richtlinie ausgelassen wird, fügen Sie Sie der **Ausschluss** Liste hinzu. 
+4. Um eine bestimmte Richtlinie auf eine Person abzuzielen, fügen Sie Sie der Liste **einschließen** hinzu. Um sicherzustellen, dass eine Person aus der Richtlinie weggelassen wird, fügen Sie Sie der **Ausschluss** Liste hinzu. 
     
-Weitere Informationen: [so ÜberwachEn Sie Geräte für bedingten Zugriff](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
+Weitere Informationen: [Vorgehensweise zum Überwachen von bedingten Zugriffs Geräten](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
   
 
