@@ -13,21 +13,23 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: eba0888fb2591ea36620dfff14fcf08356e1e91a
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: f5d809e247516cc9ed47b5091eb0cb7edd88a44d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389791"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542437"
 ---
-# <a name="manage-recurring-billing"></a><span data-ttu-id="c262e-102">Verwalten von wiederkehrenden Rechnungen</span><span class="sxs-lookup"><span data-stu-id="c262e-102">Manage recurring billing</span></span>
+# <a name="manage-recurring-billing"></a><span data-ttu-id="3a92d-102">Verwalten von wiederkehrenden Rechnungen</span><span class="sxs-lookup"><span data-stu-id="3a92d-102">Manage recurring billing</span></span>
 
-<span data-ttu-id="c262e-103">Zum Verwalten der wiederkehrenden Abrechnung können Sie die **wiederkehrende Abrechnung** ein-oder ausschalten.</span><span class="sxs-lookup"><span data-stu-id="c262e-103">To manage recurring billing, you can toggle **Recurring billing** on or off.</span></span>
+<span data-ttu-id="3a92d-103">Sie können die wiederkehrende Abrechnung im Microsoft 365 Admin Center aktivieren oder deaktivieren.</span><span class="sxs-lookup"><span data-stu-id="3a92d-103">You can turn recurring billing on or off in the Microsoft 365 admin center.</span></span>
   
-1. <span data-ttu-id="c262e-104">Wechseln Sie im Admin Center zur Seite **Abrechnungs** \> [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="c262e-104">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="3a92d-104">Wechseln Sie zur Seite **Abrechnungs** > [Produkte #a0 Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="3a92d-104">Go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="c262e-105">Wählen Sie das Abonnement aus, für das Sie wiederkehrende Abrechnung verwalten möchten.</span><span class="sxs-lookup"><span data-stu-id="c262e-105">Choose the subscription for which you want to manage recurring billing.</span></span>
+2. <span data-ttu-id="3a92d-105">Wählen Sie unter **Abrechnung**neben **News on** oder **expire on**die Option **Bearbeiten**aus.</span><span class="sxs-lookup"><span data-stu-id="3a92d-105">Under **Billing**, next to **Renews on** or **Expiring on**, select **Edit**.</span></span>
 
-3. <span data-ttu-id="c262e-106">Wechseln Sie die Umschaltfläche für **wiederkehrende Fakturierung** **auf ein** oder **aus**.</span><span class="sxs-lookup"><span data-stu-id="c262e-106">Switch the **Recurring billing** toggle to **On** or **Off**.</span></span>
+3. <span data-ttu-id="3a92d-106">Wählen Sie im Bereich **wiederkehrende Abrechnungseinstellungen** die Option **wiederkehrende Abrechnung aus aus** , um Sie zu deaktivieren.</span><span class="sxs-lookup"><span data-stu-id="3a92d-106">In the **Recurring billing settings** pane, select **Recurring billing OFF** to turn it off.</span></span> <span data-ttu-id="3a92d-107">Wenn die **wiederkehrende Abrechnung** bereits deaktiviert ist, wählen Sie **monatlich** oder **einmal** aus, um Sie zu aktivieren.</span><span class="sxs-lookup"><span data-stu-id="3a92d-107">If **Recurring billing** is already turned off, select **Monthly** or **Once** to turn it on.</span></span>
 
-<span data-ttu-id="c262e-107">Weitere Informationen finden Sie unter [Turn wiederkehrende Abrechnung aus oder ein](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).</span><span class="sxs-lookup"><span data-stu-id="c262e-107">For more information, see [Turn recurring billing off or on](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).</span></span>
+4. <span data-ttu-id="3a92d-108">Wählen Sie **Änderungen übermitteln**.</span><span class="sxs-lookup"><span data-stu-id="3a92d-108">Select **Submit change**.</span></span>
+
+<span data-ttu-id="3a92d-109">Weitere Informationen finden Sie unter [Turn wiederkehrende Abrechnung aus oder ein](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).</span><span class="sxs-lookup"><span data-stu-id="3a92d-109">For more information, see [Turn recurring billing off or on](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).</span></span>

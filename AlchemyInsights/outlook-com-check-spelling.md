@@ -13,13 +13,13 @@ ms.custom:
 - "213"
 - "8000007"
 ms.assetid: 7f2a5cfc-c555-4325-927e-7f3c7c884200
-ms.openlocfilehash: 0c11bf0c9ac84b0e8ec32aeece1c0bce1953069a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9b581ccc1d0ca50dfb635aa3b9a2a2bb3339c6a7
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35376112"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36547022"
 ---
-# <a name="use-your-browser-to-check-spelling"></a><span data-ttu-id="c92c5-102">Überprüfen der Rechtschreibung mithilfe des Browsers</span><span class="sxs-lookup"><span data-stu-id="c92c5-102">Use your browser to check spelling</span></span>
+# <a name="use-your-browser-to-check-spelling"></a><span data-ttu-id="8fb93-102">Überprüfen der Rechtschreibung mithilfe des Browsers</span><span class="sxs-lookup"><span data-stu-id="8fb93-102">Use your browser to check spelling</span></span>
 
-<span data-ttu-id="c92c5-103">Obwohl Outlook.com nicht über eine Funktion für die Rechtschreibprüfung verfügt, überprüfen viele Webbrowser automatisch Ihre Rechtschreibung, einschließlich Microsoft Edge, Internet Explorer 10 und höheren Versionen und aktuellen Versionen von Firefox, Chrome und Safari.</span><span class="sxs-lookup"><span data-stu-id="c92c5-103">Although Outlook.com does not have a spell check function, many web browsers automatically check your spelling, including Microsoft Edge, Internet Explorer 10 and later versions, and current versions of Firefox, Chrome, and Safari.</span></span> <span data-ttu-id="c92c5-104">Überprüfen Sie die Optionen für den Webbrowser, um weitere Informationen zum Überprüfen der Rechtschreibung zu erhalten.</span><span class="sxs-lookup"><span data-stu-id="c92c5-104">Check the options for your web browser to learn more about how to check spelling.</span></span>
+<span data-ttu-id="8fb93-103">Obwohl Outlook.com nicht über eine Funktion für die Rechtschreibprüfung verfügt, überprüfen viele Webbrowser automatisch Ihre Rechtschreibung, einschließlich Microsoft Edge, Internet Explorer 10 und höheren Versionen und aktuellen Versionen von Firefox, Chrome und Safari.</span><span class="sxs-lookup"><span data-stu-id="8fb93-103">Although Outlook.com does not have a spell check function, many web browsers automatically check your spelling, including Microsoft Edge, Internet Explorer 10 and later versions, and current versions of Firefox, Chrome, and Safari.</span></span> <span data-ttu-id="8fb93-104">Überprüfen Sie die Optionen für den Webbrowser, um weitere Informationen zum Überprüfen der Rechtschreibung zu erhalten.</span><span class="sxs-lookup"><span data-stu-id="8fb93-104">Check the options for your web browser to learn more about how to check spelling.</span></span>
