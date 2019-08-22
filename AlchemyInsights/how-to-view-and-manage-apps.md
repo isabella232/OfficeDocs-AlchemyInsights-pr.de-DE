@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000561"
 - "2420"
-ms.openlocfilehash: f3b429dc9d5007c139ff292fae6649696fc42b81
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5f337a9c4b40c13dcda79eb567c0e287d300dfb1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389863"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539496"
 ---
 # <a name="how-to-view-and-manage-apps"></a>Anzeigen und Verwalten von apps
 
-Zum Anzeigen Ihrer Apps müssen Sie sich im neuen Admin Center befinden.  Sie können diese Option auf der Admin Center-Startseite umschalten.  
+Sie können Ihre apps im Microsoft 365 Admin Center anzeigen. 
 
-1. Wenn das neue Admin Center aktiviert ist, wechseln Sie zur Seite **Abrechnungs** > [Produkte #a0 Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Wechseln Sie im Admin Center zur Seite **Abrechnungs** > [Produkte #a0 Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Wählen Sie auf der Seite **Produkte #a0 Dienste** die Registerkarte **apps** aus.

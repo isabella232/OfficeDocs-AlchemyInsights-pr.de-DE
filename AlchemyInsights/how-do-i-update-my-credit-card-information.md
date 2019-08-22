@@ -13,25 +13,24 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 23e2ea7cab1ccf3a2eb64b60137932ac38cff8aa
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 85e6691e02ae04fd2813dc8a883b879ff4bca1ff
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388995"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522790"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Wie aktualisiere ich meine Kreditkarteninformationen?
 
-1. Navigieren Sie im Admin Center zur Seite **Abrechnung** \> [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Navigieren Sie im Microsoft 365 Admin Center zur Seite **Abrechnung** \> [Zahlungsmethoden](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Wählen Sie das Abonnement aus, das Sie mit der zu aktualisierenden Kreditkarte bzw. dem Bankkonto erworben haben, und wählen Sie dann **Zahlungsdetails aktualisieren** aus.
+2. Wählen Sie auf der Seite **Zahlungsmethoden** die Kreditkarte oder das Bankkonto aus, die bzw. das Sie aktualisieren möchten.
 
-3. Wählen Sie den Dropdownpfeil unter **Zahlungsmethode hinzufügen oder auswählen**, anschließend die zu aktualisierende Kreditkarte bzw. das Bankkonto und dann **Details bearbeiten** aus.
+3. Um die Kreditkarten- oder Bankkontoinformationen zu ändern, wählen Sie **Zahlungsdetails bearbeiten** aus.
 
-4. Aktualisieren Sie die Kreditkarten- oder Bankkontoinformationen (den auf der Kreditkarte oder für das Bankkonto angegebenen Namen, die Rechnungsadresse, die Telefonnummer oder das Ablaufdatum) nach Bedarf, und wählen Sie dann **Absenden** aus.
+> [!NOTE]
+> Wenn ein anderer Administrator das Abonnement erworben hat, können Sie die Kreditkarten- oder Bankkontoinformationen dafür nicht aktualisieren. Falls die Kreditkarte bald abläuft und der andere Administrator sie nicht aktualisieren kann, können Sie eine Dienstunterbrechung verhindern, indem Sie eine andere Kreditkarte oder ein neues Bankkonto für das Abonnement hinzufügen.
 
-5. Daraufhin sollte eine Bestätigungsmeldung angezeigt werden.
+4. Aktualisieren Sie die Kreditkarten- oder Bankkontoinformationen (den auf der Kreditkarte oder für das Bankkonto angegebenen Namen, die Rechnungsadresse, die Telefonnummer oder das Ablaufdatum) nach Bedarf, und wählen Sie dann **Speichern** > **fertig** aus.
 
-Weitere Informationen finden Sie unter [Behandeln von Problemen mit Kreditkarten und Bankkonten](https://docs.microsoft.com/de-DE/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
-
-Verwenden Sie das neue Admin Center? Die neuen Schritte finden Sie unter [Hinzufügen, Aktualisieren oder Entfernen einer Kreditkarte oder eines Bankkontos in Office 365 Business](https://docs.microsoft.com/de-DE/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Weitere Informationen finden Sie unter [Hinzufügen, Aktualisieren oder Entfernen einer Kreditkarte oder eines Bankkontos in Office 365 Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

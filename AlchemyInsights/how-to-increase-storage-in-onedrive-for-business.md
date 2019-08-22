@@ -1,5 +1,5 @@
 ---
-title: So erweitern Sie den Speicher in OneDrive for Business
+title: Vorgehensweise zum Erweitern des Speichers in OneDrive für Unternehmen
 ms.author: kirks
 author: Techwriter40
 ms.date: 12/14/2018
@@ -8,27 +8,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: 693e7607f557f2586bf3debda8e4b7fdb04cf143
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ab43df8415f84d2cb289d8f3f93fa002faf783c2
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417790"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540720"
 ---
-# <a name="how-to-increase-storage-in-onedrive-for-business"></a>So erweitern Sie den Speicher in OneDrive for Business
+# <a name="how-to-increase-storage-in-onedrive-for-business"></a>Vorgehensweise zum Erweitern des Speichers in OneDrive für Unternehmen
 
 So ändern Sie den Standardspeicher für neue und vorhandene OneDrive-Benutzer:
   
-- Wechseln Sie zur [Seite "Speicher" des OneDrive Admin Center](https://admin.onedrive.com/?v=StorageSettings), und geben Sie einen neuen Betrag in GB ein.
+- Wechseln Sie zur [Seite Speicher des OneDrive Admin Center](https://admin.onedrive.com/?v=StorageSettings), und geben Sie einen neuen Betrag in GB ein.
     
-Diese Einstellung für Speicherplatz gilt für alle Benutzer, für die Sie keine bestimmten Speichergrenzwerte festgelegt haben. Um den Speicherplatz für bestimmte Benutzer zu ändern, müssen Sie Microsoft PowerShell verwenden. Weitere Informationen hierzu finden Sie unter [Ändern des OneDrive-Speicherplatzes Ihrer Benutzer mithilfe von PowerShell](https://go.microsoft.com/fwlink/?linkid=866402). 
+Diese Speicherplatz Einstellung gilt für alle Benutzer, für die Sie keine bestimmten Speichergrenzwerte festgelegt haben. Um den Speicherplatz für bestimmte Benutzer zu ändern, müssen Sie Microsoft PowerShell verwenden. Informationen zur Vorgehensweise finden Sie unter [Ändern des OneDrive-Speicherplatzes Ihrer Benutzer mithilfe von PowerShell](https://go.microsoft.com/fwlink/?linkid=866402). 
   
- **Hinweis**: Es sieht so aus, als hätten Sie keinen Plan, der unbegrenzten Speicherplatz enthält. Informationen zum Speicherplatz, der mit jedem Plan geliefert wird, finden Sie unter [OneDrive for Business Service Description](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+ **Hinweis**: Es sieht so aus, dass Sie keinen Plan haben, der unbegrenzten Speicher enthält. Informationen zum Speicherplatz, der mit den einzelnen Plänen geliefert wird, finden Sie unter [OneDrive für Unternehmen-Dienstbeschreibung](https://go.microsoft.com/fwlink/p/?LinkID=826071).
   
-Um Ihren Speicher in OneDrive for Business zu verbessern, wählen Sie einen Office 365-Plan, der entweder **OneDrive for Business Plan 2** oder **Office 365 Enterprise E3**enthält. 
+Um den Speicherplatz in OneDrive für Unternehmen zu verbessern, wählen Sie einen Office 365 Plan aus, der entweder **OneDrive für Unternehmen Plan 2** oder **Office 365 Enterprise E3**enthält. 
   
-um pläne zu ändern, wechseln sie im Microsoft 365 admin center zu **abrechnungs** \> **abonnements**und wählen dann **pläne wechseln aus.**
+Wechseln Sie zum Ändern der Pläne im Microsoft 365 Admin Center zu **Abrechnungs** \> **Abonnements**, und wählen Sie dann **Pläne wechseln aus.**
   
-Weitere Informationen zum Wechseln von Plänen und OneDrive für Business-Speicher finden Sie unter [Wechseln zu einem anderen Office 365 for Business-Plan](https://go.microsoft.com/fwlink/?LinkId=2031117) und der [OneDrive for Business-Dienstbeschreibung](https://go.microsoft.com/fwlink/?LinkId-2031122).
+Weitere Informationen zum Wechseln von Plänen und OneDrive für Unternehmen Speicher finden Sie unter [Wechseln zu einem anderen Office 365 für Unternehmenplan](https://go.microsoft.com/fwlink/?LinkId=2031117) und der [OneDrive für Unternehmen-Dienstbeschreibung](https://go.microsoft.com/fwlink/?LinkId-2031122).
   
 
