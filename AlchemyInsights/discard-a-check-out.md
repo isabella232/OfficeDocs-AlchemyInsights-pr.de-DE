@@ -1,5 +1,5 @@
 ---
-title: Auschecken verWerfen
+title: Auschecken verwerfen
 ms.author: kirks
 author: Techwriter40
 ms.date: 9/7/2018
@@ -8,21 +8,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d86bf9c-8158-40e2-a26f-cffe1ed856d1
-ms.openlocfilehash: f3177ba6290767b3f3838a64b51171b27136d15a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 2d4bd517c122e5ddbafd99e43471f29dffbfe157
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404599"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36512674"
 ---
-# <a name="discard-a-check-out-from-a-document-library"></a><span data-ttu-id="68b35-102">Auschecken aus einer Dokumentbibliothek verWerfen</span><span class="sxs-lookup"><span data-stu-id="68b35-102">Discard a check out from a document library</span></span>
+# <a name="discard-a-check-out-from-a-document-library"></a><span data-ttu-id="5cabf-102">Verwerfen eines Auscheckens aus einer Dokumentbibliothek</span><span class="sxs-lookup"><span data-stu-id="5cabf-102">Discard a check out from a document library</span></span>
 
-1. <span data-ttu-id="68b35-103">Klicken Sie mit der rechten Maustaste auf die Datei, die Sie auschecken möchten.</span><span class="sxs-lookup"><span data-stu-id="68b35-103">Right-click the file you want to discard check out.</span></span>
+1. <span data-ttu-id="5cabf-103">Klicken Sie mit der rechten Maustaste auf die Datei, für die Sie das Auschecken verwerfen möchten.</span><span class="sxs-lookup"><span data-stu-id="5cabf-103">Right-click the file you want to discard check out.</span></span>
     
-2. <span data-ttu-id="68b35-104">Klicken Sie auf **Weitere**, und klicken Sie dann auf auscheckEn verwerfen. \*\*\*\*</span><span class="sxs-lookup"><span data-stu-id="68b35-104">Click **More**, and then click **Discard Check Out**.</span></span> 
+2. <span data-ttu-id="5cabf-104">Klicken Sie auf **Weitere**, und klicken Sie dann auf Auschecken verwerfen. \*\*\*\*</span><span class="sxs-lookup"><span data-stu-id="5cabf-104">Click **More**, and then click **Discard Check Out**.</span></span> 
     
-3. <span data-ttu-id="68b35-105">Klicken Sie im Dialogfeld auf \* \* ausChecken \* \* verWerfen, um das Auschecken zu deaktivieren.</span><span class="sxs-lookup"><span data-stu-id="68b35-105">From the dialog box, click \*\* Discard Check Out \*\* to clear the check out.</span></span> 
+3. <span data-ttu-id="5cabf-105">Klicken Sie im Dialogfeld auf \*\*\*\* Auschecken verwerfen, um das Auschecken zu deaktivieren.</span><span class="sxs-lookup"><span data-stu-id="5cabf-105">From the dialog box, click **Discard Check Out** to clear the check out.</span></span> 
     
-<span data-ttu-id="68b35-106">Weitere Fragen zum Einchecken und Auschecken finden Sie unter [häufigste Fragen zu Auschecken, Einchecken und Versionen](https://go.microsoft.com/fwlink/?linkid=2018786)</span><span class="sxs-lookup"><span data-stu-id="68b35-106">For additional questions about checking in and checking out, see [Top questions about check out, check in, and versions](https://go.microsoft.com/fwlink/?linkid=2018786)</span></span>
+<span data-ttu-id="5cabf-106">Weitere Fragen zum Einchecken und Auschecken finden Sie unter [Top Questions about Check out, Check in und Versions](https://go.microsoft.com/fwlink/?linkid=2018786).</span><span class="sxs-lookup"><span data-stu-id="5cabf-106">For additional questions about checking in and checking out, see [Top questions about check out, check in, and versions](https://go.microsoft.com/fwlink/?linkid=2018786).</span></span>
   
 

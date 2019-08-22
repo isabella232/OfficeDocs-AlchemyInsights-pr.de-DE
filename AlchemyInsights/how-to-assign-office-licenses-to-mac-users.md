@@ -13,24 +13,24 @@ ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
 ms.custom:
 - "651"
 - "2000017"
-ms.openlocfilehash: a68e6a78f042a57f88c44e7b5cf62bdacebefba4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bde7f68684003b551297f8befc52e438a6fa5e58
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385366"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522502"
 ---
-# <a name="how-to-assign-office-licenses-to-mac-users"></a><span data-ttu-id="34b05-102">Zuweisen von Office-Lizenzen zu Mac-Benutzern</span><span class="sxs-lookup"><span data-stu-id="34b05-102">How to assign Office licenses to Mac users</span></span>
+# <a name="how-to-assign-office-licenses-to-mac-users"></a><span data-ttu-id="394a2-102">Zuweisen von Office-Lizenzen zu Mac-Benutzern</span><span class="sxs-lookup"><span data-stu-id="394a2-102">How to assign Office licenses to Mac users</span></span>
 
-- <span data-ttu-id="34b05-103">Wechseln Sie im Microsoft 365 Admin Center zur Seite [aktive Benutzer](https://go.microsoft.com/fwlink/p/?linkid=834822) , oder wählen Sie **Benutzer** \> **aktive**Benutzer.</span><span class="sxs-lookup"><span data-stu-id="34b05-103">In the Microsoft 365 admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** \> **Active users**.</span></span>
+1. <span data-ttu-id="394a2-103">Wechseln Sie im Admin Center zur Seite **Benutzer** \> [aktive Benutzer](https://go.microsoft.com/fwlink/p/?linkid=834822) .</span><span class="sxs-lookup"><span data-stu-id="394a2-103">In the admin center, go to the **Users** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.</span></span>
 
-- <span data-ttu-id="34b05-104">Aktivieren Sie das Kontrollkästchen neben dem Namen des Benutzers, dem Sie eine Lizenz zuweisen möchten.</span><span class="sxs-lookup"><span data-stu-id="34b05-104">Select the box next to the name of the user to whom you want to assign a license.</span></span>
+2. <span data-ttu-id="394a2-104">Wählen Sie den Namen des Benutzers aus, dem Sie eine Lizenz zuweisen, ändern oder entfernen möchten.</span><span class="sxs-lookup"><span data-stu-id="394a2-104">Select the name of the user to whom you want to assign, change, or remove a license.</span></span>
 
-- <span data-ttu-id="34b05-105">Wählen Sie rechts in der Zeile **Produktlizenzen** die Option **Bearbeiten** aus.</span><span class="sxs-lookup"><span data-stu-id="34b05-105">On the right, in the **Product licenses** row, choose **Edit**.</span></span>
+3. <span data-ttu-id="394a2-105">Wählen Sie auf der Registerkarte **Lizenzen und apps** die Lizenz aus, die Sie diesem Benutzer zuweisen möchten.</span><span class="sxs-lookup"><span data-stu-id="394a2-105">On the **Licenses and Apps** tab, select the license that you want to assign to this user.</span></span>
 
-- <span data-ttu-id="34b05-106">Wechseln Sie im Bereich " **Produktlizenz**" die Umschaltfläche zur **on** -Position für die Lizenz, die Sie diesem Benutzer zuweisen möchten.</span><span class="sxs-lookup"><span data-stu-id="34b05-106">In the **Product license**s pane, switch the toggle to the **On** position for the license that you want to assign to this user.</span></span>
+    <span data-ttu-id="394a2-106">Standardmäßig werden alle dieser Lizenz zugeordneten Dienste dem Benutzer automatisch zugewiesen.</span><span class="sxs-lookup"><span data-stu-id="394a2-106">By default, all services associated with that license are automatically assigned to the user.</span></span> <span data-ttu-id="394a2-107">Um zu begrenzen, welche Dienste für den Benutzer verfügbar sind, deaktivieren Sie das Kontrollkästchen für die Dienste, die dieser Benutzer nicht erhalten soll.</span><span class="sxs-lookup"><span data-stu-id="394a2-107">To limit which services are available to the user, clear the check box for the services that you don't want that user to have.</span></span>
 
-- <span data-ttu-id="34b05-107">Wählen Sie unten im Bereich **Produktlizenzen** nacheinander **Speichern** \> **Schließen** \> **Schließen** aus.</span><span class="sxs-lookup"><span data-stu-id="34b05-107">At the bottom of the **Product licenses** pane, choose **Save** \> **Close** \> **Close**.</span></span>
+4. <span data-ttu-id="394a2-108">Klicken Sie unten im Bereich auf **Änderungen speichern**.</span><span class="sxs-lookup"><span data-stu-id="394a2-108">At the bottom of the pane, choose **Save changes**.</span></span>
 
-<span data-ttu-id="34b05-108">Weitere Informationen: [Zuweisen von Lizenzen zu Benutzern in Office 365 für Unternehmen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)</span><span class="sxs-lookup"><span data-stu-id="34b05-108">For more information: [Assign licenses to users in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)</span></span>
+<span data-ttu-id="394a2-109">Weitere Informationen: [Zuweisen von Lizenzen zu Benutzern in Office 365 für Unternehmen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)</span><span class="sxs-lookup"><span data-stu-id="394a2-109">For more information: [Assign licenses to users in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)</span></span>
   
