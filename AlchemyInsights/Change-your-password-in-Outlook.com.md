@@ -10,17 +10,19 @@ localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - 0bd18328-35e4-4e4a-94c3-48430e8e2e77
-ms.openlocfilehash: 5b1da07d0f255fc12af5eadbcb89ea53273537c1
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9abc97379dc153956e8cf3ce59ddb046623b85d5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32365465"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496415"
 ---
-Wenn Sie Ihr Kennwort vergessen haben, wechseln Sie zur [Seite Microsoft-Konto-Kennwort zurücksetzen](https://go.microsoft.com/fwlink/p/?linkid=841909). Führen Sie andernfalls die folgenden Anweisungen aus.
+# <a name="change-your-password-in-outlook"></a>Ändern des Kennworts in Outlook
+
+Wenn Sie Ihr Kennwort vergessen haben, wechseln Sie zur [Seite Microsoft-Kontokennwort zurücksetzen](https://go.microsoft.com/fwlink/p/?linkid=841909). Befolgen Sie andernfalls die Anweisungen unten.
   
 1. Wählen Sie in der oberen rechten Ecke ihren Namen oder Ihr Profilbild aus, und wählen Sie **Konto anzeigen**aus.
-2. Unter dem Hello! Klicken Sie auf **Kennwort ändern**.
+2. Unter dem Hello! Banner, wählen Sie **Kennwort ändern**aus.
 3. Wählen Sie ein neues Kennwort aus, und wählen Sie **Speichern**aus.
 
 Weitere Informationen finden Sie unter [Ändern des Kennworts in Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx).

@@ -1,5 +1,5 @@
 ---
-title: Verteilerlisten werden nicht angezeigt
+title: Nicht anzeigende Verteilerlisten
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ccb3e76a-557e-42fa-a9fc-95e396a1a74d
-ms.openlocfilehash: b4137d1a88fd555f340c61298af5b34ec1fe0803
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a44e4ccd61d34c2514d23e93b202b47c39ac48d0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404636"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530458"
 ---
-# <a name="distribution-group-not-showing-in-groups-list"></a>Verteilergruppe wird in der Gruppenliste nicht angezeigt
+# <a name="distribution-group-not-showing-in-groups-list"></a>Verteilergruppe wird nicht in Gruppenliste angezeigt
 
-Es kann bis zu 60 Minuten dauern, bis Ihre neue Verteilerliste im Exchange Admin Center-Center angezeigt wird.
+Es kann bis zu 60 Minuten dauern, bis Ihre neue Verteilerliste im Exchange Admin Center Center angezeigt wird.
   
-Wenn Sie Mitglieder hinzufügen oder andere Änderungen vornehmen möchten, verwenden Sie die Funktion "Gruppen" im [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
+Wenn Sie jetzt Mitglieder hinzufügen oder andere Bearbeitungen vornehmen möchten, verwenden Sie das Feature "Gruppen" im [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
   
 

@@ -13,24 +13,24 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: d11e5e28dbc524e9e894c0d2e504495f3811a763
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5cdea787d28a0649ba20a9196742e5103e502e23
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387843"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533086"
 ---
 # <a name="trying-to-find-a-trial"></a>Versuchen Sie, eine Testversion zu finden?
 
-Wenn Sie einen neuen Dienst ausprobieren möchten, finden Sie im Admin Center eine Liste der Abonnements, die für eine Testversion zur Verfügung stehen.
+Wenn Sie einen neuen Dienst ausprobieren möchten, finden Sie eine Liste der Abonnements, die für die Testversion verfügbar sind, im Microsoft 365 Admin Center.
   
 1. Wechseln Sie im Admin Center zur Seite **Abrechnungs** \> - [Einkaufsdienste](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
-2. Suchen Sie das Abonnement, das Ihren Anforderungen entspricht, und klicken Sie mit der Maus darüber, und wählen Sie **﻿Kostenlose Testversion starten**aus.
+2. Wählen Sie das Abonnement aus, das Ihren Anforderungen entspricht, und wählen Sie dann **﻿Kostenlose Testversion abrufen**aus.
 
     > [!NOTE]
-    > Nicht alle Abonnements sind als Testversion verfügbar. Wenn die Schaltfläche **﻿Kostenlose Testversion starten** nicht angezeigt wird, wenn Sie die Maus über ein Abonnement bewegen, bedeutet dies, dass keine Testversion verfügbar ist.
+    > Nicht alle Abonnements sind als Testversion verfügbar. Wenn die Schaltfläche **Get Free testing** nicht angezeigt wird, wenn Sie mit der Maus über ein Abonnement klicken, bedeutet dies, dass keine Testversion verfügbar ist.
   
 3. Sie werden möglicherweise aufgefordert, eine Kreditkarte oder andere Zahlungsmethode einzugeben, um eine zusätzliche Überprüfung als Sicherheitsmaßnahme bereitzustellen. Sie werden nicht für diese ﻿kostenlose Testversion belastet. Ihre Zahlungsinformationen werden in der Datei gespeichert und für keinen Kauf ohne Ihre Genehmigung verwendet.
 
-4. Wählen Sie **Bestellung platzieren**aus.
+4. Wählen Sie **jetzt testen**aus.
