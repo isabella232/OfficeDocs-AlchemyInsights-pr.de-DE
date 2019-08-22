@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
-ms.openlocfilehash: 2a03ac64d92c07b523b015850251b33c58bb76f8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f390d659b191fa4c44bd7c8acb32409cd3021489
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423543"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36532330"
 ---
 # <a name="upn-sync-disabled"></a>UPN-Synchronisierung deaktiviert
 
-Wenn Sie vor dem 30. März 2016 mit der Synchronisierung mit Azure AD begonnen haben, führen Sie das folgende Azure AD PowerShell-Cmdlet aus, um die UPN-weiche Übereinstimmung nur für Ihre Organisation zu aktivieren:
+Wenn Sie mit der Synchronisierung mit Azure AD vor dem 30. März 2016 begonnen haben, führen Sie das folgende Azure AD PowerShell-Cmdlet aus, um UPN Soft Match nur für Ihre Organisation zu aktivieren:
   
- **Set-MsolDirSyncFeature-Feature EnableSoftMatchOnUpn-enable $True**
+ **Festlegen-MsolDirSyncFeature-Feature EnableSoftMatchOnUpn-enable $true**
   
-Die UPN-weiche Übereinstimmung wird automatisch für Organisationen aktiviert, die an oder nach dem 30. März 2016 mit Azure AD synchronisiert haben.
+UPN Soft Match wird automatisch für Organisationen aktiviert, die mit der Synchronisierung mit Azure AD begonnen haben oder nach dem 30. März 2016.
   
-Weitere Informationen zum Aktivieren von Soft Match für UPN und andere Synchronisierungsfunktionen finden Sie unter [Azure AD Connect Sync Service Features](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).
+Weitere Informationen zum Aktivieren von Soft Match unter UPN und anderen Synchronisierungsfeatures finden Sie unter [Azure AD Connect Sync Service Features](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).
   
 
