@@ -1,5 +1,5 @@
 ---
-title: Ihre Gruppe wird in der Gruppenliste nicht angezeigt
+title: Ihre Gruppe wird nicht in der Liste "Gruppen" angezeigt
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/8/2017
@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 805eb5f6-1cb0-4b19-82ad-fde38a42808d
-ms.openlocfilehash: ab51b12a1005bfe304114065d05af2bbf5390567
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 1708cc461888d903531422f9d272db12e8dd142f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420735"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530799"
 ---
-# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>Ihre Gruppe "{AimKIObject}" wird nicht in der Gruppenliste angezeigt
+# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>Ihre Gruppe "{AimKIObject}" wird nicht in Gruppenliste angezeigt
 
-Ihre Verteilergruppe mit dem Namen "{AimKIObject}" wurde erstellt {AimKITimeElapsed} Minuten. Es kann bis zu 60 Minuten dauern, bis Ihre neue Gruppe im Admin Center angezeigt wird.
+Ihre Verteilergruppe mit dem Namen "{AimKIObject}" wurde vor Minuten {AimKITimeElapsed} erstellt. Es kann bis zu 60 Minuten dauern, bis die neue Gruppe im Admin Center angezeigt wird.
   
-Wenn Sie Mitglieder hinzufügen oder andere Änderungen vornehmen möchten, verwenden Sie die Funktion "Gruppen" im [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
+Wenn Sie jetzt Mitglieder hinzufügen oder andere Bearbeitungen vornehmen möchten, verwenden Sie das Feature "Gruppen" im [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
   
 

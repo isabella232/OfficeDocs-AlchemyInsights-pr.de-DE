@@ -16,25 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 80295232bfd23979665755566e9fb45a440d0f85
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403674"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527470"
 ---
 # <a name="enable-multi-factor-authentication"></a>Aktivieren der mehrstufigen Authentifizierung
 
-1. Navigieren Sie zu **Benutzer** \> , die **aktive Benutzer** sind
+So aktivieren Sie die mehrstufige Authentifizierung im Microsoft 365 Admin Center:
+
+1. Wechseln Sie zur Seite **Benutzer** \> **aktive Benutzer** .
     
-2. Klicken Sie auf **mehr** \> **Setup Azure Multi-Factor auth**. 
+2. Wählen Sie oben auf der Seite **mehrstufige Authentifizierung**aus. 
     
-3. Suchen Sie die Benutzer, die Sie für MFA aktivieren möchten. Um alle Benutzer anzuzeigen, müssen Sie möglicherweise die mehrstufige Authentifizierungsstatus Ansicht oben ändern.
+3. Suchen Sie nach den Benutzern, die Sie für die mehrstufige Authentifizierung aktivieren möchten. Um alle Benutzer anzuzeigen, müssen Sie möglicherweise den mehrstufigen **Authentifizierungsstatus** Filter oben ändern.
     
 4. Aktivieren Sie das Kontrollkästchen neben den Benutzern, die Sie aktivieren möchten.
     
-5.  Im rechten Bereich der Benutzerinformationen finden Sie unter **schnell Schritte** das Thema aktivieren und Verwalten von Benutzereinstellungen. Wählen Sie **Aktivieren** aus. 
+5.  Wählen Sie im Bereich Rechte Benutzerinformationen unter **schnell Schritte**die Option **aktivieren**aus. 
     
-6. Klicken Sie im daraufhin geöffneten Dialogfeld **auf mehrstufige Authentifizierung aktivieren**. 
+6. Wählen Sie im daraufhin geöffneten Dialogfeld die Option **mehrstufige Authentifizierung aktivieren**aus. 
     
 

@@ -9,16 +9,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 542d1c91b87e6d7b918d091f463cf56697213778
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: c2e43788d674942b14bec3aa7316e34e7126d1be
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389597"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496002"
 ---
-Wenn Sie festlegen möchten, dass alle Kennwörter nie ablaufen, gehen Sie zu [Sicherheit &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security). Klicken Sie neben **Kennwortrichtlinie**auf **Bearbeiten** , und aktivieren Sie **** den Schieberegler auf ein.
+# <a name="set-passwords-to-never-expire"></a>Festlegen, dass Kennwörter nie ablaufen 
+
+Um alle Kennwörter so festzulegen, dass Sie nie ablaufen, wechseln Sie im Microsoft 365 Admin Center zur Seite mit den **Einstellungen** > für die[ &amp; Sicherheit des Datenschutzes](https://portal.office.com/adminportal/home#/settings/security) . Klicken Sie neben **Kennwortrichtlinie**auf **Bearbeiten** , und aktivieren Sie **** den Schieberegler.
   
-Ausführlichere Informationen finden Sie unter [Festlegen der Kennwortablaufrichtlinie für Ihre Organisation.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)
+Ausführlichere Informationen finden Sie unter: [Festlegen der Kennwortablaufrichtlinie für Ihre Organisation.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)
   
-[Festlegen, dass Kennwort für bestimmte Benutzer nie abläuft](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
+[Festlegen, dass das Kennwort für bestimmte Benutzer nie abläuft](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
   
