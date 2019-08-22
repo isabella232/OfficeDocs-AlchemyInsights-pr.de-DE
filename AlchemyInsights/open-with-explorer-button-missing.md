@@ -1,5 +1,5 @@
 ---
-title: Öffnen mit Explorer-Schaltfläche fehlt
+title: Schaltfläche "mit Explorer öffnen" fehlt
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 712afc25-b9db-4f55-bf79-9f4e5861ab9f
-ms.openlocfilehash: ff1a135cc9c93ea00019d3e6646998d46dbd720f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 35b12036dfa056b4c5928223133e58259d7edc3e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388095"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36543060"
 ---
-# <a name="the-open-with-explorer-button-is-missing"></a><span data-ttu-id="90d3f-102">Die Schaltfläche mit Explorer öffnen fehlt</span><span class="sxs-lookup"><span data-stu-id="90d3f-102">The Open with Explorer button is missing</span></span>
+# <a name="the-open-with-explorer-button-is-missing"></a><span data-ttu-id="53d81-102">Die Schaltfläche "mit Explorer öffnen" fehlt</span><span class="sxs-lookup"><span data-stu-id="53d81-102">The Open with Explorer button is missing</span></span>
 
-<span data-ttu-id="90d3f-103">Die Schaltfläche **mit Explorer öffnen** wird nicht in der modernen Umgebung von SharePoint und OneDrive angezeigt.</span><span class="sxs-lookup"><span data-stu-id="90d3f-103">The **Open with Explorer** button doesn't appear in the modern experience of SharePoint and OneDrive.</span></span> <span data-ttu-id="90d3f-104">Wenn Sie eine Dokumentbibliothek im Datei-Explorer öffnen möchten, navigieren Sie in Internet Explorer zu diesem, \> und wählen Sie **im Datei-Explorer**die Ansicht im Menü Ansicht aus.</span><span class="sxs-lookup"><span data-stu-id="90d3f-104">To open a document library in File Explorer, browse to it in Internet Explorer and select the view menu \> **View in File Explorer**.</span></span> <span data-ttu-id="90d3f-105">Die Option **Ansicht im Datei-Explorer** ist in Microsoft Edge, Google Chrome oder Firefox nicht verfügbar.</span><span class="sxs-lookup"><span data-stu-id="90d3f-105">The **View in File Explorer** option is not available in Microsoft Edge, Google Chrome or Firefox.</span></span> 
+<span data-ttu-id="53d81-103">Die Schaltfläche **Öffnen mit Explorer** wird nicht in der modernen Benutzeroberfläche von SharePoint und OneDrive angezeigt.</span><span class="sxs-lookup"><span data-stu-id="53d81-103">The **Open with Explorer** button doesn't appear in the modern experience of SharePoint and OneDrive.</span></span> <span data-ttu-id="53d81-104">Wenn Sie eine Dokumentbibliothek im Datei-Explorer öffnen möchten, navigieren Sie zu dieser in Internet Explorer, \> und wählen Sie dann im **Datei-Explorer**die Ansicht Menü Ansicht aus.</span><span class="sxs-lookup"><span data-stu-id="53d81-104">To open a document library in File Explorer, browse to it in Internet Explorer and select the view menu \> **View in File Explorer**.</span></span> <span data-ttu-id="53d81-105">Die Option **in Datei-Explorer anzeigen** steht in Microsoft Edge, Google Chrome oder Firefox nicht zur Verfügung.</span><span class="sxs-lookup"><span data-stu-id="53d81-105">The **View in File Explorer** option is not available in Microsoft Edge, Google Chrome or Firefox.</span></span> 
   
 > [!NOTE]
-> <span data-ttu-id="90d3f-106">Open with Explorer wird nur über Internet Explorer unterstützt.</span><span class="sxs-lookup"><span data-stu-id="90d3f-106">Open with Explorer is supported only through Internet Explorer.</span></span> <span data-ttu-id="90d3f-107">Synchronisieren Sie stattdessen [SharePoint-Dateien mit dem neuen OneDrive-synchronisierungsclient](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) , der [Dateien bei Bedarf](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx)bereitstellt.</span><span class="sxs-lookup"><span data-stu-id="90d3f-107">Instead, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) which provides [Files On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx).</span></span> <span data-ttu-id="90d3f-108">Greifen Sie auf alle Dateien in OneDrive zu, ohne lokalen Speicherplatz zu verwenden.</span><span class="sxs-lookup"><span data-stu-id="90d3f-108">Access all your files in OneDrive without using local storage space.</span></span> 
+> <span data-ttu-id="53d81-106">Das Öffnen mit dem Explorer wird nur über Internet Explorer unterstützt.</span><span class="sxs-lookup"><span data-stu-id="53d81-106">Open with Explorer is supported only through Internet Explorer.</span></span> <span data-ttu-id="53d81-107">Synchronisieren Sie stattdessen [SharePoint-Dateien mit dem neuen OneDrive-synchronisierungsclient](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) , der [Dateien bei Bedarf](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx)bereitstellt.</span><span class="sxs-lookup"><span data-stu-id="53d81-107">Instead, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) which provides [Files On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx).</span></span> <span data-ttu-id="53d81-108">Greifen Sie auf alle Ihre Dateien in OneDrive zu, ohne lokalen Speicherplatz zu verwenden.</span><span class="sxs-lookup"><span data-stu-id="53d81-108">Access all your files in OneDrive without using local storage space.</span></span> 
   
 
