@@ -14,37 +14,37 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: e437015d476c1417fa37e1b1c250e2205e9ce4d9
-ms.sourcegitcommit: b825ced7b66d452b0f3874a57e033e690ec41c93
+ms.openlocfilehash: a1ea0589def4945da64c73d68b2e4a3d64d6b83d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/29/2019
-ms.locfileid: "35925284"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506406"
 ---
-# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a><span data-ttu-id="9f3eb-102">Aktualisieren von DNS-Einträgen, um die Website beim aktuellen Hostinganbieter zu belassen</span><span class="sxs-lookup"><span data-stu-id="9f3eb-102">Update DNS records to keep your website with your current hosting provider</span></span>
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a><span data-ttu-id="8ac42-102">Aktualisieren von DNS-Einträgen, um die Website beim aktuellen Hostinganbieter zu belassen</span><span class="sxs-lookup"><span data-stu-id="8ac42-102">Update DNS records to keep your website with your current hosting provider</span></span>
 
-1. <span data-ttu-id="9f3eb-103">Wählen Sie auf der Seite [Domänen](https://portal.office.com/adminportal/home#/Domains) in der Liste der Domänen die Domäne aus, die Sie für Ihre Website verwenden.</span><span class="sxs-lookup"><span data-stu-id="9f3eb-103">On the [Domains](https://portal.office.com/adminportal/home#/Domains) page, in the list of domains, select the domain you're using for your website.</span></span>
+1. <span data-ttu-id="8ac42-103">Wählen Sie auf der Seite [Domänen](https://portal.office.com/adminportal/home#/Domains) in der Liste der Domänen die Domäne aus, die Sie für Ihre Website verwenden.</span><span class="sxs-lookup"><span data-stu-id="8ac42-103">On the [Domains](https://portal.office.com/adminportal/home#/Domains) page, in the list of domains, select the domain you're using for your website.</span></span>
 
-2. <span data-ttu-id="9f3eb-104">Wählen Sie **+ Neuer benutzerdefinierter Eintrag** aus, und geben Sie Folgendes ein:</span><span class="sxs-lookup"><span data-stu-id="9f3eb-104">Select **+ New custom record** and enter the following:</span></span>
+2. <span data-ttu-id="8ac42-104">Wählen Sie **+ Neuer benutzerdefinierter Eintrag** aus, und geben Sie Folgendes ein:</span><span class="sxs-lookup"><span data-stu-id="8ac42-104">Select **+ New custom record** and enter the following:</span></span>
 
-  - <span data-ttu-id="9f3eb-105">Geben Sie unter **DNS-Typ** ein: **A (Adresse)**</span><span class="sxs-lookup"><span data-stu-id="9f3eb-105">For **DNS type** enter: **A (Address)**</span></span>
+  - <span data-ttu-id="8ac42-105">Geben Sie unter **DNS-Typ** ein: **A (Adresse)**</span><span class="sxs-lookup"><span data-stu-id="8ac42-105">For **DNS type** enter: **A (Address)**</span></span>
 
-  - <span data-ttu-id="9f3eb-106">Geben Sie unter **Hostname oder Alias** Folgendes ein: **@**</span><span class="sxs-lookup"><span data-stu-id="9f3eb-106">For **Host name or Alias**, type the following: **@**</span></span>
+  - <span data-ttu-id="8ac42-106">Geben Sie unter **Hostname oder Alias** Folgendes ein: **@**</span><span class="sxs-lookup"><span data-stu-id="8ac42-106">For **Host name or Alias**, type the following: **@**</span></span>
 
-  - <span data-ttu-id="9f3eb-107">Geben Sie unter **IP-Adresse** die statische IP-Adresse für Ihre Website ein, unter der diese derzeit gehostet wird, beispielsweise "172.16.140.1".</span><span class="sxs-lookup"><span data-stu-id="9f3eb-107">For **IP Address**, type the static IP address for your website where it's currently hosted (for example, 172.16.140.1).</span></span>
+  - <span data-ttu-id="8ac42-107">Geben Sie unter **IP-Adresse** die statische IP-Adresse für Ihre Website ein, unter der diese derzeit gehostet wird, beispielsweise "172.16.140.1".</span><span class="sxs-lookup"><span data-stu-id="8ac42-107">For **IP Address**, type the static IP address for your website where it's currently hosted (for example, 172.16.140.1).</span></span>
 
-    <span data-ttu-id="9f3eb-p101">Es muss eine  *statische*  IP-Adresse für die Website sein, keine  *dynamische*  . Überprüfen Sie bei der Website, auf der Ihre Website gehostet wird, dass Sie eine statische IP-Adresse für Ihre öffentliche Website erhalten können.</span><span class="sxs-lookup"><span data-stu-id="9f3eb-p101">This must be a  *static*  IP address for the website, not a  *dynamic*  IP address. Check with site where your website is hosted to make sure you can get a static IP address for your public website.</span></span>
+    <span data-ttu-id="8ac42-p101">Es muss eine  *statische*  IP-Adresse für die Website sein, keine  *dynamische*  . Überprüfen Sie bei der Website, auf der Ihre Website gehostet wird, dass Sie eine statische IP-Adresse für Ihre öffentliche Website erhalten können.</span><span class="sxs-lookup"><span data-stu-id="8ac42-p101">This must be a  *static*  IP address for the website, not a  *dynamic*  IP address. Check with site where your website is hosted to make sure you can get a static IP address for your public website.</span></span>
 
-3. <span data-ttu-id="9f3eb-110">Klicken Sie auf **Speichern**.</span><span class="sxs-lookup"><span data-stu-id="9f3eb-110">Select **Save**.</span></span>
+3. <span data-ttu-id="8ac42-110">Klicken Sie auf **Speichern**.</span><span class="sxs-lookup"><span data-stu-id="8ac42-110">Select **Save**.</span></span>
 
-<span data-ttu-id="9f3eb-111">Darüber hinaus können Sie einen CNAME-Eintrag erstellen, damit Kunden Ihre Website besser finden können.</span><span class="sxs-lookup"><span data-stu-id="9f3eb-111">In addition, you can create a CNAME record to help customers find your website.</span></span>
+<span data-ttu-id="8ac42-111">Darüber hinaus können Sie einen CNAME-Eintrag erstellen, damit Kunden Ihre Website besser finden können.</span><span class="sxs-lookup"><span data-stu-id="8ac42-111">In addition, you can create a CNAME record to help customers find your website.</span></span>
   
-1. <span data-ttu-id="9f3eb-112">Wählen Sie **+ Neuer benutzerdefinierter Eintrag** aus, und geben Sie Folgendes ein:</span><span class="sxs-lookup"><span data-stu-id="9f3eb-112">Select **+ New custom record** and enter the following:</span></span>
+1. <span data-ttu-id="8ac42-112">Wählen Sie **+ Neuer benutzerdefinierter Eintrag** aus, und geben Sie Folgendes ein:</span><span class="sxs-lookup"><span data-stu-id="8ac42-112">Select **+ New custom record** and enter the following:</span></span>
 
-  - <span data-ttu-id="9f3eb-113">Geben Sie unter **DNS-Typ** ein: **CNAME (Alias)**</span><span class="sxs-lookup"><span data-stu-id="9f3eb-113">For **DNS type** enter: **CNAME (Alias)**</span></span>
+  - <span data-ttu-id="8ac42-113">Geben Sie unter **DNS-Typ** ein: **CNAME (Alias)**</span><span class="sxs-lookup"><span data-stu-id="8ac42-113">For **DNS type** enter: **CNAME (Alias)**</span></span>
 
-  - <span data-ttu-id="9f3eb-114">Geben Sie unter **Hostname oder Alias** Folgendes ein: **www**</span><span class="sxs-lookup"><span data-stu-id="9f3eb-114">For **Host name or Alias**, type the following: **www**</span></span>
+  - <span data-ttu-id="8ac42-114">Geben Sie unter **Hostname oder Alias** Folgendes ein: **www**</span><span class="sxs-lookup"><span data-stu-id="8ac42-114">For **Host name or Alias**, type the following: **www**</span></span>
 
-  - <span data-ttu-id="9f3eb-115">Geben Sie unter **Verweist auf die Adresse** den vollqualifizierten Domänennamen (Fully Qualified Domain Name, FQDN) Ihrer Website ein, beispielsweise contoso.com.</span><span class="sxs-lookup"><span data-stu-id="9f3eb-115">For **Points to address**, type the fully qualified domain name (FQDN) for your website (for example, contoso.com).</span></span>
+  - <span data-ttu-id="8ac42-115">Geben Sie unter **Verweist auf die Adresse** den vollqualifizierten Domänennamen (Fully Qualified Domain Name, FQDN) Ihrer Website ein, beispielsweise contoso.com.</span><span class="sxs-lookup"><span data-stu-id="8ac42-115">For **Points to address**, type the fully qualified domain name (FQDN) for your website (for example, contoso.com).</span></span>
 
-2. <span data-ttu-id="9f3eb-116">Wählen Sie **Speichern** aus.</span><span class="sxs-lookup"><span data-stu-id="9f3eb-116">Select **Save**.</span></span>
+2. <span data-ttu-id="8ac42-116">Wählen Sie **Speichern** aus.</span><span class="sxs-lookup"><span data-stu-id="8ac42-116">Select **Save**.</span></span>
