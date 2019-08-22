@@ -12,15 +12,15 @@ ms.custom:
 - "1081"
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: ec385fcc57ff3b32575ec0232c3ed623887461fb
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9dca67b4cab81f564256d40e91750fc2ce217fd3
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35361420"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36505866"
 ---
-# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="d1bdf-102">Erstellen und Verwalten von Raumpostfächern</span><span class="sxs-lookup"><span data-stu-id="d1bdf-102">Create and manage room mailboxes</span></span>
+# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="f70e0-102">Erstellen und Verwalten von Raumpostfächern</span><span class="sxs-lookup"><span data-stu-id="f70e0-102">Create and manage room mailboxes</span></span>
 
-<span data-ttu-id="d1bdf-103">Informationen zum Erstellen und Ändern von Raumpostfächern finden Sie unter [Erstellen und Verwalten von Raumpostfächern](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="d1bdf-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
+<span data-ttu-id="f70e0-103">Informationen zum Erstellen und Ändern von Raumpostfächern finden Sie unter [Erstellen und Verwalten von Raumpostfächern](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="f70e0-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
 
-<span data-ttu-id="d1bdf-104">Weitere Informationen zu Raum-und gerätepostfächern (auch als Ressourcenpostfächer bezeichnet) finden Sie unter [Raum-und Gerätepostfächer](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span><span class="sxs-lookup"><span data-stu-id="d1bdf-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span></span>
+<span data-ttu-id="f70e0-104">Weitere Informationen zu Raum-und gerätepostfächern (auch als Ressourcenpostfächer bezeichnet) finden Sie unter [Raum-und Gerätepostfächer](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span><span class="sxs-lookup"><span data-stu-id="f70e0-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span></span>

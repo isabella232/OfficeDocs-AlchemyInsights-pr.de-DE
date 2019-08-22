@@ -10,21 +10,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
-ms.openlocfilehash: 04b9812e755ced55331c436932558dac6420e060
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 03a76b467d24c1a4e7e478d9ecc2bd4dad8aff7c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373567"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511810"
 ---
-# <a name="subscriptions-and-unsubscribing"></a><span data-ttu-id="e2365-102">Abonnements und Abonnement kündigen</span><span class="sxs-lookup"><span data-stu-id="e2365-102">Subscriptions and unsubscribing</span></span>
+# <a name="subscriptions-and-unsubscribing"></a><span data-ttu-id="ed9f8-102">Abonnements und abbestellen</span><span class="sxs-lookup"><span data-stu-id="ed9f8-102">Subscriptions and unsubscribing</span></span>
 
-<span data-ttu-id="e2365-103">Wenn Sie keine Newsletter oder Werbeaktionen mehr erhalten möchten, gibt es zwei Möglichkeiten zum Kündigen des Abonnements in Outlook.com:</span><span class="sxs-lookup"><span data-stu-id="e2365-103">If you want to stop receiving newsletters or promotions, there are two ways you can unsubscribe in Outlook.com:</span></span>
+<span data-ttu-id="ed9f8-103">Wenn Sie den Erhalt von Newslettern oder Werbeaktionen beenden möchten, gibt es zwei Möglichkeiten zum Kündigen des Abonnements in Outlook.com:</span><span class="sxs-lookup"><span data-stu-id="ed9f8-103">If you want to stop receiving newsletters or promotions, there are two ways you can unsubscribe in Outlook.com:</span></span>
 
-1. <span data-ttu-id="e2365-104">Wählen Sie in Ihrem Posteingang einen Newsletter oder eine Werbe-e-Mail aus.</span><span class="sxs-lookup"><span data-stu-id="e2365-104">In your inbox, select a newsletter or promotional email.</span></span> <span data-ttu-id="e2365-105">Klicken Sie oben im Lesebereich auf **Abonnement kündigen**.</span><span class="sxs-lookup"><span data-stu-id="e2365-105">At the top of the reading pane, select **Unsubscribe**.</span></span>
-2. <span data-ttu-id="e2365-106">öffnen sie [ihre Outlook.com-abonnementeinstellungen](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**einstellungen** > **anzeigen aller** > **e-mail-** > **abonnements**für Outlook-einstellungen), und wählen sie **abonnement kündigen**aus.</span><span class="sxs-lookup"><span data-stu-id="e2365-106">Open your [Outlook.com subscriptions settings](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Settings** > **View all Outlook settings** > **Email** > **Subscriptions**) and select **Unsubscribe**.</span></span>
+1. <span data-ttu-id="ed9f8-104">Wählen Sie in Ihrem Posteingang einen Newsletter oder eine Werbe-e-Mail aus.</span><span class="sxs-lookup"><span data-stu-id="ed9f8-104">In your inbox, select a newsletter or promotional email.</span></span> <span data-ttu-id="ed9f8-105">Wählen Sie oben im Lesebereich die Option **Abonnement kündigen**aus.</span><span class="sxs-lookup"><span data-stu-id="ed9f8-105">At the top of the reading pane, select **Unsubscribe**.</span></span>
+2. <span data-ttu-id="ed9f8-106">Öffnen Sie [Ihre Outlook.com-Abonnementeinstellungen](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Einstellungen** > **alle Outlook** > **-Einstellungen e-Mail-** > **Abonnements**anzeigen), und wählen Sie **Abonnement kündigen**aus.</span><span class="sxs-lookup"><span data-stu-id="ed9f8-106">Open your [Outlook.com subscriptions settings](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Settings** > **View all Outlook settings** > **Email** > **Subscriptions**) and select **Unsubscribe**.</span></span>
 
-<span data-ttu-id="e2365-107">Hinweise:</span><span class="sxs-lookup"><span data-stu-id="e2365-107">Notes:</span></span>
+<span data-ttu-id="ed9f8-107">Hinweise:</span><span class="sxs-lookup"><span data-stu-id="ed9f8-107">Notes:</span></span>
 
-- <span data-ttu-id="e2365-108">Derzeit können nicht alle Kunden von dieser Funktion profitieren.</span><span class="sxs-lookup"><span data-stu-id="e2365-108">Not all customers can benefit from this feature at the moment.</span></span>
-- <span data-ttu-id="e2365-109">Diese Funktion wird nur angezeigt, wenn Sie eine e-Mail des Unternehmens erhalten haben, das die e-Mail-Nachricht gesendet hat.</span><span class="sxs-lookup"><span data-stu-id="e2365-109">You'll only see this feature if you've received an email from the company sending subscribed email.</span></span>
+- <span data-ttu-id="ed9f8-108">Nicht alle Kunden können in diesem Moment von dieser Funktion profitieren.</span><span class="sxs-lookup"><span data-stu-id="ed9f8-108">Not all customers can benefit from this feature at the moment.</span></span>
+- <span data-ttu-id="ed9f8-109">Dieses Feature wird nur angezeigt, wenn Sie eine e-Mail vom Unternehmen erhalten haben, die abonnierte e-Mails sendet.</span><span class="sxs-lookup"><span data-stu-id="ed9f8-109">You'll only see this feature if you've received an email from the company sending subscribed email.</span></span>
