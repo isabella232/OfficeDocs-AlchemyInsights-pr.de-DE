@@ -13,20 +13,20 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356596"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553431"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Rückruf oder Ersetzen einer e-Mail-Nachricht
+# <a name="recall-or-replace-an-email-message-in-office-365"></a>Rückruf oder Ersetzen einer e-Mail-Nachricht in Office 365
 
 - Sie können **nur Nachrichten abrufen, die an Personen in Ihrer Organisation gesendet werden**. Wenn die Nachricht beispielsweise an eine gmail-Adresse gesendet wurde, können Sie Sie nicht mehr abrufen.
 - Sie können **nur Nachrichten abrufen, die von Outlook 2016 für den PC gesendet wurden**. Wenn ein Benutzer eine Nachricht mit Outlook für Mac oder Outlook im Internet sendet, kann er nicht mehr daran erinnert werden.
 - Wenn Sie Administrator sind, können Sie **Nachrichten im Namen von Benutzern mithilfe von PowerShell abrufen**. Sie können keine Nachrichten aus dem Admin Center abrufen. Scrollen Sie nach unten zu "suchen und Löschen von e-Mail-Nachrichten in Ihrer Organisation", um weitere Informationen zu erhalten.
 
-***Zurückrufen oder Ersetzen einer von Ihnen gesendeten e-Mail-Nachricht***
+**Zurückrufen oder Ersetzen einer von Ihnen gesendeten e-Mail-Nachricht**
 
 1. Wählen Sie im Bereich Ordner auf der linken Seite des Outlook-Fensters den Ordner Gesendete Elemente aus.
 2. Öffnen Sie die Nachricht, die Sie abrufen möchten. Sie müssen doppelklicken, um die Nachricht zu öffnen. Wenn Sie die Nachricht auswählen, damit Sie im Lesebereich angezeigt wird, können Sie die Nachricht nicht mehr abrufen.

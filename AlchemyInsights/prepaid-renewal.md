@@ -13,25 +13,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: db7b3094291c476afde2769a9c803a53d4432319
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 79bbf01dde6020a18a9693d5ad0f4ae62390a245
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388599"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554620"
 ---
-# <a name="prepaid-renewal"></a>Voraus bezahlte Verlängerung
+# <a name="prepaid-office-365-renewal"></a>Voraus bezahlte Office 365 Verlängerung
 
-1. Wechseln Sie im Admin Center zur Seite **Abrechnungs** \> [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Wechseln Sie im Admin Center zur Seite **Abrechnungs** \> [Produkte #a0 Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Wählen Sie das Abonnement aus, das Sie verlängern möchten, und wählen Sie dann **erweitern**aus.
+2. Suchen Sie das Abonnement, das Sie erweitern möchten. Wählen Sie im Abschnitt **Abrechnung** die Option **End-Datum verlängern**aus.
 
-3. Wählen Sie die Option **Product Key**aus. (Wenn es sich um einen Product Key handelt, der an einem Einzelhandelsstandort erworben wurde, haben Sie möglicherweise die Möglichkeit, mit anderen Zahlungsmethoden zu erweitern.)
+3. Wählen Sie im Bereich **Abonnement verlängern** die Option **neuen und nicht verwendeten Product Key verwenden**aus, und wählen Sie dann **weiter**aus.
 
-4. Geben Sie den Product Key ein.
+4. Geben Sie den Product Key ein, und wählen Sie dann **weiter**aus.
 
-5. Stellen Sie sicher, dass die Informationen richtig sind, und wählen Sie dann **weiter**aus.
+> [!NOTE]
+> Wenn Sie mehr als einen Product Key hinzufügen möchten, können Sie **Weiteren Product Key hinzufügen** auswählen und diesen dann eingeben.
 
-6. Wählen Sie das Optionsfeld aus, um das Enddatum der vorhandenen Lizenzen zu erweitern, und wählen Sie dann **weiter**aus.
+5. Überprüfen Sie Ihre Bestelldetails, **** und wählen Sie dann einlösen aus.
 
-Verwenden Sie das neue Admin Center? Neue Schritte finden Sie unter [Hinzufügen von Lizenzen zu oder Erweitern eines Abonnements, das mit einem Product Key bezahlt](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key)wurde.
+Weitere Informationen finden Sie unter [Hinzufügen von Lizenzen zu oder Erweitern eines Abonnements, das mit einem Product Key bezahlt](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key)wurde.

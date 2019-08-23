@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f5383fc3-d7fc-4efb-93b7-a520b374099a
-ms.openlocfilehash: 0a44dd8fad248086046f995b7e4f223249d1644c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 835998c6adfbd7c0f0024aecaa5181fc5d1d89a5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32421599"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36550082"
 ---
 # <a name="set-passwords-to-never-expire"></a>Festlegen, dass Kennwörter nie ablaufen
 
-Legen Sie fest, dass Kennwörter nie vom [Sicherheits &amp; Datenschutz](https://portal.office.com/adminportal/home#/settings/security)ablaufen. Klicken Sie neben Kennwortrichtlinie auf Bearbeiten und drehen Sie den Schieberegler auf "ein".
+Legen Sie Kennwörter so fest, dass Sie nie aus dem [Schutz der Sicherheit &amp; ](https://portal.office.com/adminportal/home#/settings/security)ablaufen. Klicken Sie neben Kennwortrichtlinie auf "Bearbeiten", und drehen Sie den Schieberegler auf "ein".
   
-Ausführlichere Informationen finden Sie unter [Festlegen der Kennwortablaufrichtlinie für Ihre Organisation](https://support.office.com/article/set-the-password-expiration-policy-for-your-organization-0f54736f-eb22-414c-8273-498a0918678f).
+Ausführlichere Informationen finden Sie unter: [Festlegen der Kennwortablaufrichtlinie für Ihre Organisation](https://support.office.com/article/set-the-password-expiration-policy-for-your-organization-0f54736f-eb22-414c-8273-498a0918678f).
   
 
