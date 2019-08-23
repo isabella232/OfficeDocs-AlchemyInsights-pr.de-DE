@@ -13,12 +13,12 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: 97191c9d0f267935485ccbdeaf5243c3b4e12a97
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: c84e56a7b8077698f20ca269218f684fba23f191
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388383"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551522"
 ---
 # <a name="send-email-from-an-alias-or-secondary-address"></a>Senden von e-Mails von einem Alias oder einer sekundären Adresse
 
@@ -26,4 +26,4 @@ Office 365 unterstützt derzeit nicht das Senden von e-Mails von einem Alias ode
   
 - [Hier finden Sie ein freigegebenes Postfach erstellen](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 
-Sie können auch den Artikel [Erstellen eines freigegebenen Post Fachs](https://docs.microsoft.com/en-us/office365/admin/email/create-a-shared-mailbox) lesen, in dem Sie erfahren, was Sie über freigegebene Postfächer wissen müssen, einschließlich ihrer Verwendung.
+Sie können auch den Artikel [Erstellen eines freigegebenen Post Fachs](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) lesen, in dem Sie erfahren, was Sie über freigegebene Postfächer wissen müssen, einschließlich ihrer Verwendung.

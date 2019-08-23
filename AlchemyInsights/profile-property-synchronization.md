@@ -1,5 +1,5 @@
 ---
-title: Profileigenschaften Synchronisierung
+title: Synchronisierung der Profileigenschaft
 ms.author: arnek
 author: arnek
 ms.date: 6/20/2018
@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 17e9882a-2341-459f-86d8-6ad8df3bef7e
-ms.openlocfilehash: 1bb87786d9e28e11b1b883e5dba0c0588f3db18f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3f2fd97bd357c6fd6a94cb9715a316ca7fd1bacf
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372035"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554440"
 ---
-# <a name="profile-property-synchronization"></a>Profileigenschaften Synchronisierung
+# <a name="profile-property-synchronization"></a>Synchronisierung der Profileigenschaft
 
-Es ist nicht möglich, zusätzliche Eigenschaften für den AD-Import zur Synchronisierung von Azure Active Directory zur Benutzerprofilanwendung zuzuordnen. Der AD-Import ist auf einen vorkonfigurierten Satz von Eigenschaften beschränkt, um eine konsistente Leistung des Zeitgeberauftrags sicherzustellen.
+Es ist nicht möglich, zusätzliche Eigenschaften für AD-Import zuzuordnen, um von Azure Active Directory zur benutzerprofilanwendung zu synchronisieren. AD-Import ist auf eine vorkonfigurierte Gruppe von Eigenschaften limitiert, um eine konsistente Leistung des Zeitgeberauftrags sicherzustellen.
   
-[Weitere Informationen zu den zu synchronisierenden Profileigenschaften](https://go.microsoft.com/fwlink/?linkid=875671)
+[Erfahren Sie mehr über die zu synchronisierenden Profileigenschaften.](https://go.microsoft.com/fwlink/?linkid=875671)
   
 

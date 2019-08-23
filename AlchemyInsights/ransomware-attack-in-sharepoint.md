@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: 2dc5a497fdb59acb58068e2db3f25293ee63995f
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 3ebb86895c65e1acd91d552ad28b8d5a44ef8335
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36269483"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553395"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Ransomware-Angriff in SharePoint oder OneDrive
 
@@ -36,12 +36,12 @@ Weitere Informationen zur Wiederherstellung finden Sie unter:
 - [Wiederherstellen einer Dokumentbibliothek](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&rs=en-US&ad=US)
 
 Weitere Informationen zu Advanced Threat Protection (ATP) finden Sie unter:
-- [ATP für SharePoint, OneDrive und Teams](https://docs.microsoft.com/en-us/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [Bedrohungs-Explorer-Ansichten](https://docs.microsoft.com/en-us/office365/securitycompliance/threat-explorer-views)
+- [ATP für SharePoint, OneDrive und Teams](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
+- [Bedrohungs-Explorer-Ansichten](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
 
 Zusätzliche Informationen:
 
-- [Virenerkennung in SpO](https://docs.microsoft.com/en-us/office365/securitycompliance/virus-detection-in-spo)</br>
-- [Datenverschlüsselung in ODB und SpO](https://docs.microsoft.com/en-us/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
+- [Virenerkennung in SpO](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
+- [Datenverschlüsselung in ODB und SpO](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
 - [Ransomware-Erkennung und Dateien werden erneut hergestellt](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
-- [Bedrohungs-Explorer und Echtzeiterkennung](https://docs.microsoft.com/en-us/office365/securitycompliance/threat-explorer-views)
+- [Bedrohungs-Explorer und Echtzeiterkennung](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)

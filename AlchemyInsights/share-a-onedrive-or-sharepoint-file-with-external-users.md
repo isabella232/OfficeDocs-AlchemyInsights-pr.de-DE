@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8f5c866b-ec51-45ea-b2da-4ce4ff551041
-ms.openlocfilehash: 24bb0e8a1ad5b1ef33c57b1bcb5bed939009749c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3db4ed57a1daf32cf8bcc95c716baf4a06380874
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32377811"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549614"
 ---
 # <a name="share-a-onedrive-or-sharepoint-file-or-folder-with-external-users"></a>Freigeben einer OneDrive-oder SharePoint-Datei oder eines Ordners für externe Benutzer
 
-1. Wechseln Sie in einem Browser zu der Datei oder dem Ordner, den Sie freigeben möchten, wählen Sie ihn aus, und klicken Sie dann auf **Freigeben**.
+1. Wechseln Sie in einem Browser zu der Datei oder dem Ordner, die Sie freigeben möchten, wählen Sie ihn aus, und klicken Sie dann auf **Freigeben**.
     
-2. Klicken Sie im Dialogfeld Link senden auf den Pfeil nach unten, um den Linktyp zu ändern.
+2. Klicken Sie im Dialogfeld Link senden auf den Abwärtspfeil, um den Verknüpfungstyp zu ändern.
     
-3. Wählen Sie unter **Wer soll dieser Link für die Arbeit aus**, **** Wenn Sie möchten, dass die Empfänger den Link oder **bestimmte Personen** freigeben können, um nur den von Ihnen angegebenen Personen Zugriff zu gewähren. 
+3. Wählen Sie unter **wem möchten Sie diesen Link verwenden**aus, wenn **** Sie möchten, dass die Empfänger den Link oder **bestimmte Personen** freigeben können, um nur den von Ihnen angegebenen Personen Zugriff zu gewähren. 
     
-    Wenn diese Optionen nicht verfügbar sind, müssen Sie sicherstellen, dass Sie für Ihre Organisation und für die Websitesammlung zulässig sind. Weitere Informationen hierzu finden Sie unter [Aktivieren oder Deaktivieren der externen Freigabe für SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866426).
+    Wenn diese Optionen nicht verfügbar sind, müssen Sie sicherstellen, dass Sie für Ihre Organisation und für die Websitesammlung zulässig sind. Informationen dazu finden Sie unter [Aktivieren oder Deaktivieren der externen Freigabe für SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866426).
     
 4. Klicken Sie auf **Anwenden**.
     

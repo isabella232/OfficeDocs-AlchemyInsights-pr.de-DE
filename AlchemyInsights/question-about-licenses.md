@@ -13,25 +13,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: ddc8e78f7f56110b11521f60d9c68e6fae241f5e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3f3f4f6df43a5937b10093887b703627d9cb8eeb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388455"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553575"
 ---
-# <a name="question-about-licenses"></a>Frage zu Lizenzen
+# <a name="questions-about-your-office-365-license"></a>Fragen zu Ihrer Office 365 Lizenz
 
 Wenn Sie wissen möchten, wie viele Lizenzen Sie erworben haben oder wie viele Lizenzen einem Abonnement zugewiesen sind:
   
-1. Wechseln Sie im Admin Center zur Seite **Abrechnungs** \> [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Wechseln Sie im Admin Center zur Seite **Abrechnungs** \> [Produkte #a0 Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Wählen Sie das Abonnement aus, zu dem Sie mehr wissen möchten.
+2. Unter dem Namen des Abonnements, zu dem Sie weitere Informationen erhalten möchten, können Sie die Anzahl der Lizenzen sehen, für die Sie zahlen, und wie viele zur Zuweisung verfügbar sind.
 
-3. Auf der linken Seite der Abonnementkarte finden Sie Informationen zu ihren Lizenzen:
-
-  - Bei **** der erworbenen Nummer handelt es sich um die Anzahl der Lizenzen, die Sie bezahlen.
-
-  - Die **zugewiesene** Nummer ist die Anzahl der Lizenzen, die einem Benutzer zugewiesen sind.
-
-4. Wenn Sie weitere Lizenzen hinzufügen möchten, oder wenn Sie zu viele haben, wählen Sie **Lizenzen hinzufügen/entfernen** aus, um den erworbenen Betrag anzupassen.
+Wenn Sie weitere Lizenzen hinzufügen möchten, oder wenn Sie zu viele haben, wählen Sie **Lizenzen hinzufügen/entfernen** aus, um den erworbenen Betrag anzupassen.
