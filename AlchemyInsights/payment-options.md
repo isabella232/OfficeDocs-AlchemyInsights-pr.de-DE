@@ -13,14 +13,14 @@ ms.custom:
 - "1639"
 - "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: fbdbdec10ddc5724122c02ad1350c11aaf63867e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 74cec40931491a9194252dd44894c602b3c849cd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388671"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555268"
 ---
-# <a name="payment-options"></a>Zahlungsoptionen
+# <a name="payment-options-for-office-365-for-business-subscriptions"></a>Zahlungsoptionen für Abonnements von Office 365 Business
 
 **Zahlungsoptionen**
   
@@ -30,7 +30,7 @@ Kreditkarte, Bankkonto (Lastschrift) und Rechnung (Zahlung per Scheck oder elekt
   
 Wenn Sie mit Kreditkarte oder Bankkonto bezahlen, wird Ihnen die Abonnementgebühr automatisch am Tag nach dem Rechnungsdatum bis zum Ende der Laufzeit Ihres Abonnements belastet. Sie können, wann immer nötig, [Ihre Kreditkarteninformationen oder Bankkontodaten aktualisieren](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account). Sie können auf Wunsch auch [Erhalten einer Kopie Ihrer Rechnung per E-Mail](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email).
   
-Wenn Ihre Kreditkarte abgelehnt wurde oder einen überfälligen Saldo aufweist, können Sie die Option **Jetzt bezahlen** auf der Seite **Abrechnung** \> [Abonnements](https://portal.office.com/adminportal/home#/subscriptions) auswählen.
+Wenn Ihre Kreditkarte abgelehnt wurde oder einen überfälligen Saldo aufweist, können Sie die Option **Saldo ausgleichen** auf der Seite **Abrechnung** \> [Produkte und Dienste](https://portal.office.com/adminportal/home#/subscriptions) auswählen.
   
 **Zahlung per Rechnung (Scheck oder elektronischer Zahlungsverkehr)**
   
