@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.custom:
 - "8000034"
 - "2470"
-ms.openlocfilehash: 0d9fb6b33bddf6256bde9f6a34feee477b74f87b
-ms.sourcegitcommit: 204be4a6ae03700b75eae6b09b4e9ab283089fbf
+ms.openlocfilehash: 896b7b684be1b8e28f59e7de60f3706e73d5b235
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "36170634"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556132"
 ---
-# <a name="read-receipts"></a><span data-ttu-id="82939-102">Lesebestätigungen</span><span class="sxs-lookup"><span data-stu-id="82939-102">Read receipts</span></span>
+# <a name="read-receipts"></a><span data-ttu-id="d959d-102">Lesebestätigungen</span><span class="sxs-lookup"><span data-stu-id="d959d-102">Read receipts</span></span>
 
-<span data-ttu-id="82939-103">So fordern Sie eine Lesebestätigung oder eine Zustellungsbestätigung für Ihre Nachricht an:</span><span class="sxs-lookup"><span data-stu-id="82939-103">To request a read receipt or a delivery receipt for your message:</span></span>
+<span data-ttu-id="d959d-103">So fordern Sie eine Lesebestätigung oder eine Zustellungsbestätigung für Ihre Nachricht in Outlook im Web an:</span><span class="sxs-lookup"><span data-stu-id="d959d-103">To request a read receipt or a delivery receipt for your message in Outlook on the web:</span></span>
 
-1. <span data-ttu-id="82939-104">Auswählen der drei Punkte</span><span class="sxs-lookup"><span data-stu-id="82939-104">Select the three dots</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
- <span data-ttu-id="82939-105">oben im Bereich zum Verfassen von Nachrichten.</span><span class="sxs-lookup"><span data-stu-id="82939-105">at the top of the message compose pane.</span></span>
-1. <span data-ttu-id="82939-106">Wählen Sie **Nachrichtenoptionen anzeigen**aus.</span><span class="sxs-lookup"><span data-stu-id="82939-106">Select **Show message options**.</span></span>
-1. <span data-ttu-id="82939-107">Wählen Sie **Lesebestätigung anfordern** aus, oder **fordern Sie eine Zustellungsbestätigung**an.</span><span class="sxs-lookup"><span data-stu-id="82939-107">Select **Request a read receipt** or **Request a delivery receipt**, or both.</span></span>
+1. <span data-ttu-id="d959d-104">Auswählen der drei Punkte</span><span class="sxs-lookup"><span data-stu-id="d959d-104">Select the three dots</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ <span data-ttu-id="d959d-105">oben im Bereich zum Verfassen von Nachrichten.</span><span class="sxs-lookup"><span data-stu-id="d959d-105">at the top of the message compose pane.</span></span>
+1. <span data-ttu-id="d959d-106">Wählen Sie **Nachrichtenoptionen anzeigen**aus.</span><span class="sxs-lookup"><span data-stu-id="d959d-106">Select **Show message options**.</span></span>
+1. <span data-ttu-id="d959d-107">Wählen Sie **Lesebestätigung anfordern** aus, oder **fordern Sie eine Zustellungsbestätigung**an.</span><span class="sxs-lookup"><span data-stu-id="d959d-107">Select **Request a read receipt** or **Request a delivery receipt**, or both.</span></span>
 
-<span data-ttu-id="82939-108">Um zu entscheiden, wie Outlook auf Lese Bestätigungsanforderungen reagiert, wechseln Sie zu</span><span class="sxs-lookup"><span data-stu-id="82939-108">To choose how Outlook responds to read receipt requests, go to</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- <span data-ttu-id="82939-109">**Einstellungen** > **alle Outlook-Einstellungen** > für die**Nachrichtenverarbeitung**anzeigen.</span><span class="sxs-lookup"><span data-stu-id="82939-109">**Settings** > **View all Outlook settings** > **Message handling**.</span></span>
+<span data-ttu-id="d959d-108">Um zu entscheiden, wie Outlook auf Lese Bestätigungsanforderungen reagiert, wechseln Sie zu</span><span class="sxs-lookup"><span data-stu-id="d959d-108">To choose how Outlook responds to read receipt requests, go to</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ <span data-ttu-id="d959d-109">**Einstellungen** > **alle Outlook-Einstellungen** > für die**Nachrichtenverarbeitung**anzeigen.</span><span class="sxs-lookup"><span data-stu-id="d959d-109">**Settings** > **View all Outlook settings** > **Message handling**.</span></span>
 
-<span data-ttu-id="82939-110">Weitere Informationen finden Sie unter [Lesebestätigungen in Outlook im Web](https://support.office.com/article/e09af74d-3519-45fc-a680-37a538a92157).</span><span class="sxs-lookup"><span data-stu-id="82939-110">For more information, see [Read receipts in Outlook on the web](https://support.office.com/article/e09af74d-3519-45fc-a680-37a538a92157).</span></span>
+<span data-ttu-id="d959d-110">Weitere Informationen finden Sie unter [Lesebestätigungen in Outlook im Web](https://support.office.com/article/e09af74d-3519-45fc-a680-37a538a92157).</span><span class="sxs-lookup"><span data-stu-id="d959d-110">For more information, see [Read receipts in Outlook on the web](https://support.office.com/article/e09af74d-3519-45fc-a680-37a538a92157).</span></span>

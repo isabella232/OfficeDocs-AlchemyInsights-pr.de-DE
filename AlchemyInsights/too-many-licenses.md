@@ -13,27 +13,23 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 807fab7199a6f5d4e3c79be22451069def82a358
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 99102d883ae5c4fbb7af624b0b06e0313bd5f218
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388023"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549074"
 ---
-# <a name="too-many-licenses"></a><span data-ttu-id="ab59b-102">Zu viele Lizenzen?</span><span class="sxs-lookup"><span data-stu-id="ab59b-102">Too many licenses?</span></span>
+# <a name="too-many-licenses"></a><span data-ttu-id="012bb-102">Zu viele Lizenzen?</span><span class="sxs-lookup"><span data-stu-id="012bb-102">Too many licenses?</span></span>
 
-<span data-ttu-id="ab59b-103">Wenn Sie der Meinung sind, dass Ihnen zu viele Lizenzen in Rechnung gestellt werden, liegt dies normalerweise daran, dass Sie mehr Lizenzen erworben haben, die Sie benötigen.</span><span class="sxs-lookup"><span data-stu-id="ab59b-103">If you think you're being billed for too many licenses, this is usually due to having purchased more licenses then you need.</span></span>
+<span data-ttu-id="012bb-103">Wenn Sie der Meinung sind, dass zu viele Office 365 Lizenzen in Rechnung gestellt werden, liegt dies normalerweise daran, dass Sie mehr Lizenzen erworben haben, die Sie benötigen.</span><span class="sxs-lookup"><span data-stu-id="012bb-103">If you think you're being billed for too many Office 365 licenses, this is usually due to having purchased more licenses then you need.</span></span>
   
-<span data-ttu-id="ab59b-104">**Reduzieren der Anzahl erworbener Lizenzen**</span><span class="sxs-lookup"><span data-stu-id="ab59b-104">**Reduce the number of licenses purchased**</span></span>
+<span data-ttu-id="012bb-104">**Reduzieren der Anzahl erworbener Lizenzen**</span><span class="sxs-lookup"><span data-stu-id="012bb-104">**Reduce the number of licenses purchased**</span></span>
   
-1. <span data-ttu-id="ab59b-105">Wechseln Sie im Admin Center zur Seite **Abrechnungs** \> [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="ab59b-105">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="012bb-105">Wechseln Sie im Admin Center zur Seite **Abrechnungs** \> [Produkte #a0 Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="012bb-105">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="ab59b-106">Wählen Sie auf der linken Seite das Abonnement aus, aus dem Sie Lizenzen entfernen möchten.</span><span class="sxs-lookup"><span data-stu-id="ab59b-106">On the left, choose the subscription from which you would like to remove licenses.</span></span>
+2. <span data-ttu-id="012bb-106">Suchen Sie nach dem Abonnement, von dem Sie Lizenzen entfernen möchten, und wählen Sie dann **Lizenzen hinzufügen/entfernen**aus.</span><span class="sxs-lookup"><span data-stu-id="012bb-106">Find the subscription from which you want to remove licenses, then select **Add/Remove licenses**.</span></span>
 
-3. <span data-ttu-id="ab59b-107">Wählen Sie **Lizenzen hinzufügen/entfernen** aus.</span><span class="sxs-lookup"><span data-stu-id="ab59b-107">Choose **Add/Remove licenses**.</span></span>
+3. <span data-ttu-id="012bb-107">Geben Sie im Feld **Gesamt Lizenzen** die Gesamtzahl der Lizenzen ein, die Sie für dieses Abonnement benötigen, und wählen Sie dann **Änderung übermitteln**aus.</span><span class="sxs-lookup"><span data-stu-id="012bb-107">In the **Total licenses** box, enter the total number of licenses that you need for this subscription, and then select **Submit change**.</span></span> <span data-ttu-id="012bb-108">Wenn Sie beispielsweise 110 Lizenzen haben und 5 davon entfernen möchten, geben Sie 105 ein.</span><span class="sxs-lookup"><span data-stu-id="012bb-108">For example, if you have 110 licenses and you want to remove 5 of them, enter 105.</span></span>
 
-4. <span data-ttu-id="ab59b-108">Geben Sie die Gesamtzahl der benötigten Benutzer ein.</span><span class="sxs-lookup"><span data-stu-id="ab59b-108">Enter the total number of users needed.</span></span> <span data-ttu-id="ab59b-109">Wenn Sie beispielsweise derzeit 25 Lizenzen haben und 5 entfernen möchten, geben Sie 20 in dieses Feld ein.</span><span class="sxs-lookup"><span data-stu-id="ab59b-109">For example, if you currently have 25 licenses and you want to remove 5, enter 20 in this field.</span></span>
-
-5. <span data-ttu-id="ab59b-110">Wählen Sie **Übermitteln** aus.</span><span class="sxs-lookup"><span data-stu-id="ab59b-110">Choose **Submit**.</span></span>
-
-<span data-ttu-id="ab59b-111">Verwenden Sie das neue Admin Center?</span><span class="sxs-lookup"><span data-stu-id="ab59b-111">Are you using the new admin center?</span></span> <span data-ttu-id="ab59b-112">Neue Schritte finden Sie unter [Entfernen von Lizenzen aus Ihrem Office 365 für Unternehmen-Abonnement](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).</span><span class="sxs-lookup"><span data-stu-id="ab59b-112">For new steps, see [Remove licenses from your Office 365 for business subscription](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).</span></span>
+<span data-ttu-id="012bb-109">Weitere Informationen finden Sie unter [Entfernen von Lizenzen aus Ihrem Office 365 Business-Abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).</span><span class="sxs-lookup"><span data-stu-id="012bb-109">For more information, see [Remove licenses from your Office 365 for business subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).</span></span>
