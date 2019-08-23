@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: 6076582a5d7fbcde47e8d281ecc649c97d8edfbc
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 588c774d56ab092e7d50321ca6be9e2dd4f03f16
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422263"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551882"
 ---
 # <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Wiederherstellen gelöschter Elemente aus SharePoint oder OneDrive
 
-1. Wechseln Sie zu ihrer OneDrive oder der SharePoint-Website.
+1. Wechseln Sie zu ihrer OneDrive-oder SharePoint-Website.
     
 2. Klicken Sie im linken Bereich auf **Papierkorb** . 
     
@@ -28,12 +28,12 @@ ms.locfileid: "32422263"
     
 4. Klicken Sie auf **Wiederherstellen**. 
     
-Wenn Dateien, Ordner, Bibliotheken, Listen und Listenelemente aus einer SharePoint-Website gelöscht werden, wechseln Sie in den Papierkorb, in dem Sie für 93 Tage aufbewahrt werden, es sei denn, Sie werden aus diesem Papierkorb gelöscht. Wenn Sie aus diesem Papierkorb gelöscht werden (als Website-papierKorb bezeichnet), werden Sie für die verbleibende Zeit in den Papierkorb der Websitesammlung gewechselt und dann dauerhaft gelöscht. Gelöschte Websites und Websitesammlungen gehen für die 93 Tage direkt in den Papierkorb der Websitesammlung.
+Wenn Dateien, Ordner, Bibliotheken, Listen und Listenelemente aus einer SharePoint-Website gelöscht werden, wechseln Sie in den Papierkorb, wo Sie für 93 Tage aufbewahrt werden, es sei denn, jemand löscht sie aus diesem Papierkorb. Wenn Sie aus diesem Papierkorb gelöscht werden (als Website Papierkorb bezeichnet), werden Sie für die verbleibende Zeit in den Papierkorb der Websitesammlung wechseln und dann endgültig gelöscht. Gelöschte Websites und Websitesammlungen wechseln für die 93 Tage direkt in den Papierkorb der Websitesammlung.
   
 [Wiederherstellen von Elementen im Papierkorb der Websitesammlung](https://go.microsoft.com/fwlink/?linkid=867800) (Websitesammlungsadministratoren) 
   
 [Wiederherstellen gelöschter Websitesammlungen](https://go.microsoft.com/fwlink/?linkid=867660) (globale oder SharePoint-Administratoren in Office 365) 
   
-Für Websites, die zu einer Office 365-Gruppe gehören, müssen Sie die Gruppe wiederherstellen, um die Website wiederherzustellen. Weitere Informationen finden Sie unter [Wiederherstellen einer gelöschtEn Office 365-Gruppe](https://go.microsoft.com/fwlink/?linkid=867802) (globaler Administrator) 
+Für Websites, die zu einer Office 365 Gruppe gehören, müssen Sie die Gruppe wiederherstellen, um die Website wiederherzustellen. Siehe [Wiederherstellen einer gelöschten Office 365 Gruppe](https://go.microsoft.com/fwlink/?linkid=867802) (globaler Administrator) 
   
 

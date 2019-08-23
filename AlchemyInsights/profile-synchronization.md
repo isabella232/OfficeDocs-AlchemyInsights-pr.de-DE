@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: d1a72a85767e36fefbfa8eee266befcaf2e48af0
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: b9b90dad6c5fa41afcd4e4c9a929594735eca066
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32371983"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554332"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Wann ändert mein Profil die Synchronisierung mit der SharePoint-Benutzerprofilanwendung?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Wann wird meine Profiländerung mit der SharePoint-benutzerprofilanwendung synchronisiert?
 
-SharePoint Online verwendet den Active Directory-Import-Zeitgeberauftrag (AD-Import), um Benutzer und Gruppen in die Benutzerprofilanwendung zu importieren. 
+SharePoint Online verwendet den Active Directory Import-Zeitgeberauftrag (AD-Import), um Benutzer und Gruppen in die benutzerprofilanwendung zu importieren. 
   
-1. Der AD-Import synchronisiert Änderungen vom SharePoint Online-Verzeichnisspeicher zur Benutzerprofilanwendung. Diese Änderungen werden in Batches verarbeitet.
+1. Durch AD-Import werden Änderungen aus dem SharePoint Online Verzeichnisspeicher in die benutzerprofilanwendung synchronisiert. Diese Änderungen werden in Batches verarbeitet.
     
 2. Der Zeitgeberauftrag wird ausgeführt, bis die Änderungen synchronisiert werden.
     
 > [!NOTE]
-> Die Zeit, die der Auftrag ausgeführt wird, hängt von der Anzahl der zu verarbeitenden Änderungen ab. Eine größere Anzahl von Änderungen dauert länger. Die Vereinbarung zum Service Level (SLA) besagt, dass eine Änderung an einem Benutzer im SharePoint Online-Verzeichnis in 24 Stunden in der Benutzerprofilanwendung wiedergegeben wird. 
+> Die Zeit, die für die Ausführung des Auftrags erforderlich ist, hängt von der Anzahl der zu verarbeitenden Änderungen ab. Eine große Anzahl von Änderungen dauert länger. Die Vereinbarung zum Service Level (SLA) besagt, dass sich eine Änderung an einem Benutzer im SharePoint Online-Verzeichnis in der benutzerprofilanwendung in 24 Stunden widerspiegelt. 
   
 [Weitere Informationen zur Benutzerprofil Synchronisierung in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875671)
   

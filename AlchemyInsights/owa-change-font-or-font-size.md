@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000013"
 - "1999"
-ms.openlocfilehash: 907cb0a0fcc111f993dbc0d580ff397340eab8ab
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 28efa991c3449716af7453051e2cfd7ceea56467
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36171147"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557398"
 ---
-# <a name="change-font-or-font-size"></a>Ändern der Schriftart oder des Schriftgrads
+# <a name="change-font-or-font-size-in-outlook-on-the-web"></a>Ändern der Schriftart oder des Schriftgrads in Outlook im Internet
 
 Wenn Sie e-Mails lesen, können Sie die Zoom-Funktion Ihres Browsers verwenden, um den Text auf dem Bildschirm größer oder kleiner zu gestalten.
   
