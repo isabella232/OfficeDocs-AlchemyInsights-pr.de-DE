@@ -13,12 +13,12 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 85e6691e02ae04fd2813dc8a883b879ff4bca1ff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ba0625d61d1a51f8e011765992dead21a15831f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522790"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575341"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Wie aktualisiere ich meine Kreditkarteninformationen?
 
@@ -33,4 +33,4 @@ ms.locfileid: "36522790"
 
 4. Aktualisieren Sie die Kreditkarten- oder Bankkontoinformationen (den auf der Kreditkarte oder für das Bankkonto angegebenen Namen, die Rechnungsadresse, die Telefonnummer oder das Ablaufdatum) nach Bedarf, und wählen Sie dann **Speichern** > **fertig** aus.
 
-Weitere Informationen finden Sie unter [Hinzufügen, Aktualisieren oder Entfernen einer Kreditkarte oder eines Bankkontos in Office 365 Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Verwenden Sie noch das alte Admin Center? Die Schritte für das alte Admin Center oder weitere Informationen finden Sie unter [Hinzufügen, Aktualisieren oder Entfernen einer Kreditkarte oder eines Bankkontos in Office 365 Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
