@@ -12,18 +12,18 @@ ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: f4b85ebd2ced927a5cd0d7c79c9df6fe93fa9e8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6535ee5e133c6674e460de3b54fe35602bc80915
+ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514870"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631795"
 ---
 # <a name="creating-public-folders"></a>Erstellen Öffentlicher Ordner
 
 Bevor Benutzer Öffentliche Ordner in Office 365 verwenden können, müssen Sie mindestens ein Postfach für Öffentliche Ordner erstellen. So erstellen Sie Folgendes:
   
-1. Navigieren Sie im O365-Portal über das linke Navigationsmenü zu **Admin Centers** \> **Exchange**.
+1. Wechseln Sie im Microsoft 365 Admin Center zu **Admin Centers** \> **Exchange**.
 
 2. Navigieren Sie **** \> zu öffentlichen **Ordner-Postfächern**für Öffentliche Ordner, und klicken Sie dann auf **Hinzufügen**.
 
