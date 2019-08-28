@@ -15,20 +15,21 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: d4daf97aa7d082906000a48d2fd542a70e8cdc8b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4c2aeca8eec19487fec6957ba42df2a80c0da20
+ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537875"
+ms.lasthandoff: 08/27/2019
+ms.locfileid: "36643693"
 ---
 # <a name="block-or-unblock-senders"></a>Blockieren oder Aufheben der Blockierung von Absendern
 
-Nachrichten von e-Mail-Adressen oder Domänen auf Ihren blockierten Absendern gelangen direkt in Ihren Junk-e-Mail-Ordner. E-Mail wird nach 14 Tagen automatisch aus dem Junk-e-Mail-Ordner entfernt und kann nicht wiederhergestellt werden.
+Nachrichten von e-Mail-Adressen oder Domänen auf Ihren blockierten Absendern gelangen direkt in Ihren Junk-e-Mail-Ordner. E-Mail wird nach 30 Tagen automatisch aus dem Junk-e-Mail-Ordner entfernt und kann nicht wiederhergestellt werden. SE; ect ein Element, das angezeigt wird, wenn es entfernt wird.
 
 **In Ihrem Posteingang:**
 
 - Wählen Sie in der Nachrichtenliste die Nachricht aus, und wählen Sie dann **Junk** > -**Block**aus.
+- **Hinweis:** Durch das Blockieren eines Elements, das sich bereits im Junk-e-Mail-Ordner befindet, wird es nicht gelöscht.
 
 **Von Einstellungen:**
 
