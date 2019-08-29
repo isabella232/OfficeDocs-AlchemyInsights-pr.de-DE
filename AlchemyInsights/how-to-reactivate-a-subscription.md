@@ -13,12 +13,12 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 62f7af474db4eb99563744cfe266e1eac92bf53d
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574761"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663995"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Reaktivieren eines Abonnements
 
@@ -32,4 +32,4 @@ Wenn Ihr Abonnement abgelaufen ist, gekündigt oder von Microsoft deaktiviert wu
 
 3. Bestätigen Sie Ihre Zahlungsdetails. Hier können Sie Ihre vorhandenen Zahlungsinformationen aktualisieren. Wenn Sie die Eingabe der Zahlungsmethode abgeschlossen haben, wählen Sie **Reaktivieren**aus.
 
-Verwenden Sie noch das alte Admin Center? Die Schritte für das alte Admin Center oder weitere Informationen finden Sie unter [Reaktivieren Ihres Abonnements](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Weitere Informationen finden Sie unter [Reaktivieren Ihres Abonnements](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).

@@ -12,16 +12,16 @@ ms.custom:
 - "666"
 - "3100019"
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
-ms.openlocfilehash: 3a1cc0b5cfed4a149641a1295898c8f0b77797dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fca4150c6dbeed2d83d7d6d6503b9f8742a1ff6b
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36529630"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665124"
 ---
 # <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>Werden zulässige Nachrichten als Spam gekennzeichnet?
 
-Testen Sie die oben genannte Diagnose, oder probieren Sie diese [schrittweise Anleitung zur Problembehandlung bei zulässigen Nachrichten, die als Spam gekennzeichnet werden](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).
+Testen Sie die oben genannte Diagnose, oder probieren Sie diese [schrittweise Anleitung zur Problembehandlung bei zulässigen Nachrichten, die in Office 365 als Spam gekennzeichnet werden](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).
   
 Die beste Möglichkeit, solche Probleme zu melden, besteht darin,
   

@@ -12,22 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: fe5c4c7ca5fa5cce199c826f8488c564bf2cdef1
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: f6a0b4cd536abbcd407235ddd0eeced8721cd994
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903072"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660683"
 ---
 # <a name="add-a-user-to-office-365"></a>Hinzufügen eines Benutzers zu Office 365
 
-Führen Sie die folgenden Schritte aus, um einen Benutzer zu Office 365 hinzuzufügen:
-  
-1. Wechseln Sie zu [Aktive Benutzer](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (oder wählen Sie im linken Navigationsbereich **Benutzer** \> **Aktive Benutzer** aus).
+1. Navigieren Sie im Microsoft 365 Admin Center zu **Benutzer** >  [Aktive Benutzer](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
 
 2. Klicken Sie auf **Benutzer hinzufügen**.
 
-3. Füllen Sie die Informationen für den Benutzer aus.  Wenn Sie damit fertig sind, wählen Sie **Hinzufügen** aus. 
+3. Füllen Sie die Informationen für den Benutzer aus.  Wählen Sie abschließend **Hinzufügen fertig stellen** aus.
 
-[Weitere Informationen...](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec)
+Verwenden Sie noch das alte Admin Center? Die Schritte für das alte Admin Center und weitere Informationen finden Sie unter [Hinzufügen von einzelnen Benutzern oder Massenhinzufügen von Benutzern zu Office 365](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec).
   
