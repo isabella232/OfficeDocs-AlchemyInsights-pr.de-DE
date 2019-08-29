@@ -3,7 +3,6 @@ title: Ändern des Namens und der e-Mail-Adresse eines Benutzers
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 12/17/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: 5fad24c48aeafbc0724b9462a489644dc5ef0643
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6a33ce3662680ed5940db94161b7f925670e397f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519874"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665399"
 ---
 # <a name="change-a-users-name-and-email-address"></a>Ändern des Namens und der e-Mail-Adresse eines Benutzers
 
-Das Ändern des Namens und der e-Mail-Adresse eines Benutzers ist einfach! Wechseln Sie zu **** \> Benutzer [aktive](https://go.microsoft.com/fwlink/p/?linkid=834822) Benutzer, und wählen Sie den Benutzer aus, um die Informationen zu bearbeiten. Sie können diesen Artikel auch für Schritt-für-Schritt-Anleitungen verwenden:
+Das Ändern eines Benutzernamens und einer e-Mail-Adresse in Office 365 ist einfach. Wechseln Sie zur Seite **Benutzer** \> [aktive Benutzer](https://go.microsoft.com/fwlink/p/?linkid=834822) , und wählen Sie den Benutzer aus, um die Informationen zu bearbeiten. Sie können diesen Artikel auch für Schritt-für-Schritt-Anleitungen verwenden:
   
 [Ändern eines Benutzernamens und einer e-Mail-Adresse in Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
   

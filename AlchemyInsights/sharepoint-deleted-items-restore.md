@@ -2,7 +2,6 @@
 title: Wiederherstellen einer gelöschten Datei oder eines gelöschten Ordners
 ms.author: efrene
 author: efrene
-ms.date: 8/6/2019
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -13,18 +12,18 @@ ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.custom:
 - "9000210"
 - "1782"
-ms.openlocfilehash: b618c662a8a23f5a62ef01b328252ea198c4d831
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 544e65430cce72329933933927883521b2d79e7c
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504282"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666119"
 ---
 # <a name="restore-deleted-items-from-sharepoint"></a>Wiederherstellen gelöschter Elemente aus SharePoint
 
 Wenn Sie ein Element oder eine Website aus SharePoint löschen, wird es nicht sofort entfernt. Gelöschte Elemente wechseln für einen bestimmten Zeitraum in den Papierkorb. Während dieser Zeit können Sie die gelöschten Elemente an Ihrem ursprünglichen Speicherort wiederherstellen. Weitere Informationen finden Sie unter den Links unten.
 
-- [Wiederherstellen von Elementen im Papierkorb einer SharePoint-Website](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&amp;rs=en-US&amp;ad=US).
+- [Wiederherstellen von Elementen im Papierkorb einer SharePoint-Website](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&amp;rs=en-US&amp;ad=US)
 
 - [Wiederherstellen gelöschter Dateien oder Ordner in OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 

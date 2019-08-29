@@ -3,7 +3,6 @@ title: Vorgehensweise hinzufügen oder reduzieren von Lizenzen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: 64a7566ff4e1759e8687179d49bac47f7e28bf6a
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: a478162fcdcad2e588436dd834063f9e07f4c69f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574941"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664283"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Vorgehensweise hinzufügen oder reduzieren von Lizenzen
 
-Hier erfahren Sie, wie Sie weitere Office 365 Lizenzen entfernen oder erwerben.
+Hier erfahren Sie, wie Sie Office 365 Lizenzen entfernen oder weitere Lizenzen erwerben.
   
 1. Wechseln Sie im Admin Center zur Seite **Abrechnungs** \> [Produkte #a0 Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
@@ -39,7 +38,7 @@ Hier erfahren Sie, wie Sie weitere Office 365 Lizenzen entfernen oder erwerben.
 > [!NOTE]
 > Jede neue Gebühr (Lizenz Zuwachs) oder Guthaben (Lizenz Abnahme) wird auf Ihrer nächsten Rechnung angezeigt.
 
-Verwenden Sie das alte Admin Center? Ältere Schritte oder weitere Informationen finden Sie unter [kaufen von Lizenzen für Ihr Office 365 für Unternehmen Abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+Weitere Informationen finden Sie unter [kaufen von Lizenzen für Ihr Office 365 für Unternehmen Abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
 
  **Zusätzliche Ressourcen**
   

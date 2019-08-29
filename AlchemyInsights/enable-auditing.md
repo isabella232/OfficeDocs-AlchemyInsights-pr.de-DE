@@ -3,7 +3,6 @@ title: Überwachungsprotokoll für Aktivierung und Suche
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +12,16 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 37ffbe6a3c94edc3b9888b1544e9e29097d3425a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527722"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665075"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Aktivieren und Durchsuchen des Überwachungsprotokolls
+
+**Office 365**
 
 Führen Sie die [folgenden Schritte aus](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log), um das Office 365 Überwachungsprotokoll zu durchsuchen.
 
@@ -28,7 +29,7 @@ Führen Sie die [folgenden Schritte aus](https://docs.microsoft.com/office365/se
 
 - Exchange-Administratoraktivitäten werden standardmäßig überwacht.
 
-- Wir sind dabei, die postfachüberwachung in Office 365 standardmäßig zu aktivieren. Um die Überwachung für ein einzelnes Postfach oder für alle Postfächer in Ihrer Organisation zu aktivieren, lesen Sie [diesen Artikel](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- Die postfachüberwachung ist in Office 365 standardmäßig aktiviert. Weitere Informationen finden Sie in [diesem Artikel](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
 - Office 365 Gruppen Postfächer und Postfächer für Öffentliche Ordner in Exchange Online unterstützen keine Überwachungsprotokollierung.
 

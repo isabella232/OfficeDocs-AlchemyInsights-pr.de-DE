@@ -13,12 +13,12 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 75ce59fedadc22291062affd2220b08057910966
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 7bf1ae4696576155ac3df3356ebf5d32ec779dbb
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36576091"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665471"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Stornieren des Office 365 Abonnements?
 
@@ -28,4 +28,4 @@ Basierend auf den Daten Ihrer Organisation glauben wir, dass alle Ihre aktuellen
   
 Alternativ dazu **benötigen Sie Hilfe** , um mit einem Supporttechniker zu sprechen.
   
-Verwenden Sie das alte Admin Center? Ältere Schritte oder weitere Informationen finden Sie unter [kündigen Ihres Abonnements](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Weitere Informationen finden Sie unter [kündigen Ihres Abonnements](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

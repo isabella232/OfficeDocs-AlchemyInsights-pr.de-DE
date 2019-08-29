@@ -3,19 +3,18 @@ title: Probleme mit Spoofing, Phishing oder Identitätswechsel?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: 62eb0d8b43f3673bbf05dda8d533333aaaa37ce1
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c4d6c9c28c146a098288fdd2d978cdca098e89af
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765057"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661475"
 ---
 # <a name="issues-with-spoofing-phishing-or-impersonation"></a>Probleme mit Spoofing, Phishing oder Identitätswechsel?
 
@@ -33,6 +32,6 @@ Weitere Empfehlungen:
 
 - Stellen Sie sicher, dass Benutzer keine Zulassungslisten Einträge konfiguriert haben, die Phishing-Angriffe ermöglichen könnten.
 
-- Sie sollten Spam-und Phishing-Nachrichten mit hoher Vertrauenswürdigkeit anstelle des Junk-e-Mail-Ordners in Quarantäne senden.
+- In diesem Fall sollten Sie Spam-und Phishing-Nachrichten mit hoher Zuverlässigkeit anstelle des Junk-e-Mail-Ordners in Quarantäne senden.
 
-**Haben Sie [Diese Nachricht an Microsoft gemeldet](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2)? Dies ist die beste Möglichkeit, um uns zu informieren, wie die Filter ausgeführt werden.**
+**Das [melden von Nachrichten an Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) ist die beste Möglichkeit, um uns zu informieren, wie die Filter ausgeführt werden.**

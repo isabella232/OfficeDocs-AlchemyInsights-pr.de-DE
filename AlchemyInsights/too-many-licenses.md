@@ -13,12 +13,12 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 99102d883ae5c4fbb7af624b0b06e0313bd5f218
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ee87eacd784acee9f4e1a34012076f907e4d46a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549074"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665939"
 ---
 # <a name="too-many-licenses"></a>Zu viele Lizenzen?
 
@@ -32,4 +32,4 @@ Wenn Sie der Meinung sind, dass zu viele Office 365 Lizenzen in Rechnung gestell
 
 3. Geben Sie im Feld **Gesamt Lizenzen** die Gesamtzahl der Lizenzen ein, die Sie für dieses Abonnement benötigen, und wählen Sie dann **Änderung übermitteln**aus. Wenn Sie beispielsweise 110 Lizenzen haben und 5 davon entfernen möchten, geben Sie 105 ein.
 
-Weitere Informationen finden Sie unter [Entfernen von Lizenzen aus Ihrem Office 365 Business-Abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
+Weitere Informationen finden Sie unter [Entfernen von Lizenzen aus Ihrem Office 365 für Unternehmen-Abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).

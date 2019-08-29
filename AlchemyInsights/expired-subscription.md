@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 37f1cc48d328b1307f528124695529b30a5f0c65
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 9c2d0ec8723235eb666cff01789817a531213df9
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575587"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665039"
 ---
 # <a name="expired-subscription"></a>Abgelaufenes Abonnement
 
@@ -34,7 +34,7 @@ Wenn reaktivieren nicht **** als verfügbare Aktion angezeigt wird, rufen Sie de
 
 3. Bestätigen Sie Ihre Zahlungsdetails. Hier können Sie Ihre vorhandenen Zahlungsinformationen aktualisieren. Wenn Sie die Eingabe Ihrer Zahlungsmethode abgeschlossen haben, **** wählen Sie reaktivieren aus.
 
-Verwenden Sie das alte Admin Center? Ältere Schritte oder weitere Informationen finden Sie unter Reaktivieren [Ihres Abonnements](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Weitere Informationen finden Sie unter [reaktivieren Ihres Abonnements](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
 **Einen neuen Einkauf tätigen**
   
@@ -46,4 +46,4 @@ Verwenden Sie das alte Admin Center? Ältere Schritte oder weitere Informationen
 
 4. Führen Sie die restlichen Schritte aus, um das Auschecken abzuschließen.
 
-Verwenden Sie das alte Admin Center? Ältere Schritte oder weitere Informationen finden Sie unter [kaufen eines anderen Abonnements](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
+Weitere Informationen finden Sie unter [kaufen eines anderen Abonnements](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).

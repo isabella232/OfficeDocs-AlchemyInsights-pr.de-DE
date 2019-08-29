@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 4400fa666e0f4485286793a8703f82606702e6cf
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 3aecd74ad35c7c9cfc799cc73434e57065f09fdf
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36576055"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665507"
 ---
 # <a name="cancelling-your-office-365-subscription"></a>Stornieren des Office 365 Abonnements?
 
@@ -28,4 +28,4 @@ Es tut uns leid, dass Sie gehen, aber hier sind Ihre Optionen zum kündigen Ihre
 
 - Wenn Sie mehr als 25 zugewiesene Lizenzen haben, können Sie entweder Benutzer entfernen, bis Sie weniger als 25 haben, oder die Option "Wir rufen Sie uns an" verwenden, um mit einem Supporttechniker zu sprechen.
 
-Verwenden Sie das alte Admin Center? Ältere Schritte oder weitere Informationen finden Sie unter [kündigen Ihres Abonnements](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Weitere Informationen finden Sie unter [kündigen Ihres Abonnements](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: fc58e79d98a8ec617d065f147d12171a472573b8
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1674adcce4765f785797f15aa9ebab908f19c480
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359980"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661403"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>Ändern von Berechtigungen für ein Postfach
 
-Wenn Benutzer Zugriff auf andere Postfächer benötigen als ihre eigenen, müssen Sie Berechtigungen für die Arbeit mit diesen Postfächern erhalten. Die Art der Zuweisung dieser Berechtigungen hängt vom Postfachtyp ab. Wenn Benutzer Zugriff auf Folgendes benötigen:
+Wenn Benutzer Zugriff auf Office 365 Postfächer benötigen, die nicht Ihren eigenen sind, müssen Sie Berechtigungen für die Verwendung dieser Postfächer erhalten. Die Art der Zuweisung dieser Berechtigungen hängt vom Postfachtyp ab. Wenn Benutzer Zugriff auf Folgendes benötigen:
   
 - Postfächer anderer Benutzer – weitere Informationen finden Sie unter [Erteilen von Postfachberechtigungen für einen anderen Benutzer in Office 365](https://support.office.com/article/give-mailbox-permissions-to-another-user-in-office-365-admin-help-1dbcf12f-a9de-4d1d-b0b3-a227f8a736d8).
     

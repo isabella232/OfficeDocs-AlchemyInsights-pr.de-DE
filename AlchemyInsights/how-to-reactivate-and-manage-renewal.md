@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 4a63466a307f5741b531a731b8436d1303376c33
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574541"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663959"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Reaktivieren und Verwalten von wiederkehrenden Rechnungen
 
@@ -32,7 +32,7 @@ Sieht so aus, als ob Sie ein Abonnement haben, das abgelaufen ist. Wenn Sie ihn 
 
 3. Bestätigen Sie Ihre Zahlungsdetails. Hier können Sie Ihre vorhandenen Zahlungsinformationen aktualisieren. Wenn Sie die Eingabe Ihrer Zahlungsmethode abgeschlossen haben, **** wählen Sie reaktivieren aus.
 
-Verwenden Sie das alte Admin Center? Ältere Schritte oder weitere Informationen finden Sie unter Reaktivieren [Ihres Abonnements](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Weitere Informationen finden Sie unter [reaktivieren Ihres Abonnements](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
 Um die monatliche oder jährliche Abrechnung zu verwalten, können Sie die **wiederkehrende Abrechnung** aktivieren oder deaktivieren.
   
@@ -46,4 +46,4 @@ Um die monatliche oder jährliche Abrechnung zu verwalten, können Sie die **wie
 
 5. Wählen Sie **Änderungen übermitteln**.
 
-Verwenden Sie das alte Admin Center? Ältere Schritte oder weitere Informationen finden Sie unter [Turn wiederkehrende Abrechnung aus oder ein](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Weitere Informationen finden Sie unter [Turn wiederkehrende Abrechnung aus oder ein](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

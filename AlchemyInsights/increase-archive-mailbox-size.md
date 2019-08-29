@@ -3,25 +3,24 @@ title: 305 Vergrößern der Archiv Postfachgröße
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: 28086145d8769bd06ef6352257a820146c5f237d
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a8c16d97040e9396d6cf9bd4a5da671a7da88e13
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391281"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661799"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Vergrößern der Archiv Postfachgröße
 
 Office 365 [schränkt](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) die Größe von archivpostfächern basierend auf der Lizenz ein, die dem Benutzerkonto zugewiesen ist. Wenn das Archivpostfach 90% seiner zulässigen Größe erreicht, erhält der Benutzer eine e-Mail-Benachrichtigung. Wenn ein Archivpostfach seine Größenbeschränkung erreicht, kann der Benutzer keine weiteren Elemente in das Archivpostfach verlagern. Office 365 wird die Größe eines Archivpostfachs nicht vergrößert, nachdem die Größenbeschränkung erreicht wurde. Stattdessen können Benutzer die folgenden Aktionen ausführen, um Speicherplatz im Archivpostfach freizugeben:
 
-- Exportieren der Elemente in eine PST-Datei mithilfe von Outlook
+- Exportieren Sie die Elemente in eine PST-Datei mit Outlook.
 
 - Elemente aus dem Archivpostfach löschen.
 
