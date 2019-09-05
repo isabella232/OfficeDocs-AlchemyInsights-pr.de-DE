@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: c6ac69ab9a6063b2f42542c05cd7d21ec7d7be57
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: db27f599f3b3182495c4308c05cb3567f9299c80
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495102"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737332"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Erstellen oder Hinzufügen eines e-Mail-Alias für einen Benutzer
 
@@ -34,6 +34,6 @@ Sie müssen einen e-Mail-Alias für einen Benutzer erstellen oder eine zusätzli
     
     In der Regel dauert es etwa 30 Minuten, bis der neue Alias wirksam wird.
     
-    **Weitere Informationen finden Sie in diesem Artikel:** [Hinzufügen weiterer e-Mail-Aliase zu einem Benutzer](https://support.office.com/article/Add-additional-email-aliases-to-a-user-0b0bd900-68b1-4bf5-808b-5d240a7739f4.aspx)
+    **Weitere Informationen finden Sie in diesem Artikel:** [Hinzufügen eines weiteren e-Mail-Alias für einen Benutzer](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)
     
 

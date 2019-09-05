@@ -1,6 +1,6 @@
 ---
 title: Dateien sind für die Bearbeitung gesperrt
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: ITPro
@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 243179d0501089ee4865aeaf6b340a68f428d6c1
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: 4a1edf25cfcabb0e7f89978812624a86dab7c196
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631626"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754983"
 ---
 # <a name="cant-edit-files"></a>Dateien können nicht bearbeitet werden? 
 
 Wenn ein Dokument, ein Arbeitsblatt oder eine Präsentation für die Bearbeitung gesperrt ist und nicht in den Windows-Desktopanwendungen geöffnet werden kann, kann es sein, dass die Datei bereits von einer anderen Person bearbeitet wird oder die Datei ausgecheckt ist. Lassen Sie uns einen kurzen Blick auf einige der Gründe werfen [, warum Sie die Datei möglicherweise nicht bearbeiten können](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
-Wenn Sie über Bibliotheken mit **Checkout, erforderliche** oder **** Überprüfungs Spalten oder Metadaten verfügen oder wenn die **Option "Entwurfselementsicherheit** " entweder **nur für Benutzer, die bearbeiten können** , oder **nur für Benutzer, die Elemente** in den Versionseinstellungen genehmigen können, festgelegt ist Bibliothek
+Wenn Sie über Bibliotheken mit **Checkout, erforderliche** oder **Überprüfungs** Spalten oder Metadaten verfügen oder wenn die **Option "Entwurfselementsicherheit** " entweder **nur für Benutzer, die bearbeiten können** , oder **nur für Benutzer, die Elemente** in den Versionseinstellungen genehmigen können, festgelegt ist Bibliothek
 
 - Für SharePoint-Dokumentbibliotheken werden diese Elemente schreibgeschützt synchronisiert.
 
