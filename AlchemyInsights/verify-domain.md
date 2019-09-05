@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 99b4b225-38b3-4af2-afd7-29769ef5c2a0
-ms.openlocfilehash: 418aea3140a787b4eead14dbc7d127a70564098a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f493daec299e5831f72b48d2ff1ae63c79c23b81
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506178"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738052"
 ---
 # <a name="trying-to-verify-your-domain"></a>Sie versuchen, Ihre Domäne zu überprüfen?
 
@@ -24,6 +24,6 @@ Sie müssen einen TXT-Eintrag zu Ihrer Domänenregistrierungsstelle hinzufügen,
   
 Folgen Sie den Anweisungen im unten stehenden Artikel, um einen TXT-Eintrag zum Überprüfen Ihrer Domäne hinzuzufügen. Wählen Sie Ihre Domänenregistrierungsstelle aus, um spezifische Anweisungen für Ihre Domäne zu erhalten.
   
-[Erstellen von DNS-Einträgen für Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
+[Erstellen von DNS-Einträgen für Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
   
 

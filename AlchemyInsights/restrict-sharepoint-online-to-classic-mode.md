@@ -1,6 +1,6 @@
 ---
 title: SharePoint Online auf den klassischen Modus beschränken
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 3/27/2018
 ms.audience: ITPro
@@ -12,12 +12,12 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: e7ecfd8c2f1a532355bfb8c2c0a846fc0d6e88b1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 18d263593d99f24c3020336ae601df14dbbf5411
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551558"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752067"
 ---
 # <a name="restrict-sharepoint-online-to-classic-mode"></a>SharePoint Online auf den klassischen Modus beschränken
 
@@ -34,4 +34,4 @@ Außerdem werden Listen, die bestimmte Features und Anpassungen verwenden, die n
 
 Ab dem 1. April 2019 wird der Vorgang zum Deaktivieren der Mandantenebene aus modernen Listen und Bibliotheken gestartet und wird bis zum 31. Mai 2019 fortgesetzt.  Die Listen und Bibliotheken, die sich im klassischen Modus infolge eines Mandanten Abmeldens befinden, werden automatisch auf modern verschoben.
 
-Wenn Sie den klassischen Modus benötigen, lesen Sie [](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) hier weitere Informationen und hier [](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) finden Sie die PNP-PowerShell-Anweisung, in der Optionen und Tools beschrieben werden, die Sie heute verwenden können, um die klassische Benutzeroberfläche zu verwenden.
+Wenn Sie den klassischen Modus benötigen, lesen Sie hier [Weitere Informationen und](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) hier finden Sie die PNP-PowerShell-Anweisung, in der Optionen und Tools beschrieben [werden, die](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) Sie heute verwenden können, um die klassische Benutzeroberfläche zu verwenden.
