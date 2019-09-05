@@ -13,19 +13,19 @@ ms.custom:
 - "742"
 - "1200022"
 ms.assetid: e8db0be7-fa2a-49e0-8e63-65e1750afaaa
-ms.openlocfilehash: f159770bc8f68344fac1386d4a8b5bd24282373f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bf16fa05a2c878e11d28582258c3615923393cdc
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499746"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737404"
 ---
-# <a name="adding-external-users"></a><span data-ttu-id="48ab1-102">Hinzufügen externer Benutzer</span><span class="sxs-lookup"><span data-stu-id="48ab1-102">Adding external users</span></span>
+# <a name="adding-external-users"></a><span data-ttu-id="8a368-102">Hinzufügen externer Benutzer</span><span class="sxs-lookup"><span data-stu-id="8a368-102">Adding external users</span></span>
 
-<span data-ttu-id="48ab1-103">Die Schritte zum Hinzufügen von externen/Gastbenutzern können variieren, je nachdem, was Sie benötigen, um darauf zugreifen zu können.</span><span class="sxs-lookup"><span data-stu-id="48ab1-103">The steps for adding external / guest users can be different depending on what you need them to be able to access.</span></span> <span data-ttu-id="48ab1-104">Wählen Sie eine der folgenden Optionen aus:</span><span class="sxs-lookup"><span data-stu-id="48ab1-104">Please choose one of the following:</span></span>
+<span data-ttu-id="8a368-103">Die Schritte zum Hinzufügen von externen/Gastbenutzern können variieren, je nachdem, was Sie benötigen, um darauf zugreifen zu können.</span><span class="sxs-lookup"><span data-stu-id="8a368-103">The steps for adding external / guest users can be different depending on what you need them to be able to access.</span></span> <span data-ttu-id="8a368-104">Wählen Sie eine der folgenden Optionen aus:</span><span class="sxs-lookup"><span data-stu-id="8a368-104">Please choose one of the following:</span></span>
   
-- [<span data-ttu-id="48ab1-105">Verwalten der externen Freigabe für Ihre SharePoint-Online-Umgebung</span><span class="sxs-lookup"><span data-stu-id="48ab1-105">Manage external sharing for your SharePoint Online environment</span></span>](https://support.office.com/article/manage-external-sharing-for-your-sharepoint-online-environment-c8a462eb-0723-4b0b-8d0a-70feafe4be85)
+- [<span data-ttu-id="8a368-105">Übersicht über die externe Freigabe</span><span class="sxs-lookup"><span data-stu-id="8a368-105">External sharing overview</span></span>](https://docs.microsoft.com/sharepoint/external-sharing-overview)
 
-- [<span data-ttu-id="48ab1-106">Gastzugriff in Office 365 Gruppen</span><span class="sxs-lookup"><span data-stu-id="48ab1-106">Guest access in Office 365 Groups</span></span>](https://support.office.com/en-gb/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
+- [<span data-ttu-id="8a368-106">Gastzugriff in Office 365 Gruppen</span><span class="sxs-lookup"><span data-stu-id="8a368-106">Guest access in Office 365 Groups</span></span>](https://support.office.com/en-gb/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
 
-- [<span data-ttu-id="48ab1-107">Gastzugriff in Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="48ab1-107">Guest access in Microsoft Teams</span></span>](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
+- [<span data-ttu-id="8a368-107">Gastzugriff in Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="8a368-107">Guest access in Microsoft Teams</span></span>](https://docs.microsoft.com/microsoftteams/guest-access-checklist)

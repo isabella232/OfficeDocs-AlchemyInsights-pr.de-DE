@@ -12,22 +12,22 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: 7b5253c94a177e27745a921bcc4b478229ad4c26
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 72e9321c43e33e3ea8ef50592d5d4ea5d9568d7c
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525814"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735892"
 ---
-# <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a><span data-ttu-id="e5837-102">Externer Benutzer kann keine Freigabeeinladung annehmen</span><span class="sxs-lookup"><span data-stu-id="e5837-102">External user is unable to accept a sharing invitation</span></span>
+# <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a><span data-ttu-id="2b10f-102">Externer Benutzer kann keine Freigabeeinladung annehmen</span><span class="sxs-lookup"><span data-stu-id="2b10f-102">External user is unable to accept a sharing invitation</span></span>
 
-<span data-ttu-id="e5837-103">Wenn ein externer Benutzer eine Freigabeeinladung nicht annehmen kann, versuchen Sie, die folgenden Links zu besuchen:</span><span class="sxs-lookup"><span data-stu-id="e5837-103">If an external user is unable to accept a sharing invite, please try visiting the links below:</span></span> 
+<span data-ttu-id="2b10f-103">Wenn ein externer Benutzer eine Freigabeeinladung nicht annehmen kann, versuchen Sie, die folgenden Links zu besuchen:</span><span class="sxs-lookup"><span data-stu-id="2b10f-103">If an external user is unable to accept a sharing invite, please try visiting the links below:</span></span> 
 
-- [<span data-ttu-id="e5837-104">"Zugriff verweigert", "Sie benötigen die Berechtigung für den Zugriff auf diese Website" oder "Benutzer nicht im Verzeichnis gefunden" Fehler in SharePoint Online und OneDrive für Unternehmen</span><span class="sxs-lookup"><span data-stu-id="e5837-104">“Access Denied”, “You need permission to access this site”, or “User not found in the directory” errors in SharePoint Online and OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [<span data-ttu-id="e5837-105">"Die Richtlinien Ihrer Organisation erlauben keine Freigabe mit diesen Benutzern" Fehler beim Freigeben eines Elements oder einer Website in SharePoint Online oder OneDrive für Unternehmen</span><span class="sxs-lookup"><span data-stu-id="e5837-105">“Your organization's policies do not allow you to share with these users” error when sharing an item or site in SharePoint Online or OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [<span data-ttu-id="e5837-106">Freigabeoptionen werden ausgegraut, wenn die Freigabe von SharePoint Online oder OneDrive</span><span class="sxs-lookup"><span data-stu-id="e5837-106">Sharing options are greyed out when sharing from SharePoint Online or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [<span data-ttu-id="e5837-107">Fehlermeldung, wenn ein externer Benutzer eine SharePoint Online Einladung mithilfe eines anderen Kontos akzeptiert</span><span class="sxs-lookup"><span data-stu-id="e5837-107">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
-- [<span data-ttu-id="e5837-108">OSE-Freigabe Fehler in SharePoint und OneDrive</span><span class="sxs-lookup"><span data-stu-id="e5837-108">OSE sharing errors in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [<span data-ttu-id="2b10f-104">"Zugriff verweigert", "Sie benötigen die Berechtigung für den Zugriff auf diese Website" oder "Benutzer nicht im Verzeichnis gefunden" Fehler in SharePoint Online und OneDrive für Unternehmen</span><span class="sxs-lookup"><span data-stu-id="2b10f-104">“Access Denied”, “You need permission to access this site”, or “User not found in the directory” errors in SharePoint Online and OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- [<span data-ttu-id="2b10f-105">"Die Richtlinien Ihrer Organisation erlauben keine Freigabe mit diesen Benutzern" Fehler beim Freigeben eines Elements oder einer Website in SharePoint Online oder OneDrive für Unternehmen</span><span class="sxs-lookup"><span data-stu-id="2b10f-105">“Your organization's policies do not allow you to share with these users” error when sharing an item or site in SharePoint Online or OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [<span data-ttu-id="2b10f-106">Freigabeoptionen werden ausgegraut, wenn die Freigabe von SharePoint Online oder OneDrive</span><span class="sxs-lookup"><span data-stu-id="2b10f-106">Sharing options are greyed out when sharing from SharePoint Online or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [<span data-ttu-id="2b10f-107">Fehlermeldung, wenn ein externer Benutzer eine SharePoint Online Einladung mithilfe eines anderen Kontos akzeptiert</span><span class="sxs-lookup"><span data-stu-id="2b10f-107">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [<span data-ttu-id="2b10f-108">OSE-Freigabe Fehler in SharePoint und OneDrive</span><span class="sxs-lookup"><span data-stu-id="2b10f-108">OSE sharing errors in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 
 
