@@ -11,15 +11,15 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: 851aed83ff87777666130dfd2009073d852cb643
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 52ab5336858c0013667be721dc865fdccf71bfa0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664031"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739636"
 ---
-# <a name="configure-multi-factor-authentication-in-office-365"></a><span data-ttu-id="0f15f-102">Konfigurieren der mehrstufigen Authentifizierung in Office 365</span><span class="sxs-lookup"><span data-stu-id="0f15f-102">Configure multi-factor authentication in Office 365</span></span>
+# <a name="configure-multi-factor-authentication-in-office-365"></a><span data-ttu-id="8a431-102">Konfigurieren der mehrstufigen Authentifizierung in Office 365</span><span class="sxs-lookup"><span data-stu-id="8a431-102">Configure multi-factor authentication in Office 365</span></span>
 
-<span data-ttu-id="0f15f-103">Informationen zum Konfigurieren von MFA finden Sie unter [Einrichten der mehrstufigen Authentifizierung für Office 365 Benutzer](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx).</span><span class="sxs-lookup"><span data-stu-id="0f15f-103">To configure MFA, see [Set up multi-factor authentication for Office 365 users](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx).</span></span>
+<span data-ttu-id="8a431-103">Informationen zum Konfigurieren von MFA finden Sie unter [Einrichten der mehrstufigen Authentifizierung für Office 365 Benutzer](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).</span><span class="sxs-lookup"><span data-stu-id="8a431-103">To configure MFA, see [Set up multi-factor authentication for Office 365 users](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).</span></span>
 
-<span data-ttu-id="0f15f-104">Beachten Sie, dass Sie ein Office 365 globaler Administrator sein müssen, um MFA zu aktivieren und zu konfigurieren.</span><span class="sxs-lookup"><span data-stu-id="0f15f-104">Note that you need to be an Office 365 global admin to enable and configure MFA.</span></span>
+<span data-ttu-id="8a431-104">Beachten Sie, dass Sie ein Office 365 globaler Administrator sein müssen, um MFA zu aktivieren und zu konfigurieren.</span><span class="sxs-lookup"><span data-stu-id="8a431-104">Note that you need to be an Office 365 global admin to enable and configure MFA.</span></span>

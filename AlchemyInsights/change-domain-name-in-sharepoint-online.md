@@ -1,6 +1,6 @@
 ---
 title: Ändern des Domänennamens in SharePoint Online
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 10/16/2018
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: f5fa4509542dd28fa4749ab995350ce876195ee8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 33c6f6c5906cd9a2a8f3a5a6e66e13fdaba392f2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519190"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747639"
 ---
-# <a name="change-domain-name-in-sharepoint-online"></a><span data-ttu-id="78a2b-102">Ändern des Domänennamens in SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="78a2b-102">Change domain name in SharePoint Online</span></span>
+# <a name="change-domain-name-in-sharepoint-online"></a><span data-ttu-id="4a13c-102">Ändern des Domänennamens in SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="4a13c-102">Change domain name in SharePoint Online</span></span>
 
-<span data-ttu-id="78a2b-103">Leider ist es nicht möglich, den SharePoint Online Domänennamen für Ihre Organisation in Office 365 zu ändern.</span><span class="sxs-lookup"><span data-stu-id="78a2b-103">Unfortunately, it isn't possible to change the SharePoint Online domain name for your organization in Office 365.</span></span> <span data-ttu-id="78a2b-104">Wenn beispielsweise der Name Ihrer Organisation von "Contoso" in "Fourth Coffee" geändert wird, können Sie contoso.SharePoint.com nicht in fourthcoffee.SharePoint.com ändern.</span><span class="sxs-lookup"><span data-stu-id="78a2b-104">For example, if the name of your organization changes from "Contoso" to "Fourth Coffee," you can't change contoso.sharepoint.com to fourthcoffee.sharepoint.com.</span></span>
+<span data-ttu-id="4a13c-103">Leider ist es nicht möglich, den SharePoint Online Domänennamen für Ihre Organisation in Office 365 zu ändern.</span><span class="sxs-lookup"><span data-stu-id="4a13c-103">Unfortunately, it isn't possible to change the SharePoint Online domain name for your organization in Office 365.</span></span> <span data-ttu-id="4a13c-104">Wenn beispielsweise der Name Ihrer Organisation von "Contoso" in "Fourth Coffee" geändert wird, können Sie contoso.SharePoint.com nicht in fourthcoffee.SharePoint.com ändern.</span><span class="sxs-lookup"><span data-stu-id="4a13c-104">For example, if the name of your organization changes from "Contoso" to "Fourth Coffee," you can't change contoso.sharepoint.com to fourthcoffee.sharepoint.com.</span></span>
   
-<span data-ttu-id="78a2b-105">Um den Domänennamen fourthcoffee.SharePoint.com verwenden zu können, müssen Sie ein neues Office 365 Abonnement erwerben und alle e-Mails, Dateien und alle anderen Daten, die Sie behalten möchten, an das neue Abonnement weitergeben.</span><span class="sxs-lookup"><span data-stu-id="78a2b-105">To use the domain name fourthcoffee.sharepoint.com, you would need to purchase a new Office 365 subscription and move all email, files, and any other data you want to keep to the new subscription.</span></span>
+<span data-ttu-id="4a13c-105">Um den Domänennamen fourthcoffee.SharePoint.com verwenden zu können, müssen Sie ein neues Office 365 Abonnement erwerben und alle e-Mails, Dateien und alle anderen Daten, die Sie behalten möchten, an das neue Abonnement weitergeben.</span><span class="sxs-lookup"><span data-stu-id="4a13c-105">To use the domain name fourthcoffee.sharepoint.com, you would need to purchase a new Office 365 subscription and move all email, files, and any other data you want to keep to the new subscription.</span></span>
   
- <span data-ttu-id="78a2b-106">**Hinweis**: Wenn Sie beispielsweise den Namen einer Website von https://contoso.sharepoint.com/sites/sample1 in https://contoso.sharepoint.com/sites/sample2ändern möchten, erstellen Sie eine neue Website, und ziehen Sie dann alle Inhalte von der alten Website in die neue Website.</span><span class="sxs-lookup"><span data-stu-id="78a2b-106">**Note**: For example, to change the name of a site from https://contoso.sharepoint.com/sites/sample1 to https://contoso.sharepoint.com/sites/sample2, create a new site, and then move all the content from the old site to the new one.</span></span>
+ <span data-ttu-id="4a13c-106">**Hinweis**: Wenn Sie beispielsweise den Namen einer Website von https://contoso.sharepoint.com/sites/sample1 in https://contoso.sharepoint.com/sites/sample2ändern möchten, erstellen Sie eine neue Website, und ziehen Sie dann alle Inhalte von der alten Website in die neue Website.</span><span class="sxs-lookup"><span data-stu-id="4a13c-106">**Note**: For example, to change the name of a site from https://contoso.sharepoint.com/sites/sample1 to https://contoso.sharepoint.com/sites/sample2, create a new site, and then move all the content from the old site to the new one.</span></span>
   
-<span data-ttu-id="78a2b-107">Informationen zum Verschieben von Elementen in Dokumentbibliotheken finden Sie unter [verschieben oder Kopieren von Elementen aus einer SharePoint-Dokumentbibliothek](https://go.microsoft.com/fwlink/?linkid=2025831).</span><span class="sxs-lookup"><span data-stu-id="78a2b-107">For info about moving items in document libraries, see [Move or copy items from a SharePoint document library](https://go.microsoft.com/fwlink/?linkid=2025831).</span></span>
+<span data-ttu-id="4a13c-107">Informationen zum Verschieben von Elementen in Dokumentbibliotheken finden Sie unter [verschieben oder Kopieren von Elementen aus einer SharePoint-Dokumentbibliothek](https://go.microsoft.com/fwlink/?linkid=2025831).</span><span class="sxs-lookup"><span data-stu-id="4a13c-107">For info about moving items in document libraries, see [Move or copy items from a SharePoint document library](https://go.microsoft.com/fwlink/?linkid=2025831).</span></span>
   

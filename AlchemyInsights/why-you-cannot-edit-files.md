@@ -1,6 +1,6 @@
 ---
 title: Dateien sind für die Bearbeitung gesperrt
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 4/26/2018
@@ -9,26 +9,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 83703435b5700bea2f03896ee9f154d5bb05e7d5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b73797749acae52aae66875691669930e1589904
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558247"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748359"
 ---
-# <a name="why-cant-i-edit-files"></a><span data-ttu-id="4edb7-102">Warum kann ich Dateien nicht bearbeiten?</span><span class="sxs-lookup"><span data-stu-id="4edb7-102">Why can't I edit files?</span></span>
+# <a name="why-cant-i-edit-files"></a><span data-ttu-id="7ccd2-102">Warum kann ich Dateien nicht bearbeiten?</span><span class="sxs-lookup"><span data-stu-id="7ccd2-102">Why can't I edit files?</span></span>
 
-<span data-ttu-id="4edb7-103">Wenn ein Dokument, ein Arbeitsblatt oder eine Präsentation für die Bearbeitung gesperrt ist und nicht in den Windows-Desktopanwendungen geöffnet werden kann, kann es sein, dass die Datei bereits von einer anderen Person bearbeitet wird oder die Datei ausgecheckt ist. Lassen Sie uns einen kurzen Blick auf einige der Gründe werfen [, warum Sie die Datei möglicherweise nicht bearbeiten können](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span><span class="sxs-lookup"><span data-stu-id="4edb7-103">If a document, worksheet, or presentation is locked for editing and can't be opened in the Windows desktop applications, it may be that the file is already being edited by someone else, or they have the file checked out. Let's take a quick look at some of the reasons [why you might not be able to edit the file](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span></span>
+<span data-ttu-id="7ccd2-103">Wenn ein Dokument, ein Arbeitsblatt oder eine Präsentation für die Bearbeitung gesperrt ist und nicht in den Windows-Desktopanwendungen geöffnet werden kann, kann es sein, dass die Datei bereits von einer anderen Person bearbeitet wird oder die Datei ausgecheckt ist. Lassen Sie uns einen kurzen Blick auf einige der Gründe werfen [, warum Sie die Datei möglicherweise nicht bearbeiten können](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span><span class="sxs-lookup"><span data-stu-id="7ccd2-103">If a document, worksheet, or presentation is locked for editing and can't be opened in the Windows desktop applications, it may be that the file is already being edited by someone else, or they have the file checked out. Let's take a quick look at some of the reasons [why you might not be able to edit the file](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span></span>
 
-<span data-ttu-id="4edb7-104">Wenn Sie über Bibliotheken mit **Checkout, erforderliche** oder \*\*\*\* Überprüfungs Spalten oder Metadaten verfügen oder wenn die **Option "Entwurfselementsicherheit** " entweder **nur für Benutzer, die bearbeiten können** , oder **nur für Benutzer, die Elemente** in den Versionseinstellungen genehmigen können, festgelegt ist Bibliothek</span><span class="sxs-lookup"><span data-stu-id="4edb7-104">If you have libraries with **Checkout, Required** or **Validation** columns or metadata, or when **Draft Item Security** is set to either **Only users who can edit** or **Only users who can approve items** in Version Settings of the library:</span></span>
+<span data-ttu-id="7ccd2-104">Wenn Sie über Bibliotheken mit **Checkout, erforderliche** oder **Überprüfungs** Spalten oder Metadaten verfügen oder wenn die **Option "Entwurfselementsicherheit** " entweder **nur für Benutzer, die bearbeiten können** , oder **nur für Benutzer, die Elemente** in den Versionseinstellungen genehmigen können, festgelegt ist Bibliothek</span><span class="sxs-lookup"><span data-stu-id="7ccd2-104">If you have libraries with **Checkout, Required** or **Validation** columns or metadata, or when **Draft Item Security** is set to either **Only users who can edit** or **Only users who can approve items** in Version Settings of the library:</span></span>
 
-- <span data-ttu-id="4edb7-105">Für SharePoint-Dokumentbibliotheken werden diese Elemente schreibgeschützt synchronisiert.</span><span class="sxs-lookup"><span data-stu-id="4edb7-105">For SharePoint document libraries, these items will be synchronized as read-only.</span></span>
+- <span data-ttu-id="7ccd2-105">Für SharePoint-Dokumentbibliotheken werden diese Elemente schreibgeschützt synchronisiert.</span><span class="sxs-lookup"><span data-stu-id="7ccd2-105">For SharePoint document libraries, these items will be synchronized as read-only.</span></span>
 
-- <span data-ttu-id="4edb7-106">Für OneDrive-Bibliotheken wird in OneDrive neben dem Synchronisierungsstatus ein Sperrsymbol (OneDrive Datei gesperrt) angezeigt, und der Benutzer kann die Bibliothek erst synchronisieren, wenn die erwähnten Einstellungen entfernt wurden.</span><span class="sxs-lookup"><span data-stu-id="4edb7-106">For OneDrive libraries, OneDrive will show a lock icon ( OneDrive file locked icon ) next to the sync status and the user will not be able to synchronize the library until the mentioned settings have been removed.</span></span> 
+- <span data-ttu-id="7ccd2-106">Für OneDrive-Bibliotheken wird in OneDrive neben dem Synchronisierungsstatus ein Sperrsymbol (OneDrive Datei gesperrt) angezeigt, und der Benutzer kann die Bibliothek erst synchronisieren, wenn die erwähnten Einstellungen entfernt wurden.</span><span class="sxs-lookup"><span data-stu-id="7ccd2-106">For OneDrive libraries, OneDrive will show a lock icon ( OneDrive file locked icon ) next to the sync status and the user will not be able to synchronize the library until the mentioned settings have been removed.</span></span> 
 
-<span data-ttu-id="4edb7-107">Wenn Sie weitere Informationen zu gesperrten Dateien für Word oder Excel erhalten möchten, verweisen Sie auf die folgenden Artikel.</span><span class="sxs-lookup"><span data-stu-id="4edb7-107">For more information regarding locked files for Word or Excel, please reference the articles below.</span></span>
+<span data-ttu-id="7ccd2-107">Wenn Sie weitere Informationen zu gesperrten Dateien für Word oder Excel erhalten möchten, verweisen Sie auf die folgenden Artikel.</span><span class="sxs-lookup"><span data-stu-id="7ccd2-107">For more information regarding locked files for Word or Excel, please reference the articles below.</span></span>
 
-- [<span data-ttu-id="4edb7-108">Die Excel-Datei ist für die Bearbeitung durch einen anderen Benutzer gesperrt.</span><span class="sxs-lookup"><span data-stu-id="4edb7-108">Excel file is locked for editing by another user</span></span>](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [<span data-ttu-id="7ccd2-108">Die Excel-Datei ist für die Bearbeitung durch einen anderen Benutzer gesperrt.</span><span class="sxs-lookup"><span data-stu-id="7ccd2-108">Excel file is locked for editing by another user</span></span>](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-- [<span data-ttu-id="4edb7-109">Word-Datei ist für die Bearbeitung durch einen anderen Benutzer gesperrt</span><span class="sxs-lookup"><span data-stu-id="4edb7-109">Word file is locked for editing by another user</span></span>](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [<span data-ttu-id="7ccd2-109">Word-Datei ist für die Bearbeitung durch einen anderen Benutzer gesperrt</span><span class="sxs-lookup"><span data-stu-id="7ccd2-109">Word file is locked for editing by another user</span></span>](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
 

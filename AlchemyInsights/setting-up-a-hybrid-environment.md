@@ -12,14 +12,14 @@ ms.custom:
 - "690"
 - "3500010"
 ms.assetid: 08b866c0-aaff-4d6d-821f-97dc238dbd21
-ms.openlocfilehash: 041ba1c8e235bc9adf4f951b8ff7688dcf12e826
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cf623c3b7e9fe2e31b285607181e3120ff590cd7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509143"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741004"
 ---
-# <a name="setting-up-a-hybrid-environment"></a><span data-ttu-id="2bc03-102">Einrichten einer Hybridumgebung</span><span class="sxs-lookup"><span data-stu-id="2bc03-102">Setting up a hybrid environment</span></span>
+# <a name="setting-up-a-hybrid-environment"></a><span data-ttu-id="cd901-102">Einrichten einer Hybridumgebung</span><span class="sxs-lookup"><span data-stu-id="cd901-102">Setting up a hybrid environment</span></span>
 
-<span data-ttu-id="2bc03-103">Damit Ihre Benutzer nahtlos zusammenarbeiten können, unabhängig davon, ob Ihre Daten auf lokalen Servern oder in Office 365 gespeichert werden, müssen Sie möglicherweise eine Hybridumgebung einrichten.</span><span class="sxs-lookup"><span data-stu-id="2bc03-103">To let your users work seamlessly together no matter if their data is stored on on-premises servers or in Office 365, you might need to set up a hybrid environment.</span></span> <span data-ttu-id="2bc03-104">Eine Übersicht über Ihre Optionen erhalten Sie [Office 365 Integration in lokale Umgebungen](https://support.office.com/article/263faf8d-aa21-428b-aed3-2021837a4b65.aspx).</span><span class="sxs-lookup"><span data-stu-id="2bc03-104">To get an overview of your options, check out [Office 365 integration with on-premises environments](https://support.office.com/article/263faf8d-aa21-428b-aed3-2021837a4b65.aspx).</span></span>
+<span data-ttu-id="cd901-103">Damit Ihre Benutzer nahtlos zusammenarbeiten können, unabhängig davon, ob Ihre Daten auf lokalen Servern oder in Office 365 gespeichert werden, müssen Sie möglicherweise eine Hybridumgebung einrichten.</span><span class="sxs-lookup"><span data-stu-id="cd901-103">To let your users work seamlessly together no matter if their data is stored on on-premises servers or in Office 365, you might need to set up a hybrid environment.</span></span> <span data-ttu-id="cd901-104">Eine Übersicht über Ihre Optionen erhalten Sie [Office 365 Integration in lokale Umgebungen](https://docs.microsoft.com/office365/enterprise/office-365-integration).</span><span class="sxs-lookup"><span data-stu-id="cd901-104">To get an overview of your options, check out [Office 365 integration with on-premises environments](https://docs.microsoft.com/office365/enterprise/office-365-integration).</span></span>
   
