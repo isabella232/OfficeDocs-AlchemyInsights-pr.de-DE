@@ -1,30 +1,30 @@
 ---
 title: Verhinderung von Datenverlust (DLP) (Übersicht)
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: cd73bc8f4e56f6fdc6e3e09d87eb4ff55523ca92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 96d9ecb3cd927946d6a5381fd6fd3a88fe67ac91
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514402"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755127"
 ---
-# <a name="data-loss-prevention-dlp-overview"></a><span data-ttu-id="0e2b3-102">Verhinderung von Datenverlust (DLP) (Übersicht)</span><span class="sxs-lookup"><span data-stu-id="0e2b3-102">Data Loss Prevention (DLP) overview</span></span>
+# <a name="data-loss-prevention-dlp-overview"></a><span data-ttu-id="162b1-102">Verhinderung von Datenverlust (DLP) (Übersicht)</span><span class="sxs-lookup"><span data-stu-id="162b1-102">Data Loss Prevention (DLP) overview</span></span>
 
-<span data-ttu-id="0e2b3-103">Mit einer DLP-Richtlinie haben Sie die folgenden Möglichkeiten:</span><span class="sxs-lookup"><span data-stu-id="0e2b3-103">With a DLP policy, you can:</span></span>
+<span data-ttu-id="162b1-103">Mit einer DLP-Richtlinie haben Sie die folgenden Möglichkeiten:</span><span class="sxs-lookup"><span data-stu-id="162b1-103">With a DLP policy, you can:</span></span>
 
-- <span data-ttu-id="0e2b3-104">Identifizieren von vertraulichen Informationen über mehrere Standorte hinweg, beispielsweise Exchange Online, SharePoint Online und OneDrive für Unternehmen.</span><span class="sxs-lookup"><span data-stu-id="0e2b3-104">Identify sensitive information across many locations, such as Exchange Online, SharePoint Online, and OneDrive for Business.</span></span>
-
-
-<span data-ttu-id="0e2b3-105">Sie können beispielsweise jedes Dokument identifizieren, das eine Kreditkartennummer enthält, die in einer beliebigen OneDrive für Unternehmen Website gespeichert ist, oder Sie können nur die OneDrive-Websites bestimmter Personen überwachen.</span><span class="sxs-lookup"><span data-stu-id="0e2b3-105">For example, you can identify any document containing a credit card number that's stored in any OneDrive for Business site, or you can monitor just the OneDrive sites of specific people.</span></span>
-
-- <span data-ttu-id="0e2b3-106">Sie können verhindern, dass vertrauliche Informationen unbeabsichtigt an andere Personen weitergegeben werden.</span><span class="sxs-lookup"><span data-stu-id="0e2b3-106">Prevent the accidental sharing of sensitive information.</span></span>
+- <span data-ttu-id="162b1-104">Identifizieren von vertraulichen Informationen über mehrere Standorte hinweg, beispielsweise Exchange Online, SharePoint Online und OneDrive für Unternehmen.</span><span class="sxs-lookup"><span data-stu-id="162b1-104">Identify sensitive information across many locations, such as Exchange Online, SharePoint Online, and OneDrive for Business.</span></span>
 
 
-<span data-ttu-id="0e2b3-107">Lesen Sie den folgenden [Artikel](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies), um weitere Informationen zu erhalten.</span><span class="sxs-lookup"><span data-stu-id="0e2b3-107">For more information please review the following [article](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).</span></span>
+<span data-ttu-id="162b1-105">Sie können beispielsweise jedes Dokument identifizieren, das eine Kreditkartennummer enthält, die in einer beliebigen OneDrive für Unternehmen Website gespeichert ist, oder Sie können nur die OneDrive-Websites bestimmter Personen überwachen.</span><span class="sxs-lookup"><span data-stu-id="162b1-105">For example, you can identify any document containing a credit card number that's stored in any OneDrive for Business site, or you can monitor just the OneDrive sites of specific people.</span></span>
+
+- <span data-ttu-id="162b1-106">Sie können verhindern, dass vertrauliche Informationen unbeabsichtigt an andere Personen weitergegeben werden.</span><span class="sxs-lookup"><span data-stu-id="162b1-106">Prevent the accidental sharing of sensitive information.</span></span>
+
+
+<span data-ttu-id="162b1-107">Lesen Sie den folgenden [Artikel](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies), um weitere Informationen zu erhalten.</span><span class="sxs-lookup"><span data-stu-id="162b1-107">For more information please review the following [article](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).</span></span>
 
