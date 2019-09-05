@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: c73358ebfbdede5b4e43ca2c35146f6611958e23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c41bfd9d25c8aa946a4ec5156be6d2424f4e2133
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495858"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737476"
 ---
 # <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Beheben von Problemen mit SharePoint-Bibliotheken, die Netzlaufwerken zugeordnet sind
 
@@ -26,7 +26,7 @@ Wenn Sie ein zugeordnetes Netzlaufwerk durchsuchen, wird möglicherweise eine de
 
 - **Zugriff verweigert. Bevor Sie Dateien an diesem Speicherort öffnen, müssen Sie zunächst die Website der Liste der vertrauenswürdigen Websites hinzufügen, zur Website wechseln und die Option zum automatischen Anmelden auswählen.**
 
-[Erhalten Sie Hilfe bei der Problembehandlung zugeordneter Netzlaufwerke](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).
+[Erhalten Sie Hilfe bei der Problembehandlung zugeordneter Netzlaufwerke](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
   
 Das Zuordnen einer Bibliothek als Netzlaufwerk ist temporär und wird nur in Internet Explorer unterstützt. Synchronisieren Sie stattdessen [SharePoint-Dateien mit dem neuen OneDrive-synchronisierungsclient](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) , der [Dateien bei Bedarf](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx)enthält. Greifen Sie auf alle Ihre Dateien in OneDrive zu, ohne lokalen Speicherplatz zu verwenden.
   

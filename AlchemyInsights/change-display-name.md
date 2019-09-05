@@ -11,12 +11,12 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 351eb11c01984162468322e9f776238b76a34680
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519802"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736720"
 ---
 # <a name="change-your-display-name"></a>Ändern des Anzeigenamens
   
@@ -27,7 +27,7 @@ Führen Sie die folgenden Schritte aus, um Ihren Anzeigenamen in Outlook zu änd
 2. Wählen Sie das e-Mail-Konto aus, und wählen Sie **ändern**aus.
 
     > [!NOTE]
-    > Wenn die Option zum Ändern des Anzeigenamens nicht angezeigt wird, verwenden Sie wahrscheinlich ein Microsoft Exchange e-Mail-Konto. In diesem Fall müssen Sie sich an Ihren Administrator wenden, um Ihren Anzeigenamen zu ändern. Weitere Informationen finden Sie unter [Ändern eines Benutzernamens und einer e-Mail-Adresse in Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).
+    > Wenn die Option zum Ändern des Anzeigenamens nicht angezeigt wird, verwenden Sie wahrscheinlich ein Microsoft Exchange e-Mail-Konto. In diesem Fall müssen Sie sich an Ihren Administrator wenden, um Ihren Anzeigenamen zu ändern. Weitere Informationen finden Sie unter [Ändern eines Benutzernamens und einer e-Mail-Adresse in Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
   
 3. Nachdem Sie Ihren Anzeigenamen geändert haben, klicken Sie auf **OK** , um die Änderungen zu speichern. Es kann einige Stunden dauern, bis Ihre Änderungen in Ihrer Organisation wiedergegeben werden.
 

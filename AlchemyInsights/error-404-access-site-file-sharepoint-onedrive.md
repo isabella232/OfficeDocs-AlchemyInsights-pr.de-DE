@@ -7,12 +7,12 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 98c390e1781d9c00fbc0dbabc633594726f2fda0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b6d530d4438eefd509670119cd61847e525ecb22
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527398"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740212"
 ---
 # <a name="error-404-file-not-found"></a>Fehler 404: die Datei wurde nicht gefunden.
 
@@ -22,4 +22,4 @@ Bei dem Versuch, auf die Stammwebsitesammlung zuzugreifen, tritt ein Fehler auf,
 Im folgenden finden Sie Informationen zum Beheben dieses Problems:
 - [Anzeigen und Wiederherstellen von gelöschten Websites im neuen SharePoint Admin Center](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center): für moderne Websites (Kommunikation, Gruppenverbindungen oder andere Websites), die in der neuen Admin Center-Vorschau vorhanden sind.
 - [Wiederherstellen von Elementen im Papierkorb einer SharePoint-Website](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be): zum Auflösen einer Datei (oder eines anderen Elements), die umbenannt, verschoben oder gelöscht wurde, wechseln Sie zur SharePoint-oder OneDrive-Website, und zeigen Sie den Papierkorb aus dem Websiteinhalt an.
-- [Durchsuchen des Überwachungsprotokolls im Office 365 Security &amp; Compliance Center](https://support.office.com/client/search-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c): Durchsuchen des Überwachungsprotokolls (wenn die Protokollierung aktiviert ist), wenn das Element weiterhin nicht gefunden werden kann.
+- [Durchsuchen des Überwachungsprotokolls im Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance): Durchsuchen des Überwachungsprotokolls (wenn die Protokollierung aktiviert ist), wenn das Element weiterhin nicht gefunden werden kann.

@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2382"
-ms.openlocfilehash: 067756fb7a411a2c75de1c61c3b57e78a07046da
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9638ce92fc0cda83999f64da278a827e0ba32584
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36526030"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740032"
 ---
 # <a name="external-user-cannot-access-content"></a>Externer Benutzer kann nicht auf Inhalte zugreifen
 
@@ -26,7 +26,7 @@ Wenn ein externer Benutzer eingeladen wurde und nicht auf Inhalte zugreifen kann
 - ["Zugriff verweigert", "Sie benötigen die Berechtigung für den Zugriff auf diese Website" oder "Benutzer nicht im Verzeichnis gefunden" Fehler in SharePoint Online und OneDrive für Unternehmen](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
 - ["Die Richtlinien Ihrer Organisation erlauben keine Freigabe mit diesen Benutzern" Fehler beim Freigeben eines Elements oder einer Website in SharePoint Online oder OneDrive für Unternehmen](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
 - [Freigabeoptionen werden ausgegraut, wenn die Freigabe von SharePoint Online oder OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [Fehlermeldung, wenn ein externer Benutzer eine SharePoint Online Einladung mithilfe eines anderen Kontos akzeptiert](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
+- [Fehlermeldung, wenn ein externer Benutzer eine SharePoint Online Einladung mithilfe eines anderen Kontos akzeptiert](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 - [OSE-Freigabe Fehler in SharePoint und OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 

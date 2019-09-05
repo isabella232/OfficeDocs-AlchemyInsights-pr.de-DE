@@ -13,14 +13,14 @@ ms.custom:
 - "124"
 - "1600022"
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
-ms.openlocfilehash: af3f4f55332d5332d00fddd3f7d6a3bf60523ada
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bc682538ae8683c8b419d33bfccf96ac080304a6
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523906"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735766"
 ---
 # <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Beim Öffnen eines freigegebenen Postfachs in Outlook im Internet wird ein Berechtigungsfehler abgerufen?
 
-Wenn Sie die Fehlermeldung erhalten **, ist etwas schief gelaufen. Sie verfügen nicht über die Berechtigung zum Öffnen dieses Postfachs.** Wenn Sie versuchen, ein freigegebenes Postfach in Outlook im Internet zu öffnen, verfügt Ihr Konto möglicherweise nicht über die Berechtigung für den Zugriff auf das freigegebene Postfach. Ihr Organisationsadministrator kann Ihrem Konto Berechtigungen für das freigegebene Postfach zuweisen, indem Sie die Anweisungen im Thema [Erstellen eines freigegebenen Postfachs](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9)befolgen.
+Wenn Sie die Fehlermeldung erhalten **, ist etwas schief gelaufen. Sie verfügen nicht über die Berechtigung zum Öffnen dieses Postfachs.** Wenn Sie versuchen, ein freigegebenes Postfach in Outlook im Internet zu öffnen, verfügt Ihr Konto möglicherweise nicht über die Berechtigung für den Zugriff auf das freigegebene Postfach. Ihr Organisationsadministrator kann Ihrem Konto Berechtigungen für das freigegebene Postfach zuweisen, indem Sie die Anweisungen im Thema [Erstellen eines freigegebenen Postfachs](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)befolgen.
   
