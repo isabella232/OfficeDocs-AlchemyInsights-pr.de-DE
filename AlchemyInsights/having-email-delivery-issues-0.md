@@ -13,12 +13,12 @@ ms.custom:
 - "875"
 - "876"
 - "3100010"
-ms.openlocfilehash: a18878032c2da76c930c6d4d3fa572f46350de39
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 031b79da47892b4449bfd3d6f1157d1c41e60473
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523366"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739780"
 ---
 # <a name="having-email-delivery-issues"></a>Haben Sie Probleme bei der E-Mail-Übermittlung?
 
@@ -26,9 +26,8 @@ Wir haben festgestellt, dass Ihre Benutzer keine an die folgenden Domänen gesen
   
 {HealthCheckString}
   
-Die NS- oder MX-Einträge der Domäneneinstellungen (DNS) sind für die E-Mail-Übermittlung an Ihren Office 365-Dienst nicht ordnungsgemäß konfiguriert. Ausführliche Anweisungen finden Sie unter [Aktualisieren von DNS-Einträgen in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx).
+Die NS- oder MX-Einträge der Domäneneinstellungen (DNS) sind für die E-Mail-Übermittlung an Ihren Office 365-Dienst nicht ordnungsgemäß konfiguriert. Ausführliche Anweisungen hierzu entnehmen Sie [Erstellen von DNS-Einträgen bei einem beliebigen DNS-Hostanbieter für Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
   
 Um dies zu beheben, wechseln Sie im Microsoft 365 Admin Center zu zur Seite [Domänen](https://admin.microsoft.com/adminportal/home#/Domains), und wir helfen Ihnen dabei.
   
-In den [häufig gestellten Fragen zu Domänen](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) finden Sie weitere häufig verwendete Lösungen.
   
