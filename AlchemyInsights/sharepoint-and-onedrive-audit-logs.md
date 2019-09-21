@@ -12,12 +12,12 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: dea8f2ab0f99e493d68aa074532f26f7ed8026aa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: af5b3c76b82db13bc89c917247e41fa1d8779b68
+ms.sourcegitcommit: d5bf97a0bf0547f36b6da9684ce9f16a13a7749e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504390"
+ms.lasthandoff: 09/20/2019
+ms.locfileid: "37068022"
 ---
 # <a name="sharepoint-and-onedrive-audit-logs"></a>SharePoint-und OneDrive-Überwachungsprotokolle
 
@@ -38,9 +38,12 @@ In SharePoint oder OneDrive ist keine zusätzliche Konfiguration erforderlich.
 
 **Klassische SharePoint-Überwachungsprotokolle**
 
-- [Anzeigen und Aktivieren von klassischen SharePoint-Überwachungsprotokollen](https://support.office.com/article/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
+Wir haben die SPO-Legacy Überwachung in ein einheitliches Überwachungsprotokoll migriert. Dies bedeutet im Wesentlichen, dass alle SPO-Legacy-Überwachungsberichte jetzt über unterstützt werden, und die Legacy-Überwachungssignale wurden zu "ausgehend" migriert.
 
-Die Überwachung muss pro Websitesammlung aktiviert werden. 
+Wichtige Änderungen:
 
-**Hinweis**: Es wird empfohlen, moderne Unified Audit-Protokolle für bessere und erweiterte Überwachungsoptionen zu verwenden als diese klassischen Überwachungsprotokolle.
+- Das kürzen als Funktion ist nicht verfügbar.
+- Der Abschnitt, in dem Sie bestimmte zu überwachende Ereignisse auswählen, ist nicht verfügbar. In [diesem Dokument](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) finden Sie eine vollständige Liste überwachter Ereignisse, die standardmäßig verfügbar sind.
+- Die Option "Standort" unter **angepasste Berichte** steht nicht zur Verfügung. 
+- Ereignisse für das Öffnen oder Herunterladen von Dokumenten stehen nicht zur Verfügung. 
 
