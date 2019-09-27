@@ -2,7 +2,6 @@
 title: Installieren von Office auf einem Terminal Server-nicht lizenziert
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +10,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 53071224a7c33532d864cd70b84bf0e3cc6a992f
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 51d1a66fdf9774bbe58bfdbe89317bc93834be09
+ms.sourcegitcommit: 5e6a805fb0b41d714ca1cf90e23b8e2daa90f90e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735388"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37205408"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Installieren von Office auf einem Terminal Server
 
@@ -26,7 +25,10 @@ Für die Bereitstellung von Office 365 ProPlus auf einem Windows-Server mit Remo
 
 - Sie müssen die [Aktivierung gemeinsam genutzter Computer](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus)aktivieren.
 
-Wenn Sie Office 365 ProPlus im RDS aus dem Microsoft 365 Admin Center installieren möchten, in ***dem die Standardinstallationseinstellungen verwendet***werden, führen Sie die folgenden Schritte aus:
+Wenn Sie Office 365 ProPlus im RDS aus dem Microsoft 365 Admin Center installieren möchten, in ***dem die Standardinstallationseinstellungen verwendet***werden, führen Sie die folgenden Schritte aus.
+
+> [!TIP]
+> Sie können den [Microsoft-Support-und Wiederherstellungs-Assistenten](https://aka.ms/SaRA_OfficeSCA_M365Portal) auch herunterladen und ausführen, um Office 365 ProPlus im Aktivierungsmodus für gemeinsam genutzte Computer zu installieren.
   
 1. Überprüfen Sie, welche Office 365 Plan Sie haben. [Erfahren Sie, wie](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 

@@ -2,7 +2,6 @@
 title: Datenspeicherort
 ms.author: pebaum
 author: pebaum
-ms.date: 6/20/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,27 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: b895dabc8d3513a2035b698fefb04a540810cfa3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0e683c8266d425be95e87c590d4cb5d56108721a
+ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514129"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37207260"
 ---
 # <a name="data-location"></a>Datenspeicherort
 
-Wir führen mehrere Kopien Ihrer Daten in Rechenzentren aus, um Redundanz zu gewährleisten. [Sehen Sie, wo sich Ihre Daten befinden](https://office.com/datamaps). Wenn wir den Standort Ihrer Daten in ein neues Land oder eine neue Region ausweiten, erhalten Sie einen Monat im Voraus eine Benachrichtigung.
-  
-Weitere Informationen zu Office 365 Sicherheit, Datenschutz und Compliance finden Sie im [Office 365 Trust Center](https://products.office.com/business/office-365-trust-center-welcome).
-  
+Sie können den Speicherort des Office 365 Mandanten im Admin Center anzeigen oder über PowerShell eine Verbindung mit Exchange Online herstellen.
+
+
+**Admin Center:**
+1. Melden Sie sich beim [Admin Center](https://admin.microsoft.com/Adminportal/Home)an.
+2. Wählen Sie**Organisationsprofil**für **Einstellungen** > aus.
+3. Wählen Sie unter **Datenspeicherort**die Option **Details anzeigen**aus.
+
+
+**PowerShell**
+1. Stellen Sie mithilfe von Windows PowerShell eine Verbindung zu Exchange Online her.
+2. Führen Sie das Cmdlet [Get-OrganizationalUnit](https://docs.microsoft.com/en-us/powershell/module/exchange/active-directory/get-organizationalunit) aus, um eine Liste der Eigenschaften Ihres Mandanten anzuzeigen. 
+3. Sehen Sie sich die Organizational-Eigenschaft an.
+
+Wenn Sie den Datenspeicherort für Exo und SPO haben, können Sie den Datenspeicherort für andere Dienste bestimmen, die Sie von der Stelle aus, an der [sich Ihre Daten befinden](https://products.office.com/where-is-your-data-located), verwenden können.
