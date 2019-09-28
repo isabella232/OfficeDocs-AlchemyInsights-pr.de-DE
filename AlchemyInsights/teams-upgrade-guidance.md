@@ -2,7 +2,6 @@
 title: Anleitung zum Upgrade von Teams
 ms.author: heidip
 author: microsoftheidi
-ms.date: 1/9/2019
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,14 +11,24 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: fcea046a2ccd03c88fcbfe57a3980b70bd720072
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 79c956bd01844d4234500d93d6e5458cc3bb84ad
+ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533878"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37305120"
 ---
-# <a name="upgrade-to-teams"></a>Upgrade auf Microsoft Teams
+# <a name="microsoft-teams-upgrade"></a>Microsoft Teams-Upgrade
 
-Eine Schritt-für-Schritt-Anleitung für das Wechseln von Skype for Business zu Microsoft Teams finden Sie [hier](https://docs.microsoft.com/microsoftteams/journey-skypeforbusiness-teams).
-  
+Unabhängig davon, ob Sie gerade erst mit Microsoft Teams zusammenarbeiten, bereits Teams neben Skype for Business oder ein Upgrade durchführen, möchten wir sicherstellen, dass Sie über alles verfügen, was Sie zum Navigieren in einer erfolgreichen Reise zu Microsoft Teams benötigen. Weitere Informationen finden Sie unter den Links unten.
+
+[Erste Schritte mit Ihrem Microsoft Teams-Upgrade](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+
+[Planen des Upgrades](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+
+[Grundlegendes zu Microsoft Teams und Skype for Business Koexistenz](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+
+[Durchführen des Upgrades von Skype for Business Online auf Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
+
+[Durchführen des Upgrades von Skype for Business lokal in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+ 
