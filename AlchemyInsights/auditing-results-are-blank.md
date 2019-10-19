@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
 ms.openlocfilehash: befbb9d2de29231f5346284485aa55613d4f687b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36517426"
 ---
-# <a name="auditing-results-are-blank"></a><span data-ttu-id="70d99-102">Überwachungsergebnisse sind leer</span><span class="sxs-lookup"><span data-stu-id="70d99-102">Auditing results are blank</span></span>
+# <a name="auditing-results-are-blank"></a><span data-ttu-id="2bd9f-102">Überwachungsergebnisse sind leer</span><span class="sxs-lookup"><span data-stu-id="2bd9f-102">Auditing results are blank</span></span>
 
- <span data-ttu-id="70d99-103">**Überwachungsberichte für klassische Websites**</span><span class="sxs-lookup"><span data-stu-id="70d99-103">**Audit reports for classic sites**</span></span>
+ <span data-ttu-id="2bd9f-103">**Überwachungsberichte für klassische Websites**</span><span class="sxs-lookup"><span data-stu-id="2bd9f-103">**Audit reports for classic sites**</span></span>
   
-<span data-ttu-id="70d99-104">Wenn Sie einen Überwachungsbericht für eine SharePoint-Websitesammlung anzeigen möchten, müssen Sie ein Administrator für die Websitesammlung sein.</span><span class="sxs-lookup"><span data-stu-id="70d99-104">To view an audit report for a SharePoint site collection, you must be an administrator for the site collection.</span></span> <span data-ttu-id="70d99-105">Wenn Sie sich selbst als Administrator hinzufügen möchten, lesen Sie [Hinzufügen von Websitesammlungsadministratoren als globaler oder SharePoint](https://go.microsoft.com/fwlink/?linkid=869390)-Administrator. Informationen zum Arbeiten mit dem Überwachungsprotokoll finden Sie unter [View Audit Log Reports](https://go.microsoft.com/fwlink/?linkid=395237).</span><span class="sxs-lookup"><span data-stu-id="70d99-105">To add yourself as an administrator, see [Add site collection admins as a global or SharePoint admin](https://go.microsoft.com/fwlink/?linkid=869390). For info about working with the audit log, see [View audit log reports](https://go.microsoft.com/fwlink/?linkid=395237).</span></span> 
+<span data-ttu-id="2bd9f-104">Wenn Sie einen Überwachungsbericht für eine SharePoint-Websitesammlung anzeigen möchten, müssen Sie ein Administrator für die Websitesammlung sein.</span><span class="sxs-lookup"><span data-stu-id="2bd9f-104">To view an audit report for a SharePoint site collection, you must be an administrator for the site collection.</span></span> <span data-ttu-id="2bd9f-105">Wenn Sie sich selbst als Administrator hinzufügen möchten, lesen Sie [Hinzufügen von Websitesammlungsadministratoren als globaler oder SharePoint](https://go.microsoft.com/fwlink/?linkid=869390)-Administrator. Informationen zum Arbeiten mit dem Überwachungsprotokoll finden Sie unter [View Audit Log Reports](https://go.microsoft.com/fwlink/?linkid=395237).</span><span class="sxs-lookup"><span data-stu-id="2bd9f-105">To add yourself as an administrator, see [Add site collection admins as a global or SharePoint admin](https://go.microsoft.com/fwlink/?linkid=869390). For info about working with the audit log, see [View audit log reports](https://go.microsoft.com/fwlink/?linkid=395237).</span></span> 
   
- <span data-ttu-id="70d99-106">**Durchsuchen des Office 365 Überwachungsprotokolls**</span><span class="sxs-lookup"><span data-stu-id="70d99-106">**Search the Office 365 audit log**</span></span>
+ <span data-ttu-id="2bd9f-106">**Durchsuchen des Office 365 Überwachungsprotokolls**</span><span class="sxs-lookup"><span data-stu-id="2bd9f-106">**Search the Office 365 audit log**</span></span>
   
-<span data-ttu-id="70d99-107">Sie müssen ein globaler Administrator in Office 365 sein, um mit dem Überwachungsprotokoll im [ &amp; Security Compliance Center](https://protection.office.com)arbeiten zu können.</span><span class="sxs-lookup"><span data-stu-id="70d99-107">You need to be a global admin in Office 365 to work with the audit log in the [Security &amp; Compliance Center](https://protection.office.com).</span></span> <span data-ttu-id="70d99-108">Aktivieren Sie zunächst die Überwachungsprotokollierung.</span><span class="sxs-lookup"><span data-stu-id="70d99-108">Before you begin, turn on audit logging.</span></span> <span data-ttu-id="70d99-109">Anschließend können Sie eine Überwachungsprotokoll Suche ausführen.</span><span class="sxs-lookup"><span data-stu-id="70d99-109">Then, you can run an audit log search.</span></span> 
+<span data-ttu-id="2bd9f-107">Sie müssen ein globaler Administrator in Office 365 sein, um mit dem Überwachungsprotokoll im [ &amp; Security Compliance Center](https://protection.office.com)arbeiten zu können.</span><span class="sxs-lookup"><span data-stu-id="2bd9f-107">You need to be a global admin in Office 365 to work with the audit log in the [Security &amp; Compliance Center](https://protection.office.com).</span></span> <span data-ttu-id="2bd9f-108">Aktivieren Sie zunächst die Überwachungsprotokollierung.</span><span class="sxs-lookup"><span data-stu-id="2bd9f-108">Before you begin, turn on audit logging.</span></span> <span data-ttu-id="2bd9f-109">Anschließend können Sie eine Überwachungsprotokoll Suche ausführen.</span><span class="sxs-lookup"><span data-stu-id="2bd9f-109">Then, you can run an audit log search.</span></span> 
   
-<span data-ttu-id="70d99-110">[Hier erfahren Sie, wie Sie das Überwachungsprotokoll durchsuchen](https://go.microsoft.com/fwlink/?linkid=708432).</span><span class="sxs-lookup"><span data-stu-id="70d99-110">[Learn how to search the audit log](https://go.microsoft.com/fwlink/?linkid=708432).</span></span>
+<span data-ttu-id="2bd9f-110">[Hier erfahren Sie, wie Sie das Überwachungsprotokoll durchsuchen](https://go.microsoft.com/fwlink/?linkid=708432).</span><span class="sxs-lookup"><span data-stu-id="2bd9f-110">[Learn how to search the audit log](https://go.microsoft.com/fwlink/?linkid=708432).</span></span>
   
 
