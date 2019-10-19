@@ -14,14 +14,14 @@ ms.custom:
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
 ms.openlocfilehash: 70cc2529361766c92e9167162b13e06796a9c4b0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36737728"
 ---
-# <a name="block-email-forwarding"></a><span data-ttu-id="f6225-102">E-Mail-Weiterleitung blockieren</span><span class="sxs-lookup"><span data-stu-id="f6225-102">Block email forwarding</span></span>
+# <a name="block-email-forwarding"></a><span data-ttu-id="faec0-102">E-Mail-Weiterleitung blockieren</span><span class="sxs-lookup"><span data-stu-id="faec0-102">Block email forwarding</span></span>
 
-<span data-ttu-id="f6225-103">Informationen zum Deaktivieren der e-Mail-Weiterleitung für ein bestimmtes Postfach finden Sie unter [Configure Email Forwarding](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).</span><span class="sxs-lookup"><span data-stu-id="f6225-103">To disable email forwarding for a specific mailbox, see [Configure email forwarding](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).</span></span>
+<span data-ttu-id="faec0-103">Informationen zum Deaktivieren der e-Mail-Weiterleitung für ein bestimmtes Postfach finden Sie unter [Configure Email Forwarding](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).</span><span class="sxs-lookup"><span data-stu-id="faec0-103">To disable email forwarding for a specific mailbox, see [Configure email forwarding](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).</span></span>
 
-<span data-ttu-id="f6225-104">Um die e-Mail-Weiterleitung für die gesamte Organisation zu blockieren, sind [viele Möglichkeiten zum Blockieren der automatischen e-Mail-Weiterleitung in Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).</span><span class="sxs-lookup"><span data-stu-id="f6225-104">To block email forwarding for the whole organization, [The many ways to block automatic email forwarding in Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).</span></span>
+<span data-ttu-id="faec0-104">Um die e-Mail-Weiterleitung für die gesamte Organisation zu blockieren, sind [viele Möglichkeiten zum Blockieren der automatischen e-Mail-Weiterleitung in Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).</span><span class="sxs-lookup"><span data-stu-id="faec0-104">To block email forwarding for the whole organization, [The many ways to block automatic email forwarding in Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).</span></span>

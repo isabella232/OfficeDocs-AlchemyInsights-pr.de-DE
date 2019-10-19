@@ -15,16 +15,16 @@ ms.custom:
 - "9000203"
 - "9000215"
 ms.openlocfilehash: 4835b3996651ccdbd390a1ece2555ffe7f0fe430
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36546676"
 ---
-# <a name="filtering-in-outlookcom"></a><span data-ttu-id="5eb49-102">Filtern in Outlook.com</span><span class="sxs-lookup"><span data-stu-id="5eb49-102">Filtering in Outlook.com</span></span>
+# <a name="filtering-in-outlookcom"></a><span data-ttu-id="5d00c-102">Filtern in Outlook.com</span><span class="sxs-lookup"><span data-stu-id="5d00c-102">Filtering in Outlook.com</span></span>
 
-<span data-ttu-id="5eb49-103">Sie können Ihre e-Mail-Nachrichten auf verschiedene Arten in Outlook.com filtern:</span><span class="sxs-lookup"><span data-stu-id="5eb49-103">You can filter your email messages in a number of ways in Outlook.com:</span></span>
+<span data-ttu-id="5d00c-103">Sie können Ihre e-Mail-Nachrichten auf verschiedene Arten in Outlook.com filtern:</span><span class="sxs-lookup"><span data-stu-id="5d00c-103">You can filter your email messages in a number of ways in Outlook.com:</span></span>
 
-1. [<span data-ttu-id="5eb49-104">Ändern der Sortierung Ihrer e-Mail</span><span class="sxs-lookup"><span data-stu-id="5eb49-104">Change how your email is sorted</span></span>](https://support.office.com/article/e650ae23-b558-4fbf-bdd1-73268f6852b7?wt.mc_id=Office_Outlook_com_Alchemy)
-2. [<span data-ttu-id="5eb49-105">Blockieren einer e-Mail-Adresse oder e-Mail-Domäne</span><span class="sxs-lookup"><span data-stu-id="5eb49-105">Block an email address or email domain</span></span>](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
-3. [<span data-ttu-id="5eb49-106">Verwenden der erweiterten Abfrage Suche zum Verfeinern von Ergebnissen</span><span class="sxs-lookup"><span data-stu-id="5eb49-106">Use Advanced Query Search to refine results</span></span>](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7?wt.mc_id=Office_Outlook_com_Alchemy)
+1. [<span data-ttu-id="5d00c-104">Ändern der Sortierung Ihrer e-Mail</span><span class="sxs-lookup"><span data-stu-id="5d00c-104">Change how your email is sorted</span></span>](https://support.office.com/article/e650ae23-b558-4fbf-bdd1-73268f6852b7?wt.mc_id=Office_Outlook_com_Alchemy)
+2. [<span data-ttu-id="5d00c-105">Blockieren einer e-Mail-Adresse oder e-Mail-Domäne</span><span class="sxs-lookup"><span data-stu-id="5d00c-105">Block an email address or email domain</span></span>](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
+3. [<span data-ttu-id="5d00c-106">Verwenden der erweiterten Abfrage Suche zum Verfeinern von Ergebnissen</span><span class="sxs-lookup"><span data-stu-id="5d00c-106">Use Advanced Query Search to refine results</span></span>](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7?wt.mc_id=Office_Outlook_com_Alchemy)
