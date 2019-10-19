@@ -10,10 +10,10 @@ ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36496110"
 ---
 # <a name="recall-or-replace-an-outlook-email-message"></a>Rückruf oder Ersetzen einer Outlook-e-Mail-Nachricht
@@ -27,7 +27,7 @@ So rufen Sie eine e-Mail-Nachricht auf oder ersetzen Sie:
 1. Wählen Sie im Ordnerbereich auf der linken Seite des Outlook-Fensters den Ordner "Gesendete Elemente" aus.
 1. Doppelklicken Sie auf die Nachricht, die Sie abrufen möchten, um Sie zu öffnen.
 1. Wählen Sie die Registerkarte **Nachricht** aus, und wählen Sie dann **Aktionen** > **Rückruf dieser Nachricht**aus.
-1. Wählen Sie ungelesene **Kopien dieser Nachricht löschen** oder ungelesene **Kopien löschen aus, und ersetzen Sie Sie durch eine neue Nachricht**, und wählen Sie dann **OK**aus.
+1. Wählen Sie **Ungelesene Kopien dieser Nachricht löschen** oder **Ungelesene Kopien löschen aus, und ersetzen Sie Sie durch eine neue Nachricht**, und wählen Sie dann **OK**aus.
 1. Wenn Sie eine Ersatznachricht senden, verfassen Sie die Nachricht, und wählen Sie dann **senden**aus.
 1. Der Erfolg oder Misserfolg eines Nachrichtenrückrufs hängt von den Einstellungen des Empfängers in Outlook ab. Schritte zum Überprüfen des Rückrufs finden Sie in [diesem Artikel](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 

@@ -7,22 +7,36 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ''
-ms.openlocfilehash: 7f481110d37bed6660c5a220ac230284d613c976
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.assetid:
+- "9000153"
+- "1692"
+ms.openlocfilehash: 6f55f1c63551027cc5522d296cb3f3f342356d95
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503490"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36576673"
 ---
 # <a name="modernize-your-classic-sharepoint-site"></a>Modernisieren ihrer klassischen SharePoint-Website
 
-Ausführliche Informationen zur Verwendung der neuen modernen Benutzeroberfläche finden Sie in den folgenden Themen:
+Um auf eine moderne Benutzeroberfläche umzusteigen, müssen Sie Folgendes beachten:
 
+- Wechseln der **Listen und Bibliotheken** zur Verwendung der modernen Benutzeroberfläche (auch als moderne Listen-und Bibliotheks Erfahrung bezeichnet).
+- Transformieren Ihrer **Website Seiten** aus klassischen wiki-und Webpart-Seiten in moderne clientseitige Seiten.
+- Erstellen **moderner Websites** (Team Website oder Kommunikationswebsite).
+
+Modernisieren Sie ihre Benutzerfreundlichkeit durch:
+- [Ermöglichen Sie, dass Listen und Bibliotheken in der modernen Benutzeroberfläche angezeigt werden](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries), indem Sie Anpassungen ersetzen und inkompatible Spalten aus den verwendeten Ansichten entfernen oder (als letzte Option) die Daten in einen Listentyp verschieben, der mit der modernen Benutzeroberfläche kompatibel ist.
+- [Verbinden Ihrer Website mit einer Office 365 Gruppe](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group), die Ihrer Website eine moderne Startseite verleiht und es Ihrer Website ermöglicht, beispielsweise ein Postfach oder Microsoft Planner zu verwenden. Auf diese Weise können Sie eine moderne Version eines Kalenders und einer Aufgabenliste verwenden.
+- Das [Erstellen moderner Seiten](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec)ist eine großartige Möglichkeit, um Ideen mit Bildern, Excel, Word und PowerPoint-Dokumenten, Videos und vielem mehr auszutauschen.
+- [Erstellen Sie moderne, clientseitige Seiten](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages), und konfigurieren Sie diese so, dass sie Ihren klassischen Wiki- und Webpart-Seiten „ähnlich“ sind. Die programmgesteuerte Seitentransformation sollte für die wichtigsten Seiten Ihrer Websites durchgeführt werden, da das Transformieren aller Seitenressourcen intensiv ist und häufig nicht erforderlich ist. Zur Unterstützung dieses Auswahlprozesses, liefert Ihnen der SharePoint-Modernisierungsscanner Nutzungsinformationen zu den aktuellen Wiki- und Webpart-Seiten.
+- [Erstellen moderner Websites](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d). Sollte ich eine Teamwebsite oder eine Kommunikationswebsite erstellen?
+
+Zusätzliche Informationen: 
 - Eine Schritt-für-Schritt-Übersicht über die Modernisierung ihrer klassischen SharePoint-Websites bis hin zur modernen Benutzeroberfläche finden Sie unter [modernisieren ihrer klassischen SharePoint-Websites](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+- Lesen Sie einen Leitfaden für [moderne Erfahrung](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience).
+- Weitere Informationen finden Sie unter [SharePoint Classic und modern Experiences](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f). 
 
-- Wenn Sie die Nutzung der modernen Benutzeroberfläche für Ihre Websiteseiten sowie Bibliotheks- und Listenseiten weiter ausbauen möchten, sehen Sie sich den Artikel [Modernisieren der Benutzeroberfläche ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface) an. 
 
-- Weitere Informationen zum Aufheben der Blockierung von Listen und Bibliotheken bei Verwendung der modernen Benutzeroberfläche finden Sie unter [Maximieren der Verwendung von modernen Listen und Bibliotheken](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
 
-- Weitere Informationen finden Sie im Artikel [Verbinden mit einer Office 365-Gruppe](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+

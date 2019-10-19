@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
 ms.openlocfilehash: c2bb1ce655e994054278927dfe346c0decd09f19
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36495210"
 ---
 # <a name="add-a-group-to-a-sharepoint-site"></a>Hinzufügen einer Gruppe zu einer SharePoint-Website
 
-Einige SharePoint-Teamwebsites (einschließlich der in Microsoft Teams erstellten) werden von Office 365 Gruppenbesitzern verwaltet. SharePoint-Websites und-Inhalte können auch für Office 365 Gruppen und SharePoint-Gruppen freigegeben werden. Eine SharePoint-Gruppe ist eine Sammlung von Benutzern, die alle über dieselben Berechtigungen für Websites und Inhalte verfügen. Bei klassischen Websites wird empfohlen, dass Sie Gruppen verwenden, um die gleiche Berechtigungsstufe für viele Personen gleichzeitig zuzuweisen, anstatt Berechtigungen jeweils jeweils einer Person zuzuweisen.
+Einige SharePoint-Teamwebsites (einschließlich der in Microsoft Teams erstellten) werden von Office 365 Gruppenbesitzern verwaltet. SharePoint-Websites und-Inhalte können auch für Office 365 Gruppen und SharePoint-Gruppen freigegeben werden. Eine SharePoint-Gruppe ist eine Sammlung von Benutzern, die alle über die gleichen Berechtigungen für Websites und Inhalte verfügen. Bei klassischen Websites wird empfohlen, dass Sie Gruppen verwenden, um die gleiche Berechtigungsstufe für viele Personen gleichzeitig zuzuweisen, anstatt Berechtigungen jeweils jeweils einer Person zuzuweisen.
   
 Verwalten von Office 365 Gruppenmitgliedern:
   

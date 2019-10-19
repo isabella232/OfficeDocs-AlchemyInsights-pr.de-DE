@@ -14,10 +14,10 @@ ms.custom:
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
 ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36660971"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Hinzufügen von Arbeitsplätzen zu einem Prepaid-Abonnement
@@ -35,6 +35,6 @@ Prepaid-Office 365 Lizenzen werden Ihnen als 25-stelliger alphanumerischer Code 
     > [!NOTE]
     > Wenn Sie mehr als einen Product Key hinzufügen möchten, können Sie **Weiteren Product Key hinzufügen** auswählen und diesen dann eingeben.
 
-5. Überprüfen Sie Ihre Bestelldetails, **** und wählen Sie dann einlösen aus.
+5. Überprüfen Sie Ihre Bestelldetails, und wählen Sie dann **einlösen**aus.
 
 Weitere Informationen finden Sie unter [Hinzufügen von Lizenzen zu oder Erweitern eines Abonnements, das mit einem Product Key bezahlt](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key)wurde.

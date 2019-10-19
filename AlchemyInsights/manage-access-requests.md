@@ -12,10 +12,10 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
 ms.openlocfilehash: 90dfe7323b5f0ae37e963b413327bee2bc6b3d33
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542495"
 ---
 # <a name="manage-access-requests"></a>Verwalten von Zugriffsanforderungen
@@ -26,7 +26,7 @@ Wenn ein Benutzer versucht, auf ein Element in SharePoint zuzugreifen, und er ü
     
 2. Klicken Sie unter **Benutzer und Berechtigungen**auf **Zugriffsanforderungen und-Einladungen**. (Wenn dieser nicht angezeigt wird, wurden keine Zugriffsanforderungen vorgenommen.)
     
-3. Klicken Sie auf genehmigen oder **ablehnen**, **** um der Benutzerberechtigung einzeln zu erteilen. Klicken Sie zum Auswählen einer bestimmten Berechtigungsstufe zunächst auf das Auslassungszeichen (...) neben dem Namen der Person. Alternativ können Sie den Benutzer einer Gruppe hinzufügen, die über die Berechtigung für die Website verfügt. Für Kommunikationswebsites und klassische Teamwebsites können Sie dies auf der Seite Websiteeinstellungen tun. Für Websites, die zu einer Office 365 Gruppe gehören, können Sie den Benutzer zur Gruppe hinzufügen.
+3. Klicken Sie auf **genehmigen** oder **ablehnen**, um der Benutzerberechtigung einzeln zu erteilen. Klicken Sie zum Auswählen einer bestimmten Berechtigungsstufe zunächst auf das Auslassungszeichen (...) neben dem Namen der Person. Alternativ können Sie den Benutzer einer Gruppe hinzufügen, die über die Berechtigung für die Website verfügt. Für Kommunikationswebsites und klassische Teamwebsites können Sie dies auf der Seite Websiteeinstellungen tun. Für Websites, die zu einer Office 365 Gruppe gehören, können Sie den Benutzer zur Gruppe hinzufügen.
     
     [Verwalten von Zugriffsanforderungen](https://go.microsoft.com/fwlink/?linkid=2008747)
     

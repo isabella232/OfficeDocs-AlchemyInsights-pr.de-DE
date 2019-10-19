@@ -12,14 +12,14 @@ ms.custom:
 - "1019"
 - "6000003"
 ms.openlocfilehash: 30b258de51ff0140520cf05ca09e6b0a8b872f22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36558040"
 ---
 # <a name="all-company-group"></a>Alle Unternehmensgruppen
 
-Die Gruppe " **all Company** " wird automatisch erstellt, wenn Sie ein Jammer Netzwerk erstellen. Es handelt sich um eine Standardsystem Gruppe, die nicht umbenannt oder gelöscht werden kann. Jeder kann in der Gruppe " **all Company** " Posten, aber nur jammern von Netzwerkadministratoren können Ankündigungen in der Gruppe veröffentlichen. Verwenden Sie **Gruppen**Einblicke, um Informationen zum Engagement in der Gruppe " **alle Firmen** " anzuzeigen.
+Die Gruppe " **all Company** " wird automatisch erstellt, wenn Sie ein Jammer Netzwerk erstellen. Es handelt sich um eine Standardsystem Gruppe, die nicht umbenannt oder gelöscht werden kann. Jeder kann in der Gruppe " **all Company** " Posten, aber nur jammern von Netzwerkadministratoren können Ankündigungen in der Gruppe veröffentlichen. Verwenden Sie **Gruppen Einblicke**, um Informationen zum Engagement in der Gruppe " **alle Firmen** " anzuzeigen.
 
 Weitere Informationen finden Sie unter [Verwalten einer Gruppe in "jammern"](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).

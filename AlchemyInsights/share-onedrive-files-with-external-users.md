@@ -12,10 +12,10 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
 ms.openlocfilehash: da2e654a40cfb3a802a77526706b5093e2a6ac2d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36549218"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Freigeben von Dateien in OneDrive für Personen außerhalb Ihrer Organisation
@@ -26,7 +26,7 @@ ms.locfileid: "36549218"
     
 3. Wenn der Verknüpfungstyp auf "Personen in \<Ihrer Organisation\>" festgelegt ist, klicken Sie auf den Pfeil nach unten, und wählen Sie eine der folgenden Optionen aus: 
     
-  - **Jeder** Benutzer erhält Zugriff auf alle Personen, die diesen Link erhalten, unabhängig davon, ob Sie ihn direkt von Ihnen erhalten oder von einer anderen Person weitergeleitet werden. Dies kann Personen außerhalb Ihrer Organisation einschließen. 
+  - **Jeder** Benutzer erhält Zugriff auf alle Personen, die diesen Link erhalten, unabhängig davon, ob Sie ihn direkt von Ihnen erhalten oder von einer anderen Person weitergeleitet werden. Dies kann auch Personen von außerhalb Ihrer Organisation einschließen. 
     
   - **Bestimmte Personen** gewähren nur Zugriff auf die von Ihnen angegebenen Personen, obwohl andere Personen möglicherweise bereits Zugriff haben. Wenn Personen die Freigabeeinladung weiterleiten, können nur Personen, die bereits Zugriff auf das Element haben, den Link verwenden. 
     

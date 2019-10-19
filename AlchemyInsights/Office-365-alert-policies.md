@@ -13,10 +13,10 @@ ms.custom:
 - "3200002"
 ms.assetid: ''
 ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661295"
 ---
 # <a name="office-365-alert-policies"></a>Office 365 von Warnungsrichtlinien
@@ -34,7 +34,7 @@ So überprüfen und reagieren Sie auf eine Warnung:
 2. Klicken Sie auf **Warnungen** > **anzeigen**.
 3. Klicken Sie auf eine Warnung, um eine Flyout-Seite mit Informationen zur Warnung anzuzeigen.
 
-Sie können Aktionen für eine Warnung durchführen, beispielsweise [das Entfernen einer verdächtigen Posteingangsregel](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Sie können die Benachrichtigung auch einfach schließen, indem **** Sie auf der Seite Warnungs Flyout auf Auflösen klicken.
+Sie können Aktionen für eine Warnung durchführen, beispielsweise [das Entfernen einer verdächtigen Posteingangsregel](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Sie können die Benachrichtigung auch einfach schließen, indem Sie auf der Seite Warnungs Flyout auf **Auflösen** klicken.
 
 Weitere Informationen zum Konfigurieren und Verwalten von Warnungsrichtlinien finden Sie in [diesem Artikel](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
 
