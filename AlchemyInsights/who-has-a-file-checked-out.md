@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
 ms.openlocfilehash: 56aa04f7866227c4b5a1e1828d3c10ea3746d00a
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36748323"
 ---
-# <a name="who-has-a-file-checked-out"></a><span data-ttu-id="135a2-102">Wer hat eine Datei ausgecheckt?</span><span class="sxs-lookup"><span data-stu-id="135a2-102">Who has a file checked out?</span></span>
+# <a name="who-has-a-file-checked-out"></a><span data-ttu-id="aaef5-102">Wer hat eine Datei ausgecheckt?</span><span class="sxs-lookup"><span data-stu-id="aaef5-102">Who has a file checked out?</span></span>
 
-<span data-ttu-id="135a2-103">Um anzuzeigen, wer eine Datei in SharePoint ausgecheckt hat, können Sie einen der folgenden Schritte ausführen:</span><span class="sxs-lookup"><span data-stu-id="135a2-103">To see who has a file checked out in SharePoint, you can do either one of the following steps:</span></span>
+<span data-ttu-id="aaef5-103">Um anzuzeigen, wer eine Datei in SharePoint ausgecheckt hat, können Sie einen der folgenden Schritte ausführen:</span><span class="sxs-lookup"><span data-stu-id="aaef5-103">To see who has a file checked out in SharePoint, you can do either one of the following steps:</span></span>
   
-1. <span data-ttu-id="135a2-104">Zeigen Sie mit der Maus auf **ausgecheckt** , um eine QuickInfo anzuzeigen, die angibt, wer die Datei ausgecheckt hat.</span><span class="sxs-lookup"><span data-stu-id="135a2-104">Hover over **Checked Out** to see a tooltip that tells you who has the file checked out.</span></span> 
+1. <span data-ttu-id="aaef5-104">Zeigen Sie mit der Maus auf **ausgecheckt** , um eine QuickInfo anzuzeigen, die angibt, wer die Datei ausgecheckt hat.</span><span class="sxs-lookup"><span data-stu-id="aaef5-104">Hover over **Checked Out** to see a tooltip that tells you who has the file checked out.</span></span> 
     
-2. <span data-ttu-id="135a2-105">Fügen Sie die Spalte **ausgecheckt von** der Standardansicht der Bibliothek hinzu.</span><span class="sxs-lookup"><span data-stu-id="135a2-105">Add the **Checked Out By** column to the default view of the library.</span></span> <span data-ttu-id="135a2-106">Auf diese Weise kann jeder leicht erkennen, wer ein Dokument ausgecheckt hat.</span><span class="sxs-lookup"><span data-stu-id="135a2-106">This way, everyone can easily see who has a document checked out.</span></span> 
+2. <span data-ttu-id="aaef5-105">Fügen Sie die Spalte **ausgecheckt von** der Standardansicht der Bibliothek hinzu.</span><span class="sxs-lookup"><span data-stu-id="aaef5-105">Add the **Checked Out By** column to the default view of the library.</span></span> <span data-ttu-id="aaef5-106">Auf diese Weise kann jeder leicht erkennen, wer ein Dokument ausgecheckt hat.</span><span class="sxs-lookup"><span data-stu-id="aaef5-106">This way, everyone can easily see who has a document checked out.</span></span> 
     
-<span data-ttu-id="135a2-107">Informationen zum Hinzufügen einer ausgecheckte Spalte in SharePoint finden Sie unter [Erstellen einer Spalte in einer Liste oder Bibliothek](https://go.microsoft.com/fwlink/?linkid=2019591).</span><span class="sxs-lookup"><span data-stu-id="135a2-107">To learn how to add a Checked Out By column in SharePoint, see [Create a column in a list or library](https://go.microsoft.com/fwlink/?linkid=2019591).</span></span> 
+<span data-ttu-id="aaef5-107">Informationen zum Hinzufügen einer ausgecheckte Spalte in SharePoint finden Sie unter [Erstellen einer Spalte in einer Liste oder Bibliothek](https://go.microsoft.com/fwlink/?linkid=2019591).</span><span class="sxs-lookup"><span data-stu-id="aaef5-107">To learn how to add a Checked Out By column in SharePoint, see [Create a column in a list or library](https://go.microsoft.com/fwlink/?linkid=2019591).</span></span> 
   
-<span data-ttu-id="135a2-108">Weitere häufig gestellte Fragen zum Einchecken und Auschecken finden Sie unter [Top Questions about Check out, Check in](https://go.microsoft.com/fwlink/?linkid=2018786).</span><span class="sxs-lookup"><span data-stu-id="135a2-108">See more frequently asked questions about check in or check out, see [Top questions about check out, check in](https://go.microsoft.com/fwlink/?linkid=2018786).</span></span>
+<span data-ttu-id="aaef5-108">Weitere häufig gestellte Fragen zum Einchecken und Auschecken finden Sie unter [Top Questions about Check out, Check in](https://go.microsoft.com/fwlink/?linkid=2018786).</span><span class="sxs-lookup"><span data-stu-id="aaef5-108">See more frequently asked questions about check in or check out, see [Top questions about check out, check in](https://go.microsoft.com/fwlink/?linkid=2018786).</span></span>
   
 

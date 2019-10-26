@@ -14,15 +14,15 @@ ms.custom:
 - "3500003"
 ms.assetid: fd97c1c7-fc0a-466d-87d4-cbdaf6310ca1
 ms.openlocfilehash: 9182ff22f183385cf6577f911bc37cd3d22c8f84
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36740716"
 ---
-# <a name="creating-inbox-rules-for-shared-mailboxes"></a><span data-ttu-id="2aeb6-102">Erstellen von Posteingangsregeln für freigegebene Postfächer</span><span class="sxs-lookup"><span data-stu-id="2aeb6-102">Creating Inbox rules for shared mailboxes</span></span>
+# <a name="creating-inbox-rules-for-shared-mailboxes"></a><span data-ttu-id="88823-102">Erstellen von Posteingangsregeln für freigegebene Postfächer</span><span class="sxs-lookup"><span data-stu-id="88823-102">Creating Inbox rules for shared mailboxes</span></span>
 
-<span data-ttu-id="2aeb6-103">Sie können Regeln für ein freigegebenes Postfach, auf das Sie Zugriff haben, auf ähnliche Weise wie das Hinzufügen von Regeln zu Ihrem eigenen Konto hinzufügen.</span><span class="sxs-lookup"><span data-stu-id="2aeb6-103">You can add rules on a shared mailbox you have access to in a similar way to how you add rules to their own account.</span></span>
+<span data-ttu-id="88823-103">Sie können Regeln für ein freigegebenes Postfach, auf das Sie Zugriff haben, auf ähnliche Weise wie das Hinzufügen von Regeln zu Ihrem eigenen Konto hinzufügen.</span><span class="sxs-lookup"><span data-stu-id="88823-103">You can add rules on a shared mailbox you have access to in a similar way to how you add rules to their own account.</span></span>
   
-<span data-ttu-id="2aeb6-104">Stellen Sie sicher, dass Sie ein Mitglied des betreffenden freigegebenen Postfachs sind, und befolgen Sie dann die Schritte in diesem Artikel: [Hinzufügen von Regeln zu einem freigegebenen Postfach](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164)</span><span class="sxs-lookup"><span data-stu-id="2aeb6-104">Make sure you're a member of the shared mailbox in question, and then follow the steps in this article: [Add rules to a shared mailbox](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164)</span></span>
+<span data-ttu-id="88823-104">Stellen Sie sicher, dass Sie ein Mitglied des betreffenden freigegebenen Postfachs sind, und befolgen Sie dann die Schritte in diesem Artikel: [Hinzufügen von Regeln zu einem freigegebenen Postfach](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164)</span><span class="sxs-lookup"><span data-stu-id="88823-104">Make sure you're a member of the shared mailbox in question, and then follow the steps in this article: [Add rules to a shared mailbox](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164)</span></span>
   
