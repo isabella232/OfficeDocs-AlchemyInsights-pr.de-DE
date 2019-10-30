@@ -2,19 +2,18 @@
 title: 'Fehler 404: die Datei wurde nicht gefunden.'
 ms.author: efrene
 author: efrene
-ms.date: 9/18/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: b6d530d4438eefd509670119cd61847e525ecb22
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: d05755133bd3e335bea74c69f599b66e1c6017da
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36740212"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769266"
 ---
-# <a name="error-404-file-not-found"></a>Fehler 404: die Datei wurde nicht gefunden.
+# <a name="error-404-file-not-found-in-sharepoint-or-onedrive"></a>Fehler 404: Datei wurde in SharePoint oder OneDrive nicht gefunden
 
 **Fehler 404: die Datei wurde nicht gefunden** , wenn Benutzer versuchen, auf eine Website oder Datei in SharePoint oder OneDrive zuzugreifen. Dies wird häufig dadurch verursacht, dass eine Website oder eine Datei oder eine Gruppe umbenannt, verschoben oder gelöscht wird.
 Bei dem Versuch, auf die Stammwebsitesammlung zuzugreifen, tritt ein Fehler auf, und die Benutzer werden gelöscht.

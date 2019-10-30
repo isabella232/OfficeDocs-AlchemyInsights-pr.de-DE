@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: eaf958932ee1c1b4e33bd5dae96a48c37505739e
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: c2b06cc64d071a80fa6cafe0f066a3885e388d6b
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36747820"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768295"
 ---
 # <a name="anonymous-sharing"></a>Anonyme Freigabe
 
@@ -23,7 +23,7 @@ Klicken Sie im neuen SharePoint Admin Center im linken Bereich auf **Freigabe** 
   
 - Wählen Sie Folgendes aus: **Zulassen der Freigabe für authentifizierte externe Benutzer und Verwenden des anonymen Zugriffs.**
   
-(Optional können Sie das Ablaufen von Links nach einer bestimmten Anzahl Tage festlegen und angeben, wie Empfänger die Links verwenden können.)
+(Optional können Sie Links so festlegen, dass Sie in einer bestimmten Anzahl von Tagen ablaufen, und auswählen, wie die Links von Empfängern verwendet werden können.)
     
  **Anonymes Freigeben einer Datei oder eines Ordners**
   

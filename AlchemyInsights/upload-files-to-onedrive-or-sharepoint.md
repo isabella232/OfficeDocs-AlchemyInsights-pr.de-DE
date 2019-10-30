@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: 90a67243716eb66357ffa362df31f7b064170918
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9af01456f453c0d0cffc7c2d89f11eba2beda4ec
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532510"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769878"
 ---
 # <a name="upload-files-to-onedrive-or-sharepoint"></a>Hochladen von Dateien in OneDrive oder SharePoint
 
@@ -26,7 +26,9 @@ ms.locfileid: "36532510"
     
 3. Wählen Sie die Dateien aus, und ziehen Sie Sie an den Speicherort in OneDrive oder SharePoint. Hinweis: Wenn Sie Microsoft Edge, Mozilla Firefox oder Google Chrome verwenden, können Sie auch einen Ordner und alle darin abgelegten Dateien hochladen.
     
-> [!NOTE]
->  Sie können Dateien mit einer Größe von bis zu 15 GB hochladen. > der vollständige Pfad für eine Datei (einschließlich des Datei namens) darf nicht mehr als 400 Zeichen lang sein. > Wenn Sie mehr als 100 Dateien hochladen müssen, [verwenden Sie den OneDrive-synchronisierungsclient](https://go.microsoft.com/fwlink/?linkid=866427). 
+**Hinweise:**
+- Sie können Dateien mit einer Größe von bis zu 15 GB hochladen. 
+- Der vollständige Pfad für eine Datei (einschließlich des Datei namens) darf nicht mehr als 400 Zeichen lang sein. 
+- Wenn Sie mehr als 100 Dateien hochladen müssen, [verwenden Sie den OneDrive-synchronisierungsclient](https://go.microsoft.com/fwlink/?linkid=866427). 
   
 

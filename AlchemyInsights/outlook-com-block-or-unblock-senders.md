@@ -15,16 +15,16 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: b4c2aeca8eec19487fec6957ba42df2a80c0da20
-ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
+ms.openlocfilehash: af1daa00bbb2ec93622ac8f4dc9004bb3b65b761
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/27/2019
-ms.locfileid: "36643693"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768727"
 ---
 # <a name="block-or-unblock-senders"></a>Blockieren oder Aufheben der Blockierung von Absendern
 
-Nachrichten von e-Mail-Adressen oder Domänen auf Ihren blockierten Absendern gelangen direkt in Ihren Junk-e-Mail-Ordner. E-Mail wird nach 30 Tagen automatisch aus dem Junk-e-Mail-Ordner entfernt und kann nicht wiederhergestellt werden. SE; ect ein Element, das angezeigt wird, wenn es entfernt wird.
+Nachrichten von e-Mail-Adressen oder Domänen auf Ihren blockierten Absendern gelangen direkt in Ihren Outlook-Junk-e-Mail-Ordner. E-Mail wird nach 30 Tagen automatisch aus dem Junk-e-Mail-Ordner entfernt und kann nicht wiederhergestellt werden. Wählen Sie ein Element aus, das angezeigt werden soll, wenn es entfernt wird.
 
 **In Ihrem Posteingang:**
 

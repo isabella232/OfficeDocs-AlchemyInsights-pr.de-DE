@@ -2,7 +2,6 @@
 title: Ändern der Größe von Nachrichten oder Anlagen
 ms.author: pebaum
 author: pebaum
-ms.date: 6/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +10,18 @@ ms.custom:
 - "895"
 - "8000036"
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
-ms.openlocfilehash: 7c891034ac8d41bca4c4ee32130bcff306f9ed24
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bbb8741fcb394d0951a1fb40400a7534737d3a7a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520666"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769662"
 ---
 # <a name="changing-message-or-attachment-size"></a>Ändern der Größe von Nachrichten oder Anlagen
 
 Als Office 365 Administrator können Sie die maximale/minimale Größe von Nachrichten (einschließlich Anlagen) ändern, die Ihre Benutzer senden. Dies ist für einzelne Benutzer oder alle Benutzer möglich (Organisationsstandard). Nachdem Sie diese Einstellung geändert haben, dauert es etwa 30 Minuten, bis Sie wirksam werden.
   
-- Um die Nachrichtengröße für einen bestimmten Benutzer zu ändern, wechseln Sie zu **Admin Centers** \> **Exchange** \> **Recipients** \> **Mailboxes**. Wählen Sie das Postfach eines Benutzers aus. Klicken Sie auf das Symbol bearbeiten, und wählen Sie dann unter **Einschränkungen der Nachrichtengröße**die Option **Details anzeigen** aus, und geben Sie neue maximale Nachrichtengröße an.
+- Um die Nachrichtengröße für einen bestimmten Benutzer zu ändern, wechseln Sie zu **Admin Centers** \> **Exchange** \> **Recipients** \> **Mailboxes**. Wählen Sie das Postfach eines Benutzers aus. Wählen Sie das Symbol bearbeiten aus, wählen Sie **Postfachfunktionen**aus, und wählen Sie dann unter Einschränkungen für die **Nachrichtengröße**die Option **Details anzeigen** aus, und geben Sie neue maximale Nachrichtengröße an.
 
 - Informationen darüber, wie Sie dies für alle Postfächer ändern können, finden Sie in [diesem Artikel](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
 
