@@ -14,13 +14,16 @@ ms.custom:
 - "827"
 - "1600028"
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
-ms.openlocfilehash: d4cb6e1b2db4fa44305600163cc6bb173972c0a6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 31d32b007e478afe74554f96529248ccb709f570
+ms.sourcegitcommit: 0fb0a4c9ac5aa2b9d0d9dcce2dba2d2f343b5847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522034"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37775314"
 ---
-# <a name="office-365-urls-and-ip-address-ranges"></a><span data-ttu-id="0c5ec-102">URLs und IP-Adressbereiche für Office 365</span><span class="sxs-lookup"><span data-stu-id="0c5ec-102">Office 365 URLs and IP address ranges</span></span>
+# <a name="office-365-urls-and-ip-address-ranges"></a><span data-ttu-id="9d64d-102">URLs und IP-Adressbereiche für Office 365</span><span class="sxs-lookup"><span data-stu-id="9d64d-102">Office 365 URLs and IP address ranges</span></span>
 
-<span data-ttu-id="0c5ec-103">Für Office 365 ist eine Verbindung mit dem Internet erforderlich.</span><span class="sxs-lookup"><span data-stu-id="0c5ec-103">Office 365 requires connectivity to the Internet.</span></span> <span data-ttu-id="0c5ec-104">Die Endpunkte in diesem Artikel [Office 365 URLs und IP-Adressbereiche](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service)müssen für Benutzer erreichbar sein, um auf Office 365 zugreifen zu können.</span><span class="sxs-lookup"><span data-stu-id="0c5ec-104">The endpoints in this article, [Office 365 URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service), need to be reachable for users to access Office 365.</span></span>
+<span data-ttu-id="9d64d-103">Office 365 erfordert eine Verbindung mit dem Internet über bestimmte IP-Adressen, die als *Endpunkte*bezeichnet werden.</span><span class="sxs-lookup"><span data-stu-id="9d64d-103">Office 365 requires connectivity to the Internet via specific IP addresses called *endpoints*.</span></span>
+<span data-ttu-id="9d64d-104">Eine Liste der Endpunkte, die erreichbar sein müssen, finden Sie unter [Office 365-URLs und IP-Adressbereiche](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span><span class="sxs-lookup"><span data-stu-id="9d64d-104">For a list of endpoints that need to be reachable, see [Office 365 URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span></span> 
+
+<span data-ttu-id="9d64d-105">Der Office 365-IP-Adress- und URL-Dienst unterstützt Sie beim besseren Erkennen und Differenzieren des Netzwerkdatenverkehrs in Office 365, was es Ihnen erleichtert, Änderungen auszuwerten, zu konfigurieren und auf dem neuesten Stand zu bleiben.</span><span class="sxs-lookup"><span data-stu-id="9d64d-105">The Office 365 IP Address and URL web service helps you better identify and differentiate Office 365 network traffic, making it easier for you to evaluate, configure, and stay up to date with changes.</span></span> <span data-ttu-id="9d64d-106">Weitere Informationen finden Sie unter [Office 365 IP-Adresse und URL-Webdienst](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).</span><span class="sxs-lookup"><span data-stu-id="9d64d-106">See [Office 365 IP Address and URL web service](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).</span></span>

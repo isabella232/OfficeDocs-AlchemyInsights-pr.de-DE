@@ -8,29 +8,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: eaf958932ee1c1b4e33bd5dae96a48c37505739e
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: c2b06cc64d071a80fa6cafe0f066a3885e388d6b
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36747820"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768295"
 ---
-# <a name="anonymous-sharing"></a><span data-ttu-id="5e425-102">Anonyme Freigabe</span><span class="sxs-lookup"><span data-stu-id="5e425-102">Anonymous sharing</span></span>
+# <a name="anonymous-sharing"></a><span data-ttu-id="340f4-102">Anonyme Freigabe</span><span class="sxs-lookup"><span data-stu-id="340f4-102">Anonymous sharing</span></span>
 
- <span data-ttu-id="5e425-103">**Anonymen Zugriff aktivieren**</span><span class="sxs-lookup"><span data-stu-id="5e425-103">**Enable anonymous access**</span></span>
+ <span data-ttu-id="340f4-103">**Anonymen Zugriff aktivieren**</span><span class="sxs-lookup"><span data-stu-id="340f4-103">**Enable anonymous access**</span></span>
   
-<span data-ttu-id="5e425-104">Klicken Sie im neuen SharePoint Admin Center im linken Bereich auf **Freigabe** .</span><span class="sxs-lookup"><span data-stu-id="5e425-104">In the new SharePoint admin center, click **sharing** in the left pane.</span></span> 
+<span data-ttu-id="340f4-104">Klicken Sie im neuen SharePoint Admin Center im linken Bereich auf **Freigabe** .</span><span class="sxs-lookup"><span data-stu-id="340f4-104">In the new SharePoint admin center, click **sharing** in the left pane.</span></span> 
   
-- <span data-ttu-id="5e425-105">Wählen Sie Folgendes aus: **Zulassen der Freigabe für authentifizierte externe Benutzer und Verwenden des anonymen Zugriffs.**</span><span class="sxs-lookup"><span data-stu-id="5e425-105">Select the following: **Allow sharing to authenticated external users and using anonymous access.**</span></span>
+- <span data-ttu-id="340f4-105">Wählen Sie Folgendes aus: **Zulassen der Freigabe für authentifizierte externe Benutzer und Verwenden des anonymen Zugriffs.**</span><span class="sxs-lookup"><span data-stu-id="340f4-105">Select the following: **Allow sharing to authenticated external users and using anonymous access.**</span></span>
   
-<span data-ttu-id="5e425-106">(Optional können Sie das Ablaufen von Links nach einer bestimmten Anzahl Tage festlegen und angeben, wie Empfänger die Links verwenden können.)</span><span class="sxs-lookup"><span data-stu-id="5e425-106">(Optionally, you can set links to expire in a specific number of days, and select how recipients can use the links .)</span></span>
+<span data-ttu-id="340f4-106">(Optional können Sie Links so festlegen, dass Sie in einer bestimmten Anzahl von Tagen ablaufen, und auswählen, wie die Links von Empfängern verwendet werden können.)</span><span class="sxs-lookup"><span data-stu-id="340f4-106">(Optionally, you can set links to expire in a specific number of days, and select how recipients can use the links.)</span></span>
     
- <span data-ttu-id="5e425-107">**Anonymes Freigeben einer Datei oder eines Ordners**</span><span class="sxs-lookup"><span data-stu-id="5e425-107">**Share a file or folder anonymously**</span></span>
+ <span data-ttu-id="340f4-107">**Anonymes Freigeben einer Datei oder eines Ordners**</span><span class="sxs-lookup"><span data-stu-id="340f4-107">**Share a file or folder anonymously**</span></span>
   
-- <span data-ttu-id="5e425-108">Wählen Sie die Datei oder den Ordner aus, die Sie freigeben möchten, und klicken Sie dann auf **Freigeben**.</span><span class="sxs-lookup"><span data-stu-id="5e425-108">Select the file or folder you want to share, and then click **Share**.</span></span> 
+- <span data-ttu-id="340f4-108">Wählen Sie die Datei oder den Ordner aus, die Sie freigeben möchten, und klicken Sie dann auf **Freigeben**.</span><span class="sxs-lookup"><span data-stu-id="340f4-108">Select the file or folder you want to share, and then click **Share**.</span></span> 
     
-- <span data-ttu-id="5e425-109">Für wen möchten Sie diesen Link verwenden? Klicken Sie auf **jeder.**</span><span class="sxs-lookup"><span data-stu-id="5e425-109">Who would you like this link to work for? click **Anyone.**</span></span>
+- <span data-ttu-id="340f4-109">Für wen möchten Sie diesen Link verwenden? Klicken Sie auf **jeder.**</span><span class="sxs-lookup"><span data-stu-id="340f4-109">Who would you like this link to work for? click **Anyone.**</span></span>
   
- <span data-ttu-id="5e425-110">**Hinweis**: **jeder** erstellt einen Link, den jeder für den Zugriff auf das Dokument oder den Ordner verwenden kann, auch wenn er nicht bei Office 365 oder OneDrive angemeldet ist.</span><span class="sxs-lookup"><span data-stu-id="5e425-110">**Note**: **Anyone** creates a link that anyone can use to access the document or folder, even if they're not logged in to Office 365 or OneDrive.</span></span> <span data-ttu-id="5e425-111">Verwenden Sie diese, um Sie für jeden innerhalb oder außerhalb Ihres Unternehmens freizugeben.</span><span class="sxs-lookup"><span data-stu-id="5e425-111">Use this to share with anyone, inside or outside your company.</span></span> <span data-ttu-id="5e425-112">Dieser Link kann auch an alle Personen weitergeleitet werden.</span><span class="sxs-lookup"><span data-stu-id="5e425-112">This link can also be forwarded around to anyone.</span></span> 
+ <span data-ttu-id="340f4-110">**Hinweis**: **jeder** erstellt einen Link, den jeder für den Zugriff auf das Dokument oder den Ordner verwenden kann, auch wenn er nicht bei Office 365 oder OneDrive angemeldet ist.</span><span class="sxs-lookup"><span data-stu-id="340f4-110">**Note**: **Anyone** creates a link that anyone can use to access the document or folder, even if they're not logged in to Office 365 or OneDrive.</span></span> <span data-ttu-id="340f4-111">Verwenden Sie diese, um Sie für jeden innerhalb oder außerhalb Ihres Unternehmens freizugeben.</span><span class="sxs-lookup"><span data-stu-id="340f4-111">Use this to share with anyone, inside or outside your company.</span></span> <span data-ttu-id="340f4-112">Dieser Link kann auch an alle Personen weitergeleitet werden.</span><span class="sxs-lookup"><span data-stu-id="340f4-112">This link can also be forwarded around to anyone.</span></span> 
     
 
