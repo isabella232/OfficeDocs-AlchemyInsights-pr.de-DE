@@ -12,15 +12,15 @@ ms.custom:
 - "9000751"
 - "2689"
 ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37768691"
 ---
 # <a name="empty-the-deleted-items-folder"></a>Leeren des Ordners "Gelöschte Elemente"
 
-Wenn Sie alle gelöschten Outlook -Nachrichten löschen möchten, wechseln Sie zum [Ordner Gelöschte Elemente](https://outlook.live.com/mail/deleteditems), und wählen Sie **leeren Ordner**aus, und wählen Sie dann  **aus diesem Ordner Gelöschte Elemente wiederherstellen**oberhalb der Nachrichtenliste aus, und wählen Sie **leeren Ordner**  wiederholt.
+Wenn Sie alle gelöschten Outlook-Nachrichten löschen möchten, wechseln Sie zum [Ordner Gelöschte Elemente](https://outlook.live.com/mail/deleteditems), und wählen Sie **leeren Ordner**aus, und wählen Sie dann  **aus diesem Ordner Gelöschte Elemente wiederherstellen**oberhalb der Nachrichtenliste aus, und wählen Sie erneut **leeren Ordner** aus.
 
 Wenn Sie viele Nachrichten gelöscht haben, kann es einige Zeit dauern, bis diese Elemente in den Ordner "Gelöschte Elemente" wechseln oder gelöscht werden. Lassen Sie das Browserfenster geöffnet, bis die Elemente gelöscht wurden.
 
