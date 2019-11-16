@@ -13,10 +13,10 @@ ms.custom:
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
 ms.openlocfilehash: cebeea438ac881d9930eecb9bcb031f9a6e92977
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36499638"
 ---
 # <a name="inbox-rules"></a>Posteingangsregeln
@@ -27,4 +27,4 @@ Weitere Informationen zum Verwenden von Posteingangsregeln in Ihrem eigenen Post
 
 - [Verwalten von Nachrichten mithilfe von Posteingangsregeln in Outlook im Internet](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
 
-Sie können Posteingangsregeln auch in Exchange Online PowerShell verwalten. Weitere Informationen finden Sie unter [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (Ansicht), [New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (Create), [Remove-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (Delete), [Sets-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (modify existing), [Disable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (Disable existing) und [Enable-InboxRule ](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule)(vorhandene aktivieren).
+Sie können Posteingangsregeln auch in Exchange Online PowerShell verwalten. Weitere Informationen finden Sie unter [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (Ansicht), [New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (Create), [Remove-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (Delete), [Sets-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (modify existing), [Disable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (Disable existing) und [Enable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (Enable existing).

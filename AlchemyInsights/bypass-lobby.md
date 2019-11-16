@@ -12,10 +12,10 @@ ms.custom:
 - "2673"
 - "9000740"
 ms.openlocfilehash: bf8be9ffe2bfa45ed2cf149c1c4fa118b40e816d
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37768439"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Steuern der Lobby Einstellungen und Grad der Teilnahme
@@ -38,6 +38,6 @@ Lesen Sie unbedingt die nachfolgende Dokumentation, bevor Sie diese Änderungen 
 
 - [Zulassen, dass Einwahlbenutzer die Lobby umgehen](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (in**Kürze**verfügbar) ist eine Richtlinie pro Organisator, die steuert, ob Personen, die sich per Telefon einwählen, direkt an der Besprechung teilnehmen oder in der Lobby warten, unabhängig von der Einstellung **Personen automatisch zulassen** .
 
-- [Organisatoren das außer Kraft setzen von Lobby Einstellungen erlauben](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (in**Kürze**verfügbar) ist eine Richtlinie pro Organizer, die steuert, ob der Besprechungsorganisator die Lobby Einstellungen außer Kraft setzen kann, die ein Administrator in **automatisch Personen** eingegeben und **Einwahl zulassen Benutzer können die Lobby umgehen,** Wenn Sie eine neue Besprechung planen.
+- [Organisatoren erlauben, Lobby Einstellungen außer Kraft zu setzen](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (in**Kürze**), ist eine Richtlinie pro Organizer, die steuert, ob der Besprechungsorganisator die Lobby Einstellungen außer Kraft setzen kann, die ein Administrator festgelegt hat, um Benutzer **automatisch** zuzulassen und **Einwahl Benutzern die Umgehung der Lobby zu ermöglichen** , wenn Sie eine neue Besprechung planen.
 
 **Hinweis:** Lesen Sie [Manage Meeting Policies in Teams](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) , um eine vollständige Übersicht über die Microsoft Teams-Besprechungsrichtlinien zu bekommen.

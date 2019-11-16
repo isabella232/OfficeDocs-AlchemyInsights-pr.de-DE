@@ -9,10 +9,10 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
 ms.openlocfilehash: 59713231da25be441e7c05d788337e66bf17265a
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37768800"
 ---
 # <a name="troubleshoot-issue---user-not-found-in-directory"></a>Problembehandlung – Benutzer wurde nicht im Verzeichnis gefunden
@@ -27,7 +27,7 @@ Weitere Informationen finden Sie unter [Vorgehensweise Verwalten von Aliasen fü
 
 - Wechseln Sie zu jedem Standort (en), in dem der Benutzer den Fehler empfängt. 
 
-Fügen Sie "/_layouts/15/people.aspx/membershipgroupid = 0" (innerhalb der Anführungszeichen) am Ende der Website-URL hinzu. 
+Fügen Sie "/_layouts/15/people.aspx/membershipgroupid = 0" (innerhalb der Anführungszeichen) an das Ende der Website-URL an. 
 
 Beispiel: https://#a0 "Contoso" #a1. SharePoint.com/_layouts/15/people.aspx/membershipGroupId=0.
 
