@@ -13,19 +13,19 @@ ms.custom:
 - "9000695"
 - "2607"
 ms.openlocfilehash: 9aa41ee8302413fb5c24eca3e7caaf1336fb65ad
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36739132"
 ---
-# <a name="install-project-professional"></a><span data-ttu-id="0e03c-102">Installieren von Project Professional</span><span class="sxs-lookup"><span data-stu-id="0e03c-102">Install Project Professional</span></span>
+# <a name="install-project-professional"></a><span data-ttu-id="1d8e5-102">Installieren von Project Professional</span><span class="sxs-lookup"><span data-stu-id="1d8e5-102">Install Project Professional</span></span>
 
-<span data-ttu-id="0e03c-103">Unter [install Project](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) erfahren Sie, wie Sie die Abonnementversion von Project Online und die nicht-Abonnementversion von Project 2019, 2016 oder 2013 installieren.</span><span class="sxs-lookup"><span data-stu-id="0e03c-103">See [Install Project](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) to learn how to install the subscription version of Project Online, and the non-subscription version of Project 2019, 2016, or 2013.</span></span> 
+<span data-ttu-id="1d8e5-103">Unter [install Project](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) erfahren Sie, wie Sie die Abonnementversion von Project Online und die nicht-Abonnementversion von Project 2019, 2016 oder 2013 installieren.</span><span class="sxs-lookup"><span data-stu-id="1d8e5-103">See [Install Project](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) to learn how to install the subscription version of Project Online, and the non-subscription version of Project 2019, 2016, or 2013.</span></span> 
 
-<span data-ttu-id="0e03c-104">Führen Sie für Project 2010 oder 2007 die Schritte in [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) oder [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657)aus.</span><span class="sxs-lookup"><span data-stu-id="0e03c-104">For Project 2010 or 2007, follow the steps in [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) or [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657).</span></span> 
+<span data-ttu-id="1d8e5-104">Führen Sie für Project 2010 oder 2007 die Schritte in [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) oder [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657)aus.</span><span class="sxs-lookup"><span data-stu-id="1d8e5-104">For Project 2010 or 2007, follow the steps in [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) or [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657).</span></span> 
 
-<span data-ttu-id="0e03c-105">Project wird als eigenständige Anwendung verkauft, wenn Sie es jedoch noch nicht haben, [kaufen oder testen](https://products.office.com/project)Sie das Projekt.</span><span class="sxs-lookup"><span data-stu-id="0e03c-105">Project is sold as a stand-alone application, so if you don't have it yet, [Buy or try Project](https://products.office.com/project).</span></span> 
+<span data-ttu-id="1d8e5-105">Project wird als eigenständige Anwendung verkauft, wenn Sie es jedoch noch nicht haben, [kaufen oder testen](https://products.office.com/project)Sie das Projekt.</span><span class="sxs-lookup"><span data-stu-id="1d8e5-105">Project is sold as a stand-alone application, so if you don't have it yet, [Buy or try Project](https://products.office.com/project).</span></span> 
 
 
 

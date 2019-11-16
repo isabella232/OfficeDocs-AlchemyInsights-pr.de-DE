@@ -14,15 +14,15 @@ ms.custom:
 - "3500008"
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
 ms.openlocfilehash: 0c0cebc33b8277689631e2eb0530efb8789ad7e7
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36734452"
 ---
-# <a name="migrate-mailboxes-between-two-different-tenants"></a><span data-ttu-id="06db3-102">Migrieren von Postfächern zwischen zwei unterschiedlichen Mandanten</span><span class="sxs-lookup"><span data-stu-id="06db3-102">Migrate mailboxes between two different tenants</span></span>
+# <a name="migrate-mailboxes-between-two-different-tenants"></a><span data-ttu-id="689f4-102">Migrieren von Postfächern zwischen zwei unterschiedlichen Mandanten</span><span class="sxs-lookup"><span data-stu-id="689f4-102">Migrate mailboxes between two different tenants</span></span>
 
-<span data-ttu-id="06db3-103">Möglicherweise müssen Sie Postfächer zwischen zwei unterschiedlichen Mandanten in Office 365 migrieren, beispielsweise bei Organisations Zusammenschlüssen.</span><span class="sxs-lookup"><span data-stu-id="06db3-103">You may need to migrate mailboxes between two different tenants in Office 365, for example, when there are organization mergers.</span></span> <span data-ttu-id="06db3-104">Diese Migrationen sollten sorgfältig geplant werden.</span><span class="sxs-lookup"><span data-stu-id="06db3-104">These migrations should be carefully planned.</span></span> <span data-ttu-id="06db3-105">Weitere Informationen finden Sie in den folgenden Anleitungen:</span><span class="sxs-lookup"><span data-stu-id="06db3-105">Please see the following guidance:</span></span>
+<span data-ttu-id="689f4-103">Möglicherweise müssen Sie Postfächer zwischen zwei unterschiedlichen Mandanten in Office 365 migrieren, beispielsweise bei Organisations Zusammenschlüssen.</span><span class="sxs-lookup"><span data-stu-id="689f4-103">You may need to migrate mailboxes between two different tenants in Office 365, for example, when there are organization mergers.</span></span> <span data-ttu-id="689f4-104">Diese Migrationen sollten sorgfältig geplant werden.</span><span class="sxs-lookup"><span data-stu-id="689f4-104">These migrations should be carefully planned.</span></span> <span data-ttu-id="689f4-105">Weitere Informationen finden Sie in den folgenden Anleitungen:</span><span class="sxs-lookup"><span data-stu-id="689f4-105">Please see the following guidance:</span></span>
   
-[<span data-ttu-id="06db3-106">Migrieren von Postfächern von einem Office 365-Mandanten zu einem anderen</span><span class="sxs-lookup"><span data-stu-id="06db3-106">How to migrate mailboxes from one Office 365 tenant to another</span></span>](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+[<span data-ttu-id="689f4-106">Migrieren von Postfächern von einem Office 365-Mandanten zu einem anderen</span><span class="sxs-lookup"><span data-stu-id="689f4-106">How to migrate mailboxes from one Office 365 tenant to another</span></span>](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
   
