@@ -13,16 +13,16 @@ ms.custom:
 - "453"
 - "5300013"
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: 6e68e021525b9bff1c9666d0db5b44ea5d72c753
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63d2115c6c167ade1d39f8cdeca08de1a2e12d17
+ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549038"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38711719"
 ---
 # <a name="move-items-in-a-sharepoint-document-library"></a>Elemente in einer SharePoint-Dokumentbibliothek verlagern
 
-Sie können Elemente in einer Dokumentbibliothek an andere Speicherorte umlegen. Wenn Sie [die Option "Targeted Release" eingerichtet](https://go.microsoft.com/fwlink/?linkid=622980)haben, können Sie auch Elemente über Websites hinweg migrieren. Wenn Sie Dokumente verschieben, wird auch deren Verlauf verschoben.
+Sie können Elemente in einer Dokumentbibliothek an andere Speicherorte umlegen.
   
 1. Navigieren Sie in einem Webbrowser zu den Dateien, Ordnern oder Links, die Sie wechseln möchten, und klicken Sie dann auf **Wechseln zu**.
 
@@ -34,3 +34,10 @@ Sie können Elemente in einer Dokumentbibliothek an andere Speicherorte umlegen.
     Um einen neuen Ordner zu erstellen, in den Sie die Dateien verlagern möchten, wählen Sie einen Speicherort in der Ordnerhierarchie aus, klicken Sie auf **neuer Ordner**, geben Sie einen Namen für den Ordner ein, und klicken Sie auf das Häkchen, um den Namen zu speichern.
 
 3. Klicken Sie auf **hierher navigieren**.
+
+ Wenn eine Datei verschoben wird, wird Sie weiterhin im Quellverzeichnis angezeigt, bis Sie vollständig in das Ziel verschoben wurde, und dann wird Sie gelöscht. Die Datei verbleiben nach Abschluss des Vorgangs im Papierkorb der Quell Websites und unterliegen dem normalen Wiederverwendungs Zeitplan, es sei denn, ein Benutzer stellt ihn aus dem Papierkorb wieder her.
+
+Weitere Informationen finden Sie unter:
+
+ - [Migrieren oder Kopieren von Dateien in SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Artikel zur Office-Unterstützung)
+ - [Migrieren von Dateien aus einem beliebigen Ordner in Office 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (Microsoft Tech Community Blog-Artikel) 

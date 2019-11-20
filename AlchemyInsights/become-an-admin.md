@@ -12,15 +12,15 @@ ms.custom:
 - "3"
 - "71"
 - "13"
-ms.openlocfilehash: 4bcf4a433fe5d49a61125dff60586ac717024da1
-ms.sourcegitcommit: 4ecd61b709d3ccb730dc120df9445754d5ae4f77
+ms.openlocfilehash: 33657fd68cdcbc4b9762e641156f9800b7b58f4b
+ms.sourcegitcommit: 4ba462af6cc00ea563f10c3f4a3d50e46962c166
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 11/19/2019
-ms.locfileid: "38704352"
+ms.locfileid: "38715419"
 ---
 # <a name="become-an-admin"></a>Administrator werden
 
 Um die Administratorrolle für Ihre Organisation zu übernehmen, müssen Sie den Mandanten in Office 365 übernehmen.
   
-Befolgen Sie die Anweisungen in diesem Handbuch: [Administrator Übernahme](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover#azure-ad-powershell-cmdlets-for-the-forcetakeover-option)
+Befolgen Sie die Anweisungen in diesem Handbuch: [Administrator Übernahme](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover)
