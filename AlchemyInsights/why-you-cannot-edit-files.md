@@ -1,7 +1,7 @@
 ---
 title: Dateien sind für die Bearbeitung gesperrt
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.date: 4/26/2018
 ms.audience: ITPro
@@ -9,18 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: b73797749acae52aae66875691669930e1589904
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.custom:
+- "9000123"
+- "1622"
+- "1713"
+ms.openlocfilehash: 3ac4abe4d48e2feb887dc0945434ec26c19a2cf6
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36748359"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049408"
 ---
 # <a name="why-cant-i-edit-files"></a>Warum kann ich Dateien nicht bearbeiten?
 
 Wenn ein Dokument, ein Arbeitsblatt oder eine Präsentation für die Bearbeitung gesperrt ist und nicht in den Windows-Desktopanwendungen geöffnet werden kann, kann es sein, dass die Datei bereits von einer anderen Person bearbeitet wird oder die Datei ausgecheckt ist. Lassen Sie uns einen kurzen Blick auf einige der Gründe werfen [, warum Sie die Datei möglicherweise nicht bearbeiten können](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
-Wenn Sie über Bibliotheken mit **Checkout, erforderliche** oder **Überprüfungs** Spalten oder Metadaten verfügen oder wenn die **Option "Entwurfselementsicherheit** " entweder **nur für Benutzer, die bearbeiten können** , oder **nur für Benutzer, die Elemente** in den Versionseinstellungen genehmigen können, festgelegt ist Bibliothek
+Wenn Sie über Bibliotheken mit **Checkout, erforderliche** oder **Überprüfungs** Spalten oder Metadaten verfügen oder wenn die **Option "Entwurfselementsicherheit** " entweder nur für Benutzer, die **bearbeiten können** , oder **nur für Benutzer, die Elemente** in den Versionseinstellungen der Bibliothek genehmigen können, festgelegt ist:
 
 - Für SharePoint-Dokumentbibliotheken werden diese Elemente schreibgeschützt synchronisiert.
 

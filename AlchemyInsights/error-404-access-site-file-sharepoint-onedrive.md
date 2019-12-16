@@ -1,17 +1,17 @@
 ---
 title: 'Fehler 404: die Datei wurde nicht gefunden.'
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d05755133bd3e335bea74c69f599b66e1c6017da
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 34e3ca6f66d42c89fdf21524bff96e0b3e1534d8
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769266"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052252"
 ---
 # <a name="error-404-file-not-found-in-sharepoint-or-onedrive"></a>Fehler 404: Datei wurde in SharePoint oder OneDrive nicht gefunden
 
