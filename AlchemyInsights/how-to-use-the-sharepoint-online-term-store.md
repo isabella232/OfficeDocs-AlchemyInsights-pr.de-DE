@@ -1,7 +1,7 @@
 ---
 title: Verwenden des SharePoint Online Term Store
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 12/17/2018
 ms.audience: ITPro
 ms.topic: article
@@ -11,18 +11,18 @@ ms.custom:
 - "1247"
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: 2b785f475c7f673acff3dd419883b136d7feb92e
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: c11c9cd8d0777d2e5dbdad61fdb0b8e4a25e53ca
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36754839"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049660"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a><span data-ttu-id="4c2b4-102">Verwenden des SharePoint Online Term Store</span><span class="sxs-lookup"><span data-stu-id="4c2b4-102">How to use the SharePoint Online Term store</span></span>
+# <a name="how-to-use-the-sharepoint-online-term-store"></a><span data-ttu-id="65c6e-102">Verwenden des SharePoint Online Term Store</span><span class="sxs-lookup"><span data-stu-id="65c6e-102">How to use the SharePoint Online Term store</span></span>
 
-<span data-ttu-id="4c2b4-103">Der Terminologiespeicher steht für ein Office 365 globaler Administrator, SharePoint-Administrator und Terminologiespeicher-Administratoren zur Verfügung und kann im neuen SharePoint Online Admin Center gefunden werden.</span><span class="sxs-lookup"><span data-stu-id="4c2b4-103">The Term Store is available to an Office 365 Global Admin, SharePoint Admin, and Term Store Admins and can be found in the new SharePoint Online admin center.</span></span>
+<span data-ttu-id="65c6e-103">Der Terminologiespeicher steht für ein Office 365 globaler Administrator, SharePoint-Administrator und Terminologiespeicher-Administratoren zur Verfügung und kann im neuen SharePoint Online Admin Center gefunden werden.</span><span class="sxs-lookup"><span data-stu-id="65c6e-103">The Term Store is available to an Office 365 Global Admin, SharePoint Admin, and Term Store Admins and can be found in the new SharePoint Online admin center.</span></span>
   
-<span data-ttu-id="4c2b4-104">Weitere Informationen zur Verwendung des SharePoint Online Term Store und der Taxonomie in SharePoint Online finden Sie unter [Introduction to Managed Metadata](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="4c2b4-104">For more information on how to use the SharePoint Online Term Store and taxonomy within SharePoint Online, see [Introduction to managed metadata](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).</span></span>
+<span data-ttu-id="65c6e-104">Weitere Informationen zur Verwendung des SharePoint Online Term Store und der Taxonomie in SharePoint Online finden Sie unter [Introduction to Managed Metadata](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="65c6e-104">For more information on how to use the SharePoint Online Term Store and taxonomy within SharePoint Online, see [Introduction to managed metadata](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).</span></span>
   
-<span data-ttu-id="4c2b4-105">Wenn Sie ein Problem mit Ausdrücken haben, die nicht oder nur sporadisch angezeigt werden, empfehlen wir, 24 Stunden zu warten und dann eine Supportanfrage zu protokollieren, wenn das Problem fortbesteht.</span><span class="sxs-lookup"><span data-stu-id="4c2b4-105">If you are having an issue with terms not appearing or appearing intermittently, we recommend you wait 24 hours, and then log a support request if the issue persists.</span></span> <span data-ttu-id="4c2b4-106">Obwohl 24 Stunden eine lange Zeit sein können, kann es zu einem zwischen Speicherungs Problem oder einer Lösung für dieses Problem werden.</span><span class="sxs-lookup"><span data-stu-id="4c2b4-106">Even though 24 hours can be a long time, there could be a caching issue or we may already be working on a solution to this problem.</span></span>
+<span data-ttu-id="65c6e-105">Wenn Sie ein Problem mit Ausdrücken haben, die nicht oder nur sporadisch angezeigt werden, empfehlen wir, 24 Stunden zu warten und dann eine Supportanfrage zu protokollieren, wenn das Problem fortbesteht.</span><span class="sxs-lookup"><span data-stu-id="65c6e-105">If you are having an issue with terms not appearing or appearing intermittently, we recommend you wait 24 hours, and then log a support request if the issue persists.</span></span> <span data-ttu-id="65c6e-106">Obwohl 24 Stunden eine lange Zeit sein können, kann es zu einem zwischen Speicherungs Problem oder einer Lösung für dieses Problem werden.</span><span class="sxs-lookup"><span data-stu-id="65c6e-106">Even though 24 hours can be a long time, there could be a caching issue or we may already be working on a solution to this problem.</span></span>
   
