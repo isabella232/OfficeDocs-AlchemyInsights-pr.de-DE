@@ -14,22 +14,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 0f3389fad573908fa80bd0c861b656f268446e61
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1af44290ce0795737c03c4eacac48906313aa5ea
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050920"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770458"
 ---
 # <a name="workflows-in-sharepoint"></a>Workflows in SharePoint
 
-SharePoint-Workflows sind vorprogrammierte Minianwendungen, die eine Vielzahl von Geschäftsprozessen rationalisieren und automatisieren. Workflows können vom Sammeln von Signaturen, Feedback oder Genehmigungen für einen Plan oder ein Dokument bis zum Verfolgen des aktuellen Status einer Routineprozedur reichen.
+SharePoint-Workflows sind vorgefertigte apps, die eine Vielzahl von Geschäftsprozessen rationalisieren. Weitere Informationen finden Sie unter den Links unten.
 
-**Erste Schritte:** Wenn Sie gerade erst mit SharePoint-Workflows arbeiten, finden Sie [Weitere Informationen unter Introduction to SharePoint Workflows](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
+## <a name="getting-started"></a>Erste Schritte
 
-**Microsoft Flow**: in diesem Fall sollten Sie Microsoft Flow anstelle der klassischen SharePoint-Workflowlösungen verwenden. Weitere Informationen finden Sie unter [Erstellen eines Ablaufs für eine Liste oder Bibliothek in SharePoint Online oder OneDrive](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+Wenn Sie gerade erst mit SharePoint-Workflows arbeiten, finden Sie weitere Informationen unter [Einführung in SharePoint-Workflows](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
 
-**Workflow-Problembehandlung und Debugging**:
+## <a name="troubleshoot-and-debug-a-sharepoint-workflow"></a>Problembehandlung und Debuggen eines SharePoint-Workflows
 
-Das Debuggen von Workflows ähnelt denen früherer Versionen. Weitere Informationen finden Sie unter [Debuggen von SharePoint-Workflows](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows). Weitere Informationen zur Problembehandlung finden Sie unter [Problembehandlung bei SharePoint Server Workflow Validierungsfehlern](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+Siehe [Problembehandlung bei SharePoint-Workflow Validierungsfehlern](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) und [Debuggen von SharePoint-Workflows](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
 
+## <a name="power-automate"></a>Power-Automatisierung
+
+In diesem Fall sollten Sie [Power automatisieren](https://docs.microsoft.com/power-automate/modern-approvals) anstelle der klassischen SharePoint-Workflowlösungen verwenden.

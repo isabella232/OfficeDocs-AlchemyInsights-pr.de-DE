@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2499"
-ms.openlocfilehash: 8ca9b323800a43d968192cef39b2b84d4c38e762
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: db22c9f8fd073825eb4d6901d9110e778e469936
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541710"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771034"
 ---
 # <a name="how-to-close-your-desktop-analytics-account"></a>So schließen Sie Ihr Desktop Analytics-Konto
 
 Wenn Sie Desktop Analyse in Ihrer Umgebung einrichten und dann entscheiden, dass Sie Sie entfernen möchten, verwenden Sie den Prozess im folgenden Link:
 
-[So schließen Sie Ihr Konto](https://docs.microsoft.com/sccm/desktop-analytics/account-close)
+[So schließen Sie Ihr Konto](https://docs.microsoft.com/configmgr/desktop-analytics/account-close)
 
 Der erste Schritt besteht darin, sich an den Microsoft-Support zu wenden. Öffnen Sie eine Supportanfrage, um Ihr Desktop Analytics-Konto zu schließen. Fahren Sie nicht mit weiteren Schritten fort, bis Sie eine Bestätigung erhalten, dass Microsoft Ihr Konto geschlossen hat.

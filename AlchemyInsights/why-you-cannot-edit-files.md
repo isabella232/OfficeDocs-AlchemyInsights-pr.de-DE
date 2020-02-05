@@ -13,16 +13,16 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3ac4abe4d48e2feb887dc0945434ec26c19a2cf6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8fd1ab642b205ddabeaab9da52f8b41f594753f4
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049408"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771142"
 ---
 # <a name="why-cant-i-edit-files"></a>Warum kann ich Dateien nicht bearbeiten?
 
-Wenn ein Dokument, ein Arbeitsblatt oder eine Präsentation für die Bearbeitung gesperrt ist und nicht in den Windows-Desktopanwendungen geöffnet werden kann, kann es sein, dass die Datei bereits von einer anderen Person bearbeitet wird oder die Datei ausgecheckt ist. Lassen Sie uns einen kurzen Blick auf einige der Gründe werfen [, warum Sie die Datei möglicherweise nicht bearbeiten können](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Werfen Sie einen kurzen Blick auf einige der Gründe [, warum Sie die Datei möglicherweise nicht bearbeiten können](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
 Wenn Sie über Bibliotheken mit **Checkout, erforderliche** oder **Überprüfungs** Spalten oder Metadaten verfügen oder wenn die **Option "Entwurfselementsicherheit** " entweder nur für Benutzer, die **bearbeiten können** , oder **nur für Benutzer, die Elemente** in den Versionseinstellungen der Bibliothek genehmigen können, festgelegt ist:
 

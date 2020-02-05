@@ -1,5 +1,5 @@
 ---
-title: Löschen einer Websitesammlung in SharePoint
+title: Löschen einer Website
 ms.author: pebaum
 author: pebaum
 ms.date: 6/20/2019
@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: e15682af9069f8cd9e8f2893100a0044a51b2f04
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8aa4c604c96e4bef0093ea4abc3cabd0c6a7d90e
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053008"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770386"
 ---
-# <a name="delete-a-site-collection"></a>Löschen einer Websitesammlung
+# <a name="delete-a-site"></a>Löschen einer Website
 
-Wenn Sie als globaler oder SharePoint-Administrator in Office 365 eine Website (zuvor als "Websitesammlung" bezeichnet) löschen, wird Sie in den Papierkorb der Websitesammlung verschoben und für 93 Tage aufbewahrt. 
+Wenn Sie eine Website löschen, wird Sie in die [gelöschten Websites](https://admin.microsoft.com/sharepoint) verschoben und für 93 Tage aufbewahrt. Wechseln Sie zum Löschen einer Website zu [aktive Websites](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
 
 Wenn Sie eine Website löschen, werden alle darin enthaltenen Elemente gelöscht, einschließlich:
 
@@ -26,6 +26,6 @@ Wenn Sie eine Website löschen, werden alle darin enthaltenen Elemente gelöscht
 - Websiteeinstellungen und Verlauf.
 - Alle Unterwebsites und deren Inhalte.
 
-Sie sollten die Websiteadministratoren und alle Unterwebsite Besitzer Benachrichtigen, bevor Sie eine Website löschen, damit Sie Ihre Daten an einen anderen Speicherort verlagern und Benutzern auch mitteilen können, wann die Websites gelöscht werden. 
+Sie sollten die Websiteadministratoren und alle Unterwebsite Besitzer Benachrichtigen, bevor Sie eine Website löschen, damit Sie Ihre Daten an einen anderen Speicherort verlagern und Benutzer darüber informieren können, wann die Websites gelöscht werden.
 
-Weitere Informationen finden Sie unter [Löschen einer Websitesammlung](https://docs.microsoft.com/sharepoint/delete-site-collection). 
+Weitere Informationen finden Sie unter [Löschen einer Website](https://docs.microsoft.com/sharepoint/delete-site-collection).

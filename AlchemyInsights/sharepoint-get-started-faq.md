@@ -10,16 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 03b450640ba5ca62bf05e7365d1759ed478648f8
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 2bc6f684916bebecfdcc60a26890ed212cec5795
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051532"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771178"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Online häufig auftretenden Probleme und Lösungen
 
 Im folgenden werden einige häufig angeforderte Themen für SharePoint Online Probleme aufgeführt:
+
+- **Erste Schritte**: Verwenden Sie das [SharePoint-suchbuch](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) , um ein schönes, leistungsfähiges Intranet zu erstellen, das den Arbeitsplatz verbindet. Siehe [Beispiele](https://lookbook.microsoft.com/) und Abrufen von [Entwurfsanleitungen](https://spdesign.azurewebsites.net/). Eine allgemeine Einführung in SharePoint Online finden Sie unter Einführung [in SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) .
 
 - **Berechtigungen**: [Erstellen einer Berechtigungsstrategie](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) und Grund [Legendes zu Berechtigungsstufen](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
@@ -33,4 +35,4 @@ Im folgenden werden einige häufig angeforderte Themen für SharePoint Online Pr
 
 - **Modernisieren von SharePoint**: Überprüfen Sie den [Leitfaden für die moderne Benutzeroberfläche in SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) , und [modernisieren Sie Ihre klassischen SharePoint-Websites](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) , um die Migration zu starten.
 
-- **Erste Schritte**: Hier erhalten Sie Informationen zu den [ersten Schritten mit SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) mit Website Verwaltungsstrategien.
+**Hinweis:** Wenn Sie eine spezifischere Antwort zu einem SharePoint-Problem erhalten möchten, formulieren Sie Ihre Frage kurz neu, und schließen Sie alle Fehler ein, die Sie sehen oder von Ihnen verwendete Features sind.
