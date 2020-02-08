@@ -8,19 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
-ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
+ms.openlocfilehash: 5da73df5e7b09faf13fcf911dcc11a6e11540497
+ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "37611696"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "41855550"
 ---
 # <a name="follow-or-un-follow-a-sharepoint-site"></a>Verfolgen einer SharePoint-Website oder deinstallieren Sie diese
 
-Es gibt mehrere Möglichkeiten, Websites, Nachrichten und Inhalte zu finden und zu befolgen, die Sie in SharePoint interessieren. Auf diese Weise können Sie die Informationen ganz einfach in Ihrer Liste finden, und Sie können Aktivitäten von SharePoint aus anzeigen.
+Führen Sie die folgenden Schritte aus, wenn Benutzern Probleme folgen oder nicht folgende SharePoint-Ressourcen auftreten:
 
-Schauen Sie sich das Video an, um [Websites und Neuigkeiten zu finden und zu verfolgen](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).
-
-Wenn Sie eine Website, Nachrichten oder Inhalte nicht folgen oder nicht folgen können und das Ergebnis nicht den erwarteten Ergebnissen entspricht, prüfen Sie, ob das Problem mit einem einzelnen Benutzer oder allen Benutzern in Ihrer Organisation zusammenhängen. Wenn das Problem von allen Benutzern erkannt wird, liegt möglicherweise ein vorübergehendes Dienst Problem vor.
-
-Überprüfen Sie das [Dienststatus-Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , um zu sehen, ob Ihre Organisation betroffen ist.
+* Bitten Sie den Benutzer, sich abzumelden und sich wieder bei SharePoint anzumelden, und führen Sie die gleichen Schritte aus, um die SharePoint-Ressource zu folgen/zu befolgen.
+* Ermitteln Sie, ob das Problem auf einer bestimmten Website oder auf allen Websites liegt. Wenn das Problem bei bestimmten Websites auftritt, stellen Sie sicher, dass das Feature "folgende Inhalte" für die Website aktiv ist, indem Sie zu **Websiteeinstellungen wechseln #a0 Website Features #a1 folgenden Inhalten verwalten**. Wenn das Feature auf aktiv festgelegt ist, versuchen Sie, das Feature für die Website erneut zu deaktivieren und zu aktivieren.
+* Fordern Sie den Benutzer auf, einen anderen Internet Browser zu testen, um festzustellen, ob das Problem für den Browser des Benutzers spezifisch ist.
+* Wenn alle Benutzer und alle Standorte das gleiche Problem haben, überprüfen Sie das [Dienststatus-Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , um zu sehen, ob Ihre Organisation betroffen ist.
