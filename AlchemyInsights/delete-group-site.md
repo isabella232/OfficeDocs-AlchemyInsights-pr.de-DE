@@ -14,21 +14,20 @@ ms.custom:
 - "567"
 - "5200006"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 0ecb317a0dfb760e459b35b6bff86006c06dc0d6
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 50ea1d0e63dc3ee00a9b246855dae553ef162d23
+ms.sourcegitcommit: 8ba12eff67e405f5922ea4cc35155e3036447859
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770494"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42056097"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Löschen einer SharePoint-Website, die zu einer Office 365 Gruppe gehört
 
-Globale Administratoren und SharePoint-Administratoren können jetzt Websites löschen, die zu einer Office 365 Gruppe gehören. Durch das Löschen dieser Websites werden die Gruppe und alle zugehörigen Ressourcen gelöscht, einschließlich des Outlook-Postfachs und-Kalenders sowie aller Teams-Kanäle.
+Durch das Löschen einer mit einer Gruppe verbundenen Website werden die Gruppe und alle zugehörigen Ressourcen gelöscht, einschließlich des Outlook-Postfachs und-Kalenders sowie aller Teams-Kanäle.
   
 Wichtig:
 
-- Sie können gelöschte Websites für 93 Tage wiederherstellen. Gelöschte Gruppen müssen innerhalb von 30 Tagen wiederhergestellt werden. [Anzeigen und Wiederherstellen gelöschter Websites](https://admin.microsoft.com/sharepoint) direkt aus dem SharePoint Admin Center. [Zeigen Sie gelöschte Gruppen an, und stellen Sie Sie wieder her](https://outlook.office.com/people/group/deleted), indem Sie **Gruppen verwalten**auswählen, und wählen Sie dann **gelöscht**aus.
-- Wenn die Website Teil einer Aufbewahrungsrichtlinie ist, können Sie Sie möglicherweise erst löschen, wenn die Website aus dem [Security &amp; Compliance Admin Center](https://protection.office.com/?rfr=AdminCenter#/retention)entfernt wurde. Weitere Informationen finden Sie unter [Übersicht über Aufbewahrungsrichtlinien](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) .
+- Sie können gelöschte Websites für 93 Tage wiederherstellen. Gelöschte Gruppen müssen innerhalb von 30 Tagen wiederhergestellt werden. [Anzeigen und Wiederherstellen gelöschter Websites](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) direkt aus dem [SharePoint Admin Center](https://admin.microsoft.com/sharepoint?page=home&modern=true). Zum [anzeigen und Wiederherstellen **gelöschter Gruppen**](https://outlook.office.com/people/group/deleted)wählen Sie **Gruppen verwalten**aus, und klicken Sie dann auf **gelöscht**.
+- Wenn die Website Teil einer Aufbewahrungsrichtlinie ist, können Sie Sie möglicherweise erst löschen, wenn die Website aus dem [Admin Center Security & Compliance](https://protection.office.com/?rfr=AdminCenter#/retention)entfernt wurde. Weitere Informationen finden Sie in der [Übersicht über Aufbewahrungsrichtlinien](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites).
   
-Wählen Sie zum [anzeigen und Wiederherstellen gelöschter Websites](https://admin.microsoft.com/sharepoint)den gelöschten Standort aus, und wählen Sie entweder **Wiederherstellen** oder **Löschen** (wodurch die Website endgültig gelöscht wird). [Löschen Sie eine aktive Website](https://admin.microsoft.com/sharepoint) direkt aus dem SharePoint Admin Center, indem Sie die Website auswählen und dann **Löschen**auswählen. Weitere Informationen finden Sie unter [Verwalten von Websites im neuen SharePoint Admin Center](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
-  
+Weitere Informationen finden Sie unter [Verwalten von Websites im neuen SharePoint Admin Center](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).

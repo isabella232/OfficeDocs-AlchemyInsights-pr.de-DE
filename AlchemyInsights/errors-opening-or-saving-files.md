@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: 9a205a6646d28fbb151d229719a104d6af383a92
-ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
+ms.openlocfilehash: fdf7dbbfb3ef7b59a77365348344a5851eb0c55a
+ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37026959"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42031613"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>Beheben von Fehlern beim Öffnen oder Speichern von Word-Dateien
 
@@ -25,6 +25,7 @@ Wenn beim Öffnen oder Speichern von Word-Dokumenten Probleme auftreten, versuch
 - [Installieren von Office-Updates](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5) Eine Liste der neuesten Office-Updates finden Sie unter [Latest Updates](https://docs.microsoft.com/officeupdates/office-updates-msi).
 - [Problembehandlung bei beschädigten Dokumenten in Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
 - [Reparieren einer Office-Anwendung](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
+- Wenn das Dokument nachverfolgte Änderungen enthält, verwenden Sie die Vorschläge in [Word verlangsamt oder reagiert nicht mehr, wenn übermäßige nachverfolgte Änderungen oder Kommentare](https://docs.microsoft.com/en-us/office/troubleshoot/word/word-stops-responding) zur Behebung des Problems vorliegen.
 
 Wenn Sie einen Fehler wie den folgenden erhalten haben, verwenden Sie die Vorschläge in [Fehlermeldung in Office, wenn eine Datei durch Registrierungsrichtlinieneinstellungen blockiert wird](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office):
 
