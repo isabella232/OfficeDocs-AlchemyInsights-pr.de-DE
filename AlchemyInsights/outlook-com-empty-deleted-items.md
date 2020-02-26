@@ -3,6 +3,7 @@ title: Leeren des Ordners "Gelöschte Elemente" in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
+ms.date: 2/25/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 82a336cff5e7bbde59d99acf91e5375fd3493474
+ms.sourcegitcommit: b20f110ca1002e7e190632cabb914e7825b1dbfc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768691"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42277930"
 ---
 # <a name="empty-the-deleted-items-folder"></a>Leeren des Ordners "Gelöschte Elemente"
 
-Wenn Sie alle gelöschten Outlook-Nachrichten löschen möchten, wechseln Sie zum [Ordner Gelöschte Elemente](https://outlook.live.com/mail/deleteditems), und wählen Sie **leeren Ordner**aus, und wählen Sie dann  **aus diesem Ordner Gelöschte Elemente wiederherstellen**oberhalb der Nachrichtenliste aus, und wählen Sie erneut **leeren Ordner** aus.
+1. Öffnen Sie den Ordner Gelöschte Elemente, und wählen Sie **leeren Ordner**aus.
+2. Wählen Sie wieder **herstellbare Elemente** oben auf der Seite aus, und wählen Sie erneut **leeren Ordner** aus.
 
-Wenn Sie viele Nachrichten gelöscht haben, kann es einige Zeit dauern, bis diese Elemente in den Ordner "Gelöschte Elemente" wechseln oder gelöscht werden. Lassen Sie das Browserfenster geöffnet, bis die Elemente gelöscht wurden.
+**Der Ordner "Gelöschte Elemente" kann nicht geleert werden**
 
-Wenn Nachrichten nicht ordnungsgemäß gelöscht werden, versuchen Sie, eine kleinere Anzahl von Nachrichten zu löschen.
+- Wenn Sie viele e-Mails gelöscht haben, kann es einige Zeit dauern, bis diese Elemente in den Ordner "Gelöschte Elemente" wechseln oder aus diesem gelöscht werden. Lassen Sie das Browserfenster geöffnet, während das Löschen erfolgt.
+- Wenn die e-Mail immer noch nicht ordnungsgemäß gelöscht wird, wählen Sie einen kleineren zu löschenden Batch aus.
+- Wenn gelöschte e-Mails zurückkommen, kann dies daran liegen, dass Sie kürzlich viele e-Mails gelöscht haben. Versuchen Sie es bitte später erneut.
