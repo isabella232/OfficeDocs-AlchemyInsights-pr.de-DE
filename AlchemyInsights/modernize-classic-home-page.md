@@ -11,16 +11,18 @@ ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: f012aedd1d133b8706b4dbdc296ae6ca19942a06
-ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
+ms.openlocfilehash: 92da79ff6f5fe3bdb7810abae35482c8ecfc5efe
+ms.sourcegitcommit: 3da9d729256b978a95034fcf64b868fcc0e8012b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "41855757"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "42322753"
 ---
 # <a name="modernize-the-classic-home-page"></a>Modernisieren der klassischen Startseite
 
 Eine aktuelle Aktualisierung der klassischen SharePoint-Teamwebsite-Homepages wirkt sich auf die Homepage von klassischen Teamwebsites (STS # 0) aus, wenn eine Startseite *nur Out-of-the-Box-Standardwebparts* wie erste Schritte, Dokumentbibliothek und Newsfeed enthält.
+
+[Hier finden](https://docs.microsoft.com/en-us/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif)Sie eine Übersicht über die Änderungen. 
 
 **Hinweis: klassische Teamwebsites, die angepasste Inhalte enthalten, werden nicht automatisch aktualisiert.**
 
