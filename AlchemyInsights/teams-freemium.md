@@ -11,17 +11,19 @@ ms.custom:
 - "997"
 - "6500005"
 ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685yeah
-ms.openlocfilehash: 3df8cb761c3a9a64cc1d249f44707b0bdeefebea
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bac77a9b65dbcd57ee14a533e63ef95719356291
+ms.sourcegitcommit: 8a423159bb9bb8259357bbfa4ebc6e56a2c8ecb1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354004"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42556651"
 ---
-# <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>Ich möchte mich für Teams kostenlos registrieren, aber ich kann nicht.
+# <a name="id-like-to-sign-up-for-teams-for-free"></a>Ich möchte mich kostenlos für Teams registrieren
 
-- Wenn Sie ein Office 365 geschäftliches oder Schulkonto verwenden, ist dieses ﻿kostenlose Angebot nicht verfügbar. Ihre Organisation verwendet jedoch möglicherweise bereits Teams. Wenn nicht, gehen Sie zu [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) , um zu sehen, ob es für eine ﻿kostenlose Testversion geeignet ist.
+Microsoft Teams steht kostenlos über ein paar verschiedene Programme zur Verfügung. Da Sie den Support mit dieser Anforderung kontaktieren, verfügen Sie bereits über einen vorhandenen Microsoft 365-Mandanten, was bedeutet, dass Sie bereits über Microsoft Teams verfügen.
 
-- Akademische Einrichtungen sind für dieses ﻿kostenlose Angebot nicht berechtigt. Lehrer und Schüler können jedoch eine ﻿kostenlose Version von Office 365 erhalten, die eine Vollversion von Microsoft Teams enthält. Weitere Informationen finden Sie unter [Office 365 Lizenzierung für Microsoft Teams](https://docs.microsoft.com/microsoftteams/office-365-licensing).
+In den meisten Fällen ist Microsoft Teams standardmäßig für alle Ihre Benutzer aktiviert. Sobald Sie aktiviert ist, können die Benutzer Microsoft Teams ausführen, indem Sie [Desktop](https://office.visualstudio.com/MAX/_workitems/edit/desktop) -und [Mobile](https://office.visualstudio.com/MAX/_workitems/edit/desktop) Clients installieren oder [über den Browser](https://docs.microsoft.com/en-us/MicrosoftTeams/get-clients#mobile-clients) unter https://teams.microsoft.com.
 
-- US-Regierungsinstitutionen sind für dieses ﻿kostenlose Angebot nicht berechtigt. Wenn Sie mehr über Office 365 Pläne für Regierungsorganisationen (einschließlich einer kostenlosen Testversion) erfahren möchten, lesen Sie [Office 365 Lizenzierung für Microsoft Teams](https://docs.microsoft.com/microsoftteams/office-365-licensing).
+Die Ausnahme hiervon ist Microsoft Teams für Bildungseinrichtungen (edu). Wenn Sie über eine edu-Lizenz verfügen, müssen Sie Microsoft Teams manuell aktivieren. Wechseln Sie dazu zum Microsoft 365 Admin Center **> Dienste und Add-Ins > Microsoft Teams**. Wenn Sie das neue Teamadministrator Center verwenden, müssen Sie **das neue Admin Center** zum Suchen von **Diensten und Add-ins**deaktivieren. Wichtig: möglicherweise müssen Sie bis zu 24 Stunden warten, bis die Änderungen wirksam werden.
+
+Verpassen Sie nicht all unsere Anleitungen für die [Unterstützung von Remotemitarbeitern mit Microsoft Teams](https://docs.microsoft.com/en-us/MicrosoftTeams/support-remote-work-with-teams).
