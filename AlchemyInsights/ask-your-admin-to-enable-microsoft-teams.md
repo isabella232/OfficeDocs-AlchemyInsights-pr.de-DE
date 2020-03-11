@@ -12,15 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
-ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
+ms.openlocfilehash: 7b561101ebdea51c5968a777c488f61dc4dd206b
+ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/13/2020
-ms.locfileid: "41962296"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42573131"
 ---
 # <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Sie vermissen es! Bitten Sie Ihren Administrator, Microsoft Teams zu aktivieren.
 
-Können Lehrkräfte und Mitarbeiter auf Teams zugreifen, aber die Kursteilnehmer können nicht, oder sind Ihre F1-lizenzierten Benutzer nicht in der Lage, auf Teams zuzugreifen?
+Wenn Sie über einen edu-Mandanten verfügen, müssen Sie Microsoft Teams manuell aktivieren. Wechseln Sie dazu zum Microsoft 365 Admin Center > **Dienste und Add-Ins > Microsoft Teams**. Wenn Sie das neue Teamadministrator Center verwenden, müssen Sie **das neue Admin Center** zum Suchen von **Diensten und Add-ins**deaktivieren. 
 
-Teams müssen für Schüler und F1-Lizenzen explizit aktiviert sein. Ausführliche Anweisungen zum Aktivieren von Teams für Ihre Schule finden Sie unter [configure Teams for Education](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education). 
+**Wichtig**: möglicherweise müssen Sie bis zu 24 Stunden warten, bis die Änderungen wirksam werden.

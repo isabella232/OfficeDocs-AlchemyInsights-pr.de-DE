@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: dbd1cd9db4830278703a2dfb8d0541e9f706a326
-ms.sourcegitcommit: dc3f616893e02c72e8cdf4700b1c49ccfa12a975
+ms.openlocfilehash: 1aa8876dd56010f9b45c56c4bf7e8db9ca8539e6
+ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42365136"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42584476"
 ---
 # <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Verwenden von Snip & Skizze zum erfassen, markieren und Freigeben von Bildern
 
@@ -27,7 +27,8 @@ Die Bildschirmskizze wird nun als **Snip & Skizze**bezeichnet. **So führen Sie 
 2. Wählen Sie einen Punkt am Rand des Bereichs aus, den Sie kopieren möchten, und klicken Sie mit der linken Maustaste auf den Cursor. 
 
 3. Bewegen Sie den Cursor, um den Bereich hervorzuheben, den Sie erfassen möchten. Der erfasste Bereich wird auf dem Bildschirm angezeigt.
-:::image type="content" source="media/snipone.png" alt-text="Bild der markierten Auswahl":::
+
+   ![Bild der markierten Auswahl](media/snipone.png)
 
 Das Bild, das Sie geschnitten haben, wird in der Zwischenablage gespeichert und kann in eine e-Mail oder ein Dokument eingefügt werden. 
 
@@ -35,4 +36,4 @@ Das Bild, das Sie geschnitten haben, wird in der Zwischenablage gespeichert und 
 
 - Klicken Sie auf das Symbol Benachrichtigungen auf der rechten Seite der Taskleiste; Klicken Sie dann auf das Bild, das Sie soeben erfasst haben. Ihr Snip wird in der App "Snip & Sketch" geöffnet.
 
-:::image type="content" source="media/sniptwo.png" alt-text="in der Ausschnitt-App angezeigte Bild Grafik":::
+   ![Bild der in der Ausschnitt-App angezeigten Grafik](media/sniptwo.png)
