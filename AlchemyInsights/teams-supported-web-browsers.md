@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001490"
 - "3540"
-ms.openlocfilehash: 2fe3226c542ba3778751c7f20aa2daa421743354
-ms.sourcegitcommit: a92e2bad1e89367307e78a514b8c4e456640daff
+ms.openlocfilehash: 273edf85c9beec35d3b9cace03b809dde0db01c3
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42564215"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599375"
 ---
-# <a name="teams-supported-web-browsers"></a><span data-ttu-id="6a76a-102">Von Microsoft Teams unterstützte Webbrowser</span><span class="sxs-lookup"><span data-stu-id="6a76a-102">Teams-supported web browsers</span></span>
+# <a name="teams-supported-web-browsers"></a><span data-ttu-id="2a9c1-102">Von Microsoft Teams unterstützte Webbrowser</span><span class="sxs-lookup"><span data-stu-id="2a9c1-102">Teams-supported web browsers</span></span>
 
-<span data-ttu-id="6a76a-103">Microsoft Teams unterstützt die im Artikel " [Limits and Specifications" für Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/limits-specifications-teams#browsers)aufgelisteten Internet Browser mit festgestellten Ausnahmen für Anrufe und Besprechungen vollständig.</span><span class="sxs-lookup"><span data-stu-id="6a76a-103">Teams fully supports the Internet browsers listed in the article, [Limits and specifications for Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/limits-specifications-teams#browsers), with noted exceptions for calling and meetings.</span></span>
+<span data-ttu-id="2a9c1-103">Microsoft Teams unterstützt die im Artikel " [Limits and Specifications" für Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers)aufgelisteten Internet Browser mit festgestellten Ausnahmen für Anrufe und Besprechungen vollständig.</span><span class="sxs-lookup"><span data-stu-id="2a9c1-103">Teams fully supports the Internet browsers listed in the article, [Limits and specifications for Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers), with noted exceptions for calling and meetings.</span></span>
