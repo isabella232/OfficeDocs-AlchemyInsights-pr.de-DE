@@ -13,12 +13,12 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: d523ab51852cf771fb260d0050fbe92d4578ff76
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: 6f45dbdbfa89711fa2472a1f0b9f8e630faeb91e
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908744"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599483"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft Teams, die mit Office-Updates installiert sind
 
@@ -32,6 +32,6 @@ Wenn Ihre Organisation nicht bereit ist, Teams bereitzustellen, können Sie Team
 
 Informationen zum ***Deinstallieren von Teams*** von einem Gerät mit Windows finden Sie unter Deinstallieren von [Microsoft Teams](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81). Informationen zum Bereinigen von Microsoft Teams von mehreren Zielcomputern oder Benutzern finden Sie unter [Microsoft Teams-Bereitstellungs Bereinigung](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
 
-Wenn Sie freigegebene Computer, Remote Desktop Dienste (RDS) oder virtuelle Desktopinfrastruktur (VDI) verwenden, finden Sie weitere Informationen unter [Shared Computer and VDI Environments with Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams). Wenn Sie Office für Mac verwenden, finden Sie weitere Informationen unter [Microsoft Teams-Installationen auf einem Mac](https://docs.microsoft.com/en-us/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+Wenn Sie freigegebene Computer, Remote Desktop Dienste (RDS) oder virtuelle Desktopinfrastruktur (VDI) verwenden, finden Sie weitere Informationen unter [Shared Computer and VDI Environments with Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams). Wenn Sie Office für Mac verwenden, finden Sie weitere Informationen unter [Microsoft Teams-Installationen auf einem Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
 
 **Hinweis:** Nachdem Microsoft Teams installiert wurde, wird es automatisch etwa alle zwei Wochen mit neuen Features und Qualitäts Updates [aktualisiert](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) . 

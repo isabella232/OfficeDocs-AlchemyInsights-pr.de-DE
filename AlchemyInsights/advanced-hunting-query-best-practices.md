@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001220"
 - "3498"
-ms.openlocfilehash: e0e6f6409b5d9521ff50c142c3d78c81d1930215
-ms.sourcegitcommit: 8ba12eff67e405f5922ea4cc35155e3036447859
+ms.openlocfilehash: e9752434b5f525e442ed73a30ae349edf0d12400
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42063651"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599303"
 ---
 # <a name="advanced-hunting-query-best-practices"></a>Bewährte Methoden für Erweiterte Suchanfragen
 
-Ausführliche Empfehlungen und Anleitungen zu folgenden Themen finden Sie im vollständigen Artikel [Advanced Hunting Query Best Practices](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) .
+Ausführliche Empfehlungen und Anleitungen zu folgenden Themen finden Sie im vollständigen Artikel [Advanced Hunting Query Best Practices](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) .
 - Optimieren der Abfrageleistung.
 - Abfrage Tipps und Fallstricke.
 - Abfragen mit Befehlszeilen.

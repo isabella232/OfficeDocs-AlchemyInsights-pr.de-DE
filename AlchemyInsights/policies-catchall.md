@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: c4694399b9ae5aa459357ed1610cccae762c0374
-ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.openlocfilehash: 7c0c5becb7cd3182357e1a9c83e76215c3ab6b44
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38274883"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599951"
 ---
 # <a name="teams-policies"></a>Teams-Richtlinien
 
@@ -27,7 +27,7 @@ Microsoft Teams-Einstellungen werden durch Richtlinien gesteuert. Um eine Änder
 Microsoft Teams-Richtlinien sind in die folgenden Bereiche unterteilt:
 
 - [Teams-Richtlinien](https://docs.microsoft.com/MicrosoftTeams/teams-policies) steuern die Benutzer Ermittlung von privaten Teams bei der Suche und Erstellung privater Kanäle.  
-- [Besprechungsrichtlinien](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) steuern, was Benutzer mit Microsoft Teams-Besprechungen tun können, einschließlich der Steuerung der Lobby. Hilfe zu Problemen mit der Lobby, wie das Konfigurieren von Teams für die Zulassung von Benutzern, finden Sie unter [Control Lobby settings and participates of participation](https://docs.microsoft.com/en-us/alchemyinsights/bypass-lobby).
+- [Besprechungsrichtlinien](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) steuern, was Benutzer mit Microsoft Teams-Besprechungen tun können, einschließlich der Steuerung der Lobby. Hilfe zu Problemen mit der Lobby, wie das Konfigurieren von Teams für die Zulassung von Benutzern, finden Sie unter [Control Lobby settings and participates of participation](https://docs.microsoft.com/alchemyinsights/bypass-lobby).
 - [Messaging Richtlinien](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) steuern, was Benutzer mit Chat und Nachrichten durchführen können, einschließlich der Aktivierung oder Deaktivierung von Chats, Löschen von Chats, Anfordern von Lesebestätigungen, verwenden von giphys und Aufklebern und vieles mehr.
 - [App-Setup Richtlinien](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) steuern, welche apps Benutzern zur Verfügung stehen, einschließlich benutzerdefinierter und Drittanbieter-apps und der Reihenfolge, in der Sie angezeigt werden.  
 - Daten [Aufbewahrungsrichtlinien](https://docs.microsoft.com/microsoftteams/retention-policies) für Teams finden Sie im Office 365 Security and Compliance Center.

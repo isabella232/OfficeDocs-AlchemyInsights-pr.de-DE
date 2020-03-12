@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3771"
-ms.openlocfilehash: 06ec178a2012872a0a4d5462b795229aeca67016
-ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
+ms.openlocfilehash: 74aa7e926604e62054100b8a99d62fe403dd3b16
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42371608"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600527"
 ---
 # <a name="microsoft-stream-external-sharing"></a>Microsoft Stream-externe Freigabe
 
 Microsoft Stream unterstützt noch keine externen Freigabeszenarien für Gäste oder Personen außerhalb Ihrer Organisation. Wir wissen, dass diese Features dringend erforderlich sind, und wir arbeiten an Plänen zur Erstellung dieser Features.
 
-- [Externe Freigabe im Datenstrom](https://docs.microsoft.com/en-us/stream/portal-share-video#external-sharing)
+- [Externe Freigabe im Datenstrom](https://docs.microsoft.com/stream/portal-share-video#external-sharing)
 
-- [Freigeben Ihrer Videos in Microsoft Stream](https://docs.microsoft.com/en-us/stream/portal-share-video)
+- [Freigeben Ihrer Videos in Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)
