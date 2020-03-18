@@ -6,25 +6,25 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001670"
 - "3737"
-ms.openlocfilehash: 9b0764e6315dba48ad7634a0668468fcff8408f4
-ms.sourcegitcommit: 2561248cfa1a562504183d84e2252deb60e6588a
-ms.translationtype: MT
+- "3820"
+ms.openlocfilehash: e7c28230c90f61dd61b48941786c9218e06b6495
+ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42632666"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42707371"
 ---
-# <a name="use-rights-management-protection-with-microsoft-365"></a><span data-ttu-id="f843e-102">Verwenden von Rights Management Protection mit Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="f843e-102">Use Rights Management Protection with Microsoft 365</span></span>
+# <a name="use-rights-management-protection-with-microsoft-365"></a><span data-ttu-id="6ac25-102">Verwenden von Rights Management Protection mit Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="6ac25-102">Use Rights Management Protection with Microsoft 365</span></span>
 
-<span data-ttu-id="f843e-103">Sie müssen den [Rechteverwaltungsdienst (Rights Management Service, RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) aktivieren, bevor Sie die IRM-Funktionen (Information Rights Management, Verwaltung von Informationsrechten) von Office 365 Anwendungen und Diensten verwenden können.</span><span class="sxs-lookup"><span data-stu-id="f843e-103">You must activate the [Rights Management service (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) before you can use the Information Rights Management (IRM) features of Office 365 applications and services.</span></span>
+<span data-ttu-id="6ac25-103">Sie müssen den [Rights Management Service (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) aktivieren, bevor Sie die Information Rights Management(IRM)-Features von Office 365-Anwendungen und -Diensten verwenden können.</span><span class="sxs-lookup"><span data-stu-id="6ac25-103">You must activate the [Rights Management service (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) before you can use the Information Rights Management (IRM) features of Office 365 applications and services.</span></span>
 
-1. <span data-ttu-id="f843e-104">Informationen zu Lizenzanforderungen und Aktivierung aus dem **Microsoft 365 Admin Center**finden Sie unter [How to Activate Rights Management Protection from Microsoft 365 Admin Center](https://docs.microsoft.com/azure/information-protection/activate-office365).</span><span class="sxs-lookup"><span data-stu-id="f843e-104">For license requirements and activation from the **Microsoft 365 admin center**, see [How to activate Rights Management Protection from Microsoft 365 Admin Center](https://docs.microsoft.com/azure/information-protection/activate-office365).</span></span> <span data-ttu-id="f843e-105">**Hinweis**: erfordert ein globales Administratorkonto.</span><span class="sxs-lookup"><span data-stu-id="f843e-105">**Note**: Requires Global Administration Account.</span></span>
+1. <span data-ttu-id="6ac25-104">Informationen zu den Lizenzanforderungen und zur Aktivierung von **Microsoft 365 Admin Center** finden Sie unter [Vorgehensweise zur Aktivierung von Rights Management Protection im Microsoft 365 Admin Center](https://docs.microsoft.com/azure/information-protection/activate-office365).</span><span class="sxs-lookup"><span data-stu-id="6ac25-104">For license requirements and activation from the **Microsoft 365 admin center**, see [How to activate Rights Management Protection from Microsoft 365 Admin Center](https://docs.microsoft.com/azure/information-protection/activate-office365).</span></span> <span data-ttu-id="6ac25-105">**Hinweis**: erfordert globales Administratorkonto.</span><span class="sxs-lookup"><span data-stu-id="6ac25-105">**Note**: Requires Global Administration Account.</span></span>
 
-2. <span data-ttu-id="f843e-106">Informationen zu Lizenzanforderungen und Aktivierung aus dem **Azure-Portal**finden Sie unter [Aktivieren des Rights Management Protection-Diensts aus dem Azure-Portal](https://docs.microsoft.com/azure/information-protection/activate-azure).</span><span class="sxs-lookup"><span data-stu-id="f843e-106">For license requirements and activation from **Azure Portal**, see [How to activate the Rights Management protection service from Azure portal](https://docs.microsoft.com/azure/information-protection/activate-azure).</span></span> <span data-ttu-id="f843e-107">**Hinweis**: ein globales Administrator Konto ist nicht erforderlich.</span><span class="sxs-lookup"><span data-stu-id="f843e-107">**Note**: Does not require Global Administrator Account.</span></span>
- 
+2. <span data-ttu-id="6ac25-106">Informationen zu den Lizenzanforderungen und zur Aktivierung des **Azure-Portals** finden Sie unter [Vorgehensweise zur Aktivierung des Rights Management Protection-Diensts im Azure-Portal](https://docs.microsoft.com/azure/information-protection/activate-azure).</span><span class="sxs-lookup"><span data-stu-id="6ac25-106">For license requirements and activation from **Azure Portal**, see [How to activate the Rights Management protection service from Azure portal](https://docs.microsoft.com/azure/information-protection/activate-azure).</span></span> <span data-ttu-id="6ac25-107">**Hinweis**: erfordert kein globales Administrator Konto.</span><span class="sxs-lookup"><span data-stu-id="6ac25-107">**Note**: Does not require Global Administrator Account.</span></span>
 
-<span data-ttu-id="f843e-108">Weitere Informationen finden Sie unter [Zeiger auf Informationen zur Rechteverwaltung im Admin Center](https://docs.microsoft.com/office365/enterprise/activate-rms-in-office-365).</span><span class="sxs-lookup"><span data-stu-id="f843e-108">For more info, see [Pointers to information about Rights Management in the admin center](https://docs.microsoft.com/office365/enterprise/activate-rms-in-office-365).</span></span>
+<span data-ttu-id="6ac25-108">Weitere Informationen lesen Sie unter [Zeiger auf Informationen zur Rechteverwaltung im Admin Center](https://docs.microsoft.com/office365/enterprise/activate-rms-in-office-365).</span><span class="sxs-lookup"><span data-stu-id="6ac25-108">For more info, see [Pointers to information about Rights Management in the admin center](https://docs.microsoft.com/office365/enterprise/activate-rms-in-office-365).</span></span>
