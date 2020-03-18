@@ -6,25 +6,25 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001670"
 - "3737"
-ms.openlocfilehash: 9b0764e6315dba48ad7634a0668468fcff8408f4
-ms.sourcegitcommit: 2561248cfa1a562504183d84e2252deb60e6588a
-ms.translationtype: MT
+- "3820"
+ms.openlocfilehash: e7c28230c90f61dd61b48941786c9218e06b6495
+ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42632666"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42707371"
 ---
 # <a name="use-rights-management-protection-with-microsoft-365"></a>Verwenden von Rights Management Protection mit Microsoft 365
 
-Sie müssen den [Rechteverwaltungsdienst (Rights Management Service, RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) aktivieren, bevor Sie die IRM-Funktionen (Information Rights Management, Verwaltung von Informationsrechten) von Office 365 Anwendungen und Diensten verwenden können.
+Sie müssen den [Rights Management Service (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) aktivieren, bevor Sie die Information Rights Management(IRM)-Features von Office 365-Anwendungen und -Diensten verwenden können.
 
-1. Informationen zu Lizenzanforderungen und Aktivierung aus dem **Microsoft 365 Admin Center**finden Sie unter [How to Activate Rights Management Protection from Microsoft 365 Admin Center](https://docs.microsoft.com/azure/information-protection/activate-office365). **Hinweis**: erfordert ein globales Administratorkonto.
+1. Informationen zu den Lizenzanforderungen und zur Aktivierung von **Microsoft 365 Admin Center** finden Sie unter [Vorgehensweise zur Aktivierung von Rights Management Protection im Microsoft 365 Admin Center](https://docs.microsoft.com/azure/information-protection/activate-office365). **Hinweis**: erfordert globales Administratorkonto.
 
-2. Informationen zu Lizenzanforderungen und Aktivierung aus dem **Azure-Portal**finden Sie unter [Aktivieren des Rights Management Protection-Diensts aus dem Azure-Portal](https://docs.microsoft.com/azure/information-protection/activate-azure). **Hinweis**: ein globales Administrator Konto ist nicht erforderlich.
- 
+2. Informationen zu den Lizenzanforderungen und zur Aktivierung des **Azure-Portals** finden Sie unter [Vorgehensweise zur Aktivierung des Rights Management Protection-Diensts im Azure-Portal](https://docs.microsoft.com/azure/information-protection/activate-azure). **Hinweis**: erfordert kein globales Administrator Konto.
 
-Weitere Informationen finden Sie unter [Zeiger auf Informationen zur Rechteverwaltung im Admin Center](https://docs.microsoft.com/office365/enterprise/activate-rms-in-office-365).
+Weitere Informationen lesen Sie unter [Zeiger auf Informationen zur Rechteverwaltung im Admin Center](https://docs.microsoft.com/office365/enterprise/activate-rms-in-office-365).

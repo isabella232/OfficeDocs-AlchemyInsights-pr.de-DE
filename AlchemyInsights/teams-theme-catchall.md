@@ -1,40 +1,49 @@
 ---
-title: Teams-Design CatchAll
+title: Team Design CatchAll
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: b5394249037e1ccfffa42206940369040eec273a
-ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
-ms.translationtype: MT
+ms.openlocfilehash: 02dacb9a6126d99c1c95637212d94c3266b230d6
+ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42371521"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42707478"
 ---
-# <a name="teams-common-issues-and-resolutions"></a>Teams häufig auftretende Probleme und Lösungen
+# <a name="teams-common-issues-and-resolutions"></a>Häufige Probleme und Lösungen in Teams
 
-Wenn Sie eine spezifischere Antwort zu einem Microsoft Teams-Problem erhalten möchten, formulieren Sie Ihre Frage kurz und schließen Sie alle Fehler ein, die Sie sehen oder von Ihnen verwendete Features.
+Wenn Sie eine genauere Antwort erhalten möchten, versuchen Sie, Ihre Frage neu zu formulieren, um Fehler oder Teams-Features enthalten, die Sie verwenden, miteinzubeziehen.
 
-Wenn Sie Hilfe bei der Unterstützung von Remote Arbeitskräften (WFH) mit Microsoft Teams benötigen, lesen Sie [Support Remote Workers using Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams) .
+Wenn Sie Hilfe bei der Bereitstellung von Teams benötigen, um Remotearbeitskräfte (WFH) aufgrund von COVID-19 zu unterstützen, lesen Sie [Remotearbeitskräfte mithilfe von Microsoft Teams unterstützen](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams). Außerdem sind Sie möglicherweise durch das Microsoft 365 FastTrack-Programm zu Hilfe bei der Bereitstellung berechtigt – besuchen Sie bitte das [FastTrack Center](https://www.microsoft.com/fasttrack), um eine Anforderung zu übermitteln.
 
-Hier sind einige zusätzliche Ressourcen:
+Für alle Teams-Kunden:
 
-- **Aktivieren von Microsoft Teams-Gastzugriff:** Überprüfen Sie die [Checkliste für den Microsoft Teams-Gastzugriff](https://docs.microsoft.com/microsoftteams/guest-access-checklist) , und stellen Sie sicher, dass alle Schritte abgeschlossen wurden.
-- **Problembehandlung bei der Microsoft Teams-Anmeldung:** Stellen Sie zunächst sicher, dass der [Microsoft Teams-Dienstfehler frei ist](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Überprüfen Sie dann auf häufige Fehlercodes und prüfen Sie, [Warum habe ich Probleme beim Anmelden bei Microsoft Teams?](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)  Möglicherweise müssen Sie auch [Identitäts Modelle und Authentifizierung in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication)überprüfen.
-- **Wiederherstellen eines gelöschten Teams oder Kanals:** 
-    - Weitere Informationen finden Sie unter [Wiederherstellen eines gelöschten Teams in Microsoft Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/).
-    - Gelöschte Kanäle innerhalb eines Teams können bis zu 21 Tage nach dem Löschen des Kanals wiederhergestellt werden. 
-    - Informationen zum Wiederherstellen eines gelöschten Kanals finden Sie unter [archivieren oder Wiederherstellen eines Teams](https://support.office.com/article/archive-or-restore-a-team-dc161cfd-b328-440f-974b-5da5bd98b5a7).
-- **Wiederherstellen gelöschter Dateien:** Siehe [Wiederherstellen gelöschter Dateien in Microsoft Teams](https://support.office.com/article/recover-deleted-files-in-teams-a591d771-89a6-49e2-ab7e-271936fe3c4e).
-- **Problembehandlung bei fehlenden Wähltasten:**  
-    - Stellen Sie sicher, dass dem Benutzer eine Microsoft [Teams-Lizenz](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses)zugewiesen wurde.
+- **Neu bei Microsoft Teams?** Lesen Sie [Erste Schritte mit Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).
+
+- **Aktivieren des Teams-Gastzugriffs:** Gehen Sie die [Checkliste für den Teams-Gastzugriff](https://docs.microsoft.com/microsoftteams/guest-access-checklist) durch, und stellen Sie sicher, dass alle Schritte durchgeführt wurden.
+
+- **[Einrichten von Audiokonferenzen für Teams](https://docs.microsoft.com/alchemyinsights/how-do-i-set-up-audio-conferencing-for-teams)**
+
+- **Problembehandlung bei fehlender Wähltastatur:**  
+
+    - Stellen Sie sicher, dass dem Benutzer eine [Teams-Lizenz](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses) zugewiesen wurde.
+
     - Stellen Sie sicher, dass dem Benutzer ein [Anrufplan](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) zugewiesen wurde.
+
     - Aktivieren Sie die Benutzer für [Enterprise-VoIP](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
-- **Bekannte Probleme mit Microsoft Teams:** Lesen Sie [bekannte Probleme für Microsoft Teams](https://docs.microsoft.com/microsoftteams/known-issues).
+
+- **Problembehandlung bei Teams-Anmeldung:** Stellen Sie zuerst sicher, dass der[Microsoft Teams-Dienst fehlerfrei funktioniert](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Überprüfen Sie dann, ob häufige Fehlercodes vorhanden sind, und überprüfen Sie [Warum habe ich Probleme beim Anmelden bei Microsoft Teams?](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)  Möglicherweise müssen Sie auch [Identitätsmodelle und Authentifizierung in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication) überprüfen.
+
+**Für Kunden der Education-Version:**
+
+Wenn Ihren Benutzer die Meldung "Sie haben keine Abwesenheit!" angezeigt wird. Stellen Sie sicher, dass Sie [Microsoft Teams für Ihre Schule aktivieren](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams). Bei EDU-Mandanten ist Microsoft Teams standardmäßig nicht aktiviert. Sie müssen es zuerst aktivieren.
+
+Lesen Sie als Nächstes [Fernstudium (Lehren und Lernen) in Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4), um die aktuellste Anleitung zur Organisation Ihrer Bildungseinrichtung, zur Unterrichtsplanung, zu virtuellen Besprechungen und zum Teilen von Inhalten mit den Schülern zu erhalten. 
