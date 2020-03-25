@@ -1,0 +1,28 @@
+---
+title: Teams-Notrufe
+ms.author: pebaum
+author: pebaum
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.custom:
+- "9002239"
+- "4348"
+ms.assetid: ''
+ms.openlocfilehash: 023d67ab0a055f97ed0e0f15cb4f9325aabcafba
+ms.sourcegitcommit: 018aadd53eac92248bc6d5ad63b739216103090a
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42940210"
+---
+# <a name="teams-emergency-calling"></a><span data-ttu-id="22a33-102">Teams-Notrufe</span><span class="sxs-lookup"><span data-stu-id="22a33-102">Teams emergency calling</span></span>
+
+<span data-ttu-id="22a33-103">Allen Telefonnummern muss ein Notfallstandort zugeordnet sein.</span><span class="sxs-lookup"><span data-stu-id="22a33-103">All phone numbers must be associated with an emergency location.</span></span> <span data-ttu-id="22a33-104">Weitere Informationen finden Sie in den folgenden Themen:</span><span class="sxs-lookup"><span data-stu-id="22a33-104">Please see the following for more details:</span></span>
+
+- [<span data-ttu-id="22a33-105">Notrufe – Übersicht </span><span class="sxs-lookup"><span data-stu-id="22a33-105">Emergency calling overview</span></span>](https://docs.microsoft.com/MicrosoftTeams/what-are-emergency-locations-addresses-and-call-routing)
+
+- [<span data-ttu-id="22a33-106">Hinzufügen, Ändern oder Entfernen eines Notfallstandorts für Ihre Organisation</span><span class="sxs-lookup"><span data-stu-id="22a33-106">Add, change, or remove an emergency location for your organization</span></span>](https://docs.microsoft.com/MicrosoftTeams/add-change-remove-emergency-location-organization)
+
+- [<span data-ttu-id="22a33-107">Zuweisen oder Ändern eines Notfallstandorts für einen Benutzer</span><span class="sxs-lookup"><span data-stu-id="22a33-107">Assign or change an emergency location for a user</span></span>](https://docs.microsoft.com/MicrosoftTeams/assign-change-emergency-location-user)
