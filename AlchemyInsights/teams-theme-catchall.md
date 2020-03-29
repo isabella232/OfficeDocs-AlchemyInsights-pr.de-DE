@@ -11,14 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856466"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030399"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Häufige Probleme und Lösungen in Teams
+
+**Wichtig**: Aufgrund der aktuell gestiegenen Nutzung von Teams, kann es möglicherweise bis zu 24 Stunden dauern, bis ein Benutzer, dem Sie eine Teams-Lizenz zugewiesen haben, vollständig eingerichtet ist. Bis zu diesem Zeitpunkt sind Sie nicht in der Lage, diesen Benutzern Teams-Richtlinien zuzuweisen, und diese haben möglicherweise keinen Zugriff auf einige Teams-Features wie Anrufe und Audiokonferenzen.
+
+**Häufige Probleme und Lösungen**
 
 Wenn Sie eine genauere Antwort erhalten möchten, versuchen Sie, Ihre Frage neu zu formulieren, um Fehler oder Teams-Features enthalten, die Sie verwenden, miteinzubeziehen.
 
