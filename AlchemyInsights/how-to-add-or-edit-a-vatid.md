@@ -12,20 +12,24 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: ff4471727b38b6d43b9639b551f92b87e9e9360c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e19d680f5688fe9c5e263019c20f10c678d7f7e5
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664319"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059735"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Vorgehensweise hinzufügen oder Bearbeiten eines VatID
 
-1. Wechseln Sie im Microsoft 365 Admin Center zur Seite **Abrechnungs** \> [Produkte #a0 Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+**Hinweis**: Wenn Sie sich in einem Land befinden, in dem die Mehrwertsteuer (MwSt.) verwendet wird, beispielsweise im Vereinigten Königreich, berechnet Microsoft Invoicing die Mehrwertsteuer für Sie und wendet den Betrag auf Ihre Rechnungen an. Weitere Informationen finden Sie unter [MIAS Disclaimer](https://go.microsoft.com/fwlink/?LinkID=841741) veröffentlicht von der Europäischen Kommission.
+
+**Hinzufügen oder Bearbeiten eines VatID**
+
+1. Wechseln Sie im Microsoft 365 Admin Center zur Seite **Abrechnungs** \> [Produkte & Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Suchen Sie die Abonnementkarte für das Abonnement, das Sie aktualisieren möchten.
 
-3. Wählen Sie im Abschnitt **Einstellungen #a0 Aktionen** die Option **Dienst Verwendungs Adresse bearbeiten**aus.
+3. Wählen Sie im Abschnitt **Einstellungen & Aktionen** die Option **Dienst Verwendungs Adresse bearbeiten**aus.
 
 4. Geben Sie auf der Seite **Dienstnutzungsadresse bearbeiten** Ihre MwSt.-ID in das Feld MwSt.- **Nummer** ein, und wählen Sie dann **Speichern**aus.
 
