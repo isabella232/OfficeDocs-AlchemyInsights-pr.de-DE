@@ -11,14 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: 0775f12d3778f1f6f7a53ec47ddb8f0cd71dc1af
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 6936138804ad8f09caccce7c3673475851f765ae
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376643"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105346"
 ---
 # <a name="schedule-a-meeting-in-teams"></a>Planen einer Besprechung in Microsoft Teams
+
+**Wichtig**: Wenn Sie Probleme beim Erstellen einer Besprechung haben oder die Besprechungsoption in Microsoft Teams nicht finden können, stellen Sie sicher, dass betroffene Benutzer [für ein Exchange Online Postfach lizenziert sind und das Postfach aktiviert ist](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes).
 
 Sie können eine Besprechung auf zwei Arten planen: 
 
@@ -29,4 +31,6 @@ Sie können eine Besprechung auf zwei Arten planen:
 
 Auf der rechten Seite des Planungs Formulars können Sie einen Kanal oder einzelne Personen hinzufügen oder beide leer lassen, um einen privaten Termin einzuplanen.
 
-Weitere Informationen zum Erstellen und Planen von Besprechungen in Microsoft Teams finden Sie unter [Planen einer Besprechung in Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+- Weitere Informationen zum Erstellen und Planen von Besprechungen in Microsoft Teams finden Sie unter [Planen einer Besprechung in Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+
+- Informationen zu Grenzwerten und Spezifikationen für Besprechungen finden Sie unter [Limits and Specifications for Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
