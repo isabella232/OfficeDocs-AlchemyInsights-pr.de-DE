@@ -10,16 +10,16 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5ee3bcc9ea1c4734958d5c404ce89e2bda6f5e63
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: da1f12678dd1a508a24f02e73acb6d599eaff628
+ms.sourcegitcommit: f1e9db2f762a4197c2922a0c8eaa77a3f482e38a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736288"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43132610"
 ---
 # <a name="enable-an-archive-mailbox"></a>Aktivieren eines Archivpostfachs
 
-Archivpostfächer in Office 365 (auch als *Online Archive*bezeichnet) bieten Benutzern zusätzlichen e-Mail-Speicher. Benutzer können Elemente in Ihr Archivpostfach verschieben oder kopieren, und Administratoren können eine Archivrichtlinie erstellen, mit der Elemente automatisch in Archivpostfächer verschoben werden.
+Archivpostfächer in Office 365 (auch als *Online Archive* oder *in-Place-Archive*bezeichnet) bieten Benutzern zusätzlichen e-Mail-Speicher. Benutzer können Elemente in Ihr Archivpostfach verschieben oder kopieren, und Administratoren können eine Archivrichtlinie erstellen, mit der Elemente automatisch in Archivpostfächer verschoben werden.
   
 Hier erfahren Sie, wie Sie ein Archivpostfach erstellen:
   
@@ -27,14 +27,28 @@ Hier erfahren Sie, wie Sie ein Archivpostfach erstellen:
 
 2. Melden Sie sich bei Office 365 mit Ihrem Administratorkonto an.
 
-3. Wählen Sie im linken Bereich des Security &amp; Compliance Centers die Option **Data Governance** \> **Archive**aus.
+3. Wählen Sie im linken Bereich des Security &amp; Compliance Centers die Option **Information Governance** \> **Archive**aus.
 
 4. Wählen Sie den Benutzer aus, dessen Archivpostfach Sie aktivieren möchten.
 
-5. Wählen Sie im Detailbereich auf der rechten Seite die Option **aktivieren** aus, und wählen Sie dann in der Warnmeldung **Ja** aus, um das Archivpostfach zu aktivieren.
+5. Klicken Sie im Detailbereich auf der rechten Seite auf **aktivieren** , und klicken Sie dann in der Warnmeldung auf **Ja** , um das Archivpostfach zu aktivieren.
 
-Sie können Archivpostfächer auch Massen aktivieren, indem Sie mehrere Benutzer auswählen (mithilfe der **UMSCHALT** Taste oder **STRG** -Taste) und dann im Detailbereich die Option **aktivieren** auswählen.
+Sie können Archivpostfächer auch Massen aktivieren, indem Sie mehrere Benutzer auswählen (mithilfe der **UMSCHALT** -oder **STRG** -Taste) und dann im Detailbereich auf **aktivieren** klicken.
   
+### <a name="shared-mailboxes"></a>Freigegebene Postfächer
+
+Um das Archiv für ein freigegebenes Postfach zu aktivieren, ist eine Exchange Online Plan 2-Lizenz oder eine Exchange Onlineplan 1-Lizenz mit einer Exchange Online-Archivierungslizenz erforderlich.  
+
+So aktivieren Sie das Archiv für ein freigegebenes Postfach:
+
+1. Wechseln Sie zur [Exchange-Verwaltungskonsole](https://outlook.office365.com/ecp) , und melden Sie sich mit Ihrem Administratorkonto an.
+
+2. Wechseln Sie zu **Empfänger** > **freigegeben**.
+
+3. Wählen Sie das freigegebene Postfach aus.
+
+4. Klicken Sie im Detailbereich auf der rechten Seite unter **in-Place Archive**auf **aktivieren**, und klicken Sie dann auf **Ja** , um das Archivpostfach zu aktivieren.
+
 Weitere Informationen finden Sie unter:
   
 - [Aktivieren von archivpostfächern in Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
