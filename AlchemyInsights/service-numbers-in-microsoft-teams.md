@@ -10,17 +10,19 @@ ms.custom:
 - "9002256"
 - "4359"
 ms.assetid: ''
-ms.openlocfilehash: d0eccaf7d953dd6ac9f80394314dbdd71a1bccf5
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
+ms.openlocfilehash: b1bccc3ccdcbccfdbc68bbfd4ed40560b45f1797
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953851"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105310"
 ---
 # <a name="service-numbers-in-teams"></a>Dienstnummern in Teams
 
 Dienstrufnummern haben eine höhere Kapazität für gleichzeitige Anrufe als Benutzer- oder Teilnehmerrufnummern. 
 
-- [Überprüfen Sie die unterschiedlichen Möglichkeiten zum **Erhalt einer Dienstnummer**](https://docs.microsoft.com/microsoftteams/getting-service-phone-numbers). 
+- [Überprüfen Sie die unterschiedlichen Möglichkeiten zum Erhalt einer Dienstnummer](https://docs.microsoft.com/microsoftteams/getting-service-phone-numbers). 
 
-- [Hier erfahren Sie, wie Sie **eine Benutzernummer in eine Dienstnummer konvertieren**](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/phone-number-management-for-the-u-s).
+- [Hier erfahren Sie, wie Sie eine Benutzernummer in eine Dienstnummer umwandeln](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/phone-number-management-for-the-u-s).
+
+Weitere Informationen finden Sie unter [Verwalten von Rufnummern für Ihre Organisation](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization).
