@@ -1,5 +1,5 @@
 ---
-title: Administratorrolle und Zuweisen von
+title: Administratorrolle und deren Zuweisung
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -7,26 +7,21 @@ ms.date: 2/24/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 151f2def68b53838929f1ebeaa61a24439815aa0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
-ms.translationtype: MT
+ms.openlocfilehash: 5bee71c66ae81fda95df152405dfd689055a10cf
+ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36737080"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43183396"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>Was sind Administratorrollen, und wie weisen Sie Sie ab?
+# <a name="admin-roles"></a>Administratorrollen
 
-Sieht so aus, als ob Sie einige Fragen zu Administratorrollen haben. Diese Artikel sollten alle Ihre Fragen beantworten.
-  
-- [Informationen zu Administratorrollen](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
+- Wählen Sie im Admin Center [Rollen](https://admin.microsoft.com/Adminportal/Home#/roles) aus, um Administratorrollen zuzuweisen oder mehr darüber zu erfahren.
 
-- [Zuweisen von Administratorrollen](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
-
-Haben Sie Ihre Frage nicht beantwortet? Kein Problem! Verwenden Sie die Option "Wir rufen Sie an", um mit einem Supporttechniker zu sprechen.
-  
+- Wählen Sie dann die Rollennamen aus, und klicken Sie dann auf **Rolle zuweisen**, oder klicken Sie auf **Rollen vergleichen**, um weitere Informationen zu erhalten.
