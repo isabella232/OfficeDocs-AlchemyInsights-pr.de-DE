@@ -11,37 +11,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "2713"
 - "9000768"
-ms.openlocfilehash: d5fb20fcc146be67c5a04de0640ed4efd625311a
-ms.sourcegitcommit: 8004ee243b5c68ff9532224a2e6c69dda0abbd0b
+- "9002385"
+- "4645"
+ms.openlocfilehash: 35fe9ae76ca77faa43796b288af09be8525cb6df
+ms.sourcegitcommit: 929f8accdca2b8e5be170e0fc8edd527581453d4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37441305"
+ms.lasthandoff: 04/12/2020
+ms.locfileid: "43232629"
 ---
 # <a name="fix-messages-that-are-stuck-in-the-outbox"></a>Beheben von Nachrichten, die im Postausgang hängen
 
-Es wird empfohlen, dass Sie zunächst das Szenario ["Ich habe Probleme beim Senden, empfangen oder finden von e-Mail-Nachrichten"](https://aka.ms/SaRA-OutlookSendReceive) im [Microsoft Support and Recovery Assistant](https://diagnostics.office.com/#/) -Tool durchführen.
+Es wird empfohlen, dass Sie zunächst das Szenario ["Ich habe Probleme beim Senden, empfangen oder finden von e-Mail-Nachrichten"](https://aka.ms/SaRA-OutlookSendReceive) vom [Microsoft Support and Recovery Assistant](https://diagnostics.office.com/#/) -Tool auf dem betroffenen Computer aus starten.
 
-Wenn eine Nachricht in Ihrem Postausgang festgelegt wird, sind die folgenden Ursachen wahrscheinlich:
-- Große Anlagen.
-- Die Option **sofort bei Verbindung senden** ist nicht aktiviert.
+Wenn eine Nachricht in Ihrem Postausgang feststeht, ist die wahrscheinlichste Ursache eine große Anlage oder die Option "sofort bei Verbindung senden" ist nicht aktiviert.
 
-So entfernen Sie große Anlagen: 
+**Entfernen der großen Anlage**
 
-1. Wählen Sie in Outlook **senden/empfangen** > **Arbeiten offline**aus. 
-2. Wählen Sie im Navigationsbereich die Option **Postausgang**aus. Von hier aus haben Sie folgende Möglichkeiten: 
-    - Löschen Sie die Nachricht (Wählen Sie Sie aus, und wählen Sie dann **Löschen**aus).
-    - Ziehen Sie die Nachricht in den Ordner Entwürfe, doppelklicken Sie darauf, um Sie zu öffnen, und entfernen Sie die Anlage, wählen Sie Sie aus, und wählen Sie dann **Löschen**aus.
-3. Wenn Sie eine Fehlermeldung erhalten, die besagt, dass Outlook versucht, die Nachricht zu übermitteln, schließen Sie Outlook. Es kann ein paar Augenblicke dauern, bis das Programm beendet ist. Wenn Outlook nicht geschlossen wird, drücken Sie STRG + ALT + ENTF, und klicken Sie dann auf **Task-Manager starten**. Wählen Sie im Task-Manager die Registerkarte **Prozesse** aus, Scrollen Sie nach unten zu Outlook. exe, und wählen Sie **Prozess beenden**aus.
-4. Nachdem Outlook geschlossen wurde, starten Sie es neu, und wiederholen Sie die Schritte 2 und 3. 
-5. Nachdem Sie die Anlage entfernt haben, klicken Sie auf **senden/empfangen** > **Arbeiten offline** , um die Online Arbeit fortzusetzen. 
+1. Klicken Sie auf **senden/empfangen** > **Arbeiten offline**. 
+2. Klicken Sie im Navigationsbereich auf **Postausgang**. Von hier aus haben Sie folgende Möglichkeiten: 
+    - Löschen Sie die Nachricht. Wählen Sie Sie einfach aus, und klicken Sie auf **Löschen**.
+    - Ziehen Sie die Nachricht in den **Ordner Entwürfe**, doppelklicken Sie auf, um die Nachricht zu öffnen, und löschen Sie die Anlage (Klicken Sie darauf, und klicken Sie auf **Löschen**).
+3. Wenn ein Fehler besagt, dass Outlook versucht, die Nachricht zu übermitteln, schließen Sie Outlook. Es kann ein paar Augenblicke dauern, bis das Programm beendet ist. Wenn Outlook nicht geschlossen wird, drücken Sie **STRG + ALT + ENTF** , und klicken Sie auf **Task-Manager starten**. Wählen Sie im Task-Manager die Registerkarte **Prozesse** aus, Scrollen Sie nach unten zu Outlook. exe, und klicken Sie dann auf **Prozess beenden**.
+4. Nachdem Outlook geschlossen wurde, starten Sie Outlook neu, und wiederholen Sie die Schritte 2-3. 
+5. Nachdem Sie die Anlage entfernt haben, klicken Sie auf **senden/empfangen** > **Arbeiten offline** , um die Auswahl der Schaltfläche aufzuheben und die Online Arbeit fortzusetzen. 
 
-Nachrichten werden auch im Postausgang festgehalten, wenn Sie auf **senden**klicken, aber keine Verbindung hergestellt ist. Klicken Sie auf **senden/empfangen** und sehen Sie sich die Schaltfläche **Offline arbeiten** an. Wenn es blau ist, sind Sie getrennt. Wählen Sie ihn aus, um eine Verbindung herzustellen (die Schaltfläche wird weiß), und klicken Sie auf **Alle senden**.
+Nachrichten werden auch im Postausgang festgehalten, wenn Sie auf **senden**klicken, aber keine Verbindung hergestellt ist. Klicken Sie auf **senden/empfangen** und sehen Sie sich die Schaltfläche **Offline arbeiten** an. Wenn es blau ist, sind Sie getrennt. Klicken Sie darauf, um eine Verbindung herzustellen (die Schaltfläche wird weiß), und klicken Sie auf **Alle senden**.
  
-So aktivieren Sie **Send sofort bei einer Verbindung**:
+**Sofortnachrichten senden bei Verbindung aktivieren**
  
-- Wählen Sie **Datei** > **Optionen** >  **erweitert**aus.
-Wählen Sie im Abschnitt **senden und empfangen** die Option **sofort bei Verbindung senden**aus, und wählen Sie dann **OK**aus.
+1. Klicken Sie auf der Registerkarte Datei auf **Optionen**.
+
+2. Klicken Sie im Dialogfeld Outlook-Optionen auf **erweitert**.
+
+3. Klicken Sie im Abschnitt senden und empfangen auf, um **bei einer Verbindung sofort senden**zu aktivieren. Klicken Sie auf **OK**.
  
 Ausführliche Informationen finden Sie unter:
 - [Video: senden oder Löschen einer Stuck-e-Mail](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
