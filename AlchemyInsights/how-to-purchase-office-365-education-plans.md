@@ -14,19 +14,25 @@ ms.custom:
 - "370"
 - "1500009"
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 366299790a5cae04c2b5eabd9d7f48a65210a50e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 0c949a6e611fadc19340711d7fa9aa19dd602c6f
+ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390907"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43286248"
 ---
 # <a name="how-to-purchase-office-365-education-plans"></a>So erwerben Sie Office 365 Bildungspläne
 
-Sie wurden für Office 365 Education genehmigt. Zum Kauf:
-  
-1. Wechseln Sie im Admin Center zur Seite **Abrechnungs** \> - [Einkaufsdienste](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+Ihr Einsatz von Office 365 Education wurde genehmigt.  So kaufen Sie es:
 
-2. Wählen Sie aus der Liste unter **Bildungspläne**aus.
+1. Navigieren Sie zu **[Abrechnung > Dienste kaufen](https://portal.office.com/AdminPortal/Home#/catalog)**.
 
-3. Zeigen Sie mit der Maus auf das Abonnement, das Sie erwerben möchten, und wählen Sie **Jetzt kaufen**aus.
+2. Wählen Sie aus der Liste unter **Education-Pläne** aus.
+
+3. Zeigen Sie auf das Abonnement, das Sie kaufen möchten, und klicken Sie auf **Jetzt kaufen**.
+
+**Fernstudium (Lehren und Lernen)**
+
+- Schauen Sie sich bitte [Fernstudium (Lehren und Lernen) in Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) an, um die aktuellste Anleitung zur Organisation Ihrer Bildungseinrichtung, zur Unterrichtsplanung, zu virtuellen Besprechungen und zum Teilen von Inhalten mit den Schülern zu erhalten.
+
+- Zusätzliche IT-Anleitungen finden Sie unter[Erste Schritte mit Microsoft Teams für Fernunterricht](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)und[Übergang zum Fernunterricht](https://www.microsoft.com/education/remote-learning).
