@@ -13,15 +13,15 @@ ms.custom:
 - "1581"
 - "9000089"
 ms.assetid: ''
-ms.openlocfilehash: abf276d17a5cf3a2a05fc7051eeee9149e371dba
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f5cd90394b4f10b9f2b4731d429c6df1c8ab699a
+ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548642"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43529639"
 ---
 # <a name="open-and-use-a-shared-mailbox-in-outlook-on-the-web"></a>Öffnen und Verwenden eines freigegebenen Postfachs in Outlook im Web
 
 Freigegebene Postfächer, auf die Sie Zugriff haben, werden nicht automatisch in Outlook im Web (vormals Outlook Web App) angezeigt.
 
-Sie können das freigegebene Postfach und Ihr primäres Postfach zusammen anzeigen oder das freigegebene Postfach in einem separaten Browserfenster öffnen. Wenn Sie neue Benachrichtigungen für das freigegebene Postfach erhalten möchten, müssen Sie das freigegebene Postfach in einem separaten Browserfenster öffnen. Weitere Informationen finden Sie unter [Öffnen und Verwenden eines freigegebenen Postfachs in Outlook Web App](https://support.office.com/article/BC127866-42BE-4DE7-92AE-1EF2F787FD5C).
+Sie können das freigegebene Postfach und Ihr primäres Postfach zusammen anzeigen oder das freigegebene Postfach in einem separaten Browserfenster öffnen. Wenn Sie neue Benachrichtigungen für das freigegebene Postfach erhalten möchten, müssen Sie das freigegebene Postfach in einem separaten Browserfenster öffnen. Weitere Informationen finden Sie unter [Öffnen und Verwenden eines freigegebenen Postfachs in Outlook Web App](https://support.office.com/de-DE/article/Add-a-shared-mailbox-to-Outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).
