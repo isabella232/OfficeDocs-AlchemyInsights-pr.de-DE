@@ -10,31 +10,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: d54d3adbaa697c4abda7cb52214c79f136b37daa
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 606cfb41a3a79ed8637e5f702471c2cbbb9f6def
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958609"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552733"
 ---
-# <a name="migrate-options-to-sharepoint-online"></a><span data-ttu-id="d7b83-102">Migrieren von Optionen zu SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="d7b83-102">Migrate options to SharePoint Online</span></span>
+# <a name="migrate-options-to-sharepoint-online"></a><span data-ttu-id="6456f-102">Migrieren von Optionen zu SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="6456f-102">Migrate options to SharePoint Online</span></span>
 
-<span data-ttu-id="d7b83-103">**Wichtig**: in diesen noch nie dagewesenen Zeiten werden Maßnahmen ergriffen, um sicherzustellen, dass SharePoint Online-und OneDrive-Dienste hoch verfügbar bleiben – weitere Informationen finden Sie unter [SharePoint Online Anpassungen temporärer Funktionen](https://aka.ms/ODSPAdjustments) .</span><span class="sxs-lookup"><span data-stu-id="d7b83-103">**Important**: During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available – Please visit [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) for more information.</span></span>
+<span data-ttu-id="6456f-103">Für die Migration von Inhalten nach SharePoint Online stehen verschiedene Optionen zur Verfügung, abhängig von der Größe und Menge der zu verschiebenden Dateien. Eine Liste der Optionen finden Sie [hier](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).</span><span class="sxs-lookup"><span data-stu-id="6456f-103">There are different options available to migrate content to SharePoint Online, depending on the size and quantity of files you need to move, please see a list of options [located here](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).</span></span>
 
-<span data-ttu-id="d7b83-104">**Migrationsoptionen**</span><span class="sxs-lookup"><span data-stu-id="d7b83-104">**Migration options**</span></span>
+<span data-ttu-id="6456f-104">Besuchen Sie die untenstehenden Links zur Inhaltsmigration, um weitere Informationen zu erhalten.</span><span class="sxs-lookup"><span data-stu-id="6456f-104">For more information on content migration, please visit the links below.</span></span>
 
-<span data-ttu-id="d7b83-105">Es stehen verschiedene Optionen zur Verfügung, um Inhalte in SharePoint Online zu migrieren, je nach Größe und Menge der Dateien, die Sie verschieben müssen, finden Sie eine Liste der Optionen, die [sich hier befinden](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).</span><span class="sxs-lookup"><span data-stu-id="d7b83-105">There are different options available to migrate content to SharePoint Online, depending on the size and quantity of files you need to move, please see a list of options [located here](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).</span></span>
+- [<span data-ttu-id="6456f-105">SharePoint-Migrationstool</span><span class="sxs-lookup"><span data-stu-id="6456f-105">Sharepoint Migration Tool</span></span>](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
 
-<span data-ttu-id="d7b83-106">Weitere Informationen zur Inhaltsmigration finden Sie unter den Links unten.</span><span class="sxs-lookup"><span data-stu-id="d7b83-106">For more information on content migration, please visit the links below.</span></span>
+- [<span data-ttu-id="6456f-106">Erste Schritte mit dem Migrations-Manager</span><span class="sxs-lookup"><span data-stu-id="6456f-106">Get started with the Migration Manager</span></span>](https://docs.microsoft.com/sharepointmigration/mm-get-started)
 
-- [<span data-ttu-id="d7b83-107">SharePoint-Migrations Tool</span><span class="sxs-lookup"><span data-stu-id="d7b83-107">Sharepoint Migration Tool</span></span>](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
-
-- [<span data-ttu-id="d7b83-108">Erste Schritte mit dem Migrations-Manager</span><span class="sxs-lookup"><span data-stu-id="d7b83-108">Get started with the Migration Manager</span></span>](https://docs.microsoft.com/sharepointmigration/mm-get-started)
-
-- [<span data-ttu-id="d7b83-109">SharePoint Online und ODB-Migrationsgeschwindigkeit</span><span class="sxs-lookup"><span data-stu-id="d7b83-109">Sharepoint Online and ODB Migration Speed</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
-
-- [<span data-ttu-id="d7b83-110">Vermeiden von Einschränkungen oder Sperren in SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="d7b83-110">Avoid getting throttled or blocked in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-
-- [<span data-ttu-id="d7b83-111">SharePoint Migration Assessment Tool (smat)</span><span class="sxs-lookup"><span data-stu-id="d7b83-111">SharePoint Migration Assessment Tool (SMAT)</span></span>](https://www.microsoft.com/download/details.aspx?id=53598&amp;751be11f-ede8-5a0c-058c-2ee190a24fa6=True)
-
-<span data-ttu-id="d7b83-112">**Hinweis**: das SharePoint-Migrationstool unterstützt derzeit nur Migrationen von SharePoint 2010 und 2013.</span><span class="sxs-lookup"><span data-stu-id="d7b83-112">**Note**: Currently the SharePoint Migration tool only support migrations from SharePoint 2010  and 2013.</span></span> <span data-ttu-id="d7b83-113">Version 2016 oder 2019 werden zu diesem Zeitpunkt nicht unterstützt.</span><span class="sxs-lookup"><span data-stu-id="d7b83-113">Version 2016 or 2019 are not supported at this time.</span></span>
+- [<span data-ttu-id="6456f-107">Mover</span><span class="sxs-lookup"><span data-stu-id="6456f-107">Mover</span></span>](https://mover.io/)
