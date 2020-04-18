@@ -13,16 +13,14 @@ ms.custom:
 - "5300030"
 - "3178"
 ms.assetid: ''
-ms.openlocfilehash: 6432d32a4424c13f38077b37aa5f689a573a876e
-ms.sourcegitcommit: 1173501899034ad5f6a432311bc3f1091ead3efa
+ms.openlocfilehash: c634596b42e672f635bb50d080429c94fe2da258
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43541693"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552884"
 ---
 # <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>Problembehandlung von Problemen und Fehlern beim SharePoint-Migrations Tool
-
-**Wichtig**: Während dieser beispiellosen Zeiten unternehmen wir die erforderlichen Schritte, um sicherzustellen, dass SharePoint Online und OneDrive-Dienste weiterhin in hohem Ausmaß verfügbar bleiben – Bitte besuchen Sie [SharePoint Online – Temporäre Feature-Anpassungen](https://aka.ms/ODSPAdjustments), um weitere Informationen zu erhalten.
 
 Bei der Verwendung des SharePoint-Migrationstools (SPMT) treten möglicherweise einige häufig auftretende Probleme auf. Weitere Informationen finden Sie unter den Links unten.
 

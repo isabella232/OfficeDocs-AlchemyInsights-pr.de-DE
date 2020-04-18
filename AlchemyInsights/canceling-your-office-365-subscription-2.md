@@ -13,19 +13,23 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 7bf1ae4696576155ac3df3356ebf5d32ec779dbb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: a3416ec86908d529fd5f2750344763de36363a08
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665471"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552596"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Stornieren des Office 365 Abonnements?
 
 Es tut uns leid, dass Sie da sind!
   
-Basierend auf den Daten Ihrer Organisation glauben wir, dass alle Ihre aktuellen Abonnements über mehr als 25 zugewiesene Lizenzen verfügen. Sie können Benutzer entfernen, bis Sie weniger als 25 haben, und wechseln Sie dann zur Seite **Abrechnungs** \> [Produkte #a0 Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054) . Wählen Sie im Abschnitt **Einstellungen #a0 Aktionen** die Option **Abonnement kündigen**aus.
+Basierend auf den Daten Ihrer Organisation glauben wir, dass alle Ihre aktuellen Abonnements über mehr als 25 zugewiesene Lizenzen verfügen. Sie können Benutzer entfernen, bis Sie weniger als 25 haben, und wechseln Sie dann zur Seite **Abrechnungs** \> [Produkte & Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054) . Wählen Sie im Abschnitt **Einstellungen & Aktionen** die Option **Abonnement kündigen**aus.
   
 Alternativ dazu **benötigen Sie Hilfe** , um mit einem Supporttechniker zu sprechen.
   
+**Rückerstattung: jede anteilige Gutschrift wird Ihnen innerhalb des nächsten Abrechnungszyklus zurückgegeben.** 
+
+**Hinweis**: Wenn die Option zum Abbrechen nicht angezeigt wird, klicken Sie auf das Abonnement, um die Details anzuzeigen, und Sie sollten die Option **Abonnement kündigen** in **Einstellungen & Aktionen**sehen. 
+
 Weitere Informationen finden Sie unter [kündigen Ihres Abonnements](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
