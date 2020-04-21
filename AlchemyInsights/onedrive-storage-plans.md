@@ -16,8 +16,8 @@ ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 04/21/2020
-ms.locfileid: "43591541"
+ms.locfileid: "43599281"
 ---
-# <a name="onedrive-storage-plans"></a><span data-ttu-id="9e7c6-102">OneDrive-Speicherpläne</span><span class="sxs-lookup"><span data-stu-id="9e7c6-102">OneDrive storage plans</span></span>
+# <a name="onedrive-storage-plans"></a><span data-ttu-id="ad50a-102">OneDrive-Speicherpläne</span><span class="sxs-lookup"><span data-stu-id="ad50a-102">OneDrive storage plans</span></span>
 
-<span data-ttu-id="9e7c6-103">Erfahren Sie mehr über OneDrive-Speicherpläne.</span><span class="sxs-lookup"><span data-stu-id="9e7c6-103">Learn about OneDrive storage plans.</span></span> <span data-ttu-id="9e7c6-104">[Weitere Informationen...](https://support.office.com/article/OneDrive-storage-plan-and-billing-questions-989fce19-ade6-4e2f-81fb-941eabefee28)</span><span class="sxs-lookup"><span data-stu-id="9e7c6-104">[Read more](https://support.office.com/article/OneDrive-storage-plan-and-billing-questions-989fce19-ade6-4e2f-81fb-941eabefee28).</span></span>
+<span data-ttu-id="ad50a-103">Erfahren Sie mehr über OneDrive-Speicherpläne.</span><span class="sxs-lookup"><span data-stu-id="ad50a-103">Learn about OneDrive storage plans.</span></span> <span data-ttu-id="ad50a-104">[Weitere Informationen...](https://support.office.com/article/OneDrive-storage-plan-and-billing-questions-989fce19-ade6-4e2f-81fb-941eabefee28)</span><span class="sxs-lookup"><span data-stu-id="ad50a-104">[Read more](https://support.office.com/article/OneDrive-storage-plan-and-billing-questions-989fce19-ade6-4e2f-81fb-941eabefee28).</span></span>
