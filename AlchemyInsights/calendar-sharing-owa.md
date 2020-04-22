@@ -12,16 +12,16 @@ ms.custom:
 - "616"
 - "3800014"
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
-ms.openlocfilehash: e3ebeaef819945562d1e7e4d6a41430a9525d69d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: c0e444f0e87748aff172d3070c25e0ed02682b0a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665615"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711990"
 ---
 # <a name="isues-with-calendar-sharing-in-outlook"></a>Isues mit Kalenderfreigabe in Outlook
 
-- Wenn Ihnen in anderen Kalendern keine Frei/Gebucht-Informationen angezeigt werden oder andere Personen keine Frei/Gebucht-Informationen in Ihrem Kalender sehen können, verwenden Sie den [Microsoft Support- und Wiederherstellungs-Assistenten für Office 365](https://diagnostics.office.com/).
+- Wenn Sie Kalender-Frei/Gebucht-Informationen nicht in anderen Kalendern anzeigen können oder wenn andere Personen keine Frei/Gebucht-Informationen in Ihrem Kalender sehen können, verwenden Sie den [Microsoft-Support-und Wiederherstellungs-Assistenten für Microsoft 365](https://diagnostics.office.com/).
 
 **Zusätzliche Ressourcen:**
 

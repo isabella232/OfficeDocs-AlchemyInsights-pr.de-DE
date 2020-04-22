@@ -3,7 +3,7 @@ title: Identifizieren von Ereignissen zum Löschen von Nachrichten in Überwachu
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,22 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: b358b7944b82182a8551d64701e6879a01816524
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 797a4b1146862faf91d2b9e8d74feade90f71650
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539208"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716495"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Überwachungsprotokolle für gelöschte e-Mail-Nachrichten
 
 Ab Januar 2019 wendet Microsoft die postfachüberwachungsprotokollierung standardmäßig an. Andernfalls müssen Sie die Löschaktionen für die Überwachung manuell aktivieren, um Lösch Nachrichten Ereignisse für einen bestimmten Benutzer zu überprüfen. Wenn die postfachüberwachungsprotokollierung bereits für Ihre Organisation oder für den jeweiligen Benutzer aktiviert ist, führen Sie die folgenden Schritte aus.
 
-1. Melden Sie sich beim [Office 365 Security #a0 Compliance Center](https://protection.office.com/) an.
+1. Melden Sie sich beim [Microsoft 365 Security & Compliance Center](https://protection.office.com/) an.
 
 2. Klicken Sie auf **Suche und Untersuchung** , und wählen Sie **Überwachungsprotokoll Suche**aus.
 
-3. Wählen Sie den Datumsbereich in den Feldern **Start Datum** und Enddatum aus. **** Geben Sie den Benutzernamen für den Benutzer an, der untersucht werden soll (der Benutzer, der die Elemente gelöscht hat). Wählen Sie im Feld **Aktivitäten** die Option **Gelöschte Nachrichten aus dem Ordner "Gelöschte Elemente" aus** , und **Verschieben von Nachrichten in den Ordner "Gelöschte Elemente"**.
+3. Wählen Sie den Datumsbereich in den Feldern **Start Datum** und **Enddatum** aus. Geben Sie den Benutzernamen für den Benutzer an, der untersucht werden soll (der Benutzer, der die Elemente gelöscht hat). Wählen Sie im Feld **Aktivitäten** die Option **Gelöschte Nachrichten aus dem Ordner "Gelöschte Elemente" aus** , und **Verschieben von Nachrichten in den Ordner "Gelöschte Elemente"**.
 
 4. Klicken Sie auf **Suchen**.
 

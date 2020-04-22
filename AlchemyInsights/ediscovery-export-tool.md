@@ -14,16 +14,16 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 7e2964ef0a44ddf421e4aae007acbdbda196e20f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 83f18d06006989e03ee6095e430aaf3eb5c72c09
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769302"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714769"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Kann das eDiscovery-Export Tool nicht installiert oder ausgeführt werden?
 
-Wenn Sie das Office 365 eDiscovery-Export Tool zum Herunterladen von Suchergebnissen nicht installieren oder ausführen können, überprüfen Sie die folgenden Punkte:
+Wenn Sie das eDiscovery-Export Tool zum Herunterladen von Suchergebnissen nicht installieren oder ausführen können, überprüfen Sie die folgenden Punkte:
   
 - Der verwendete Computer erfüllt die folgenden Voraussetzungen:
 
@@ -43,7 +43,7 @@ Wenn Sie das Office 365 eDiscovery-Export Tool zum Herunterladen von Suchergebni
 
 - Ihre Organisation kann eine Verbindung mit dem Endpunkt in Azure herstellen, also ** \*. BLOB.Core.Windows.net** (der Platzhalter stellt einen eindeutigen Bezeichner für den Exportauftrag dar).
 
-- Sie haben die Rolle Export im Office 365 Security &amp; Compliance Center zugewiesen. Diese Rolle wird standardmäßig nur der Rollengruppe "eDiscovery-Manager" zugewiesen. Weitere Informationen finden Sie unter [Zuweisen von eDiscovery-Berechtigungen](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
+- Sie haben die Rolle Export im Microsoft 365 Security &amp; Compliance Center zugewiesen. Diese Rolle wird standardmäßig nur der Rollengruppe "eDiscovery-Manager" zugewiesen. Weitere Informationen finden Sie unter [Zuweisen von eDiscovery-Berechtigungen](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
 
 Weitere Informationen finden Sie unter [Exportieren von Inhalts Suchergebnissen](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   

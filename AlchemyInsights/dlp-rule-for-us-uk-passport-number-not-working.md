@@ -3,7 +3,7 @@ title: DLP-Regel für US/UK-Passport-Nummer nicht funktionsfähig
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 11/5/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "1319"
 - "3200001"
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: 534e258c31a9a71c618765511487487c53f455b5
-ms.sourcegitcommit: d108a2da2f5dab05246e30b5108cca5173e09051
+ms.openlocfilehash: 9d9615eccd1e245bf4ca32742bfc64321dd7a8cf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42977105"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714985"
 ---
 # <a name="problems-with-dlp---usuk-passport-numbers"></a>Probleme mit DLP-US/UK-Passport-Nummern
 
-**Wichtig**: in diesen noch nie dagewesenen Zeiten werden Maßnahmen ergriffen, um sicherzustellen, dass SharePoint Online-und OneDrive-Dienste hoch verfügbar bleiben – weitere Informationen finden Sie unter [SharePoint Online Anpassungen temporärer Funktionen](https://aka.ms/ODSPAdjustments) .
+**Wichtig**: Während dieser beispiellosen Zeiten unternehmen wir die erforderlichen Schritte, um sicherzustellen, dass SharePoint Online und OneDrive-Dienste weiterhin in hohem Ausmaß verfügbar bleiben – Bitte besuchen Sie [SharePoint Online – Temporäre Feature-Anpassungen](https://aka.ms/ODSPAdjustments), um weitere Informationen zu erhalten.
 
 **DLP-Probleme mit US/UK-Passport-Nummern**
 

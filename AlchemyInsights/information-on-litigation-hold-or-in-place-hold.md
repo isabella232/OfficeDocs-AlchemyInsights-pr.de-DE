@@ -3,18 +3,18 @@ title: Informationen zum Beweissicherungsverfahren oder in-situ-Aufbewahrung
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: c3f47e3230270e69b8a5bb7ee4167b0b534460dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3ed8158c226d10926551514fa162f31ed7943464
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498954"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711018"
 ---
 # <a name="about-litigation-holds-and-in-place-holds"></a>Informationen zu Beweissicherungsverfahren und in-Place-Aufbewahrungszeit Räumen
 
@@ -22,11 +22,11 @@ ms.locfileid: "36498954"
     
 - Führen Sie die [hier](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)beschriebenen Schritte aus, **um ein Beweissicherungsverfahren** für einen einzelnen Benutzer zu aktivieren. Wenn das Beweissicherungsverfahren aktiviert ist, werden alle Inhalte im Postfach aufbewahrt.
     
-- Wenn Sie einen **in-situ-Speicher für einzelne Benutzer** oder einen Haltebereich auf **alle Postfächer in der gesamten Organisation**anwenden möchten, können Sie Aufbewahrungsrichtlinien im Office 365 Security and Compliance Center verwenden, indem Sie die [hier](https://docs.microsoft.com/Office365/securitycompliance/retention-policies )beschriebenen Schritte ausführen.
+- Wenn Sie einen **in-situ-Speicher für einzelne Benutzer** oder einen Haltebereich auf **alle Postfächer in der gesamten Organisation**anwenden möchten, können Sie Aufbewahrungsrichtlinien im Microsoft 365 Security and Compliance Center verwenden, indem Sie die [hier](https://docs.microsoft.com/Office365/securitycompliance/retention-policies )beschriebenen Schritte ausführen.
     
     > [!NOTE]
     > Bei organisationsweiten Aufbewahrungsrichtlinien werden neue Benutzer automatisch dem Haltestatus hinzugefügt. 
   
-- Um den Postfachinhalt anzuzeigen oder zu ermitteln, der gespeichert wird, verwenden Sie die **eDiscovery-Suche und den Export**. Weitere Informationen zur Verwendung der **eDiscovery-Suche und**des Exports finden Sie in den [hier](https://docs.microsoft.com/office365/securitycompliance/export-search-results)beschriebenen Schritten.
+- Um den Postfachinhalt anzuzeigen oder zu ermitteln, der gespeichert wird, verwenden Sie die **eDiscovery-Suche und den Export**. Weitere Informationen zur Verwendung der **eDiscovery-Suche und des Exports**finden Sie in den [hier](https://docs.microsoft.com/office365/securitycompliance/export-search-results)beschriebenen Schritten.
     
 

@@ -3,7 +3,7 @@ title: Beheben von Problemen mit der Zustellung von e-Mails an e-Mail-aktivierte
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "1956"
 - "3500007"
 ms.assetid: ''
-ms.openlocfilehash: f7b5e5a230d26870d5e95e8762b5874f73723c6d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e261fe60843555fa45927b0a6b36e1ccf79fb028
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525102"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716351"
 ---
 # <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Beheben von Problemen mit der Zustellung von e-Mails an e-Mail-aktivierte Öffentliche Ordner
 
-Wenn externe Absender keine Nachrichten an Ihre e-Mail-aktivierten Öffentlichen Ordner senden können und die Absender den Fehler erhalten: **konnte nicht gefunden werden (550 5.4.1)**, überprüfen Sie, ob die e-Mail-Domäne für den öffentlichen Ordner als interne Relay-Domäne konfiguriert ist und nicht als autorisierende Domäne:
+Wenn externe Absender keine Nachrichten an Ihre e-Mail-aktivierten Öffentlichen Ordner senden können und die Absender den Fehler erhalten: **konnte nicht gefunden werden (550 5.4.1)**, überprüfen Sie, ob die e-Mail-Domäne für den öffentlichen Ordner als interne Relay-Domäne anstelle einer autorisierenden Domäne konfiguriert ist:
 
 1. Öffnen Sie das [Exchange Admin Center (EAC)](https://docs.microsoft.com/Exchange/exchange-admin-center).
 

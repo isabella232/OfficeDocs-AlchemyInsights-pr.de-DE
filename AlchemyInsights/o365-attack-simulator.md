@@ -1,9 +1,9 @@
 ---
-title: 2681-Angriffs Simulator in Office 365
+title: 2681-Angriffs Simulator in Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 07d7622c00074f7bd0d567185824db448f1eeef3
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 74bd2dd62b24aaf6c9d7b387ab1d97ddab31e902
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305331"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713465"
 ---
-# <a name="attack-simulator-in-office-365"></a>Angriffssimulator in Office 365
+# <a name="attack-simulator-in-microsoft-365"></a>Angriffs Simulator in Microsoft 365
 
-- Fehlt Ihnen der Angriffs Simulator? Angriffs Simulator erfordert **Office 365 Advanced Threat Protection Plan 2 (ATP Plan 2)** oder **Office 365 Enterprise E5**. Der Angriffs Simulator ist **nicht** in Office 365 Advanced Threat Protection Plan 1 (ATP Plan 1), Office 365 Enterprise E3 oder any Office 365 Business Subscriptions enthalten.
+- Fehlt Ihnen der Angriffs Simulator? Angriffs Simulator erfordert **Office 365 Advanced Threat Protection Plan 2 (ATP Plan 2)** oder **Office 365 Enterprise E5**. Der Angriffs Simulator ist **nicht** in Office 365 Advanced Threat Protection Plan 1 (ATP Plan 1), Office 365 Enterprise E3 oder any Microsoft 365 apps for Business-Abonnements enthalten.
 
 - Das Konto, das Sie zum Starten simulierter Angriffe verwenden, erfordert globale Administrator-oder Sicherheitsadministratorberechtigungen und mehrstufige Authentifizierung (MFA). Weitere Informationen zu Anforderungen für den Angriffs Simulator finden Sie in [diesem Thema](https://docs.microsoft.com/office365/securitycompliance/attack-simulator#before-you-begin).
 
@@ -38,4 +38,4 @@ ms.locfileid: "37305331"
 
 - Berichte: Wenn der simulierte Angriff abgeschlossen ist, können Sie auf **Angriffs Details** klicken, um den Bericht anzuzeigen.
 
-- Ausführliche Anweisungen und neue Features in Attack Simulator finden Sie unter [Attack Simulator in Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Ausführliche Anweisungen und neue Features in Attack Simulator finden Sie unter [Attack Simulator in Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).

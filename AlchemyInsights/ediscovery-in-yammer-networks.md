@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: adc5dba801236bfbcff30d3fa151f8d0463be3cd
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 237121fa451fb9a05ca5ca496b92e743730656ce
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600599"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714733"
 ---
 # <a name="ediscovery-in-yammer-networks"></a>eDiscovery in Jammer Netzwerken
 
-Sie können jetzt eDiscovery-Suchvorgänge für jammern von Inhalten in Office 365 durchführen.  Das Ausführen von eDiscovery-suchen oder das Exportieren von Inhalten mit Jammer erfordert Folgendes:
+Sie können nun eDiscovery-Suchvorgänge für jammern von Inhalten durchführen.  Das Ausführen von eDiscovery-suchen oder das Exportieren von Inhalten mit Jammer erfordert Folgendes:
 
-1. Sie müssen zuerst Ihr Jammer Unternehmensnetzwerk in den einheitlichen Modus migrieren, damit Nachrichten und Dateien für das Jammern auffindbar sind. **Hinweis: Wenn Sie ein neuer Office 365 Kunde ab dem 9. Januar 2020 sind und Ihr Jammer Netzwerk bereits im einheitlichen Modus ist, sind Ihre Daten jetzt mit eDiscovery auffindbar**.
+1. Sie müssen zuerst Ihr Jammer Unternehmensnetzwerk in den einheitlichen Modus migrieren, damit Nachrichten und Dateien für das Jammern auffindbar sind. **Hinweis: Wenn Sie ein neuer Kunde ab dem 9. Januar 2020 sind und Ihr Jammer Netzwerk bereits im einheitlichen Modus ist, sind Ihre Daten jetzt mit eDiscovery auffindbar**.
 
 2. Für das Beenden von Kunden steht eDiscovery für jammern zur Verfügung, sobald das Alignment-Tool für den einheitlichen Modus freigegeben wird und die Migration im einheitlichen Modus für jammern im Mandanten abgeschlossen wird.
 
@@ -30,4 +30,4 @@ Weitere Informationen zu:
 
 - Nativer Modus in jammern finden Sie unter: [Overview of Native Mode](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
 - eDiscovery in Jammer Netzwerken, siehe: [Übersicht über eDiscovery in Jammer Netzwerken](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
-- eDiscovery in Office 365 finden Sie unter [eDiscovery in Office 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+- eDiscovery in Microsoft 365, siehe [eDiscovery in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).

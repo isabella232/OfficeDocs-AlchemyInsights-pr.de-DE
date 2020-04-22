@@ -1,9 +1,9 @@
 ---
-title: 1829-eDiscovery-Probleme
+title: 1829-eDiscovery-Issues
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: 96a473093c3de1a75f29f633890e08043f2b29b6
-ms.sourcegitcommit: a340858cfbe1c34b147cffd1b0d4573160200f1d
+ms.openlocfilehash: 01d9bc598a0293b15969a4e3292fb3f9abab10db
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33544549"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714477"
 ---
 # <a name="ediscovery-issues"></a>eDiscovery-Probleme
 
-Suchen Sie nach eDiscovery-Optionen? Mit der neu entworfenen Navigation im Security & Compliance Center wurden ihre eDiscovery-Optionen möglicherweise bereits verschoben.  Die eDiscovery-Optionen finden Sie in den folgenden Speicherorten im Security & Compliance Center auf der Grundlage ihrer Bemühungen:
+Suchen Sie nach eDiscovery-Optionen? Mit der neu entworfenen Navigation im Security & Compliance Center sind Ihre eDiscovery-Optionen möglicherweise bereits verschoben worden.  Die eDiscovery-Optionen finden Sie in den folgenden Speicherorten im Security & Compliance Center basierend auf den Schritten, die Sie ausführen möchten:
 
-- Verwenden Sie die Inhaltssuche, um Ihre Organisation nach Inhalten in e-Mails, Dokumenten, Skype for Business-Unterhaltungen zu durchsuchen, und exportieren Sie die Daten-navigieren Sie zu **Suche > Inhaltssuche**
+- Verwenden der Inhaltssuche zum Durchsuchen Ihrer Organisation nach Inhalten in e-Mails, Dokumenten, Skype for Business Unterhaltungen und Exportieren der Daten – gehe zu **Suche > Inhaltssuche**
 
-- Erstellen Sie einen eDiscovery-Fall für die Suche nach Inhalten und Speicherort der inhaltsspeicherorte – wechseln Sie zu **eDiscovery > eDiscovery**
+- Erstellen eines eDiscovery-Falls zum Suchen nach Inhalten und Platzieren von Inhaltsspeicherorten in der Warteschleife – gehen Sie zu **eDiscovery > eDiscovery**
 
-- Verwenden Sie die neue End-to-End Advanced eDiscovery-Lösung, um mit Depotbank zu identifizieren und mit Ihnen zu kommunizieren, die für den Fall relevanten Depotbank-Daten zu erhalten, Daten zu sammeln und zu einem Übersichts Satz hinzuzufügen und die Datenmenge zu reduzieren, indem Sie Analysen anwenden, um unnötige Daten auszumerzen und konzentrieren Sie sich auf das, was für den Fall relevant ist – gehen Sie zu **eDiscovery > Advanced eDiscovery**
+- Verwenden Sie die neue End-to-End-eDiscovery-Lösung, um Verwalter zu identifizieren und mit Ihnen zu kommunizieren, die für den Fall relevanten Depotbank-Daten zu schützen, Daten zu sammeln und zu einem Überprüfungs hinzuzufügen und die Datenmenge zu reduzieren, indem Sie Analysen anwenden, um unnötige Daten auszumerzen und sich auf die relevantesten Fälle zu konzentrieren – zu **eDiscovery >**
 
 Weitere Informationen finden Sie unter:
 
-- [Inhaltssuche in Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search)
+- [Inhaltssuche](https://docs.microsoft.com/office365/securitycompliance/content-search)
 
 - [eDiscovery-Fälle im Security & Compliance Center](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
 
-- [Erweiterte eDiscovery-Lösung in Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)
+- [Advanced eDiscovery-Lösung in Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)

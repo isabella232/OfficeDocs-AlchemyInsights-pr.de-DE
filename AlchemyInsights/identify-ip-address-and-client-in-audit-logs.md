@@ -3,7 +3,7 @@ title: Identifizieren der IP-Adresse und des Clients in Überwachungsprotokollen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,20 +12,20 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d1a0d412fc0c6d79e50b101ca759127522f45dcd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539028"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716387"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Identifizieren der IP-Adresse und des Clients in Überwachungsprotokollen
 
-Die IP-Adresse, die einer Aktivität eines Office 365 Benutzers oder Administrators entspricht, wird in den Überwachungsprotokollen angezeigt. Die Clientinformationen werden ebenfalls protokolliert. Hier sind die Schritte zum Identifizieren solcher Informationen.
+Die IP-Adresse, die einer Aktivität eines Microsoft 365-Benutzers oder-Administrators entspricht, wird in den Überwachungsprotokollen angezeigt. Die Clientinformationen werden ebenfalls protokolliert. Hier sind die Schritte zum Identifizieren solcher Informationen.
 
-1. Melden Sie sich beim [Office 365 Security #a0 Compliance Center](https://protection.office.com/)an.
+1. Melden Sie sich beim [Microsoft 365 Security & Compliance Center](https://protection.office.com/)an.
 
-2. Wechseln Sie zur **** > Suchseite**Überwachungsprotokoll** suchen.
+2. Wechseln Sie zur **Search** > Suchseite**Überwachungsprotokoll** suchen.
 
    Wenn Sie an einer bestimmten Aktivität interessiert sind, wählen Sie diese in der Liste **Aktivitäten** aus. Wenn dies nicht der Fall ist, werden alle Aktivitäten für den ausgewählten Benutzer zurückgegeben (Standardeinstellung).
 

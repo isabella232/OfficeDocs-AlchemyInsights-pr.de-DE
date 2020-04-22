@@ -12,28 +12,28 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: f41cfd77ce1173e6786f25316f04e84bfa35af07
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 4940746e178ad4f01de0ae237b7bb49bbd045135
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664715"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712170"
 ---
-# <a name="buy-additional-office-365-licenses"></a>Erwerben zusätzlicher Office 365 Lizenzen
+# <a name="buy-additional-licenses"></a>Erwerben zusätzlicher Lizenzen
 
-1. Wechseln Sie im Admin Center zur Seite **Abrechnungs** \> [Produkte #a0 Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Navigieren Sie im Admin Center zur Seite **Abrechnung** \> [Produkte und Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
 2. Suchen Sie nach dem Abonnement, dem Sie Lizenzen hinzufügen möchten, und wählen Sie dann **Lizenzen hinzufügen/entfernen**aus.
 
     [Was geschieht, wenn der Link zum Hinzufügen/Entfernen nicht angezeigt wird?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
 
-3. Geben Sie im Feld **Gesamt Lizenzen** die Gesamtzahl der Lizenzen ein, die Sie für dieses Abonnement benötigen, und wählen Sie dann **Änderung übermitteln**aus. Wenn Sie beispielsweise 100 Lizenzen haben und 5 weitere hinzufügen möchten, geben Sie 105.
+3. Geben Sie im Feld **Gesamt Lizenzen** die Gesamtzahl der Lizenzen ein, die Sie für dieses Abonnement benötigen, und wählen Sie dann **Änderung übermitteln**aus. Wenn Sie beispielsweise über 100 Lizenzen verfügen und 5 weitere hinzufügen müssen, geben Sie 105 ein.
 
     > [!NOTE]
-    > Wenn Sie Ihr Abonnement per Kreditkarte oder Bankkonto bezahlen, sind alle neuen Lizenzen, die Sie kaufen, sofort verfügbar, nachdem Sie eine Auftragsbestätigung erhalten haben. Wenn Sie per Rechnung bezahlen, müssen Sie möglicherweise auf eine Bonitätsprüfung warten, bevor Ihre neuen Lizenzen zur Verfügung stehen.
+    > Wenn Sie Ihr Abonnement per Kreditkarte oder Bankkonto bezahlen, stehen alle neu erworbenen Lizenzen direkt nach Erhalt der Auftragsbestätigung zur Verfügung. Wenn Sie per Rechnung bezahlen, müssen Sie möglicherweise die Kreditwürdigkeitsprüfung abwarten, bevor Sie Ihre neuen Lizenzen verwenden können.
 
-Weitere Informationen finden Sie unter [kaufen von Lizenzen für Ihr Office 365 für Unternehmen Abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
+Weitere Informationen finden Sie unter [kaufen von Lizenzen für Ihr Microsoft 365 for Business-Abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
 
 **Weitere Ressourcen**
 
-- [Zuweisen von Lizenzen zu Benutzern in Office 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Zuweisen von Lizenzen zu Benutzern in Microsoft 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)

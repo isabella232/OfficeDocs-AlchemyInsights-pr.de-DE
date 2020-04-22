@@ -12,20 +12,20 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: c6a2030eb7aa1cc47ce70725cbb07c8fac6a7175
-ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
+ms.openlocfilehash: 13c9448e19f11490182612ff627e72e38809752a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068299"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714041"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a>Wechseln von Plänen zum Vergrößern des Postfachs
+# <a name="switch-subscriptions-to-increase-mailbox-size"></a>Wechseln von Abonnements zur Vergrößerung der Postfachgröße
 
-Wenn die Größe Ihres Office 365 Postfachs bereits 100 GB beträgt, kann diese nicht mehr erhöht werden.
+Wenn die Postfachgröße bereits 100 GB beträgt, kann Sie nicht mehr erhöht werden.
   
-Wenn die Postfachgröße 50 GB beträgt, können Sie Sie auf 100 GB vergrössern, indem Sie zu [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) oder [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software)wechseln. Hier sind die erforderlichen Schritte für den Wechsel zu einem anderen Office 365-Plan:
+Wenn die Postfachgröße 50 GB beträgt, können Sie Sie auf 100 GB vergrössern, indem Sie zu [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) oder [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software)wechseln. Hier sind die Schritte zum Wechseln zu einem anderen Abonnement:
   
-1. Wechseln Sie im Microsoft 365 Admin Center zur Seite **Abrechnungs** \> [Produkte #a0 Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Wechseln Sie im Microsoft 365 Admin Center zur Seite **Abrechnungs** \> [Produkte & Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Wählen Sie das Abonnement aus, das Sie aktualisieren möchten.
 
@@ -37,4 +37,4 @@ Wenn die Postfachgröße 50 GB beträgt, können Sie Sie auf 100 GB vergrössern
 
 Weitere Informationen finden Sie unter [Upgrade auf einen anderen Plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
 
-Wenn Sie über einen [Office 365 Plan verfügen, der ein in-Place-Archiv unterstützt](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), können Sie auch zusätzlichen e-Mail-Speicher durch Aktivieren eines Archivpostfachs erhalten. Ein Archivpostfach bietet zusätzlichen Speicherplatz und ermöglicht es Ihnen, Nachrichten sowohl im primären als auch im Archivpostfach zu verlagern, zu kopieren und zu suchen. Schritte zum Aktivieren eines Archivpostfachs finden Sie unter [Aktivieren eines Archivpostfachs](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
+Wenn Sie über ein [Abonnement verfügen, das ein in-Place-Archiv unterstützt](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), können Sie auch zusätzlichen e-Mail-Speicher durch Aktivieren eines Archivpostfachs erhalten. Ein Archivpostfach bietet zusätzlichen Speicherplatz und ermöglicht es Ihnen, Nachrichten sowohl im primären als auch im Archivpostfach zu verlagern, zu kopieren und zu suchen. Schritte zum Aktivieren eines Archivpostfachs finden Sie unter [Aktivieren eines Archivpostfachs](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
