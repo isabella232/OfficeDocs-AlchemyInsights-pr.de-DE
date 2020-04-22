@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2593"
 - "9000698"
-ms.openlocfilehash: d95bd56839e56b199c7a7c4e569c8fe2c5d00c1e
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: c349f896d68c408ce6e5adba4bd69d012e0f2daa
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908849"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43655389"
 ---
 # <a name="pstn-calling-with-skype-for-business-online"></a>PSTN-Anrufe mit Skype for Business Online
 
-Wenn Sie PSTN-Anrufe in Office 365 tätigen möchten, benötigen Sie einen [Office 365 Anrufplan](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) oder eine Verbindung mit Ihrer lokalen PSTN-Telefoninfrastruktur. Weitere Informationen finden Sie unter:
+Wenn Sie PSTN-Anrufe in Microsoft 365 durchführen möchten, benötigen Sie einen [Anrufplan von Microsoft 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) oder eine Verbindung mit Ihrer lokalen PSTN-Telefoninfrastruktur. Weitere Informationen finden Sie unter:
 
-- [Verfügbarkeit von Audiokonferenzen und Anrufplänen nach Ländern und Regionen](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
-- [Häufige Fragen im Zusammenhang mit Microsoft Office 365-Audiokonferenzen](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
-- [Guthaben hinzufügen und Guthaben für Kommunikationen verwalten](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
+- [Verfügbarkeit von Land und Region für Audiokonferenz und Anrufpläne](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
+- [Häufige Fragen im Zusammenhang mit Microsoft 365-Audiokonferenzen](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
+- [Hinzufügen von Geld und Verwalten von Guthaben für Kommunikationen](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
 - [PSTN-Anrufer können nicht an einer Skype for Business Einwahlkonferenz teilnehmen](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)

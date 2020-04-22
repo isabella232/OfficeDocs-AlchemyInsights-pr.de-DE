@@ -3,18 +3,18 @@ title: Outlook-Desktop Rückruf oder Ersetzen einer e-Mail-Nachricht
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: d64332778f9132aff6a9660bb0d522f4e16b753c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36496110"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687509"
 ---
 # <a name="recall-or-replace-an-outlook-email-message"></a>Rückruf oder Ersetzen einer Outlook-e-Mail-Nachricht
 
@@ -37,4 +37,4 @@ Suchen nach und Löschen von e-Mail-Nachrichten in Ihrer Organisation
 - [Erstellen Sie eine Inhaltssuche](https://docs.microsoft.com/office365/securitycompliance/content-search) , um die zu löschende Nachricht zu suchen.
 - Stellen [Sie eine Verbindung mit Security and Compliance Center PowerShell her](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
 
-Wenn Sie die mehrstufige Authentifizierung verwenden, finden Sie unter [Connect to Office 365 Security and Compliance Center PowerShell mithilfe der mehr](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps)stufigen Authentifizierung.
+Wenn Sie die mehrstufige Authentifizierung verwenden, lesen Sie die Informationen unter [Connect to Microsoft 365 Security and Compliance Center PowerShell using Multi-Factor Authentication](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: 0987be6bed4bdc98d6f0162d333c2797fda6b559
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: cebe43464aa6672057ea8d2fa3ec9e898918b184
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053836"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692836"
 ---
 # <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>Problembehandlung bei fehlenden Dateien oder Ordnern in OneDrive oder SharePoint
 
@@ -25,7 +25,7 @@ ms.locfileid: "40053836"
 
 
 
-**Datei Wiederherstellung (Feature)**
+**Dateiwiederherstellungsfeature**
 
 Wenn viele ihrer OneDrive-oder SharePoint-Dateien gelöscht, überschrieben, beschädigt oder durch Schadsoftware infiziert werden, können Sie die gesamte OneDrive-oder SharePoint-Bibliothek mit dem Feature zum Wiederherstellen der Dateien in einem früheren Zeitpunkt wiederherstellen.
 
@@ -35,7 +35,7 @@ Wenn viele ihrer OneDrive-oder SharePoint-Dateien gelöscht, überschrieben, bes
 
 **Verwenden der Überwachungsprotokollierung oder des Bereichs "Dateiaktivität" zum Überprüfen des Verlaufs der Datei**
 
-[Überprüfen Sie die Überwachungsberichte](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fen-us%252farticle%252fsearch-the-audit-log-in-the-office-365-protection-center-0d4d0f35-390b-4518-800e-0c7ec95e946c) </a> , indem Sie [hier](https://protection.office.com/#/unifiedauditlog) navigieren
+[Überprüfen Sie die Überwachungsberichte](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) </a> , indem Sie [hier](https://protection.office.com/#/unifiedauditlog) navigieren
 
 Verwenden Sie den Bereich [Dateiaktivität](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) , um den Verlauf der Datei zu überprüfen.
 

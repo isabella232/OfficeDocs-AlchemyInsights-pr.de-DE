@@ -1,5 +1,5 @@
 ---
-title: Aktivieren und Deaktivieren der externen Freigabe für SharePoint
+title: Aktivieren oder Deaktivieren der externen Freigabe für SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: e652fc1ae0a7212f4c7f092fc3b184ef1bc13d0d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e39b8525fbcd43ee3778e5f3df9d3576fbd8924f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053908"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692872"
 ---
 # <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Warnmeldung: die Richtlinien Ihrer Organisation erlauben keine Freigabe für diese Benutzer.
 
-Beim Versuch, eine Freigabe für externe Benutzer Ihrer Organisation durchführen, wird möglicherweise eine Warnmeldung angezeigt. Die Nachricht lautet **, dass die Richtlinien Ihrer Organisation keine Freigabe für diese Benutzer zulassen. Wechseln Sie zur externen Freigabe im Office 365 Admin Center, um Sie zu aktivieren**. Dies geschieht häufig beim ersten Versuch, für externe Benutzer freizugeben, oder wenn Sie für neue externe Benutzer freigeben.
+Beim Versuch, eine Freigabe für externe Benutzer Ihrer Organisation durchführen, wird möglicherweise eine Warnmeldung angezeigt. Die Nachricht lautet **, dass die Richtlinien Ihrer Organisation keine Freigabe für diese Benutzer zulassen. Wechseln Sie zur externen Freigabe im Microsoft 365 Admin Center, um Sie zu aktivieren**. Dies geschieht häufig beim ersten Versuch, für externe Benutzer freizugeben, oder wenn Sie für neue externe Benutzer freigeben.
 
 Überprüfen Sie die **externen Freigabeeinstellungen für SharePoint und OneDrive** für Ihre Organisation.
 

@@ -2,7 +2,7 @@
 title: Verwalten einer Gruppe ohne Exchange-Lizenz
 ms.author: pebaum
 author: pebaum
-ms.date: 5/23/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.assetid: edef2e23-72cf-4a76-8a51-0b26182187cc
 ms.custom:
 - "79"
 - "1200018"
-ms.openlocfilehash: f117cc1dc55e1786a9f6bc500314877e97df3f5e
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7170f98a1f874f5f44badc82247e1e933f9972d8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049264"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671168"
 ---
 # <a name="manage-a-group-without-an-exchange-license"></a>Verwalten einer Gruppe ohne Exchange-Lizenz
 
-Wenn Ihr Office 365 Administratorkonto kein Postfach hat, erhalten Sie möglicherweise eine Fehlermeldung bezüglich einer fehlenden Produktlizenz, wenn Sie versuchen, eine Office 365 Gruppe zu bearbeiten.
+Wenn Ihr Administratorkonto kein Postfach hat, erhalten Sie möglicherweise eine Fehlermeldung zu einer fehlenden Produktlizenz, wenn Sie versuchen, eine Office 365 Gruppe zu bearbeiten.
   
 Da Sie der mandantenadministrator sind, können Sie eine Gruppe auch dann bearbeiten, wenn Sie nicht über eine Exchange-Lizenz verfügen. Wechseln Sie einfach zu [Exchange Admin Center](https://outlook.office365.com/ecp.aspx) \> - **Gruppen** , um die Office 365 Gruppe zu verwalten.
   

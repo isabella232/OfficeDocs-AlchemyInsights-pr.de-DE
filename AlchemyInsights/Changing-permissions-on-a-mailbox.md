@@ -11,18 +11,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: e4349d78cf7b34fbf8429fbb482469861901ace1
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: fa226612a9b9bfa8e6ca0b287fc51969d95e3469
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36734380"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692512"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>Ändern von Berechtigungen für ein Postfach
 
-Wenn Benutzer Zugriff auf Office 365 Postfächer benötigen, die nicht Ihren eigenen sind, müssen Sie Berechtigungen für die Verwendung dieser Postfächer erhalten. Die Art der Zuweisung dieser Berechtigungen hängt vom Postfachtyp ab. Wenn Benutzer Zugriff auf Folgendes benötigen:
+Wenn Benutzer Zugriff auf andere Postfächer benötigen als ihre eigenen, müssen Sie Berechtigungen für die Arbeit mit diesen Postfächern erhalten. Die Art der Zuweisung dieser Berechtigungen hängt vom Postfachtyp ab. Wenn Benutzer Zugriff auf Folgendes benötigen:
   
-- Postfächer anderer Benutzer – weitere Informationen finden Sie unter [Erteilen von Postfachberechtigungen für einen anderen Benutzer in Office 365](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
+- Postfächer anderer Benutzer – weitere Informationen finden Sie unter [Erteilen von Postfachberechtigungen für einen anderen Benutzer](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
     
 - Ein freigegebenes Postfach-Weitere Informationen finden Sie unter [Hinzufügen oder Entfernen von Mitgliedern eines freigegebenen Postfachs](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
     

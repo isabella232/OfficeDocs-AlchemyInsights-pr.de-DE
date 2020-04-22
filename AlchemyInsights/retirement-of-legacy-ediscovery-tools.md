@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: af9a0bd8ff4294575ac68f37d4997bb50b132ce7
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 262cca0feee17d1f929a5a94a4dd6c1ec317f6ec
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600367"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43650567"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>Ruhestand von vorversions-eDiscovery-Tools
 
@@ -37,7 +37,7 @@ Aufgrund der neuen und verbesserten eDiscovery-Funktionalität im Microsoft 365 
     - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Office 365 Advanced eDiscovery v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Erweiterte eDiscovery v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **Zeitachse für den Ruhestand**:
 - 1. April 2020: Sie können keine neuen suchen und Aufbewahrungen erstellen, aber Sie können vorhandene Suchvorgänge auf eigenes Risiko ausführen, bearbeiten und löschen. Der Microsoft-Support unterstützt keine Compliance-eDiscovery-&, die in der Exchange-Verwaltungskonsole gespeichert sind.
@@ -47,7 +47,7 @@ Aufgrund der neuen und verbesserten eDiscovery-Funktionalität im Microsoft 365 
 **Weitere Informationen finden Sie unter**:
 
  - [Migrieren von Legacy-eDiscovery-suchen und-Archiven zum Microsoft 365 Compliance Center](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [Ruhestand von vorversions-eDiscovery-Tools](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [Einstellung älterer eDiscovery-Tools](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
  - [FAQs zu Compliance-eDiscovery und in-Place-Archiven](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 

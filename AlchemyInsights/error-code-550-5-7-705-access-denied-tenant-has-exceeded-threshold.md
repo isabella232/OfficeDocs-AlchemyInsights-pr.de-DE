@@ -2,7 +2,7 @@
 title: Fehlercode 550 5.7.705 Zugriff verweigert, Mandanten Schwellenwert überschritten
 ms.author: chrisda
 author: chrisda
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: 9424b396175dae23a74e45a13ddf3ea3562b5cff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14488ea7d067ee1f8d2a752c30a06f84a7ed9b33
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527218"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702989"
 ---
 # <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705-Zugriff verweigert, Mandanten Schwellenwert überschritten
 
 Diese Meldung tritt auf, wenn zu viel Spam oder Massen-e-Mail von Ihrer Organisation gesendet wurde und wir einen Block für ausgehende e-Mails platzieren.
-Häufige Ursachen sind lokale Server oder kompromittierte Administratorkonten, die zum Erstellen von Connectors verwendet wurden. Mit einer der Bedingungen kann Spam Ihre Organisation passieren lassen.
+Häufige Ursachen sind kompromittierte lokale Server oder kompromittierte Administratorkonten, die zum Erstellen von Connectors verwendet wurden. Beide Bedingungen können dazu führen, dass Spam Ihre Organisation durchläuft.
 
-Um diesen Block zu entfernen, müssen Sie die Ursache für einen Support-Agent verstehen und erklären und das zugrunde liegende Problem beheben.
+Damit diese Blockierung aufgehoben wird, müssen Sie die Ursache kennen und diese einem Supportmitarbeiter erläutern. Außerdem müssen Sie das zugrunde liegende Problem beheben.
 Klicken Sie auf **kontaktieren Sie uns** unten, sobald Sie fertig sind.

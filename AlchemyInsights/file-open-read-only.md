@@ -3,7 +3,7 @@ title: Datei schreibgeschützt geöffnet
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: eddd427b159a782abf53adda934de8b15a02ed00
-ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
+ms.openlocfilehash: c045188af15fcec0f868eb0e5b399bd1fb42a09a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/10/2019
-ms.locfileid: "36822233"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702773"
 ---
 # <a name="file-open-read-only"></a>Datei schreibgeschützt geöffnet
 
@@ -37,7 +37,7 @@ Dateien aus dem Internet und aus anderen potenziell unsicheren Speicherorten kö
   
  **Ist OneDrive voll?**
   
-Wenn die Datei auf OneDrive gespeichert ist und Ihr OneDrive-Speicherplatz voll ist, können Sie das Dokument erst speichern, wenn Sie sich unter Ihrem zugewiesenen Speicherplatz befinden. Sie können Ihren freien Speicherplatz auf OneDrive überprüfen, indem Sie im Infocenter auf das OneDrive-Symbol klicken und Speicher verwalten auswählen, [http://onedrive.live.com](http://onedrive.live.com)oder Sie können zu, anmelden und die Menge des verwendeten Speicherplatzes in der linken oberen Ecke des Bildschirms wechseln.
+Wenn die Datei auf OneDrive gespeichert ist und Ihr OneDrive-Speicherplatz voll ist, können Sie das Dokument erst speichern, wenn Sie sich unter Ihrem zugewiesenen Speicherplatz befinden. Sie können Ihren freien Speicherplatz auf OneDrive überprüfen, indem Sie im Infocenter auf das OneDrive-Symbol klicken und Speicher verwalten auswählen, [https://onedrive.live.com](https://onedrive.live.com)oder Sie können zu, anmelden und die Menge des verwendeten Speicherplatzes in der linken oberen Ecke des Bildschirms wechseln.
   
  **Ist Office aktiviert?**
   

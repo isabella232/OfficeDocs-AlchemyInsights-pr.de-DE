@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: a171c30d9e58aeafc270e60a5a4fa4cd7db4135f
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 804ed86b45d73d17931c18ee23c7fb120c68723e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "42977473"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704524"
 ---
 # <a name="information-about-dlp-issues"></a>Informationen zu DLP-Problemen
 
@@ -24,11 +24,11 @@ ms.locfileid: "42977473"
 
 **Informationen zur DLP-Richtlinie**
 
-Mit einer DLP-Richtlinie können Sie vertrauliche Informationen über Office 365 identifizieren, überwachen und automatisch schützen.
+Mit einer DLP-Richtlinie können Sie vertrauliche Informationen in Microsoft 365 identifizieren, überwachen und automatisch schützen.
 
 Weitere Informationen finden Sie unter den folgenden Links:
 
-- [Verhinderung von Datenverlust – Übersicht](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
+- [Übersicht über die Verhinderung von Datenverlust](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
 - [Wonach die Typen von vertraulichen Informationen suchen](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
 - [Erstellen eines benutzerdefinierten vertraulichen Informationstyps](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)
 - [Senden von e-Mail-Benachrichtigungen und Anzeigen von Richtlinien Tipps](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
