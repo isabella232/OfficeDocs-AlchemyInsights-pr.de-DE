@@ -10,12 +10,12 @@ ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
 ms.custom:
 - "1828"
 - "9000231"
-ms.openlocfilehash: 93caa0973ab4a960c9395c726a45a441609d2dac
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: fc784c8d2cbb87656be776e20d4b6ee4fbdeb62f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051136"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758443"
 ---
 # <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Wann wird meine Profiländerung mit der SharePoint-benutzerprofilanwendung synchronisiert?
 
@@ -23,11 +23,11 @@ Die Profilbild Synchronisierung in SharePoint Online erfordert die Aktion eines 
 
 Wenn ein Benutzer noch nie eine Aktion ausgeführt hat, die eine Synchronisierung anfordert oder sein Profilbild aktualisiert hat, und der neue nicht in SharePoint Online angezeigt wird, muss der Benutzer möglicherweise eine Aufforderung zur Synchronisierung auffordern. Hier erfahren Sie, wie Sie dies tun können:
 
-1. Öffnen Sie einen Webbrowser in einer InPrivate-oder Incognito-Sitzung, und [wechseln Sie zu Office.com](http://www.office.com/).
+1. Öffnen Sie einen Webbrowser in einer InPrivate-oder Incognito-Sitzung, und [wechseln Sie zu Office.com](https://www.office.com/).
 
 2. Melden Sie sich mit ihrem geschäftlichen oder Schulkonto an, und klicken Sie auf die Kachel OneDrive oder SharePoint.
 
-3. [Fügen Sie Ihr Profilfoto Office 365 hinzu](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
+3. [Fügen Sie Ihr Profilfoto zu Microsoft 365 hinzu](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
 
-[Informationen zur Synchronisierung von Profilbildern in Office 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)
+[Informationen zur Synchronisierung von Profilbildern in Microsoft 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)
 

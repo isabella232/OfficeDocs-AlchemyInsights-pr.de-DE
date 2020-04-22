@@ -2,7 +2,7 @@
 title: Begriffe, die in SharePoint Online Term Store fehlen
 ms.author: pebaum
 author: pebaum
-ms.date: 10/30/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom:
 - "1243"
 - "5200021"
-ms.openlocfilehash: 28913b8e57e39d51e8957b7408c19337a119c589
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 54ac2dbc1f45f88541c2338f3b55a777b4b57123
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053512"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766852"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Aktivieren der BitLocker-Verschlüsselung mit InTune
 
@@ -33,7 +33,7 @@ FAQ  f: welche Editionen von Windows unterstützen die Geräteverschlüsselung 
 
 F.: Wenn ein Gerät bereits mit BitLocker mit den Standardeinstellungen für Verschlüsselungsmethode und Verschlüsselungsstärke (XTS-AES-128) verschlüsselt ist, wird eine Richtlinie mit unterschiedlichen Einstellungen automatisch mit der erneuten Verschlüsselung des Laufwerks mit den neuen Einstellungen ausgelöst?
 
-A.: Nein. Damit die neuen Verschlüsselungseinstellungen angewendet werden, muss das Laufwerk zunächst entschlüsselt werden.
+A: Nein. Damit die neuen Verschlüsselungseinstellungen angewendet werden, muss das Laufwerk zunächst entschlüsselt werden.
 
 Hinweis für Geräte, die mit Autopilot registriert werden die automatische Verschlüsselung, die während der OOBE erfolgen würde, wird erst ausgelöst, wenn die Intune-Richtlinie ausgewertet wird, sodass die richtlinienbasierten Einstellungen anstelle der Standardwerte für das Betriebssystem verwendet werden können.
 
