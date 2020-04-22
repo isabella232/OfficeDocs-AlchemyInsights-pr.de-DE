@@ -10,16 +10,16 @@ ms.custom:
 - "895"
 - "8000036"
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
-ms.openlocfilehash: bbb8741fcb394d0951a1fb40400a7534737d3a7a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 18d136f1fdd67b4af89b0f81da19e052f5ea3ff8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769662"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706363"
 ---
 # <a name="changing-message-or-attachment-size"></a>Ändern der Größe von Nachrichten oder Anlagen
 
-Als Office 365 Administrator können Sie die maximale/minimale Größe von Nachrichten (einschließlich Anlagen) ändern, die Ihre Benutzer senden. Dies ist für einzelne Benutzer oder alle Benutzer möglich (Organisationsstandard). Nachdem Sie diese Einstellung geändert haben, dauert es etwa 30 Minuten, bis Sie wirksam werden.
+Als Microsoft 365-Administrator können Sie die maximale/minimale Größe von Nachrichten (einschließlich Anlagen) ändern, die Ihre Benutzer senden. Dies ist für einzelne Benutzer oder alle Benutzer möglich (Organisationsstandard). Nachdem Sie diese Einstellung geändert haben, dauert es etwa 30 Minuten, bis Sie wirksam werden.
   
 - Um die Nachrichtengröße für einen bestimmten Benutzer zu ändern, wechseln Sie zu **Admin Centers** \> **Exchange** \> **Recipients** \> **Mailboxes**. Wählen Sie das Postfach eines Benutzers aus. Wählen Sie das Symbol bearbeiten aus, wählen Sie **Postfachfunktionen**aus, und wählen Sie dann unter Einschränkungen für die **Nachrichtengröße**die Option **Details anzeigen** aus, und geben Sie neue maximale Nachrichtengröße an.
 

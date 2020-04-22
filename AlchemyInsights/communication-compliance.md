@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: e612c1fb9c0a1b1f6e9a53a2b9eefeed0583dc9e
-ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.openlocfilehash: a10d6ce44ab205087669b3f2152351a949030b02
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38274884"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706164"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Kommunikations Kompatibilität in Microsoft 365
 
-Communication Compliance ist eine neue Microsoft 365-Konformitäts Lösung, die Organisationen dabei unterstützt, aufsichtsbehördliche Compliance-Anforderungen zu erfüllen und Kommunikationsrisiken zu minimieren. Sie basiert auf dem Überwachungsfeature in Office 365 und enthält neue Verbesserungen, einschließlich:
+Communication Compliance ist eine neue Microsoft 365-Konformitäts Lösung, die Organisationen dabei unterstützt, aufsichtsbehördliche Compliance-Anforderungen zu erfüllen und Kommunikationsrisiken zu minimieren. Sie basiert auf dem Überwachungsfeature und enthält neue Verbesserungen, einschließlich:
 
 - Intelligente anpassbare Vorlagen
 - Flexible Korrektur Workflows
 - Umsetzbare Einblicke
 
-Wenn Sie derzeit [Aufsichtsrichtlinien in Office 365](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)verwenden, wird empfohlen, dass Sie jetzt die neue Kommunikations Konformität verwenden, um regulatorische Anforderungen zu erfüllen.
+Wenn Sie derzeit [Aufsichtsrichtlinien](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)verwenden, wird empfohlen, dass Sie jetzt die neue Kommunikations Konformität verwenden, um regulatorische Anforderungen zu erfüllen.
 
 Informationen zum Einrichten der Kommunikations Kompatibilität finden Sie unter [configure Communication Compliance](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
 

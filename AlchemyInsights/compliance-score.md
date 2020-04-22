@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: 304b50b9be50d42a4d54a1898773b458fca7eb4d
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: e77bb9a93325b49cf0f45cc74109432badc481c5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600352"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706092"
 ---
 # <a name="compliance-score"></a>Kompatibilitätsbewertung
 
@@ -33,7 +33,7 @@ Der globale Administrator muss die entsprechenden [Berechtigungen](https://docs.
 
 **Weitere Informationen zu**:
 
-- Einrichten von Zugriffsberechtigungen für das Kompatibilitäts Ergebnis finden Sie unter [Gewähren von Benutzern Zugriff auf das Office 365 Security & Compliance Center](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
+- Einrichten von Zugriffsberechtigungen für das Kompatibilitäts Ergebnis finden Sie unter [Gewähren von Benutzern Zugriff auf die Microsoft 365-Sicherheits & Compliance Center](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
 - Arbeiten mit Verbesserungs Aktionen in der Kompatibilitätsbewertung finden Sie unter [Working with Compliance Score](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score).
 - Wie das Kompatibilitäts Ergebnis berechnet wird, finden Sie unter [Compliance Score Method](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology).
 - Kompatibilitätsbewertung vs. Compliance-Manager, siehe [Relationship to Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).

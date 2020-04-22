@@ -11,18 +11,18 @@ ms.custom:
 - "936"
 - "2000023"
 ms.assetid: 52347c04-c0fd-4d54-9251-1d1ce79f8405
-ms.openlocfilehash: 194c03d4cb1e519b1dc72737fa92a1fcfadc5e26
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 56e91bf630fe234ca54ba09c3c756d9f4b71854c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664355"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709694"
 ---
 # <a name="how-to-activate-office"></a>Aktivieren von Office
 
 Um Office erfolgreich zu installieren und zu aktivieren, muss der Administrator eine [Office-Lizenz](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) für das Geschäfts-oder Schulkonto eines Benutzers zugewiesen haben.
   
-Nach der Installation von Office werden in vielen Fällen die Office 365-Apps automatisch aktiviert, und wenn ein Benutzer nicht zur Aktivierung aufgefordert wird, kann er sofort mit der Verwendung von Office beginnen.
+Nach der Installation von Office werden die apps in vielen Fällen automatisch aktiviert, und wenn ein Benutzer nicht zur Aktivierung aufgefordert wird, kann er sofort mit der Verwendung von Office beginnen.
   
 Wenn ein Benutzer jedoch aufgefordert wird, sich beim **Einrichten von Office anzumelden**, muss er sich mit seinem Geschäfts-oder Schulkonto anmelden, das bereits über eine [zugewiesene Office-Lizenz](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)verfügen sollte.
   

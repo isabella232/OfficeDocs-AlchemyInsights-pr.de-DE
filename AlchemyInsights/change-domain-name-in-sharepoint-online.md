@@ -10,18 +10,18 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: 7eb6e1463b95e01554722dd4790ab334371c86d9
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a1bb502f7afdbd700a6c247046dc2033a9ab065b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050236"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706898"
 ---
 # <a name="change-domain-name-in-sharepoint-online"></a>Ändern des Domänennamens in SharePoint Online
 
-Leider ist es nicht möglich, den SharePoint Online Domänennamen für Ihre Organisation in Office 365 zu ändern. Wenn beispielsweise der Name Ihrer Organisation von "Contoso" in "Fourth Coffee" geändert wird, können Sie contoso.SharePoint.com nicht in fourthcoffee.SharePoint.com ändern.
+Leider ist es nicht möglich, den SharePoint Online Domänennamen für Ihre Organisation zu ändern. Wenn beispielsweise der Name Ihrer Organisation von "Contoso" in "Fourth Coffee" geändert wird, können Sie contoso.SharePoint.com nicht in fourthcoffee.SharePoint.com ändern.
   
-Um den Domänennamen fourthcoffee.SharePoint.com verwenden zu können, müssen Sie ein neues Office 365 Abonnement erwerben und alle e-Mails, Dateien und alle anderen Daten, die Sie behalten möchten, an das neue Abonnement weitergeben.
+Um den Domänennamen fourthcoffee.SharePoint.com verwenden zu können, müssen Sie ein neues Abonnement erwerben und alle e-Mails, Dateien und alle anderen Daten, die Sie behalten möchten, an das neue Abonnement weitergeben.
   
  **Hinweis**: Wenn Sie beispielsweise den Namen einer Website von https://contoso.sharepoint.com/sites/sample1 in ändern möchten https://contoso.sharepoint.com/sites/sample2, befolgen Sie die Anweisungen in [diesem Artikel](https://docs.microsoft.com/sharepoint/change-site-address). 
   

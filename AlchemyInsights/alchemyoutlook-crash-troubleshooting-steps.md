@@ -13,16 +13,16 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 0d35793c5222c89828133e6ace98d8b53860107b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 03b9c57f8254aea779929135ae45857c799f50de
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737116"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708354"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Schritte zur Problembehandlung bei Outlook-Absturz
 
-Wenn Sie Probleme mit dem Absturz von Outlook-Desktop haben, führen Sie zunächst die folgenden drei Schritte aus, die in diesem Artikel ausführlich aufgeführt sind: [Behebung von Problemen, bei denen Outlook abstürzt oder nicht mehr reagiert, wenn Sie mit Office 365 verwendet werden.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
+Wenn Sie Probleme mit dem Absturz von Outlook-Desktop haben, führen Sie zunächst die folgenden drei Schritte aus, die in diesem Artikel ausführlich aufgeführt sind: [Behebung von Problemen, die dazu führen, dass Outlook abstürzt oder nicht mehr reagiert.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
 Schritt 1: untersuchen möglicher Probleme mit Add-Ins.
   
@@ -30,5 +30,5 @@ Schritt 2: Reparieren von Outlook und Ausführen des [Support-und Wiederherstell
   
 Schritt 3: Erstellen Sie ein neues Outlook-Profil, oder führen Sie das [Outlook-Profil Tool](https://aka.ms/SaRA-OutlookSetupProfile) auf dem betroffenen Computer aus.
   
-Wenn das Problem aufgetreten ist, nachdem ein Update und die oben beschriebenen Schritte nicht funktionieren, müssen Sie möglicherweise zu einem vorherigen Build zurückkehren. Weitere Informationen finden Sie unter [Vorgehensweise zum Wiederherstellen einer früheren Version von Office 2016 Klick-und-Los](https://support.microsoft.com/help/2770432).
+Wenn das Problem nach einem Update auftrat und die oben beschriebenen Schritte keine Abhilfe schaffen, müssen Sie möglicherweise zu einem vorherigen Build zurückkehren. Weitere Informationen finden Sie unter [Vorgehensweise zum Wiederherstellen einer früheren Version von Office 2016 Klick-und-Los](https://support.microsoft.com/help/2770432).
   

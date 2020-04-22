@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4981"
-ms.openlocfilehash: 2d8f0be45b21db7295099b376959bfcafcd6ba38
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: 88394297d391b7c8ec949cf2d82727f9def819c0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530178"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687401"
 ---
 # <a name="a1-license-for-microsoft-365"></a>A1-Lizenz für Microsoft 365
 
@@ -25,9 +25,9 @@ ms.locfileid: "43530178"
 
 - Wenn Ihr Institut Microsoft 365 Education noch nicht eingerichtet hat, Sie aber Office 365 kostenlos hinzufügen möchten, können Sie [loslegen](https://www.microsoft.com/education/products/office), indem Sie Ihre E-Mail-Adresse angeben. 
 
-- Wenn Sie von einem anderen akademischen Plan zum Plan A1 **wechseln** möchten, lesen Sie [Wechseln von einem anderen Plan](https://docs.microsoft.com/de-DE/microsoft-365/commerce/subscriptions/switch-plans-manually). 
+- Wenn Sie von einem anderen akademischen Plan zum Plan A1 **wechseln** möchten, lesen Sie [Wechseln von einem anderen Plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually). 
 
-- Wenn Sie Benutzer zum A1-Plan zuweisen möchten, finden Sie unter [Zuweisen von Lizenzen an Benutzer](https://docs.microsoft.com/de-DE/microsoft-365/admin/manage/assign-licenses-to-users). 
+- Wenn Sie Benutzer zum A1-Plan zuweisen möchten, finden Sie unter [Zuweisen von Lizenzen an Benutzer](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users). 
 
 **Wichtig**: Sie müssen ggf. bis zu 24 Stunden warten, bis Ihre Änderungen wirksam werden. 
 

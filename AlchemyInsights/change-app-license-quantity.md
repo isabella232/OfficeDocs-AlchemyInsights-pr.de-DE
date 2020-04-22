@@ -3,7 +3,7 @@ title: Ändern der APP-Lizenzmenge
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000568"
 - "2425"
-ms.openlocfilehash: 86a61336da218fb64876401741f4babe8958f64c
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 9914a95ddbebf376e740b2d7b3d88ae58aed4a45
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36519766"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707042"
 ---
 # <a name="change-app-license-quantity"></a>Ändern der APP-Lizenzmenge
 
@@ -25,7 +25,7 @@ Sie können die Anzahl der Lizenzen anzeigen oder ändern und diese Benutzern im
 
 ## <a name="to-change-license-quantity"></a>So ändern Sie die Lizenzmenge
 
-1. Wechseln Sie zur Seite **Abrechnungs** > [Produkte #a0 Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054) , und wählen Sie dann die Registerkarte **apps** aus.
+1. Wechseln Sie zur Seite **Abrechnungs** > [Produkte & Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054) , und wählen Sie dann die Registerkarte **apps** aus.
 
 2. Suchen Sie die APP, die Sie verwalten möchten, und wählen Sie Sie aus.  
 
@@ -35,8 +35,8 @@ Sie können die Anzahl der Lizenzen anzeigen oder ändern und diese Benutzern im
 
 ## <a name="to-assign-app-licenses"></a>So weisen Sie App-Lizenzen zu
 
-1. Wechseln Sie zur Seite **Abrechnungs** > [Produkte #a0 Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054) , und wählen Sie dann die Registerkarte **apps** aus.
+1. Wechseln Sie zur Seite **Abrechnungs** > [Produkte & Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054) , und wählen Sie dann die Registerkarte **apps** aus.
 
 2. Suchen Sie die APP, die Sie verwalten möchten, und wählen Sie Sie aus.  
 
-3. Wählen Sie unter **Einstellungen #a0 Aktionen**den Link aus, der **im Portal von Publisher verwaltet**werden soll.
+3. Wählen Sie unter **Einstellungen & Aktionen**den Link aus, der **im Portal von Publisher verwaltet**werden soll.

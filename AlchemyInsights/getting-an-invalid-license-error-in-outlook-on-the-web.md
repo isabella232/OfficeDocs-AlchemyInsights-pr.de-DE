@@ -3,7 +3,7 @@ title: 125 beim Erhalt eines ungültigen Lizenz Fehlers in Outlook im Internet?
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "125"
 - "1600021"
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: d0f3fa354eb63c5a5f92d017694623c36fc6df30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9324726709423aeb290fcc1866ade5517f71c1ef
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523798"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708830"
 ---
 # <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Sie haben einen ungültigen Lizenzfehler in Outlook im Internet abgerufen?
 

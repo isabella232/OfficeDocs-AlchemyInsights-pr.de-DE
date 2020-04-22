@@ -1,9 +1,9 @@
 ---
-title: Migrieren zu SharePoint Online über Migrations-Manager
+title: Migrieren zu SharePoint Online über den Migrations-Manager
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 11/04/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "5300030"
 - "3192"
 ms.assetid: ''
-ms.openlocfilehash: 551d56473457727d082f53eac89d1475edae86af
-ms.sourcegitcommit: a8945ab0008f138b2992175b0640e78a505d29e1
+ms.openlocfilehash: 0595ba72414dc1b94229706220715139f126c91a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37964158"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707186"
 ---
-# <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Migrieren zu SharePoint Online über Migrations-Manager
+# <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Migrieren zu SharePoint Online über den Migrations-Manager
 
 Der Migrations-Manager befindet sich im modernen SharePoint Admin Center und führt Sie durch die Einrichtung Ihrer Clients und das Erstellen von Aufgaben. Sie können globale oder aufgabenbezogene Einstellungen festlegen, den aggregierten Status des gesamten Vorgangs anzeigen sowie Zusammenfassungs- und aufgabenbezogene Berichte herunterladen.
 
 * [Erste Schritte mit dem Migrations-Manager](https://docs.microsoft.com/sharepointmigration/mm-get-started)
 * [Einrichten der Migrations-Manager-Clients](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
-* [Einstellungen für den Migrations-Manager](https://docs.microsoft.com/sharepointmigration/mm-settings)
+* [Einstellungen des Migrations-Managers](https://docs.microsoft.com/sharepointmigration/mm-settings)

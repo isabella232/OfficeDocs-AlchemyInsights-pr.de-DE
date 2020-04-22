@@ -3,7 +3,7 @@ title: Wie entferne ich meine Kreditkarteninformationen?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: 4f71ec857cb77a1146dcb060007594b0f115b6a5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f8b44773767aa28750a7c444b22091359030c93f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664427"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709974"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>Wie entferne ich meine Kreditkarteninformationen?
 
-1. Wechseln Sie im Microsoft 365 Admin Center zur Seite **Abrechnungs** \> [Zahlungsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806) .
+1. Navigieren Sie im Microsoft 365 Admin Center zur Seite **Abrechnung** \> [Zahlungsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
 2. Wählen Sie auf der Seite **Zahlungsmethoden** die zu löschende Kreditkarte oder das Konto aus.
 
@@ -33,4 +33,4 @@ ms.locfileid: "36664427"
 
 4. Wählen Sie im Bereich **Zahlungsmethode löschen** die Option **Löschen**aus.
 
-Weitere Informationen finden Sie unter [hinzufügen, aktualisieren oder Entfernen einer Kreditkarte oder eines Bankkontos in Office 365 für Unternehmen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Weitere Informationen finden Sie unter [hinzufügen, aktualisieren oder Entfernen einer Kreditkarte oder eines Bankkontos](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
