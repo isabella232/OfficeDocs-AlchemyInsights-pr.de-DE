@@ -3,26 +3,26 @@ title: Beenden von Nachrichten an den Junk-e-Mail-Ordner in Outlook im Internet
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 19873107de9450cd276253194c08cd0a84cd4a82
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c3dca146d1159ebee71c6806427700a4e8a69e15
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555736"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721914"
 ---
 # <a name="stop-messages-from-going-to-your-junk-email-folder-in-outlook-on-the-web"></a>Beenden von Nachrichten, die in Outlook im Internet in Ihren Junk-e-Mail-Ordner wechseln
 
 Wenn Sie feststellen, dass eine e-Mail-Nachricht in Ihrem Junk-e-Mail-Ordner nicht Junk ist:
 
 1. Öffnen Sie den Ordner Junk-e-Mail, und wählen Sie die Nachricht aus. (*Hinweis:* Elemente in Ihrem Junk-e-Mail-Ordner werden nach 30 Tagen gelöscht.)
-1. Wählen Sie oberhalb der Nachrichtenliste die Option **Junk** > ****-und nicht-Junk-e-Mail.
+1. Wählen Sie oberhalb der Nachrichtenliste die Option **Junk** > -und nicht **-Junk-** e-Mail.
 
 Wenn Sie verhindern möchten, dass Nachrichten von einem Absender an den Junk-e-Mail-Ordner gesendet werden, fügen Sie den Absender zur Liste sicherer Absender hinzu:
 

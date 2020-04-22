@@ -2,7 +2,7 @@
 title: Verwalten von Benutzer mit jammern
 ms.author: pebaum
 author: pebaum
-ms.date: 5/1/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: c6fddafaf0cc1fb1f6985a7aaf771688e3b87483
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1a7d3aa3512732dd245856c3746aff7487080cab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36734920"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762460"
 ---
 # <a name="managing-yammer-users"></a>Verwalten von Benutzer mit jammern
 
-1. Informationen zum Verwalten von Benutzern mit jammern aus Office 365 finden Sie unter [Manage jammern Benutzer über ihren Lebenszyklus aus Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle). Dazu gehören Details zu:
+1. Informationen zum Verwalten von Benutzern mit jammern von Microsoft 365 finden Sie unter [Manage jammern Benutzer über den gesamten Lebenszyklus](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle). Dazu gehören Details zu:
 
   - Erstellen eines Benutzers
 
   - Löschen von Benutzern
 
-  - Verwalten von jammern von Benutzern Office 365
+  - Managing jammern Benutzer von Microsoft 365
 
-2. Informationen zum Verwalten von Benutzern in der jammern-Verwaltungskonsole finden Sie unter [hinzufügen, blockieren oder Entfernen von Benutzer Gejammer](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) . Dies umfasst Folgendes:
+2. Informationen zum Verwalten von Benutzern in der jammern-Verwaltungskonsole finden Sie unter [hinzufügen, blockieren oder Entfernen von Benutzer Gejammer](https://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) . Dies umfasst Folgendes:
 
   - Einladen oder Entfernen von Benutzern
 

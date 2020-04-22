@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: 74151ed149c57ceebc841902796189f6638795a9
-ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
+ms.openlocfilehash: cbf3db148e16ba6631e9077f893a18d3e1b977af
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "41571203"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722809"
 ---
 # <a name="redirected-to-delve-after-you-click-onedrive"></a>Umgeleitet zu vertiefen, nachdem Sie auf OneDrive
 
 Weitere Informationen finden Sie in unserem detaillierten [Leitfaden zur Problembehandlung](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning).
 
-Um dieses Problem zu beheben, muss der Office 365 Administrator Benutzern das Recht erteilen, Ihre Website Meine Websites zu erstellen. Dies liegt daran, dass die OneDrive für Unternehmen Seite auf "Meine Websites" erstellt wird.
+Um dieses Problem zu beheben, muss der Administrator Benutzern das Recht zum Erstellen Ihrer Website "Meine Websites" erteilen. Dies liegt daran, dass die OneDrive für Unternehmen Seite auf "Meine Websites" erstellt wird.
 
 Führen Sie die folgenden Schritte aus, um dieses Recht zu erteilen:
 

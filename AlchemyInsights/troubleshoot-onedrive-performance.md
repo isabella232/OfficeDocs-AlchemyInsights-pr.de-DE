@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom:
 - "1977"
 - "9000343"
-ms.openlocfilehash: 5416da63851de8b0b45e1d5c0cef24b03db40e6e
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 197a84c5f69f9e58460925049345263743fe78ee
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054953"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43733197"
 ---
 # <a name="troubleshoot-onedrive-performance"></a>Problembehandlung bei der OneDrive-Leistung
 
@@ -22,7 +22,7 @@ Wenn die Synchronisierung langsamer als erwartet oder ähnliche Leistungsproblem
 
 - Vergewissern Sie sich, dass keine bekannten Probleme mit dem [Dienststatus-Dashboard](https://portal.office.com/adminportal/home?ref=/servicehealth)vorliegen.
 
-- [Aktivieren Sie Dateien bei Bedarf](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e?ui=en-US&rs=en-US&ad=US) , damit Sie auf alle Ihre Dateien in OneDrive zugreifen können, ohne Sie herunterladen und auf Ihrem Gerät Speicherplatz verwenden zu müssen.
+- [Aktivieren Sie Dateien bei Bedarf](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e) , damit Sie auf alle Ihre Dateien in OneDrive zugreifen können, ohne Sie herunterladen und auf Ihrem Gerät Speicherplatz verwenden zu müssen.
 
 - [Überprüfen Sie die bewährten Methoden](https://docs.microsoft.com/office365/enterprise/network-planning-and-performance) für die Netzwerkplanung und-Leistung.
 

@@ -3,7 +3,7 @@ title: Weitere Informationen zu Aufbewahrungsrichtlinien
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: 08/14/2019
+ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.prod: ''
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: 4885407578e959bddcdd8374d482d2f6d7a461fe
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 0f26865ab01e40b9a4429ada09150049f02416ea
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053404"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761295"
 ---
 # <a name="more-info-about-retention-policies"></a>Weitere Informationen zu Aufbewahrungsrichtlinien
 
@@ -26,13 +26,13 @@ Für die meisten Organisationen nimmt das Volumen und die Komplexität Ihrer Dat
 
 ## <a name="a-from-security-and-compliance-center"></a>A) vom Security and Compliance Center
 
-- Wechseln Sie zu Sicherheit und Compliance #a0 Datensteuerung #a1 Aufbewahrung
+- Wechseln Sie zu Sicherheit und Compliance > Datensteuerung > Aufbewahrung
   - Lesen Sie [diesen](https://docs.microsoft.com/office365/securitycompliance/retention-policies) Artikel
 
-- Wechseln Sie zu Sicherheit und Compliance #a0 eDiscovery> Advanced eDiscovery 
+- Wechseln Sie zu Sicherheit und Compliance > eDiscovery> Advanced eDiscovery 
   - Lesen Sie [diesen](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) Artikel
 
-- Wechseln Sie zu Sicherheit und Compliance #a0 Klassifizierungen #a1 Aufbewahrung
+- Wechseln Sie zu Sicherheit und Compliance > Klassifizierungen > Aufbewahrung
   - Siehe diese Artikel
     - [Vertraulichkeits Bezeichnungen](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
     - [Bezeichnungen (Übersicht)](https://docs.microsoft.com/office365/securitycompliance/labels)

@@ -3,7 +3,7 @@ title: 9000240 Outlook.com Antworten
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1825"
 - "9000240"
-ms.openlocfilehash: 8f15b4fc8c56e14a978b60d642b5abe54b677978
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0fece3194ab9a14b8fb21123b0b92c2a9aabba62
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535210"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743776"
 ---
 # <a name="replying-in-outlookcom"></a>Antworten in Outlook.com
 
@@ -29,13 +29,13 @@ So Antworten Sie auf eine Nachricht gleichzeitig:
 So Antworten Sie automatisch auf alle Nachrichten:
 
 1. Wechseln Sie zu <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
-**Einstellungen** > **alle Outlook** > ****- > Einstellungen anzeigen:**automatische Antworten** , um die [Einstellungen für automatische Antworten](https://outlook.live.com/mail/options/mail/automaticReplies)zu öffnen.
-2. Aktivieren Sie die Umschaltfläche **automatische Antworten aktivieren** .
+**Einstellungen** > **alle Outlook** > **Mail**- > Einstellungen anzeigen:**automatische Antworten** , um die [Einstellungen für automatische Antworten](https://outlook.live.com/mail/options/mail/automaticReplies)zu öffnen.
+2. Wählen Sie den Umschalter **Automatische Antworten aktivieren** aus.
 3. Wenn Sie das Kontrollkästchen **Antworten nur während eines Zeitraums senden** aktivieren, können Sie Folgendes ausführen:
     - Senden Sie nur Antworten, wenn Sie sich entscheiden. Wenn Sie keinen Zeitraum festlegen, bleibt Ihre automatische Antwort erhalten, bis Sie Sie deaktivieren.
     - Blockieren Ihres Kalenders
     - Automatisches ablehnen neuer Einladungen
-    - Meine Besprechungen während dieses Zeitraums ablehnen und stornieren
+    - Meine Besprechungen während dieses Zeitraums ablehnen und abbrechen
 4. Geben Sie im Feld Nachricht eine Nachricht ein, die Sie während des Abwesenheits Zeitraums an Personen senden möchten.
 5. Wenn Sie nur Antworten an Ihre Kontakte senden möchten, aktivieren Sie das Kontrollkästchen **Antworten nur an Kontakte senden** .
 6. Klicken Sie auf **Speichern**.

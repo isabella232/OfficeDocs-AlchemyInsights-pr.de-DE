@@ -1,8 +1,8 @@
 ---
-title: Aktualisieren des Domänennamenservers auf Office 365
+title: Aktualisieren Ihrer Domänennamenserver, sodass Sie auf Microsoft verweist
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.assetid: 5d38b331-a0e8-4937-8bda-4f8f715e1976
 ms.custom:
 - "6"
 - "14"
-ms.openlocfilehash: 23d49c734148739ede0d5e5b53430a42b606c831
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: b49ca9422f582f906fc6c108c85cc26150474548
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36742177"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719992"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a>Aktualisieren des Domänennamenservers auf Office 365
+# <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>Aktualisieren Ihrer Domänennamenserver, sodass Sie auf Microsoft verweist
 
 Hinweis: Die Verarbeitung von Änderungen an Nameservern kann manchmal bis zu 48 Stunden dauern.
   
-Zum Einrichten Ihrer Domäne in Office 365 müssen die Namenserver Ihrer Registrierungsstelle aktualisiert werden. Erstellen oder bearbeiten Sie Ihre Namenservereinträge Ihrer Domänenregistrierungsstelle.
+Um Ihre Domäne bei Microsoft einzurichten, müssen die Namenserver bei Ihrer Registrierungsstelle aktualisiert werden. Erstellen oder bearbeiten Sie Ihre Namenservereinträge Ihrer Domänenregistrierungsstelle.
   
 1. Navigieren Sie zur Website Ihrer Domänenregistrierungsstelle, und suchen Sie den Bereich, in dem Sie die Namenserver bearbeiten können.
 
@@ -34,5 +34,5 @@ Zum Einrichten Ihrer Domäne in Office 365 müssen die Namenserver Ihrer Registr
 
 3. Speichern Sie die Änderungen.
 
-Detaillierte Anweisungen finden Sie auch in diesem Artikel: [Ändern von Namenservern zum Einrichten von Office 365 bei einer beliebigen Domänenregistrierungsstelle](https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
+Ausführliche Anweisungen finden Sie auch in diesem Artikel: Ändern von Namen [Servern zum Einrichten von Microsoft 365 bei einer beliebigen Domänen Registrierungs](https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar) Stelle
   

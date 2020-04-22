@@ -3,7 +3,7 @@ title: Klassische SharePoint-Überwachungsprotokollberichte
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: be95034bea3c58a4fde96cfb0f9ba525e810758e
-ms.sourcegitcommit: 24e8248b0f061a76af50bf566d7a13fc24d29d99
+ms.openlocfilehash: 3270f1ab03bacb235cbdc3d710053c858f0a5183
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37992617"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741964"
 ---
 # <a name="sharepoint-and-onedrive-audit-logs"></a>SharePoint-und OneDrive-Überwachungsprotokolle
 
@@ -42,10 +42,10 @@ In SharePoint oder OneDrive ist keine zusätzliche Konfiguration erforderlich.
 
 Verwenden Sie die Überwachungs Protokollierungs Suche, um die Aktivität der Datei (en), des Ordners (s), des (der) Benutzers (s), der Berechtigungen zu überprüfen:
 
-* [Datei-und Seiten Aktivitäten](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
-* [Ordner Aktivitäten](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-* [Freigabe-und Zugriffs Anforderungs Aktivitäten](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+* [Datei- und Seitenaktivitäten](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
+* [Ordneraktivitäten](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+* [Freigabe- und Zugriffsanforderungsaktivitäten](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
 * [Synchronisierungsaktivitäten](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-* [Website Verwaltungsaktivitäten](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+* [Websiteverwaltungsaktivitäten](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
 
 Weitere Informationen zum Abrufen dieser Ereignisse finden Sie unter [Durchsuchen des Überwachungsprotokolls](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
