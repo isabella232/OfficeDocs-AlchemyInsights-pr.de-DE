@@ -3,7 +3,7 @@ title: Umgang mit Spam und Junk in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 7/19/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: 4fda7a84d8fce49876126392ba09c24d6d697439
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0fab02fa06ff203933e6b5b8c306c2a8ecb15a56
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512064"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710730"
 ---
 # <a name="spam-and-junk-email-in-outlookcom"></a>Spam-und Junk-e-Mails in Outlook.com
 
@@ -41,5 +41,5 @@ Wenn Sie zu viel Junk-oder Spam erhalten, probieren Sie die folgenden Methoden a
 
 1. **Erstellen einer Posteingangsregel**
     1. Klicken Sie mit der rechten Maustaste auf eine Nachricht in Ihrer Nachrichtenliste, und wählen Sie **Regel erstellen**aus.
-    1. Wählen Sie den Ordner aus, in dem alle Nachrichten von diesem Absender verschoben werden sollen, und klicken Sie auf **OK** > ****.
+    1. Wählen Sie den Ordner aus, in dem alle Nachrichten von diesem Absender verschoben werden sollen,**und klicken Sie**auf **OK** > .
     1. [Erfahren Sie mehr über Posteingangsregeln in Outlook.com.](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)
