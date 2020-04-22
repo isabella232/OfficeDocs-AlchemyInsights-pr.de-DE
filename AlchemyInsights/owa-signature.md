@@ -3,25 +3,25 @@ title: Erstellen einer Signatur in Outlook im Internet
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 260589d26a2c3b543172bce8a319483f2d69bf08
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fb90175028c65c43468473885926b3e7ac9eceb0
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555685"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768400"
 ---
-# <a name="create-an-email-signature-in-outlook-on-the-web"></a><span data-ttu-id="6888d-102">Erstellen einer e-Mail-Signatur in Outlook im Internet</span><span class="sxs-lookup"><span data-stu-id="6888d-102">Create an email signature in Outlook on the web</span></span>
+# <a name="create-an-email-signature-in-outlook-on-the-web"></a><span data-ttu-id="9fb29-102">Erstellen einer e-Mail-Signatur in Outlook im Internet</span><span class="sxs-lookup"><span data-stu-id="9fb29-102">Create an email signature in Outlook on the web</span></span>
 
-1. <span data-ttu-id="6888d-103">Wechseln Sie zu</span><span class="sxs-lookup"><span data-stu-id="6888d-103">Go to</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- <span data-ttu-id="6888d-104">**Einstellungen** > **alle Outlook-Einstellungen** > **Erstellen und Antworten**anzeigen.</span><span class="sxs-lookup"><span data-stu-id="6888d-104">**Settings** > **View all Outlook settings** > **Compose and reply**.</span></span>
-1. <span data-ttu-id="6888d-105">Geben Sie unter **e-Mail-Signatur**Ihre Signatur ein, und verwenden Sie die verfügbaren Formatierungsoptionen, um das Aussehen zu ändern.</span><span class="sxs-lookup"><span data-stu-id="6888d-105">Under **Email signature**, type your signature and use the available formatting options to change its appearance.</span></span>
+1. <span data-ttu-id="9fb29-103">Wechseln Sie zu</span><span class="sxs-lookup"><span data-stu-id="9fb29-103">Go to</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ <span data-ttu-id="9fb29-104">**Einstellungen** > **alle Outlook-Einstellungen** > **Erstellen und Antworten**anzeigen.</span><span class="sxs-lookup"><span data-stu-id="9fb29-104">**Settings** > **View all Outlook settings** > **Compose and reply**.</span></span>
+1. <span data-ttu-id="9fb29-105">Geben Sie unter **e-Mail-Signatur**Ihre Signatur ein, und verwenden Sie die verfügbaren Formatierungsoptionen, um das Aussehen zu ändern.</span><span class="sxs-lookup"><span data-stu-id="9fb29-105">Under **Email signature**, type your signature and use the available formatting options to change its appearance.</span></span>
 
-<span data-ttu-id="6888d-106">*Hinweis:* Sie können nur eine Signatur pro Konto haben.</span><span class="sxs-lookup"><span data-stu-id="6888d-106">*Note:* You can have only one signature per account.</span></span>
+<span data-ttu-id="9fb29-106">*Hinweis:* Sie können nur eine Signatur pro Konto haben.</span><span class="sxs-lookup"><span data-stu-id="9fb29-106">*Note:* You can have only one signature per account.</span></span>
 
-<span data-ttu-id="6888d-107">Weitere Informationen finden Sie unter [Erstellen und Hinzufügen einer e-Mail-Signatur in Outlook im Internet](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3).</span><span class="sxs-lookup"><span data-stu-id="6888d-107">To learn more, see [Create and add an email signature in Outlook on the web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3).</span></span>
+<span data-ttu-id="9fb29-107">Weitere Informationen finden Sie unter [Erstellen und Hinzufügen einer e-Mail-Signatur in Outlook im Internet](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3).</span><span class="sxs-lookup"><span data-stu-id="9fb29-107">To learn more, see [Create and add an email signature in Outlook on the web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3).</span></span>
