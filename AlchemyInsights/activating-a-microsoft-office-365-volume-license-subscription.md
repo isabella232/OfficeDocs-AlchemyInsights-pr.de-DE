@@ -1,9 +1,9 @@
 ---
-title: Aktivieren eines Microsoft Office 365 Volumenlizenzabonnements
+title: Aktivieren eines Microsoft Volume License-Abonnements
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 4b654565b339c6cf557f9d3d1ec7736a58e7f28e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 21f580a8c636369429daa7241874601be00089d3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661187"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708758"
 ---
-# <a name="activating-a-microsoft-office-365-volume-license-subscription"></a><span data-ttu-id="64d43-102">Aktivieren eines Microsoft Office 365 Volumenlizenzabonnements</span><span class="sxs-lookup"><span data-stu-id="64d43-102">Activating a Microsoft Office 365 Volume License Subscription</span></span>
+# <a name="activating-a-microsoft-volume-license-subscription"></a><span data-ttu-id="1aa20-102">Aktivieren eines Microsoft Volume License-Abonnements</span><span class="sxs-lookup"><span data-stu-id="1aa20-102">Activating a Microsoft Volume License Subscription</span></span>
 
-1. <span data-ttu-id="64d43-103">Melden Sie sich beim [Volume Licensing Service Center (VLSC)-Portal](http://go.microsoft.com/fwlink/p/?LinkId=329762)an.</span><span class="sxs-lookup"><span data-stu-id="64d43-103">Sign in to your [Volume Licensing Service Center (VLSC) portal](http://go.microsoft.com/fwlink/p/?LinkId=329762).</span></span>
+1. <span data-ttu-id="1aa20-103">Melden Sie sich beim [Volume Licensing Service Center (VLSC)-Portal](https://go.microsoft.com/fwlink/p/?LinkId=329762)an.</span><span class="sxs-lookup"><span data-stu-id="1aa20-103">Sign in to your [Volume Licensing Service Center (VLSC) portal](https://go.microsoft.com/fwlink/p/?LinkId=329762).</span></span>
 
-2. <span data-ttu-id="64d43-104">Navigieren Sie zu Ihrem Office 365 Abonnement, und wählen Sie **aktivieren**aus.</span><span class="sxs-lookup"><span data-stu-id="64d43-104">Navigate to your Office 365 subscription and choose **Activate**.</span></span>
+2. <span data-ttu-id="1aa20-104">Navigieren Sie zu Ihrem Abonnement, und wählen Sie **aktivieren**aus.</span><span class="sxs-lookup"><span data-stu-id="1aa20-104">Navigate to your subscription and choose **Activate**.</span></span>
 
-3. <span data-ttu-id="64d43-105">Eine e-Mail wird an Ihren Online Dienste-Kontakt (OLS) gesendet.</span><span class="sxs-lookup"><span data-stu-id="64d43-105">An email will be sent to your Online Services (OLS) Contact.</span></span>
+3. <span data-ttu-id="1aa20-105">Eine e-Mail wird an Ihren Online Dienste-Kontakt (OLS) gesendet.</span><span class="sxs-lookup"><span data-stu-id="1aa20-105">An email will be sent to your Online Services (OLS) Contact.</span></span>
 
-4. <span data-ttu-id="64d43-106">Die Aktivierungs-e-Mail stellt Ihnen zwei Optionen zur Verfügung: **registrieren**oder **Anmelden**.</span><span class="sxs-lookup"><span data-stu-id="64d43-106">The activation email will provide you with two options: **Sign up**, or **Sign in**.</span></span> <span data-ttu-id="64d43-107">Wenn Sie zuvor eine Testversion erstellt haben, wählen Sie **Anmelden aus**.</span><span class="sxs-lookup"><span data-stu-id="64d43-107">If you have previously created a trial, choose **Sign in**.</span></span> <span data-ttu-id="64d43-108">Wenn Sie noch keinen Office 365 Mandanten haben, wählen Sie **registrieren**aus.</span><span class="sxs-lookup"><span data-stu-id="64d43-108">If you don't yet have an Office 365 tenant, choose **Sign up**.</span></span>
+4. <span data-ttu-id="1aa20-106">Die Aktivierungs-e-Mail stellt Ihnen zwei Optionen zur Verfügung: **registrieren**oder **Anmelden**.</span><span class="sxs-lookup"><span data-stu-id="1aa20-106">The activation email will provide you with two options: **Sign up**, or **Sign in**.</span></span> <span data-ttu-id="1aa20-107">Wenn Sie zuvor eine Testversion erstellt haben, wählen Sie **Anmelden aus**.</span><span class="sxs-lookup"><span data-stu-id="1aa20-107">If you have previously created a trial, choose **Sign in**.</span></span> <span data-ttu-id="1aa20-108">Wenn Sie noch nicht über einen Microsoft 365-Mandanten verfügen, wählen Sie **registrieren**aus.</span><span class="sxs-lookup"><span data-stu-id="1aa20-108">If you don't yet have a Microsoft 365 tenant, choose **Sign up**.</span></span>
 
-5. <span data-ttu-id="64d43-109">Melden Sie sich beim Microsoft 365 Admin Center ([https://admin.microsoft.com](https://admin.microsoft.com)) mit Ihren vorhandenen Office 365 Administratoranmeldeinformationen an.</span><span class="sxs-lookup"><span data-stu-id="64d43-109">Sign in to the Microsoft 365 admin center ([https://admin.microsoft.com](https://admin.microsoft.com)) using your existing Office 365 administrator credentials.</span></span> <span data-ttu-id="64d43-110">Nachdem Sie sich erfolgreich angemeldet haben, erhalten Sie eine weitere e-Mail, die Ihren Kauf bestätigt.</span><span class="sxs-lookup"><span data-stu-id="64d43-110">After you successfully sign in, you'll receive another email confirming your purchase.</span></span>
+5. <span data-ttu-id="1aa20-109">Melden Sie sich beim Microsoft 365 Admin Center ([https://admin.microsoft.com](https://admin.microsoft.com)) mit Ihren vorhandenen Administratoranmeldeinformationen an.</span><span class="sxs-lookup"><span data-stu-id="1aa20-109">Sign in to the Microsoft 365 admin center ([https://admin.microsoft.com](https://admin.microsoft.com)) using your existing administrator credentials.</span></span> <span data-ttu-id="1aa20-110">Nachdem Sie sich erfolgreich angemeldet haben, erhalten Sie eine weitere e-Mail, die Ihren Kauf bestätigt.</span><span class="sxs-lookup"><span data-stu-id="1aa20-110">After you successfully sign in, you'll receive another email confirming your purchase.</span></span>
 
-6. <span data-ttu-id="64d43-111">Nachdem Sie sich angemeldet haben, können Sie zur Seite " **Abrechnungs** \> [Produkte #a0 Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054) " wechseln, um zu überprüfen, ob Ihre erworbenen Office 365 Abonnements innerhalb Ihres Mandanten aktiviert sind.</span><span class="sxs-lookup"><span data-stu-id="64d43-111">After you've signed in, you can go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page to verify that your purchased Office 365 Subscriptions are activated within your tenant.</span></span> <span data-ttu-id="64d43-112">(Sie können auch die Registerkarte **Abonnement** in der VLSC auswählen, um Details anzuzeigen, die überprüfen, ob Ihr Abonnement hinterlegt wurde.)</span><span class="sxs-lookup"><span data-stu-id="64d43-112">(You can also choose the **Subscription** tab in the VLSC to view details verifying that your subscription has been deposited.)</span></span>
+6. <span data-ttu-id="1aa20-111">Nachdem Sie sich angemeldet haben, können Sie zur Seite **Abrechnungs** \> [Produkte & Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054) wechseln, um zu überprüfen, ob Ihre erworbenen Abonnements innerhalb Ihres Mandanten aktiviert sind.</span><span class="sxs-lookup"><span data-stu-id="1aa20-111">After you've signed in, you can go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page to verify that your purchased subscriptions are activated within your tenant.</span></span> <span data-ttu-id="1aa20-112">(Sie können auch die Registerkarte **Abonnement** in der VLSC auswählen, um Details anzuzeigen, die überprüfen, ob Ihr Abonnement hinterlegt wurde.)</span><span class="sxs-lookup"><span data-stu-id="1aa20-112">(You can also choose the **Subscription** tab in the VLSC to view details verifying that your subscription has been deposited.)</span></span>
