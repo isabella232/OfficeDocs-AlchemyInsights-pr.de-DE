@@ -10,17 +10,17 @@ ms.assetid: 3b01008b-f57d-4a82-837c-d22a0ac6a294
 ms.custom:
 - "29"
 - "10"
-ms.openlocfilehash: c8be71fb3df6669587959a231b5de524ad17b861
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 71e58081757e1cd8a61753f7c48283fe05e5c1a1
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36743020"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759943"
 ---
-# <a name="the-domain-is-already-in-use"></a><span data-ttu-id="3d600-102">Die Domäne wird bereits verwendet</span><span class="sxs-lookup"><span data-stu-id="3d600-102">The domain is already in use</span></span>
+# <a name="the-domain-is-already-in-use"></a><span data-ttu-id="0f985-102">Die Domäne wird bereits verwendet</span><span class="sxs-lookup"><span data-stu-id="0f985-102">The domain is already in use</span></span>
 
-<span data-ttu-id="3d600-103">Die Domäne, die Sie hinzufügen möchten, gehört bereits zu einer anderen Organisation.</span><span class="sxs-lookup"><span data-stu-id="3d600-103">The domain you're trying to add already belongs to another organization.</span></span> <span data-ttu-id="3d600-104">Sie müssen die Domäne zuerst aus dieser Organisation entfernen, bevor Sie sie zur aktuellen Organisation hinzufügen können.</span><span class="sxs-lookup"><span data-stu-id="3d600-104">You must first remove the domain from that organization before you can add it to this organization.</span></span> <span data-ttu-id="3d600-105">Die nachfolgenden Artikel führen Sie durch diese Prozesse.</span><span class="sxs-lookup"><span data-stu-id="3d600-105">The articles below will guide you through these processes.</span></span>
+<span data-ttu-id="0f985-103">Die Domäne, die Sie hinzufügen möchten, gehört bereits zu einer anderen Organisation.</span><span class="sxs-lookup"><span data-stu-id="0f985-103">The domain you're trying to add already belongs to another organization.</span></span> <span data-ttu-id="0f985-104">Sie müssen die Domäne zuerst aus dieser Organisation entfernen, bevor Sie sie zur aktuellen Organisation hinzufügen können.</span><span class="sxs-lookup"><span data-stu-id="0f985-104">You must first remove the domain from that organization before you can add it to this organization.</span></span> <span data-ttu-id="0f985-105">Die nachfolgenden Artikel führen Sie durch diese Prozesse.</span><span class="sxs-lookup"><span data-stu-id="0f985-105">The articles below will guide you through these processes.</span></span>
   
-- [<span data-ttu-id="3d600-106">Entfernen einer Domäne aus Office 365</span><span class="sxs-lookup"><span data-stu-id="3d600-106">Remove a domain from Office 365</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)
+- [<span data-ttu-id="0f985-106">Entfernen einer Domäne</span><span class="sxs-lookup"><span data-stu-id="0f985-106">Remove a domain</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)
 
-- [<span data-ttu-id="3d600-107">Hinzufügen einer Domäne und Erstellen von DNS-Einträgen</span><span class="sxs-lookup"><span data-stu-id="3d600-107">Add a domain and create DNS records</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+- [<span data-ttu-id="0f985-107">Hinzufügen einer Domäne und Erstellen von DNS-Einträgen</span><span class="sxs-lookup"><span data-stu-id="0f985-107">Add a domain and create DNS records</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
