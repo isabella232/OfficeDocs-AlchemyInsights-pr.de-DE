@@ -3,7 +3,7 @@ title: 1336 RecoverableItems-Ordner ist voll
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/5/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "1336"
 - "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: 8a5859ba29d847606e8b44d169c3cd6a26364744
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fb10b792981040bdcf4661b8aff30733c2438212
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509735"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720251"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>Der Ordner "refundable Items" ist voll
 
-Für Exchange Online Postfächer in Office 365 beträgt der Standardspeichergrenzwert für den Ordner "refundable Items" 30 GB. Der Speichergrenzwert für den Ordner "refundable Items" wird automatisch auf 100 GB erhöht, wenn das Postfach auf das Beweissicherungsverfahren, das eDiscovery-Archiv oder auf eine Office 365-Aufbewahrungsrichtlinie festgelegt wird.
+Für Exchange Online Postfächer beträgt der Standardspeichergrenzwert für den Ordner "refundable Items" 30 GB. Der Speichergrenzwert für den Ordner "refundable Items" wird automatisch auf 100 GB erhöht, wenn das Postfach auf das Beweissicherungsverfahren, das eDiscovery-Archiv oder eine Aufbewahrungsrichtlinie festgelegt wird.
 
 Wenn der Ordner "refundable Items" den Speichergrenzwert erreicht, sind die Postfachfunktionen auf folgende Weise betroffen:
 
@@ -41,4 +41,4 @@ Für Postfächer, die nicht in der Warteschleife sind, `Search-Mailbox -SearchDu
 
 Für Postfächer, die in der Warteschleife sind, müssen Administratoren den Haltebereich entfernen, bevor Sie Elemente aus dem Ordner "refundable Items" löschen können. Weitere Informationen finden Sie unter [Löschen von Elementen im Ordner "Wiederherstellbare Elemente" von cloudbasierten Postfächern in der Warteschleife](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
 
-Um zu verhindern, dass der Ordner "Wiederherstellbare Elemente" vollständig wird, können Administratoren den Speichergrenzwert für den Ordner "Wiederherstellbare Elemente" für Postfächer in der Warteschleife verbessern und eine Post Fach Aufbewahrungsrichtlinie einrichten, mit der Elemente aus dem Ordner "Wiederherstellbare Elemente" in das Archiv des Benutzers verschoben werden. Postfach. Weitere Informationen finden Sie unter [Erweitern des Kontingents für die refundable Items für Postfächer, die aufbewahrt](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold)werden
+Um zu verhindern, dass der Ordner "Wiederherstellbare Elemente" vollständig wird, können Administratoren den Speichergrenzwert für den Ordner "Wiederherstellbare Elemente" für Postfächer in der Warteschleife verbessern und eine Post Fach Aufbewahrungsrichtlinie einrichten, mit der Elemente aus dem Ordner "Wiederherstellbare Elemente" in das Archivpostfach des Benutzers verschoben werden. Weitere Informationen finden Sie unter [Erweitern des Kontingents für die refundable Items für Postfächer, die aufbewahrt](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold)werden
