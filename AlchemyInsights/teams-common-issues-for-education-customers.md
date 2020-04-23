@@ -12,12 +12,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 81b80d76530327767bc58adf2e06e5b7ae265f18
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856789"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43739435"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Microsoft Teams: Häufige Probleme bei Kunden in Bildungseinrichtungen
 
@@ -43,14 +43,14 @@ Wenn Sie Hilfe bei der Bereitstellung von Teams zur Unterstützung von Fernunter
     4. Klicken Sie im Admin Center für Benutzer auf **Alle anzeigen** und dann auf **Teams**.
     5. Klicken Sie im Microsoft Teams Admin Center auf **Altes Portal**.
     6. Klicken Sie im Skype for Business Admin Center auf **Audiokonferenzen** und dann auf **Benutzer**.
-    7. Wählen Sie den betreffenden Benutzer aus, und vergewissern Sie sich, dass er über eine gebührenpflichtige Standardnummer verfügt.
+    7. Wählen Sie den betreffenden Nutzer aus, und vergewissern Sie sich, dass er über eine gebührenpflichtige Standardnummer verfügt.
 
-    Weitere Informationen finden Sie unter [Anrufpläne für Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365). Sie können sich auch an das Microsoft Commerce-Abrechnungsteam wenden, um Fragen zur Lizenzierung zu beantworten.
+    Weitere Informationen finden Sie unter [Anrufpläne](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365). Sie können sich auch an das Microsoft Commerce-Abrechnungsteam wenden, um Fragen zur Lizenzierung zu beantworten.
 
     Weitere Ressourcen
 
     - [Besprechungen und Konferenzen in Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-    - [Audiokonferenzen in Office 365](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
+    - [Audiokonferenz](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
 
 - **Besprechungsrichtlinien**: Besprechungsrichtlinien werden verwendet, um die Features zu steuern, die Besprechungsteilnehmern für Besprechungen, die von Benutzern in Ihrer Organisation geplant werden, zur Verfügung stehen. Nachdem Sie eine Richtlinie erstellt und die gewünschten Änderungen vorgenommen haben, können Sie der Richtlinie Benutzer zuweisen.
 
@@ -76,11 +76,11 @@ Wenn Sie Hilfe bei der Bereitstellung von Teams zur Unterstützung von Fernunter
 
     Informationen dazu, wie Sie eine Richtlinie mehreren Benutzern gleichzeitig zuweisen können, finden Sie unter [Batchbearbeitung von Benutzereinstellungen eines Teams](https://docs.microsoft.com/microsoftteams/edit-user-settings-in-bulk).
 
-    Oder Sie können folgende Aktionen ausführen:
+    Oder Sie können Folgendes tun:
     1. Wechseln Sie in der linken Navigation von Microsoft Teams Admin Center zu **Besprechungen > Besprechungsrichtlinien**.
     2. Wählen Sie die gewünschte Richtlinie aus, indem Sie links neben die Richtlinienbezeichnung klicken.
     3. Klicken Sie auf **Benutzer verwalten**.
-    4. Suchen Sie im Bereich **Benutzer verwalten** anhand des Anzeigenamens oder des Benutzernamens nach dem Benutzer, wählen Sie den Namen und dann **Hinzufügen** aus. Wiederholen Sie diesen Schritt für jeden Benutzer, den Sie hinzufügen möchten.
+    4. Suchen Sie im Bereich **Benutzer verwalten** anhand des Anzeigenamens oder des Benutzernamens nach dem Benutzer, wählen Sie den Namen und dann **Hinzufügen** aus. Wiederholen Sie diesen Schritt für jeden Nutzer, den Sie hinzufügen möchten.
     5. Wenn Sie mit dem Hinzufügen von Benutzern fertig sind, klicken Sie auf **Speichern**.
 
 - **Problembehandlung bei fehlender Wähltastatur**:

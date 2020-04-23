@@ -2,7 +2,7 @@
 title: OneDrive-Aufbewahrung und-Löschung
 ms.author: pebaum
 author: pebaum
-ms.date: 8/6/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: fd16c3b83a6c3e9f89dfe51cef3b849335e6c899
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 5fd6685d02d8178dd524dcc295af1021b17d61b7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053332"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761322"
 ---
 # <a name="onedrive-retention-and-deletion"></a>OneDrive-Aufbewahrung und-Löschung
 
@@ -25,7 +25,7 @@ ms.locfileid: "40053332"
 
 - In [diesem Artikel](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) erfahren Sie mehr über:
     - So erteilen Sie einem anderen Benutzer Zugriff auf das OneDrive eines gelöschten Benutzers.
-    - Was geschieht mit dem OneDrive eines Benutzers, wenn Sie das Office 365 Konto des Benutzers für Ihre Organisation löschen?
+    - Was geschieht mit dem OneDrive eines Benutzers, wenn Sie das Microsoft 365-Konto des Benutzers für Ihre Organisation löschen?
     - Konfigurieren der automatischen Zugriffs Delegierung
     - Funktionsweise des Löschvorgangs von OneDrive
 

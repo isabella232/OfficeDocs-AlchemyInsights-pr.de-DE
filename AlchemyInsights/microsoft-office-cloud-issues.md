@@ -1,5 +1,5 @@
 ---
-title: Administratorrolle und Zuweisen von
+title: Administratorrolle und deren Zuweisung
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: c734b2707003a17e6ac88f32ca28adc4e96e139a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8bc63bd52b1d6a9a7913f025c9dc3390ffbb023f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054773"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762352"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>Probleme mit einem Cloud-Dienst?
 
@@ -23,5 +23,5 @@ Wenn Probleme mit einem clouddienst auftreten, können Sie den [Dienststatus](ht
 
 **Benachrichtigungsrichtlinie**
 
-Microsoft ist sich bewusst, dass im Fall eines Dienstincidents zeitnahe, zielgerichtete und genaue Informationen für die Kunden entscheidend sind. Microsoft benachrichtigt Office 365 Administratoren, indem Sie das mandantenspezifische [Service Health Dashboard (](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) "") im Office 365-Verwaltungs Portal aktualisieren. Dienstincidentupdates werden stündlich bereitgestellt oder, wenn ein anderes Intervall erforderlich ist, in einer SHD-Kommunikationsveröffentlichung bekanntgegeben. Weitere Informationen finden Sie unter [How to Check Office 365 Service Health](https://docs.microsoft.com/office365/enterprise/view-service-health).
+Microsoft ist sich bewusst, dass im Fall eines Dienstincidents zeitnahe, zielgerichtete und genaue Informationen für die Kunden entscheidend sind. Microsoft benachrichtigt Administratoren, indem Sie das mandantenspezifische [Service Health Dashboard (](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) "") im Microsoft 365-Verwaltungs Portal aktualisieren. Dienstincidentupdates werden stündlich bereitgestellt oder, wenn ein anderes Intervall erforderlich ist, in einer SHD-Kommunikationsveröffentlichung bekanntgegeben. Weitere Informationen finden Sie unter [How to Check Microsoft 365 Service Health](https://docs.microsoft.com/office365/enterprise/view-service-health).
 

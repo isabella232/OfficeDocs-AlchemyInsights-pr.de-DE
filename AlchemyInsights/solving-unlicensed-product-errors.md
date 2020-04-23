@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: 178811c81775b22676a0106283be4e516d40a95b
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 87a0a2be6b222d35acbc862eed4f14fb3e3e36ac
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628025"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764152"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Vorschläge zur Lösung von Fehlern bei "nicht lizenzierten Produkten"
 
 Versuchen Sie Folgendes, um Fehler zu einem "nicht lizenzierten Produkt" zu beheben:
 
 - Überprüfen Sie, ob Ihr Abonnementstatus abgelaufen ist.
-- Stellen Sie sicher, dass Sie über ein Abonnement verfügen, das Clientlizenzen wie Office 365 Business oder Business Premium zulässt, und [Stellen Sie sicher, dass dem Benutzer eine Lizenz zugewiesen wurde](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). 
+- Stellen Sie sicher, dass Sie über ein Abonnement verfügen, das Clientlizenzen wie Microsoft 365 apps for Business oder Business Premium zulässt, und [Stellen Sie sicher, dass dem Benutzer eine Lizenz zugewiesen wurde](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). 
 - Stellen Sie sicher, dass sich der Benutzer bei Office mit dem gleichen Konto anmeldet, dem die Lizenz zugewiesen ist.
-- Überprüfen Sie auf der [Seite Office 365 Dienststatus](https://docs.microsoft.com/office365/enterprise/view-service-health) , ob bekannte Probleme mit dem Dienst vorliegen.
-- Überprüfen Sie die Firewall, die Antivirensoftware und die Proxyeinstellungen, um sicherzustellen, dass der Zugriff auf Office-Apps zum Internet nicht blockiert wird. Siehe [Office 365 URLs und IP-Adressbereiche](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- Überprüfen Sie auf der [Seite Dienststatus](https://docs.microsoft.com/office365/enterprise/view-service-health) , ob bekannte Probleme mit dem Dienst vorliegen.
+- Überprüfen Sie die Firewall, die Antivirensoftware und die Proxyeinstellungen, um sicherzustellen, dass der Zugriff auf Office-Apps zum Internet nicht blockiert wird. Siehe [URLs und IP-Adressbereiche](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 Sie können auch die folgenden Problem Behandlungs Aktionen durchführen: 
 
@@ -35,7 +35,7 @@ Sie können auch die folgenden Problem Behandlungs Aktionen durchführen:
 - [Setzen Sie den Aktivierungsstatus für Office zurück](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). 
 - [Durchführen einer Online Reparatur von Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
 
-Weitere Problem Behandlungslösungen finden Sie unter: 
+Zusätzliche Lösungen zur Problembehandlung finden Sie unter: 
 
-- [Nicht lizenzierte Produkt-und Aktivierungsfehler in Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
-- ["Leider können wir keine Verbindung zu Ihrem Konto herstellen. Versuchen Sie es später erneut "Fehler beim Aktivieren von Office](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)
+- [Fehler "Nicht lizenziertes Produkt" und Aktivierungsfehler in Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
+- [Fehler "Leider können wir keine Verbindung mit Ihrem Konto herstellen. Versuchen Sie es bitte später erneut" bei der Aktivierung von Office](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)

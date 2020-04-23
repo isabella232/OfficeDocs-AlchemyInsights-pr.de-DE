@@ -2,7 +2,7 @@
 title: Versionsverwaltung in SharePoint und OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 8/07/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 167c0fde2f09d4ba2f2f2b583eea849670fdb8c5
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e578dc3b19c573335c0e90cc0f84d5c6c1b1c889
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40044186"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767392"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Versionsverwaltung in SharePoint und OneDrive 
 
@@ -39,6 +39,6 @@ Weitere Informationen zur Versionsverwaltung finden Sie in den folgenden Artikel
 - [Einschränkungen für die Versionsverwaltung](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
 >[!Note] 
->Wenn Sie ein Office 365-Kunde sind, ist die Versionsverwaltung jetzt standardmäßig aktiviert, wenn Sie neue OneDrive für Unternehmen Bibliotheken erstellen, und die letzten 500-Versionen eines Dokuments werden automatisch gespeichert. Auf diese Weise können Sie verhindern, dass wichtige Dokumente oder Daten verloren gehen. Wenn Sie über vorhandene Bibliotheken auf Ihrer OneDrive für Unternehmen-Website oder auf Ihrer Teamwebsite verfügen, für die die Versionsverwaltung nicht aktiviert ist, können Sie die Versionsverwaltung jederzeit für Sie aktivieren.
+>Wenn Sie Microsoft 365-Kunde sind, ist die Versionsverwaltung jetzt standardmäßig aktiviert, wenn Sie neue OneDrive für Unternehmen Bibliotheken erstellen, und die letzten 500-Versionen eines Dokuments werden automatisch gespeichert. Auf diese Weise können Sie verhindern, dass wichtige Dokumente oder Daten verloren gehen. Wenn Sie über vorhandene Bibliotheken auf Ihrer OneDrive für Unternehmen-Website oder auf Ihrer Teamwebsite verfügen, für die die Versionsverwaltung nicht aktiviert ist, können Sie die Versionsverwaltung jederzeit für Sie aktivieren.
 
 

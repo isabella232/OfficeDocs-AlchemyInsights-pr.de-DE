@@ -3,7 +3,7 @@ title: Lösungen für Fehler 30088-4
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/10/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,12 +13,12 @@ ms.assetid: 2c03462c-8a6a-4042-a6fd-cd9e009b8a3f
 ms.custom:
 - "829"
 - "2000020"
-ms.openlocfilehash: 9d323856b1f3ad7cfea6903dcf3c9745a9853d8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fc25a9ba8af90b7acba3ab3c978e03a3bcfd2d7d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501654"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43756882"
 ---
 # <a name="solutions-for-error-30088-4"></a>Lösungen für Fehler 30088-4
 
@@ -26,11 +26,11 @@ Versuchen Sie es mit diesen Lösungen, um den Fehler [30088-4](https://support.o
   
 - Starten Sie Ihren Computer neu, und [Installieren Sie Office](https://portal.office.com/OLS/MySoftware.aspx).
 
-- Downloaden und installieren Sie den [Support-und](https://aka.ms/SARA-OfficeUninstall-Alchemy)Wiederherstellungs-Assistenten.
+- Laden Sie den [Support- und Wiederherstellungs-Assistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy) herunter, und installieren Sie ihn.
 
 1. Wenn es geöffnet wird, wählen Sie unter **Office-Produkte deinstallieren** die Version aus, die Sie deinstallieren möchten, und wählen Sie **weiter**aus.
 
-2. Fahren Sie fort, und starten Sie den Computer neu, wenn Sie dazu aufgefordert werden.
+2. Klicken Sie sich durch die Bildschirme, und starten Sie Ihren Computer bei entsprechender Aufforderung neu.
 
     Nach dem Neustart wird der Support-und Wiederherstellungs-Assistent automatisch erneut geöffnet, um den Deinstallationsvorgang abzuschließen.
 

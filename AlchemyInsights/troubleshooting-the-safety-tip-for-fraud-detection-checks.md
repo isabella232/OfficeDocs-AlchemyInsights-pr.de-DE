@@ -3,7 +3,7 @@ title: Problembehandlung des Sicherheitstipps für die Überprüfung der Betrugs
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/9/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,12 +13,12 @@ ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.custom:
 - "275"
 - "3100004"
-ms.openlocfilehash: 7ce8bcc7caefebf51fc8d9622367fd16405deef1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 61159391f7a9876750cd7fefc40c54054fb9bec9
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533180"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759511"
 ---
 # <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Problembehandlung des Sicherheitstipps für die Überprüfung der Betrugserkennung
 
@@ -28,6 +28,6 @@ Weitere Informationen finden Sie unter [Problembehandlung des roten (verdächtig
   
 Hier sind einige weitere Links, die helfen können:
   
-- [Verwenden von SPF (Sender Policy Framework) zur Verhinderung von Spoofing durch Office 365](https://docs.microsoft.com/office365/SecurityCompliance/how-office-365-uses-spf-to-prevent-spoofing)
+- [Verwenden von SPF (Sender Policy Framework) zur Verhinderung von Spoofing durch Microsoft](https://docs.microsoft.com/office365/SecurityCompliance/how-office-365-uses-spf-to-prevent-spoofing)
 
-- [Einrichten von SPF in Office 365 zum Verhindern von Spoofing](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [Einrichten von SPF zum Verhindern von Spoofing](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: 7c0c5becb7cd3182357e1a9c83e76215c3ab6b44
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 2bb5db2c22560021fc82e9778d237d6b70884bcf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599951"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765550"
 ---
 # <a name="teams-policies"></a>Teams-Richtlinien
 
@@ -30,5 +30,5 @@ Microsoft Teams-Richtlinien sind in die folgenden Bereiche unterteilt:
 - [Besprechungsrichtlinien](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) steuern, was Benutzer mit Microsoft Teams-Besprechungen tun können, einschließlich der Steuerung der Lobby. Hilfe zu Problemen mit der Lobby, wie das Konfigurieren von Teams für die Zulassung von Benutzern, finden Sie unter [Control Lobby settings and participates of participation](https://docs.microsoft.com/alchemyinsights/bypass-lobby).
 - [Messaging Richtlinien](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) steuern, was Benutzer mit Chat und Nachrichten durchführen können, einschließlich der Aktivierung oder Deaktivierung von Chats, Löschen von Chats, Anfordern von Lesebestätigungen, verwenden von giphys und Aufklebern und vieles mehr.
 - [App-Setup Richtlinien](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) steuern, welche apps Benutzern zur Verfügung stehen, einschließlich benutzerdefinierter und Drittanbieter-apps und der Reihenfolge, in der Sie angezeigt werden.  
-- Daten [Aufbewahrungsrichtlinien](https://docs.microsoft.com/microsoftteams/retention-policies) für Teams finden Sie im Office 365 Security and Compliance Center.
+- Daten [Aufbewahrungsrichtlinien](https://docs.microsoft.com/microsoftteams/retention-policies) für Teams finden Sie im Microsoft 365 Security and Compliance Center.
 - Die adressbuchrichtlinien für Teams werden über die [bereichsbezogene Verzeichnissuche](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search)festgelegt.
