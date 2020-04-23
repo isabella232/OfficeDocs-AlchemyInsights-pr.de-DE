@@ -1,5 +1,5 @@
 ---
-title: Erwerben von Office 365 Education-Plänen
+title: Kaufen von Microsoft 365 Education-Plänen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 7773c955d8f6887f87a3c3741fa29a08e41541e0
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
+ms.openlocfilehash: 92ba04baad82b6c9ced2533fb67d99d0c39ab3a3
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195154"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789373"
 ---
-# <a name="purchase-office-365-education-plans"></a>Erwerben von Office 365 Education-Plänen
+# <a name="purchase-microsoft-365-education-plans"></a>Kaufen von Microsoft 365 Education-Plänen
 
-Ihr Einsatz von Office 365 Education wurde genehmigt.  So kaufen Sie es:
+Ihr Einsatz von Microsoft 365 Education wurde genehmigt.  So kaufen Sie es:
 
 1. Navigieren Sie zu **[Abrechnung > Dienste kaufen](https://portal.office.com/AdminPortal/Home#/catalog)**.
 
@@ -35,6 +35,6 @@ Ihr Einsatz von Office 365 Education wurde genehmigt.  So kaufen Sie es:
 
 **Fernstudium (Lehren und Lernen)**
 
-- Schauen Sie sich bitte [Fernstudium (Lehren und Lernen) in Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) an, um die aktuellste Anleitung zur Organisation Ihrer Bildungseinrichtung, zur Unterrichtsplanung, zu virtuellen Besprechungen und zum Teilen von Inhalten mit den Schülern zu erhalten.
+- Schauen Sie sich bitte [Fernstudium (Lehren und Lernen) in Microsoft 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) an, um die aktuellste Anleitung zur Organisation Ihrer Bildungseinrichtung, zur Unterrichtsplanung, zu virtuellen Besprechungen und zum Teilen von Inhalten mit den Schülern zu erhalten.
 
 - Zusätzliche IT-Anleitungen finden Sie unter[Erste Schritte mit Microsoft Teams für Fernunterricht](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)und[Übergang zum Fernunterricht](https://www.microsoft.com/education/remote-learning).

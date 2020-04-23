@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1904"
-ms.openlocfilehash: 2a45873c328a6df47d2c18aaf107a05dec453bef
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 95045bbcc096323fff551acbb2c25868b420467f
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182614"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788773"
 ---
 # <a name="couldnt-verify-subscription-notice-in-office-apps"></a>Die Benachrichtigung "Abonnement konnte nicht überprüft werden" in Office-Apps
 
-- Überprüfen Sie, ob Ihr [Abonnementstatus](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) gültig ist, ob dem betroffenen Benutzer eine [gültige Lizenz zugewiesen wurde](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) und er mit dem Internet verbunden ist.
+- Überprüfen Sie, ob Ihr [Abonnementstatus](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) gültig ist, dem betroffenen Benutzer eine [gültige Lizenz zugewiesen wurde](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) und er mit dem Internet verbunden ist.
 
-- Auf der Seite [Office 365-Dienststatus](https://docs.microsoft.com/office365/enterprise/view-service-health) werden mögliche bekannte Probleme mit dem Dienst angezeigt.
+- Auf der Seite [Microsoft 365 Service Health](https://docs.microsoft.com/office365/enterprise/view-service-health) werden mögliche bekannte Probleme mit dem Dienst angezeigt.
 
 - [Überprüfen Sie Ihre Firewall](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkfirewall), [überprüfen Sie Ihre Antivirensoftware](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkav), [überprüfen Sie Ihre Proxyeinstellungen](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkproxy) auf dem betroffenen Computer.
 
@@ -32,6 +32,6 @@ ms.locfileid: "43182614"
 
 Ausführliche Anweisungen finden Sie unter: 
 
-[Beim Öffnen einer Office 365-Anwendung wird ein Hinweis zu meinem Abonnement angezeigt](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).
+[Beim Öffnen einer Office 365-Anwendung wird ein Hinweis zu meinem Abonnement angezeigt](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
 
 [Behandeln von Office-Aktivierungsproblemen](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)

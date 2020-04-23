@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "4985"
-ms.openlocfilehash: 4508c70331f8d83f9f3569c64d49e963af801eb9
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: e78b560329254f7035869c076db5ff31427dc7ae
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530292"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43783970"
 ---
 # <a name="domain-transfers"></a>Domänenübertragungen
 
@@ -24,9 +24,9 @@ ms.locfileid: "43530292"
 
     - Obwohl von Microsoft erworbene Domänen das Ändern von NS-Einträgen nicht unterstützen, sollten Sie in Erwägung ziehen, [DNS-Einträge für Ihre Website zu aktualisieren](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide), anstatt Ihre Domänenregistrierung auf den Webhoster zu übertragen.
 
-- Eine von Microsoft erworbene Domäne kann nicht zwischen Office 365-Mandanten übertragen werden. 
+- Eine von Microsoft erworbene Domäne kann nicht zwischen Microsoft 365-Mandanten übertragen werden. 
 
-    - Sie können jedoch eine Domäne eines Drittanbieters zwischen Office 365-Mandanten übertragen, indem Sie [die Domäne von einem Mandanten entfernen](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide) und dann die Domäne in einem anderen Mandanten bestätigen.
+    - Sie können jedoch eine Domäne eines Drittanbieters zwischen Microsoft 365-Mandanten übertragen, indem Sie [die Domäne von einem Mandanten entfernen](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide) und dann die Domäne in einem anderen Mandanten bestätigen.
 
 - Die Registrierung oder Abrechnung von Domänen eines Drittanbieters kann nicht auf Microsoft übertragen werden.
 

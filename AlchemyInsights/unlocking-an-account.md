@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: f66eb26df12412162e6f092c2528138bb30b7eb2
-ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
+ms.openlocfilehash: 29ba242f0a9404f9e0e7c32457bc9faa094514bd
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "43231419"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43785230"
 ---
 # <a name="unlocking-an-account"></a>Entsperren eines Kontos
 
-Es kann vorkommen, dass Benutzer von Office 365 aufgrund fehlerhafter Kennworteingaben oder anderer Manipulationen gesperrt werden. Wenn Sie Benutzern bei der neuerlichen Anmeldung bei Microsoft 365 helfen möchten, **können Sie vor dem Eröffnen einer Supportanfrage die folgenden Schritte ausführen**. 
+Es kann vorkommen, dass Benutzer von Microsoft 365 aufgrund fehlerhafter Kennworteingaben oder anderer Manipulationen gesperrt werden. Wenn Sie Benutzern bei der neuerlichen Anmeldung bei Microsoft 365 helfen möchten, **können Sie vor dem Eröffnen einer Supportanfrage die folgenden Schritte ausführen**. 
 
 **E-Mail-Zugriff eingeschränkt**
 
@@ -43,4 +43,4 @@ Informationen zu weiteren Szenarien für das Zurücksetzen von Kennwörtern, ein
 
 Als Administrator können Sie, wenn einer Ihrer Benutzer keine E-Mails versenden darf, [die Sperre selbst aufheben](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam), **ohne einen Support-Fall zu eröffnen**. Der Benutzer kann innerhalb einer Stunde nach Aufhebung der Einschränkung E-Mails senden.
 
-Der Dienst verhindert, dass ein Benutzer E-Mails sendet, nachdem er Hinweise auf ein angegriffenes Konto und/oder ausgehenden Spam entdeckt hat. Als Vorsichtsmaßnahme, führen Sie die Schritte zum [Reagieren auf ein angegriffenes E-Mail-Konto in Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) für den Benutzer aus.
+Der Dienst verhindert, dass ein Benutzer E-Mails sendet, nachdem er Hinweise auf ein angegriffenes Konto und/oder ausgehenden Spam entdeckt hat. Als Vorsichtsmaßnahme, führen Sie die Schritte zum [Reagieren auf ein angegriffenes E-Mail-Konto in Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) für den Benutzer aus.

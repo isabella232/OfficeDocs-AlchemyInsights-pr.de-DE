@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4352"
-ms.openlocfilehash: 6b1d6043013fd90d2aa7e5688c25cc1186d734f1
-ms.sourcegitcommit: 1173501899034ad5f6a432311bc3f1091ead3efa
+ms.openlocfilehash: 5677d41c37f3114f40c2fae7cb0fd48c040813a6
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43541666"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43789013"
 ---
 # <a name="teams-dial-in-conferencing-number-removal"></a>Entfernen einer Teams-Konferenzeinwahlnummer
 
@@ -24,7 +24,7 @@ Benötigen Sie Hilfe beim Entfernen einer Konferenzeinwahlnummer aus Ihrer Konfe
 
 Die Standardtelefonnummer der Konferenzbrücke definiert die Anrufer-ID, die verwendet wird, wenn ein ausgehender Anruf von einem Teilnehmer oder dem Organisator innerhalb einer Besprechung platziert wird.
 
-1. Melden Sie sich bei Office 365 mit Ihrem Geschäftskonto an.
+1. Melden Sie sich mit Ihrem Geschäftskonto an.
 
 2. Navigieren Sie zum **Microsoft 365 Admin Center**.
 

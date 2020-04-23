@@ -10,16 +10,16 @@ ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "1161"
 - "5200019"
-ms.openlocfilehash: 9cd49502102ee89df0e714d0bca86e87733cb6b3
-ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
+ms.openlocfilehash: 8798987db5e39e5f49aceac458ae985e2c3d6b21
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030363"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43787369"
 ---
 # <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online oder OneDrive "einrichten"
 
-Wenn ein Benutzer einem vorhandenen Office 365 Mandanten hinzugefügt wird, werden ihm möglicherweise die SharePoint Online oder OneDrive für Unternehmen Symbole angezeigt, die als "einrichten" oder "Wir arbeiten immer noch daran, Dateien einzurichten" aufgelistet werden, bis der Bereitstellung-Prozess abgeschlossen ist. Führen Sie diese [Anleitung zur Problembehandlung](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) aus.
+Wenn ein Benutzer einem vorhandenen Mandanten hinzugefügt wird, werden ihm möglicherweise die SharePoint Online oder OneDrive für Unternehmen Symbole angezeigt, die als "einrichten" oder "Wir arbeiten immer noch daran, Dateien einzurichten" aufgelistet werden, bis der Bereitstellung-Prozess abgeschlossen ist. Führen Sie diese [Anleitung zur Problembehandlung](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) aus.
 
 Wenn mehr als 24 Stunden vergangen sind, seit Sie dieses Problem erstmals gesehen haben, melden Sie sich einen Supportfall an.
 
