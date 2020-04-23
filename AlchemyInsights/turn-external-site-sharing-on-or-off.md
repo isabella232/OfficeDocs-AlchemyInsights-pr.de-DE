@@ -3,7 +3,7 @@ title: Vorgehensweise Anpassen von Berechtigungen für eine SharePoint-Liste ode
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 10/28/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "2734"
-ms.openlocfilehash: 738e17393af628d5b19aa7e047a736f78615ff57
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 0959e0bd31a7e38da08120749a29cd41910eecb1
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43100326"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43731697"
 ---
 # <a name="turn-external-sharing-on-or-off-for-a-site"></a>Aktivieren oder Deaktivieren der externen Freigabe für eine Website
 
-Sie müssen ein globaler oder SharePoint-Administrator in Office 365 sein, um die Einstellung für die externe Freigabe für eine Website (früher "Websitesammlung") zu ändern. Websitesammlungsbesitzer können diese Einstellung nicht ändern. 
+Sie müssen ein globaler oder SharePoint-Administrator sein, um die Einstellung für die externe Freigabe für eine Website zu ändern (zuvor als "Websitesammlung" bezeichnet). Websitesammlungsbesitzer können diese Einstellung nicht ändern. 
 
 Weitere Informationen finden Sie unter [Aktivieren oder Deaktivieren der externen Freigabe für eine Website](https://docs.microsoft.com/sharepoint/change-external-sharing-site).
