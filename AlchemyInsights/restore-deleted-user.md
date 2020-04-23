@@ -3,7 +3,7 @@ title: Wiederherstellen des gelöschten Benutzers
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: 0ec30e3560eb0a9ccceae101f692aa1969450f5b
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 558ebba836d114a3d04848aae3c0ef598d8ea120
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36745072"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784186"
 ---
-# <a name="restore-a-user-in-office-365"></a>Wiederherstellen eines Benutzers in Office 365
+# <a name="restore-a-user"></a>Wiederherstellen eines Benutzers
 
-Stellen Sie einen Benutzer in Office 365 mithilfe der folgenden Schritte wieder her:
+Stellen Sie einen Benutzer mithilfe der folgenden Schritte wieder her:
   
 1. Wechseln Sie [zu \> Benutzer gelöschte Benutzer](https://admin.microsoft.com/adminportal/home#/deletedusers).
 
@@ -32,4 +32,4 @@ Stellen Sie einen Benutzer in Office 365 mithilfe der folgenden Schritte wieder 
 
 4. Klicken Sie auf **e-Mail senden und schließen**, und Sie sind fertig!
 
-War das nicht so einfach? Weitere Details und Schritte mit Screenshots finden Sie in diesem Artikel: [Wiederherstellen eines Benutzers in Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user). Wenn Sie feststellen, dass Sie das Postfach des Benutzers stattdessen wiederherstellen müssen, lesen Sie: [Löschen oder Wiederherstellen von Benutzerpostfächern in Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
+War das nicht so einfach? Weitere Details und Schritte mit Screenshots finden Sie in diesem Artikel: [Wiederherstellen eines Benutzers](https://docs.microsoft.com/office365/admin/add-users/restore-user). Wenn Sie feststellen, dass Sie das Postfach des Benutzers stattdessen wiederherstellen müssen, lesen Sie: [Löschen oder Wiederherstellen von Benutzerpostfächern in Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).

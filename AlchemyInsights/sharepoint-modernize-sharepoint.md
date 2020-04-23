@@ -10,19 +10,19 @@ ms.collection: Adm_O365
 ms.assetid:
 - "9000153"
 - "1692"
-ms.openlocfilehash: d998dec19433279e602c02bdaacc74371a4d0262
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 4ca60a0e433439f4eded0876a2e13c01a9c3a726
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41771262"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767716"
 ---
 # <a name="modernize-your-classic-sharepoint-experience"></a>Modernisieren ihrer klassischen SharePoint-Umgebung
 
 Überprüfen Sie die folgenden Ressourcen, um den Wechsel zur modernen Benutzeroberfläche vorzunehmen:
 
 - [Erstellen Sie **moderne Websites** ](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d) (Team Website oder Kommunikationswebsite). Verwenden Sie das [SharePoint-suchbuch](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) , um ein schönes, leistungsfähiges Intranet zu erstellen, das den Arbeitsplatz verbindet. Siehe [Beispiele](https://lookbook.microsoft.com/) und Abrufen von [Entwurfsanleitungen](https://spdesign.azurewebsites.net/).
-- [Verbinden Sie Ihre Website mit einer **Office 365 Gruppe** ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) , um die Zusammenarbeit in Office 365 zu verbessern.
+- [Verbinden Sie Ihre Website mit einer **Office 365 Gruppe** ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) , um die Zusammenarbeit in Microsoft 365 zu verbessern.
 - Wandeln Sie in die **moderne Listen-und Bibliotheks** Umgebung um, indem Sie [Listen und Bibliotheken in der modernen Benutzeroberfläche anzeigen](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
 - Verwandeln **Sie Website Seiten** aus klassischen **Wikis**, **Webparts**und **Start** Seiten in [moderne clientseitige Seiten](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages). Der [SharePoint-Modernisierungs Scanner](https://docs.microsoft.com/sharepoint/dev/transform/modernize-scanner) bietet Informationen zur Seite zur aktuellen wiki-und Webpartseiten, die Ihnen bei der Priorisierung der Seitentransformation helfen.
 
