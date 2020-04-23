@@ -1,5 +1,5 @@
 ---
-title: Überprüfen Ihrer Domäne mit Office 365
+title: 'Überprüfen Ihrer Domäne '
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: ade67097172464fdf213b8af7af6639a25d48315
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: c0f0fbc2528e62f01cebe515fbeb192315c4d3c9
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43529603"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43787996"
 ---
-# <a name="how-to-verify-your-domain-with-office-365"></a><span data-ttu-id="807a3-102">Überprüfen Ihrer Domäne mit Office 365</span><span class="sxs-lookup"><span data-stu-id="807a3-102">How to verify your domain with Office 365</span></span>
+# <a name="how-to-verify-your-domain"></a><span data-ttu-id="40139-102">Überprüfen Ihrer Domäne</span><span class="sxs-lookup"><span data-stu-id="40139-102">How to verify your domain</span></span>
 
-<span data-ttu-id="807a3-103">Um Ihre Domäne zu überprüfen, müssen Sie Ihrer Domänenregistrierungsstelle einen TXT-Eintrag hinzufügen, um zu überprüfen, ob Sie Ihre Domäne besitzen.</span><span class="sxs-lookup"><span data-stu-id="807a3-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="807a3-104">Führen Sie zunächst den [Assistenten zum Hinzufügen von Domänen](https://portal.office.com/adminportal/home#/Domains/Wizard) aus, indem Sie auf **Setup** \> **Domänen**und dann auf **Domäne hinzufügen**klicken.</span><span class="sxs-lookup"><span data-stu-id="807a3-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard) by clicking **Setup** \> **Domains**, and then **Add domain**.</span></span>
+<span data-ttu-id="40139-103">Um Ihre Domäne zu überprüfen, müssen Sie Ihrer Domänenregistrierungsstelle einen TXT-Eintrag hinzufügen, um zu überprüfen, ob Sie Ihre Domäne besitzen.</span><span class="sxs-lookup"><span data-stu-id="40139-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="40139-104">Führen Sie zunächst den [Assistenten zum Hinzufügen von Domänen](https://portal.office.com/adminportal/home#/Domains/Wizard) aus, indem Sie auf **Setup** \> **Domänen**und dann auf **Domäne hinzufügen**klicken.</span><span class="sxs-lookup"><span data-stu-id="40139-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard) by clicking **Setup** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="807a3-105">Befolgen Sie die Anweisungen unter [Erstellen von DNS-Einträgen bei einem beliebigen DNS-Hostinganbieter für Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) , um einen TXT-Eintrag hinzuzufügen, um Ihre Domäne zu überprüfen.</span><span class="sxs-lookup"><span data-stu-id="807a3-105">Follow the instructions in [Create DNS records at any DNS hosting provider for Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
+<span data-ttu-id="40139-105">Befolgen Sie die Anweisungen unter [Erstellen von DNS-Einträgen bei einem beliebigen DNS-Hostinganbieter](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) , um einen TXT-Eintrag hinzuzufügen, um Ihre Domäne zu überprüfen.</span><span class="sxs-lookup"><span data-stu-id="40139-105">Follow the instructions in [Create DNS records at any DNS hosting provider](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
 
-<span data-ttu-id="807a3-106">Für andere Domänenprobleme versuchen Sie die [Domänen FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="807a3-106">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
+<span data-ttu-id="40139-106">Für andere Domänenprobleme versuchen Sie die [Domänen FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="40139-106">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>

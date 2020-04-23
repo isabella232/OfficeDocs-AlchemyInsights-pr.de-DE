@@ -1,5 +1,5 @@
 ---
-title: Vorgehensweise zum Erstellen eines Office 365 Kaufs
+title: Vorgehensweise zum Erstellen eines Microsoft 365-Kaufs
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,29 +12,29 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 19e4a7ffd7f64f744eeba2a7a34390309bfe9bb8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b7436583f6aa8e0fe22c1bff71271a94b3de583c
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759115"
+ms.locfileid: "43787873"
 ---
-# <a name="how-to-make-a-microsoft-365-purchase"></a><span data-ttu-id="d4d74-102">Vorgehensweise zum Erstellen eines Microsoft 365-Kaufs</span><span class="sxs-lookup"><span data-stu-id="d4d74-102">How to make a Microsoft 365 purchase</span></span>
+# <a name="how-to-make-a-microsoft-365-purchase"></a><span data-ttu-id="a8edc-102">Vorgehensweise zum Erstellen eines Microsoft 365-Kaufs</span><span class="sxs-lookup"><span data-stu-id="a8edc-102">How to make a Microsoft 365 purchase</span></span>
 
-<span data-ttu-id="d4d74-103">Käufe in Microsoft 365 können im Admin Center vorgenommen werden.</span><span class="sxs-lookup"><span data-stu-id="d4d74-103">Purchases in Microsoft 365 can be made in the admin center.</span></span>
+<span data-ttu-id="a8edc-103">Käufe in Microsoft 365 können im Admin Center vorgenommen werden.</span><span class="sxs-lookup"><span data-stu-id="a8edc-103">Purchases in Microsoft 365 can be made in the admin center.</span></span>
   
-- <span data-ttu-id="d4d74-104">Wenn Sie einen Plan kaufen möchten, wechseln Sie zur Seite " **Abrechnungs** \> - [Einkaufsdienste](https://go.microsoft.com/fwlink/p/?linkid=868433) ".</span><span class="sxs-lookup"><span data-stu-id="d4d74-104">To purchase a plan, go to the **Billing** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
+- <span data-ttu-id="a8edc-104">Wenn Sie einen Plan kaufen möchten, wechseln Sie zur Seite " **Abrechnungs** \> - [Einkaufsdienste](https://go.microsoft.com/fwlink/p/?linkid=868433) ".</span><span class="sxs-lookup"><span data-stu-id="a8edc-104">To purchase a plan, go to the **Billing** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
 
-- <span data-ttu-id="d4d74-105">Um zusätzliche Lizenzen zu erwerben, wechseln Sie zur Seite **Abrechnungs** \> [Produkte & Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="d4d74-105">To purchase additional licenses, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="d4d74-106">Wählen Sie das Abonnement aus, dem Sie Lizenzen hinzufügen möchten, und wählen Sie dann **Lizenzen hinzufügen/entfernen**aus.</span><span class="sxs-lookup"><span data-stu-id="d4d74-106">Choose the subscription that you want to add licenses to, and then select **Add/Remove licenses**.</span></span>
+- <span data-ttu-id="a8edc-105">Um zusätzliche Lizenzen zu erwerben, wechseln Sie zur Seite **Abrechnungs** \> [Produkte & Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="a8edc-105">To purchase additional licenses, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="a8edc-106">Wählen Sie das Abonnement aus, dem Sie Lizenzen hinzufügen möchten, und wählen Sie dann **Lizenzen hinzufügen/entfernen**aus.</span><span class="sxs-lookup"><span data-stu-id="a8edc-106">Choose the subscription that you want to add licenses to, and then select **Add/Remove licenses**.</span></span>
   
-<span data-ttu-id="d4d74-107">Weitere Informationen finden Sie unter [kaufen von Lizenzen für Ihr Microsoft 365 for Business-Abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).</span><span class="sxs-lookup"><span data-stu-id="d4d74-107">To learn more, see [Buy licenses for your Microsoft 365 for business subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).</span></span>
+<span data-ttu-id="a8edc-107">Weitere Informationen finden Sie unter [kaufen von Lizenzen für Ihr Microsoft 365 for Business-Abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).</span><span class="sxs-lookup"><span data-stu-id="a8edc-107">To learn more, see [Buy licenses for your Microsoft 365 for business subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).</span></span>
 
-<span data-ttu-id="d4d74-108">**Problembehandlung**</span><span class="sxs-lookup"><span data-stu-id="d4d74-108">**Troubleshooting**</span></span>
+<span data-ttu-id="a8edc-108">**Problembehandlung**</span><span class="sxs-lookup"><span data-stu-id="a8edc-108">**Troubleshooting**</span></span>
 
-<span data-ttu-id="d4d74-109">Wenn Sie Probleme beim Laden der Seite haben, versuchen Sie, die Webseite in einem anderen Browser zu öffnen, oder versuchen Sie, die Seite in einem privaten Browserfenster zu öffnen, z. B. in einem InPrivate-Fenster in Microsoft Edge oder einem inkognito-Fenster in Google Chrome.</span><span class="sxs-lookup"><span data-stu-id="d4d74-109">If you experience problems with the page loading, try opening the web page in a different browser, or try opening the page a private browser window, such as an InPrivate window in Microsoft Edge or an incognito window in Google Chrome.</span></span> 
+<span data-ttu-id="a8edc-109">Wenn Sie Probleme beim Laden der Seite haben, versuchen Sie, die Webseite in einem anderen Browser zu öffnen, oder versuchen Sie, die Seite in einem privaten Browserfenster zu öffnen, z. B. in einem InPrivate-Fenster in Microsoft Edge oder einem inkognito-Fenster in Google Chrome.</span><span class="sxs-lookup"><span data-stu-id="a8edc-109">If you experience problems with the page loading, try opening the web page in a different browser, or try opening the page a private browser window, such as an InPrivate window in Microsoft Edge or an incognito window in Google Chrome.</span></span> 
 
-<span data-ttu-id="d4d74-110">**Weitere Ressourcen**</span><span class="sxs-lookup"><span data-stu-id="d4d74-110">**Additional Resources**</span></span>
+<span data-ttu-id="a8edc-110">**Weitere Ressourcen**</span><span class="sxs-lookup"><span data-stu-id="a8edc-110">**Additional Resources**</span></span>
   
-- [<span data-ttu-id="d4d74-111">Zuweisen von Lizenzen zu Benutzern in Microsoft 365 for Business</span><span class="sxs-lookup"><span data-stu-id="d4d74-111">Assign licenses to users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [<span data-ttu-id="a8edc-111">Zuweisen von Lizenzen zu Benutzern in Microsoft 365 for Business</span><span class="sxs-lookup"><span data-stu-id="a8edc-111">Assign licenses to users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [<span data-ttu-id="d4d74-112">Abbrechen von Microsoft 365 for Business</span><span class="sxs-lookup"><span data-stu-id="d4d74-112">Cancel Microsoft 365 for Business</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [<span data-ttu-id="a8edc-112">Abbrechen von Microsoft 365 for Business</span><span class="sxs-lookup"><span data-stu-id="a8edc-112">Cancel Microsoft 365 for Business</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
