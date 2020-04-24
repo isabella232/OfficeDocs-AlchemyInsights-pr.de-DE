@@ -3,7 +3,7 @@ title: Blockieren oder Aufheben der Blockierung von Absendern in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
+ms.date: 04/23/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,21 +15,20 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: 67bd05e8d2effa325e152ca568748d4cd92930cf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b6a80faa0542f3f68ac431e4ccd7b59894e8eeb9
+ms.sourcegitcommit: 86881d80c859e68bdf9d301a2df6ca9d75e086a0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43717763"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43793954"
 ---
 # <a name="block-or-unblock-senders"></a>Blockieren oder Aufheben der Blockierung von Absendern
 
-Nachrichten von e-Mail-Adressen oder Domänen auf Ihren blockierten Absendern gelangen direkt in Ihren Outlook-Junk-e-Mail-Ordner. E-Mail wird nach 30 Tagen automatisch aus dem Junk-e-Mail-Ordner entfernt und kann nicht wiederhergestellt werden. Wählen Sie ein Element aus, das angezeigt werden soll, wenn es entfernt wird.
+Nachrichten von e-Mail-Adressen oder Domänen in Ihrer Liste blockierter Absender kommen nicht zu Ihrem Outlook.com-Postfach.
 
 **In Ihrem Posteingang:**
 
 - Wählen Sie in der Nachrichtenliste die Nachricht aus, und wählen Sie dann **Junk** > -**Block**aus.
-- **Hinweis:** Durch das Blockieren eines Elements, das sich bereits im Junk-e-Mail-Ordner befindet, wird es nicht gelöscht.
 
 **Von Einstellungen:**
 
@@ -40,4 +39,4 @@ Nachrichten von e-Mail-Adressen oder Domänen auf Ihren blockierten Absendern ge
 
 Zum Aufheben der Blockierung eines Absenders wählen Sie das Papierkorbsymbol neben der e-Mail-Adresse oder Domäne aus, deren Blockierung Sie aufheben möchten.
 
-Weitere Informationen finden Sie unter [kennzeichnen von e-Mails als Junk-e-Mail oder Blockieren von Absendern in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Weitere Informationen finden Sie unter [Blockieren von Absendern oder Markieren von e-Mails als Junk-e-](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)Mails.
