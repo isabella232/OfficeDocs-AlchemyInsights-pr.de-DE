@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001671"
 - "3738"
-ms.openlocfilehash: a68c62007a0e99828183fb690c1039132f49044c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4b1a6b5f4d24a3ffad4f521df16c25e780f4b8c4
+ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707006"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43799014"
 ---
 # <a name="change-the-country-or-region-for-your-microsoft-365-subscription"></a>Ändern des Landes oder der Region für Ihr Microsoft 365-Abonnement
 
-Sie **können** das Land oder die Region für Ihr Abonnement nicht ändern. Stattdessen müssen Sie sich für ein neues Konto registrieren, das gewünschte Land oder eine Region auswählen und ein neues Abonnement erwerben. 
+Sie können das Land oder die Region für Ihr Abonnement **nicht ändern** . Dies liegt daran, dass anhand des Landes bzw. der Region, in dem/der Ihre Organisation ihren Standort hat, festlegt wird, welche Dienste für Sie verfügbar sind sowie die für den Standort des Rechenzentrums geltenden Steuern und die Abrechnungswährung. Wenn Sie das Land oder die Region Ihrer Organisation ändern möchten, registrieren Sie sich für ein neues Konto, wählen Sie das gewünschte Land bzw. die gewünschte Region aus, und erwerben Sie ein neues Abonnement.
 
 Weitere Informationen finden Sie unter [Ändern der Adresse Ihrer Organisation, des technischen Kontakts und vieles mehr](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more?view=o365-worldwide). Wenn Sie die zugehörige Abrechnungs-oder Abonnement Adresse ändern möchten, finden Sie weitere Informationen unter [Change for Billing addresses for Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide). 

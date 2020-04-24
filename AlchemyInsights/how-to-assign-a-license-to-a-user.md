@@ -13,22 +13,22 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 122103d86dd96696bc524c5791d739af016e8371
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 21e039f381cf853b1b3879787d65a2f809fd1e65
+ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709550"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43799158"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Vorgehensweise Zuweisen einer Lizenz zu einem Benutzer
 
-Ein Benutzer benötigt eine Lizenz für den Zugriff auf Dienste. Hier sind die Schritte zum Hinzufügen, ändern oder Entfernen einer Lizenz eines Benutzers.
+Ein Benutzer benötigt eine Lizenz für den Zugriff auf Dienste. Hier sind die Schritte zum **hinzufügen, ändern oder entfernen** einer Lizenz eines Benutzers.
   
-1. Wechseln Sie im Admin Center zu der Seite **Benutzer** \> [Aktive Benutzer](https://go.microsoft.com/fwlink/p/?linkid=834822).
+1. Wechseln Sie im Admin Center zu **Benutzer** \> [aktive Benutzer](https://go.microsoft.com/fwlink/p/?linkid=834822).
 
-2. Wählen Sie den Namen des Benutzers aus, dem Sie eine Lizenz zuweisen, ändern oder entfernen möchten.
+2. Wählen Sie den Namen des Benutzers aus, für den Sie eine Lizenz zuweisen, ändern oder entfernen möchten.
 
-3. Wählen Sie auf der Registerkarte **Lizenzen und apps** die Lizenz aus, die Sie diesem Benutzer zuweisen möchten.
+3. Klicken Sie auf **Produktlizenzen verwalten**, und wählen Sie die Lizenz aus, die Sie diesem Benutzer zuweisen möchten.
 
     Standardmäßig werden alle dieser Lizenz zugeordneten Dienste dem Benutzer automatisch zugewiesen. Um zu begrenzen, welche Dienste für den Benutzer verfügbar sind, deaktivieren Sie das Kontrollkästchen für die Dienste, die dieser Benutzer nicht erhalten soll.
 
