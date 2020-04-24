@@ -12,16 +12,16 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692394"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709938"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – Audiokonferenzen
 
-Benötigen Sie Hilfe beim Aktivieren oder Einrichten von Audiokonferenzen in Microsoft Teams? Wurde dieser Benutzer kürzlich erstellt?  Wenn dies der Fall ist, müssen Sie 2 bis 24 Stunden warten, bis die Einstellungen wirksam werden.    
+Benötigen Sie Hilfe beim Aktivieren oder Einrichten von Audiokonferenzen in Microsoft Teams? Wurde dieser Benutzer kürzlich erstellt?  Wenn dies der Fall ist, müssen Sie 2 bis 24 Stunden warten, bis die Einstellungen wirksam werden.
 
 So überprüfen Sie, ob der Benutzer für Audiokonferenzen lizenziert ist und über eine gebührenpflichtige Standardnummer verfügt:
 
@@ -39,4 +39,4 @@ So überprüfen Sie, ob der Benutzer für Audiokonferenzen lizenziert ist und ü
 
 7. Wählen Sie den betreffenden Benutzer aus, und vergewissern Sie sich, dass er über eine **gebührenpflichtige Standardnummer** verfügt.
 
-Weitere Informationen finden Sie unter [Anrufpläne für Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365). Sie können sich auch an das Microsoft Commerce-Abrechnungsteam wenden, um Fragen zur Lizenzierung zu beantworten.
+Weitere Informationen finden Sie unter [Anrufpläne](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365). Sie können sich auch an das Microsoft Commerce-Abrechnungsteam wenden, wenn Sie Fragen zur Lizenzierung haben.
