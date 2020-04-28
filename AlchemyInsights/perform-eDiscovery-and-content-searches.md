@@ -13,16 +13,16 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764727"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911830"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Durchführen von Inhalts suchen und eDiscovery-suchen
 
-Verwenden Sie das Tool für die Inhaltssuche im Security & Compliance Center, um e-Mails in Exchange-Postfächern, Dokumenten in SharePoint-Websites und OneDrive-Konto und Chat Unterhaltungen in Skype for Business schnell zu finden. Sie können auch das Inhalts Such Tool verwenden, um nach e-Mails, Dokumenten und Chat Unterhaltungen in Microsoft 365-Zusammenarbeitstools wie Microsoft Teams und Office 365 Gruppen zu suchen.
+Verwenden Sie das Tool für die Inhaltssuche im Security & Compliance Center, um e-Mails in Exchange-Postfächern, Dokumenten in SharePoint-Websites und OneDrive-Konto und Chat Unterhaltungen in Skype for Business schnell zu finden. Sie können auch das Inhalts Such Tool verwenden, um nach e-Mails, Dokumenten und Chat Unterhaltungen in Microsoft 365-Zusammenarbeitstools wie Microsoft Teams und Microsoft 365-Gruppen zu suchen.
 
 **So führen Sie eine Inhaltssuche durch**
 

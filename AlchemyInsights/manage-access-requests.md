@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 696cbf7524c4f866fd12d67699e828fce49341cb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66b00625190bddfc2b060895c9b864f6a839adb2
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721750"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912402"
 ---
 # <a name="manage-access-requests"></a>Verwalten von Zugriffsanforderungen
 
@@ -26,7 +26,7 @@ Wenn ein Benutzer versucht, auf ein Element in SharePoint zuzugreifen, und er ü
     
 2. Klicken Sie unter **Benutzer und Berechtigungen**auf **Zugriffsanforderungen und-Einladungen**. (Wenn dieser nicht angezeigt wird, wurden keine Zugriffsanforderungen vorgenommen.)
     
-3. Klicken Sie auf **genehmigen** oder **ablehnen**, um der Benutzerberechtigung einzeln zu erteilen. Klicken Sie zum Auswählen einer bestimmten Berechtigungsstufe zunächst auf das Auslassungszeichen (...) neben dem Namen der Person. Alternativ können Sie den Benutzer einer Gruppe hinzufügen, die über die Berechtigung für die Website verfügt. Für Kommunikationswebsites und klassische Teamwebsites können Sie dies auf der Seite Websiteeinstellungen tun. Für Websites, die zu einer Office 365 Gruppe gehören, können Sie den Benutzer zur Gruppe hinzufügen.
+3. Klicken Sie auf **genehmigen** oder **ablehnen**, um der Benutzerberechtigung einzeln zu erteilen. Klicken Sie zum Auswählen einer bestimmten Berechtigungsstufe zunächst auf das Auslassungszeichen (...) neben dem Namen der Person. Alternativ können Sie den Benutzer einer Gruppe hinzufügen, die über die Berechtigung für die Website verfügt. Für Kommunikationswebsites und klassische Teamwebsites können Sie dies auf der Seite Websiteeinstellungen tun. Für Websites, die zu einer Microsoft 365-Gruppe gehören, können Sie den Benutzer zur Gruppe hinzufügen.
     
     [Verwalten von Zugriffsanforderungen](https://go.microsoft.com/fwlink/?linkid=2008747)
     

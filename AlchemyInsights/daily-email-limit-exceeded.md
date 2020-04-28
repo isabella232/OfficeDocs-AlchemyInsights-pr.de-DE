@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: 3cad5d8305da0a5db9a85888793350a062e6aed6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 5a510f1137c7c49cd1de3d3fd2a470759e37ba1e
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053116"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908703"
 ---
 # <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Grenzwert für tägliche e-Mail überschritten. Workflow ist angehalten.
 
@@ -27,7 +27,7 @@ Dieser Fehler kann in den folgenden Szenarien eingegangen sein:
 - Wenn Sie den Workflow ausführen, wird die e-Mail-Nachricht nicht gesendet, und Sie sehen das folgende Verhalten:
     - Für einen Workflow mithilfe des SharePoint 2013 Plattformtyps navigieren Sie zur Seite **Workflow Status** . Auf der Seite Workflow Status ist der **interne Status** auf **gestartet**festgelegt, und die Informations Sprechblase zeigt an, dass **keine Empfänger gesendet**werden können.
 
-Um dieses Problem zu umgehen, konfigurieren Sie Ihren Workflow zum Senden von e-Mail-Nachrichten, ohne die [Exchange Online Absender Grenzwerte](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits)zu überschreiten. Verwenden Sie beispielsweise eine Pause im Workflow, senden Sie die e-Mail an eine Office 365 Gruppe, eine Verteilergruppe oder eine e-Mail-aktivierte Sicherheitsgruppe, oder senden Sie die Nachricht an weniger als 200 Empfänger gleichzeitig.
+Um dieses Problem zu umgehen, konfigurieren Sie Ihren Workflow zum Senden von e-Mail-Nachrichten, ohne die [Exchange Online Absender Grenzwerte](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits)zu überschreiten. Verwenden Sie beispielsweise eine Pause im Workflow, senden Sie die e-Mail an eine Microsoft 365-Gruppe, eine Verteilergruppe oder eine e-Mail-aktivierte Sicherheitsgruppe, oder senden Sie die Nachricht an weniger als 200 Empfänger gleichzeitig.
 
 
 Weitere Informationen finden Sie im folgenden [Artikel](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or).

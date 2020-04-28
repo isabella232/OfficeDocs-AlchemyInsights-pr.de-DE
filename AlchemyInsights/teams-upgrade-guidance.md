@@ -11,14 +11,16 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: b35cb349aadf146079331370bb872ab24f4a8fef
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 045ea1814c0b6189ec25195202bf0f1def255f23
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626311"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908786"
 ---
 # <a name="microsoft-teams-upgrade"></a>Microsoft Teams-Upgrade
+
+**Wichtig**: Wir können Ihnen dabei helfen, das Problem mit einer Support Diagnose zu beheben, aber es sieht so aus, als ob Sie das neue Admin Center nicht verwenden. Um das neue Admin Center zu verwenden, schieben Sie die Umschaltfläche in der oberen rechten Ecke, die besagt, dass **neue Admin Center** auf der rechten Seite. Wenn Sie das neue Admin Center verwenden, klicken Sie auf das Widget " **Hilfe benötigen?** ", geben Sie "Teams-Upgrade" ein, und führen Sie dann die Anweisungen aus, um die Diagnose auszuführen.
 
 Ganz gleich, ob Sie neu bei Microsoft Teams sind, Microsoft Teams bereits zusammen mit Skype for Business verwenden oder bereit für das Upgrade sind – wir möchten sicherstellen, dass Sie alles haben, was Sie für eine erfolgreiche Umstellung auf Microsoft Teams benötigen. Weitere Informationen finden Sie unter den Links unten.
 

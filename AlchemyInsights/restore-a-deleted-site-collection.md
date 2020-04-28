@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: edf851da951e163f30660d524049abe0798a8314
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d37fd903c91c8cd6ac6137e815cb253f7edb4494
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048795"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912674"
 ---
 # <a name="restore-a-deleted-site"></a>Wiederherstellen einer gelöschten Website
 
@@ -27,6 +27,6 @@ Wenn ein Administrator eine SharePoint-Website löscht, wird er im Papierkorb de
     
 3. Klicken Sie auf **Gelöschte Elemente wiederherstellen**.
     
-Zum Wiederherstellen einer gelöschten Kommunikationswebsite können Sie das neue SharePoint Admin Center verwenden. Andernfalls müssen Sie Microsoft PowerShell verwenden. Zum Wiederherstellen einer Website, die zu einer Office 365 Gruppe gehört, müssen Sie die Gruppe im Exchange Admin Center wiederherstellen. Gruppen können 30 Tage nach dem Löschen wiederhergestellt werden.
+Zum Wiederherstellen einer gelöschten Kommunikationswebsite können Sie das neue SharePoint Admin Center verwenden. Andernfalls müssen Sie Microsoft PowerShell verwenden. Zum Wiederherstellen einer Website, die zu einer Microsoft 365-Gruppe gehört, müssen Sie die Gruppe im Exchange Admin Center wiederherstellen. Gruppen können 30 Tage nach dem Löschen wiederhergestellt werden.
   
 

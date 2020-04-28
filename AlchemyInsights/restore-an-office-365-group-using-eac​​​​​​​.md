@@ -1,5 +1,5 @@
 ---
-title: Wiederherstellen einer Office 365-Gruppe über das Exchange Admin Center
+title: Wiederherstellen einer Microsoft 365-Gruppe mithilfe der Exchange-Verwaltungskonsole
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c73ad2a3-39ed-4acb-9872-6a38eda11464
-ms.openlocfilehash: e0092afc382c034be0c1e130d2e32a56330c2732
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: b40d216bce2f88c7ed48a470537c69e8589159f3
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742652"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912582"
 ---
-# <a name="restore-an-office-365-group-using-the-exchange-admin-center"></a>Wiederherstellen einer Office 365-Gruppe über das Exchange Admin Center
+# <a name="restore-an-microsoft-365-group-using-the-exchange-admin-center"></a>Wiederherstellen einer Microsoft 365-Gruppe mithilfe der Exchange-Verwaltungskonsole
 
 1. Erweitern Sie im linken Navigationsbereich des Microsoft 365 Admin Center **Admin Center**, und wählen Sie dann **Exchange**aus.
     
@@ -25,7 +25,7 @@ ms.locfileid: "43742652"
     
 3. Um die genaue Zeit anzuzeigen, zu der die Gruppe vorläufig gelöscht wurde, wählen Sie die Gruppe aus, und zeigen Sie die Informationen im rechten Bereich an.
     
-4. Wählen Sie die Office 365-Gruppe, die Sie wiederherstellen möchten, und dann das Symbol "Wiederherstellen" aus.
+4. Wählen Sie die Microsoft 365-Gruppe aus, die Sie wiederherstellen möchten, und klicken Sie dann auf das Symbol wiederherstellen.
     
 5. Wählen Sie ![Symbol "Aktualisieren"](media/6464df90-2a91-4c1f-92a6-9a38c7696ac3.gif) aus, um die Informationen auf der Seite zu aktualisieren. Ihre Gruppe wird als "Aktiv" angezeigt. 
     

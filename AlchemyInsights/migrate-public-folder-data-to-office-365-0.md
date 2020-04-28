@@ -11,12 +11,12 @@ ms.custom:
 - "639"
 - "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: b9659f657555411ffd87a63bc099708b49d46300
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ab54d84f921f9cd2aa895e8a9684c638bde69838
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762136"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912221"
 ---
 # <a name="migrate-public-folder-data-to-microsoft-365"></a>Migrieren von Daten aus öffentlichen Ordnern zu Microsoft 365
 
@@ -28,5 +28,5 @@ Für größere Organisationen, die öffentliche Ordner in Microsoft 365 verschie
 
 - [Migrieren von Exchange 2013-, Exchange 2016-oder Exchange 2019-öffentlichen Ordnern](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-exchange-online)
 
-Sie haben auch die Möglichkeit, [Öffentliche Ordner zu Office 365 Gruppen zu migrieren](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups).
+Sie haben auch die Möglichkeit, [Öffentliche Ordner zu Microsoft 365-Gruppen zu migrieren](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups).
   

@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "3161"
-ms.openlocfilehash: d0e0285701f1a5f308bdc682abaddf5cc2d34120
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.openlocfilehash: 61ba34e6d554831da712a92401f26fabb02c26b7
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37768920"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908343"
 ---
-# <a name="hide-office-365-group-from-address-list-gal"></a>Office 365 Gruppe aus Adressliste ausblenden (GAL)
+# <a name="hide-microsoft-365-group-from-address-list-gal"></a>Ausblenden der Microsoft 365-Gruppe aus Adressliste (GAL)
 
-Verwenden Sie den folgenden Befehl in der Exo-Shell, um eine Office 365 Gruppe aus Adresslisten (GAL) von Exchange-Clients (wie Outlook oder OWA) auszublenden:
+Um eine Microsoft 365-Gruppe aus Adresslisten (GAL) von Exchange-Clients (wie Outlook oder OWA) auszublenden, verwenden Sie den folgenden Befehl in Exo Shell:
 
 `Set-UnifiedGroup -Identity GroupName -HiddenFromAddressListsEnabled:$true`
 
-Verwenden Sie den folgenden Befehl in der Exo-Shell, um zu verhindern, dass die Office 365 Gruppe für Exchange-Clients angezeigt wird:
+Verwenden Sie den folgenden Befehl in der Exo-Shell, um die Microsoft 365-Gruppe auszublenden und für Exchange-Clients sichtbar zu sein:
 
 `Set-unifiedGroup -Identity GroupName -HiddenFromExchangeClientsEnabled:$true
 Check this article for detailed instructions`

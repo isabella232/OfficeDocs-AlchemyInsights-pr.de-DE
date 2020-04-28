@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2658"
 - "9000730"
-ms.openlocfilehash: 4bcf450b43ec2c27d7c47ee211c32d614bfedae3
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: fb035b28fa3c1a61c27138d1b5d819acae264141
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37590421"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911937"
 ---
 # <a name="microsoft-teams-permissions"></a>Microsoft Teams-Berechtigungen
 
-Microsoft Teams umfasst zwei Benutzerrollen: Owner und Member. Standardmäßig erhält ein Benutzer, der ein neues Team erstellt, den Besitzer Status. Darüber hinaus können Besitzer und Mitglieder Moderatorfunktionen für einen Kanal haben (wenn die Moderation eingerichtet wurde). Wenn ein Team aus einer vorhandenen Office 365 Gruppe erstellt wird, werden Berechtigungen vererbt. Weitere Informationen finden Sie unter:
+Microsoft Teams umfasst zwei Benutzerrollen: Owner und Member. Standardmäßig wird einem Benutzer, der ein neues Team erstellt, der Status "Besitzer" zugewiesen. Darüber hinaus können Besitzer und Mitglieder Moderatorfunktionen für einen Kanal haben (wenn die Moderation eingerichtet wurde). Wenn ein Team aus einer vorhandenen Microsoft 365-Gruppe erstellt wird, werden Berechtigungen vererbt. Weitere Informationen finden Sie unter:
 
 - [Zuweisen von Teambesitzern und -mitgliedern in Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
 - [Microsoft Teams-apps-Berechtigungen und-Überlegungen](https://docs.microsoft.com/microsoftteams/app-permissions)

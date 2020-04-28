@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: e40d4b866d4a2d70e83b5addf8de2690c04eaffc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 730346beebb248e5f1e1200e73bf20931f8b2309
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709406"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908847"
 ---
 # <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Hinzufügen einer Überlagerung zu einem SharePoint-Kalender
 
-SharePoint-Kalender sind klassische Listentypen, die manchmal mit Office 365 Gruppenkalendern verwechselt werden.
+SharePoint-Kalender sind klassische Listentypen, die manchmal mit Microsoft 365-Gruppenkalendern verwechselt werden.
  
 Wenn Sie einen SharePoint-Kalender auf Ihrer Website verwenden, können Sie Ihren eigenen Exchange-Kalender auf diesen überlagern, um eine kombinierte Kalenderansicht zu erstellen. Alternativ können Sie einen anderen SharePoint-Kalender überlagern, solange sich beide SharePoint-Kalender in derselben Websitesammlung befinden.
  

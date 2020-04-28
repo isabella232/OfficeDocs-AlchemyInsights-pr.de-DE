@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: e397923c13f01f436667d488523c8bc1641c2b37
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 71c36191b4310cf573059dd85a0a8471ecc30c52
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710514"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912893"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Benutzerberechtigungen in SharePoint und OneDrive
 
@@ -27,7 +27,7 @@ Wenn ein Benutzer in Ihrer Organisation nicht auf SharePoint oder OneDrive zugre
   
 1. Öffnen Sie die Website in einem Webbrowser.
     
-2. Wenn die Website zu einer Office 365 Gruppe gehört, klicken Sie auf das Symbol Einstellungen in der oberen rechten Ecke, und klicken Sie dann auf **Websiteberechtigungen**. Klicken Sie auf **Personen einladen**, und wählen Sie dann Mitglieder zur Office 365 Gruppe hinzufügen oder nur die Website freigeben aus. 
+2. Wenn die Website zu einer Microsoft 365-Gruppe gehört, klicken Sie auf das Symbol Einstellungen in der oberen rechten Ecke, und klicken Sie dann auf **Websiteberechtigungen**. Klicken Sie auf **Personen einladen**, und wählen Sie dann Mitglieder zur Microsoft 365-Gruppe hinzufügen oder nur die Website freigeben aus. 
     
     Klicken Sie für eine Kommunikationswebsite in der oberen rechten Ecke auf **Website freigeben** , geben Sie den Namen der Person ein, und wählen Sie dann die Berechtigungsstufe (lesen, bearbeiten oder Vollzugriff) aus. 
     

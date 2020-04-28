@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: f997fa106f00d3c5598e955aea9c8e4e79a54f6e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 4120c30c27ea404419eaf4485d137b513314c467
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766960"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912857"
 ---
 # <a name="issues-synchronizing-your-calendar-to-devices"></a>Probleme beim Synchronisieren Ihres Kalenders mit Geräten
 
-SharePoint-Kalender sind klassische Listentypen, die manchmal mit Office 365 Gruppenkalendern verwechselt werden.
+SharePoint-Kalender sind klassische Listentypen, die manchmal mit Microsoft 365-Gruppenkalendern verwechselt werden.
 
 Führen Sie die folgenden Schritte aus, um einen SharePoint-Kalender mit Outlook zu synchronisieren:
 
@@ -33,4 +33,4 @@ Führen Sie die folgenden Schritte aus, um einen SharePoint-Kalender mit Outlook
 >[!Note]
 > Wenn Sie eine Änderung im synchronisierten Outlook-Kalender vornehmen, wird diese im SharePoint-Kalender angezeigt und umgekehrt.
 
-Weitere Informationen zu Office 365 Gruppen finden Sie in diesem [Artikel](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Weitere Informationen zu Microsoft 365-Gruppen finden Sie in diesem [Artikel](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 049ef5acd80d64e00315ba07f274567e6a251904
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 8ef33cbd44b01deaf0e45813d019f7696ef5def0
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43642143"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912965"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Probleme beim Erstellen einer mit einer Gruppe verbundenen Website in SharePoint
 
@@ -30,5 +30,5 @@ Wenn Sie eine Gruppe und die verbundene Website gelöscht haben und eine andere 
 
 1. Es gibt verschiedene Möglichkeiten, um moderne Gruppen mit SharePoint zu erstellen und zu verwenden.
 
-   - Sie können vorhandene Websites mit einer Office 365 Gruppe verbinden. Weitere Informationen finden Sie unter [Verbinden einer Office 365 Gruppe mithilfe der SharePoint-Benutzeroberfläche](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
-   - Um eine verbundene Website mit Office 365 Gruppe zu erstellen, müssen Sie eine [Team Website](https://admin.microsoft.com/sharepoint)erstellen.
+   - Sie können vorhandene Websites mit einer Microsoft 365-Gruppe verbinden. Weitere Informationen finden Sie unter [Verbinden einer Microsoft 365-Gruppe mithilfe der SharePoint-Benutzeroberfläche](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
+   - Um eine verbundene Website der Microsoft 365-Gruppe zu erstellen, müssen Sie eine [Team Website](https://admin.microsoft.com/sharepoint)erstellen.
