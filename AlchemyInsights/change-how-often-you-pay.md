@@ -14,13 +14,20 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: bbea5f043c7a6575029fc5bd40fc1788177284f4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
+ms.sourcegitcommit: 7755f288fcc718571367cf1960962b19a82bac4f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706826"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43939654"
 ---
 # <a name="change-how-often-you-pay"></a>Ändern der Häufigkeit, mit der Sie zahlen
 
- **Sie möchten Ihre Zahlungshäufigkeit ändern?** Wenn Sie ändern möchten, wie häufig Sie für Ihr Microsoft 365 Business-Abonnement bezahlen, entweder von Annual auf Monthly oder Monthly to Annual, können wir Ihnen dabei helfen. Sie müssen das gleiche Abonnement mit der neuen Zahlungshäufigkeit erwerben und das alte Abonnement kündigen. Verwenden Sie die Option "Wir rufen Sie an", um mit einem Supporttechniker zu sprechen.
+Führen Sie die folgenden Schritte im Microsoft 365 Admin Center aus, um zu ändern, wie oft Sie in Rechnung gestellt und für ein Abonnement bezahlt werden. 
+1. Wechseln Sie zu **Abrechnung > [Produkte & Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+2. Suchen Sie das Abonnement, das Sie ändern möchten. Klicken Sie im Abschnitt **Abrechnung** neben **monatlich in Rechnung** gestellt oder **jährlich fakturiert**auf **Bearbeiten**. 
+3. Wählen Sie die Option aus, wie oft eine Abrechnung erfolgen soll, und klicken Sie dann auf **ändern**.
+
+**Hinweis**: die einzigen Optionen sind die monatliche oder jährliche Abrechnung.
+
+Weitere Informationen finden Sie unter [Ändern der Zahlungshäufigkeit](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).

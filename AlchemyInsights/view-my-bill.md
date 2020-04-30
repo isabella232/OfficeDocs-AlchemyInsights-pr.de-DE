@@ -12,17 +12,19 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 10a38a78db566642e723c9068631df4dafd06cc1
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ecd676c586d177146f8a833146c384fcf549eb38
+ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665687"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947739"
 ---
 # <a name="view-my-bill"></a>Meine Rechnung anzeigen
 
-1. Wechseln Sie im Microsoft 365 Admin Center zur Seite **Billing** \> [Bills #a0 Zahlungen](https://go.microsoft.com/fwlink/p/?linkid=848039) .
+1. Wechseln Sie im Microsoft 365 Admin Center zur Seite **Billing** \> [Bills & Zahlungen](https://go.microsoft.com/fwlink/p/?linkid=848039) .
 
-2. Wählen Sie in der Dropdownliste einen Datumsbereich aus, und wählen Sie dann die Reihenfolge aus, die Sie anzeigen möchten.
+2. Wählen Sie einen Datumsbereich aus der Dropdown-Liste aus und wählen Sie dann die Reihenfolge aus, die Sie anzeigen möchten.
 
-Weitere Informationen finden Sie unter [Anzeigen Ihrer Rechnung oder Rechnung](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+3. Laden Sie die Rechnung als PDF-Datei herunter, und klicken Sie auf **Drucken**, um die Rechnung zu drucken.
+
+Weitere Informationen finden Sie unter [Anzeigen Ihrer Rechnung](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).

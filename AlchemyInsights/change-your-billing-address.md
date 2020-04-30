@@ -13,25 +13,30 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: b528a698f57f0ec1cbc08718b83b07bbe050637c
-ms.sourcegitcommit: e95cc57126a28766adec8442ac3a79acb485a1b4
+ms.openlocfilehash: db2283ecc2741923153cdfe0288b580b1a8e07e4
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43198792"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943942"
 ---
 # <a name="change-your-billing-address"></a>Ändern der Rechnungsadresse
 
-Ihre Rechnung oder Rechnung enthält drei Adressen. 
+Ihre Rechnung oder Rechnung enthält drei Adressen.
 
-**Ändern der Rechnungsadresse**
+**Ändern der Rechnungsadresse für eine Zahlungsmethode**
 
-1. Wechseln Sie im Admin Center zur Seite **Abrechnungs > [Zahlungsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806) ** . 
+1. Wechseln Sie im Admin Center zu **Abrechnungs > [Zahlungsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
+2. Wählen Sie die Kreditkarte oder das Bankkonto aus, das Sie ändern möchten.
+3. Klicken Sie auf der Seite **Details der Zahlungsmethode** auf **Bearbeiten**.
+4. Aktualisieren Sie Ihre Rechnungsadresse, und klicken Sie dann auf **speichern > fertig**.
 
-2. Wählen Sie die Kreditkarte oder das Bankkonto aus, das Sie ändern möchten. 
+Weitere Informationen zu Adress-und Benachrichtigungs Änderungen finden Sie unter [Ändern der Rechnungsadressen für Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
 
-3. Klicken Sie auf der Seite **Details der Zahlungsmethode** auf **Bearbeiten**. 
+**Ändern der Abrechnungskontoinformationen**
 
-4. Aktualisieren Sie Ihre Rechnungsadresse, und klicken Sie dann auf **speichern > fertig**. 
+1. Wechseln Sie im Admin Center zu **Abrechnungs > [Abrechnungskonten](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.
+2. Wählen Sie **Abrechnungskontoinformationen bearbeiten**aus.
+3. Aktualisieren Sie die Abrechnungskontoinformationen, und klicken Sie dann auf **speichern > fertig**.
 
-Weitere Informationen zu Adress-und Benachrichtigungs Änderungen finden Sie unter [Ändern der Rechnungsadressen für Office 365 für Unternehmen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide). 
+**Hinweis**: das Land/die Region kann nicht geändert werden. Wenn dieses Feld geändert werden muss, müssen Sie einen neuen Mandanten erwerben.
