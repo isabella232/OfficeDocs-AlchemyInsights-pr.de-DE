@@ -13,13 +13,21 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 596be276cf7df2d8e451350c0833b2c410153252
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+ms.openlocfilehash: 9e7505978ef80f3aba44e69dc7b5f7ab9c1780d5
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799122"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957905"
 ---
-# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Mehrere Versuche zum aufpreisen von Online Zahlungsinstrumenten
+# <a name="past-due-account"></a>Überfälliges Konto abgelaufen?
 
-Wenn die Gebühr nicht erfolgreich ist, wird das System weiterhin versuchen, den Saldo in den nächsten Wochen abzurechnen. Sie können jederzeit Aktualisierungen an Ihren Zahlungsinformationen vornehmen, um sicherzustellen, dass der nächste Ladeversuch erfolgreich verläuft. Weitere Informationen finden Sie unter [hinzufügen, aktualisieren oder Entfernen einer Kreditkarte oder eines Bankkontos in Microsoft 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Eine Zahlung kann aus mehreren Gründen abgelehnt werden, auch wenn die Kreditkarte abgelaufen ist. Sie können jederzeit die Funktion **Saldo ausgleichen** verwenden, um Ihre Kreditkarteninformationen zu ändern und die Zahlung sofort zu senden.
+
+1. Wechseln Sie im Admin Center zu **Abrechnungs > [Produkte & Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+Suchen Sie das Abonnement mit dem ausstehenden Saldo. Klicken Sie im Abschnitt **Abrechnung** neben dem **Abonnement hat eine fällige Zahlung zurück**, auf **Saldo Ausgleich** , um den gesamten Restbetrag zu bezahlen.
+2. Wenn Sie die Kreditkarte besitzen, können Sie das Ablaufdatum ändern, eine andere Karte auswählen oder [eine neue Karte hinzufügen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide).
+3. Wenn Sie die Kreditkarte nicht besitzen, können Sie eine andere Kreditkarte auswählen oder [eine neue Karte hinzufügen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide).
+4. Nachdem Sie die Updates abgeschlossen haben, klicken Sie auf **Speichern**.
+
+**Hinweis**: Nachdem eine Zahlung vorgenommen wurde, ist die vergangene fällige Benachrichtigung für einen kurzen Zeitraum möglicherweise noch sichtbar. Warten Sie mindestens **48 Stunden** , bevor Sie sich an den Support wenden.

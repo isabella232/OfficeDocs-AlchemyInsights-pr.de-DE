@@ -1,5 +1,5 @@
 ---
-title: Vorgehensweise hinzufügen oder reduzieren von Lizenzen
+title: Hinzufügen oder Entfernen von Lizenzen für Ihr Abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,20 +12,20 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: bf92bc9d6bfc8d7a07bff02d18fda7a8800247d4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e97658ab8fff504c8adccfa7e68cce0b613aee53
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709586"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957833"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a>Vorgehensweise hinzufügen oder reduzieren von Lizenzen
+# <a name="add-or-remove-licenses-for-your-subscription"></a>Hinzufügen oder Entfernen von Lizenzen für Ihr Abonnement
 
 Hier erfahren Sie, wie Sie Lizenzen hinzufügen/entfernen.
   
 1. Navigieren Sie zu **Abrechnungs >- [Abonnements](https://portal.office.com/adminportal/home#/subscriptions)**.
 
-2. Wählen Sie das Abonnement aus, aus dem Sie Lizenzen hinzufügen/entfernen möchten.
+2. Wählen Sie das Abonnement aus, für das Sie Lizenzen hinzufügen/entfernen möchten.
 
 3. Klicken Sie auf **Lizenzen hinzufügen/entfernen**.
 
@@ -41,6 +41,6 @@ Informationen zum Zuweisen von Lizenzen finden Sie unter [Zuweisen von Lizenzen 
   
 - [Verwalten von Abonnementlizenzen – kaufen oder entfernen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
-- [Kündigen von Office 365 Business](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [Abbrechen von Microsoft 365 for Business](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
 
-- [Kaufen eines weiteren Office 365 Business-Abonnements](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)
+- [Erwerben eines weiteren Microsoft 365 for Business-Abonnements](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)
