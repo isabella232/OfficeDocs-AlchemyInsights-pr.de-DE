@@ -10,12 +10,12 @@ ms.assetid: ''
 ms.custom:
 - "1500010"
 - "3819"
-ms.openlocfilehash: 8b82dd8900a5e9824206cd05241743d2337108a1
-ms.sourcegitcommit: 4f7ff981bbb3a98663cd164d0a10bb082cdf7ec9
+ms.openlocfilehash: f89ba68219ea3735bdbb455ed97e2abf394f201b
+ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42946648"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947586"
 ---
 # <a name="how-to-get-nonprofit-offers"></a>Erhalten von Non-Profit-Angeboten
 
@@ -23,9 +23,9 @@ Um Non-Profit-Angebote zu erhalten, müssen Sie wie folgt vorgehen:
 
 1. Registrieren Sie sich beim [Microsoft-Programm für gemeinnützige Organisationen](https://go.microsoft.com/fwlink/p/?linkid=2008962).
 
-2. Sobald Ihre Berechtigung bestätigt wurde, werden im Verwaltungsportal von Office 365 die Office 365 Non-Profit-Angebote verfügbar, einschließlich der gespendeten E1- und Business Essentials-Angebote.
+2. Falls Ihr Anspruch bestätigt wurde, sind Microsoft 365 Nonprofit-Angebote im Microsoft 365-Administratorportal verfügbar, indem Sie zur Seite **Abrechnung > [Dienste kaufen](https://go.microsoft.com/fwlink/p/?linkid=868433)** wechseln. Dazu gehören die gespendeten E1- und Business Essentials-Angebote.
 
-3. Wechseln Sie nach dem Kauf im Verwaltungsportal zur Registerkarte [Benutzer](https://admin.microsoft.com/Adminportal/Home#/users), um Ihre Benutzer ihren neuen Office 365 Non-Profit-Abonnements zuzuweisen.
+3. Wechseln Sie nach dem Kauf im Verwaltungsportal zur Registerkarte [Benutzer](https://admin.microsoft.com/Adminportal/Home#/users), um Ihre Benutzer ihren neuen Microsoft 365 Non-Profit-Abonnements zuzuweisen.
 
 Weitere Antworten auf häufig gestellte Fragen finden Sie in unseren [Häufig gestellten Fragen](https://www.microsoft.com/microsoft-365/nonprofit/office-365-nonprofit#coreui-heading-67lnrlz). Siehe auch:
 
