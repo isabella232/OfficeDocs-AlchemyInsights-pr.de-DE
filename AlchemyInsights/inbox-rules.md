@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724555"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005257"
 ---
-# <a name="inbox-rules"></a>Posteingangsregeln
+# <a name="inbox-rules-in-outlook-desktop"></a>Posteingangsregeln in Outlook-Desktop
 
-Weitere Informationen zum Verwenden von Posteingangsregeln in Ihrem eigenen Postfach finden Sie unter:
+1. Wechseln Sie zu **Datei > Regeln & Warnungen verwalten** , um das Dialogfeld **Regeln und Benachrichtigungen** zu öffnen.
+2. Klicken Sie auf der Registerkarte **e-Mail-Regeln** auf **neue Regel**.
+3. Wählen Sie eine der Vorlagen aus **Schritt 1**aus. Wenn Sie mit einer leeren Regel beginnen möchten, wählen Sie **Regel für Nachrichten, die ich empfange oder Regel auf von mir gesendeten**Nachrichten anwenden aus.
+4. Klicken Sie im **Feld Schritt 2: Bearbeiten der Regelbeschreibung**auf unterstrichene Optionen, um Sie festzulegen. Wenn Sie beispielsweise in Schritt 1 **Nachrichten von einer Person zur Nachverfolgung** markiert haben, klicken Sie auf **Personen oder öffentliche Gruppe** , um die Nachrichten auszuwählen, die Sie kennzeichnen möchten, und wählen Sie dann die gewünschten Absender aus. Klicken Sie dann zu **diesem Zeitpunkt** auf nachverfolgen, um eine Kennzeichnung und einen nach Verfolgungs Termin auszuwählen.
+5. Klicken Sie auf **Weiter**.
 
-- [Verwalten von e-Mail-Nachrichten mithilfe von Regeln in Outlook für PC](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-
-- [Verwalten von Nachrichten mithilfe von Posteingangsregeln in Outlook im Internet](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-
-Sie können Posteingangsregeln auch in Exchange Online PowerShell verwalten. Weitere Informationen finden Sie unter [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (Ansicht), [New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (Create), [Remove-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (Delete), [Sets-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (modify existing), [Disable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (Disable existing) und [Enable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (Enable existing).
+Weitere Informationen zum Arbeiten mit Posteingangsregeln finden Sie unter [Verwalten von e-Mail-Nachrichten mithilfe von Regeln](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).
