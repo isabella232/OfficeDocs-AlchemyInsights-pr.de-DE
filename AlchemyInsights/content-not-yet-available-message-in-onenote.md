@@ -20,7 +20,7 @@ ms.locfileid: "43991216"
 ---
 # <a name="content-not-yet-available-message-in-onenote"></a>Meldung „Inhalt noch nicht verfügbar“ in OneNote
 
-Gehen Sie so vor, wenn die folgende Meldung angezeigt wird: „Inhalt noch nicht verfügbar. Es tut uns leid, es sieht so aus, als ob diese Seite von einem anderen Computer hinzugefügt und noch nicht synchronisiert wurde. Klicken Sie hier, oder drücken Sie die EINGABETASTE, um diese Seite neu zu laden: „OneNote kann einen Abschnitt oder eine Seite in einem Ihrer Notizbücher nicht synchronisieren. Dieser Fehler kann temporär sein.
+Gehen Sie so vor, wenn die folgende Meldung angezeigt wird: „Inhalt noch nicht verfügbar. Es tut uns leid, es sieht so aus, als ob diese Seite von einem anderen Computer hinzugefügt und noch nicht synchronisiert wurde. Klicken Sie hier, oder drücken Sie die EINGABETASTE, um diese Seite neu zu laden“, OneNote kann einen Abschnitt oder eine Seite in einem Ihrer Notizbücher nicht synchronisieren. Dieser Fehler kann vorübergehend sein.
 
 Wenn dieses Problem weiterhin besteht, ist es möglich, dass Ihre OneNote-Notizbuchinhalte mit dem SharePoint Online- oder OneDrive for Business Server vielleicht nicht vollständig synchronisiert wurden. Möglicherweise sind Sie vom Internet getrennt, nicht authentifiziert (nicht angemeldet), oder der OneNote-Client ist offline. Vorschläge zur Lösung dieses Problems und bewährte Methoden zum Speichern von Seiten finden Sie unter [OneNote-Fehler „Inhalt noch nicht verfügbar“](https://docs.microsoft.com/office/troubleshoot/onenote/onenote-error-content-not-yet-available).
 
