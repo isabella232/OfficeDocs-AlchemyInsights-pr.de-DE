@@ -13,18 +13,18 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 386d399ddddc553862649b548a58ff42abd0923d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: abe3f6950fa9e35eb3154832ebdaffd42bd5dc50
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711522"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44059076"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Stornieren Ihres Microsoft 365-Abonnements?
 
 Es tut uns leid, dass Sie da sind!
   
-Basierend auf den Daten Ihrer Organisation glauben wir, dass alle Ihre aktuellen Abonnements weniger als 25 Plätze haben. Wenn Sie Ihr Abonnement Online kündigen möchten, wechseln Sie zur Seite **Abrechnungs** \> [Produkte & Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054) . Wählen Sie im Abschnitt **Einstellungen & Aktionen** die Option **Abonnement kündigen**aus.
+Basierend auf den Daten Ihrer Organisation glauben wir, dass alle Ihre aktuellen Abonnements weniger als 25 Plätze haben. Wenn Sie Ihr Abonnement Online kündigen möchten, wechseln Sie zur Seite **Fakturierung** \> **[ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Wählen Sie im Abschnitt **Einstellungen & Aktionen** die Option **Abonnement kündigen**aus.
   
 **Rückerstattung: jede anteilige Gutschrift wird Ihnen innerhalb des nächsten Abrechnungszyklus zurückgegeben.** 
 

@@ -12,18 +12,18 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: e97658ab8fff504c8adccfa7e68cce0b613aee53
-ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
+ms.openlocfilehash: e02e5e835446626152c8dd98207898de52ae6933
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43957833"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063796"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Hinzufügen oder Entfernen von Lizenzen für Ihr Abonnement
 
 Hier erfahren Sie, wie Sie Lizenzen hinzufügen/entfernen.
   
-1. Navigieren Sie zu **Abrechnungs >- [Abonnements](https://portal.office.com/adminportal/home#/subscriptions)**.
+1. Wechseln Sie im Admin Center zur Seite **Fakturierung** \> **[ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Wählen Sie das Abonnement aus, für das Sie Lizenzen hinzufügen/entfernen möchten.
 
@@ -37,7 +37,7 @@ Hier erfahren Sie, wie Sie Lizenzen hinzufügen/entfernen.
 
 Informationen zum Zuweisen von Lizenzen finden Sie unter [Zuweisen von Lizenzen zu Benutzern](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
- **Ressourcen**
+**Ressourcen**
   
 - [Verwalten von Abonnementlizenzen – kaufen oder entfernen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
