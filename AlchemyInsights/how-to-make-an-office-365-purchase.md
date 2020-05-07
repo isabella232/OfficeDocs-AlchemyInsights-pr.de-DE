@@ -12,12 +12,12 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: b7436583f6aa8e0fe22c1bff71271a94b3de583c
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 4fc934fcf9c1af0cd68aa20d5dc31d3d82264965
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43787873"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063544"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Vorgehensweise zum Erstellen eines Microsoft 365-Kaufs
 
@@ -25,13 +25,13 @@ Käufe in Microsoft 365 können im Admin Center vorgenommen werden.
   
 - Wenn Sie einen Plan kaufen möchten, wechseln Sie zur Seite " **Abrechnungs** \> - [Einkaufsdienste](https://go.microsoft.com/fwlink/p/?linkid=868433) ".
 
-- Um zusätzliche Lizenzen zu erwerben, wechseln Sie zur Seite **Abrechnungs** \> [Produkte & Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054) . Wählen Sie das Abonnement aus, dem Sie Lizenzen hinzufügen möchten, und wählen Sie dann **Lizenzen hinzufügen/entfernen**aus.
+- Um zusätzliche Lizenzen zu erwerben, wechseln Sie zur Seite **Fakturierung** \> **[ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Wählen Sie das Abonnement aus, dem Sie Lizenzen hinzufügen möchten, und wählen Sie dann **Lizenzen hinzufügen/entfernen**aus.
   
 Weitere Informationen finden Sie unter [kaufen von Lizenzen für Ihr Microsoft 365 for Business-Abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
 
 **Problembehandlung**
 
-Wenn Sie Probleme beim Laden der Seite haben, versuchen Sie, die Webseite in einem anderen Browser zu öffnen, oder versuchen Sie, die Seite in einem privaten Browserfenster zu öffnen, z. B. in einem InPrivate-Fenster in Microsoft Edge oder einem inkognito-Fenster in Google Chrome. 
+Wenn Sie Probleme beim Laden der Seite haben, versuchen Sie, die Webseite in einem anderen Browser zu öffnen, oder versuchen Sie, die Seite in einem privaten Browserfenster zu öffnen, z. B. in einem InPrivate-Fenster in Microsoft Edge oder einem inkognito-Fenster in Google Chrome.
 
 **Weitere Ressourcen**
   
