@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 03ee3bff5bb3510d239d3a5d9f583bf0ae62f5cf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716135"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062463"
 ---
 # <a name="find-and-activate-my-product-key"></a>Suchen und Aktivieren des Product Keys
 
@@ -32,7 +32,7 @@ Wenn Sie Microsoft 365 Business Premium Standard in einem Einzelhandelsgeschäft
 
 **Hinweis**: Wenn Sie einen Product Key zum Verlängern des Ablaufdatums oder zum Hinzufügen einer Lizenz zu Ihrem vorhandenen Microsoft 365 Business Premium-Standard Abonnement verwenden möchten, benötigen Sie einen neuen und unverwendeten Schlüssel für dasselbe Microsoft 365-Abonnement.  Das Eingeben Ihres ursprünglichen Microsoft 365-Product Keys funktioniert nicht, da ein bereits eingelöster Schlüssel nicht erneut verwendet werden kann.
 
-1. Wechseln Sie im Admin Center zur Seite **Abrechnungs** > [Produkte & Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Wechseln Sie im Admin Center zur Seite **Fakturierung** > **[ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Suchen Sie nach dem Abonnement, für das Sie das Ablaufdatum verlängern oder Lizenzen hinzufügen möchten.  Klicken Sie auf [Enddatum verlängern](https://go.microsoft.com/fwlink/p/?linkid=842054) oder [Weitere Lizenzen hinzufügen](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
