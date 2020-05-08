@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: f7574ff6855481a9378f8563735e380565a3ecf0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a55889770340946adf88916b2cf2ab44cf4959ef
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714149"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063472"
 ---
 # <a name="expired-subscription"></a>Abgelaufenes Abonnement
 
@@ -26,7 +26,7 @@ Es wird angezeigt, dass Sie über mindestens ein abgelaufenes Abonnement verfüg
   
 **Reaktivieren**
   
-1. Navigieren Sie im Admin Center zur Seite **Abrechnung** \> [Produkte und Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Wechseln Sie im Admin Center zur Seite **Fakturierung** \> **[ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Suchen Sie das Abonnement, das Sie reaktivieren möchten. Wählen Sie im Abschnitt **Abrechnung** die Option **Reaktivieren** aus.
 
@@ -38,7 +38,7 @@ Weitere Informationen finden Sie unter [Reaktivieren Ihres Abonnements](https://
 
 **Einen neuen Einkauf tätigen**
   
-1. Wechseln Sie im Admin Center zur Seite **Abrechnungs** \> - [Einkaufsdienste](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+1. Wechseln Sie im Admin Center zur Seite **Abrechnungs** \> - **[Einkaufsdienste](https://go.microsoft.com/fwlink/p/?linkid=868433)** .
 
 2. Wählen Sie das Abonnement aus, das Sie kaufen möchten, und wählen Sie dann **kaufen**aus.
 
