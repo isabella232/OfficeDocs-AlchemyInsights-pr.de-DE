@@ -13,18 +13,18 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: a0e06904289b026b498aadf09c426473b11e9662
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e4877ccf3b476d099bacf24040419bc6bb6900a4
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763434"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064084"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Reaktivieren und Verwalten von wiederkehrenden Rechnungen
 
 Sieht so aus, als ob Sie ein Abonnement haben, das abgelaufen ist. Wenn Sie ihn reaktivieren möchten, gehen Sie wie folgt vor.
   
-1. Navigieren Sie im Admin Center zur Seite **Abrechnung** \> [Produkte und Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Wechseln Sie im Admin Center zur Seite **Fakturierung** \> **[ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Suchen Sie das Abonnement, das Sie reaktivieren möchten. Wählen Sie im Abschnitt **Abrechnung** die Option **reactivate**aus.
 
@@ -36,7 +36,7 @@ Weitere Informationen finden Sie unter [Reaktivieren Ihres Abonnements](https://
 
 Um die monatliche oder jährliche Abrechnung zu verwalten, können Sie die **wiederkehrende Abrechnung** aktivieren oder deaktivieren.
   
-1. Navigieren Sie im Admin Center zur Seite **Abrechnung** \> [Produkte und Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Wechseln Sie im Admin Center zur Seite **Fakturierung** \> **[ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Wählen Sie das Abonnement aus, für das Sie die wiederholte Abrechnung verwalten möchten.
 

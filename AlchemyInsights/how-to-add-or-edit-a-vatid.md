@@ -12,20 +12,20 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: c7d998c56747799e139e8e2035cbccfe71cce14b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66ce0cfed20990a7a6bc6307360a8bc7d91822c8
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709622"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063580"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Vorgehensweise hinzufügen oder Bearbeiten eines VatID
 
-**Hinweis**: Wenn Sie sich in einem Land befinden, in dem die Mehrwertsteuer (MwSt.) verwendet wird, beispielsweise im Vereinigten Königreich, berechnet Microsoft Invoicing die Mehrwertsteuer für Sie und wendet den Betrag auf Ihre Rechnungen an. Weitere Informationen finden Sie unter [MIAS Disclaimer](https://go.microsoft.com/fwlink/?LinkID=841741) veröffentlicht von der Europäischen Kommission.
+**Hinweis**: Wenn Sie sich in einem Land befinden, in dem die Mehrwertsteuer (MwSt.) verwendet wird, beispielsweise im Vereinigten Königreich, berechnet Microsoft Invoicing die Mehrwertsteuer für Sie und wendet den Betrag auf Ihre Rechnungen an. Weitere Informationen finden Sie unter [MIAS Disclaimer](https://go.microsoft.com/fwlink/p/?LinkID=841741) veröffentlicht von der Europäischen Kommission.
 
 **Hinzufügen oder Bearbeiten eines VatID**
 
-1. Wechseln Sie im Microsoft 365 Admin Center zur Seite **Abrechnungs** \> [Produkte & Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Wechseln Sie im Microsoft 365 Admin Center zur Seite **Abrechnung** \> [ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Suchen Sie die Abonnementkarte für das Abonnement, das Sie aktualisieren möchten.
 

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3043"
 - "1500012"
-ms.openlocfilehash: 78f6dc6b2cc6e8d3db6a53f38bea9483ef817c2c
-ms.sourcegitcommit: 38c993eaa89c33cae59de19a381f7d4aafaef19b
+ms.openlocfilehash: 8219cefc33ac085ee71e50c512f9f94abc047fca
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37549672"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062247"
 ---
 # <a name="renewing-your-subscription"></a>Erneuern des Abonnements
 
@@ -26,6 +26,6 @@ Wenn Sie Ihr Abonnement mit einem Product Key voraus bezahlt haben, läuft Ihr A
 
 So aktivieren Sie die wiederkehrende Abrechnung: 
 
-1. Wechseln Sie zu **Abrechnungs** > **Produkte #a0 Dienste**.
+1. Wechseln Sie zu **Abrechnung** > **[ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 2. Wählen Sie das Abonnement aus, für das die wiederkehrende Abrechnung verwaltet werden soll.
 3. Wählen Sie unter **Abrechnung**die Option **Bearbeiten** aus, und nehmen Sie Ihre Änderungen im Fenster **wiederkehrende Abrechnungseinstellungen** vor. 
