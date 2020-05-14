@@ -12,20 +12,20 @@ ms.custom:
 - "3043"
 - "1500012"
 ms.openlocfilehash: 8219cefc33ac085ee71e50c512f9f94abc047fca
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062247"
 ---
 # <a name="renewing-your-subscription"></a>Erneuern des Abonnements
 
-Wenn Sie per Kreditkarte oder Bankkonto bezahlen, ist die wiederkehrende Abrechnung standardmäßig aktiviert. Wenn die wiederkehrende Abrechnung fortgesetzt wird, wird Ihr Abonnement jedes Jahr an dem Tag in Rechnung gestellt, an dem Sie abonniert haben. Wenn Ihr Abonnement aktiv ist, können Sie es im Admin Center deaktivieren oder wieder einschalten.
+Wenn Sie per Kreditkarte oder Bankkonto bezahlen, ist die wiederkehrende Abrechnung standardmäßig aktiviert. Wenn die wiederkehrende Abrechnung fortgesetzt wird, wird Ihr Abonnement jedes Jahr an dem Tag in Rechnung gestellt, an dem Sie abonniert haben. Wenn Ihr Abonnementstatus "Aktiv" lautet, können Sie die automatische Verlängerung im Admin Center deaktivieren oder erneut aktivieren.
 
 Wenn Sie Ihr Abonnement mit einem Product Key voraus bezahlt haben, läuft Ihr Abonnement am Ende der Abonnementlaufzeit ab. Sie können wiederkehrende Rechnungen aktivieren und Kreditkarten-oder Bankkontoinformationen bereitstellen, damit Ihr Abonnement jedes Jahr am Tag, an dem Sie abonniert haben, weiterhin in Rechnung gestellt wird.
 
 So aktivieren Sie die wiederkehrende Abrechnung: 
 
-1. Wechseln Sie zu **Abrechnung** > **[ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Wechseln Sie zu **Abrechnung**  >  **[ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 2. Wählen Sie das Abonnement aus, für das die wiederkehrende Abrechnung verwaltet werden soll.
 3. Wählen Sie unter **Abrechnung**die Option **Bearbeiten** aus, und nehmen Sie Ihre Änderungen im Fenster **wiederkehrende Abrechnungseinstellungen** vor. 

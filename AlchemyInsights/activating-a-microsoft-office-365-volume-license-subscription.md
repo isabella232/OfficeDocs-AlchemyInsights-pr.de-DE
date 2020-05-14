@@ -14,10 +14,10 @@ ms.custom:
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
 ms.openlocfilehash: 73c8a56623bb55926d7df995bad43ff734bfceef
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062031"
 ---
 # <a name="activating-a-microsoft-volume-license-subscription"></a>Aktivieren eines Microsoft Volume License-Abonnements
@@ -30,6 +30,6 @@ ms.locfileid: "44062031"
 
 4. Die Aktivierungs-e-Mail stellt Ihnen zwei Optionen zur Verfügung: **registrieren**oder **Anmelden**. Wenn Sie zuvor eine Testversion erstellt haben, wählen Sie **Anmelden aus**. Wenn Sie noch nicht über einen Microsoft 365-Mandanten verfügen, wählen Sie **registrieren**aus.
 
-5. Melden Sie sich beim Microsoft 365 Admin Center ([https://admin.microsoft.com](https://admin.microsoft.com)) mit Ihren vorhandenen Administratoranmeldeinformationen an. Nachdem Sie sich erfolgreich angemeldet haben, erhalten Sie eine weitere e-Mail, die Ihren Kauf bestätigt.
+5. Melden Sie sich beim Microsoft 365 Admin Center ( [https://admin.microsoft.com](https://admin.microsoft.com) ) mit Ihren vorhandenen Administratoranmeldeinformationen an. Nachdem Sie sich erfolgreich angemeldet haben, erhalten Sie eine weitere e-Mail, die Ihren Kauf bestätigt.
 
 6. Nachdem Sie sich angemeldet haben, können Sie zur Seite **Fakturierung** \> [ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054) wechseln, um zu überprüfen, ob Ihre erworbenen Abonnements innerhalb Ihres Mandanten aktiviert sind. (Sie können auch die Registerkarte **Abonnement** in der VLSC auswählen, um Details anzuzeigen, die überprüfen, ob Ihr Abonnement hinterlegt wurde.)

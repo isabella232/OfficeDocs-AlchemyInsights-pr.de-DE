@@ -13,21 +13,25 @@ ms.custom:
 - "277"
 - "4852"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 036b6f94efda76db35b2b7966bac0299db348c86
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.openlocfilehash: a0bbc046c28ec246090dbc275f6acb3ccbce8622
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44058679"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44221944"
 ---
 # <a name="change-payment-method"></a>Ändern der Zahlungsmethode
 
 Sie können die Zahlungsmethode aus dem **Microsoft 365 Admin Center**ändern.
   
-1. Wechseln Sie im Admin Center zur Seite **Fakturierung** \> **[ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. Wechseln Sie im Admin Center zur Seite **Billing**  >  **Bills & Payments**  >  [Payment Methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) .
+2. Wählen Sie die Zeile der Zahlungsmethode aus, die ersetzt werden soll. Im rechten Bereich werden alle Abrechnungsprofile und einzelnen Abonnements aufgelistet, die die ausgewählte Zahlungsmethode verwenden.
+3. Wählen Sie im rechten Bereich **Zahlungsmethode ersetzen für alle Elemente**aus.
+4. Um eine vorhandene Zahlungsmethode zu verwenden, wählen Sie eine aus der Dropdownliste aus, und wählen Sie dann **ersetzen**aus.
+    > [!NOTE]
+    > Wenn Sie einem Abrechnungsprofil Abonnements zugeordnet haben, können Sie nur eine Kredit-oder Debitkarte verwenden, um Sie zu bezahlen. Wenn auf der Seite **Zahlungsmethoden** Bankkonten aufgeführt sind, stehen Sie in der Dropdownliste nicht zur Auswahl zur Verfügung.
+5. Um eine neue Zahlungsmethode hinzuzufügen, wählen Sie **Zahlungsmethode hinzufügen**aus.
+6. Geben Sie im Bereich **Zahlungsmethode hinzufügen** die Kontoinformationen ein, und wählen Sie dann **Speichern**aus. Sie müssen eine Zahlungsmethode aus demselben Land wie Ihr Mandant verwenden.
+7. Die neue Zahlungsmethode ist in der Dropdownliste bereits ausgewählt. Wählen Sie **ersetzen**aus.
 
-2. Suchen Sie nach dem Abonnement, für das Sie die Zahlungsmethode ändern möchten. Klicken Sie neben der Zahlungsmethode auf **Bearbeiten**.
-
-3. Führen Sie die Schritte auf dem Bildschirm aus, um die Änderung abzuschließen.
-
-Weitere Informationen finden Sie unter [Ändern der Zahlungsmethode für Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
+Weitere Informationen finden Sie unter [Manage Payment Methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

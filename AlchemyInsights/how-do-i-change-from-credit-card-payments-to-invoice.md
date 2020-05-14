@@ -13,24 +13,30 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 05ba3bb421cedf94352d5bbb6c5daf1417eca609
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.openlocfilehash: 5d118036398d8d9f9a56e8a96e44d81ceccf6573
+ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44062427"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44225195"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Wie ändere ich von Kreditkartenzahlungen zu Rechnung?
 
 > [!NOTE]
 > Die Option zur Zahlung per Rechnung ist nur verfügbar, wenn Ihr Abonnement über einen bestimmten Betrag (je nach Dienststandort) kostenpflichtig ist. Bei größeren Rechnungsbeträgen kann eine Bonitätsprüfung erforderlich werden. Weitere Informationen finden Sie unter [Pay for your Subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).
-  
-1. Wechseln Sie im Admin Center zur Seite **Fakturierung** \> **[ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
-2. Wählen Sie das Abonnement aus, das Sie ändern möchten. Wählen Sie im Abschnitt **Abrechnung** die Option **Bearbeiten** für Ihre aktuelle Zahlungsmethode aus.
+1. Wechseln Sie im Admin Center zur Seite **Fakturierung**  >  [ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-3. Wählen Sie im Feld **Ändern der Bezahlung für dieses Abonnement** die Option **ändern**, wählen Sie eine andere Zahlungsmethode aus, oder fügen Sie Sie hinzu, und wählen Sie dann **Speichern**aus.
+2. Suchen Sie das Abonnement, das Sie ändern möchten. Wählen Sie unter **Abrechnung**neben der Zahlungsmethode die Option **Bearbeiten**aus.
 
-   > [!NOTE]
-   > Wenn diese Option nicht angezeigt wird, bedeutet dies, dass das Umschalten von Kreditkarte oder Bankkonto auf Rechnung nicht für das Abonnement verfügbar ist, da das Abonnement nicht den Mindestbetrag für die Abrechnung auf Rechnung erfüllt. Der erforderliche Minimalbetrag für Zahlung per Rechnung ist je nach geografischem Standort unterschiedlich.
-  
+3. Wählen Sie neben der vorhandenen Zahlungsmethode die Option **Change**aus.
+
+4. Wählen Sie im Dropdownmenü die Option **Rechnung oder über**Weisung aus.
+
+5. Geben Sie Ihren Namen, Ihre Adresse und Ihre Telefonnummer ein. Sie können auch eine Bestellnummer hinzufügen, die auf der Rechnung angezeigt werden soll.
+
+6. Wenn Sie fertig sind, wählen Sie **Speichern** aus.
+
+7. Stellen Sie sicher, dass die ausgewählte Zahlungsmethode richtig ist, und wählen Sie dann **Speichern**aus.
+
+Weitere Informationen finden Sie unter [Ändern der Zahlungsmethode](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
