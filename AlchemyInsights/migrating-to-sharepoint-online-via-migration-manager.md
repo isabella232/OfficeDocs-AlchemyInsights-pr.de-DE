@@ -11,16 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3192"
-ms.openlocfilehash: 54f3e3a396334b7c1640b078e2efed4d6b463ba3
-ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
+ms.openlocfilehash: 0f4386d7981217143806c557ecac6bc40f973105
+ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44235344"
+ms.lasthandoff: 05/16/2020
+ms.locfileid: "44268735"
 ---
 # <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Migrieren zu SharePoint Online über den Migrations-Manager
-
-**Migrations-Manager**
 
 Der Migrations-Manager befindet sich im modernen SharePoint Admin Center und führt Sie durch die Einrichtung Ihrer Clients und das Erstellen von Aufgaben. Sie können globale oder aufgabenbezogene Einstellungen festlegen, den aggregierten Status des gesamten Vorgangs anzeigen sowie Zusammenfassungs- und aufgabenbezogene Berichte herunterladen.
 
