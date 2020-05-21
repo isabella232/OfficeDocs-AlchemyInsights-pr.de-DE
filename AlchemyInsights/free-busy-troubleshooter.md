@@ -12,14 +12,15 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: ad797642c1734fe479993a26f13f8bb08dad7e1c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6a580de2c963a53654499f1715dad7f3bb36c706
+ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765051"
+ms.lasthandoff: 05/20/2020
+ms.locfileid: "44331285"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a>Probleme beim Anzeigen von Kalender-Frei/Gebucht-Informationen
+# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>Problembehandlungsschritte für die Kalender Verfügbarkeit (frei/gebucht)
 
-Wenn Sie Kalender Frei/Gebucht-Informationen nicht in anderen Kalendern anzeigen können oder wenn andere Personen keine Frei/Gebucht-Informationen in Ihrem Kalender sehen können, verwenden Sie den [Microsoft-Support-und Wiederherstellungs-Assistenten](https://diagnostics.office.com/).
-  
+Im Allgemeinen ist das beste Tool für die Problembehandlung bei frei/gebucht-Problemen die [Exchange-Remote Verbindungs Untersuchung (RCA)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) , um zu ermitteln, wo ein Fehler auftritt. Mit dem RCA erhalten Sie einen detaillierten Überblick darüber, was funktioniert hat und welche Fehler mit bestimmten Fehlermeldungen aufgetreten sind, die Sie nach Lösungen suchen können. Es enthält auch einen Link zum [Microsoft-Support-und Wiederherstellungs-Assistenten](https://diagnostics.office.com/).
+
+Ein weiteres gutes Tool zum Testen ist das [Kalender Überprüfungstool für Outlook](https://www.microsoft.com/download/details.aspx?id=28786) , wenn der Benutzer Outlook hat.
