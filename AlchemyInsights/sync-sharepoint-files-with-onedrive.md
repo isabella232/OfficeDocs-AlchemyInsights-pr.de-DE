@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 2023593e281170cea0b055c54d18ef307c4c7ea7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: be1136f7fd4575d482d38ee70163e5252d4ffbca
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767032"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343153"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Behandeln von Problemen bei "Mit Explorer öffnen" in SharePoint Online
 
@@ -28,9 +28,6 @@ Um Probleme beim Öffnen mit Explorer zu beheben, folgen Sie den Schritten und b
 - [Kopieren oder Verschieben von Bibliotheksdateien mit dem Befehl „Mit Explorer öffnen“](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
 
 > **Hinweis:**
+>- "Mit Explorer öffnen" wird nur in Internet Explorer 10 oder 11 unterstützt. „Mit Explorer öffnen“ kann unter Windows nicht mit Microsoft Edge, Google Chrome oder Mozilla Firefox und auch nicht auf der Mac-Plattform verwendet werden. Aus diesem Grund ist die Option „Im Explorer anzeigen“ möglicherweise ausgegraut.
 >
 >- Die Schaltfläche "Mit Explorer öffnen" wird in der neuen Bibliotheksoberfläche nicht angezeigt. Klicken Sie auf das Dropdownmenü **Ansicht** in der oberen rechten Ecke (der Name der Dropdownliste ist abhängig von der aktuellen Ansicht) und klicken Sie dann auf **Im Datei-Explorer anzeigen**.
->
->- "Mit Explorer öffnen" wird nur in Internet Explorer 10 oder 11 unterstützt. „Mit Explorer öffnen“ kann unter Windows nicht mit Microsoft Edge, Google Chrome oder Mozilla Firefox und auch nicht auf der Mac-Plattform verwendet werden. Aus diesem Grund ist die Option „Im Explorer anzeigen“ möglicherweise ausgegraut.
-
-
