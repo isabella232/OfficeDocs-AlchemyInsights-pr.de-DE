@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 363f3c79a3b62f3017e6c873f1be3dd195cab883
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742046"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343095"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint-Benachrichtigungs Benachrichtigungen nicht zugestellt
 
@@ -33,15 +33,6 @@ FAQ für Benachrichtigungen:
 
 - Es ist nicht möglich, Warnungen an die Verteilergruppe zu senden, sondern nur Sicherheits-und O365-Gruppen werden unterstützt.
 - Sie können keine e-Mail-Benachrichtigungsvorlagen anpassen. Sie müssen Microsoft Flow oder SharePoint Designer Workflow verwenden, um diese zu erreichen.
-
-Weitere Informationen:
-
-- **Warnungs Setup**: Weitere Informationen zum Einrichten von Warnungen finden Sie unter [Erstellen einer Warnung, um benachrichtigt zu werden, wenn sich eine Datei oder ein Ordner in SharePoint ändert](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **Problembehandlung bei Warnungen**: Weitere Informationen zur Problembehandlung bei Warnungen finden Sie unter [Benutzer erhalten keine SharePoint Online Benachrichtigungs Benachrichtigungen](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
-- **Richtlinien für erweiterte O365-Konformitäts**Warnungen: Weitere Informationen zum Einrichten dieser Warnungen finden Sie unter [Compliance Alert Policies](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
-- **SharePoint-und OneDrive-Überwachungsprotokolle**: Weitere Informationen zum Abrufen dieser Ereignisse finden Sie unter [Durchsuchen des Überwachungsprotokolls](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-- **Von Advanced Threat Protection gesendete Warnungen**: siehe [ATP für SharePoint und OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- **Von Data Loss Prevention Policies gesendete Warnungen**: siehe [e-Mail-Benachrichtigungen für DLP-Richtlinien](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
 ## <a name="related-topics"></a>Verwandte Themen
 
