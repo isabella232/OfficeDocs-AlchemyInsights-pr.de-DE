@@ -11,21 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "5128"
-ms.openlocfilehash: 08125121083a3ddc7b84ea27a6262247c7ef3e0f
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
+ms.openlocfilehash: 59698324fc21dcf49b96363d61145e17364f9e01
+ms.sourcegitcommit: 0e43e19448705f151846e9e9e1e0f47e12938fdf
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991233"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44263947"
 ---
 # <a name="payment-faq"></a>Häufig gestellte Fragen – Zahlung
 
 Verwalten von Zahlungen im **Microsoft 365 Admin Center**. 
 
-1. Wechseln Sie zu **Abrechnung > [Produkte & Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054)**, um die Zahlungsmethoden für Abonnements zuzuweisen oder zu ändern.
-2. Wechseln Sie zu **Abrechnung > [Zahlungsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806)**, um Zahlungsmethoden hinzuzufügen oder zu entfernen.
-
-**Häufige Probleme und Lösungen**
+- Wechseln Sie zu **Abrechnung > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)**, um die Zahlungsmethoden für Abonnements zuzuweisen oder zu ändern.
+- Wechseln Sie zu **Abrechnung > [Zahlungsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806)**, um Zahlungsmethoden hinzuzufügen oder zu entfernen.
 
 - **Zahlungsmethoden** – Wenn Sie per Kreditkarte oder Bankkonto bezahlen, wird die mit Ihrem(n) Abonnement/en verbundene Zahlungsmethode innerhalb weniger Tage nach Erstellung der Rechnung belastet. Wenn die Zahlung fehlschlägt, aktualisieren Sie Ihre Zahlungsmethode. Weitere Informationen finden Sie unter [Zahlungsmethoden hinzufügen, aktualisieren oder entfernen](https://go.microsoft.com/fwlink/?linkid=2118133).
 
