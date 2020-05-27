@@ -11,13 +11,19 @@ ms.custom:
 - "898"
 - "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 46a114987abc185d1ca5f390fc212fd6873b01e2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ed86cba4427e900074f37ebbb524fa657f73570f
+ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762892"
+ms.lasthandoff: 05/26/2020
+ms.locfileid: "44373034"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a>Informationen zu externen Kalenderfreigabe Optionen
+# <a name="exchange-online-collaboration-options"></a>Optionen für die Zusammenarbeit in Exchange Online
 
-Wenn Sie Besprechungen mit Personen außerhalb Ihrer Organisation planen müssen, ermöglicht Ihnen Microsoft 365 das Bereitstellen von Kalendern für "externe Benutzer", die Frei/Gebucht-Zeiten anzeigen müssen, aber keine Benutzerkonten für Ihre Microsoft 365-Umgebung haben. Weitere Informationen finden Sie unter [Freigeben von Kalendern für externe Benutzer](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).
+- Eine **Übersicht über die externe Kalenderfreigabe**erhalten Sie unter [Freigabe in Exchange Online](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx).
+
+- Informationen zum **Freigeben von Kalendern für eine andere Office 365 Organisation**finden Sie unter [Organization Relationships in Exchange Online](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx).
+
+- Um zu **Steuern, wie Ihre Benutzer ihre Kalender für Personen außerhalb Ihrer Organisation freigeben**, lesen Sie [Freigeben von Richtlinien in Exchange Online](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx).
+
+- Informationen zu **Verbesserungen** bei der Kalenderfreigabe finden Sie unter [Kalenderfreigabe in Microsoft 365](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4).
