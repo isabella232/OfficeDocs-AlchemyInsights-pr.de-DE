@@ -11,20 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: a943c59d67c512e6326856dacd0053db121f6aa3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 84e337a7224fdd3c3ab7ad0f61240692fe007d5a
+ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541988"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "44407349"
 ---
-# <a name="unable-to-set-primary-email-address-or-change-user-attributes"></a>Primäre e-Mail-Adresse kann nicht festgelegt oder Benutzerattribute geändert werden
+# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>Primäre e-Mail-Adresse kann nicht festgelegt, Benutzerattribute geändert oder ein synchronisierter Benutzer entfernt/gelöscht werden
 
 Wenn die Verzeichnissynchronisierung für Ihre Umgebung aktiviert ist, können einige Benutzer-oder Objektattribute nicht mithilfe des Microsoft 365 Admin Center geändert werden.
 
 Verwenden Sie zum vollständigen verwalten synchronisierter Benutzer und aller Attribute Ihre lokale Active Directory-Benutzer-und Gruppen Verwaltungskonsole (AdsiEdit. msc).  
 
 Alternativ können Sie einzelne Benutzer oder Attribute für synchronisierte Benutzer mithilfe von PowerShell ändern, wie in den folgenden allgemeinen Beispielen gezeigt: 
-- Gruppe-MsolUser-userPrincipalName User@yourdomain.onmicrosoft.com-AlternateEmailAddresses User2@yourvanitydomain.onmicrosoft.com
-- Sets-MsolUser-userPrincipalName "User@yourdomain.onmicrosoft.com"-DisplayName "Test User"-Nachname "User"-Titel "Manager"-Abteilung "HR"
-- Remove-MsolUser-userPrincipalName "User@yourdomain.onmicrosoft.com
+- `Set-MsolUser -UserPrincipalName user@yourdomain.onmicrosoft.com -AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com`
+
+- `Set-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com" -DisplayName "Test User" -LastName "User" -Title "Manager" -Department "HR"`
+
+- `Remove-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com`
