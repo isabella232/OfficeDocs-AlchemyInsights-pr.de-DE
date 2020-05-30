@@ -10,14 +10,19 @@ ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
 - "248"
 - "4000003"
-ms.openlocfilehash: feedd3e1433f9c8232a6ab9577473e4dbed03b31
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1e6ad5908b56f76fa41cf9fbdfad0f50c1a6f552
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714913"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417387"
 ---
-# <a name="move-a-phone-number-from-another-provider-to-microsoft"></a>Migrieren einer Telefonnummer von einem anderen Anbieter nach Microsoft
+# <a name="port-existing-numbers-to-teams"></a>Portieren bestehender Nummern zu Teams
 
-Müssen Sie eine Telefonnummer von einem anderen Anbieter nach Microsoft übertragen? Telefonnummern für unterschiedliche Länder und Regionen finden Sie unter [Verwalten von Telefonnummern für Ihre Organisation](https://docs.microsoft.com/SkypeForBusiness/what-are-calling-plans-in-office-365/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization). Wählen Sie Ihr Land oder Ihre Region aus, um Informationen zum Übertragen von Nummern zu erhalten. 
-  
+Wenn Sie derzeit über einen Telefondienstanbieter oder -netzbetreiber und bereits über Telefonnummern für Ihre Benutzer oder Dienste verfügen, müssen Sie einen „Portierungsauftrag“ erstellen, um diese Telefonnummern zu Microsoft Teams zu übertragen.
+
+- Informationen zum Durchführen der Portierung finden Sie unter [Übertragen von Telefonnummern zu Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams). 
+
+- Eine Anleitung zur Verwaltung von Telefonnummern finden Sie unter [Verwalten von Telefonnummern für Ihre Organisation](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization). 
+
+Weitere Informationen finden Sie in der [Portierungsauftragsübersicht](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).  

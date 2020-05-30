@@ -13,12 +13,12 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 9e7505978ef80f3aba44e69dc7b5f7ab9c1780d5
-ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
+ms.openlocfilehash: 57e1ed7c7f85f14bb7f78bb8d3e7b844ed5a7a44
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43957905"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418287"
 ---
 # <a name="past-due-account"></a>Überfälliges Konto abgelaufen?
 
@@ -26,8 +26,8 @@ Eine Zahlung kann aus mehreren Gründen abgelehnt werden, auch wenn die Kreditka
 
 1. Wechseln Sie im Admin Center zu **Abrechnungs > [Produkte & Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 Suchen Sie das Abonnement mit dem ausstehenden Saldo. Klicken Sie im Abschnitt **Abrechnung** neben dem **Abonnement hat eine fällige Zahlung zurück**, auf **Saldo Ausgleich** , um den gesamten Restbetrag zu bezahlen.
-2. Wenn Sie die Kreditkarte besitzen, können Sie das Ablaufdatum ändern, eine andere Karte auswählen oder [eine neue Karte hinzufügen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide).
-3. Wenn Sie die Kreditkarte nicht besitzen, können Sie eine andere Kreditkarte auswählen oder [eine neue Karte hinzufügen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide).
+2. Wenn Sie die Kreditkarte besitzen, können Sie das Ablaufdatum ändern, eine andere Karte auswählen oder [eine neue Karte hinzufügen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
+3. Wenn Sie die Kreditkarte nicht besitzen, können Sie eine andere Kreditkarte auswählen oder [eine neue Karte hinzufügen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
 4. Nachdem Sie die Updates abgeschlossen haben, klicken Sie auf **Speichern**.
 
 **Hinweis**: Nachdem eine Zahlung vorgenommen wurde, ist die vergangene fällige Benachrichtigung für einen kurzen Zeitraum möglicherweise noch sichtbar. Warten Sie mindestens **48 Stunden** , bevor Sie sich an den Support wenden.
