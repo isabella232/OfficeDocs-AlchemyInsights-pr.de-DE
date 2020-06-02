@@ -11,26 +11,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 695d449a876c22ff441da2367ef67aaea470eb66
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 11d44e7f6616f936723f7609e9219fd529ee68e6
+ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762998"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44474424"
 ---
-# <a name="issues-signing-in-to-office-apps"></a>Probleme bei der Anmeldung bei Office-Apps
+# <a name="issues-signing-into-microsoft-365-apps"></a>Probleme bei der Anmeldung bei Microsoft 365-apps
 
-Versuchen Sie Folgendes, um Anmeldeprobleme mit Office-Apps zu beheben:
+Um Anmeldeprobleme mit Microsoft 365-apps zu beheben, versuchen Sie die folgenden Optionen auf dem betroffenen Computer:  
 
-- Entfernen Sie alle Arbeits Konten außer dem betroffenen Konto mithilfe von Windows-Einstellungen > **Access work oder School**.
-- [Löschen Sie Office-Anmeldeinformationen](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) mit dem Windows-Anmelde Informations Manager.<br/>
-    **Hinweis:** Die Registrierungspfade für Office 2016 haben sich in 16,0 geändert. (Beispiel: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Öffnen Sie eine Office-App, und wählen Sie **Datei** > **Konto** > **Abmelden aus**. Melden Sie sich dann mit einem Benutzerkonto mit einer gültigen Lizenz an. Ausführliche Informationen finden Sie unter [Konten in Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
-- Für Mac lesen Sie [Anmelden bei einer Office 2016 für Mac-App nicht möglich](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
-- Wenn die Fehler beim Herstellen einer Verbindung mit Microsoft 365 mit Office 2013 auftreten, aktivieren Sie die moderne Authentifizierung für Office-Client.
+- Unter Windows finden Sie [Empfehlungen zum Beheben allgemeiner Anmeldeprobleme](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues) .
+- Für Mac finden Sie unter [nicht anmelden bei einer Office 2016 für Mac-app](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
 
-Weitere Informationen finden Sie unter:
-- [Sie können sich nicht bei Microsoft 365, Azure oder InTune anmelden.](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
-- [Verbindungsprobleme in der Anmeldung nach der Aktualisierung auf Office 2016 Build 16.0.7967 unter Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)
-- ["Es tut uns leid, ein anderes Konto aus Ihrer Organisation ist bereits auf diesem Computer angemeldet" in Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)
-- [Behandeln von Anmeldeproblemen mit der modernen Office-Authentifizierung bei Verwendung von ADFS](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-issue-with-modern-auth)
+**Hinweis:** Das Deaktivieren der modernen Authentifizierung (Adal) oder der Webkonten Verwaltung (WAM) zur Behebung von Anmelde-oder Aktivierungsproblemen **wird nicht empfohlen**. Wenn die Fehler beim Herstellen einer Verbindung mit Microsoft 365 mit Office 2013 auftreten, stellen Sie sicher, dass Sie die [moderne Authentifizierung](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication) für Office-Client aktivieren.
+
+Informationen zu bestimmten Problem Behandlungs Aktionen finden Sie unter:
+
+[Verbindungsprobleme bei der Anmeldung nach dem Update auf Office 2016, Build 16.0.7967, unter Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)  
+
+[Sie können sich nicht bei Ihrem organisationskonto wie Office 365, Azure oder InTune anmelden.](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
+
+[Problembehandlung bei nicht-Browser-apps, die sich nicht bei Office 365, Azure oder InTune anmelden können](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1?ui=en-US&rs=en-US&ad=US)
+
+[Wiederholte Aufforderung zur Eingabe von Anmeldeinformationen in Office](https://docs.microsoft.com/office365/troubleshoot/authentication/access-denied-when-connect-to-office-365)
