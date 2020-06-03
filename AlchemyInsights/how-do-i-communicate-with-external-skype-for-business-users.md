@@ -12,18 +12,18 @@ ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: 46da02a7a2ae1be92698f376be404a76bd4f23e6
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 3bdd3fc028e0cd3cd6ec5692e11c303dcd7ace6b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265087"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44496274"
 ---
 # <a name="allow-external-communications-with-skype-for-business"></a>Externe Kommunikation mit Skype for Business zulassen 
 
 Möchten Sie, dass Ihre Skype for Business-Benutzer Benutzer außerhalb Ihrer Organisation kontaktieren können? Weitere Informationen finden Sie unter [zulassen, dass Benutzer externe Skype for Business Benutzer kontaktieren](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
 
-Ihre DNS-Einträge müssen ordnungsgemäß eingerichtet sein, damit die externe Kommunikation ordnungsgemäß funktioniert. [Hier](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide) erfahren Sie, ob wir spezifische Anweisungen zum Festlegen von DNS-Einträgen mit Ihrem Anbieter haben. 
+Ihre DNS-Einträge müssen ordnungsgemäß eingerichtet sein, damit die externe Kommunikation ordnungsgemäß funktioniert. [Hier](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions) erfahren Sie, ob wir spezifische Anweisungen zum Festlegen von DNS-Einträgen mit Ihrem Anbieter haben. 
 
 Möchten Sie Ihren Skype for Business Benutzern nur die Möglichkeit geben, sich an Skype Consumer-Benutzer zu wenden? Siehe:
 
