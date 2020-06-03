@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002554"
 - "5392"
-ms.openlocfilehash: 56968133f06444badfdf2d0d7823e374a08302d5
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
+ms.openlocfilehash: f41fc3e02ee3fca4d49c8fac5a3b3872662a7884
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43943978"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511795"
 ---
 # <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>Häufig gestellte Fragen zur Verwaltung von Microsoft 365 E3-Abonnements und Lizenzen
 
@@ -25,7 +25,7 @@ ms.locfileid: "43943978"
 - Informationen zum **Wechseln von Plänen** finden Sie unter [Manueller Wechsel von Microsoft 365 Business-Plänen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
 - Wenn Sie Benutzern E3-Lizenzen **zuweisen** möchten, navigieren Sie zu **Abrechnung > [Lizenzen](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Weitere Informationen finden Sie unter [Zuweisen von Lizenzen](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - Wenn Sie E3-Lizenzen **hinzufügen/entfernen** möchten, navigieren Sie zu **Abrechnung > [Produkte &-Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054)**, und klicken Sie auf **Lizenzen hinzufügen/entfernen**. Weitere Informationen finden Sie unter [Hinzufügen/Entfernen von Lizenzen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription). 
-- Wenn Sie E3-Lizenzen **kündigen** möchten, navigieren Sie zu **Abrechnung > [Produkte & Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054)**, klicken Sie auf **Einstellungen und Aktionen** und dann auf **Abonnement kündigen**. Weitere Informationen finden Sie unter [Ihr Abonnement kündigen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- Wenn Sie E3-Lizenzen **kündigen** möchten, navigieren Sie zu **Abrechnung > [Produkte & Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054)**, klicken Sie auf **Einstellungen und Aktionen** und dann auf **Abonnement kündigen**. Weitere Informationen finden Sie unter [Ihr Abonnement kündigen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - Informationen zum **Aktivieren** des E3-Abonnements finden Sie unter [Aktivieren Ihres Abonnements](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - Informationen zum **Reaktivieren** des E3-Abonnements finden Sie unter [Reaktivieren Ihres Abonnements](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
 - Informationen zum **Verlängern** Ihres E3-Testzeitraums finden Sie unter [Verlängern Ihrer Testversion](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).

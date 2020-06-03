@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 3d32123f757a727e1f6ef04270152e276cf803fa
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+ms.openlocfilehash: 11321789ee6bd7568fda0d530b9b60eb382c83b9
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799050"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508591"
 ---
 # <a name="unlocking-an-account"></a>Entsperren eines Kontos
 
@@ -40,4 +40,4 @@ Als Administrator können Sie, wenn einer Ihrer Benutzer keine E-Mails versenden
 
 Informationen zu weiteren Szenarien für das Zurücksetzen von Kennwörtern, einschließlich dem Zurücksetzen von Kennwörtern durch Benutzer, finden Sie unter [Zurücksetzen von Microsoft 365-Business-Kennwörtern](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).
 
-Der Dienst verhindert, dass ein Benutzer E-Mails sendet, nachdem er Hinweise auf ein angegriffenes Konto und/oder ausgehenden Spam entdeckt hat. Als Vorsichtsmaßnahme, führen Sie die Schritte zum [Reagieren auf ein angegriffenes E-Mail-Konto in Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) für den Benutzer aus.
+Der Dienst verhindert, dass ein Benutzer E-Mails sendet, nachdem er Hinweise auf ein angegriffenes Konto und/oder ausgehenden Spam entdeckt hat. Als Vorsichtsmaßnahme, führen Sie die Schritte zum [Reagieren auf ein angegriffenes E-Mail-Konto in Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) für den Benutzer aus.

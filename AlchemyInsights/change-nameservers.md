@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5"
 - "14"
-ms.openlocfilehash: 572f8befd84f55cb07a3535852a46e735d3ed620
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f295e0d7872a13cf47e386343b159e51bc0504de
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706754"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508087"
 ---
 # <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>Aktualisieren Ihrer Domänennamenserver, sodass sie auf Microsoft verweisen
 
@@ -35,5 +35,5 @@ Zum Einrichten Ihrer Domäne in Microsoft 365 müssen die Namenserver Ihrer Regi
 
 3. Speichern Sie die Änderungen.
 
-Detaillierte Anweisungen finden Sie auch in diesem Artikel: [Ändern von Namenservern mit einer beliebigen Domänenregistrierungsstelle](https://docs.microsoft.com//office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
+Detaillierte Anweisungen finden Sie auch in diesem Artikel: [Ändern von Namenservern mit einer beliebigen Domänenregistrierungsstelle](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
   
