@@ -13,16 +13,16 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: abc9b394fc54c95a77ca20645c8740bf4a04fc97
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ec9e154a02cc62bb6b8aaa6b510c71d13391ccad
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43741780"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509851"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Vorschläge zur Lösung von Fehlern bei "nicht lizenzierten Produkten"
 
-Stellen Sie sicher, dass Sie über ein Abonnement verfügen, das Clientlizenzen wie Microsoft 365 apps for Business oder Microsoft 365 Business Premium Standard ermöglicht, und stellen Sie sicher, dass [dem Benutzer eine Lizenz zugewiesen wurde](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). [Deaktivieren Sie eine Installation](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) , um zu überprüfen, ob Sie die Anzahl der von Ihrem Abonnement unterstützten Installationen überschritten haben.
+Stellen Sie sicher, dass Sie über ein Abonnement verfügen, das Clientlizenzen wie Microsoft 365 apps for Business oder Microsoft 365 Business Premium Standard ermöglicht, und stellen Sie sicher, dass [dem Benutzer eine Lizenz zugewiesen wurde](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). [Deaktivieren Sie eine Installation](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user) , um zu überprüfen, ob Sie die Anzahl der von Ihrem Abonnement unterstützten Installationen überschritten haben.
   
 Stellen Sie sicher, dass sich der Benutzer mit dem gleichen Konto anmeldet, dem die Lizenz zugewiesen ist.
   
@@ -30,7 +30,7 @@ Führen Sie die [Aktivierungsproblem Behandlung](https://aka.ms/SARA-OfficeActiv
   
 Überprüfen, ob Ihr Abonnementstatus abgelaufen ist
   
-Überprüfen Sie auf der [Seite Dienststatus](https://docs.microsoft.com/office365/enterprise/view-service-health) , ob bekannte Probleme mit dem Dienst vorliegen.
+Auf der Seite [Service Health](https://docs.microsoft.com/office365/enterprise/view-service-health) werden mögliche bekannte Probleme mit dem Dienst angezeigt.
   
 [Durchführen einer Online Reparatur von Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
   

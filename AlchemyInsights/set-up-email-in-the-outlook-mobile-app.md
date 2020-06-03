@@ -15,22 +15,22 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: c11537636e276fe9997566bcd0f799bb3ee57282
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6cd6d3c36b8c9c50b5ea98aafa2145c502960f89
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767572"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512481"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>Einrichten von e-Mails in der Outlook-Mobile App
 
-1. Wählen Sie erste **Schritte** aus, wenn Sie zum ersten Mal e-Mails im Mobile App einrichten. Tippen Sie andernfalls auf **Menü** und dann **auf Einstellungen** \> **Konto** \> hinzufügen, um das **e-Mail-Konto hinzu**zufügen.
+1. Wählen Sie erste **Schritte** aus, wenn Sie zum ersten Mal e-Mails im Mobile App einrichten. Tippen Sie andernfalls auf **Menü** und dann auf **Einstellungen** Konto hinzufügen, um das \> **Add Account** \> **e-Mail-Konto hinzu**zufügen.
 
 2. Geben Sie Ihre vollständige e-Mail-Adresse ein und tippen Sie auf **weiter** oder **Konto hinzufügen**.
 
 3. Geben Sie Ihr e-Mail-Kontokennwort ein, und tippen Sie **auf Anmelden** oder **weiter**.
 
-4. Wenn die mehrstufige Authentifizierung aktiviert ist, überprüfen Sie die Verwendung der Methode, die Sie einrichten (6 [-](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) stelliger Code, Telefonanruf oder Microsoft Authenticator-APP).
+4. Wenn die mehrstufige Authentifizierung aktiviert ist, überprüfen Sie die Verwendung der Methode, die Sie einrichten (6 [-](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) stelliger Code, Telefonanruf oder Microsoft Authenticator-APP).
 
 5. Wenn zusätzliche IT-Administrator Richtlinien vorhanden sind, tippen Sie auf **aktivieren** , um Sie zu aktivieren.
 

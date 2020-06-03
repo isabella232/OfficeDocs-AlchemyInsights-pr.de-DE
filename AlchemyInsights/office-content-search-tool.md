@@ -10,22 +10,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 59b70e78779661523ac16bdb8221dfc41abcde21
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 4e07b178fa41015bb942d939c08c534c2bfac30e
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912257"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505126"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Inhaltssuche-Tool zum Auffinden relevanter Informationen
 
 Verwenden Sie das Tool für die Inhaltssuche im Security & Compliance Center, um e-Mails schnell in Exchange-Postfächern, Dokumenten in SharePoint-Websites und OneDrive-Speicherorten sowie Chatnachrichten in Skype for Business zu finden. Sie können das Inhalts Such Tool verwenden, um nach e-Mails, Dokumenten und Chat Unterhaltungen in Microsoft 365-Zusammenarbeitstools wie Microsoft Teams und Microsoft 365-Gruppen zu suchen.
 
 
-Bevor Sie die [Inhaltssuche](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) im [Security & Compliance Center](https://sip.protection.office.com/homepage)verwenden, sollten Sie Konfigurationseinstellungen einschließlich [configure Permissions](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [Setting Download speeds](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) und [Export Settings](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results)durchführen.
+Bevor Sie die [Inhaltssuche](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) im [Security & Compliance Center](https://sip.protection.office.com/homepage)verwenden, sollten Sie Konfigurationseinstellungen einschließlich [configure Permissions](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search), [Setting Download speeds](https://docs.microsoft.com/microsoft-365/compliance/increase-download-speeds-when-exporting-ediscovery-results) und [Export Settings](https://docs.microsoft.com/microsoft-365/compliance/disable-reports-when-you-export-content-search-results)durchführen.
 
-Lesen Sie mehr über die Inhaltssuche, indem Sie die [Anforderungen und Grenzwerte](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search)überprüfen, um [teilweise indizierte Elemente](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) und andere Ergebnisse zu untersuchen, die Sie beachten sollten.
+Lesen Sie mehr über die Inhaltssuche, indem Sie die [Anforderungen und Grenzwerte](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)überprüfen, um [teilweise indizierte Elemente](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) und andere Ergebnisse zu untersuchen, die Sie beachten sollten.
 
-Nachdem Sie die Konfigurationseinstellungen und Einschränkungen für die Inhaltssuche überprüft haben, lesen Sie die Informationen unter [Verwenden der Inhalts</a> Suche zum Suchen nach in-Place-Elementen wie e-Mail, Dokumenten und Chat Unterhaltungen in Ihrer Organisation](https://docs.microsoft.com/office365/securitycompliance/content-search).
+Nachdem Sie die Konfigurationseinstellungen und Einschränkungen für die Inhaltssuche überprüft haben, lesen Sie die Informationen unter [Verwenden der Inhaltssuche zum </a> Suchen nach in-Place-Elementen wie e-Mail, Dokumenten und Chat Unterhaltungen in Ihrer Organisation](https://docs.microsoft.com/microsoft-365/compliance/content-search).
 
-Eine vollständige schrittweise der Inhaltssuche finden Sie unter [Suchen nach Inhalten in Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) , um weitere Informationen zu erhalten.
+Eine vollständige schrittweise der Inhaltssuche finden Sie unter [Suchen nach Inhalten in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/search-for-content) , um weitere Informationen zu erhalten.

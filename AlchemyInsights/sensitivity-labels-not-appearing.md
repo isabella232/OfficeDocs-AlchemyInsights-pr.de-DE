@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 72dc88a55b55954f34c95fa5b5038f472261c5bb
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1326eca02044014a8e9c072fcc3e4cd3a41c7a9f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758429"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511651"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Nicht angezeigte Vertraulichkeits Bezeichnungen
 
-Mithilfe von Sensitivitäts Bezeichnungen können Sie Ihren vertraulichen Inhalt klassifizieren und schützen. Sie können im Microsoft 365 Compliance Center, im Microsoft 365 Security Center oder im Sicherheits & Compliance Center von Microsoft 365 unter Klassifizierung > Sensitivitäts Bezeichnungen erstellt werden. Weitere Informationen zu dieser Funktion finden Sie unter [Overview of Sensitivity Labels](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Mithilfe von Sensitivitäts Bezeichnungen können Sie Ihren vertraulichen Inhalt klassifizieren und schützen. Sie können im Microsoft 365 Compliance Center, im Microsoft 365 Security Center oder im Sicherheits & Compliance Center von Microsoft 365 unter Klassifizierung > Sensitivitäts Bezeichnungen erstellt werden. Weitere Informationen zu dieser Funktion finden Sie unter [Overview of Sensitivity Labels](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
 Wenn Sie Ihre Vertraulichkeits Bezeichnungen konfiguriert haben, diese aber nicht in den Office-Apps angezeigt werden, überprüfen Sie Folgendes:
 
-- Vergewissern Sie sich, dass die Vertraulichkeits Bezeichnung für die gewünschten Benutzer und Gruppen [veröffentlicht](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) wurde.
+- Vergewissern Sie sich, dass die Vertraulichkeits Bezeichnung für die gewünschten Benutzer und Gruppen [veröffentlicht](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) wurde.
 
 - Vergewissern Sie sich, dass der Benutzer eine APP verwendet, die Sensitivitäts Bezeichnungen unterstützt – siehe [Sensitivitäts Bezeichnungen in Ihrem Dokument](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
 

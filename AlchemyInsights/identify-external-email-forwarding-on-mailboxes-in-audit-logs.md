@@ -12,12 +12,12 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 156fd0044cdc42230ace0a5db16f49af572bb6fa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 592eb92e4b0fe0f9da2fa20bb93ffa4fbbb76662
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716459"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508951"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Ermitteln, wann externe e-Mail-Weiterleitung für Postfächer konfiguriert ist
 
@@ -25,7 +25,7 @@ Wenn ein Microsoft 365-Benutzer die externe e-Mail-Weiterleitung für ein Postfa
 
 1. Melden Sie sich beim [Microsoft 365 Security & Compliance Center](https://protection.office.com/)an.
 
-2. Wechseln Sie zur **Search** > Suchseite**Überwachungsprotokoll** suchen.
+2. Wechseln Sie zur **Search**  >  Suchseite**Überwachungsprotokoll** suchen.
 
 3. Wählen Sie den Datumsbereich in den Feldern **Start Datum** und **Enddatum** aus. Sie müssen keinen Benutzernamen angeben. Stellen Sie sicher, dass das Feld **Aktivitäten** auf **Ergebnisse für alle Aktivitäten anzeigen**festgelegt ist.
 
@@ -39,4 +39,4 @@ Klicken Sie in den Ergebnissen auf **Filterergebnisse** , und geben Sie im Feld 
 
 - **UserID**: der Benutzer, der die e-Mail-Weiterleitung für das Postfach im Feld **objectID** konfiguriert hat.
 
-Weitere Informationen finden Sie unter [bestimmen der Personen, die die e-Mail-Weiterleitung für ein Postfach eingerichtet](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox)haben.
+Weitere Informationen finden Sie unter [bestimmen der Personen, die die e-Mail-Weiterleitung für ein Postfach eingerichtet](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)haben.

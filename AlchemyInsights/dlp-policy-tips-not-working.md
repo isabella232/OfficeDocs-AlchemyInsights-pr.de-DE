@@ -12,12 +12,12 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 7d31f6bcbd464b7428092b6fd6ff9f9582db2a8b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9369878b62a5abe79bd215487bea6cabb0e80f06
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704376"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507441"
 ---
 # <a name="dlp-policy-tip-issues"></a>Probleme mit dem DLP-richtlinientipp
 
@@ -29,11 +29,11 @@ Bei der Verwendung von **DLP-Richtlinien**können Benutzer über eine Richtlinie
   
 Gehen Sie folgendermaßen vor, um Richtlinien Tipps für ihre DLP-Richtlinie im Security and Compliance Center im vollständigen Durchsetzungs Modus zu konfigurieren:
   
-- Stellen Sie sicher, dass in der DLP-Regel mithilfe der [hier](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)beschriebenen Schritte Richtlinien Tipps **aktiviert** wurden.
+- Stellen Sie sicher, dass in der DLP-Regel mithilfe der [hier](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)beschriebenen Schritte Richtlinien Tipps **aktiviert** wurden.
 
-- Stellen Sie sicher, dass Ihre Inhalte [hier](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for) **übereinstimmen** , die **erforderlich** sind, um die in diesem Artikel dargelegte Regel auszulösen.
+- Stellen Sie sicher, dass Ihre Inhalte [hier](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions) **übereinstimmen** , die **erforderlich** sind, um die in diesem Artikel dargelegte Regel auszulösen.
 
-- Richtlinien Tipps werden sowohl in OWA als auch in Outlook angezeigt. Wenn Sie jedoch **Outlook 2013 oder höher**verwenden, werden Richtlinien Tipps nur unter bestimmten Bedingungen angezeigt. Diese Bedingungen sind hier aufgelistet: [unterstützte Bedingungen für Outlook 2013 oder höher zum Anzeigen von Richtlinien Tipps](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
+- Richtlinien Tipps werden sowohl in OWA als auch in Outlook angezeigt. Wenn Sie jedoch **Outlook 2013 oder höher**verwenden, werden Richtlinien Tipps nur unter bestimmten Bedingungen angezeigt. Diese Bedingungen sind hier aufgelistet: [unterstützte Bedingungen für Outlook 2013 oder höher zum Anzeigen von Richtlinien Tipps](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-Weitere Informationen zu DLP-Richtlinien Tipps finden Sie unter: [Anzeigen von Richtlinien Tipps für DLP-Richtlinien](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+Weitere Informationen zu DLP-Richtlinien Tipps finden Sie unter: [Anzeigen von Richtlinien Tipps für DLP-Richtlinien](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
   

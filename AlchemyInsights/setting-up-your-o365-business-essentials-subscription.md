@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: 271d067fc44da56e0de60634c31cfbdff24b6020
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f49272fb05e3d251a55851d0f7e8ac32111899e6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767788"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509347"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Einrichten Ihres O365 Business Essentials-Abonnements
 
@@ -23,11 +23,11 @@ Erstellen von Microsoft 365-Konten und Hinzufügen Ihrer Domäne
     
 - Wechseln Sie zum [Microsoft 365 Admin Center](https://login.partner.microsoftonline.cn/).
     
-- Wählen Sie zum Starten des Assistenten **Zu Setup wechseln** aus. Weitere Informationen finden Sie unter [Hinzufügen einer Domäne zu Microsoft 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
+- Wählen Sie zum Starten des Assistenten **Zu Setup wechseln** aus. Weitere Informationen finden Sie unter [Hinzufügen einer Domäne zu Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
     
 E-Mail importieren
   
-- Stellen Sie Ihre vorhandenen e-Mails und Kontakte aus anderen e-Mail-Systemen in Ihr Microsoft 365-Postfach ein, damit Sie alles an einem Ort sehen können. Migrieren Sie für Migrationsoptionen [e-Mails und Kontakte zu Microsoft 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
+- Stellen Sie Ihre vorhandenen e-Mails und Kontakte aus anderen e-Mail-Systemen in Ihr Microsoft 365-Postfach ein, damit Sie alles an einem Ort sehen können. Migrieren Sie für Migrationsoptionen [e-Mails und Kontakte zu Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin).
     
 - Verbinden von e-Mail-Konten
     
@@ -41,6 +41,6 @@ Online Speichern von Dateien
   
 - Um zu erfahren, welche Speicherorte am besten für Ihr Unternehmen geeignet sind, lesen Sie [hier, wo Sie Dateien in Microsoft 365 speichern können](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Jeder ruft automatisch einen **OneDrive** -Cloud-Speicherplatz ab, wenn Sie Microsoft 365-Konten für diese erstellen. Mit OneDrive können Sie über Computer, Smartphones und Tablets auf Dateien zugreifen. 
     
-Ausführliche Schritte für das Setup finden Sie in [diesem Artikel](https://docs.microsoft.com/office365/admin/setup/setup).
+Ausführliche Schritte für das Setup finden Sie in [diesem Artikel](https://docs.microsoft.com/microsoft-365/admin/setup/setup).
   
 

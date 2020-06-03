@@ -1,5 +1,5 @@
 ---
-title: Aktualisieren Ihrer Domänennamenserver, sodass Sie auf Microsoft verweist
+title: Aktualisieren Ihrer Domänennamenserver, sodass sie auf Microsoft verweisen
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -11,14 +11,14 @@ ms.assetid: 5d38b331-a0e8-4937-8bda-4f8f715e1976
 ms.custom:
 - "6"
 - "14"
-ms.openlocfilehash: b49ca9422f582f906fc6c108c85cc26150474548
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9dd52c60b2d15d66c1c3f2a96c9db08ea2a010c6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719992"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510283"
 ---
-# <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>Aktualisieren Ihrer Domänennamenserver, sodass Sie auf Microsoft verweist
+# <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>Aktualisieren Ihrer Domänennamenserver, sodass sie auf Microsoft verweisen
 
 Hinweis: Die Verarbeitung von Änderungen an Nameservern kann manchmal bis zu 48 Stunden dauern.
   
@@ -34,5 +34,5 @@ Um Ihre Domäne bei Microsoft einzurichten, müssen die Namenserver bei Ihrer Re
 
 3. Speichern Sie die Änderungen.
 
-Ausführliche Anweisungen finden Sie auch in diesem Artikel: Ändern von Namen [Servern zum Einrichten von Microsoft 365 bei einer beliebigen Domänen Registrierungs](https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar) Stelle
+Ausführliche Anweisungen finden Sie auch in diesem Artikel: Ändern von Namen [Servern zum Einrichten von Microsoft 365 bei einer beliebigen Domänen Registrierungs](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar) Stelle
   

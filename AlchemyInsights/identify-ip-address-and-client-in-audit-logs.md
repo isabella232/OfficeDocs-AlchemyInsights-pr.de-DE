@@ -12,12 +12,12 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: d1a0d412fc0c6d79e50b101ca759127522f45dcd
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 80b652eb65612093252dee226a19ec74bc035faa
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716387"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508915"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Identifizieren der IP-Adresse und des Clients in Überwachungsprotokollen
 
@@ -25,7 +25,7 @@ Die IP-Adresse, die einer Aktivität eines Microsoft 365-Benutzers oder-Administ
 
 1. Melden Sie sich beim [Microsoft 365 Security & Compliance Center](https://protection.office.com/)an.
 
-2. Wechseln Sie zur **Search** > Suchseite**Überwachungsprotokoll** suchen.
+2. Wechseln Sie zur **Search**  >  Suchseite**Überwachungsprotokoll** suchen.
 
    Wenn Sie an einer bestimmten Aktivität interessiert sind, wählen Sie diese in der Liste **Aktivitäten** aus. Wenn dies nicht der Fall ist, werden alle Aktivitäten für den ausgewählten Benutzer zurückgegeben (Standardeinstellung).
 
@@ -35,4 +35,4 @@ Die IP-Adresse, die einer Aktivität eines Microsoft 365-Benutzers oder-Administ
 
 In den Ergebnissen können Sie die IP-Adresse für diese Aktivität im Ergebnisbereich anzeigen. Wählen Sie den Überwachungseintrag aus, um detaillierte Informationen im Flyout **Details** anzuzeigen (beispielsweise Client, Benutzer, der eine Aktion ausgeführt hat, usw.).
 
-Weitere Informationen finden Sie unter [Suchen der IP-Adresse des Computers, der für den Zugriff auf ein kompromittiertes Konto verwendet](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account)wurde.
+Weitere Informationen finden Sie unter [Suchen der IP-Adresse des Computers, der für den Zugriff auf ein kompromittiertes Konto verwendet](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)wurde.

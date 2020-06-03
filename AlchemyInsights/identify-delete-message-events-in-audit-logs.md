@@ -12,12 +12,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 797a4b1146862faf91d2b9e8d74feade90f71650
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 641c0216491186aeb423a13854c6b39ee005e5df
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716495"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508987"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Überwachungsprotokolle für gelöschte e-Mail-Nachrichten
 
@@ -33,6 +33,6 @@ Ab Januar 2019 wendet Microsoft die postfachüberwachungsprotokollierung standar
 
 Wählen Sie in den Ergebnissen einen Überwachungseintrag aus. Klicken Sie im Detail Flyout auf **Weitere Informationen**. Weitere Informationen zum gelöschten Element (beispielsweise die Betreffzeile und der Speicherort des Elements, wenn es gelöscht wurde) werden im Feld **AffectedItems** angezeigt. Die **ClientInfoString** -Eigenschaft zeigt an, ob der Löschvorgang in Outlook, Outlook im Internet (früher bekannt als Outlook Web App) oder auf einem anderen Gerät aufgetreten ist.
 
-Weitere Informationen finden Sie unter [bestimmen der Personen, die die e-Mail-Weiterleitung für ein Postfach eingerichtet](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items)haben.
+Weitere Informationen finden Sie unter [bestimmen der Personen, die die e-Mail-Weiterleitung für ein Postfach eingerichtet](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)haben.
 
 **Hinweis**: Gelöschte Elemente können nicht mithilfe der Überwachungsprotokoll Funktion abgerufen werden. Informationen zum Abrufen von gelöschten Nachrichten in Outlook im Internet finden Sie unter [Wiederherstellen gelöschter Elemente in Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).

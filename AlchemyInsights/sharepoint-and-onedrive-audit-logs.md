@@ -12,12 +12,12 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 3270f1ab03bacb235cbdc3d710053c858f0a5183
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0aedb549f11db54d3cd480671fb0767c60680ad3
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43741964"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509599"
 ---
 # <a name="sharepoint-and-onedrive-audit-logs"></a>SharePoint-und OneDrive-Überwachungsprotokolle
 
@@ -28,7 +28,7 @@ Die SPO-Legacy Überwachung wurde zu einem einheitlichen Überwachungsprotokoll 
 Wichtige Änderungen:
 
 * Trimmen ist nicht als Funktion verfügbar.
-* Das Auswählen bestimmter zu überwachenden Ereignisse ist nicht verfügbar. In [diesem Dokument](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) finden Sie eine vollständige Liste überwachter Ereignisse, die standardmäßig verfügbar sind.
+* Das Auswählen bestimmter zu überwachenden Ereignisse ist nicht verfügbar. In [diesem Dokument](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) finden Sie eine vollständige Liste überwachter Ereignisse, die standardmäßig verfügbar sind.
 * Die Option **Speicherort** unter **angepasste Berichte** ist nicht verfügbar.
 * Die Option zum **Öffnen oder Herunterladen von Dokument** Ereignissen ist nicht verfügbar.
 
@@ -36,16 +36,16 @@ Wichtige Änderungen:
 
 ## <a name="sharepoint-and-onedrive-modern-unified-audit-logs-from-compliance"></a>Moderne Unified Audit-Protokolle von SharePoint und OneDrive aus Compliance
 
-* [Aktivieren/Deaktivieren der einheitlichen Überwachungsprotokollierung](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
+* [Aktivieren/Deaktivieren der einheitlichen Überwachungsprotokollierung](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off) 
 
 In SharePoint oder OneDrive ist keine zusätzliche Konfiguration erforderlich.
 
 Verwenden Sie die Überwachungs Protokollierungs Suche, um die Aktivität der Datei (en), des Ordners (s), des (der) Benutzers (s), der Berechtigungen zu überprüfen:
 
-* [Datei- und Seitenaktivitäten](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
-* [Ordneraktivitäten](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-* [Freigabe- und Zugriffsanforderungsaktivitäten](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
-* [Synchronisierungsaktivitäten](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-* [Websiteverwaltungsaktivitäten](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+* [Datei- und Seitenaktivitäten](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
+* [Ordneraktivitäten](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+* [Freigabe- und Zugriffsanforderungsaktivitäten](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+* [Synchronisierungsaktivitäten](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+* [Websiteverwaltungsaktivitäten](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
 
-Weitere Informationen zum Abrufen dieser Ereignisse finden Sie unter [Durchsuchen des Überwachungsprotokolls](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Weitere Informationen zum Abrufen dieser Ereignisse finden Sie unter [Durchsuchen des Überwachungsprotokolls](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).

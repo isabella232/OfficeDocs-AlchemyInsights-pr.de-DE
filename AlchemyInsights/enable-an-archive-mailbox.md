@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788665"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507025"
 ---
 # <a name="enable-an-archive-mailbox"></a>Aktivieren eines Archivpostfachs
 
@@ -43,7 +43,7 @@ So aktivieren Sie das Archiv für ein freigegebenes Postfach:
 
 1. Wechseln Sie zur [Exchange-Verwaltungskonsole](https://outlook.office365.com/ecp) , und melden Sie sich mit Ihrem Administratorkonto an.
 
-2. Wechseln Sie zu **Empfänger** > **freigegeben**.
+2. Wechseln Sie zu **Empfänger**  >  **freigegeben**.
 
 3. Wählen Sie das freigegebene Postfach aus.
 
@@ -51,6 +51,6 @@ So aktivieren Sie das Archiv für ein freigegebenes Postfach:
 
 Weitere Informationen finden Sie unter:
   
-- [Aktivieren von Archivpostfächern](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Aktivieren von Archivpostfächern](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
 - [Einrichten einer Archiv-und Löschrichtlinie](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

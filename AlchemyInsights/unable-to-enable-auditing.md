@@ -3,7 +3,7 @@ title: 2419-nicht aktivierbar-Überwachung
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 2419
 ms.assetid: ''
-ms.openlocfilehash: 3af01c03711eed646f0009afb5bea685bc358196
-ms.sourcegitcommit: 87153fec6f6468b57893abf4aac073ba4068e67b
+ms.openlocfilehash: 23ad07a6dd943d61d1bd45453089a771cfd51b58
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "35065641"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510427"
 ---
 # <a name="unable-to-enable-unified-auditing"></a>Die vereinheitlichte Überwachung kann nicht aktiviert werden.
 
-Wenn Sie versuchen, die vereinheitlichte Überwachung für Ihre Office 365 Organisation zu aktivieren, erhalten Sie möglicherweise eine ähnliche Fehlermeldung wie die folgende:
+Wenn Sie versuchen, die vereinheitlichte Überwachung für Ihre Organisation zu aktivieren, erhalten Sie möglicherweise eine ähnliche Fehlermeldung wie die folgende:
 
 ```
 Request: /api/adminauditlogconfig/EnableUnifiedAuditLogIngestion Status code: 500 Exception message: {"Message":"The command you tried to run isn't currently allowed in your organization. To run this command, you first need to run the command: Enable-OrganizationCustomization."
@@ -48,4 +48,4 @@ Weitere Informationen finden Sie in den folgenden Artikeln:
 
 - [Verbinden mit Exchange Online PowerShell per mehrstufiger Authentifizierung](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)
 
--  [Aktivieren oder Deaktivieren der Office 365-Überwachungsprotokollsuche](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off)
+-  [Aktivieren oder Deaktivieren der Überwachungsprotokollsuche](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off)

@@ -12,12 +12,12 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 4fc934fcf9c1af0cd68aa20d5dc31d3d82264965
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: eae0ffdadf9f43b70c35992a03fce764b9299300
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063544"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509203"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Vorgehensweise zum Erstellen eines Microsoft 365-Kaufs
 
@@ -27,7 +27,7 @@ Käufe in Microsoft 365 können im Admin Center vorgenommen werden.
 
 - Um zusätzliche Lizenzen zu erwerben, wechseln Sie zur Seite **Fakturierung** \> **[ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Wählen Sie das Abonnement aus, dem Sie Lizenzen hinzufügen möchten, und wählen Sie dann **Lizenzen hinzufügen/entfernen**aus.
   
-Weitere Informationen finden Sie unter [kaufen von Lizenzen für Ihr Microsoft 365 for Business-Abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+Weitere Informationen finden Sie unter [kaufen von Lizenzen für Ihr Microsoft 365 for Business-Abonnement](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 
 **Problembehandlung**
 
@@ -35,6 +35,6 @@ Wenn Sie Probleme beim Laden der Seite haben, versuchen Sie, die Webseite in ein
 
 **Weitere Ressourcen**
   
-- [Zuweisen von Lizenzen zu Benutzern in Microsoft 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Zuweisen von Lizenzen zu Benutzern in Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
 
-- [Abbrechen von Microsoft 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Abbrechen von Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

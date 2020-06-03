@@ -13,12 +13,12 @@ ms.custom:
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 746f9b1553336e66f0c2bcb9e59b75e49b41d3b0
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: faef7409f3ba348de4cb6d16d81c99b55e871b44
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766204"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511687"
 ---
 # <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>Was geschieht mit meinen Daten und dem Zugriff, wenn mein Microsoft 365 for Business-Abonnement endet?
 
@@ -26,6 +26,6 @@ Wenn Ihr Abonnement endet – entweder weil es abläuft oder weil Sie sich entsc
   
 Bevor das Abonnement das Ablaufdatum tatsächlich erreicht, haben Sie einige Optionen zum **Verwalten der wiederkehrenden Abrechnung für das Abonnement**.
   
-- Wenn die **wiederkehrende Abrechnung** bereits aktiviert ist, müssen Sie keine Aktion durchführen. Ihr Abonnement wird mit **dem Fälligkeits** Datum in Rechnung gestellt, und je nach ihrer aktuellen Zahlungshäufigkeit werden Sie ein weiteres Jahr oder einen Monat in Rechnung stellen. Wenn Sie aus irgendeinem Grund **wiederkehrende Abrechnung** deaktiviert haben, können Sie immer [wiederkehrende Abrechnung wieder aktivieren](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+- Wenn die **wiederkehrende Abrechnung** bereits aktiviert ist, müssen Sie keine Aktion durchführen. Ihr Abonnement wird mit **dem Fälligkeits** Datum in Rechnung gestellt, und je nach ihrer aktuellen Zahlungshäufigkeit werden Sie ein weiteres Jahr oder einen Monat in Rechnung stellen. Wenn Sie aus irgendeinem Grund **wiederkehrende Abrechnung** deaktiviert haben, können Sie immer [wiederkehrende Abrechnung wieder aktivieren](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
 
-- Wenn Sie ein offener Volumenlizenzkunde mit einem Prepaid-Abonnement mit einem Jahr sind, wenden Sie sich an Ihren Partner, um einen neuen Product Key zu erwerben. Sie erhalten per E-Mail Anweisungen zum Aktivieren Ihres Product Keys im [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016). Informationen zum Auffinden eines neuen Partners oder des Partners, mit dem Sie in der Vergangenheit zusammengearbeitet haben, finden Sie unter [Suchen Ihres Microsoft 365-Partners oder-Händlers](https://docs.microsoft.com/office365/admin/manage/find-your-partner-or-reseller).
+- Wenn Sie ein offener Volumenlizenzkunde mit einem Prepaid-Abonnement mit einem Jahr sind, wenden Sie sich an Ihren Partner, um einen neuen Product Key zu erwerben. Sie erhalten per E-Mail Anweisungen zum Aktivieren Ihres Product Keys im [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016). Informationen zum Auffinden eines neuen Partners oder des Partners, mit dem Sie in der Vergangenheit zusammengearbeitet haben, finden Sie unter [Suchen Ihres Microsoft 365-Partners oder-Händlers](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller).

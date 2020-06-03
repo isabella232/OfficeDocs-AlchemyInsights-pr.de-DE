@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 76e14abce4e493cec4869279ff9a8d2ce4debf0f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911830"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510175"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Durchführen von Inhalts suchen und eDiscovery-suchen
 
@@ -32,6 +32,6 @@ Verwenden Sie das Tool für die Inhaltssuche im Security & Compliance Center, um
 4. Geben Sie die erforderlichen Suchbedingungen einschließlich Stichwörter und inhaltsspeicherorte ein.  
 5. Klicken Sie auf **& ausführen speichern** , um die Suche zu benennen, zu starten und dann eine Vorschau der Ergebnisse anzuzeigen.
 
-Ausführliche Anweisungen zum Durchsuchen von Inhalten, zum Exportieren von Ergebnissen und zum Erstellen von eDiscovery-Fällen zum Speichern von Daten finden Sie unter [Inhaltssuche](https://docs.microsoft.com/office365/securitycompliance/content-search) und [eDiscovery-Fälle](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
+Ausführliche Anweisungen zum Durchsuchen von Inhalten, zum Exportieren von Ergebnissen und zum Erstellen von eDiscovery-Fällen zum Speichern von Daten finden Sie unter [Inhaltssuche](https://docs.microsoft.com/microsoft-365/compliance/content-search) und [eDiscovery-Fälle](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
 
-Erfahren Sie mehr über die Inhaltssuche, indem Sie die [Anforderungen und Beschränkungen](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) prüfen und [teilweise indizierte Elemente](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) und andere Ergebnisse untersuchen, die Sie beachten sollten.
+Erfahren Sie mehr über die Inhaltssuche, indem Sie die [Anforderungen und Beschränkungen](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) prüfen und [teilweise indizierte Elemente](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) und andere Ergebnisse untersuchen, die Sie beachten sollten.

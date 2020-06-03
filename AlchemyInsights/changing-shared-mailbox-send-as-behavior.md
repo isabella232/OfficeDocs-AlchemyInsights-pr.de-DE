@@ -12,12 +12,12 @@ ms.custom:
 - "623"
 - "3500003"
 ms.assetid: 49fa4633-7c50-40cd-a064-608a21cb0476
-ms.openlocfilehash: 712419d44253a08c2ffc7627d7767fd67d6b4a00
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 5c5d38356713d1a34f4ae12436fe8a46348d8025
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769626"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507873"
 ---
 # <a name="changing-shared-mailbox-send-as-behavior"></a>Ändern des Sendeverhaltens für freigegebene Postfächer
 
@@ -25,5 +25,5 @@ Nachrichten, die aus dem freigegebenen Postfach gesendet wurden, werden standard
   
 Wenn Sie möchten, dass alle Mitglieder die gesendeten e-Mails sehen, bearbeiten Sie im Microsoft 365 Admin Center die Details des freigegebenen Postfachs, und wählen Sie **Gesendete Elemente** \> **Bearbeiten**aus.
   
-Weitere Informationen finden Sie unter [Erstellen eines freigegebenen Postfachs](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).
+Weitere Informationen finden Sie unter [Erstellen eines freigegebenen Postfachs](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).
   

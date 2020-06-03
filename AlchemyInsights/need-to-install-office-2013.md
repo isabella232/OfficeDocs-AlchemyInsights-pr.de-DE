@@ -11,16 +11,16 @@ ms.custom:
 - "907"
 - "2000023"
 ms.assetid: b1cc6839-6bda-4e63-9d3d-c5e3d7313042
-ms.openlocfilehash: a4f59ecd50b92c52e15c4394b467adbaf92b11ff
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 904f1a086999d883feab05bc983cb8a6d8eb55eb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761849"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512047"
 ---
 # <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a>Office 2013 wird in Microsoft 365-Abonnements nicht mehr unterstützt
 
 Seit dem 28. Februar 2017 werden Office 2013 in Microsoft 365-Abonnements nicht mehr unterstützt.
   
-Um die Sicherheit Ihrer Office-Suite zu gewährleisten und alle aktuellen Features zu erhalten, installieren Sie die neueste Version von Office kostenlos im Rahmen Ihres Microsoft 365-Abonnements. Weitere Informationen finden Sie unter [Upgrade Ihrer Benutzer auf den neuesten Office-Client](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).
+Um die Sicherheit Ihrer Office-Suite zu gewährleisten und alle aktuellen Features zu erhalten, installieren Sie die neueste Version von Office kostenlos im Rahmen Ihres Microsoft 365-Abonnements. Weitere Informationen finden Sie unter [Upgrade Ihrer Benutzer auf den neuesten Office-Client](https://docs.microsoft.com/microsoft-365/admin/setup/upgrade-users-to-latest-office-client).
   

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 51512b29f8d37ce6c39ece5bb704cb01e88e463d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: fe051cd1dac899dc9bb19d275c352ec6585b6a93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010253"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507585"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Bereitstellen von Microsoft 365-Apps für Enterprise für die gemeinsame Verwendung auf RDS, Terminal Server oder VDI
 
@@ -38,9 +38,9 @@ So beheben Sie Fehler im Zusammenhang mit der Aktivierung gemeinsam genutzter Co
 
 Wenn Sie Microsoft 365-Apps für Enterprise im RDS aus dem Microsoft 365 Admin Center installieren möchten, in ***dem die Standardinstallationseinstellungen verwendet***werden, führen Sie die folgenden Schritte aus:
 
-1.    Überprüfen Sie, welches Abonnement Sie haben. [Anleitung](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have).
-2.    Wechseln Sie bei Bedarf zu einem anderen Abonnement. [Anleitung](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
-3.    Wenn Office bereits auf dem RDS-Server mit anderen Microsoft-Abonnements installiert ist, deinstallieren Sie es. Wenn Sie beispielsweise zur **System** > Steuerung wechseln,**deinstallieren Sie ein Programm**. Deinstallieren Sie mit dem [Microsoft-Support-und Wiederherstellungs-Assistenten,](https://aka.ms/SARA-OfficeUninstall-Alchemy) wenn Probleme auftreten.
+1.    Überprüfen Sie, welches Abonnement Sie haben. [Anleitung](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have).
+2.    Wechseln Sie bei Bedarf zu einem anderen Abonnement. [Anleitung](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
+3.    Wenn Office bereits auf dem RDS-Server mit anderen Microsoft-Abonnements installiert ist, deinstallieren Sie es. Wenn Sie beispielsweise zur **System**Steuerung wechseln,  >  **deinstallieren Sie ein Programm**. Deinstallieren Sie mit dem [Microsoft-Support-und Wiederherstellungs-Assistenten,](https://aka.ms/SARA-OfficeUninstall-Alchemy) wenn Probleme auftreten.
 4.    Melden Sie sich auf dem RDS-Server beim Microsoft 365 Admin Center mit Ihrem Administratorkonto an, und [Installieren Sie Microsoft 365 apps for Enterprise](https://portal.office.com/OLS/MySoftware.aspx).
 5.    ***Öffnen oder melden*** Sie sich nach der Installation von Office nicht bei Office-Anwendungen an.
 6.    Aktivieren Sie auf dem RDS-Server die Aktivierung freigegebener Computer durch Bearbeiten der Registrierung, indem Sie die folgenden Schritte ausführen:

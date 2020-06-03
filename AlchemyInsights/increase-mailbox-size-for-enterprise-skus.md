@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: cc3842bf7226079b8542cb95aa0cdbf00d95361f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 82917466c3e9f7b1e452f98cac41fa945f0ec736
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671240"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508771"
 ---
 # <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Was tun, wenn die Postfachgröße bereits 100 GB beträgt
 
@@ -30,8 +30,8 @@ So aktivieren Sie die e-Mail-Archivierung:
     
 3. Wählen Sie im Detailbereich unter **in-Place Archive**die Option **enable**aus. 
     
-4. Nach ein paar Minuten wird ein neuer Ordner in Ihrem Benutzer Outlook im Internetnamens *in-Place Archive* oder in der Outlook-app " *Online Archive \<-Name\> * " angezeigt. Ihr Benutzer kann e-Mails per Drag & Drop in das Archiv verschieben. 
+4. Nach ein paar Minuten wird ein neuer Ordner im Outlook im Internet des Benutzers namens *in-Place Archive* oder in der Outlook-app " *Online Archive- \<name\> * " angezeigt. Ihr Benutzer kann e-Mails per Drag & Drop in das Archiv verschieben. 
     
-Sie können auf eine unbegrenzte Menge an Speicherplatz für die Archivierung zugreifen. Weitere Informationen finden Sie unter [enable Unlimited Archiving](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).
+Sie können auf eine unbegrenzte Menge an Speicherplatz für die Archivierung zugreifen. Weitere Informationen finden Sie unter [enable Unlimited Archiving](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving).
   
 

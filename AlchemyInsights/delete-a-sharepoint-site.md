@@ -9,18 +9,18 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: 9a6e59f5798130856ba3d82e8d233c2c79e462a7
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: a8aba717c826a929eda4977ad279ce7f1ac4ce70
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911543"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505686"
 ---
 # <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>Löschen einer Website aus dem neuen SharePoint Admin Center
 
 Mithilfe des neuen SharePoint Admin Center können Sie sowohl klassische als auch moderne Websites löschen. Wählen Sie **aktive Websites**aus, wählen Sie die Website aus, und wählen Sie dann **Löschen**aus. Zum [anzeigen und Wiederherstellen gelöschter Websites im neuen SharePoint Admin Center](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)wählen Sie **Gelöschte Websites**aus. Weitere Informationen finden Sie unter [Löschen einer Website im neuen SharePoint Admin Center](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
 
-**Wichtig:** Wenn die Website Teil einer Aufbewahrungsrichtlinie ist, können Sie Sie möglicherweise erst löschen, wenn die Website aus der [Richtlinie &amp; für das Security Compliance Admin Center](https://protection.office.com/?rfr=AdminCenter#/homepage)entfernt wurde. Weitere Informationen finden Sie unter [Übersicht über Aufbewahrungsrichtlinien](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
+**Wichtig:** Wenn die Website Teil einer Aufbewahrungsrichtlinie ist, können Sie Sie möglicherweise erst löschen, wenn die Website aus der [Richtlinie für das Security &amp; Compliance Admin Center](https://protection.office.com/?rfr=AdminCenter#/homepage)entfernt wurde. Weitere Informationen finden Sie unter [Übersicht über Aufbewahrungsrichtlinien](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) . 
 
 Tipps
 - SharePoint-Administratoren können jetzt Websites löschen, die zu **Microsoft 365-Gruppen**gehören. Dadurch wird die Gruppe und alle zugehörigen Ressourcen gelöscht, einschließlich des Outlook-Postfachs und-Kalenders sowie aller Teams-Kanäle. Weitere Informationen finden Sie unter [Löschen einer SharePoint-Website](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)

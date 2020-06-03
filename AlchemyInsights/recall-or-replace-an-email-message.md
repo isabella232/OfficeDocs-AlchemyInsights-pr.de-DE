@@ -13,12 +13,12 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: e541620a499b02a7206579ffcc505ceb4e632a4c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: e958dab159e4dcc11f9c068bded3aa06ccd65c15
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742754"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509455"
 ---
 # <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Rückruf oder Ersetzen einer e-Mail-Nachricht in Microsoft 365
 
@@ -30,7 +30,7 @@ ms.locfileid: "43742754"
 
 1. Wählen Sie im Bereich Ordner auf der linken Seite des Outlook-Fensters den Ordner Gesendete Elemente aus.
 2. Öffnen Sie die Nachricht, die Sie abrufen möchten. Sie müssen doppelklicken, um die Nachricht zu öffnen. Wenn Sie die Nachricht auswählen, damit Sie im Lesebereich angezeigt wird, können Sie die Nachricht nicht mehr abrufen.
-3. Wählen Sie auf der Registerkarte Nachricht die Option **Aktionen** > **Rückruf dieser Nachricht**aus.
+3. Wählen Sie auf der Registerkarte Nachricht die Option **Aktionen**  >  **Rückruf dieser Nachricht**aus.
 4. Wählen Sie **Ungelesene Kopien dieser Nachricht löschen** oder **Ungelesene Kopien löschen aus, und ersetzen Sie Sie durch eine neue Nachricht, und**wählen Sie dann **OK**aus.
 5. Wenn Sie eine Ersatznachricht senden, verfassen Sie die Nachricht, und wählen Sie dann **senden**aus.
 6. Der Erfolg oder Misserfolg eines Nachrichtenrückrufs hängt von den Einstellungen der Empfänger in Outlook ab.
@@ -39,7 +39,7 @@ Weitere Informationen, einschließlich der Vorgehensweise zum Überprüfen des R
 
 ***Suchen nach und Löschen von e-Mail-Nachrichten in Ihrer Organisation*** Zum Suchen nach und Löschen von e-Mail-Nachrichten in Ihrer Organisation ist es am einfachsten, wenn Sie ein globaler Administrator sind. Wenn Sie kein globaler Administrator sind, muss Ihr Konto der Rollengruppe "eDiscovery-Manager" oder der Rolle "Compliance Search Management" hinzugefügt werden. Wenn Sie Nachrichten löschen möchten, müssen Sie der Rollengruppe "Organisationsverwaltung" oder der Rolle "Such-und Lösch Verwaltung" beitreten. Berechtigungen für diese Rollen werden im [Security & Compliance Center](https://protection.office.com/)zugewiesen.
 
-1. [Erstellen Sie eine Inhaltssuche](https://docs.microsoft.com/office365/securitycompliance/content-search) , um die zu löschende Nachricht zu suchen.
+1. [Erstellen Sie eine Inhaltssuche](https://docs.microsoft.com/microsoft-365/compliance/content-search) , um die zu löschende Nachricht zu suchen.
 2. [Stellen Sie eine Verbindung mit der Security & Compliance Center PowerShell her](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
 Wenn Sie MFA verwenden, finden Sie unter [Connect to Microsoft 365 Security & Compliance Center PowerShell mit mehr](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps)stufiger Authentifizierung. 

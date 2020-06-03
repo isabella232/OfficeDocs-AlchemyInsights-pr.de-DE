@@ -11,16 +11,16 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9"
 - "1"
-ms.openlocfilehash: ef86d3c875dbc43910bfc4ce132e746a5395d800
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3a75ee42d93b1661f8d7fea0c7a1e87a4465b58b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682111"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505450"
 ---
 # <a name="add-or-remove-an-email-address-for-a-user"></a>Hinzufügen oder Entfernen einer e-Mail-Adresse für einen Benutzer
 
 [Führen Sie die folgenden Schritte](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) im Microsoft 365 Admin Center aus, um die ersten Schritte auszuführen.
 
- **Hinweis**: Sie können mehr als eine e-Mail-Adresse für einen Benutzer haben, aber zusätzliche *e-Mail-Aliase* können nur zum Empfangen von e-Mails verwendet werden. Wenn Sie e-Mails mit einem Alias senden müssen, erstellen Sie ein [freigegebenes Postfach](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox). Auf diese Weise erhalten Sie den Alias zum Senden und empfangen von e-Mails.
+ **Hinweis**: Sie können mehr als eine e-Mail-Adresse für einen Benutzer haben, aber zusätzliche *e-Mail-Aliase* können nur zum Empfangen von e-Mails verwendet werden. Wenn Sie e-Mails mit einem Alias senden müssen, erstellen Sie ein [freigegebenes Postfach](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox). Auf diese Weise erhalten Sie den Alias zum Senden und empfangen von e-Mails.
   
