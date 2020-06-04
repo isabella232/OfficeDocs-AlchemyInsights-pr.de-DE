@@ -1,0 +1,36 @@
+---
+title: Entfernen der großen Anlage
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "2713"
+- "9000768"
+- "9002385"
+- "4645"
+ms.openlocfilehash: 382ce7702e4726457ec802d1eec658477505e44e
+ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "44541990"
+---
+# <a name="remove-the-large-attachment"></a><span data-ttu-id="2d986-102">Entfernen der großen Anlage</span><span class="sxs-lookup"><span data-stu-id="2d986-102">Remove the large attachment</span></span>
+
+1. <span data-ttu-id="2d986-103">Wählen Sie in Outlook **senden/empfangen**  >  **Arbeiten offline**aus.</span><span class="sxs-lookup"><span data-stu-id="2d986-103">In Outlook, select **Send / Receive** > **Work Offline**.</span></span> 
+2. <span data-ttu-id="2d986-104">Wählen Sie im Navigationsbereich die Option **Postausgang**aus.</span><span class="sxs-lookup"><span data-stu-id="2d986-104">In the navigation pane, select **Outbox**.</span></span> <span data-ttu-id="2d986-105">Hier haben Sie folgende Möglichkeiten:</span><span class="sxs-lookup"><span data-stu-id="2d986-105">From here, you can:</span></span> 
+    - <span data-ttu-id="2d986-106">Löschen Sie die Nachricht (Wählen Sie Sie aus, und wählen Sie dann **Löschen**aus).</span><span class="sxs-lookup"><span data-stu-id="2d986-106">Delete the message (select it and then select **Delete**).</span></span>
+    - <span data-ttu-id="2d986-107">Ziehen Sie die Nachricht in den Ordner Entwürfe, doppelklicken Sie darauf, um Sie zu öffnen, und entfernen Sie die Anlage, wählen Sie Sie aus, und wählen Sie dann **Löschen**aus.</span><span class="sxs-lookup"><span data-stu-id="2d986-107">Drag the message to your Drafts folder, double-click to open it, and remove the attachment select it and then select **Delete**).</span></span>
+3. <span data-ttu-id="2d986-108">Wenn Sie eine Fehlermeldung erhalten, die besagt, dass Outlook versucht, die Nachricht zu übermitteln, schließen Sie Outlook.</span><span class="sxs-lookup"><span data-stu-id="2d986-108">If you receive an error that says Outlook is trying to transmit the message, close Outlook.</span></span> <span data-ttu-id="2d986-109">Es kann ein paar Augenblicke dauern, bis das Programm beendet ist.</span><span class="sxs-lookup"><span data-stu-id="2d986-109">It may take a few moments to exit.</span></span> <span data-ttu-id="2d986-110">Wenn Outlook nicht geschlossen wird, drücken Sie STRG + ALT + ENTF, und klicken Sie dann auf **Task-Manager starten**.</span><span class="sxs-lookup"><span data-stu-id="2d986-110">If Outlook doesn't close, press Ctrl+Alt+Delete and select **Start Task Manager**.</span></span> <span data-ttu-id="2d986-111">Wählen Sie im Task-Manager die Registerkarte **Prozesse** aus, Scrollen Sie nach unten zu Outlook. exe, und wählen Sie **Prozess beenden**aus.</span><span class="sxs-lookup"><span data-stu-id="2d986-111">In Task Manager, select the **Processes** tab, scroll down to outlook.exe, and select **End Process**.</span></span>
+4. <span data-ttu-id="2d986-112">Nachdem Outlook geschlossen wurde, starten Sie es neu, und wiederholen Sie die Schritte 2 und 3.</span><span class="sxs-lookup"><span data-stu-id="2d986-112">After Outlook closes, restart it and repeat steps 2 and 3.</span></span> 
+5. <span data-ttu-id="2d986-113">Nachdem Sie die Anlage entfernt haben, klicken Sie auf **senden/empfangen**  >  **Arbeiten offline** , um die Online Arbeit fortzusetzen.</span><span class="sxs-lookup"><span data-stu-id="2d986-113">After you remove the attachment, click **Send / Receive** > **Work Offline** to resume working online.</span></span> 
+
+<span data-ttu-id="2d986-114">Nachrichten werden auch im Postausgang festgehalten, wenn Sie auf **senden**klicken, aber keine Verbindung hergestellt ist.</span><span class="sxs-lookup"><span data-stu-id="2d986-114">Messages also get stuck in the Outbox when you click **Send**, but you are not connected.</span></span> <span data-ttu-id="2d986-115">Klicken Sie auf **senden/empfangen** und sehen Sie sich die Schaltfläche **Offline arbeiten** an.</span><span class="sxs-lookup"><span data-stu-id="2d986-115">Click **Send / Receive** and look at the **Work Offline** button.</span></span> <span data-ttu-id="2d986-116">Wenn es blau ist, sind Sie getrennt.</span><span class="sxs-lookup"><span data-stu-id="2d986-116">If it's blue, you're disconnected.</span></span> <span data-ttu-id="2d986-117">Klicken Sie darauf, um eine Verbindung herzustellen (die Schaltfläche wird weiß), und klicken Sie auf **Alle senden**.</span><span class="sxs-lookup"><span data-stu-id="2d986-117">Click it to connect (the button turns white) and click **Send All**.</span></span>
+ 
+ <span data-ttu-id="2d986-118">Ausführliche Informationen finden Sie unter:</span><span class="sxs-lookup"><span data-stu-id="2d986-118">For full details, see:</span></span>
+- [<span data-ttu-id="2d986-119">Video: senden oder Löschen einer Stuck-e-Mail</span><span class="sxs-lookup"><span data-stu-id="2d986-119">Video: Send or delete a stuck email</span></span>](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
