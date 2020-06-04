@@ -12,10 +12,10 @@ ms.custom:
 - "9000555"
 - "2405"
 ms.openlocfilehash: 970fe688becc30ea1eb644793388a316d1878f30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36559408"
 ---
 # <a name="troubleshoot-onenote-sync-issues"></a>Behandeln von Problemen mit OneNote-Synchronisierung
@@ -24,7 +24,7 @@ ms.locfileid: "36559408"
 
 Wenn das Notizbuch, das nicht synchronisiert wird, auf OneDrive oder in neueren Versionen von SharePoint gespeichert wird, öffnen Sie das Notizbuch in OneNote für das Internet (unter www.OneNote.com). Dies kann helfen, festzustellen, ob das Problem durch den Server oder durch OneNote verursacht wird.
 
-1. Klicken Sie in OneNote auf **Datei** > **Informationen**.
+1. Klicken Sie in OneNote auf **Datei**  >  **Informationen**.
 
 2. Klicken Sie mit der rechten Maustaste auf die unter dem Namen des betroffenen Notebooks angezeigte URL, und klicken Sie dann auf **Kopieren**.
 

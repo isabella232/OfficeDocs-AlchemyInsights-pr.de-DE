@@ -12,10 +12,10 @@ ms.custom:
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
 description: Ziel nicht mehr als 500 Wörter für einen Artikel.
 ms.openlocfilehash: 0a9d519b34dad0519cc2a1dbf6a8ed26e73b04d8
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36666191"
 ---
 # <a name="setting-up-project"></a>Einrichten des Projekts
@@ -24,4 +24,4 @@ ms.locfileid: "36666191"
 
 **Hinweis für Mac-Benutzer:** Das Projekt Produkt steht derzeit nicht für MacOS zur Verfügung. 
   
-Wenn während des Setups Fehler auftreten, [Installieren Sie Project mithilfe des Support-und](https://aka.ms/SaRA-ProjectSetupScenario)Wiederherstellungs-Assistenten.
+Wenn während des Setups Fehler auftreten, [Installieren Sie Project mithilfe des Support-und Wiederherstellungs-Assistenten](https://aka.ms/SaRA-ProjectSetupScenario).

@@ -14,15 +14,15 @@ ms.custom:
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
 ms.openlocfilehash: 7bd36c3954d12d3ee4ac624a2f827d8e5cd88082
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36665759"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Aktualisieren von DNS-Einträgen, um die Website beim aktuellen Hostinganbieter zu belassen
 
-1. Wechseln Sie im Microsoft 365 Admin Center zur Seite **Setup** > [Domänen](https://portal.office.com/adminportal/home#/Domains) , und wählen Sie in der Liste der Domänen die Domäne aus, die Sie für Ihre Website verwenden.
+1. Wechseln Sie im Microsoft 365 Admin Center zur Seite **Setup**  >  [Domänen](https://portal.office.com/adminportal/home#/Domains) , und wählen Sie in der Liste der Domänen die Domäne aus, die Sie für Ihre Website verwenden.
 
 2. Wählen Sie **+ Neuer benutzerdefinierter Eintrag** aus, und geben Sie Folgendes ein:
 
@@ -46,4 +46,4 @@ Darüber hinaus können Sie einen CNAME-Eintrag erstellen, damit Kunden Ihre Web
 
   - Geben Sie unter **Verweist auf die Adresse** den vollqualifizierten Domänennamen (Fully Qualified Domain Name, FQDN) Ihrer Website ein, beispielsweise contoso.com.
 
-2. Wählen Sie **Speichern** aus.
+2. Wählen Sie **Speichern**.

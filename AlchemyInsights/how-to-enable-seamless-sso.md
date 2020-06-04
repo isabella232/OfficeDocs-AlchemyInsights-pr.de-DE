@@ -13,10 +13,10 @@ ms.custom:
 - "1300012"
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
 ms.openlocfilehash: 3cf751bc42322067c4b7cd9b5facb933430f2b87
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36663858"
 ---
 # <a name="how-to-enable-seamless-sso"></a>Aktivieren von nahtlosem SSO
@@ -29,7 +29,7 @@ So stellen Sie sicher, dass Seamless-SSO ordnungsgemäß aktiviert wurde:
   
 1. Melden Sie sich beim [Azure Active Directory Administrative Center](https://aad.portal.azure.com) als globaler Administrator an.
 
-2. Wählen Sie im linken Bereich die Option **Azure Active Directory** aus.
+2. Wählen Sie auf der linken Seite die Option **Azure Active Directory**.
 
 3. Stellen Sie sicher, dass das nahtlose einmalige Anmelden **aktiviert**ist.
 
