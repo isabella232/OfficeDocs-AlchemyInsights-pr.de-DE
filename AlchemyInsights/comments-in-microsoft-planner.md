@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001717"
 - "3810"
-ms.openlocfilehash: 98246b52e21c7a24d04e18ce77d96b28c65e7909
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 5895b1f94325946ab165b97b68848068df1a81c2
+ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911219"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44563320"
 ---
 # <a name="comments-in-microsoft-planner"></a>Kommentare in Microsoft Planner
 
@@ -32,4 +32,4 @@ Hier finden Sie einige Antworten auf häufige Probleme im Zusammenhang mit Komme
 
 - **Gelöschte Benutzer erhalten E-Mails**: Wenn ein Benutzer vor dem Entfernen aus dem Plan einen Kommentar zu einer Aufgabe eingibt, wird er für jeden Kommentar, der für die Aufgabe erstellt wird, in den E-Mail-Thread einbezogen.
 
-Ausführliche Informationen zu Kommentaren in Microsoft Planner finden Sie unter [Funktionsweise von Microsoft Planner](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) und [Kommentieren von Aufgaben in Microsoft Planner](https://support.microsoft.com/office/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1).
+Ausführliche Informationen zu Kommentaren in Microsoft Planner finden Sie unter [Funktionsweise von Microsoft Planner](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) und [Kommentieren von Aufgaben in Microsoft Planner](https://support.microsoft.com/office/fd4aedde-7785-4cd0-96ee-122fbc9140e1).
