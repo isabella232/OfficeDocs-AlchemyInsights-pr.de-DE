@@ -10,23 +10,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: d37fd903c91c8cd6ac6137e815cb253f7edb4494
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 7c2ae754c86a3502092b622c55d18f3f4006bf8b
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912674"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582234"
 ---
-# <a name="restore-a-deleted-site"></a><span data-ttu-id="77532-102">Wiederherstellen einer gelöschten Website</span><span class="sxs-lookup"><span data-stu-id="77532-102">Restore a deleted site</span></span>
+# <a name="restore-a-deleted-site"></a><span data-ttu-id="d8458-102">Wiederherstellen einer gelöschten Website</span><span class="sxs-lookup"><span data-stu-id="d8458-102">Restore a deleted site</span></span>
 
-<span data-ttu-id="77532-103">Wenn ein Administrator eine SharePoint-Website löscht, wird er im Papierkorb der Websitesammlung abgelegt, wo er für 93 Tage aufbewahrt wird, bevor er endgültig gelöscht wird.</span><span class="sxs-lookup"><span data-stu-id="77532-103">When an admin deletes a SharePoint site, it's placed in the site collection Recycle Bin, where it's kept for 93 days before it's permanently deleted.</span></span> <span data-ttu-id="77532-104">So stellen Sie die Website wieder her:</span><span class="sxs-lookup"><span data-stu-id="77532-104">To restore the site:</span></span>
+<span data-ttu-id="d8458-103">Wenn ein Administrator eine SharePoint-Website löscht, wird er im Papierkorb der Websitesammlung abgelegt, wo er für 93 Tage aufbewahrt wird, bevor er endgültig gelöscht wird.</span><span class="sxs-lookup"><span data-stu-id="d8458-103">When an admin deletes a SharePoint site, it's placed in the site collection Recycle Bin, where it's kept for 93 days before it's permanently deleted.</span></span> <span data-ttu-id="d8458-104">So stellen Sie die Website wieder her:</span><span class="sxs-lookup"><span data-stu-id="d8458-104">To restore the site:</span></span>
   
-1. <span data-ttu-id="77532-105">Klicken Sie im neuen SharePoint Admin Center auf dem Menüband auf **Papierkorb** .</span><span class="sxs-lookup"><span data-stu-id="77532-105">In the new SharePoint admin center, click **Recycle Bin** on the ribbon.</span></span> 
+1. <span data-ttu-id="d8458-105">Klicken Sie im neuen SharePoint Admin Center auf dem Menüband auf **Papierkorb** .</span><span class="sxs-lookup"><span data-stu-id="d8458-105">In the new SharePoint admin center, click **Recycle Bin** on the ribbon.</span></span> 
     
-2. <span data-ttu-id="77532-106">Aktivieren Sie das Kontrollkästchen neben der Websitesammlung, die Sie wiederherstellen möchten.</span><span class="sxs-lookup"><span data-stu-id="77532-106">Select the check box next to the site collection you want to restore.</span></span>
+2. <span data-ttu-id="d8458-106">Aktivieren Sie das Kontrollkästchen neben der Websitesammlung, die Sie wiederherstellen möchten.</span><span class="sxs-lookup"><span data-stu-id="d8458-106">Select the check box next to the site collection you want to restore.</span></span>
     
-3. <span data-ttu-id="77532-107">Klicken Sie auf **Gelöschte Elemente wiederherstellen**.</span><span class="sxs-lookup"><span data-stu-id="77532-107">Click **Restore Deleted Items**.</span></span>
+3. <span data-ttu-id="d8458-107">Klicken Sie auf **Gelöschte Elemente wiederherstellen**.</span><span class="sxs-lookup"><span data-stu-id="d8458-107">Click **Restore Deleted Items**.</span></span>
     
-<span data-ttu-id="77532-108">Zum Wiederherstellen einer gelöschten Kommunikationswebsite können Sie das neue SharePoint Admin Center verwenden.</span><span class="sxs-lookup"><span data-stu-id="77532-108">To restore a deleted communication site, you can use the new SharePoint admin center.</span></span> <span data-ttu-id="77532-109">Andernfalls müssen Sie Microsoft PowerShell verwenden.</span><span class="sxs-lookup"><span data-stu-id="77532-109">Otherwise, you need to use Microsoft PowerShell.</span></span> <span data-ttu-id="77532-110">Zum Wiederherstellen einer Website, die zu einer Microsoft 365-Gruppe gehört, müssen Sie die Gruppe im Exchange Admin Center wiederherstellen.</span><span class="sxs-lookup"><span data-stu-id="77532-110">To restore a site that belongs to an Microsoft 365 group, you need to restore the group in the Exchange admin center.</span></span> <span data-ttu-id="77532-111">Gruppen können 30 Tage nach dem Löschen wiederhergestellt werden.</span><span class="sxs-lookup"><span data-stu-id="77532-111">Groups can be restored for 30 days after they're deleted.</span></span>
+<span data-ttu-id="d8458-108">Zum Wiederherstellen einer gelöschten Kommunikationswebsite können Sie das neue SharePoint Admin Center verwenden.</span><span class="sxs-lookup"><span data-stu-id="d8458-108">To restore a deleted communication site, you can use the new SharePoint admin center.</span></span> <span data-ttu-id="d8458-109">Andernfalls müssen Sie Microsoft PowerShell verwenden.</span><span class="sxs-lookup"><span data-stu-id="d8458-109">Otherwise, you need to use Microsoft PowerShell.</span></span> <span data-ttu-id="d8458-110">Zum Wiederherstellen einer Website, die zu einer Microsoft 365-Gruppe gehört, müssen Sie die Gruppe im Exchange Admin Center wiederherstellen.</span><span class="sxs-lookup"><span data-stu-id="d8458-110">To restore a site that belongs to a Microsoft 365 group, you need to restore the group in the Exchange admin center.</span></span> <span data-ttu-id="d8458-111">Gruppen können 30 Tage nach dem Löschen wiederhergestellt werden.</span><span class="sxs-lookup"><span data-stu-id="d8458-111">Groups can be restored for 30 days after they're deleted.</span></span>
   
 
