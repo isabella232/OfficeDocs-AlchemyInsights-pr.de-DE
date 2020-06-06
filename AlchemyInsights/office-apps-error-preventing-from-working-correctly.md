@@ -1,5 +1,5 @@
 ---
-title: 'Office Apps-Fehler: die APP hat einen Fehler ausgeführt, der verhindert, dass Sie ordnungsgemäß funktioniert.'
+title: 'Microsoft 365 apps-Fehler: die APP hat einen Fehler ausgeführt, der verhindert, dass Sie ordnungsgemäß funktioniert.'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2534"
 - "9000572"
-ms.openlocfilehash: 136dc4285d7aaa12289c2af0e515e0feab0466e9
-ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
+ms.openlocfilehash: 42d499b584f896a73cd94f3a3eaa60a1220ea420
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40886497"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576811"
 ---
-# <a name="office-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>Office Apps-Fehler: die APP hat einen Fehler ausgeführt, der verhindert, dass Sie ordnungsgemäß funktioniert.
+# <a name="microsoft-365-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>Microsoft 365 apps-Fehler: die APP hat einen Fehler ausgeführt, der verhindert, dass Sie ordnungsgemäß funktioniert.
 
 Versuchen Sie die folgenden Optionen, um diesen Fehler zu beheben:
 
@@ -31,6 +31,6 @@ Versuchen Sie die folgenden Optionen, um diesen Fehler zu beheben:
 
 Weitere Informationen finden Sie unter: 
 
-- [Fehler beim Öffnen Microsoft Office Apps](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
+- [Fehler beim Öffnen von Microsoft Microsoft 365-apps](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
 - [Ich erhalte einen Fehler "funktioniert nicht mehr" beim Starten von Office-Anwendungen auf meinem PC](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- [Behandeln von Problemen, die beim Starten oder Verwenden von Office-Apps auftreten](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)
+- [Behandeln von Problemen, die beim Starten oder Verwenden von Microsoft 365-apps auftreten](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)

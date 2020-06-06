@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: b629f24014a789b1f9847f62e725f726d4199027
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512011"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582738"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Vorschläge zur Lösung von Fehlern bei "nicht lizenzierten Produkten"
 
@@ -26,7 +26,7 @@ Versuchen Sie Folgendes, um Fehler zu einem "nicht lizenzierten Produkt" zu behe
 - Stellen Sie sicher, dass Sie über ein Abonnement verfügen, das Clientlizenzen wie Microsoft 365 apps for Business oder Business Premium zulässt, und [Stellen Sie sicher, dass dem Benutzer eine Lizenz zugewiesen wurde](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
 - Stellen Sie sicher, dass sich der Benutzer bei Office mit dem gleichen Konto anmeldet, dem die Lizenz zugewiesen ist.
 - Überprüfen Sie auf der [Seite Dienststatus](https://docs.microsoft.com/office365/enterprise/view-service-health) , ob bekannte Probleme mit dem Dienst vorliegen.
-- Überprüfen Sie die Firewall, die Antivirensoftware und die Proxyeinstellungen, um sicherzustellen, dass der Zugriff auf Office-Apps zum Internet nicht blockiert wird. Siehe [URLs und IP-Adressbereiche](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- Überprüfen Sie Ihre Firewall, Antivirensoftware und Proxyeinstellungen, um sicherzustellen, dass Microsoft 365-apps keinen Zugriff auf das Internet blockieren. Siehe [URLs und IP-Adressbereiche](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 Sie können auch die folgenden Problem Behandlungs Aktionen durchführen: 
 

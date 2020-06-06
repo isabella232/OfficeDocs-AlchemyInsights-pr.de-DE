@@ -1,5 +1,5 @@
 ---
-title: Probleme bei der Anmeldung bei Office-Apps
+title: Probleme bei der Anmeldung bei Microsoft 365-apps
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2556"
-ms.openlocfilehash: 08bb0a94066f071f2ba0e9c54378f0d479191496
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: 4658b4df8a48072b4cc9d72bf503d7911bb5126b
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938215"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579900"
 ---
-# <a name="blank-sign-in-screen-in-office-apps"></a>Leerer Anmeldebildschirm in Office-Apps
+# <a name="blank-sign-in-screen-in-microsoft-365-apps"></a>Leerer Anmeldebildschirm in Microsoft 365-apps
 
 Um dieses Problem zu beheben, versuchen Sie Folgendes:
 - Installieren Sie die neuesten Updates für [Windows](https://support.microsoft.com/help/4027667/windows-10-update) und [Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5).
-- Zurücksetzen Internet Explorer Optionen: Wechseln Sie zu **Tools** > **Internet Options** > **Advanced** > **Reset Internet Explorer Settings** (Beachten Sie, dass Sie benutzerdefinierte Einstellungen verlieren), und versuchen Sie dann erneut, sich bei Office anzumelden.
+- Zurücksetzen Internet Explorer Optionen: Wechseln Sie zu **Tools**  >  **Internet Options**  >  **Advanced**  >  **Reset Internet Explorer Settings** (Beachten Sie, dass Sie benutzerdefinierte Einstellungen verlieren), und versuchen Sie dann erneut, sich bei Office anzumelden.
 - Deaktivieren Sie den Windows Defender Application Guard (WDAG) oder eine ähnliche Firewall oder ein Antivirus-Programm:
     1. Wechseln Sie in der Systemsteuerung zu **Programme**, und wählen Sie dann **Windows-Funktionen ein-oder ausschalten aus**.
     2. Wenn der Windows Defender Application Guard aktiviert ist, deaktivieren Sie ihn.<br/>

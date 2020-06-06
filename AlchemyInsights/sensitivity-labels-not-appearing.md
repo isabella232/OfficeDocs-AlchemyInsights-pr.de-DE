@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 1326eca02044014a8e9c072fcc3e4cd3a41c7a9f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: df64022f6ad684e2af3eac080068536b7a167b74
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511651"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581014"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Nicht angezeigte Vertraulichkeits Bezeichnungen
 
 Mithilfe von Sensitivitäts Bezeichnungen können Sie Ihren vertraulichen Inhalt klassifizieren und schützen. Sie können im Microsoft 365 Compliance Center, im Microsoft 365 Security Center oder im Sicherheits & Compliance Center von Microsoft 365 unter Klassifizierung > Sensitivitäts Bezeichnungen erstellt werden. Weitere Informationen zu dieser Funktion finden Sie unter [Overview of Sensitivity Labels](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
-Wenn Sie Ihre Vertraulichkeits Bezeichnungen konfiguriert haben, diese aber nicht in den Office-Apps angezeigt werden, überprüfen Sie Folgendes:
+Wenn Sie Ihre Vertraulichkeits Bezeichnungen konfiguriert haben, diese aber nicht in den Microsoft 365-apps angezeigt werden, überprüfen Sie Folgendes:
 
 - Vergewissern Sie sich, dass die Vertraulichkeits Bezeichnung für die gewünschten Benutzer und Gruppen [veröffentlicht](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) wurde.
 

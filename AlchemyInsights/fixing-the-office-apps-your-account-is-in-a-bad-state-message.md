@@ -1,5 +1,5 @@
 ---
-title: Beheben der Office-Apps, die Ihr Konto in einer fehlerhaften Statusmeldung befindet
+title: Beheben der Microsoft 365-apps Ihr Konto befindet sich in einer fehlerhaften Statusmeldung
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2558"
 - "9000571"
-ms.openlocfilehash: 5592158c24ae55d712018d6886670fe8e9a794c3
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 264307f23a349ef4ebf40f48ddbcddd3216a4927
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44499222"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580116"
 ---
-# <a name="fixing-the-office-apps-your-account-is-in-a-bad-state-error"></a>Fehler beim Beheben der Office-Apps "Ihr Konto ist in einem schlechten Zustand"
+# <a name="fixing-the-microsoft-365-apps-your-account-is-in-a-bad-state-error"></a>Beheben von Microsoft 365-Apps "Ihr Konto ist in einem fehlerhaften Zustand"
 
 Um diesen Fehler zu beheben, führen Sie die folgenden Optionen auf dem betroffenen Computer aus:
 

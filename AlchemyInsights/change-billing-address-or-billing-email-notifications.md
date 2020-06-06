@@ -12,12 +12,12 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1200012"
 - "4716"
-ms.openlocfilehash: be56dfcdc65cf51fa66ef7c98dab5f0d78bbb21b
-ms.sourcegitcommit: e95cc57126a28766adec8442ac3a79acb485a1b4
+ms.openlocfilehash: 19db06fea287409e86c67a810ac57ca77004b993
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43198808"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580728"
 ---
 # <a name="change-billing-address-or-billing-email-notifications"></a>Ändern von Rechnungsadressen-oder Rechnungs-e-Mail-Benachrichtigungen
 
@@ -41,4 +41,4 @@ ms.locfileid: "43198808"
 
 4. Geben Sie im Feld **Alternative e-Mail** -Adresse die Alternative e-Mail-Adresse ein, die Sie verwenden möchten, und klicken Sie dann auf **Speichern**.
 
-Weitere Informationen zu Adress-und Benachrichtigungs Änderungen finden Sie unter [Ändern der Rechnungsadressen für Office 365 für Unternehmen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
+Weitere Informationen zu Adress-und Benachrichtigungs Änderungen finden Sie unter [Ändern der Rechnungsadressen für Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).

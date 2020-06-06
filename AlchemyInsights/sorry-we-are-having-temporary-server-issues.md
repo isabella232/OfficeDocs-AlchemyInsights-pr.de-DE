@@ -1,5 +1,5 @@
 ---
-title: Beheben von Office-Apps Sorry, wir haben eine temporäre Server Problemmeldung
+title: Beheben von Microsoft 365-apps Sorry, wir haben eine temporäre Server Problemmeldung
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: a1ac62f3587e318d563cfea1df8db23b720358a6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6db04a437de8e50af349b5c690791981ae872f14
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764116"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582702"
 ---
-# <a name="fixing-the-office-apps-sorry-we-are-having-temporary-server-issues-message"></a>Beheben der Office-Apps "Sorry, wir haben temporäre Server Probleme"-Nachricht
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Beheben der Microsoft 365-Apps "Sorry, wir haben temporäre Server Probleme"-Nachricht
 
 Wenn Sie diese Meldung erhalten, versuchen Sie Folgendes:
 
-1. Überprüfen Sie Ihre Firewall, Antivirensoftware und Proxyeinstellungen, um sicherzustellen, dass der Internet Zugriff auf Office-Apps nicht blockiert wird. Siehe [URLs und IP-Adressbereiche](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Überprüfen Sie Ihre Firewall, Antivirensoftware und Proxyeinstellungen, um sicherzustellen, dass der Internet Zugriff auf Microsoft 365-apps nicht blockiert wird. Siehe [URLs und IP-Adressbereiche](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Wechseln Sie zu **Start** > **Ausführen**, und geben Sie **Services. msc**ein. Stellen Sie sicher, dass die folgenden Dienste installiert sind:
+2. Wechseln Sie zu **Start**  >  **Ausführen**, und geben Sie **Services. msc**ein. Stellen Sie sicher, dass die folgenden Dienste installiert sind:
     - Mit dem Netzwerk verbundene Geräte werden automatisch eingerichtet
     - Netzwerklisten Dienst
     - Netzwerkstandort Erkennung

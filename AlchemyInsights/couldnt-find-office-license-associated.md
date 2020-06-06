@@ -1,5 +1,5 @@
 ---
-title: Fixieren von Office-Apps konnte keine Office-Lizenzen finden zugeordnete Nachricht
+title: Fixieren von Microsoft 365-apps konnten keine Office-Lizenzen finden. zugeordnete Nachricht
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3421"
 - "9001426"
-ms.openlocfilehash: 887be4bee2bd1562bdc3b29783e9deafe47d8d57
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 65ffae1a784f841cb08a5df52b02671a4526d9d4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505866"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580440"
 ---
-# <a name="fixing-the-office-apps-couldnt-find-office-licenses-associated-message"></a>Beheben der Office-Apps "could not find Office licenses Associated"-Nachricht
+# <a name="fixing-the-microsoft-365-apps-couldnt-find-office-licenses-associated-message"></a>Beheben der Nachricht "Office-Lizenzen konnten nicht gefunden werden" für Microsoft 365-apps
 
 Wenn Sie diese Meldung erhalten, versuchen Sie Folgendes:
 
-1. Überprüfen Sie Ihre Firewall, Antivirensoftware und Proxyeinstellungen, um sicherzustellen, dass der Internet Zugriff auf Office-Apps nicht blockiert wird. Weitere Informationen finden Sie unter [Microsoft 365-URLs und IP-Adressbereiche](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Überprüfen Sie Ihre Firewall, Antivirensoftware und Proxyeinstellungen, um sicherzustellen, dass der Internet Zugriff auf Microsoft 365-apps nicht blockiert wird. Weitere Informationen finden Sie unter [Microsoft 365-URLs und IP-Adressbereiche](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 2. Entfernen Sie [die Office-Lizenz](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) für den betroffenen Benutzer, und weisen Sie Sie neu zu. 
 3. Öffnen Sie eine Office-App, und [melden Sie sich](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) bei vorhandenen Benutzerkonten ab.
 4. Wechseln Sie zu Windows-Einstellungen > **Konten**  >  **e-Mail-& Konten**, und entfernen Sie alle Arbeits Konten mit Ausnahme des betroffenen Kontos.
