@@ -1,5 +1,5 @@
 ---
-title: Meldung zu Office-Apps – konnte die zugeordneten Office-Lizenzen nicht finden
+title: Meldung zu Microsoft 365-Apps – konnte die zugeordneten Office-Lizenzen nicht finden
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505090"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581650"
 ---
-# <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>Meldung zu Office-Apps – konnte die zugeordneten Office-Lizenzen nicht finden
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Meldung zu Microsoft 365-Apps – konnte die zugeordneten Office-Lizenzen nicht finden
 
 Um diesen Fehler zu beheben, versuchen Sie Folgendes:
 
@@ -38,7 +38,7 @@ Wenn das Problem weiterhin besteht, führen Sie die folgenden Schritte aus:
 
 - Setzen Sie den Office-Aktivierungsstatus zurück. Siehe [Aktivierungsstatus von Microsoft 365 Apps für Unternehmen zurücksetzen](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Überprüfen Sie Ihre Firewall-, Antivirensoftware- und Proxyeinstellungen, um sich zu vergewissern, dass sie nicht den Zugriff auf das Internet für Office-Apps blockieren. 
+- Überprüfen Sie Ihre Firewall-, Antivirensoftware- und Proxyeinstellungen, um sich zu vergewissern, dass sie nicht den Zugriff auf das Internet für Microsoft 365-Apps blockieren. 
 
 Zusätzliche Lösungen zur Problembehandlung finden Sie unter:
 

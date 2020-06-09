@@ -1,5 +1,5 @@
 ---
-title: Die Benachrichtigung "Abonnement konnte nicht überprüft werden" in Office-Apps
+title: Die Benachrichtigung "Abonnement konnte nicht überprüft werden" in Microsoft 365-Apps
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1904"
-ms.openlocfilehash: 95045bbcc096323fff551acbb2c25868b420467f
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: f2ee65f74bef00c25af7d89608ab23f7a76bbf6d
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788773"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580404"
 ---
-# <a name="couldnt-verify-subscription-notice-in-office-apps"></a>Die Benachrichtigung "Abonnement konnte nicht überprüft werden" in Office-Apps
+# <a name="couldnt-verify-subscription-notice-in-microsoft-365-apps"></a>Die Benachrichtigung "Abonnement konnte nicht überprüft werden" in Microsoft 365-Apps
 
 - Überprüfen Sie, ob Ihr [Abonnementstatus](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) gültig ist, dem betroffenen Benutzer eine [gültige Lizenz zugewiesen wurde](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) und er mit dem Internet verbunden ist.
 
@@ -28,7 +28,7 @@ ms.locfileid: "43788773"
 
 - Führen Sie die [Aktivierungsproblembehandlung](https://aka.ms/SARA-OfficeActivation-Alchemy) aus, und starten Sie den Computer neu.
 
-- Auf dem betroffenen Computer [setzen Sie anschließend den Office-Aktivierungsstatus zurück](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- Auf dem betroffenen Computer [setzen Sie anschließend den Office-Aktivierungsstatus zurück](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Ausführliche Anweisungen finden Sie unter: 
 

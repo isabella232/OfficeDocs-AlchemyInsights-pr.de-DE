@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: 6084b3b48b262b36dbab8d5924e271ad98678793
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: bc7301a5538128fb1a3bab8e9c8bf1ee84e509c2
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789761"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580044"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>Installieren von Office-Client-Apps auf einem PC oder Mac
 
@@ -24,9 +24,9 @@ Um Office-Client-Apps installieren zu können, stellen Sie sicher, dass Sie übe
 
 **Bitte beachten**: [Office Home und Business](https://products.office.com/home-and-business) ist ein [Office Home](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA)-Produkt und nicht Teil eines Business-Abonnements. Project Online Essentials beinhaltet nicht die Desktopversion von Project und somit ist auch keine Installation erforderlich. Benutzer von Visio Plan 1 können auf Visio für das Web zugreifen, da der Plan keine Visio-Desktop-App beinhaltet. Desktop-Apps für Project und Visio sind für Mac nicht verfügbar.
 
-Wenn Sie über ein-Abonnement verfügen, das Office-Apps umfasst, wird keine Option zum Installieren dieser Apps angezeigt, es sei denn, Sie verfügen über eine [zugewiesene Lizenz](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Wenn Sie der für die Zuweisung von Lizenzen zuständige Office 365-Administrator sind, lesen Sie bitte [Benutzern Lizenzen zuweisen](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). Wählen Sie zudem in den [Einstellungen für den Office-Softwaredownload](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) aus, ob Benutzer Office-Apps auf ihren eigenen Geräten installieren können.
+Wenn Sie über ein-Abonnement verfügen, das Microsoft 365-Apps umfasst, wird keine Option zum Installieren dieser Apps angezeigt, es sei denn, Sie verfügen über eine [zugewiesene Lizenz](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Wenn Sie der für die Zuweisung von Lizenzen zuständige Office 365-Administrator sind, lesen Sie bitte [Benutzern Lizenzen zuweisen](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). Wählen Sie zudem in den [Einstellungen für den Office-Softwaredownload](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) aus, ob Benutzer Office-Apps auf ihren eigenen Geräten installieren können.
 
-**Hinweis**: Im [Bericht zu den Office-Aktivierungen](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) wird angezeigt, welche Benutzer ihre Office-Apps auf mindestens einem Gerät installiert und aktiviert haben.
+**Hinweis**: Im [Bericht zu den Office-Aktivierungen](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) wird angezeigt, welche Benutzer Microsoft 365-Apps auf mindestens einem Gerät installiert und aktiviert haben.
 
 Fordern Sie dann jeden Benutzer auf, folgende Schritte auszuführen:
 

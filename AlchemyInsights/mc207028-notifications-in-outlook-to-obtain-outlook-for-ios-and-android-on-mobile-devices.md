@@ -13,12 +13,12 @@ ms.custom:
 - "4992"
 - "9002628"
 - "5047"
-ms.openlocfilehash: 3312b7f1829c8a7036a3a871193fe1e5d83c0b3c
-ms.sourcegitcommit: 312ed19d236006962f1b891d2961014959ab1898
+ms.openlocfilehash: 0df2aad0123e9f7c23a6391a2f7dfaedb09d3ab6
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43812621"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579684"
 ---
 # <a name="mc207028---notifications-in-outlook-to-obtain-outlook-for-ios-and-android-on-mobile-devices"></a>MC207028 – Benachrichtigungen in Outlook, um Outlook für iOS und Android auf mobilen Geräten zu erhalten
 
@@ -26,6 +26,6 @@ Sie brauchen nichts zu unternehmen, um sich auf diese Änderung vorzubereiten. W
 
 Anforderungen werden innerhalb von sieben Tagen wirksam. Sie erhalten keine Benachrichtigung darüber, dass die Anforderung verarbeitet wurde. Wenn in den Produkten 7 Tage nach dem Einreichen des Formulars weiterhin Empfehlungen angezeigt werden, wenden Sie sich an den Support.
 
-Dank der tiefen Integration in OneDrive, Teams und Office-Apps ist Outlook die beste Methode für Office 365 auf einem mobilen Gerät. Viele Kunden sind sich nicht bewusst, dass sie ohne zusätzliche Kosten zusätzliche Funktionen und kommerzielle Nutzungsrechte für Outlook Mobile als Teil ihrer Office 365- und Microsoft 365-Dienste erhalten können.
+Dank der tiefen Integration in OneDrive, Teams und Microsoft 365-Apps ist Outlook die beste Methode für Office 365 auf einem mobilen Gerät. Viele Kunden sind sich nicht bewusst, dass sie ohne zusätzliche Kosten zusätzliche Funktionen und kommerzielle Nutzungsrechte für Outlook Mobile als Teil ihrer Office 365- und Microsoft 365-Dienste erhalten können.
 
 Benutzer, die Outlook mit Ihren Geschäfts-, Schul- oder Unikonten verwenden, aber Outlook Mobile nicht verwenden, werden möglicherweise bald die Mitteilung erhalten, dass sie Outlook für ihr Smartphone abrufen können. Wenn sie diese Mitteilung verwerfen oder beginnen, Outlook Mobile zu verwenden, wird die Benachrichtigung nicht erneut angezeigt. Ein kurzer Link wird bereitgestellt, um das Herunterladen der App auf das mobile Gerät ihrer Wahl zu vereinfachen.

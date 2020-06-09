@@ -1,5 +1,5 @@
 ---
-title: 'Meldung in Office-Apps: "Es ist ein Problem mit Ihrem Abonnement aufgetreten"'
+title: 'Meldung in Microsoft 365-Apps: "Es ist ein Problem mit Ihrem Abonnement aufgetreten"'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 6b370dd647bbe93c435b2c1853c16906c4c910f0
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 23617d5ad336f3811022b007a78bb4bb7db74cf5
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512445"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581554"
 ---
-# <a name="office-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Meldung in Office-Apps: "Es ist ein Problem mit Ihrem Abonnement aufgetreten"
+# <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Meldung in Microsoft 365-Apps: "Es ist ein Problem mit Ihrem Abonnement aufgetreten"
 
 - Wenn Sie kürzlich zu einem anderen Abonnement/Plan gewechselt sind, führen Sie die Schritte unter [Nach einem Wechsel von Plänen wird in Office ein "Kontohinweis" angezeigt](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d) aus, um Office neu zu installieren oder zu aktualisieren.
 
@@ -30,7 +30,7 @@ ms.locfileid: "44512445"
 
 - Führen Sie die [Aktivierungsproblembehandlung](https://aka.ms/SARA-OfficeActivation-Alchemy) aus, und starten Sie den Computer neu.
 
-- Auf dem betroffenen Computer [setzen Sie anschließend den Office-Aktivierungsstatus zurück](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- Auf dem betroffenen Computer [setzen Sie anschließend den Office-Aktivierungsstatus zurück](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Ausführliche Anweisungen finden Sie unter: 
 

@@ -1,5 +1,5 @@
 ---
-title: Hinweis "Abonnement abgelaufen" in Office-Apps
+title: Hinweis "Abonnement abgelaufen" in Microsoft 365-Apps
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: 19ec94291497cd6cf3758e1ee2bb3c7c3631f001
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: be5fece97854e4967133f74cfb51728dab853b5f
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789265"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576703"
 ---
-# <a name="subscription-expired-notice-in-office-apps"></a>Hinweis "Abonnement abgelaufen" in Office-Apps
+# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Hinweis "Abonnement abgelaufen" in Microsoft 365-Apps
 
 - Auf der Seite [Service Health](https://docs.microsoft.com/office365/enterprise/view-service-health) werden mögliche bekannte Probleme mit dem Dienst angezeigt.
 
@@ -30,7 +30,7 @@ ms.locfileid: "43789265"
 
 - Führen Sie die [Aktivierungsproblembehandlung](https://aka.ms/SARA-OfficeActivation-Alchemy) aus, und starten Sie den Computer neu.
 
-- Auf dem betroffenen Computer [setzen Sie anschließend den Office-Aktivierungsstatus zurück](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- Auf dem betroffenen Computer [setzen Sie anschließend den Office-Aktivierungsstatus zurück](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Ausführliche Anweisungen finden Sie unter: 
 
