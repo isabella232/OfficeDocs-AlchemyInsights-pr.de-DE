@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "2509"
-ms.openlocfilehash: ffa91eaf333792af149feda25f9a377ed591b597
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 5ec5277a758fc5171c846266787c2fbcf751f21c
+ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010217"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44617894"
 ---
 # <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Bereitstellen von Teams als eigenständig oder mit neuen oder vorhandenen Office-Installationen
 
 Microsoft Teams ist jetzt im Rahmen ***neuer Installationen*** von Microsoft 365 apps for Enterprise, Microsoft 365 apps for Business und Office für Mac enthalten. Weitere Informationen finden Sie unter [wann werden Microsoft Teams in neue Office-Installationen aufgenommen?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Außerdem werden Microsoft Teams, beginnend mit der Version 1906 im monatlichen Kanal, zu vorhandenen Installationen von Microsoft 365 apps for Enterprise (und Microsoft 365 apps for Business) auf Geräten mit Windows ***hinzugefügt*** , wenn Sie die vorhandene Installation auf die neueste Version aktualisieren. Weitere Informationen finden Sie unter [Was ist mit vorhandenen Installationen von Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+Darüber hinaus werden Microsoft Teams ab Version 1906 im aktuellen Kanal zu vorhandenen Installationen von Microsoft 365 apps for Enterprise (und Microsoft 365 apps for Business) auf Geräten mit Windows ***hinzugefügt*** , wenn Sie die vorhandene Installation auf die neueste Version aktualisieren. Weitere Informationen finden Sie unter [Was ist mit vorhandenen Installationen von Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
 > [!NOTE]
-> Wenn Sie nicht auf diesen Rollout Zeitplan warten möchten, können Sie Microsoft Teams als eigenständig für Ihre Benutzer bereitstellen, indem Sie  [diese Anweisungen befolgen](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)oder Ihre Benutzer Teams für sich [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads)selbst installieren lassen.
+> Wenn Sie nicht auf diesen Rollout Zeitplan warten möchten, können Sie Microsoft Teams als eigenständig für Ihre Benutzer bereitstellen, indem Sie [diese Anweisungen befolgen](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)   oder Ihre Benutzer Teams für sich selbst installieren lassen  [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads) .
 
 Wenn Ihre Organisation nicht bereit ist, Teams bereitzustellen, haben wir die Schritte, die Sie ausführen können, um Teams von [neuen](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) oder [vorhandenen](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) Installationen von Office ***auszuschließen*** . Wenn Sie möchten, dass Teams installiert werden, Sie aber nicht möchten, dass Teams nach der Installation automatisch für den Benutzer gestartet werden, finden Sie unter [verhindern, dass Microsoft Teams automatisch nach der Installation](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)gestartet wird.
 
