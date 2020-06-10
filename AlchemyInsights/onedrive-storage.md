@@ -14,26 +14,17 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: 625040199ad94749870efd3654af1525dd9c3bca
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: de352e3576665cd3a758ecd488b48f625308ad3d
+ms.sourcegitcommit: 4aa64fe36c18654ebeadf8f34d7a3ff24c3aa230
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049048"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44667847"
 ---
 # <a name="manage-your-onedrive-storage"></a>Verwalten des OneDrive-Speichers
 
-OneDrive Speicherplatz wird nicht auf das Gesamtkontingent des Mandanten gezählt. 
+Sie können Ihre OneDrive für Unternehmen verwalten, um zu sehen, wie viel Speicherplatz Sie verwenden, und um Speicherplatz freizugeben.  Weitere Informationen finden Sie unter den Links unten.
 
-Erfahren Sie, [wie OneDrive Speicherplatz pro Benutzer/Plan zugewiesen wird](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).
-
-Erfahren [Sie, wie viel Speicherplatz Sie in Ihrem OneDrive verwenden](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).
-
-Erfahren Sie [, wie Sie OneDrive-Speicherkontingent mithilfe von PowerShell abrufen](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).
-
-Microsoft stellt anfänglich 1 TB pro Benutzer bereit, die Administratoren pro Benutzer auf bis zu 5 TB anheben können. Hier erfahren Sie, wie Sie [den Standardspeicherplatz für OneDrive-Benutzer festlegen](https://docs.microsoft.com/onedrive/set-default-storage-space).
-
-Hier erfahren Sie [, wie Sie den OneDrive-Speicherplatz eines bestimmten Benutzers ändern](https://docs.microsoft.com/onedrive/change-user-storage).
-
-Erfahren Sie, [wie globale Administratoren OneDrive-Speicherkontingent für alle Benutzer mit PowerShell festlegen können](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).
-  
+- [Verwalten des OneDrive für Unternehmen Speichers](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
+- [Ändern des OneDrive-Speicherplatzes eines bestimmten Benutzers](https://docs.microsoft.com/onedrive/change-user-storage)
+- [Festlegen des Standardspeicherplatzes für OneDrive-Benutzer](https://docs.microsoft.com/onedrive/set-default-storage-space)
