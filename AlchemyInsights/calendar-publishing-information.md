@@ -13,15 +13,19 @@ ms.custom:
 - "613"
 - "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
-ms.openlocfilehash: 0fcb5552bc072cf3647e32e663ec7681212dc599
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0ed8826ec8b6d867f22abbc2cd33776e8db271ab
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506154"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840915"
 ---
-# <a name="calendar-publishing-information"></a><span data-ttu-id="ac71b-102">Kalender Veröffentlichungsinformationen</span><span class="sxs-lookup"><span data-stu-id="ac71b-102">Calendar publishing information</span></span>
+# <a name="enable-calendar-sharing-using-the-microsoft-365-admin-center"></a><span data-ttu-id="9c28d-102">Aktivieren der Kalenderfreigabe mit dem Microsoft 365 Admin Center</span><span class="sxs-lookup"><span data-stu-id="9c28d-102">Enable calendar sharing using the Microsoft 365 admin center</span></span>
 
-- <span data-ttu-id="ac71b-103">Microsoft 365-Administratoren können die Kalenderveröffentlichung und die Kalenderfreigabe für eine Organisation aktivieren oder deaktivieren.</span><span class="sxs-lookup"><span data-stu-id="ac71b-103">Microsoft 365 admins can enable or disable calendar publishing and calendar sharing for an organization.</span></span> <span data-ttu-id="ac71b-104">Weitere Informationen finden Sie unter [Aktivieren der Kalenderveröffentlichung, damit Personen Informationen freigeben](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) und [Kalender für externe Benutzer freigeben](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)können.</span><span class="sxs-lookup"><span data-stu-id="ac71b-104">For more information, see [Turn on calendar publishing so people can share information](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) and [Share calendars with external users](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users).</span></span>
+1. <span data-ttu-id="9c28d-103">Navigieren Sie im Admin Center zu **Einstellungen**   >   **org Settings**.</span><span class="sxs-lookup"><span data-stu-id="9c28d-103">In the admin center, go to  **Settings**  >  **Org Settings**.</span></span>
+2. <span data-ttu-id="9c28d-104">Wählen Sie auf der Registerkarte **Dienste** die Option **Kalender**aus.</span><span class="sxs-lookup"><span data-stu-id="9c28d-104">On the  **Services**  tab, select  **Calendar**.</span></span>
+3. <span data-ttu-id="9c28d-105">Wählen Sie auf der daraufhin geöffneten **Kalender** Seite aus, ob Ihre Benutzer ihre Kalender für Personen außerhalb Ihrer Organisation freigeben möchten, die über Microsoft 365 oder Exchange verfügen.</span><span class="sxs-lookup"><span data-stu-id="9c28d-105">On the  **Calendar**  page that opens, choose whether you want to let your users share their calendars with people outside of your organization who have Microsoft 365 or Exchange.</span></span>
+4. <span data-ttu-id="9c28d-106">Wählen Sie aus, ob Sie anonymen Benutzern (Benutzern ohne Anmeldeinformationen) den Zugriff auf Kalender über eine e-Mail-Einladung erlauben möchten.</span><span class="sxs-lookup"><span data-stu-id="9c28d-106">Choose whether you want to allow anonymous users (users without logon credentials) to access calendars via an email invitation.</span></span>
+5. <span data-ttu-id="9c28d-107">Wählen Sie den Typ der Kalenderinformationen aus, die für Benutzer verfügbar gemacht werden sollen.</span><span class="sxs-lookup"><span data-stu-id="9c28d-107">Choose what type of calendar information to make available to users.</span></span> <span data-ttu-id="9c28d-108">Sie können alle Informationen zulassen oder nur auf Zeit, Zeit, Betreff und Ort beschränken.</span><span class="sxs-lookup"><span data-stu-id="9c28d-108">You can allow all information, or limit it to time only or time, subject, and location only.</span></span>
 
-- <span data-ttu-id="ac71b-105">Outlook-Benutzer können Ihre eigenen Kalender freigeben.</span><span class="sxs-lookup"><span data-stu-id="ac71b-105">Outlook users can share their own calendars.</span></span> <span data-ttu-id="ac71b-106">Weitere Informationen finden Sie unter [Freigeben eines Outlook-Kalenders für andere Personen](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).</span><span class="sxs-lookup"><span data-stu-id="ac71b-106">For more information, see [Share an Outlook calendar with other people](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).</span></span>
+<span data-ttu-id="9c28d-109">Weitere Informationen: [Freigeben von Kalendern für externe Benutzer](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)</span><span class="sxs-lookup"><span data-stu-id="9c28d-109">More Information: [Share calendars with external users](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)</span></span>
