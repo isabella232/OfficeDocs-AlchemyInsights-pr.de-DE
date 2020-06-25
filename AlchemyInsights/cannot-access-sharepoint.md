@@ -12,15 +12,15 @@ ms.assetid: ''
 ms.custom:
 - "9000158"
 - "1676"
-ms.openlocfilehash: 5317518d0a27dfdd4d38b4e536d8bd0662b976fe
-ms.sourcegitcommit: f5a3b2f436b00e18cbf337044ea8818726517651
+ms.openlocfilehash: 74f8e9009dd314aab5ce45e9aeff3e3511e4e0c9
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/18/2020
-ms.locfileid: "44278819"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840892"
 ---
 # <a name="cannot-access-sharepoint"></a>Kein Zugriff auf SharePoint möglich
 
-Es gibt mehrere Gründe, warum Microsoft SharePoint oder Microsoft OneDrive möglicherweise unzugänglich wird. Wenn Sie nicht auf SharePoint Online zugreifen können, führen Sie die folgenden Schritte aus, um dieses Problem zu beheben.
+Es gibt mehrere Gründe, warum SharePoint oder OneDrive möglicherweise unzugänglich wird. Wenn Sie nicht auf SharePoint oder OneDrive zugreifen können, führen Sie die folgenden Schritte aus, um dieses Problem zu beheben.
 
-- [Zugriff auf SharePoint Online nicht möglich](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
+- [Zugriff auf SharePoint oder OneDrive nicht möglich](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
