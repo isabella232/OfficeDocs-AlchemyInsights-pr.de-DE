@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2547"
 - "9000672"
-ms.openlocfilehash: 185e8787454efc38f378cce6fd7bea06d453bc92
-ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
+ms.openlocfilehash: 246c3b50df856c16ea5237adc43d2126bb5b48b9
+ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "41969443"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45148036"
 ---
 # <a name="restore-a-deleted-form"></a>Wiederherstellen eines gelöschten Formulars
 
@@ -24,8 +24,8 @@ Wenn Sie ein Formular versehentlich in Microsoft Forms gelöscht haben, können 
 
 Nur der Besitzer des Formulars kann es wiederherstellen. Wenn das Konto des Formular Besitzers deaktiviert oder aus dem Mandanten entfernt wurde, kann nur der globale Administrator das Formular wiederherstellen. Der globale Administrator muss über eine Formular Lizenz verfügen, um eine Wiederherstellung durchzuführen. Nur Formulare, die innerhalb von 30 Tagen nach dem deaktivieren oder Entfernen des Benutzerkontos aus dem Mandanten erstellt wurden, können wiederhergestellt werden.
 
-Wenn Sie der globale Administrator des Mandanten sind und ein Formular aus einem gelöschten oder deaktivierten Konto wiederherstellen möchten, ersetzen Sie [e-Mail-Adresse] durch die e-Mail-Adresse des gelöschten oder deaktivierten Benutzers in der folgenden URL: ** https://forms.office.com/Pages/delegatepage.aspx?originalowner=[e-Mail-Adresse]** Wenn Ihre e- **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com**Mail-Adresse beispielsweise JohnDoe@contoso.com lautet, lautet die URL:. 
+Wenn Sie der globale Administrator des Mandanten sind und ein Formular aus einem gelöschten oder deaktivierten Konto wiederherstellen möchten, ersetzen Sie [e-Mail-Adresse] durch die e-Mail-Adresse des gelöschten oder deaktivierten Benutzers in der folgenden URL: ** https://forms.office.com/Pages/delegatepage.aspx?originalowner= [e-Mail-Adresse]** Wenn Ihre e-Mail-Adresse beispielsweise JohnDoe@contoso.com lautet, lautet die URL: **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** . 
 
-Wenn Sie Zugriff auf die gelöschten Formulare des Benutzers haben, wählen Sie das Formular aus, das Sie migrieren möchten, und wählen Sie dann **Weitere Formularaktionen** > :**Bewegung**aus.
+Wenn Sie Zugriff auf die gelöschten Formulare des Benutzers haben, wählen Sie das Formular aus, das Sie migrieren möchten, und wählen Sie dann **Weitere Formularaktionen**:  >  **Bewegung**aus.
 
-Wenn Sie ein Formular wiederherstellen möchten, in dem es gelöscht wurde und der Benutzer aus der Organisation entfernt wurde, kann ein globaler Administrator auswählen, ob der Benutzer in Office 365 wiederhergestellt, das Kennwort für diesen Benutzer zurückgesetzt und dann als dieser Benutzer angemeldet wurde, auf das Formular zugreifen, um es in anot zu verlagern. Ihr aktiver Benutzer. 
+Wenn Sie ein Formular wiederherstellen möchten, in dem es gelöscht wurde und der Benutzer aus der Organisation entfernt wurde, kann ein globaler Administrator auswählen, ob der Benutzer wiederhergestellt, das Kennwort für diesen Benutzer zurückgesetzt und dann als dieser Benutzer angemeldet wurde, auf das Formular zugreifen, um es zu einem anderen aktiven Benutzer zu migrieren. 
