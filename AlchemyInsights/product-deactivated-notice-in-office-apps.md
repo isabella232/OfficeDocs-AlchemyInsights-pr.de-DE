@@ -1,5 +1,5 @@
 ---
-title: Hinweis auf deaktivierte Produkte in Office-Apps
+title: Hinweis "Produkt deaktiviert" in Microsoft 365-Apps
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1906"
-ms.openlocfilehash: d9e036b2b2157b4283992389a1fb741fddc15755
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: efc63ebbd585e7eb78f6ba41db79883671b2e779
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43785374"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581802"
 ---
-# <a name="product-deactivated-notice-in-office-apps"></a>Hinweis auf „deaktivierte Produkte“ in Office-Apps
+# <a name="product-deactivated-notice-in-microsoft-365-apps"></a>Hinweis "Produkt deaktiviert" in Microsoft 365-Apps
 
 - Auf der Seite [Service Health](https://docs.microsoft.com/office365/enterprise/view-service-health) werden mögliche bekannte Probleme mit dem Dienst angezeigt.
 
@@ -30,7 +30,7 @@ ms.locfileid: "43785374"
 
 - Führen Sie die [Aktivierungsproblembehandlung](https://aka.ms/SARA-OfficeActivation-Alchemy) aus, und starten Sie den Computer neu.
 
-- Auf dem betroffenen Computer [setzen Sie anschließend den Office-Aktivierungsstatus zurück](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- Auf dem betroffenen Computer [setzen Sie anschließend den Office-Aktivierungsstatus zurück](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Ausführliche Anweisungen finden Sie unter: 
 
