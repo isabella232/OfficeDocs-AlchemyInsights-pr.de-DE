@@ -19,8 +19,8 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 06/22/2020
 ms.locfileid: "44840892"
 ---
-# <a name="cannot-access-sharepoint"></a><span data-ttu-id="9a8e2-102">Kein Zugriff auf SharePoint möglich</span><span class="sxs-lookup"><span data-stu-id="9a8e2-102">Cannot access SharePoint</span></span>
+# <a name="cannot-access-sharepoint"></a><span data-ttu-id="96383-102">Kein Zugriff auf SharePoint möglich</span><span class="sxs-lookup"><span data-stu-id="96383-102">Cannot access SharePoint</span></span>
 
-<span data-ttu-id="9a8e2-103">Es gibt mehrere Gründe, warum SharePoint oder OneDrive möglicherweise unzugänglich wird.</span><span class="sxs-lookup"><span data-stu-id="9a8e2-103">There are several reasons why SharePoint or OneDrive might become inaccessible.</span></span> <span data-ttu-id="9a8e2-104">Wenn Sie nicht auf SharePoint oder OneDrive zugreifen können, führen Sie die folgenden Schritte aus, um dieses Problem zu beheben.</span><span class="sxs-lookup"><span data-stu-id="9a8e2-104">If you can't access SharePoint or OneDrive, use the following guide to troubleshoot this issue.</span></span>
+<span data-ttu-id="96383-103">Es gibt mehrere Gründe, warum SharePoint oder OneDrive möglicherweise unzugänglich wird.</span><span class="sxs-lookup"><span data-stu-id="96383-103">There are several reasons why SharePoint or OneDrive might become inaccessible.</span></span> <span data-ttu-id="96383-104">Wenn Sie nicht auf SharePoint oder OneDrive zugreifen können, führen Sie die folgenden Schritte aus, um dieses Problem zu beheben.</span><span class="sxs-lookup"><span data-stu-id="96383-104">If you can't access SharePoint or OneDrive, use the following guide to troubleshoot this issue.</span></span>
 
-- [<span data-ttu-id="9a8e2-105">Zugriff auf SharePoint oder OneDrive nicht möglich</span><span class="sxs-lookup"><span data-stu-id="9a8e2-105">Unable to Access SharePoint or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
+- [<span data-ttu-id="96383-105">Zugriff auf SharePoint oder OneDrive nicht möglich</span><span class="sxs-lookup"><span data-stu-id="96383-105">Unable to Access SharePoint or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
