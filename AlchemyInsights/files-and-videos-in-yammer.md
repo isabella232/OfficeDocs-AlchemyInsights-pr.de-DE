@@ -1,0 +1,38 @@
+---
+title: Dateien und Videos in Yammer
+ms.author: pebaum
+author: pebaum
+manager: scotv
+ms.date: 07/15/2020
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "6040"
+- "9003112"
+ms.openlocfilehash: e34e522f777d6228d8732ac88b5cfd2f5d1c3bdf
+ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45146783"
+---
+# <a name="files-and-videos-in-yammer"></a><span data-ttu-id="6f2be-102">Dateien und Videos in Yammer</span><span class="sxs-lookup"><span data-stu-id="6f2be-102">Files and videos in Yammer</span></span>
+
+<span data-ttu-id="6f2be-103">Dateien können an Nachrichten in Yammer angefügt oder direkt in Gruppen hochgeladen werden.</span><span class="sxs-lookup"><span data-stu-id="6f2be-103">Files can be attached to messages in Yammer or uploaded directly to groups.</span></span> <span data-ttu-id="6f2be-104">Die Benutzererfahrung unterscheidet sich geringfügig zwischen dem klassischen und dem neuen Yammer, aber die Dateien werden an die gleichen Speicherorte hochgeladen.</span><span class="sxs-lookup"><span data-stu-id="6f2be-104">The user experience differs slightly between classic and new Yammer, but the files get uploaded to the same locations.</span></span> <span data-ttu-id="6f2be-105">Weitere Informationen hierzu finden Sie unter [Anfügen einer Datei oder eines Bilds an eine Yammer-Nachricht](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-message-f576d4d1-ad66-4ce4-9c43-46cf75978dbf).</span><span class="sxs-lookup"><span data-stu-id="6f2be-105">For more info, see [Attach a file or image to a Yammer message](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-message-f576d4d1-ad66-4ce4-9c43-46cf75978dbf),</span></span>  
+
+<span data-ttu-id="6f2be-106">Wenn Benutzer Probleme haben, sollten Sie den Upload mit einem anderen Browser oder Gerät probieren.</span><span class="sxs-lookup"><span data-stu-id="6f2be-106">When users experience issues, try the upload from another browser or device.</span></span> <span data-ttu-id="6f2be-107">Verwenden Sie die schnellste Netzwerkverbindung und den neuesten verfügbaren Browser.</span><span class="sxs-lookup"><span data-stu-id="6f2be-107">Use the fastest network connection and the most recent browser available.</span></span> <span data-ttu-id="6f2be-108">Die erneute Anmeldung in einem neuen Browserfenster kann dazu beitragen, dass die richtigen Azure AD-Token zur Verfügung stehen.</span><span class="sxs-lookup"><span data-stu-id="6f2be-108">Using a fresh browser window to sign in again can help ensure that the correct Azure AD tokens are available.</span></span>
+
+<span data-ttu-id="6f2be-109">Das Hochladen von Videos nach Yammer setzt Upload und Codierung voraus.</span><span class="sxs-lookup"><span data-stu-id="6f2be-109">Video uploads to Yammer require upload and encoding.</span></span> <span data-ttu-id="6f2be-110">Weitere Informationen finden Sie unter [Videobeiträge in Yammer separat hochladen und codieren](https://support.microsoft.com/office/video-posts-in-yammer-upload-and-encode-separately-5b3a348e-3a0a-4c4b-95b1-eabdf245ba25).</span><span class="sxs-lookup"><span data-stu-id="6f2be-110">For more info, see [Video posts in Yammer upload and encode separately](https://support.microsoft.com/office/video-posts-in-yammer-upload-and-encode-separately-5b3a348e-3a0a-4c4b-95b1-eabdf245ba25).</span></span> <span data-ttu-id="6f2be-111">Je nach Videogröße kann die Codierung einige Zeit in Anspruch nehmen.</span><span class="sxs-lookup"><span data-stu-id="6f2be-111">Depending on video size, the encoding can take time to complete.</span></span> <span data-ttu-id="6f2be-112">Erwägen Sie die Verwendung von [Microsoft Stream](https://docs.microsoft.com/stream/overview) zum Hochladen von Videos, die Sie in Microsoft 365 teilen.</span><span class="sxs-lookup"><span data-stu-id="6f2be-112">Consider using [Microsoft Stream](https://docs.microsoft.com/stream/overview) to upload videos you're sharing across Microsoft 365.</span></span>
+
+<span data-ttu-id="6f2be-113">**Einschränken von Datei- und Bilduploads**</span><span class="sxs-lookup"><span data-stu-id="6f2be-113">**Restricting file and image uploads**</span></span>
+
+<span data-ttu-id="6f2be-114">In Yammer können standardmäßig alle Dateitypen hochgeladen werden.</span><span class="sxs-lookup"><span data-stu-id="6f2be-114">Yammer allows uploads of all file types by default.</span></span> <span data-ttu-id="6f2be-115">Administratoren können Einstellungen ändern, um Dateiuploads nach Yammer zu blockieren.</span><span class="sxs-lookup"><span data-stu-id="6f2be-115">Administrators can change settings to block file uploads to Yammer.</span></span> <span data-ttu-id="6f2be-116">Weitere Informationen finden Sie unter [Einschränken, wer Dateien hochladen kann, Festlegen der zulässigen Dateiformate](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#restrict-who-can-upload-files-and-limit-file-formats).</span><span class="sxs-lookup"><span data-stu-id="6f2be-116">For more info, see [Restrict who can upload files and limit file formats](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#restrict-who-can-upload-files-and-limit-file-formats).</span></span> <span data-ttu-id="6f2be-117">Eine verwandte Einstellung ist für das Einschränken von GIFs in Yammer verfügbar.</span><span class="sxs-lookup"><span data-stu-id="6f2be-117">A related setting is available for restricting GIFs in Yammer.</span></span> <span data-ttu-id="6f2be-118">Weitere Informationen finden Sie unter [Tenor-GIFs in Nachrichten zulassen](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#allow-tenor-gifs-in-messages).</span><span class="sxs-lookup"><span data-stu-id="6f2be-118">For more info, see [Allow Tenor GIFs in messages](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#allow-tenor-gifs-in-messages).</span></span>
+
+<span data-ttu-id="6f2be-119">**Dateispeicherung in Yammer**</span><span class="sxs-lookup"><span data-stu-id="6f2be-119">**Yammer file storage**</span></span>
+
+<span data-ttu-id="6f2be-120">Yammer ist in Microsoft 365 integriert und verwendet SharePoint Online für Dateiuploads.</span><span class="sxs-lookup"><span data-stu-id="6f2be-120">Yammer is integrated with Microsoft 365 and uses SharePoint Online for file uploads.</span></span> <span data-ttu-id="6f2be-121">Weitere Informationen finden Sie unter [Übersicht über die Dateispeicherung in Yammer](https://docs.microsoft.com/yammer/get-started-with-yammer/file-storage).</span><span class="sxs-lookup"><span data-stu-id="6f2be-121">For more info, see [Yammer file storage overview](https://docs.microsoft.com/yammer/get-started-with-yammer/file-storage).</span></span> 
+
+<span data-ttu-id="6f2be-122">Für eine optimale Erfahrung bei der Migration von Dateien zu SharePoint Online empfehlen wir, Ihr Yammer-Netzwerk für den nativen Modus zu konfigurieren.</span><span class="sxs-lookup"><span data-stu-id="6f2be-122">For the best experience migrating files to SharePoint Online, we advise configuring your Yammer network for Native Mode.</span></span> <span data-ttu-id="6f2be-123">Weitere Informationen finden Sie unter [Übersicht über den nativen Modus](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).</span><span class="sxs-lookup"><span data-stu-id="6f2be-123">For more info, see [Overview of Native Mode](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).</span></span> 
