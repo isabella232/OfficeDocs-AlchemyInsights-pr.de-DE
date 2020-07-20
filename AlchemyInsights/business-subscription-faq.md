@@ -19,16 +19,14 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-ms.openlocfilehash: 391ec22f692fd0264750ea3151fbc0da8f4269bd
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5ceadd44976b61f3570d9f15dbf724aed0b44e38
+ms.sourcegitcommit: 9ed8b920cb598f9e22f54964029b3bef8e22a630
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506298"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "45169707"
 ---
 # <a name="business-subscription-faq"></a>Häufig gestellte Fragen zu Business-Abonnements
-
-Häufig gestellte Fragen zur Business-Abonnements und Lizenzverwaltung:
 
 - Informationen zu Microsoft 365 Business-Optionen finden Sie unter [Vergleichen von Business-Plänen](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2). Um weitere Informationen zu erhalten, kontaktieren Sie den vertrieb unter 1-855-270-0615.
 - Wenn Sie einen Plan **kaufen** möchten, navigieren Sie zu **Abrechnung > [Dienste kaufen](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Wählen Sie den Plan und die Anzahl der Benutzer aus. Weitere Informationen finden Sie unter [Abschließen eines Abonnements](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide).
