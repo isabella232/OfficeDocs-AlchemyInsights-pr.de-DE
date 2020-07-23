@@ -2,7 +2,7 @@
 title: Problembehandlung bei der Kennwortsynchronisierung
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,51 +13,31 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: edd4f68466296f72c2dc0bafda45e6749d62d942
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 54b5a033b7cbb99520425b31800364ed4a99a4e6
+ms.sourcegitcommit: 1d01b8b48eef2d5d10c375dcf802cd36e9d6bf61
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732509"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45387876"
 ---
 # <a name="troubleshoot-password-synchronization"></a>Problembehandlung bei der Kennwortsynchronisierung
 
-Zur Behandlung von Problemen, bei denen keine Kennwörter mit Azure AD Connect-Version 1.1.614.0 oder höher synchronisiert werden:
-  
-1. Öffnen Sie eine neue Windows PowerShell Sitzung auf Ihrem Azure AD Connect-Server mit der Option **als Administrator ausführen** .
+Zur Behandlung von Problemen mit der Kennwortsynchronisierung beginnen Sie mit dieser Aad Connect-Problem Behandlungs Aufgabe, um zu ermitteln, warum Kennwörter nicht synchronisiert werden. Wechseln Sie zunächst zu [Manage Direct Sync](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).  
 
-2. Führen Sie " **ExecutionPolicy RemoteSigned** " oder " **festgelegt-ExecutionPolicy Unrestricted**" aus.
+1. Öffnen Sie auf dem Azure AD Connect-Server eine neue Windows PowerShell-Sitzung, und wählen Sie die Option **als Administrator ausführen** aus.
+
+2. Führen Sie "ExecutionPolicy RemoteSigned" oder "festgelegt-ExecutionPolicy Unrestricted" aus.
 
 3. Starten Sie den Azure AD Connect-Assistenten.
 
-4. Navigieren Sie zur Seite **Weitere Aufgaben** , wählen Sie **Problembehandlung**aus, und klicken Sie auf **weiter**.
+4. Wechseln Sie zur Seite Weitere Aufgaben > **Problembehandlung**  >  **als nächstes**.
 
-5. Klicken Sie auf der Seite Problembehandlung auf **starten, um das Menü Problembehandlung in PowerShell zu starten** .
+5. Wählen Sie **Start** aus, um das PowerShell-Problem Behandlungs Menü zu öffnen.
 
-6. Wählen Sie im Hauptmenü die Option **Problembehandlung für die Kennwortsynchronisierung**aus.
+6. Wählen Sie **Problembehandlung bei der Kennwortsynchronisierung**aus.
 
-7. Wählen Sie im Untermenü die Option **Kennwortsynchronisierung funktioniert überhaupt nicht**aus.
+    Das Problem besteht in der Regel darin, dass ein Kennwort für ein bestimmtes Benutzerkonto nicht synchronisiert ist.
 
-**Grundlegendes zu den Ergebnissen der Aufgaben zur Problembehandlung**
-  
-Die Problem Behandlungs Aufgabe führt die folgenden Prüfungen durch:
-  
-- Überprüft, ob das Feature für die Kennwortsynchronisierung für den Azure AD Mandanten aktiviert ist.
+    **Anmerkungen** Die Kennwortsynchronisierung schlägt fehl, wenn die letzte erfolgreiche Kennwortsynchronisierung vor einiger Zeit stattfand.
 
-- Überprüft, ob sich der Azure AD Connect-Server nicht im stagingmodus befindet.
-
-- Für jeden vorhandenen lokalen Active Directory Connector (der einer vorhandenen Active Directory Gesamtstruktur entspricht):
-
-- 
-  - Überprüft, ob das Feature für die Kennwortsynchronisierung aktiviert ist.
-
-  - Sucht nach Kenn Wort Synchronisierungs Takt Ereignissen in den Windows-Anwendungsereignisprotokollen.
-
-  - Für jede Active Directory Domäne unter dem lokalen Active Directory Connector:
-
-  - Überprüft, ob die Domäne über den Azure AD Connect-Server erreichbar ist.
-
-  - Überprüft, ob die vom lokalen Active Directory Connector verwendeten Active Directory-Domänendienste (AD DS) Konten über den korrekten Benutzernamen, das Kennwort und die erforderlichen Berechtigungen für die Kennwortsynchronisierung verfügen.
-
-Weitere Hilfe zur Problembehandlung bei der Kennwortsynchronisierung finden Sie unter [Problembehandlung bei der Kennwortsynchronisierung mit Azure AD Connect Sync](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
-  
+Weitere Hilfe zur Problembehandlung bei der Kennwortsynchronisierung finden Sie unter [Problembehandlung bei der Kennworthash Synchronisierung mit Azure AD Connect Sync](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).
