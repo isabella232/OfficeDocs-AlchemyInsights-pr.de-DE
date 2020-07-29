@@ -2,8 +2,8 @@
 title: Wann wird die Abrechnungs Anweisung generiert?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,19 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 3e43df09e2a3419534fca1d595efc14dbdfdeae1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 59d122ab05a6c7bee347fad4c3b5e541380dd58d
+ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510391"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "45431216"
 ---
 # <a name="when-is-the-billing-statement-generated"></a>Wann wird die Abrechnungs Anweisung generiert?
 
-Jeden Monat erhalten Sie eine e-Mail-Nachricht, die besagt, dass Ihre neue Abrechnungs Anweisung im Microsoft 365 Admin Center verfügbar ist. Ihre Rechnung enthält zwei Seiten. Seite 1 ist die Zusammenfassung der Rechnung und enthält allgemeine Informationen über die Rechnung, den Auftrag, den fälligen Betrag sowie dazu, wie Sie eine Zahlung vornehmen und wie Sie Kontakt zum Support aufnehmen können. Seite 2 enthält Details zur Abrechnungsaktivität für jedes Abonnement.
+Ihr Auszugsdatum wird auf den Tag des Monats festgelegt, nach dem Ihr Konto erstellt wurde. Wenn Sie beispielsweise Ihr Konto am 20. Januar erstellt haben, wird Ihr Auszugsdatum auf den 21. für jeden nachfolgenden Monat festgelegt.
+
+Zusätzliche Gebühren, die während eines aktiven Abrechnungszyklus auftreten, sind in der Rechnung für den folgenden Monat enthalten. Die Start-und Enddaten für die Rechnungs Zyklen für jede Rechnung werden in der **Abrechnungszusammenfassung** der Rechnung aufgeführt.
+
+Kreditkarten-und/oder Bankkonten (sofern zutreffend) Zahlungen werden am Tag nach dem **Rechnungsdatum**abgewickelt.
   
-Weitere Informationen zu Abrechnungs Konzepten finden Sie unter [understand your Invoice](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+Weitere Informationen finden Sie Untergrund [Legendes zu Ihrer Rechnung](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
