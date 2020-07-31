@@ -9,14 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: f80b2a10ebc17cd98ed1d29b0e6ba3ca01eb1d62
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c43f8e32acad7937a03a45aab1e14e0e69edc1b2
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508807"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522842"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Vergrößern der Archiv Postfachgröße
+
+
+Wenn Sie möchten, dass automatisierte Prüfungen für die unten aufgeführten Einstellungen ausgeführt werden, wählen Sie die Schaltfläche Zurück <--oben auf dieser Seite aus, und geben Sie dann die e-Mail-Adresse des Benutzers ein, der die Größe des Archivpostfachs erhöhen muss.
 
 Microsoft 365 [schränkt](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) die Größe von archivpostfächern basierend auf der Lizenz ein, die dem Benutzerkonto zugewiesen ist. Wenn das Archivpostfach 90% seiner zulässigen Größe erreicht, erhält der Benutzer eine e-Mail-Benachrichtigung. Wenn ein Archivpostfach seine Größenbeschränkung erreicht, kann der Benutzer keine weiteren Elemente in das Archivpostfach verlagern. Microsoft 365 erhöht nicht die Größe eines Archivpostfachs, nachdem die Größenbeschränkung erreicht wurde. Stattdessen können Benutzer die folgenden Aktionen ausführen, um Speicherplatz im Archivpostfach freizugeben:
 

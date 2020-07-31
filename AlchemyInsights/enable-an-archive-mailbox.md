@@ -10,14 +10,16 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2659bbc8b293e6fe1244753ea179258e12281acf
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507025"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522734"
 ---
 # <a name="enable-an-archive-mailbox"></a>Aktivieren eines Archivpostfachs
+
+Wenn Sie möchten, dass automatisierte Prüfungen ausgeführt werden, um sicherzustellen, dass ein Archivpostfach konfiguriert werden kann, wählen Sie die Schaltfläche Zurück <--oben auf dieser Seite aus, und geben Sie dann die e-Mail-Adresse des Kontos ein.
 
 Archivpostfächer in Microsoft 365 (auch als *Online Archive* oder *in-Place-Archive*bezeichnet) bieten Benutzern zusätzlichen e-Mail-Speicher. Benutzer können Elemente in Ihr Archivpostfach verschieben oder kopieren, und Administratoren können eine Archivrichtlinie erstellen, mit der Elemente automatisch in Archivpostfächer verschoben werden.
   
@@ -53,4 +55,4 @@ Weitere Informationen finden Sie unter:
   
 - [Aktivieren von Archivpostfächern](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
-- [Einrichten einer Archiv-und Löschrichtlinie](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+- [Einrichten einer Archivierungs- und Löschrichtlinie](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
