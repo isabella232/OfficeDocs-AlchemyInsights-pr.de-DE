@@ -13,12 +13,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: fe21746110ed2cb99fb13563c84c966e277fc70c
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 56620e4795649d55181305b7b8c0a9d28c83e977
+ms.sourcegitcommit: 61308045a58252764f6378bbeb8802b6d2ff6c0b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495810"
+ms.lasthandoff: 08/08/2020
+ms.locfileid: "46596746"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>Aufbewahrungspflicht für ein Postfach
 
@@ -26,4 +26,4 @@ ms.locfileid: "44495810"
 
 - [Führen Sie die folgenden Schritte](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold)aus, um das Beweissicherungsverfahren für einen einzelnen Benutzer zu aktivieren. Wenn das Beweissicherungsverfahren aktiviert ist, bleiben alle Inhalte im Postfach erhalten.
 
-- Um Inhalte in allen Postfächern in Ihrer Organisation beizubehalten, können Sie eine [organisationsweite Aufbewahrungsrichtlinie](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)verwenden. Beachten Sie, dass für organisationsweite Aufbewahrungsrichtlinien neue Benutzer automatisch der Richtlinie zugewiesen werden.
+- Um Inhalte in allen Postfächern in Ihrer Organisation beizubehalten oder andere Aufbewahrungs Typen zu erstellen, verwenden Sie eine Aufbewahrungsrichtlinie oder Bezeichnungen. Beachten Sie, dass für organisationsweite Aufbewahrungsrichtlinien neue Benutzer automatisch der Richtlinie zugewiesen werden. Weitere Informationen finden Sie unter Informationen [zu Aufbewahrungsrichtlinien und Aufbewahrungs Bezeichnungen](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). 
