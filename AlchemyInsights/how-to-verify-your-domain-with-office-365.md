@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1aa0b489e9f300f930663532fde7f9022b948bc1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: a099b3f056696bebae150fdd5b82e921f928f116
+ms.sourcegitcommit: 3ef4860c2e1918c1ff4009201189a5b77be3454f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509023"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46636692"
 ---
 # <a name="how-to-verify-your-domain"></a>Überprüfen Ihrer Domäne
 
-Um Ihre Domäne zu überprüfen, müssen Sie Ihrer Domänenregistrierungsstelle einen TXT-Eintrag hinzufügen, um zu überprüfen, ob Sie Ihre Domäne besitzen. Führen Sie zunächst den [Assistenten zum Hinzufügen von Domänen](https://portal.office.com/adminportal/home#/Domains/Wizard) aus, indem Sie auf **Setup** \> **Domänen**und dann auf **Domäne hinzufügen**klicken.
-  
-Befolgen Sie die Anweisungen unter [Erstellen von DNS-Einträgen bei einem beliebigen DNS-Hostinganbieter](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) , um einen TXT-Eintrag hinzuzufügen, um Ihre Domäne zu überprüfen.
+Um eine Domäne zu überprüfen, führen Sie den [Assistenten zum Hinzufügen von Domänen](https://portal.office.com/adminportal/home#/Domains/Wizard)aus, oder wechseln Sie manuell zu **Setup**  >  **Domains**  >  **Add Domain**.
 
-Für andere Domänenprobleme versuchen Sie die [Domänen FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Weitere Informationen zu DNS-Änderungen, die zum Überprüfen Ihrer Domäne erforderlich sind, finden Sie in den Anweisungen unter [Hinzufügen von DNS-Einträgen zum Herstellen einer Verbindung mit Ihrer Domäne](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+
+Fragen zu anderen Domänen finden Sie in den [Domänen FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
