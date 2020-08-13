@@ -2,7 +2,7 @@
 title: Zuweisen oder Aufheben der Zuweisung von Lizenzen zu Benutzern
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,20 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: c2273d00b8033e9fb9d57c90576118d3788b0504
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2c3b11d51a2b5895c8d90ebef27121561f221334
+ms.sourcegitcommit: 69cf3c185e03a4b1da35c5ca492ee6c74a5d739a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495986"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46657066"
 ---
 # <a name="assign-or-unassign-licenses-to-users"></a>Zuweisen oder Aufheben der Zuweisung von Lizenzen zu Benutzern
 
-Ein Benutzer benötigt eine Lizenz für den Zugriff auf Dienste. Hier sind die Schritte zum **hinzufügen, ändern oder entfernen** einer Lizenz eines Benutzers.
+Ein Benutzer benötigt eine Lizenz für den Zugriff auf Dienste. Hier finden Sie Schritte zum Zuweisen einer Lizenz zu oder Aufheben der Zuweisung einer Lizenz von einem Benutzer.
   
 1. Wechseln Sie im Admin Center zu **Benutzer** \> [aktive Benutzer](https://go.microsoft.com/fwlink/p/?linkid=834822).
+2. Aktivieren Sie die Zeile des Benutzers, dem Sie eine Lizenz zuweisen möchten.
+3. Wählen Sie im rechten Bereich **Lizenzen und Apps** aus.
+4. Erweitern Sie den Abschnitt **Lizenzen** , aktivieren oder deaktivieren Sie die Kontrollkästchen für die Lizenzen, die Sie zuweisen oder aufheben möchten, und wählen Sie dann **Änderungen speichern**aus.
 
-2. Wählen Sie den Namen des Benutzers aus, für den Sie eine Lizenz zuweisen, ändern oder entfernen möchten.
-
-3. Klicken Sie auf **Produktlizenzen verwalten**, und wählen Sie die Lizenz aus, die Sie diesem Benutzer zuweisen möchten.
-
-    Standardmäßig werden alle dieser Lizenz zugeordneten Dienste dem Benutzer automatisch zugewiesen. Um zu begrenzen, welche Dienste für den Benutzer verfügbar sind, deaktivieren Sie das Kontrollkästchen für die Dienste, die dieser Benutzer nicht erhalten soll.
-
-4. Klicken Sie unten im Bereich auf **Änderungen speichern**.
-
-Weitere Informationen finden Sie unter [Zuweisen von Lizenzen zu Benutzern](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)und [Entfernen von Lizenzen von Benutzern](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user).
+Weitere Informationen finden Sie unter [Zuweisen von Lizenzen zu Benutzern](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)und aufheben [der Zuweisung von Lizenzen von Benutzern](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).
