@@ -21,7 +21,7 @@ ms.locfileid: "46543772"
 ---
 # <a name="decommission-azure-rights-management-service-rms"></a>Abschalten des Azure Rights Management Service (RMS)
 
-Stellen Sie sicher, dass Sie über eine Kopie Ihres Azure Information Protection-MItgliederschlüssels und über eine geeignete vertrauenswürdige Veröffentlichungsdomäne (Trusted Publishing Domain, TPD) verfügen, bevor Sie den Azure Rights Management Service deaktivieren.
+Stellen Sie sicher, dass Sie über eine Kopie Ihres Azure Information Protection-Mitgliederschlüssels und über eine geeignete vertrauenswürdige Veröffentlichungsdomäne (Trusted Publishing Domain, TPD) verfügen, bevor Sie den Azure Rights Management Service deaktivieren.
 
 Zusätzliche Informationen zum Abschalten und Deaktivieren des Schutzes für Azure Information Protection finden Sie unter:
 
@@ -29,10 +29,10 @@ Zusätzliche Informationen zum Abschalten und Deaktivieren des Schutzes für Azu
 - [Was ist Azure Information Protection?](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
 - [Kurzanleitungen für häufige Szenarios, in denen Azure Information Protection verwendet wird](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
     
-- [Migration von Azure Information Protection-Beziehungen in einheitliche sensible Beziehungen](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)  
+- [Migrieren von Azure Information Protection-Bezeichnungen zu einheitlichen Vertraulichkeitsbezeichnungen](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)  
     
-- [Azure Information Protection-Preise](https://azure.microsoft.com/pricing/details/information-protection)  
+- [Azure Information Protection – Preisgestaltung](https://azure.microsoft.com/pricing/details/information-protection)  
     
-- [Azure Information Protection-Anforderungen](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
+- [Azure Information Protection – Anforderungen](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
     
-- [Aktivieren des Rights Management Service über das Azure-Portal](https://docs.microsoft.com/azure/information-protection/deploy-use/activate-azure)
+- [Aktivieren des Rights Management-Schutzdiensts über das Azure-Portal](https://docs.microsoft.com/azure/information-protection/deploy-use/activate-azure)
