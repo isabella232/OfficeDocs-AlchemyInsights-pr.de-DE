@@ -1,7 +1,7 @@
 ---
-title: Berichte zur Datei- und Ordnerfreigabe auf einer SharePoint-Website
-ms.author: v-todmc
-author: todmccoy
+title: Bericht über die Datei-und Ordnerfreigabe in SharePoint-Websites
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: 5c01595eab45b4f4e67e741c884066d0d21a9472
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a0223666ba8cd3edde9eed05d86a49907fd07a37
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43693161"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787212"
 ---
-# <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a>Berichte zur Datei- und Ordnerfreigabe auf einer SharePoint-Website
+# <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>Bericht über die Datei-und Ordnerfreigabe in SharePoint-Websites
 
-Sie können eine CSV-Datei erstellen, in der jede eindeutige Datei, jeder Benutzer, jede Berechtigung und jeder Link auf einer bestimmten SharePoint-Website oder OneDrive-Bibliothek detailliert beschrieben wird. Dies kann Ihnen helfen zu verstehen, wie die Freigabe verwendet wird und ob Dateien oder Ordner für Gäste freigegeben werden.
+Sie können eine CSV-Datei erstellen, in der jede eindeutige Datei, jeder Benutzer, jede Berechtigung und jeder Link auf einer bestimmten SharePoint-Website oder OneDrive-Bibliothek detailliert beschrieben wird. Auf diese Weise können Sie besser verstehen, wie die Freigabe verwendet wird und ob Dateien oder Ordner für Gäste freigegeben wurden.
 
 Weitere Informationen finden Sie unter [Bericht über die Datei-und Ordnerfreigabe auf einer SharePoint-Website](https://docs.microsoft.com/sharepoint/sharing-reports).
 
