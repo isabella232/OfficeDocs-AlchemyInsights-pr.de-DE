@@ -12,14 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6131"
 - "9002530"
-ms.openlocfilehash: d7b56237cb287f619643303fb31c627e258c332d
-ms.sourcegitcommit: c32ccdd6e87964f01a56d9a36070e4571ebf1ab1
+ms.openlocfilehash: 3ec340b6a2ee1a3671f72f64b17e46d991d8e0a1
+ms.sourcegitcommit: 5a76ffd17b09b1f4daf041fbc08a6512172198a6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46545681"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46844559"
 ---
 # <a name="manage-meeting-recordings-for-education"></a>Verwalten von Besprechungsaufzeichnungen für die Bildung
+
+Wenn Benutzer mit A1- und A1 Plus-Lizenzen eine Teams-Besprechungsaufzeichnung starten, steht diese Aufzeichnung ab dem **20. August 2020** für 21 Tage zur Verfügung.
+
+Weitere Informationen, einschließlich der Vorgehensweise zum Speichern der Aufzeichnung an einem anderen Speicherort, finden Sie unter [Hochladen einer Microsoft Teams-Besprechungsaufzeichnung in Stream](https://docs.microsoft.com/stream/portal-upload-teams-meeting-recording).
 
 Wir empfehlen Admins von Bildungseinrichtungen, den Einsatz von Richtlinienpaketen für die Sicherheit von Schülern, Studenten und Pädagogen in Erwägung ziehen. Weitere Informationen finden Sie unter:
 
