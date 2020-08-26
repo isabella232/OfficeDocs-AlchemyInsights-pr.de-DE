@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: 262cca0feee17d1f929a5a94a4dd6c1ec317f6ec
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 94cd2127240be5faacd397ba6255fdb16e364308
+ms.sourcegitcommit: d4fc2a03af69e28e96075812d040fdd34d2e23f0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43650567"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46902619"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>Ruhestand von vorversions-eDiscovery-Tools
 
@@ -40,9 +40,9 @@ Aufgrund der neuen und verbesserten eDiscovery-Funktionalität im Microsoft 365 
 - [Erweiterte eDiscovery v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **Zeitachse für den Ruhestand**:
-- 1. April 2020: Sie können keine neuen suchen und Aufbewahrungen erstellen, aber Sie können vorhandene Suchvorgänge auf eigenes Risiko ausführen, bearbeiten und löschen. Der Microsoft-Support unterstützt keine Compliance-eDiscovery-&, die in der Exchange-Verwaltungskonsole gespeichert sind.
-
-- 1. Juli 2020: die in-situ-eDiscovery-&, in der die Exchange-Verwaltungskonsole Funktionen enthält, wird in den schreibgeschützten Modus versetzt. Dies bedeutet, dass Sie nur vorhandene suchen und Haltestatus entfernen können.
+- **1. Juli 2020** Sie können keine neuen suchen und Aufbewahrungen mehr erstellen, aber Sie können vorhandene Suchvorgänge auf eigenes Risiko ausführen, bearbeiten und löschen. Der Microsoft-Support unterstützt keine Compliance-eDiscovery-& mehr in der Exchange-Verwaltungskonsole.
+    
+- **1. Oktober 2020** In-situ-eDiscovery-& die Funktionen in der Exchange-Verwaltungskonsole enthalten, werden in den schreibgeschützten Modus versetzt, sodass Sie nur vorhandene suchen und Haltestatus entfernen können.
 
 **Weitere Informationen finden Sie unter**:
 
