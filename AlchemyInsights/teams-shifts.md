@@ -10,18 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "1686"
+- "6251"
 - "9000161"
-ms.openlocfilehash: cbd5363ba153299e0af2133858a49544a6c6c75c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0ea563c152f3241e3ce81bad038bd49775ad1d13
+ms.sourcegitcommit: 282933087112fe8ec989e47b400ce589c0351c16
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43737451"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "47289982"
 ---
 # <a name="using-teams-shifts"></a>Verwenden von Microsoft Teams-Verschiebungen
 
-Weitere Informationen zu Schichten für Teams, einschließlich der Migration von Microsoft Staffhub, finden Sie unter [Schichten für Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page). 
+Informationen zum Verwalten der Shifts-APP, einschließlich der Einrichtung von Schichten, der Aktivierung von Schichtungen für Benutzer und der Verwaltung der Shifts-App finden Sie unter:
+ 
+- [Verwalten der Schicht-App für Ihre Organisation in Microsoft Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).
+- [Aktivieren oder Deaktivieren von Verschiebungen für bestimmte Benutzer in Ihrer Organisation](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization).
 
-Microsoft Staffhub wird am 31. Dezember 2019 [zurückgezogen](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired) . 
+Weitere Informationen zu Schichten für Teams, einschließlich der Verwaltung eines Schicht Zeitplans, finden Sie unter [Schichten für Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).
+
+Microsoft Staffhub wurde **am 30. Juni 2020**zurückgezogen. Weitere Informationen finden Sie unter [Microsoft StaffHub wurde zurückgezogen](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired).
 
