@@ -12,24 +12,24 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d93d598643422f83931ed13d7a002901bd555cfe
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709938"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406361"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – Audiokonferenzen
 
-Benötigen Sie Hilfe beim Aktivieren oder Einrichten von Audiokonferenzen in Microsoft Teams? Wurde dieser Benutzer kürzlich erstellt?  Wenn dies der Fall ist, müssen Sie 2 bis 24 Stunden warten, bis die Einstellungen wirksam werden.
+Benötigen Sie Hilfe beim Einschalten oder Einrichten von [Audiokonferenzen in Microsoft Teams](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams)?  Wurde der Benutzer kürzlich erstellt? Wenn dies der Fall ist, müssen Sie mehrere Stunden warten, bis die Einstellungen wirksam werden.
 
-So überprüfen Sie, ob der Benutzer für Audiokonferenzen lizenziert ist und über eine gebührenpflichtige Standardnummer verfügt:
+Wenn [Lizenzen erworben wurden](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses), überprüfen Sie, ob der Benutzer für Microsoft 365-Audiokonferenz lizenziert wurde und über eine gebührenpflichtige Standardnummer verfügt.
 
 1. Wechseln Sie zu [Aktive Benutzer](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users), und wählen Sie den betreffenden Benutzer aus.
 
 2. Je nach Admin Center-Version müssen Sie entweder **Lizenzen und Apps** auswählen oder unter **Produktlizenzen** auf **Bearbeiten** klicken.
 
-3. Vergewissern Sie sich, dass für den Benutzer Lizenzen für **Audiokonferenzen, Microsoft Teams** und **Skype for Business Online (Plan 2)** ausgewählt sind.
+3. Vergewissern Sie sich, dass für den Benutzer die Lizenzen für **Microsoft 365-Audiokonferenz, Microsoft Teams** und **Skype for Business Online (Plan 2)** ausgewählt sind. Wenn die **Microsoft 365-Audiokonferenz**-Lizenz nicht vorhanden ist, müssen Sie zuerst [Add on- Lizenzen](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business) erwerben.
 
 4. Klicken Sie im **Admin Center** für Benutzer auf **Alle anzeigen** und dann auf **Teams**.
 
@@ -39,4 +39,4 @@ So überprüfen Sie, ob der Benutzer für Audiokonferenzen lizenziert ist und ü
 
 7. Wählen Sie den betreffenden Benutzer aus, und vergewissern Sie sich, dass er über eine **gebührenpflichtige Standardnummer** verfügt.
 
-Weitere Informationen finden Sie unter [Anrufpläne](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365). Sie können sich auch an das Microsoft Commerce-Abrechnungsteam wenden, wenn Sie Fragen zur Lizenzierung haben.
+Wenn Sie weitere Hilfe beim Erwerb von Lizenzen für **Microsoft 365-Audiokonferenz** benötigen, rufen Sie den [Microsoft Support für Abrechnungen](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support) an.
