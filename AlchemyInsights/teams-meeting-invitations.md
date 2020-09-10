@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002511"
 - "4892"
-ms.openlocfilehash: 778ac2d7796539f78f34a6659b75116c8866f399
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: 374aee5f3cc152d3fb03619c1748f7cc19b4ac44
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43553282"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406505"
 ---
-# <a name="teams-meeting-invitations"></a><span data-ttu-id="5e68d-102">Einladungen zu Teams-Besprechungen</span><span class="sxs-lookup"><span data-stu-id="5e68d-102">Teams meeting invitations</span></span>
+# <a name="teams-meeting-invitations"></a><span data-ttu-id="492f9-102">Einladungen zu Teams-Besprechungen</span><span class="sxs-lookup"><span data-stu-id="492f9-102">Teams meeting invitations</span></span>
 
-- <span data-ttu-id="5e68d-103">Möchten Sie wissen, wie Sie [in Teams eine Besprechungseinladung erstellen](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)?</span><span class="sxs-lookup"><span data-stu-id="5e68d-103">Do you need to know how to [create a meeting invitation in Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)?</span></span>
+<span data-ttu-id="492f9-103">Benötigen Sie Hilfe beim Anpassen der Einladungen zu Teams-Besprechungen für Ihre Organisation?</span><span class="sxs-lookup"><span data-stu-id="492f9-103">Need help customizing Teams Meeting Invitations for your organization?</span></span> <span data-ttu-id="492f9-104">Überprüfen Sie unbedingt [Besprechungseinladungen anpassen](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations).</span><span class="sxs-lookup"><span data-stu-id="492f9-104">Be sure to review [Customize Meeting invitations](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations).</span></span>  
 
-- <span data-ttu-id="5e68d-104">Derzeit **können Einladungen zu Teams-Besprechungen nicht angepasst werden**.</span><span class="sxs-lookup"><span data-stu-id="5e68d-104">Currently, Teams meeting invitations **cannot be customized**.</span></span> <span data-ttu-id="5e68d-105">Bitte [stimmen Sie unter Teams UserVoice ab](https://microsoftteams.uservoice.com/), um dieses Problem zur Roadmap hinzufügen zu lassen.</span><span class="sxs-lookup"><span data-stu-id="5e68d-105">Please [vote on Teams UserVoice](https://microsoftteams.uservoice.com/) to have this issue added to the roadmap.</span></span>
+<span data-ttu-id="492f9-105">Weitere Informationen hierzu finden Sie unter [Verwalten von Besprechungseinstellungen in Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams).</span><span class="sxs-lookup"><span data-stu-id="492f9-105">For additional information see [Manage meeting settings in Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams).</span></span>
