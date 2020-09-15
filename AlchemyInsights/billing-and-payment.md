@@ -5,18 +5,19 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: 3d162003c34773f4764c12cc27554e451fec4c27
-ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
+ms.openlocfilehash: e1f40da41eddc56c8086881a426bddb363c92446
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44225231"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686029"
 ---
 # <a name="billing-and-payment"></a>Abrechnung und Zahlung
 
@@ -34,24 +35,24 @@ Wenn Sie per Kreditkarte oder Bankkonto bezahlen, wird die Zahlungsmethode, die 
 
 Wenn Sie eine neue Karte hinzugefügt haben und immer noch einen Kündigungs Bescheid auf der alten Kreditkarte erhalten, müssen Sie diese neue Karte möglicherweise dem Abonnement zuordnen.
 
-1. Wechseln Sie im Admin Center zur Seite **Billing**  >  **Bills & Payments**  >  [Payment Methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) .
+1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > **Rechnungen und Zahlungen** > [Zahlungsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-2. Wählen Sie die Zeile der Zahlungsmethode aus, die ersetzt werden soll. Im rechten Bereich werden alle Abrechnungsprofile und einzelnen Abonnements aufgelistet, die die ausgewählte Zahlungsmethode verwenden.
+2. Wählen Sie die Zeile der Zahlungsmethode aus, die ersetzt werden soll. Im rechten Bereich werden alle Abrechnungsprofile und einzelne Abonnements mit der ausgewählten Zahlungsmethode aufgelistet.
 
-3. Wählen Sie im rechten Bereich **Zahlungsmethode ersetzen für alle Elemente**aus.
+3. Wählen Sie im rechten Bereich **Zahlungsmethode für alle Elemente ersetzen** aus.
 
-4. Um eine vorhandene Zahlungsmethode zu verwenden, wählen Sie eine aus der Dropdownliste aus, und wählen Sie dann **ersetzen**aus.
+4. Wenn Sie eine vorhandene Zahlungsmethode verwenden möchten, wählen Sie in der Dropdownliste eine aus und wählen Sie dann **Ersetzen**.
 
     > [!NOTE]
-    > Wenn Sie einem Abrechnungsprofil Abonnements zugeordnet haben, können Sie nur eine Kredit-oder Debitkarte verwenden, um Sie zu bezahlen. Wenn auf der Seite **Zahlungsmethoden** Bankkonten aufgeführt sind, stehen Sie in der Dropdownliste nicht zur Auswahl zur Verfügung.
+    > Wenn Sie Abonnements haben, die mit einem Abrechnungsprofil verknüpft sind, können Sie diese nur mit einer Kredit- oder Debitkarte bezahlen. Wenn Sie auf der Seite **Zahlungsmethoden** Bankkonten aufgelistet haben, können diese in der Dropdownliste nicht ausgewählt werden.
 
-5. Um eine neue Zahlungsmethode hinzuzufügen, wählen Sie **Zahlungsmethode hinzufügen**aus.
+5. Wenn Sie eine neue Zahlungsmethode hinzufügen möchten, wählen Sie **Zahlungsmethode hinzufügen** aus.
 
-6. Geben Sie im Bereich **Zahlungsmethode hinzufügen** die Kontoinformationen ein, und wählen Sie dann **Speichern**aus. Sie müssen eine Zahlungsmethode aus demselben Land wie Ihr Mandant verwenden.
+6. Geben Sie im Bereich **Zahlungsmethode hinzufügen** die Kontoinformationen ein und wählen Sie dann **Speichern** aus. Sie müssen eine Zahlungsmethode aus dem gleichen Land wie Ihr Mandant verwenden.
 
-7. Die neue Zahlungsmethode ist in der Dropdownliste bereits ausgewählt. Wählen Sie **ersetzen**aus.
+7. Die neue Zahlungsmethode ist bereits in der Dropdownliste ausgewählt. Wählen Sie **Ersetzen**.
 
-Weitere Informationen finden Sie unter [Manage Payment Methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Weitere Informationen finden Sie unter [Verwalten von Zahlungsmethoden](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Abrechnungs Häufigkeit**
 
