@@ -4,18 +4,19 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "895"
 - "8000036"
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
-ms.openlocfilehash: 18d136f1fdd67b4af89b0f81da19e052f5ea3ff8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d939f9fa4f95a247d1db83cea1afb02161c19259
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706363"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714210"
 ---
 # <a name="changing-message-or-attachment-size"></a>Ändern der Größe von Nachrichten oder Anlagen
 
