@@ -5,15 +5,16 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e46ae8c5-3d81-457e-8c77-f7c1cbe267c4
-ms.openlocfilehash: 2598111005c219c398b63ca374e8e99348efc02c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 604dc770c5c14ded6a8de1cec9e311b03b69f094
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762100"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667085"
 ---
 # <a name="missing-workflow-failed-to-activate"></a>Fehlender Workflow konnte nicht aktiviert werden
 
@@ -33,11 +34,11 @@ Führen Sie die folgenden Schritte aus, um dieses Problem zu beheben:
   
 2. Wählen Sie im Abschnitt **Manage** des Menübands **Workflow** die Option **Global veröffentlichen**aus. Wählen Sie im daraufhin angezeigten Dialogfeld Bestätigung die Option **OK**aus. 
   
-3. Suchen Sie in einem Webbrowser die Stammwebsite der Websitesammlung, und greifen Sie dann auf Website **Sammlungs Features**für **Websiteeinstellungen** \> zu. Aktivieren Sie dann das Feature **Workflows** : 
+3. Suchen Sie in einem Webbrowser die Stammwebsite der Websitesammlung, und greifen Sie dann auf **Site Settings** Website \> **Sammlungs Features**für Websiteeinstellungen zu. Aktivieren Sie dann das Feature **Workflows** : 
   
-· Wenn das Feature *aktiviert* ist, klicken Sie auf Deaktivieren **,** und klicken Sie dann auf **aktivieren**. 
+· Wenn das Feature  *aktiviert*  ist, klicken Sie auf Deaktivieren **,** und klicken Sie dann auf **aktivieren**. 
   
-· Wenn das Feature *deaktiviert* ist, klicken Sie auf **aktivieren**. 
+· Wenn das Feature  *deaktiviert*  ist, klicken Sie auf **aktivieren**. 
   
 Weitere Informationen finden Sie im folgenden [Artikel](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
   
