@@ -5,17 +5,18 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 42435d6970a71b57f16188ce6c92b0471e7121f3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 0d2d73fd425e213289b627703c987c2e9a987e55
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051316"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670903"
 ---
 # <a name="problems-opening-office-files-from-sharepoint"></a>Probleme beim Öffnen von Office-Dateien aus SharePoint
 
@@ -29,5 +30,5 @@ Wenn beim Öffnen von Office-Dateien und-Dokumenten aus SharePoint in Ihren loka
 
 Weitere Informationen oder Details finden Sie im Artikel [Behebung von Problemen beim Öffnen von Dokumenten in SharePoint-Bibliotheken](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).
 
-**Hinweis:** Wenn Sie Probleme mit Dokumenten haben, die standardmäßig im Browser oder im Client geöffnet werden, müssen Sie möglicherweise die Einstellung für die Bibliothek ändern. Navigieren Sie dazu zu der Bibliothek mit Problemen #a0 Zahnradsymbol in der oberen rechten Ecke #a1 **Bibliothekseinstellungen** >  **Erweiterte Einstellungen** > **Öffnen von Dokumenten im Browser**.
+**Hinweis:** Wenn Sie Probleme mit Dokumenten haben, die standardmäßig im Browser oder im Client geöffnet werden, müssen Sie möglicherweise die Einstellung für die Bibliothek ändern. Navigieren Sie dazu zu der Bibliothek mit Problemen > Zahnradsymbol in der oberen rechten Ecke > **Bibliothekseinstellungen**  >   **Erweiterte Einstellungen**  >  **Öffnen von Dokumenten im Browser**.
 
