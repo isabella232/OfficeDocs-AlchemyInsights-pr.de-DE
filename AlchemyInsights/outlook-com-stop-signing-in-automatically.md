@@ -6,22 +6,23 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "853"
 - "8000008"
 ms.assetid: e7b3ce1b-9291-49ec-b6a6-4dad0f4d6880
-ms.openlocfilehash: 6e3ff70bb9f059790b127fa9da3265fa593f1d53
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3a5703d3040c9bac6e611902e27400b9212f65be
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722339"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47666401"
 ---
-# <a name="how-to-stop-signing-in-automatically"></a><span data-ttu-id="33aac-102">So beenden Sie die Anmeldung automatisch</span><span class="sxs-lookup"><span data-stu-id="33aac-102">How to stop signing in automatically</span></span>
+# <a name="how-to-stop-signing-in-automatically"></a><span data-ttu-id="8c565-102">So beenden Sie die Anmeldung automatisch</span><span class="sxs-lookup"><span data-stu-id="8c565-102">How to stop signing in automatically</span></span>
 
-<span data-ttu-id="33aac-103">Wenn Sie die Anmeldung bei Outlook.com automatisch beenden möchten, deaktivieren Sie das Kontrollkästchen für **angemeldet bleiben** auf der Seite, auf der Sie Ihr Kennwort eingeben.</span><span class="sxs-lookup"><span data-stu-id="33aac-103">To stop signing in to Outlook.com automatically, uncheck the box for **Keep me signed in** on the page where you enter your password.</span></span>
+<span data-ttu-id="8c565-103">Wenn Sie die Anmeldung bei Outlook.com automatisch beenden möchten, deaktivieren Sie das Kontrollkästchen für **angemeldet bleiben** auf der Seite, auf der Sie Ihr Kennwort eingeben.</span><span class="sxs-lookup"><span data-stu-id="8c565-103">To stop signing in to Outlook.com automatically, uncheck the box for **Keep me signed in** on the page where you enter your password.</span></span>
   
-<span data-ttu-id="33aac-104">Weitere Informationen finden Sie unter [Anmelden bei oder bei Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="33aac-104">To learn more, see [How to sign in to or out of Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="8c565-104">Weitere Informationen finden Sie unter [Anmelden bei oder bei Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="8c565-104">To learn more, see [How to sign in to or out of Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
   

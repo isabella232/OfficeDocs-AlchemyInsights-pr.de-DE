@@ -6,21 +6,22 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78916d8f-9549-4a21-b0df-626456b57382
-ms.openlocfilehash: 165417510a0b7d19ddbd7afefff9cd12713e90da
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c5edb5d3e1cc19b2286adc50cc1a5b1d9cf3649f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43686609"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47668490"
 ---
-# <a name="access-services"></a><span data-ttu-id="f1412-102">Access Services</span><span class="sxs-lookup"><span data-stu-id="f1412-102">Access Services</span></span>
+# <a name="access-services"></a><span data-ttu-id="2139e-102">Access Services</span><span class="sxs-lookup"><span data-stu-id="2139e-102">Access Services</span></span>
 
-<span data-ttu-id="f1412-103">Das Access Services-Feature in SharePoint Online wird zurückgezogen.</span><span class="sxs-lookup"><span data-stu-id="f1412-103">The Access Services feature in SharePoint Online is being retired.</span></span> <span data-ttu-id="f1412-104">Neue Access-basierte Webanwendungen und Webdatenbanken können nicht mehr erstellt werden, und vorhandene Webanwendungen und Webdatenbanken werden bis April 2018 heruntergefahren.</span><span class="sxs-lookup"><span data-stu-id="f1412-104">New Access-based web apps and web databases can no longer be created, and existing web apps and web databases will be shut down by April, 2018.</span></span> <span data-ttu-id="f1412-105">Access-Desktop Datenbanken (ACCDB) werden durch diese Änderung nicht beeinträchtigt.</span><span class="sxs-lookup"><span data-stu-id="f1412-105">Access Desktop databases (.accdb) are not impacted by this change.</span></span> <span data-ttu-id="f1412-106">Microsoft PowerApps wird als Alternative zu Access Web Apps-und Webdatenbanken empfohlen.</span><span class="sxs-lookup"><span data-stu-id="f1412-106">We recommend Microsoft PowerApps as an alternative to Access web apps and web databases.</span></span> 
+<span data-ttu-id="2139e-103">Das Access Services-Feature in SharePoint Online wird zurückgezogen.</span><span class="sxs-lookup"><span data-stu-id="2139e-103">The Access Services feature in SharePoint Online is being retired.</span></span> <span data-ttu-id="2139e-104">Neue Access-basierte Webanwendungen und Webdatenbanken können nicht mehr erstellt werden, und vorhandene Webanwendungen und Webdatenbanken werden bis April 2018 heruntergefahren.</span><span class="sxs-lookup"><span data-stu-id="2139e-104">New Access-based web apps and web databases can no longer be created, and existing web apps and web databases will be shut down by April, 2018.</span></span> <span data-ttu-id="2139e-105">Access-Desktop Datenbanken (ACCDB) werden durch diese Änderung nicht beeinträchtigt.</span><span class="sxs-lookup"><span data-stu-id="2139e-105">Access Desktop databases (.accdb) are not impacted by this change.</span></span> <span data-ttu-id="2139e-106">Microsoft PowerApps wird als Alternative zu Access Web Apps-und Webdatenbanken empfohlen.</span><span class="sxs-lookup"><span data-stu-id="2139e-106">We recommend Microsoft PowerApps as an alternative to Access web apps and web databases.</span></span> 
   
-[<span data-ttu-id="f1412-107">Informationen zu Microsoft PowerApps</span><span class="sxs-lookup"><span data-stu-id="f1412-107">Learn about Microsoft PowerApps</span></span>](https://powerapps.microsoft.com/)
+[<span data-ttu-id="2139e-107">Informationen zu Microsoft PowerApps</span><span class="sxs-lookup"><span data-stu-id="2139e-107">Learn about Microsoft PowerApps</span></span>](https://powerapps.microsoft.com/)
   
