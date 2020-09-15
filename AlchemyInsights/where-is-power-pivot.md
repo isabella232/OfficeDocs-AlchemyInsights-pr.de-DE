@@ -1,10 +1,11 @@
 ---
 title: Wo befindet sich Power Pivot?
-ms.author: chrsm
-author: chrsm
+ms.author: pebaum
+author: pebaum
 manager: jecon
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,12 +15,12 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 326f07ae2cf677822e7c7d31eba4e0dc3a6506a4
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3be4424d6a0d76136bf10b2629e43c0a321720ab
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765196"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47719088"
 ---
 # <a name="where-is-power-pivot"></a>Wo befindet sich Power Pivot?
 
@@ -33,7 +34,7 @@ Nicht alle Versionen von Excel enthalten Power Pivot. Sie müssen ein Upgrade au
   
 Wenn Sie in einer Excel-Version arbeiten, die Power Pivot unterstützt, überprüfen Sie, ob das Add-in aktiviert ist:
   
-1. Wählen Sie **Add-ins**für **Datei** \> **Optionen** \> aus.
+1. Wählen **File** Sie \> **Options** \> **Add-ins**für Dateioptionen aus.
 
 2. Wählen Sie im Dropdownfeld **Verwalten** die Option **com-Add-ins** aus, und klicken Sie auf **Gehe**zu.
 
