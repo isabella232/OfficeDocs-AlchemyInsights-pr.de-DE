@@ -5,17 +5,18 @@ author: pebaum
 manager: mnirkhe
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: c0982da82826d1644f437b19e0d343a59d7ac473
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: c2feb6da651d8b3eb7af6a057335b28d26f9e7f6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44664245"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47690962"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>Fehler: die Regeln auf diesem Computer stimmen nicht überein
 
@@ -27,5 +28,5 @@ Verwenden Sie die folgende Problemumgehung, bis das Update verfügbar ist:
 
 **Problemumgehung**: in den letzten Berichten ist das Problem bei denjenigen aufgetreten, die nur Clientregeln in Outlook-Desktop erstellt haben. Wenn Sie weiterhin auf das Problem stoßen, sollten Sie die Regeln löschen und dann Regeln nur in OWA (Outlook Web App) erstellen und bearbeiten, bis das Problem behoben ist.
 
-Wenn Sie die Regeln nicht manuell löschen können, können Sie beim Starten von Outlook einen Outlook-Befehl ausführen, indem Sie Outlook. exe/Cleanrules. ausführen. Dadurch werden sowohl die Client-als auch die Server Regeln gelöscht. Dadurch werden alle Regeln für alle Konten im Outlook-Profil gelöscht. Dieser Befehl wird im Artikel Befehlszeilenoptionen weiter beschrieben.
+Wenn Sie die Regeln nicht manuell löschen können, können Sie beim Starten von Outlook einen Outlook-Befehl ausführen, indem Sie Outlook.exe/Cleanrules. ausführen. Dadurch werden sowohl die Client-als auch die Server Regeln gelöscht. Dadurch werden alle Regeln für alle Konten im Outlook-Profil gelöscht. Dieser Befehl wird im Artikel Befehlszeilenoptionen weiter beschrieben.
 
