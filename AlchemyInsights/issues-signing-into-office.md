@@ -5,27 +5,28 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: e1fc48f367691b2f722b69d631d880c18f3504cb
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: da1437ae8b09139b531deb8930d5648f908fae93
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579828"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47676989"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Probleme bei der Anmeldung bei Microsoft 365-apps
 
-Um Anmeldeprobleme mit Microsoft 365-apps zu beheben, versuchen Sie die folgenden Optionen auf dem betroffenen Computer:  
+Wenn Sie Probleme bei der Anmeldung bei den Microsoft 365-Apps beheben möchten, probieren Sie die folgenden Optionen auf dem betroffenen Computer:  
 
 - Unter Windows finden Sie [Empfehlungen zum Beheben allgemeiner Anmeldeprobleme](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues) .
-- Für Mac finden Sie unter [nicht anmelden bei einer Office 2016 für Mac-app](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+- Für Mac finden Sie unter  [nicht anmelden bei einer Office 2016 für Mac-app](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
 
-**Hinweis:** Das Deaktivieren der modernen Authentifizierung (Adal) oder der Webkonten Verwaltung (WAM) zur Behebung von Anmelde-oder Aktivierungsproblemen **wird nicht empfohlen**. Wenn die Fehler beim Herstellen einer Verbindung mit Microsoft 365 mit Office 2013 auftreten, stellen Sie sicher, dass Sie die [moderne Authentifizierung](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication) für Office-Client aktivieren.
+**Hinweis:** Das Deaktivieren der modernen Authentifizierung (Adal) oder der Webkonten Verwaltung (WAM) zur Behebung von Anmelde-oder Aktivierungsproblemen  **wird nicht empfohlen**. Wenn die Fehler beim Herstellen einer Verbindung mit Microsoft 365 mit Office 2013 auftreten, stellen Sie sicher, dass Sie die [moderne Authentifizierung](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  für Office-Client aktivieren.
 
 Informationen zu bestimmten Problem Behandlungs Aktionen finden Sie unter:
 
