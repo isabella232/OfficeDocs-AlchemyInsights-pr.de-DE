@@ -6,29 +6,30 @@ manager: eliree
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1936"
 - "9000201"
-ms.openlocfilehash: d4ef4295bda8c4845271162f8b0b591ea810eddd
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: c341061e0909e1091071b16e62a2fef69c9e621d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43728786"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658040"
 ---
-# <a name="uninstall-visio"></a><span data-ttu-id="83f83-102">Deinstallieren von Visio</span><span class="sxs-lookup"><span data-stu-id="83f83-102">Uninstall Visio</span></span>
+# <a name="uninstall-visio"></a><span data-ttu-id="3b820-102">Deinstallieren von Visio</span><span class="sxs-lookup"><span data-stu-id="3b820-102">Uninstall Visio</span></span>
 
-<span data-ttu-id="83f83-103">Laden Sie den [Support- und Wiederherstellungs-Assistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy) herunter, und installieren Sie ihn.</span><span class="sxs-lookup"><span data-stu-id="83f83-103">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+<span data-ttu-id="3b820-103">Laden Sie den [Support- und Wiederherstellungs-Assistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy) herunter, und installieren Sie ihn.</span><span class="sxs-lookup"><span data-stu-id="3b820-103">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
   
-1. <span data-ttu-id="83f83-104">Wenn es geöffnet wird, wählen Sie unter **Office-Produkte deinstallieren** die Version von Visio aus, die Sie deinstallieren möchten, und wählen Sie **weiter**aus.</span><span class="sxs-lookup"><span data-stu-id="83f83-104">When it opens, from **Uninstall Office products** select the version of Visio you want to uninstall and select **Next**.</span></span> 
+1. <span data-ttu-id="3b820-104">Wenn es geöffnet wird, wählen Sie unter **Office-Produkte deinstallieren** die Version von Visio aus, die Sie deinstallieren möchten, und wählen Sie **weiter**aus.</span><span class="sxs-lookup"><span data-stu-id="3b820-104">When it opens, from **Uninstall Office products** select the version of Visio you want to uninstall and select **Next**.</span></span> 
     
-2. <span data-ttu-id="83f83-105">Klicken Sie sich durch die Bildschirme, und starten Sie Ihren Computer bei entsprechender Aufforderung neu.</span><span class="sxs-lookup"><span data-stu-id="83f83-105">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="3b820-105">Klicken Sie sich durch die Bildschirme, und starten Sie Ihren Computer bei entsprechender Aufforderung neu.</span><span class="sxs-lookup"><span data-stu-id="3b820-105">Continue going through screens and restart your computer when prompted.</span></span>
     
-    <span data-ttu-id="83f83-106">Nach dem Neustart wird der Support-und Wiederherstellungs-Assistent automatisch erneut geöffnet, um den Deinstallationsvorgang abzuschließen.</span><span class="sxs-lookup"><span data-stu-id="83f83-106">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="3b820-106">Nach dem Neustart wird der Support-und Wiederherstellungs-Assistent automatisch erneut geöffnet, um den Deinstallationsvorgang abzuschließen.</span><span class="sxs-lookup"><span data-stu-id="3b820-106">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
     
-3. <span data-ttu-id="83f83-107">Befolgten verbleibenden Ansagen, und wenn Sie ein Abonnement für Visio Online haben, können Sie Visio aus dem Microsoft 365- [Konto Portal](https://portal.office.com/account#installs)erneut installieren.</span><span class="sxs-lookup"><span data-stu-id="83f83-107">Follow remaining prompts, and if you have a subscription to Visio Online, you can reinstall Visio from the Microsoft 365 [account portal](https://portal.office.com/account#installs).</span></span> <span data-ttu-id="83f83-108">Weitere Hilfe oder Hilfe beim Installieren von Visio-fremden Versionen wie Visio Professional finden Sie unter [install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).</span><span class="sxs-lookup"><span data-stu-id="83f83-108">For additional help or help with installing non-subscription versions of Visio such as Visio Professional, see [Install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).</span></span> 
+3. <span data-ttu-id="3b820-107">Befolgten verbleibenden Ansagen, und wenn Sie ein Abonnement für Visio Online haben, können Sie Visio aus dem Microsoft 365- [Konto Portal](https://portal.office.com/account#installs)erneut installieren.</span><span class="sxs-lookup"><span data-stu-id="3b820-107">Follow remaining prompts, and if you have a subscription to Visio Online, you can reinstall Visio from the Microsoft 365 [account portal](https://portal.office.com/account#installs).</span></span> <span data-ttu-id="3b820-108">Weitere Hilfe oder Hilfe beim Installieren von Visio-fremden Versionen wie Visio Professional finden Sie unter [install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).</span><span class="sxs-lookup"><span data-stu-id="3b820-108">For additional help or help with installing non-subscription versions of Visio such as Visio Professional, see [Install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).</span></span> 
     
-<span data-ttu-id="83f83-109">Eine Liste mit anderen Deinstallationsoptionen finden Sie unter [Deinstallieren von Office auf einem PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).</span><span class="sxs-lookup"><span data-stu-id="83f83-109">For a list of other uninstall options, select [Uninstall Office from a PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).</span></span>
+<span data-ttu-id="3b820-109">Eine Liste mit anderen Deinstallationsoptionen finden Sie unter [Deinstallieren von Office auf einem PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).</span><span class="sxs-lookup"><span data-stu-id="3b820-109">For a list of other uninstall options, select [Uninstall Office from a PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).</span></span>
