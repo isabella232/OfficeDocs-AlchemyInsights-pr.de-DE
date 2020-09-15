@@ -4,6 +4,7 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -11,27 +12,27 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: afd36494282e3974a903b7f9e4d34521d8e0faf4
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2c9a60453431bb965fda0c6ac1191f1c24420d3b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36745504"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693050"
 ---
-# <a name="dynamics-365-portals-recommended-solutions"></a><span data-ttu-id="f70b6-102">Dynamics 365 Portale Empfohlene Lösungen</span><span class="sxs-lookup"><span data-stu-id="f70b6-102">Dynamics 365 portals recommended solutions</span></span>
+# <a name="dynamics-365-portals-recommended-solutions"></a><span data-ttu-id="60b0a-102">Dynamics 365 Portale Empfohlene Lösungen</span><span class="sxs-lookup"><span data-stu-id="60b0a-102">Dynamics 365 portals recommended solutions</span></span>
 
-* [<span data-ttu-id="f70b6-103">Anzeigen detaillierter Server Fehler, die in meinem Portal angezeigt werden</span><span class="sxs-lookup"><span data-stu-id="f70b6-103">How to view detailed Server Error shown on my portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
+* [<span data-ttu-id="60b0a-103">Anzeigen detaillierter Server Fehler, die in meinem Portal angezeigt werden</span><span class="sxs-lookup"><span data-stu-id="60b0a-103">How to view detailed Server Error shown on my portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
 
-* [<span data-ttu-id="f70b6-104">Zurücksetzen eines Portals</span><span class="sxs-lookup"><span data-stu-id="f70b6-104">How to reset a portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
+* [<span data-ttu-id="60b0a-104">Zurücksetzen eines Portals</span><span class="sxs-lookup"><span data-stu-id="60b0a-104">How to reset a portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
 
-* [<span data-ttu-id="f70b6-105">Löschen des serverseitigen Caches für ein Portal</span><span class="sxs-lookup"><span data-stu-id="f70b6-105">How to clear the server-side cache for a portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
+* [<span data-ttu-id="60b0a-105">Löschen des serverseitigen Caches für ein Portal</span><span class="sxs-lookup"><span data-stu-id="60b0a-105">How to clear the server-side cache for a portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* [<span data-ttu-id="f70b6-106">Vorgehensweise ändern der Benutzergruppe und des Typs eines Dynamics 365-Portals</span><span class="sxs-lookup"><span data-stu-id="f70b6-106">How to change the audience and type of a Dynamics 365 Portal</span></span>](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [<span data-ttu-id="60b0a-106">Vorgehensweise ändern der Benutzergruppe und des Typs eines Dynamics 365-Portals</span><span class="sxs-lookup"><span data-stu-id="60b0a-106">How to change the audience and type of a Dynamics 365 Portal</span></span>](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
-* [<span data-ttu-id="f70b6-107">Vorgehensweise ändern der Basis-URL eines Portals</span><span class="sxs-lookup"><span data-stu-id="f70b6-107">How to change the base URL of a portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
+* [<span data-ttu-id="60b0a-107">Vorgehensweise ändern der Basis-URL eines Portals</span><span class="sxs-lookup"><span data-stu-id="60b0a-107">How to change the base URL of a portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
-* [<span data-ttu-id="f70b6-108">Konfigurieren eines externen Identitätsanbieters mit Portal</span><span class="sxs-lookup"><span data-stu-id="f70b6-108">How to configure external Identity Provider with portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
+* [<span data-ttu-id="60b0a-108">Konfigurieren eines externen Identitätsanbieters mit Portal</span><span class="sxs-lookup"><span data-stu-id="60b0a-108">How to configure external Identity Provider with portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
 
-* [<span data-ttu-id="f70b6-109">Häufig gestellte Fragen</span><span class="sxs-lookup"><span data-stu-id="f70b6-109">Frequently Asked Questions</span></span>](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
+* [<span data-ttu-id="60b0a-109">Häufig gestellte Fragen</span><span class="sxs-lookup"><span data-stu-id="60b0a-109">Frequently Asked Questions</span></span>](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
 
-* [<span data-ttu-id="f70b6-110">Erste Schritte mit meinem Dynamics 365-Portal</span><span class="sxs-lookup"><span data-stu-id="f70b6-110">Getting started with My Dynamics 365 Portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
+* [<span data-ttu-id="60b0a-110">Erste Schritte mit meinem Dynamics 365-Portal</span><span class="sxs-lookup"><span data-stu-id="60b0a-110">Getting started with My Dynamics 365 Portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
