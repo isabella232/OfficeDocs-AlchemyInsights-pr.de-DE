@@ -5,6 +5,7 @@ author: markjjo
 manager: lauraw
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 05c58bded5ba45aef8ae3bc1d33491e6e0365c18
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 8821a2ee1ae2207de5d1604762badf43808373c8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502426"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664025"
 ---
 # <a name="alert-policies"></a>Warnungsrichtlinien
 
@@ -36,7 +37,7 @@ So überprüfen und reagieren Sie auf eine Warnung:
 
 Sie können Aktionen für eine Warnung durchführen, beispielsweise [das Entfernen einer verdächtigen Posteingangsregel](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account). Sie können die Benachrichtigung auch einfach schließen, indem Sie auf der Seite Warnungs Flyout auf **Auflösen** klicken.
 
-Weitere Informationen zum Konfigurieren und Verwalten von Warnungsrichtlinien finden Sie in [diesem Artikel](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
+Weitere Informationen zum Konfigurieren und Verwalten von Warnungsrichtlinien finden Sie in  [diesem Artikel](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
 
 **Wichtig**: Benachrichtigungs-e-Mail-Benachrichtigungen von Microsoft werden Sie nie bitten, Folgendes zu tun:
 

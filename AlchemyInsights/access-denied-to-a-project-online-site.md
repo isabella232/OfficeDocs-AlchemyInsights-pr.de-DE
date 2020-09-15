@@ -5,18 +5,19 @@ author: pebaum
 manager: pamg
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "1381"
-ms.openlocfilehash: ea2069f73db1e7ff52ca7fa0be46b002e9b2702a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a5809e4afd3ea316bf97796899fcf2347e804ecd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050560"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663656"
 ---
 # <a name="give-users-permissions-in-project-online"></a>Erteilen von Berechtigungen für Benutzer in Project Online
 
@@ -26,6 +27,6 @@ Erteilen Sie Benutzern den Zugriff auf eine Project Web App Website mithilfe des
 2. Wählen Sie auf der Project Web App Startseite in der oberen rechten Ecke **Freigeben** aus.
 3. Geben Sie im Dialogfeld **Freigabe Project Web App** im Feld **Personen einladen** den Benutzernamen der Person ein, der Sie Zugriff gewähren möchten.
 4. Wählen Sie **Optionen anzeigen**aus, und wählen Sie im Menü **Berechtigungsstufe auswählen** die Option **Projektmanager für Project Web App**aus.
-5. Wählen Sie **Freigeben**aus.
+5. Wählen Sie **Freigeben** aus.
 
 Wenn Sie den Project-Berechtigungsmodus verwenden oder weitere Informationen finden Sie unter [Hinzufügen von Personen zu Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).

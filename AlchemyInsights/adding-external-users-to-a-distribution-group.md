@@ -4,15 +4,16 @@ ms.author: chrisda
 author: chrisda
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: 7dbc69bced9ca800d3f95081b77dda5e49662579
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 03cfd2c576cb03cbefd524a4ab6f04e2ef1eebec
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43910931"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663512"
 ---
 # <a name="add-external-users-to-a-distribution-group"></a>Hinzufügen externer Benutzer zu einer Verteilergruppe
 
@@ -20,7 +21,7 @@ Das Hinzufügen eines externen Kontakts zu einer Verteilergruppe (DG) ist ein zw
   
 1. Erstellen Sie einen e-Mail-Kontakt für den externen Benutzer:
     
-    1. Wechseln Sie im Admin Center zur Seite **Benutzer** > [Kontakte](https://admin.microsoft.com/adminportal/home#/Contact) . 
+    1. Wechseln Sie im Admin Center zur Seite **Benutzer**  >  [Kontakte](https://admin.microsoft.com/adminportal/home#/Contact) . 
     
     2. Wählen Sie **Kontakt hinzufügen**aus.
     
