@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 382ce7702e4726457ec802d1eec658477505e44e
-ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
+ms.openlocfilehash: 9ab6542d80ba62eb1640d0010d11ad6ae637ced9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44541990"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47701678"
 ---
 # <a name="remove-the-large-attachment"></a>Entfernen der großen Anlage
 
@@ -26,7 +27,7 @@ ms.locfileid: "44541990"
 2. Wählen Sie im Navigationsbereich die Option **Postausgang**aus. Hier haben Sie folgende Möglichkeiten: 
     - Löschen Sie die Nachricht (Wählen Sie Sie aus, und wählen Sie dann **Löschen**aus).
     - Ziehen Sie die Nachricht in den Ordner Entwürfe, doppelklicken Sie darauf, um Sie zu öffnen, und entfernen Sie die Anlage, wählen Sie Sie aus, und wählen Sie dann **Löschen**aus.
-3. Wenn Sie eine Fehlermeldung erhalten, die besagt, dass Outlook versucht, die Nachricht zu übermitteln, schließen Sie Outlook. Es kann ein paar Augenblicke dauern, bis das Programm beendet ist. Wenn Outlook nicht geschlossen wird, drücken Sie STRG + ALT + ENTF, und klicken Sie dann auf **Task-Manager starten**. Wählen Sie im Task-Manager die Registerkarte **Prozesse** aus, Scrollen Sie nach unten zu Outlook. exe, und wählen Sie **Prozess beenden**aus.
+3. Wenn Sie eine Fehlermeldung erhalten, die besagt, dass Outlook versucht, die Nachricht zu übermitteln, schließen Sie Outlook. Es kann ein paar Augenblicke dauern, bis das Programm beendet ist. Wenn Outlook nicht geschlossen wird, drücken Sie STRG + ALT + ENTF, und klicken Sie dann auf **Task-Manager starten**. Wählen Sie im Task-Manager die Registerkarte **Prozesse** aus, führen Sie einen Bildlauf nach unten bis outlook.exe aus, und wählen Sie **Prozess beenden**aus.
 4. Nachdem Outlook geschlossen wurde, starten Sie es neu, und wiederholen Sie die Schritte 2 und 3. 
 5. Nachdem Sie die Anlage entfernt haben, klicken Sie auf **senden/empfangen**  >  **Arbeiten offline** , um die Online Arbeit fortzusetzen. 
 

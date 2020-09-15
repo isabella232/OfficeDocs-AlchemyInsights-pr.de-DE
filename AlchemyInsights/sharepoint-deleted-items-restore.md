@@ -5,6 +5,7 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,16 +13,16 @@ ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.custom:
 - "9000210"
 - "1782"
-ms.openlocfilehash: 61016010133bf07fa321be1a5bdef1674bcc2550
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7db0963bd43115fbd6b793751219ab93640b8310
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054124"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700742"
 ---
 # <a name="restore-deleted-items-from-sharepoint"></a>Wiederherstellen gelöschter Elemente aus SharePoint
 
-Wenn Sie ein Element oder eine Website aus SharePoint löschen, wird es nicht sofort entfernt. Gelöschte Elemente wechseln für einen bestimmten Zeitraum in den Papierkorb. Während dieser Zeit können Sie die gelöschten Elemente an Ihrem ursprünglichen Speicherort wiederherstellen. Weitere Informationen finden Sie unter den Links unten.
+Wenn Sie Elemente oder Websites aus SharePoint löschen, werden diese nicht sofort entfernt. Gelöschte Elemente werden für einen bestimmten Zeitraum in den Papierkorb verschoben. Während dieser Zeit können Sie die Dateien an ihrem ursprünglichen Speicherort wiederherstellen. Weitere Informationen finden Sie unter den Links unten.
 
 - [Wiederherstellen von Elementen im Papierkorb einer SharePoint-Website](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
 
@@ -35,7 +36,7 @@ Wenn Sie ein Element oder eine Website aus SharePoint löschen, wird es nicht so
 
 - [SharePoint Online PNP](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
 
-**Datei Wiederherstellung (Feature)**
+**Dateiwiederherstellungsfeature**
 
 Wenn viele ihrer OneDrive-oder SharePoint-Dateien gelöscht, überschrieben, beschädigt oder durch Schadsoftware infiziert werden, können Sie die gesamte OneDrive-oder SharePoint-Bibliothek mit dem Feature zum Wiederherstellen der Dateien in einem früheren Zeitpunkt wiederherstellen.
 
