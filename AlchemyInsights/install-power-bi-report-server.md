@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1304"
 - "2500001"
-ms.openlocfilehash: 38ef162bd5c26328ee70af37df07adfbf2bfd93b
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 3ea596547093773ab872ca34e8dd3a4e49e59fd7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752375"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755094"
 ---
 # <a name="install-power-bi-report-server"></a>Installieren des Power BI-Berichtsservers
 
-1. Suchen Sie den Speicherort von PowerBIReportServer. exe, und starten Sie das Installationsprogramm.
+1. Suchen Sie den Speicherort von PowerBIReportServer.exe, und starten Sie das Installationsprogramm.
 
 2. Wählen Sie **Power BI-Berichts Server installieren**aus.
 
@@ -36,4 +37,4 @@ ms.locfileid: "35752375"
 
 Zum Zeitpunkt der Installation benötigen Sie keinen SQL Server Datenbankmodul-Server zur Verfügung. Sie benötigen eine, um Reporting Services nach der Installation zu konfigurieren.
 
-Weitere Informationen:https://docs.microsoft.com/power-bi/report-server/install-report-server
+Weitere Informationen: https://docs.microsoft.com/power-bi/report-server/install-report-server
