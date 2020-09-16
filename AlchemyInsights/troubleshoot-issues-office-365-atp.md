@@ -6,21 +6,22 @@ manager: laurawi
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: f1dc675c8a8217ea2824ad46e029bfa303303e6a
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4164781a331ec919811332e94636449e9d88430d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511111"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47758064"
 ---
 # <a name="troubleshoot-issues-with-office-365-atp"></a>Behandeln von Problemen mit Office 365 ATP
 
 - **Beachten Sie Verzögerungen bei der Zustellung von e-Mail-Nachrichten** Versuchen Sie, die dynamische Zustellungsoption für Ihre Richtlinien für ATP-sichere Anlagen zu verwenden. Dadurch werden Verzögerungen bei der Zustellung von e-Mails vermieden, während Empfänger vor bösartigen Dateien geschützt werden.
-- **Möchten Sie falsch positive Ergebnisse oder falsch negative Meldungen melden**? Über diesen Link können Sie Ihre Datei zur Analyse übermitteln:[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
+- **Möchten Sie falsch positive Ergebnisse oder falsch negative Meldungen melden**? Über diesen Link können Sie Ihre Datei zur Analyse übermitteln: [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
 - **Wussten Sie, dass Sie den Schutz für ATP-sichere Links für e-Mails aktivieren können, die zwischen Personen in Ihrer Organisation gesendet werden**? Führen Sie die folgenden Schritte aus:
     1. Wechseln Sie zu https://protection.office.com , und melden Sie sich an.
     2. Wechseln Sie **Threat management**zu  >  **Policy**  >  **sichere Links**zu Threat Management Policy.
