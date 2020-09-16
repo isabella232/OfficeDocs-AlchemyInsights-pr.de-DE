@@ -5,29 +5,28 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002424"
 - "4708"
-ms.openlocfilehash: d0401008fc91fa5e03266ff60389a9706fda5655
-ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
+ms.openlocfilehash: 7d2739006249ee64209ee2ad39f996daf25968d3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43158547"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693302"
 ---
-# <a name="purchase-project-subscription"></a><span data-ttu-id="8c458-102">Project-Abonnement kaufen</span><span class="sxs-lookup"><span data-stu-id="8c458-102">Purchase Project subscription</span></span>
+# <a name="purchase-project-subscription"></a><span data-ttu-id="2d16b-102">Project-Abonnement kaufen</span><span class="sxs-lookup"><span data-stu-id="2d16b-102">Purchase Project subscription</span></span>
 
-<span data-ttu-id="8c458-103">Administratoren können das Project_Abonnement für ihre Organisation über das **Microsoft 365 Admin Center** erwerben.</span><span class="sxs-lookup"><span data-stu-id="8c458-103">Admins can purchase the Project subscription for their organization from the **Microsoft 365 Admin Center**.</span></span>
+<span data-ttu-id="2d16b-103">Administratoren können das Project-Abonnement für ihre Organisation über das **Microsoft 365 Admin Center** erwerben.</span><span class="sxs-lookup"><span data-stu-id="2d16b-103">Admins can purchase the Project subscription for their organization from the **Microsoft 365 admin center**.</span></span>
 
-1. <span data-ttu-id="8c458-104">Klicken Sie auf **Abrechnung**.</span><span class="sxs-lookup"><span data-stu-id="8c458-104">Click **Billing**.</span></span>
+1. <span data-ttu-id="2d16b-104">Wechseln Sie zur Seite **Abrechnung** > **[Dienste kaufen](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/catalog)**, um die für Ihre Organisation zum Kauf verfügbaren Abonnements anzuzeigen.</span><span class="sxs-lookup"><span data-stu-id="2d16b-104">Go to the **Billing** > **[Purchase services](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/catalog)** page to view available subscriptions to purchase for your organization.</span></span>
 
-2. <span data-ttu-id="8c458-105">Klicken Sie auf **[Dienste kaufen](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/catalog)**, um die verfügbaren Abonnements für Ihre Organisation anzuzeigen.</span><span class="sxs-lookup"><span data-stu-id="8c458-105">Click **[Purchase services](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/catalog)** to view available subscriptions to purchase for your organization.</span></span>
+2. <span data-ttu-id="2d16b-105">Suchen Sie die Project-Abonnements, indem Sie nach „Project“ suchen.</span><span class="sxs-lookup"><span data-stu-id="2d16b-105">Locate the Project Plans by searching on "Project".</span></span>
 
-3. <span data-ttu-id="8c458-106">Suchen Sie die Project-Abonnements, indem Sie nach „Project“ suchen.</span><span class="sxs-lookup"><span data-stu-id="8c458-106">Locate the Project Plans by searching on "Project".</span></span>
+3. <span data-ttu-id="2d16b-106">Wählen Sie aus den verschiedenen verfügbaren Project-Abonnements aus.</span><span class="sxs-lookup"><span data-stu-id="2d16b-106">Select from the different Project Plans available.</span></span>
 
-4. <span data-ttu-id="8c458-107">Wählen Sie aus den verschiedenen verfügbaren Project-Abonnements aus.</span><span class="sxs-lookup"><span data-stu-id="8c458-107">Select from the different Project Plans available.</span></span>
-
-<span data-ttu-id="8c458-108">Weitere Informationen zu den Unterschieden zwischen Project-Abonnements 1, 3 und 5 finden Sie unter [Vergleichen von Project-Optionen](https://products.office.com/project/compare-microsoft-project-management-software?tab=1&OCID=AID2000748_SEM_5j2j5X4B&MarinID=5j2j5X4B|78821275986631|%2Bproject%20%2Bo365|bb|c||1261139959949905|kwd-78821311481635:loc-190&lnkd=Bing_O365SMB_App&msclkid=185eccc165db1d3da290924720afcaa4&ef_id=XoY8vgAAAUTu0Bj8:20200402200513:s).</span><span class="sxs-lookup"><span data-stu-id="8c458-108">See [Compare Project options](https://products.office.com/project/compare-microsoft-project-management-software?tab=1&OCID=AID2000748_SEM_5j2j5X4B&MarinID=5j2j5X4B|78821275986631|%2Bproject%20%2Bo365|bb|c||1261139959949905|kwd-78821311481635:loc-190&lnkd=Bing_O365SMB_App&msclkid=185eccc165db1d3da290924720afcaa4&ef_id=XoY8vgAAAUTu0Bj8:20200402200513:s) to learn more about the differences between Project Plan 1, 3, and 5.</span></span>
+<span data-ttu-id="2d16b-107">Weitere Informationen zu den Unterschieden zwischen Project-Abonnements 1, 3 und 5 finden Sie unter [Vergleichen von Project-Optionen](https://products.office.com/project/compare-microsoft-project-management-software?tab=1&OCID=AID2000748_SEM_5j2j5X4B&MarinID=5j2j5X4B|78821275986631|%2Bproject%20%2Bo365|bb|c||1261139959949905|kwd-78821311481635:loc-190&lnkd=Bing_O365SMB_App&msclkid=185eccc165db1d3da290924720afcaa4&ef_id=XoY8vgAAAUTu0Bj8:20200402200513:s).</span><span class="sxs-lookup"><span data-stu-id="2d16b-107">See [Compare Project options](https://products.office.com/project/compare-microsoft-project-management-software?tab=1&OCID=AID2000748_SEM_5j2j5X4B&MarinID=5j2j5X4B|78821275986631|%2Bproject%20%2Bo365|bb|c||1261139959949905|kwd-78821311481635:loc-190&lnkd=Bing_O365SMB_App&msclkid=185eccc165db1d3da290924720afcaa4&ef_id=XoY8vgAAAUTu0Bj8:20200402200513:s) to learn more about the differences between Project Plan 1, 3, and 5.</span></span>
