@@ -5,15 +5,16 @@ author: pebaum
 manager: pamgreen
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 3b863c5e9962dd29ca2ed41d113041d74830f615
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 512494a69ab274af00962cb9777a3479b4200fd7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702737"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47725406"
 ---
 # <a name="troubleshoot-issue---user-not-found-in-directory"></a>Problembehandlung – Benutzer wurde nicht im Verzeichnis gefunden
 
@@ -23,7 +24,7 @@ Die folgenden Schritte können zur Behandlung des Problems ausgeführt werden.
 
 - Stellen Sie sicher, dass das Konto, mit dem die e-Mail-Einladung angenommen wurde, das gleiche Konto ist, mit dem Sie sich später anmelden. Stellen Sie sicher, dass der Benutzer dasselbe Konto verwendet, um die Einladung zu akzeptieren und sich bei der Website anzumelden. 
 
-Weitere Informationen finden Sie unter [Vorgehensweise Verwalten von Aliasen für</a> Ihr Microsoft-Konto zum Verwalten der Microsoft 365-Anmeldung](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
+Weitere Informationen finden Sie unter [Vorgehensweise Verwalten von Aliasen für Ihr Microsoft-Konto </a> zum Verwalten der Microsoft 365-Anmeldung](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
 
 - Wechseln Sie zu jedem Standort (en), in dem der Benutzer den Fehler empfängt. 
 
