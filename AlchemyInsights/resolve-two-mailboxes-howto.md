@@ -6,6 +6,7 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -13,15 +14,15 @@ ms.custom:
 - "2692"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 95d85d7737ae0684b2a2c017134104bd377695f1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 048c527b26d138535550b5bae399d0ce9fbce0a6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722512"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47720897"
 ---
-# <a name="a-user-has-two-mailboxes"></a><span data-ttu-id="a4d2b-102">Ein Benutzer verfügt über zwei Postfächer</span><span class="sxs-lookup"><span data-stu-id="a4d2b-102">A user has two mailboxes</span></span>
+# <a name="a-user-has-two-mailboxes"></a><span data-ttu-id="006f2-102">Ein Benutzer verfügt über zwei Postfächer</span><span class="sxs-lookup"><span data-stu-id="006f2-102">A user has two mailboxes</span></span>
 
-<span data-ttu-id="a4d2b-103">Hybrid Umgebungen, die Azure Active Directory Connect (AAD Connect) oder Dirsync verwenden, können versehentlich dazu führen, dass ein Benutzer über zwei Postfächer verfügt: einen lokal und einen in der Cloud.</span><span class="sxs-lookup"><span data-stu-id="a4d2b-103">Hybrid environments that use Azure Active Directory Connect (AAD Connect) or DirSync might accidentally cause a user to have two mailboxes: one on-premises, and one in the cloud.</span></span> <span data-ttu-id="a4d2b-104">An beiden stellen konnte ein doppeltes Postfach erstellt werden.</span><span class="sxs-lookup"><span data-stu-id="a4d2b-104">A duplicate mailbox could be created in either place.</span></span>
+<span data-ttu-id="006f2-103">Hybrid Umgebungen, die Azure Active Directory Connect (AAD Connect) oder Dirsync verwenden, können versehentlich dazu führen, dass ein Benutzer über zwei Postfächer verfügt: einen lokal und einen in der Cloud.</span><span class="sxs-lookup"><span data-stu-id="006f2-103">Hybrid environments that use Azure Active Directory Connect (AAD Connect) or DirSync might accidentally cause a user to have two mailboxes: one on-premises, and one in the cloud.</span></span> <span data-ttu-id="006f2-104">An beiden stellen konnte ein doppeltes Postfach erstellt werden.</span><span class="sxs-lookup"><span data-stu-id="006f2-104">A duplicate mailbox could be created in either place.</span></span>
 
-<span data-ttu-id="a4d2b-105">Informationen zum Beheben dieses Problems finden Sie unter [Wiederherstellen, wenn ein Postfach sowohl in Exchange Online als auch lokal vorhanden ist](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises).</span><span class="sxs-lookup"><span data-stu-id="a4d2b-105">To resolve this issue, see [How to recover when a mailbox exists in both Exchange Online and on-premises](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises).</span></span> <span data-ttu-id="a4d2b-106">Wenn Sie mehr darüber erfahren möchten, wie dies in Zukunft vermieden werden kann, finden Sie unter [mein Benutzer verfügt über ein Postfach sowohl lokal als auch in Exchange Online. Hilfe!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).</span><span class="sxs-lookup"><span data-stu-id="a4d2b-106">If you want to learn more about how to avoid this from happening in the future, see [My user has a mailbox both on-premises and in Exchange Online. Help!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).</span></span>
+<span data-ttu-id="006f2-105">Informationen zum Beheben dieses Problems finden Sie unter [Wiederherstellen, wenn ein Postfach sowohl in Exchange Online als auch lokal vorhanden ist](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises).</span><span class="sxs-lookup"><span data-stu-id="006f2-105">To resolve this issue, see [How to recover when a mailbox exists in both Exchange Online and on-premises](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises).</span></span> <span data-ttu-id="006f2-106">Wenn Sie mehr darüber erfahren möchten, wie dies in Zukunft vermieden werden kann, finden Sie unter [mein Benutzer verfügt über ein Postfach sowohl lokal als auch in Exchange Online. Hilfe!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).</span><span class="sxs-lookup"><span data-stu-id="006f2-106">If you want to learn more about how to avoid this from happening in the future, see [My user has a mailbox both on-premises and in Exchange Online. Help!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).</span></span>
