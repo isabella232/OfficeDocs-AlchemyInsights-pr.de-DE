@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: f51fd233db5ae068e719f1cf3bc94a0dac82444f
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 88157f9c82bc970e989d47f5cf376b7ce485cb2a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265015"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750306"
 ---
 # <a name="troubleshooting-audio-issues-in-windows-10"></a>Problembehandlung bei Audioproblemen in Windows 10
 
@@ -24,13 +25,13 @@ ms.locfileid: "42265015"
 
 1.  Öffnen Sie die [Problembehandlungseinstellungen](ms-settings:troubleshoot).
 
-2.  Wählen Sie **Wiedergabe von Audio** > **Ausführen der Problembehandlung**aus.
+2.  Wählen Sie **Wiedergabe von Audio**  >  **Ausführen der Problembehandlung**aus.
 
 **Festlegen des Standardgeräts**
 
 Wenn Sie über USB oder HDMI eine Verbindung mit einem Audiogerät herstellen, müssen Sie dieses Gerät möglicherweise als Standard festlegen:
 
-1. Öffnen Sie **Start** > **Sound**, und wählen Sie dann **Sound** aus der Ergebnisliste aus, oder ändern Sie die **Systemsounds** .
+1. Öffnen Sie **Start**  >  **Sound**, und wählen Sie dann **Sound** aus der Ergebnisliste aus, oder ändern Sie die **Systemsounds** .
 
 2.  Wählen Sie auf der Registerkarte **Wiedergabe** ein Gerät aus, wählen Sie **Standard festlegen**aus, und wählen Sie dann **OK**aus.
 
@@ -62,4 +63,4 @@ Wenn Sie nicht über den Geräte-Manager aktualisieren oder einen neuen Treiber 
 
 1. Klicken Sie im Geräte-Manager mit der rechten Maustaste auf den Audiotreiber (oder halten Sie ihn gedrückt), und wählen Sie **deinstallieren**aus. Starten Sie Ihr Gerät neu, und Windows versucht, den Treiber erneut zu installieren.
 
-2. Wenn die Neuinstallation des Treibers nicht funktioniert, versuchen Sie, den generischen Audiotreiber zu verwenden, der mit Windows ausgeliefert wird. Klicken Sie im Geräte-Manager mit der rechten Maustaste auf den Audiotreiber > **Update Driver Software** > auf**meinem Computer nach Treibersoftware** > suchen**lassen Sie mich aus einer Liste der Gerätetreiber auf meinem Computer**auswählen, wählen Sie **High Definition Audio Device**aus, wählen Sie **weiter**aus, und befolgen Sie die Anweisungen, um es zu installieren.
+2. Wenn die Neuinstallation des Treibers nicht funktioniert, versuchen Sie, den generischen Audiotreiber zu verwenden, der mit Windows ausgeliefert wird. Klicken Sie im Geräte-Manager mit der rechten Maustaste auf den Audiotreiber > **Update Driver Software**  >  auf**meinem Computer nach Treibersoftware suchen**  >  **lassen Sie mich aus einer Liste der Gerätetreiber auf meinem Computer**auswählen, wählen Sie **High Definition Audio Device**aus, wählen Sie **weiter**aus, und befolgen Sie die Anweisungen, um es zu installieren.
