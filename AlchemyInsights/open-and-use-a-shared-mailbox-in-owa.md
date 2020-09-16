@@ -6,6 +6,7 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,15 +14,25 @@ ms.custom:
 - "1581"
 - "9000089"
 ms.assetid: ''
-ms.openlocfilehash: 91777a95b705b64799627be6602757381f128ea1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6b4db67aab55f309c83aeddf7744cbd047881bea
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682075"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47729042"
 ---
-# <a name="open-and-use-a-shared-mailbox-in-outlook-on-the-web"></a>Öffnen und Verwenden eines freigegebenen Postfachs in Outlook im Web
+# <a name="open-and-use-a-shared-mailbox-in-outlook"></a>Öffnen und Verwenden eines geteilten Postfachs in Outlook
 
-Freigegebene Postfächer, auf die Sie Zugriff haben, werden nicht automatisch in Outlook im Web (vormals Outlook Web App) angezeigt.
+Mit freigegebenen Postfächern kann eine Gruppe von Personen E-Mails einer gemeinsamen E-Mail-Adresse überwachen und senden. 
 
-Sie können das freigegebene Postfach und Ihr primäres Postfach zusammen anzeigen oder das freigegebene Postfach in einem separaten Browserfenster öffnen. Wenn Sie neue Benachrichtigungen für das freigegebene Postfach erhalten möchten, müssen Sie das freigegebene Postfach in einem separaten Browserfenster öffnen. Weitere Informationen finden Sie unter [Öffnen und Verwenden eines freigegebenen Postfachs in Outlook Web App](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).
+**Hinweis**: Ihr Microsoft 365-Administrator muss das freigegebene Postfach erstellen und Sie als Mitglied hinzufügen.
+
+Im Folgenden erfahren Sie, wie Sie das freigegebene Postfach öffnen und verwenden:
+
+- [Hinzufügen eines freigegebenen Postfachs zu Outlook im Web](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
+
+- [Öffnen und Verwenden eines freigegebenen Postfachs in Outlook für Windows](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-d94a8e9e-21f1-4240-808b-de9c9c088afd)
+
+- [Öffnen eines freigegebenen Ordners oder Postfachs in Outlook für Mac](https://support.office.com/article/Open-a-shared-folder-or-mailbox-in-Outlook-for-Mac-6ecc39c5-5577-4a1d-b18c-bbdc92972cb2)
+
+- [Hinzufügen eines freigegebenen Postfachs zu Outlook Mobile (Outlook für iOS und Android)](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f)

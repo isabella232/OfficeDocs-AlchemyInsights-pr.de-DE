@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002453"
 - "4763"
-ms.openlocfilehash: 8f9b9a06d12c289f40f9be8247621a01c619f21e
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: a056a9bf006b2400b94ee52444ab83e71b232348
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789229"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47737556"
 ---
 # <a name="subscription-no-longer-active"></a>Abonnement ist nicht mehr aktiv
 
@@ -24,12 +25,14 @@ Wenn beim [Öffnen einer Microsoft-Anwendung ein Abonnementhinweis angezeigt wir
 
 **Reaktivieren eines Abonnements**
 
-1. Navigieren Sie im Admin Center zur Seite **Abrechnung > [Produkte und Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > **[Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Suchen Sie auf der Seite Produkte und Dienste das Abonnement aus, das Sie reaktivieren möchten.
+2. Suchen Sie das Abonnement, das Sie reaktivieren möchten.
 
-3. Klicken Sie im Abschnitt Abrechnung auf die Option **Jetzt reaktivieren**.  Wenn Sie sich in der Ansicht „Karten“ befinden, klicken Sie auf die Auslassungspunkte zwischen Name und Verfügbare Menge und dann im Menü auf Reaktivieren. **Hinweis**: Wenn das gesuchte Abonnement nicht angezeigt wird, müssen Sie den Filter Abonnementstatus oben auf der Seite möglicherweise auf **Alle** ändern.
+3. Klicken Sie im Abschnitt **Abrechnung** auf die Option **Jetzt reaktivieren**.  Wenn Sie sich in der Ansicht **Karten** befinden, klicken Sie auf die Auslassungspunkte zwischen **Name** und **Verfügbare Menge**, und wählen Sie dann im Menü **Reaktivieren** aus.
+
+**Hinweis**: Wenn das gesuchte Abonnement nicht angezeigt wird, müssen Sie den Filter **Abonnementstatus** oben auf der Seite möglicherweise auf **Alle** ändern.
 
 4. Bestätigen Sie Ihre Zahlungsinformationen, um Ihre aktuellen Zahlungsinformationen zu aktualisieren. Wenn Sie die Eingabe der Zahlungsmethode abgeschlossen haben, klicken Sie auf **Reaktivieren**.
 
-Weitere Informationen finden Sie unter [Ihr Abonnement reaktivieren](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Weitere Informationen finden Sie unter [Ihr Abonnement reaktivieren](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
