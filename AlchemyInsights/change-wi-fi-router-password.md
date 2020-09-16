@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: c0413d1a262d2b7c0245f0fae16b4b60d0a35e19
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: 85aa158d917521fac871fd5c6687737fd22d736c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584512"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47733434"
 ---
 # <a name="change-your-wi-fi-router-password"></a>Ändern des Kennworts für den Wi-Fi-Router
 
 Führen Sie die folgenden Schritte aus, um das Kennwort Ihres WLAN-Routers zu ändern:
 
-1. Wählen Sie **Start** > **Einstellungen** > **Netzwerk & Internet** > **Netzwerk und Freigabe Center**aus.
+1. Wählen Sie **Start**  >  **Einstellungen**  >  **Netzwerk & Internet**  >  **Netzwerk und Freigabe Center**aus.
 
 2. Suchen Sie unter **aktive Netzwerke anzeigen**nach dem Netzwerk, mit dem Sie verbunden sind. Wählen Sie den blauen Link neben **Verbindungen**aus.<br>
 
