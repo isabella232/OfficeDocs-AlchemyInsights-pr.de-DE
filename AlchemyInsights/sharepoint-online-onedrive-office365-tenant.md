@@ -4,18 +4,19 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "1161"
 - "5200019"
-ms.openlocfilehash: 8798987db5e39e5f49aceac458ae985e2c3d6b21
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 94e9a69fbc8b3d8f8814a260d29b17c11f76b099
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43787369"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770991"
 ---
 # <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online oder OneDrive "einrichten"
 
@@ -23,4 +24,4 @@ Wenn ein Benutzer einem vorhandenen Mandanten hinzugefügt wird, werden ihm mög
 
 Wenn mehr als 24 Stunden vergangen sind, seit Sie dieses Problem erstmals gesehen haben, melden Sie sich einen Supportfall an.
 
-Wir verstehen, dass 24 Stunden wie eine lange Zeit erscheinen können. In vielen Fällen arbeiten wir bereits an einer Lösung. Geben Sie uns mindestens 24 Stunden, um eine Lösung zu vervollständigen.
+Wir verstehen, dass Ihnen 24 Stunden lang vorkommen mag. In vielen Fällen arbeiten wir bereits an einer Lösung. Geben Sie uns mindestens 24 Stunden, um eine Lösung zu vervollständigen.
