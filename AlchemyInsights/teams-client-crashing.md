@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: ce37b260d126f876d2b6177515bd8a7c3874ef2c
-ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
+ms.openlocfilehash: 39310233eae83ceb18c6ff82451ae747f3c50048
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030584"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47691106"
 ---
 # <a name="teams-client-crashing"></a>Teams-Client stürzt ab?
 
@@ -24,32 +25,26 @@ Wenn Ihr Team-Client abstürzt, versuchen Sie bitte Folgendes:
 
 - Wenn Sie die Team-Desktop-App verwenden, [Stellen Sie sicher, dass die App vollständig aktualisiert wurde](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-- Stellen Sie sicher, dass auf alle [Office 365-URLs und-Adressbereiche](https://docs.microsoft.com/microsoftteams/connectivity-issues) zugegriffen werden kann.
+- Stellen Sie sicher, dass auf alle [Microsoft 365-URLs und -Adressbereiche](https://docs.microsoft.com/microsoftteams/connectivity-issues) zugegriffen werden kann.
 
-- Melden Sie sich mit Ihrem Administratorkonto an und überprüfen Sie in Ihrem [Dienststatus-Dashboard](https://docs.microsoft.com/office365/enterprise/view-service-health), ob ein Ausfall oder eine Verschlechterung des Dienstes eingetreten ist.
+- Melden Sie sich mit Ihrem Mandanten-Administratorkonto an und überprüfen Sie in Ihrem [Dienststatus-Dashboard](https://docs.microsoft.com/office365/enterprise/view-service-health), ob ein Ausfall oder eine Verschlechterung des Dienstes eingetreten ist.
 
- - Als letzten Schritt können Sie versuchen, den Clientcache für Teams zu löschen:
+- Deinstallieren und erneutes Installieren der Microsoft Teams-Anwendung (Link)
+    - Navigieren Sie zum Ordner „%appdata%\Microsoft\teams\“ auf Ihrem Computer, und löschen Sie alle Dateien in diesem Verzeichnis.
+    - [Laden Sie die Microsoft Teams-App herunter, und installieren Sie sie](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy). Installieren Sie Microsoft Teams dabei nach Möglichkeit als Administrator (Klicken Sie mit der rechten Maustaste auf das Installationsprogramm für Microsoft Teams, und wählen Sie, sofern verfügbar, "Als Administrator ausführen" aus).
 
-    1.  Steigen Sie vollständig aus dem Desktop-Client für Microsoft Teams aus. Sie können mit der rechten Maustaste in der Taskleiste auf **Teams** klicken und dann **Beenden** anklicken oder den Task-Manager ausführen und den Vorgang vollständig beenden.
+Wenn Ihr Microsoft Teams-Client weiterhin abstürzt, können Sie das Problem reproduzieren? Wenn ja, tun Sie Folgendes:
 
-    2.  Wechseln Sie zum Datei-Explorer, und geben Sie „%appdata%\Microsoft\teams“ ein.
+1. Erfassen Sie mithilfe des Steps Recorders Ihre Schritte.
+    - Schließen Sie ALLE unnötigen oder vertraulichen Anwendungen.
+    - Starten Sie den Steps Recorder, und reproduzieren Sie das Problem, während Sie in dem betroffenen Benutzerkonto angemeldet sind.
+    - [Sammeln Sie die Microsoft Teams-Protokolle, die die aufgezeichneten Reproduktionsschritte enthalten](https://docs.microsoft.com/microsoftteams/log-files). **Hinweis**: Vergewissern Sie sich, dass Sie die Anmeldeadresse des betroffenen Benutzers erfassen.
+    - Sammeln Sie die Abbild- und/oder Fehler-Bucket-Informationen (Windows). Starten Sie Windows PowerShell auf dem Computer, auf dem der Absturz erfolgt, und führen Sie die folgenden Befehle aus:
 
-    3.  Sobald Sie sich im Verzeichnis befinden, werden einige der folgenden Ordner angezeigt:
-
-         - Wechseln Sie im**Anwendungscache** zum Cache und löschen Sie alle darin befindlichen Dateien: %appdata%\Microsoft\teams\application cache\cache.
-
-        - Löschen Sie alle Dateien im **Blob_Speicher**: %appdata%\Microsoft\teams\blob_storage.
-
-        - Löschen Sie alle Dateien im **Cache**: %appdata%\Microsoft\teams\Cache.
-
-        - Löschen Sie alle Dateien in den **Datenbanken**: %appdata%\Microsoft\teams\databases.
-
-        - Löschen Sie alle Dateien im **GPU-Cache**: %appdata%\Microsoft\teams\GPUcache.
-
-        - Löschen Sie die .db-Datei in der **Indexierten DB**: %appdata%\Microsoft\teams\IndexedDB.
-
-        - Löschen Sie alle Dateien im **Lokalen Speicher**: %appdata%\Microsoft\teams\Local_Storage.
-
-        - Und als letzten Schritt löschen Sie alle Dateien aus dem **TEMP-Verzeichnis**: %appdata%\Microsoft\teams\tmp.
-
-    4. Starten Sie den Teams-Client neu.
+        `
+        PS C:\Users\user01> cd $env:temp
+        PS C:\Users\user01\AppData\Local\Temp> Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt
+        PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
+        `
+    
+2. Fügen Sie die Datei an Ihren Supportfall an.

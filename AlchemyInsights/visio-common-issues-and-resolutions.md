@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 433aa9606347be69a070077d376771396fb12f30
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3c534ef21cdefd333d0d0305cd460a0542a63d4e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722564"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47699266"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Häufige Probleme und Lösungen in Visio
 
@@ -24,13 +25,13 @@ Nachfolgend finden Sie einige häufig angeforderte Themen zu Microsoft Visio:
 
 **Visio Online-Optionen**
 
-- Visio wird als [eigenständige Anwendung](https://products.office.com/visio/flowchart-software) angeboten. Administratoren können das Visio Abonnement über das [Microsoft 365 Admin Center](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) erwerben.
+- Visio wird als [eigenständige Anwendung](https://products.office.com/visio/flowchart-software) angeboten. Administratoren können das [Visio-Abonnement](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) über das Microsoft 365 Admin Center erwerben.
 
 - Visio bietet [unterschiedliche Abonnementpläne](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options). Wenn Sie ein Feature in Visio vermissen, [vergleichen Sie die Visio-Optionen](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options), um mehr über die Unterschiede zwischen Plan 1 und Plan 2 zu erfahren.  Beachten Sie, dass Visio Online Plan 1 keine Desktopversion von Visio umfasst.
 
 **Herunterladen, Installieren und Aktivieren von Visio**
 
-- Um die Visio-Desktop-App mit Visio Online Plan 2 zu installieren und zu aktivieren, muss einem Benutzer zuerst eine [Visio-Lizenz](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) zugewiesen werden.
+- Um die Visio-Desktop-App mit Visio Online Plan 2 zu installieren und zu aktivieren, muss einem Benutzer zuerst eine [Visio-Lizenz](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) zugewiesen werden.
 
 - Installieren Sie Visio über das Portal "Mein Konto", wenn es noch nicht installiert ist. Hilfe finden Sie unter [Installieren von Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710).
 
@@ -40,7 +41,7 @@ Nachfolgend finden Sie einige häufig angeforderte Themen zu Microsoft Visio:
 
 **Visio auf einem Mac**
 
-Es gibt keine Visio-Desktopanwendung für Mac. Benutzer mit einer gültigen [Visio Online-Lizenz](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) können jedoch [Diagramme in Visio Online in einem Webbrowser anzeigen, erstellen und bearbeiten](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc).
+Es gibt keine Visio-Desktopanwendung für Mac. Benutzer mit einer gültigen [Visio Online-Lizenz](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) können jedoch [Diagramme in Visio Online in einem Webbrowser anzeigen, erstellen und bearbeiten](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc).
 
 **Diagramme, Vorlagen, Formen und Verbinder**
 
