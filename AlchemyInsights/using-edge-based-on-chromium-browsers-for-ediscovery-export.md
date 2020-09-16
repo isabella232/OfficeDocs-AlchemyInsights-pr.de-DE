@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3473"
 - "3100022"
-ms.openlocfilehash: 5c247ab69c272d2d296f9602fc5246a08164da5e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 64aebb7f048dba37eef8cd1fa6286b36823d3f0f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726211"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47734514"
 ---
 # <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Verwenden von Microsoft Edge basierend auf Chromium-Browsern für eDiscovery-Export
 
@@ -28,4 +29,4 @@ So aktivieren Sie die ClickOnce-Unterstützung in Microsoft Edge basierend auf C
 3. Wählen Sie am unteren Rand des Browserfensters **neu starten**aus. <br>
  Die Änderung wird wirksam, nachdem Microsoft Edge neu gestartet wurde. 
 
-Weitere Informationen zu diesem Thema und Schritte zum Installieren des Exporttools finden Sie unter: [Exportieren von Inhalts Suchergebnissen](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+Weitere Informationen zu diesem Thema und Schritte zum Installieren des Exporttools finden Sie unter: [ Exportieren von Inhalts Suchergebnissen](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
