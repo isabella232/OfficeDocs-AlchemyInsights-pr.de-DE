@@ -4,28 +4,29 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom: ''
 ms.assetid:
 - "1500009"
 - "4495"
-ms.openlocfilehash: e2ca0e13aa569536d9d529aaa1eef05bb0fa49d2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8943f2f8243d908f07823da534e16f80cd7d4903
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764691"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795783"
 ---
 # <a name="microsoft-qualified-academic-institution-and-remote-teaching-and-learning"></a>Microsoft qualifizierte Bildungseinrichtung und Fernstudium (Lehren und Lernen)
 
-Für die ersten Schritte mit Microsoft for Education besuchen Sie diese [Website](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans) und registrieren Sie sich.
+Für die ersten Schritte mit Office 365 for Education besuchen Sie diese [Website](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans) und registrieren Sie sich.
 
-Sie erhalten die Office 365 A1 für Lehrpersonal – Testversion und Office 365 A1 für Schüler, während Sie auf die Überprüfung der Teilnahmeberechtigung Ihrer Organisation warten.  Stellen Sie sicher, dass Sie eine Domäne hinzufügen, da dies zur Beschleunigung des Genehmigungsprozesses beitragen kann.
+Sie erhalten die Office 365 A1 für Lehrpersonal – Testversion und Office 365 A1 für Schüler, während Sie auf die Überprüfung der Teilnahmeberechtigung Ihrer Organisation warten. Stellen Sie sicher, dass Sie eine Domäne hinzufügen, da dies zur Beschleunigung des Genehmigungsprozesses beitragen kann.
 
 Sie erhalten eine Е-Mail, in der Sie darüber informiert werden, ob die Teilnahmeberechtigung Ihrer Organisation genehmigt wurde.  
 
-Wenn Sie die Genehmigung erhalten haben, können Sie zur Registerkarte [Dienste kaufen](https://admin.microsoft.com/Adminportal/Home#/catalog) im Microsoft Admin Center wechseln, um Abonnements zu kaufen.
+Wenn Sie die Genehmigung erhalten haben, können Sie zur Registerkarte [Dienste kaufen](https://admin.microsoft.com/Adminportal/Home#/catalog) im Microsoft 365 Admin Center wechseln, um Abonnements zu kaufen.
 
 **Fernstudium (Lehren und Lernen)**
 
