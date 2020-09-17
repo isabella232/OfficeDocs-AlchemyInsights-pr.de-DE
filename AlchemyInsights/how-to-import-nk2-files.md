@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "1800027"
 - "1267"
 ms.assetid: ''
-ms.openlocfilehash: 83d30b2d62908db791f21ec5ed7fd5537e7a0944
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6a823f6e0c4c46de64dd7b70fb40c76255d78ec1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759331"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47780058"
 ---
 # <a name="how-to-import-nk2-files"></a>Importieren von NK2-Dateien 
 
@@ -30,8 +31,8 @@ Um NK2-Dateien in Outlook 2013, Outlook 2016, Outlook 2019 oder Outlook für Mic
 1. Klicken Sie auf **Start** und dann auf **Systemsteuerung**.
 2. Doppelklicken Sie auf **e-Mail**.
 3. Wählen Sie im Dialogfeld e-Mail-Einrichtung die Option **Profile anzeigen**aus.
-4. Wählen Sie **Start** > **Ausführen**aus.
-5. Geben Sie im Feld **Öffnen** den Text *Outlook. exe/importnk2*ein, und wählen Sie dann **OK**aus. 
+4. Wählen Sie **Start**  >  **Ausführen**aus.
+5. Geben Sie *outlook.exe/importnk2*in das Feld **Öffnen** ein, und wählen Sie dann **OK**aus. 
 
 Nachdem Sie die. NK2-Datei importiert haben, werden die Inhalte der Datei mit dem in Ihrem Postfach gespeicherten vorhandenen Spitznamen-Cache zusammengeführt.
 
