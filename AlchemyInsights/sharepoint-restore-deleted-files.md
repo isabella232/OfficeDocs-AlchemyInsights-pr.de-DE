@@ -5,23 +5,24 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
-ms.openlocfilehash: 2702837bff2c0a465dde2c090a44e02747cc85ec
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: fc560686ec5c6a3d42a97687fda80ae5001b5c60
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051064"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47797547"
 ---
 # <a name="restore-a-deleted-file-or-folder"></a>Wiederherstellen einer gelöschten Datei oder eines gelöschten Ordners
 
-SharePoint Online behält Sicherungen aller Inhalte für 14 zusätzliche Tage außerhalb des tatsächlichen Löschvorgangs bei. Wenn Inhalte nicht über den Papierkorb oder die Wiederherstellung von Dateien wiederhergestellt werden können, kann ein Administrator sich an den Microsoft-Support wenden, um eine Wiederherstellung innerhalb des 14-tägigen Fensters anzufordern. Wiederherstellungen von Sicherungen können nur für Websitesammlungen oder Unterwebsites ausgeführt werden, nicht für bestimmte Dateien, Listen oder Bibliotheken.
+SharePoint Online behält Sicherungen aller Inhalte über die tatsächliche Löschung hinweg für weitere 14 Tage bei. Wenn Inhalte nicht über den Papierkorb oder die Wiederherstellung von Dateien wiederhergestellt werden können, kann ein Administrator sich an den Microsoft-Support wenden, um eine Wiederherstellung innerhalb des 14-tägigen Fensters anzufordern. Wiederherstellungen aus Sicherungen können nur für Websitesammlungen oder Unterwebsites, nicht für bestimmte Dateien, Listen oder Bibliotheken erstellt werden.
 
-Wenn Sie ein Element oder eine Website aus SharePoint löschen, wird es nicht sofort entfernt. Gelöschte Elemente wechseln für einen bestimmten Zeitraum in den Papierkorb. Während dieser Zeit können Sie die gelöschten Elemente an Ihrem ursprünglichen Speicherort wiederherstellen. Weitere Informationen finden Sie unter den Links unten.
+Wenn Sie ein Element oder eine Website aus SharePoint löschen, wird es nicht sofort entfernt. Gelöschte Elemente werden für einen bestimmten Zeitraum in den Papierkorb verschoben. Während dieser Zeit können Sie die Dateien an ihrem ursprünglichen Speicherort wiederherstellen. Besuchen Sie die untenstehenden Links, um weitere Informationen zu erhalten.
 
 [Wiederherstellen von Elementen im Papierkorb einer SharePoint-Website](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b).
 
@@ -33,7 +34,7 @@ Wenn Sie ein Element oder eine Website aus SharePoint löschen, wird es nicht so
 
 Für Massen Papierkorb Aktionen können Administratoren die Verwendung von [SharePoint Online PNP](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)in Frage stellen.
 
-**Datei Wiederherstellung (Feature)**
+**Dateiwiederherstellungsfeature**
 
 Wenn viele ihrer OneDrive-oder SharePoint-Dateien gelöscht, überschrieben, beschädigt oder durch Schadsoftware infiziert werden, können Sie die gesamte OneDrive-oder SharePoint-Bibliothek mit dem Feature zum Wiederherstellen der Dateien in einem früheren Zeitpunkt wiederherstellen.
 
