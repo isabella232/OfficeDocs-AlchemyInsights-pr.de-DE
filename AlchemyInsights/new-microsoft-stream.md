@@ -1,0 +1,28 @@
+---
+title: Migrieren von Microsoft Stream (klassisch) zum neuen Microsoft-Datenstrom
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9001509"
+- "6449"
+ms.openlocfilehash: bb4143d241f403093090640078d2a9bded37a874
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236262"
+---
+# <a name="microsoft-stream"></a><span data-ttu-id="87c2e-102">Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="87c2e-102">Microsoft Stream</span></span>
+
+<span data-ttu-id="87c2e-103">Microsoft Stream ist ein Enterprise-Videodienst, mit dem Personen in Ihrer Organisation Videos sicher hochladen, anzeigen und teilen können.</span><span class="sxs-lookup"><span data-stu-id="87c2e-103">Microsoft Stream is an Enterprise Video service where people in your organization can upload, view, and share videos securely.</span></span> <span data-ttu-id="87c2e-104">Sie können Aufzeichnungen von Kursen, Besprechungen, Präsentationen, Schulungssitzungen oder andere Videos freigeben, die die Zusammenarbeit Ihres Teams fördern.</span><span class="sxs-lookup"><span data-stu-id="87c2e-104">You can share recordings of classes, meetings, presentations, training sessions, or other videos that aid your team's collaboration.</span></span>  
+
+- [<span data-ttu-id="87c2e-105">Der neue Microsoft-Stream</span><span class="sxs-lookup"><span data-stu-id="87c2e-105">The New Microsoft Stream</span></span>](https://docs.microsoft.com/stream/new-stream)
+- [<span data-ttu-id="87c2e-106">Microsoft Stream (klassisch)</span><span class="sxs-lookup"><span data-stu-id="87c2e-106">Microsoft Stream (Classic)</span></span>](https://docs.microsoft.com/stream/overview)
+- [<span data-ttu-id="87c2e-107">Migrieren von Microsoft Stream (klassisch) zum neuen Microsoft-Datenstrom</span><span class="sxs-lookup"><span data-stu-id="87c2e-107">Migrate from Microsoft Stream (Classic) to the new Microsoft Stream</span></span>](https://docs.microsoft.com/stream/classic-migration)
