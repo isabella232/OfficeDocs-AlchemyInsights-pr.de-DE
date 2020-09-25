@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: 50939456df57920994e464db20e5da54f45f197a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e052c18eae035ff05c70a223f6d8a2eab875b2c9
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744625"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236088"
 ---
 # <a name="unable-to-activate-office"></a>Office kann nicht aktiviert werden
 
@@ -26,6 +26,8 @@ ms.locfileid: "47744625"
 - Stellen Sie sicher, dass sich der Benutzer bei Office mit dem gleichen Konto anmeldet, dem die Lizenz zugewiesen wurde.
 - Auf der Seite [Office 365 Service Health](https://docs.microsoft.com/office365/enterprise/view-service-health) werden mögliche bekannte Probleme mit dem Dienst angezeigt.
 - Überprüfen Sie Ihre Firewall-, Antivirensoftware- und Proxyeinstellungen, um sich zu vergewissern, dass sie nicht den Zugriff auf das Internet für Microsoft 365-Apps blockieren. Weitere Informationen finden Sie unter [Office 365-URLs und IP-Adressbereiche](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "Office 365-URLs und -IP-Adressbereiche").
+
+**Tipp** Auf Windows-Computern können wir mehrere häufige Probleme bei der Anmeldung bei Office für Sie diagnostizieren und automatisch beheben. Laden Sie den **[Microsoft Support- und Wiederherstellungs-Assistent](https://aka.ms/SaRA-OfficeSignInScenario)** herunter.
 
 Ergreifen Sie die folgenden Maßnahmen zur Problembehandlung:
 
