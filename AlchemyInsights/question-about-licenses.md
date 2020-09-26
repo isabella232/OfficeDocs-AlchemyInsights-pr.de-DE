@@ -2,7 +2,7 @@
 title: Frage zu Lizenzen
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,19 +13,18 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: ff02e0beb7a15053961e860bfa1bf5a66d9eeaaf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5dcc770bb8ce91c732171030431740ed387044c
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812618"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48287065"
 ---
 # <a name="questions-about-your-microsoft-365-license"></a>Fragen zu Ihrer Microsoft 365-Lizenz
 
-Wenn Sie wissen möchten, wie viele Lizenzen Sie erworben haben oder wie viele Lizenzen einem Abonnement zugewiesen sind:
+Führen Sie die folgenden Schritte aus, um herauszufinden, wie viele Lizenzen Sie erworben haben oder wie viele Lizenzen einem Abonnement zugewiesen sind.
   
-1. Wechseln Sie im Admin Center zur Seite **Fakturierung** \> **[ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. Navigieren Sie im Admin Center zur Seite **Abrechnung** \> [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Suchen Sie auf der Registerkarte " **Produkte** " nach dem Abonnement, zu dem Sie mehr wissen möchten. Sie können die Anzahl der Lizenzen sehen, für die Sie zahlen, und wie viele derzeit zugewiesen sind.
 
-2. Suchen Sie das Abonnement, das Sie kennen möchten. Sie können die Anzahl der Lizenzen sehen, für die Sie zahlen, und wie viele für die Zuweisung zur Verfügung stehen.
-
-Wenn Sie weitere Lizenzen hinzufügen möchten, oder wenn Sie zu viele haben, wählen Sie **Lizenzen hinzufügen/entfernen** aus, um den erworbenen Betrag anzupassen.
+Wenn Sie weitere Lizenzen hinzufügen möchten oder wenn Sie zu viele haben, wählen Sie das Abonnement aus. Wählen Sie auf der Seite Abonnementdaten die Option **Lizenzen kaufen** oder **Lizenzen entfernen** aus, um die Gesamtzahl der Lizenzen für das Abonnement anzupassen.
