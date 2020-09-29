@@ -1,8 +1,8 @@
 ---
 title: Lizenz oder Konto deaktiviert
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002459"
 - "3764"
-ms.openlocfilehash: 465b61ad0319f533656effa2b6b09f0194260920
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 14ce58da129f0a16b280d4fd85a0bc28c2c0282f
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676054"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48286669"
 ---
 # <a name="license-or-account-disabled"></a>Lizenz oder Konto deaktiviert
 
@@ -25,14 +25,11 @@ Wenn Ihr Abonnement abgelaufen ist oder von Microsoft deaktiviert wurde, oder we
 
 **Reaktivieren eines Abonnements**
 
-1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > **[Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-
-2. Suchen Sie das Abonnement, das Sie reaktivieren möchten.
-
-3. Klicken Sie im Abschnitt **Abrechnung** auf die Option **Jetzt reaktivieren**. Wenn Sie sich in der Ansicht **Karten** befinden, klicken Sie auf die Auslassungspunkte zwischen **Name** und **Verfügbare Menge**, und wählen Sie dann im Menü **Reaktivieren** aus.
-
-**Hinweis**: Wenn das gesuchte Abonnement nicht angezeigt wird, müssen Sie den Filter **Abonnementstatus** oben auf der Seite möglicherweise auf **Alle** ändern.
-
-4. Bestätigen Sie Ihre Zahlungsinformationen, um Ihre aktuellen Zahlungsinformationen zu aktualisieren. Wenn Sie die Eingabe der Zahlungsmethode abgeschlossen haben, klicken Sie auf **Reaktivieren**.
+1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Suchen Sie auf der Registerkarte **Produkte** das Abonnement aus, das Sie reaktivieren möchten. Wählen Sie **Weitere Aktionen** (drei Punkte) und dann **Dieses Abonnement reaktivieren** aus.
+    > [!NOTE]
+    > Wird **Dieses Abonnement reaktivieren** nicht angezeigt, wenden Sie sich an den Support.
+3. Wählen Sie im Bereich **Dieses Abonnement reaktivieren** eine Zahlungsmethode aus der Dropdownliste aus, oder wählen Sie **Zahlungsmethode hinzufügen** aus.
+4. Klicken Sie auf **Speichern**.
 
 Weitere Informationen finden Sie unter [Ihr Abonnement reaktivieren](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
