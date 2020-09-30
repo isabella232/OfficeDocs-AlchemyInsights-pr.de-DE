@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6253"
 - "9003349"
-ms.openlocfilehash: 4d4bee18d5ce8ff7ee56af00783c128566295a79
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 50b1060b46d09276629d8a30fc3c750f9faab648
+ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704957"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48277912"
 ---
 # <a name="help-with-presence-in-microsoft-teams"></a>Hilfe zur Anwesenheit in Microsoft Teams
 
-"Anwesenheit" ist Teil des Benutzerprofils in Microsoft Teams und innerhalb von Microsoft 365 oder Office 365. Sie zeigt anderen Benutzern die gegenwärtige Verfügbarkeit und den Status des Benutzers an. Standardmäßig kann jeder Mitarbeiter in Ihrer Organisation, der Teams verwendet, nahezu in Echtzeit sehen, ob andere Benutzer online gerade verfügbar sind.
+Die Anwesenheit ist Teil des Profils eines Benutzers in Microsoft Teams (und überall in Microsoft 365 oder Office 365). Teams erkennt automatisch Ihren Status (verfügbar, abwesend, beschäftigt, in einer Besprechung, nicht stören) und passt Ihre Anwesenheitsinformationen an. Standardmäßig kann jeder Mitarbeiter in Ihrer Organisation, der Teams verwendet, (nahezu in Echtzeit) sehen, ob andere Benutzer online gerade verfügbar sind.
 
-Weitere Informationen zur Funktionsweise von durch die App konfigurierten Anwesenheitsinformationen finden Sie unter [Anwesenheit in Microsoft Teams](https://docs.microsoft.com/microsoftteams/presence-admins).
+Ihr aktueller Anwesenheitsstatus wechselt zu **Abwesend**, wenn Sie Ihren Computer sperren oder wenn er in den Leerlauf oder Ruhezustand übergeht. Auf dem Mobilgerät ändert sich Ihr Anwesenheitsstatus auf **Abwesend**, wenn Teams im Hintergrund läuft.
 
-Weitere Informationen darüber, wie die Anwesenheitsfunktionen von Teams funktionieren, wenn Ihre Organisation außerdem Skype for Business verwendet, finden Sie unter [Koexistenz mit Skype for Business](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence#presence).
+Mehr zum Anwesenheitsstatus finden Sie unter [Anwesenheit in Teams](https://docs.microsoft.com/microsoftteams/presence-admins).
+
+Microsoft bringt ein wichtiges [Update zur Anwesenheit in Microsoft Teams](https://www.microsoft.com/microsoft-365/roadmap?filters=Microsoft%20Teams&searchterms=presence) heraus. Wir haben die Anwesenheit neu gestaltet, um Echtzeit-Aktualisierungen zu unterstützen, was dazu beitragen wird, die Zuverlässigkeit des Anwesenheitsindikators zu verbessern.
