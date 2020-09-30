@@ -2,7 +2,7 @@
 title: Zu viele Lizenzen?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +14,12 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: da82082b92d23ef12de0318372ed9e873ec63ad1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2ce1afbdf67a4cd1746d8cf0aa5818613278d8e4
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736026"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307233"
 ---
 # <a name="too-many-licenses"></a>Zu viele Lizenzen?
 
@@ -27,10 +27,10 @@ Wenn Sie der Meinung sind, dass Ihnen zu viele Lizenzen in Rechnung gestellt wer
   
 **Reduzieren der Anzahl erworbener Lizenzen**
   
-1. Wechseln Sie im Admin Center zur Seite **Fakturierung** \> **[ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. Navigieren Sie im Admin Center zur Seite **Billing** \> **[Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+2. Wählen Sie auf der Registerkarte **Produkte** das Abonnement aus, das Sie ändern möchten.
+3. Wählen Sie auf der Seite Abonnementdetails die Option **Lizenzen entfernen**aus.
+4. Geben Sie im Bereich **Lizenzen entfernen** unter **neue Menge** im Feld **Gesamt Lizenzen** die Gesamtzahl der Lizenzen ein, die Sie für dieses Abonnement benötigen. Wenn Sie beispielsweise 100 Lizenzen haben und 25 davon entfernen möchten, geben Sie 75 ein.
+5. Klicken Sie auf **Speichern**.
 
-2. Suchen Sie nach dem Abonnement, von dem Sie Lizenzen entfernen möchten, und wählen Sie dann **Lizenzen hinzufügen/entfernen**aus.
-
-3. Geben Sie im Feld **Lizenzen insgesamt** die Gesamtzahl der Lizenzen ein, die Sie für dieses Abonnement benötigen, und wählen Sie dann **Änderung absenden** aus. Wenn Sie beispielsweise über 110 Lizenzen verfügen und 5 davon entfernen möchten, geben Sie 105 ein.
-
-Weitere Informationen finden Sie unter [Entfernen von Lizenzen aus Ihrem Microsoft 365 for Business-Abonnement](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Weitere Informationen finden Sie unter [kaufen oder Entfernen von Abonnementlizenzen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
