@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6108"
 - "3200001"
-ms.openlocfilehash: 406bc40fbe8a6306a2f74506ef1daf70b37283d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d0363d6bdecdb266a5f4a3a14bd496ede6bb9931
+ms.sourcegitcommit: 76b147af688f0dc39878a913a050c0e56af054a8
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812114"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48305442"
 ---
 # <a name="configure-endpoint-dlp"></a>Konfigurieren von Endpunkt-DLP
 
@@ -32,3 +32,13 @@ So führen Sie die ersten Schritte mit Endpunkt-DLP aus
 - Erstellen Sie DLP-Richtlinien zum Schutz Ihrer vertraulichen Elemente. Informationen hierzu finden Sie unter [Szenarien für Endpunkt-DLP-Richtlinien](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios).
 
 Weitere Informationen zu Microsoft Endpunkt-DLP finden Sie unter [Informationen zu Microsoft 365 Endpunkt-DLP (Data Loss Prevention, Verhinderung von Datenverlust) (Vorschau)](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-learn-about).
+
+**Wichtige Datenerfassungsschritte, falls Support benötigt wird:**
+
+1. MDATP Client Analyzer-Vorschauversion von [http://aka.ms/betamdatpanalyzer](http://aka.ms/betamdatpanalyzer "http://aka.ms/betamdatpanalyzer") herunterladen
+2. Führen Sie das Tool über das CMD-Fenster als Administrator aus:
+3. MDATPClientAnalyzerPreview\MDATPClientAnalyzer.cmd –t
+4. Wenn Sie mit "Geben Sie die Anzahl der Minuten ein, in denen die Ablaufverfolgungen erfasst werden soll" aufgefordert werden, geben Sie Dauer, die für die Ausführung des Szenarios erforderlich ist, in Minuten ein.
+5. Ausführen des Szenarios
+
+Erfassen Sie die ZIP-Dateiausgabe, um sie dem Supportmitarbeiter zu übergeben.
