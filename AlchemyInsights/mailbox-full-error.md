@@ -4,7 +4,7 @@ Title: "NDR mit Fehlercode" 554 5.2.2 Mailbox voll "" MS. Author: chrisda Author
 - 3500007
 ---
 
-# <a name="ndr-with-error-code-554-522-mailbox-full"></a>NDR mit Fehlercode "554 5.2.2 Mailbox Full"
+# <a name="ndr-with-error-code-554-522-mailbox-full"></a>NDR mit Fehlercode 554 5.2.2 Postfach voll
 
 Wenn Sie NDR mit dem Fehlercode "554 5.2.2 Mailbox Full" erhalten, wenn Sie e-Mails an einen e-Mail-aktivierten Öffentlichen Ordner senden:  
 
