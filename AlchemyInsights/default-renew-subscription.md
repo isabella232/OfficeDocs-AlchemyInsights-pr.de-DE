@@ -1,8 +1,8 @@
 ---
 title: Standardmäßige subsscription erneuern
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3043"
 - "1500012"
-ms.openlocfilehash: 038c8f55ced056254d3d9fb882dc842e66941263
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24a3cb1d3600e347af88e422c2c125c096a5d805
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745858"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416634"
 ---
 # <a name="renewing-your-subscription"></a>Erneuern des Abonnements
 
@@ -25,8 +25,10 @@ Wenn Sie per Kreditkarte oder Bankkonto bezahlen, ist die wiederkehrende Abrechn
 
 Wenn Sie Ihr Abonnement mit einem Product Key voraus bezahlt haben, läuft Ihr Abonnement am Ende der Abonnementlaufzeit ab. Sie können wiederkehrende Rechnungen aktivieren und Kreditkarten-oder Bankkontoinformationen bereitstellen, damit Ihr Abonnement jedes Jahr am Tag, an dem Sie abonniert haben, weiterhin in Rechnung gestellt wird.
 
-So aktivieren Sie die wiederkehrende Abrechnung: 
+So aktivieren Sie die wiederkehrende Abrechnung:
 
-1. Wechseln Sie zu **Abrechnung**  >  **[ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-2. Wählen Sie das Abonnement aus, für das die wiederkehrende Abrechnung verwaltet werden soll.
-3. Wählen Sie unter **Abrechnung**die Option **Bearbeiten** aus, und nehmen Sie Ihre Änderungen im Fenster **wiederkehrende Abrechnungseinstellungen** vor. 
+1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Wählen Sie auf der Registerkarte **Produkte** das Abonnement aus, das Sie ändern möchten.
+3. Wählen Sie auf der Seite Abonnementdetails, unter **Abonnement- und Zahlungseinstellungen**, **Wiederkehrende Abrechnung bearbeiten** aus.
+4. Wählen Sie im Bereich **Einstellungen für die wiederkehrende Abrechnung bearbeiten** zwischen den Optionen **Ein**, **Ein, aber einmal verlängern** oder **Deaktivieren** aus.
+5. Wählen Sie **Speichern** aus. 

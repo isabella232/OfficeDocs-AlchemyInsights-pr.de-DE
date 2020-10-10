@@ -1,8 +1,8 @@
 ---
 title: Erweiterte Bedrohungsschutz Abbrechen
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 2cf6e79740a4e3a4c265e2ae3a65fde3350fe747
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683689"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416274"
 ---
 # <a name="cancel-advanced-threat-protection"></a>Erweiterte Bedrohungsschutz Abbrechen
 
-Advanced Threat Protection kann im **Microsoft 365 Admin Center**abgebrochen werden.
+Administratoren können das Advanced Threat Protection-Abonnement für Ihre Organisation im Microsoft 365 Admin Center kündigen.
 
 1. Wechseln Sie zur Seite **Abrechnung**  >  [ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Suchen Sie den erweiterten Threat Protection-Plan, um den Vorgang abzubrechen.
-3. Klicken Sie auf **Abonnement kündigen**.
+2. Suchen Sie auf der Registerkarte **Produkte** nach dem Advanced Threat Protection-Plan, den Sie abbrechen möchten. Wählen Sie **Weitere Aktionen** (drei Punkte) aus, und wählen Sie dann **Abonnement kündigen**aus.
+3. Wählen Sie im Bereich **Abonnement kündigen** einen Grund aus, warum Sie abbrechen möchten. Geben Sie optional Feedback ein.
+4. Wählen Sie **Speichern** aus.
 
-Rückerstattung: Eine anteilsmäßige Gutschrift wird Ihnen mit dem nächsten Abrechnungszyklus erstattet.
-
-**Hinweis**: Wenn die Option zum Abbrechen nicht angezeigt wird, klicken Sie auf das Abonnement, um die Details anzuzeigen, und Sie sollten die Option **Abonnement kündigen** in **Einstellungen & Aktionen**sehen.
+**Rückerstattung:** Eine anteilsmäßige Gutschrift wird Ihnen mit dem nächsten Abrechnungszyklus erstattet.
 
 Weitere Informationen finden Sie unter [kündigen Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
