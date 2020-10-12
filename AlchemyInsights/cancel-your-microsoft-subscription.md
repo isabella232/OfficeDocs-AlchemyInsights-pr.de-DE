@@ -1,8 +1,8 @@
 ---
 title: So kündigen Sie Ihr Microsoft-Abonnement
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 50cac2ae491e0bea1a18a56cc78cd8d3105b3a40
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12a2daf3cc68b85a26d29088315d1046ddf3cfb6
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683257"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416443"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>So kündigen Sie Ihr Microsoft-Abonnement
 
-1. Wechseln Sie zu [Dienste & Abonnements](https://account.microsoft.com/services/), und melden Sie sich mit dem Microsoft-Konto an, das Sie beim Kauf Ihres Abonnements verwendet haben.
+Administratoren können das Abonnement für ihre Organisation im Microsoft 365 Admin Center kündigen.
 
-2. Suchen Sie Ihr Abonnement, und klicken Sie auf **Verwalten**. Wenn **Wiederkehrende Abrechnung aktivieren** anstelle von **Verwalten** angezeigt wird, wechseln Sie zum Abschnitt „Problembehandlung“. Fahren Sie andernfalls mit Schritt 3 fort.
+1. Navigieren Sie zur Seite **Abrechnung** \> [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Suchen Sie auf der Registerkarte **Produkte** das Abonnement aus, das Sie kündigen möchten. Wählen Sie **Weitere Aktionen** (drei Punkte) und dann **Abonnement kündigen** aus.
+3. Wählen Sie im Bereich **Abonnement kündigen** einen Grund aus, warum Sie kündigen. Geben Sie optional Feedback.
+4. Wählen Sie **Speichern** aus.
 
-3. Klicken Sie auf der nächsten Seite je nach Abonnementtyp auf **Kündigen** oder **Upgraden oder kündigen**.
-
-4. Folgen Sie den Anweisungen auf der Seite, um mit der Kündigung fortzufahren.
+**Rückerstattung:** Eine anteilsmäßige Gutschrift wird Ihnen mit dem nächsten Abrechnungszyklus erstattet.
