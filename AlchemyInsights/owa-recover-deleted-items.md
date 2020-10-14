@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "8000011"
 - "1996"
-ms.openlocfilehash: 532791077b30c3cc306ab15f87f9e1fc1fc4ffa1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 40ebd8a68aebb8d3638940e5263a03abf1ab342f
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721873"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48451507"
 ---
 # <a name="recover-deleted-email-in-outlook-on-the-web"></a>Wiederherstellen gelöschter e-Mails in Outlook im Internet
 
 1. Wählen Sie im linken Bereich den Ordner "Gelöschte Elemente" oder den Ordner "Junk-e-Mail" aus.
 
-2. Führen Sie eine der folgenden Aktionen aus:
+2. Führen Sie einen der folgenden Schritte aus:
 
     - Ordner "Gelöschte Elemente": Wählen Sie die Nachricht aus, die Sie wiederherstellen möchten, und wählen Sie **Wiederherstellen**aus. Wenn sich die Nachricht nicht im Ordner Gelöschte Elemente befindet, wählen Sie in **diesem Ordner Gelöschte Elemente wiederherstellen** oben in der Nachrichtenliste aus, wählen Sie die Nachricht aus, die Sie wiederherstellen möchten, und klicken Sie dann auf **Wiederherstellen**.
 

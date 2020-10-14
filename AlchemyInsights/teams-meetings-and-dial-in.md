@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 20dbb1b07877711dff8e33063e124b17d340ee57
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 451695c5dec738503bde15a0dcc4f10bf2c25469
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736098"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48451435"
 ---
 # <a name="microsoft-teams-meetings-and-dial-in"></a>Microsoft Teams-Besprechungen und Einwahl
 
@@ -24,3 +24,4 @@ Benötigen Sie Hilfe beim Aktivieren oder Einrichten von [Audiokonferenzen](http
 - Um zu überprüfen, ob der Benutzer für Audiokonferenzen lizenziert ist und über eine gebührenpflichtige Standardnummer verfügt, lesen Sie "Teams-Besprechungen und Einwahl" in [Häufige Probleme und Lösungen in Teams](https://docs.microsoft.com/microsoftteams/known-issues).
 
 - Erfahren Sie, wie Sie [Besprechungsrichtlinien in Teams verwalten](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams). 
+

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: 882c2610502bdb67607a85a98c7aaa32aa77072b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f3587e5a53ea6ad7967fe4647952b4561f54e5d8
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728826"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48452155"
 ---
 # <a name="spam-and-junk-email-in-outlookcom"></a>Spam-und Junk-e-Mails in Outlook.com
 
@@ -38,7 +38,7 @@ Wenn Sie zu viel Junk-oder Spam erhalten, probieren Sie die folgenden Methoden a
     1. Wählen Sie unter **Blockierte Absender und Domänen**die Option **Hinzufügen**aus.
     1. Geben Sie die e-Mail-Adresse oder Domäne ein, die Sie blockieren möchten, und drücken Sie die EINGABETASTE.
     1. Wählen Sie unter **Filter**, wenn Sie e-Mails von Adressen unter Sichere Absender und Domänen und sichere Mailinglisten vertrauen möchten.
-    1. Klicken Sie auf **Speichern**.
+    1. Wählen Sie **Speichern** aus.
 
 1. **Erstellen einer Posteingangsregel**
     1. Klicken Sie mit der rechten Maustaste auf eine Nachricht in Ihrer Nachrichtenliste, und wählen Sie **Regel erstellen**aus.
