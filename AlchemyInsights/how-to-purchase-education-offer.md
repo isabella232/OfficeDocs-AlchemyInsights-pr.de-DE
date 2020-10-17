@@ -2,8 +2,8 @@
 title: Erwerben von Schulungsangeboten
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,26 +14,22 @@ ms.custom:
 - "328"
 - "369"
 - "1500009"
-ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: f150066c21195f4d508755fcdea97c6f3b07e11b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fa70e88af2e5e964ed78824411ff78cd600d7777
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703659"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48489276"
 ---
-# <a name="how-to-purchase-education-offer"></a>Erwerben von Schulungsangeboten
+# <a name="how-to-purchase-an-education-offer"></a>Erwerben eines Bildungsangebots
 
 Ihr Einsatz von Office 365 Education wurde genehmigt. So kaufen Sie es:
   
-1. Wechseln Sie im Admin Center zur Seite **Fakturierung** \> **[ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-
-2. Wählen Sie die Testversion für **Schüler oder Dozenten**aus.
-
-3. Wählen Sie im Abschnitt **Lizenzen** die Option **Abonnement erwerben**aus.
-
+1. Navigieren Sie im Admin Center zur Seite **Abrechnung** \> [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Wählen Sie auf der Registerkarte **Produkte** die Testversion für **Schüler oder Dozenten**aus.
+3. Wählen Sie auf der Seite Abonnementdetails im Abschnitt **Lizenz** die Option **kostenpflichtiges Abonnement jetzt kaufen**aus.
 4. Führen Sie die restlichen Schritte zum Auschecken aus.
 
-Wenn Sie ein anderes Abonnement als das in der Testversion kaufen möchten, wechseln Sie zur Seite **Gebühren** pflichtige \> [Dienste](https://go.microsoft.com/fwlink/p/?linkid=868433) , und wählen Sie aus der Liste unter **Bildungspläne**aus.
+Wenn Sie ein anderes Abonnement als Ihr Testabonnement kaufen möchten, wechseln Sie zur Seite **Gebühren** pflichtige \> [Dienste](https://go.microsoft.com/fwlink/p/?linkid=868433) . Wählen Sie unter **Bildungspläne**den gewünschten Plan aus.
 
-Weitere Informationen finden Sie unter [kaufen des gleichen Plans wie Ihre Testversion](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial).
+Weitere Informationen finden Sie unter [erwerben eines Abonnements aus Ihrer kostenlosen Testversion](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial).

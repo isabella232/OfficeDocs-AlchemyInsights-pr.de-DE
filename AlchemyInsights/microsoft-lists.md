@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5677"
 - "9002964"
-ms.openlocfilehash: c5c66a4ed0891a7127bcf0730aedf6d8d125fdb5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb72faa902a18f14d408ccabb8fc346f3bd3085d
+ms.sourcegitcommit: abb1acc29fadfaa6927f73af4452ba2cfc452fa2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724578"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "48466003"
 ---
 # <a name="microsoft-lists"></a>Microsoft Lists
 
@@ -26,11 +26,15 @@ Microsoft startet die erste Stufe von Microsoft Lists, einer Microsoft 365-App. 
   
 **Timing**  
 
-- Rollout hat begonnen für Organisationen, die für gezieltes Release aktiviert sind.
-- Release für alle Organisationen bis Mitte Oktober 2020.
+- Rollout ist abgeschlossen für Organisationen, die für gezieltes Release aktiviert sind.
+- Rollout für Standardrelease-Organisationen hat beginnen und wird Ende November 2020 abgeschlossen.
 
-Jeder Benutzer mit einer SharePoint-Lizenz kann auf das Symbol Listen zugreifen und anfangen, Microsoft Lists zu verwenden. Administratoren können das Feature derzeit nicht deaktivieren.
- 
-Wählen Sie im Microsoft 365-App-Startfeld das Symbol Listen aus. Erstellen Sie eine Liste von Grund auf neu oder mittels vorgefertigten Vorlagen. Darüber hinaus können Sie neue Listen aus vorhandenen Listen erstellen oder Excel-Daten importieren, um eine Liste zu erstellen. Anzeigen von bevorzugten und zuletzt verwendeten Listen, einschließlich Listen, die Sie besitzen oder die für Sie freigegeben wurden. Sie können sowohl persönliche als auch Team-Listen erstellen.  
+Jeder Benutzer mit einer SharePoint-Lizenz kann auf das Symbol Listen zugreifen und anfangen, Microsoft Lists zu verwenden.
+
+Als globaler Administrator oder SharePoint-Administrator in Microsoft 365 können Sie die Einstellungen für Microsoft Lists steuern. Sie können:
+
+Die Erstellung persönlicher Listen deaktivieren (und so Benutzer davon abhalten, neue Listen auf „Meine Listen“ zu speichern).
+Integrierte Listenvorlagen deaktivieren, die für Ihre Organisation nicht relevant sind.
+Sie [Listen steuern](https://docs.microsoft.com/sharepoint/control-lists)
 
 Weitere Informationen finden Sie unter [Microsoft Lists](https://aka.ms/microsoftlists).

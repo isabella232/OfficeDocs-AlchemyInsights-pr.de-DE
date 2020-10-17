@@ -1,8 +1,8 @@
 ---
 title: Aussetzen oder Pausieren von Lizenzen
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5605"
-ms.openlocfilehash: 7d92f1c7a03eb9eb5c195b0d3a866e1da003f45d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 355d83a5d99c079e5487a663f43b1155fa6f40b8
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800175"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488916"
 ---
 # <a name="suspend-or-pause-licenses"></a>Aussetzen oder Pausieren von Lizenzen
 
-Wenn Sie Ihre Benutzerlizenzen vorübergehend aussetzen oder pausieren möchten, können Sie die Lizenzen aus dem **Microsoft 365 Admin Center** entfernen und zu einem späteren Zeitpunkt wieder hinzufügen.
+Wenn Sie Ihre Lizenznutzung vorübergehend aussetzen oder pausieren möchten, können Sie die Lizenzen aus dem Microsoft 365 Admin Center entfernen und dann zu einem späteren Zeitpunkt wieder hinzufügen.
 
-1. Sie müssen zuerst von Benutzern [die Zuweisung von Lizenzen aufheben](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users?view=o365-worldwide), bevor Sie sie aus Ihrem Abonnement entfernen.
+1. Bevor Sie Lizenzen aus Ihrem Abonnement entfernen, müssen Sie zuerst [die Zuweisung von Lizenzen an Benutzer aufheben](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).
+2. Navigieren Sie anschließend zur Seite **Abrechnung** > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
+3. Wählen Sie auf der Registerkarte **Produkte** das Abonnement aus, das Sie aktualisieren möchten.
+4. Wählen Sie auf der Seite mit den Abonnementdetails **Lizenzen entfernen** aus.
+5. Geben Sie im Bereich **Lizenzen entfernen** im Feld **Lizenzen insgesamt** die Gesamtzahl der Lizenzen ein, die Sie für dieses Abonnement benötigen, und wählen Sie dann **Speichern** aus. Wenn Sie beispielsweise 100 Lizenzen haben und 25 davon aussetzen oder pausieren möchten, geben Sie 75 als Lizenzen insgesamt für Ihr Abonnement ein.
 
-2. Wechseln Sie dann zu **Abrechnung > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-
-3. Suchen Sie auf der Seite **Ihre Produkte** das Abonnement, aus dem Sie Lizenzen entfernen möchten, und klicken Sie dann auf **Lizenzen hinzufügen/entfernen**.
-
-4. Geben Sie im Feld Lizenzen insgesamt die Gesamtzahl der Lizenzen ein, die Sie für dieses Abonnement benötigen, und klicken Sie dann auf **Änderung absenden**. Wenn Sie beispielsweise 100 Lizenzen haben und 50 davon aussetzen oder pausieren möchten, geben Sie 50 als Lizenzen insgesamt für Ihr Abonnement ein.
-
--Weitere Informationen finden Sie unter [Verwalten von Abonnementlizenzen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide).
+-Weitere Informationen finden Sie unter [Verwalten von Abonnementlizenzen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
