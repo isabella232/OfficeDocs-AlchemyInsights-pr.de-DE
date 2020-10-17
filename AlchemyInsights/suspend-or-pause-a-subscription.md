@@ -1,8 +1,8 @@
 ---
 title: Deaktivieren oder Pausieren eines Abonnements
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5603"
-ms.openlocfilehash: f04c1a88a0c21d164fb687af1ecd2546a89601f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 716f48793826e813796ec8c62baaf8d252ae4362
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800139"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488952"
 ---
-# <a name="suspend-or-pause-a-subscription"></a><span data-ttu-id="b6085-102">Deaktivieren oder Pausieren eines Abonnements</span><span class="sxs-lookup"><span data-stu-id="b6085-102">Suspend or pause a subscription</span></span>
+# <a name="suspend-or-pause-a-subscription"></a><span data-ttu-id="03774-102">Deaktivieren oder Pausieren eines Abonnements</span><span class="sxs-lookup"><span data-stu-id="03774-102">Suspend or pause a subscription</span></span>
 
-<span data-ttu-id="b6085-103">Wenn Sie Ihr Abonnement vorübergehend deaktivieren oder pausieren möchten, können Sie es über im **Microsoft 365 Admin Center** kündigen.</span><span class="sxs-lookup"><span data-stu-id="b6085-103">To suspend or pause your subscription temporarily, you can cancel the subscription from the **Microsoft 365 admin center**.</span></span>
+<span data-ttu-id="03774-103">Wenn Sie Ihr Abonnement vorübergehend deaktivieren oder pausieren möchten, können Sie es im Microsoft 365 Admin Center kündigen.</span><span class="sxs-lookup"><span data-stu-id="03774-103">To suspend or pause your subscription temporarily, you can cancel the subscription in the Microsoft 365 admin center.</span></span>
 
-1. <span data-ttu-id="b6085-104">Wechseln Sie zu **Abrechnung > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="b6085-104">Go to **Billing > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
+1. <span data-ttu-id="03774-104">Navigieren Sie im Admin Center zur Seite **Abrechnung** > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="03774-104">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="03774-105">Suchen Sie auf der Registerkarte **Produkte** das Abonnement aus, das Sie kündigen möchten.</span><span class="sxs-lookup"><span data-stu-id="03774-105">On the **Products** tab, find the subscription that you want to cancel.</span></span> <span data-ttu-id="03774-106">Wählen Sie **Weitere Aktionen** (drei Punkte) und dann **Abonnement kündigen** aus.</span><span class="sxs-lookup"><span data-stu-id="03774-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="03774-107">Als Abonnementstatus wird **Deaktiviert** angezeigt, und es wird das Datum angezeigt, an dem das Abonnement gekündigt wurde.</span><span class="sxs-lookup"><span data-stu-id="03774-107">The subscription status displays as **Disabled** and shows the date the subscription was cancelled.</span></span> <span data-ttu-id="03774-108">Das Abonnement bleibt jetzt für 90 Tage mit dem Status "Deaktiviert" erhalten und bietet nur noch eingeschränkte Funktionen, bis es gelöscht oder [reaktiviert](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription) wird.</span><span class="sxs-lookup"><span data-stu-id="03774-108">The subscription remains in a disabled state for 90 days, and has reduced functionality until it's deleted or [reactivated](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span></span>
 
-2. <span data-ttu-id="b6085-105">Suchen Sie das Abonnement, das Sie kündigen möchten, und klicken Sie unter **Einstellungen und Aktionen** auf **Abonnement kündigen**.</span><span class="sxs-lookup"><span data-stu-id="b6085-105">Find the subscription you want to cancel, and under **Settings & Actions**, click **Cancel subscription**.</span></span>
-
-3. <span data-ttu-id="b6085-106">Ihr Abonnement wird jetzt für 90 Tage mit dem Status "Deaktiviert" angezeigt und bietet nur noch eingeschränkte Funktionen, bis es gelöscht oder [reaktiviert](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription?view=o365-worldwide) wird.</span><span class="sxs-lookup"><span data-stu-id="b6085-106">Your subscription will now appear in a disabled state for 90 days and will have reduced functionality until it's deleted or [reactivated](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription?view=o365-worldwide).</span></span>
-
-<span data-ttu-id="b6085-107">Weitere Informationen finden Sie unter [Was geschieht, wenn man ein Abonnement kündigt?](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide#what-happens-when-you-cancel-a-subscription) und [Speichern Ihrer Daten](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="b6085-107">For more info, see [What happens when you cancel a subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide#what-happens-when-you-cancel-a-subscription) and [Save your data](https://go.microsoft.com/fwlink/p/?linkid=842054).</span></span>
+<span data-ttu-id="03774-109">Weitere Informationen finden Sie unter [Was geschieht, wenn man ein Abonnement kündigt?](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) und [Speichern Ihrer Daten](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).</span><span class="sxs-lookup"><span data-stu-id="03774-109">For more info, see [What happens when you cancel a subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) and [Save your data](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).</span></span>
