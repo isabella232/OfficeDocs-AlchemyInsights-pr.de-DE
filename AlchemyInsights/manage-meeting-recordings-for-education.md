@@ -13,29 +13,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "6131"
 - "9002530"
-ms.openlocfilehash: 1cc6173c1efcf46081781d5836b71ce19cfa7bc2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 144480dbed8b74f8b395b6b80c586038a1f12697
+ms.sourcegitcommit: e1d72cf118451ed62e975970e5a2faa4b13282f5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695070"
+ms.lasthandoff: 10/24/2020
+ms.locfileid: "48753670"
 ---
 # <a name="manage-meeting-recordings-for-education"></a>Verwalten von Besprechungsaufzeichnungen für die Bildung
 
-Wenn Benutzer mit A1- und A1 Plus-Lizenzen eine Teams-Besprechungsaufzeichnung starten, steht diese Aufzeichnung ab dem **20. August 2020** für 21 Tage zur Verfügung.
+Ab dem **20. August 2020** stehen Besprechungsaufzeichnung in Teams für Benutzer mit A1- oder A1 Plus-Lizenzen während 21 Tagen zur Verfügung.
 
 Weitere Informationen, einschließlich der Vorgehensweise zum Speichern der Aufzeichnung an einem anderen Speicherort, finden Sie unter [Hochladen einer Microsoft Teams-Besprechungsaufzeichnung in Stream](https://docs.microsoft.com/stream/portal-upload-teams-meeting-recording).
 
-Wir empfehlen Admins von Bildungseinrichtungen, den Einsatz von Richtlinienpaketen für die Sicherheit von Schülern, Studenten und Pädagogen in Erwägung ziehen. Weitere Informationen finden Sie unter:
+Microsoft Teams Besprechungsaufzeichnungen können jetzt in OneDrive SharePoint gespeichert werden. Weitere Informationen sowie die Möglichkeit zur Anmeldung dazu finden Sie im folgenden Nachrichtencenter-Beitrag:
 
-- [Richtlinienpakete in Microsoft Teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
-    
-- [Richtlinien, die zum Schutz von Schülern und Studenten zugewiesen werden sollten](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
+[(Aktualisiert) Microsoft Teams: Besprechungsaufzeichnungen in OneDrive und SharePoint gespeichert](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
 
-- [Richtlinien, die für Lehrkräfte zugewiesen werden sollten](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
+Die Verschieben Ihres Speicherorts zu OneDrive und SharePoint eliminiert die frühere Anforderung, dass Stream in Ihrer Region verfügbar sein muss.
 
-Wenn Sie nur die Möglichkeit zur Aufzeichnung von Besprechungen verwalten möchten, lesen Sie [Aktivieren oder Deaktivieren von Cloud-Besprechungen](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording).  
+Wenn Sie nach Informationen suchen, wie Sie Kursteilnehmer für Besprechungsaufzeichnungen in Teams **blockieren oder aktivieren** können, empfehlen wir die Verwendung von Richtlinienpaketen für die Sicherheit von Kursteilnehmern und Dozenten. Weitere Informationen finden Sie unter:
 
-**Note** Die Teams-Funktionen für Besprechungsaufzeichnungen hängen von der Stream-Verfügbarkeit in der Region bzw. im Land ab. Wenn Sie eine Besprechung nicht aufzeichnen können, siehe [In welchen Regionen werden meine Daten von Microsoft Stream gehostet? ](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in). 
+[Richtlinienpakete in Microsoft Teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).
+
+[Richtlinien, die zum Schutz von Schülern und Studenten zugewiesen werden sollten](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
+
+[Richtlinien, die für Lehrkräfte zugewiesen werden sollten](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
+
+Wenn Sie nur die Möglichkeit zur Aufzeichnung von Besprechungen verwalten möchten, lesen Sie [Aktivieren oder Deaktivieren von Cloud-Besprechungen](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording).
+
+**Hinweis:** Wenn Sie sich noch nicht für OneDrive SharePoint-Speicher für Teams-Besprechungsaufzeichnungen angemeldet haben, basieren diese Funktionen auf der Verfügbarkeit von Stream in Ihrer Region oder Ihrem Land. Wenn Sie eine Besprechung nicht aufzeichnen können, siehe [In welchen Regionen werden meine Daten von Microsoft Stream gehostet? ](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in).
 
 Weitere Informationen finden Sie unter [Updated Feature: Microsoft Stream cloud recordings regional storage control (Aktualisiertes Feature: Microsoft Stream-Cloudaufzeichnungen – regionale Speicherkontrolle) ](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327).
