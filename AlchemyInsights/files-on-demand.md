@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "6432"
 - "9003530"
-ms.openlocfilehash: e0ba83778179abefe3ac4fe3e8ab0303d65ad929
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4e3da81ee048c6257e05b998c0f457fa433738fd
+ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745301"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48791293"
 ---
 # <a name="configure-files-on-demand"></a>OneDrive-Dateien bei Bedarf konfigurieren
+
+OneDrive-Dateien bei Bedarf benötigt [Windows 10 Fall Creators Update](https://go.microsoft.com/fwlink/p/?linkid=859040) (Version 1709 oder höher) oder Windows Server 2019 und OneDrive Build 17.3.7064.1005 oder höher.
 
 Mit OneDrive-Dateien bei Bedarf können Sie auf alle Ihre Dateien in OneDrive zugreifen, ohne alle herunterladen und Speicherplatz auf Ihrem Gerät nutzen zu müssen.
 
 So konfigurieren Sie die Dateien bei Bedarf auf Ihrem PC:
 
-1. Wählen Sie das weiße oder blaue **OneDrive** Cloudsymbol im Benachrichtigungsbereich der Windows-Taskleiste aus. Wählen Sie **Hilfe & Einstellungen** Zahnradsymbol > **Einstellungen**.
-2. Aktivieren Sie auf der Registerkarte **Einstellungen** das Kontrollkästchen **Platz sparen und Dateien erst bei Verwendung herunterladen**.  
+1. Wählen Sie das weiße oder blaue **OneDrive** Cloudsymbol im Benachrichtigungsbereich der Windows-Taskleiste aus. Wählen Sie **Hilfe & Einstellungen** Zahnradsymbol > **Einstellungen** .
+2. Aktivieren Sie auf der Registerkarte **Einstellungen** das Kontrollkästchen **Platz sparen und Dateien erst bei Verwendung herunterladen** .  
 
 Sie können Dateien bei Bedarf auch mithilfe der Registrierung konfigurieren.
 
