@@ -1,5 +1,5 @@
 ---
-title: Office 365-Setup für Advanced Threat Protection (ATP)
+title: Microsoft Defender für Office 365-Setup (ATP)
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,14 +11,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: c6905238c8ee209dc443bf82022108401e0370ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd04535c1b740651196c0b40015a722ef0c922d5
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662720"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801074"
 ---
-# <a name="office-365-advanced-threat-protection-atp"></a>Office 365 Advanced Threat Protection (ATP)
+# <a name="microsoft-defender-for-office-365-atp"></a>Microsoft Defender für Office 365 (ATP)
 
 Office 365 ATP umfasst [sichere Anhänge](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments), [sichere Links](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links), [erweitertes Anti-Phishing](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)und vieles mehr. 
 
@@ -26,5 +26,5 @@ ATP ist in Abonnements enthalten, wie Office 365 Enterprise E5, Office 365 Educa
 
 ## <a name="set-up-office-365-atp"></a>Einrichten Office 365 ATP
 
-Damit ATP Protection wirksam ist, müssen Sie Richtlinien konfigurieren. Weitere Informationen finden Sie unter [schnell Start Handbuch: Einrichten Office 365 Advanced Threat Protection](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
+Damit ATP Protection wirksam ist, müssen Sie Richtlinien konfigurieren. Weitere Informationen finden Sie unter [schnell Start Handbuch: Einrichten von Microsoft Defender für Office 365](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
 

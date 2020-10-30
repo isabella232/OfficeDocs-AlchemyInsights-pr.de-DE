@@ -1,5 +1,5 @@
 ---
-title: Office 365 Advanced Threat Protection
+title: Microsoft Defender für Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696620"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801226"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender für Office 365
 
-- Sichere Anlagen, sichere Links und Anti-Phishing sind Teil Office 365 Advanced Threat Protection (ATP). Enterprise E5, Education a5 und Microsoft 365 Business Premium umfassen ATP. Alle anderen Pläne erfordern ein Add-on-ATP-Abonnement.
+- Sichere Anlagen, sichere Links und Anti-Phishing sind Bestandteil von Microsoft Defender für Office 365 (ATP). Enterprise E5, Education a5 und Microsoft 365 Business Premium umfassen ATP. Alle anderen Pläne erfordern ein Add-on-ATP-Abonnement.
 
 - Sie müssen die entsprechenden Lizenzen zuweisen, um Ihre Benutzer durch Office 365 ATP zu schützen. In [diesem Thema](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) finden Sie Anweisungen zum Massen Anwenden von Lizenzen auf Ihre Benutzer.
 
-- Globale Administratoren oder Sicherheitsadministratoren können im Security & Compliance Center unter **Threat Managmeent** \> - **Richtlinie**auf Office 365 ATP-Funktionen zugreifen.
+- Globale Administratoren oder Sicherheitsadministratoren können im Security & Compliance Center unter **Threat Managmeent** \> - **Richtlinie** auf Office 365 ATP-Funktionen zugreifen.
 
 - Sichere Anlagen und Richtlinien für sichere Links können für Ihre gesamte Organisation, bestimmte Domänen oder kleinere Benutzergruppen ausgelegt werden.
 
