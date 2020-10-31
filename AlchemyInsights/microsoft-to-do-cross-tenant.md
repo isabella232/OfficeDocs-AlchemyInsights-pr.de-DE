@@ -10,16 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "9003043"
 - "6015"
-ms.openlocfilehash: c08a344e198c2b1c6c7ea47d598f1b92b681d027
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 638449cbe86b284673f60f62ca13d4cb38de3819
+ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801586"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "48815937"
 ---
 # <a name="microsoft-to-do-cross-tenant-sharing"></a>Microsoft für die Mandantenübergreifende Freigabe
 
-Microsoft to do unterstützt die Listen Freigabe zwischen persönlichen und geschäftlichen Konten ab dem 25. September 2020. Auf diese Weise können Benutzer in Ihrer Organisation Listen beitreten, anzeigen, ändern und Daten hinzufügen, die persönlichen Microsoft-Konten gehören.
+Microsoft unterstützt die Listen Freigabe zwischen persönlichen und geschäftlichen Konten. Auf diese Weise können Benutzer in Ihrer Organisation
+
+beitreten, anzeigen, ändern und Hinzufügen von Daten zu Listen im Besitz von persönlichen Microsoft-Konten.
 
 Administratoren können diese Funktion mit einer neuen Administratoreinstellung deaktivieren, indem Sie die Option nicht überprüfen.
-Der Administrator kann diese Einstellung im Administratorportal unter **Einstellungen**  >  für **Organisationseinstellungen**  >  **Services**  >  **für Microsoft** -Dienste finden.
+
+Der Administrator kann diese Einstellung im Administratorportal unter **Einstellungen**  >  für **Organisationseinstellungen**  >  **Services**  >  **für Microsoft** -Dienste finden.  
+
+[Warum kann ich nicht an einer freigegebenen Liste teilnehmen?](https://support.microsoft.com/office/why-can-t-i-join-a-shared-list-3a6195de-e3a8-437a-b562-7c8c011dc574?ui=en-us&rs=en-us&ad=us)
