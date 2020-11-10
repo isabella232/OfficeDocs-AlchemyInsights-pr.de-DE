@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "6213"
-ms.openlocfilehash: 0c8663cd6b6e6e344282abadfc80e6a40127f463
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a268745601da13f0fe09d7ca9260056d29b821bd
+ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675585"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48947411"
 ---
 # <a name="lists-app-in-teams"></a>Lists-App in Teams
 
-Mit der Lists-App in Microsoft Teams werden Listen auf SharePoint-Teamwebsites im Bereich „Zusammenarbeit und Teamarbeit“ von Kanälen angezeigt. Mit dieser App können Endbenutzer ihre bevorzugten Listen direkt in Teams bearbeiten.  
+Mit der Lists-App in Microsoft Teams werden Listen auf SharePoint-Teamwebsites im Bereich „Zusammenarbeit und Teamarbeit“ von Kanälen angezeigt. Mit dieser App können Endbenutzer ihre bevorzugten Listen direkt in Teams bearbeiten.
 
-Dieses Feature ist standardmäßig aktiviert. Die Lists-App ist für alle Teams-Benutzer vorinstalliert und steht direkt im Registerkartenkatalog jedes Teams und Kanals zur Verfügung.  
+Listen ist für alle Teams-Benutzer vorinstalliert und steht direkt im Reiter Katalog jedes Teams und Kanals zur Verfügung.
 
 Teams-Administratoren können die Verfügbarkeit der App mithilfe von Berechtigungsrichtlinien für Microsoft Teams steuern. Weitere Informationen hierzu finden Sie unter [Verwalten von Richtlinien für App-Berechtigungen in Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies).
 
@@ -34,9 +34,9 @@ Teams-Administratoren können die Verfügbarkeit der App mithilfe von Berechtigu
 
 **Typ des Steuerelements:** Steuerelement für Teams-Administrator  
 
-**Aktion**: Überprüfen und Bewerten
+**Aktion** : Überprüfen und Bewerten
 
-Weitere Informationen finden Sie hier: 
+Weitere Informationen finden Sie hier:
 
 - [Ankündigung von Microsoft Lists – Ihre intelligente App zur Nachverfolgung von Informationen in Microsoft 365](https://techcommunity.microsoft.com/t5/microsoft-365-blog/announcing-microsoft-lists-your-smart-information-tracking-app/ba-p/1372233)
 - [Lists in Teams – Endbenutzer-Dokumentation](https://support.microsoft.com/office/get-started-with-lists-in-microsoft-taeams-c971e46b-b36c-491b-9c35-efeddd0297db)

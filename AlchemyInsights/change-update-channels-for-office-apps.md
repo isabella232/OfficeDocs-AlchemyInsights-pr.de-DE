@@ -13,33 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1740"
 - "9000140"
-ms.openlocfilehash: 70b416e2b572fe9b4257648e3426b4d36975681e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f8c1eb9d67671b5b5bef59f214b17e024227757
+ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756498"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48949708"
 ---
 # <a name="change-update-channels-for-office-apps"></a>Ändern von Updatekanälen für Office-Apps
 
-Bei neuen Office-Installationen verwenden Sie die Office-Software-Downloadeinstellungen, um den gewünschten Updatekanal auszuwählen, und installieren Sie dann Office-Apps (oder installieren Sie sie erneut). Weitere Informationen finden Sie unter [Verwalten von Software-Downloadeinstellungen in Office 365](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365). 
+Wenn Sie Microsoft 365 Apps-Updatekanäle mittels des Verwaltungsportals verwalten, verwenden Sie **Office-Installationsoptionen** , um den erwünschten Updatekanal auszuwählen, bevor Sie Office-Apps installieren. Weitere Informationen finden Sie unter [Office-Installationsoptionen im Microsoft 365 Admin Center verwalten](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365).
 
-**Hinweis**: Der über die Office-Software-Downloadeinstellungen ausgewählte Updatekanal gilt für alle Benutzer, die Neuinstallationen über das O365-Portal ausführen. Weitere Informationen finden Sie unter [Herunterladen und Installieren oder erneutes Installieren von Microsoft 365 oder Office 2019 auf einem PC oder Mac](https://support.microsoft.com/office/download-and-install-or-reinstall-microsoft-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658).   
+**Hinweis** Der mittels der **Office-Installationsoptionen** ausgewählte Updatekanal gilt für alle Benutzer, die neue Installationen durchführen (und, in einigen Fällen, auch für bereits vorhandene Installationen). Wenn Sie bereits eine andere Methode verwenden (wie z.B. Office-Bereitstellungstool (ODT), Gruppenrichtlinie (GPO) oder Microsoft Endpoint Configuration Manager (MECM)), um zu verwalten, wie Ihre Benutzer Featureupdates erlangen, werden die Einstellungen, die Sie im Microsoft 365 Admin Center auswählen, nicht gelten.
 
-Für vorhandene Office-Installationen verwenden Sie das Office-Bereitstellungstool (ODT), um zu einem anderen Updatekanal zu wechseln:  
+Wenn Sie die Microsoft 365 Apps-Updatekanäle mittels anderer, oben aufgeführter Verwaltungsoptionen verwalten, wechseln Sie zu [Wechseln von Updatekanälen für vorhandene Office-Apps](https://support.microsoft.com/help/3185078/how-to-switch-from-semi-annual-channel-to-monthly-channel).
 
-1. Laden Sie die neueste Version des Office-Bereitstellungstools (setup.exe) aus dem [Microsoft Download Center](https://go.microsoft.com/fwlink/p/?LinkID=626065) herunter.
-2. Identifizieren Sie den Namen des Kanals, zu dem Sie wechseln möchten. Weitere Informationen finden Sie unter [Konfigurationsoptionen für das Office-Bereitstellungstool](https://docs.microsoft.com/DeployOffice/configuration-options-for-the-office-2016-deployment-tool#channel-attribute-part-of-add-element).
-3. Erstellen Sie eine XML-Konfigurationsdatei, und geben Sie den entsprechenden Kanalnamen an, z. B. „update.xml“.  
-
-`<Configuration>`<br>
-`<Updates Channel="Current"/>`<br>
-`</Configuration>`<br>
-
-4. Wechseln Sie von einer Eingabeaufforderung mit erhöhten Rechten zu dem Ordnerspeicherort, an dem sich „setup.exe“ befindet, und führen Sie den folgenden Befehl aus:  
-    a. setup.exe /configure update.xml
-5. Starten Sie eine Office-Anwendung (z. B. Excel), und wählen Sie dann **Datei** > **Konto** aus. Wählen Sie im Abschnitt „Produktinformationen“ **Updateoptionen** > **Jetzt aktualisieren** aus.
-
-Weitere Informationen finden Sie unter [Wechseln von Updatekanälen für vorhandene Office-Apps](https://support.microsoft.com/help/3185078/how-to-switch-from-semi-annual-channel-to-monthly-channel). 
-
-Um Updatekanäle für eine ausgewählte Gruppe von Benutzern oder mithilfe von Configuration Manager (SCCM) zu wechseln, konfigurieren Sie die Einstellung für den Updatekanal mithilfe des Gruppenrichtlinienobjekts (GPO). Weitere Informationen finden Sie unter [Übersicht über die Updatekanäle für Microsoft 365-Apps](https://docs.microsoft.com/deployoffice/overview-update-channels#group-policy). Weitere Details finden Sie unter [Verwalten von Office 365 ProPlus-Kanälen für IT-Experten](https://techcommunity.microsoft.com/t5/office-365-blog/how-to-manage-office-365-proplus-channels-for-it-pros/ba-p/795813) und [Verwalten von Updates für Microsoft 365-Apps mithilfe des Microsoft Endpoint Configuration Manager](https://docs.microsoft.com/deployoffice/manage-microsoft-365-apps-updates-configuration-manager).
+Ausführliche Informationen finden Sie unter:  
+[Verwalten von Office 365 ProPlus-Kanälen für IT Pros](https://techcommunity.microsoft.com/t5/office-365-blog/how-to-manage-office-365-proplus-channels-for-it-pros/ba-p/795813)  
+[Verwalten von Updates für Microsoft 365-Apps mithilfe von Microsoft Endpoint Configuration Manager](https://docs.microsoft.com/deployoffice/manage-microsoft-365-apps-updates-configuration-manager)
