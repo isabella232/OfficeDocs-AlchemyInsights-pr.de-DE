@@ -1,5 +1,5 @@
 ---
-title: Kopieren von Elementen in einer SharePoint-Dokumentbibliothek
+title: Kopieren von Dateien in SharePoint und OneDrive
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,33 +14,18 @@ ms.custom:
 - "452"
 - "5300013"
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: 8d7b2b6c997faf057be1c7fafdd401411d48c7bd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 473c7376b9f413732ac766e25817b2406b5dbd75
+ms.sourcegitcommit: 76a385e9f8a806dfd70f35bf87acb21a056407f2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807154"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49002628"
 ---
-# <a name="copy-items-in-a-sharepoint-document-library"></a>Kopieren von Elementen in einer SharePoint-Dokumentbibliothek
+# <a name="copy-files-in-sharepoint-and-onedrive"></a>Kopieren von Dateien in SharePoint und OneDrive
 
-1. Navigieren Sie in einem Webbrowser zu den Dateien, Ordnern oder Links, die Sie kopieren möchten, und klicken Sie dann auf **Kopieren nach**.
+Sie können Dateien aus dem Webbrowser an andere Speicherorte in SharePoint und OneDrive kopieren.
 
-    > [!NOTE]
-    > **Copy to** ist nicht verfügbar, wenn Sie die klassische Erfahrung von SharePoint Online verwenden.
-  
-2. Wählen Sie unter **Ziel auswählen**den Speicherort aus, an den die Elemente kopiert werden sollen. Wenn Sie auf eine andere Website oder Unterwebsite kopieren und diese nicht aufgeführt sehen, klicken Sie auf **Websites Durchsuchen** , um die vollständige Liste der Websites anzuzeigen, in die Sie kopieren können.
-
-    > [!NOTE]
-    > Wenn beim Kopieren von Elementen keine anderen Websites aufgeführt werden, wurde das Kopieren zwischen Websites nicht konfiguriert. Navigieren Sie zur Seite Einstellungen im SharePoint Admin Center, und klicken Sie auf **OK**, um es zu aktivieren.
-  
-    Um einen neuen Ordner zu erstellen, in den Sie die Dateien kopieren möchten, wählen Sie einen Speicherort in der Ordnerhierarchie aus, klicken Sie auf **neuer Ordner**, geben Sie einen Namen für den Ordner ein, und klicken Sie auf das Häkchen, um den Namen zu speichern.
-
-3. Klicken Sie **hier auf Kopieren**.
+Weitere Informationen finden Sie unter [migrieren oder kopieren](https://support.microsoft.com/office/00e2f483-4df3-46be-a861-1f5f0c1a87bc) .
 
 > [!NOTE]
-> Sie können Dateien und Ordner gleichzeitig auf bis zu 500 MB kopieren. > Wenn Sie **Copy to** mit Dokumenten verwenden, die den Versionsverlauf aufweisen, wird nur die neueste Version kopiert.
-  
-Weitere Informationen finden Sie unter:
-
- - [Migrieren oder Kopieren von Dateien in SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Artikel zur Office-Unterstützung)
- - [Migrieren von Dateien aus einem beliebigen Ordner](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (Microsoft Tech Community Blog-Artikel)   
+> **Copy to** ist nicht verfügbar, wenn Sie die klassische Erfahrung von SharePoint Online verwenden.

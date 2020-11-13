@@ -12,18 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003047"
 - "5801"
-ms.openlocfilehash: 8477e59e72ce7874ae805c21a971f431389574e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1880ef923a1e0f2b2c8ce8eb539cba485f8601da
+ms.sourcegitcommit: 76a385e9f8a806dfd70f35bf87acb21a056407f2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800751"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49002700"
 ---
 # <a name="sharepoint-is-no-longer-working"></a>SharePoint funktioniert nicht mehr
 
 Es gibt einige Gründe, warum SharePoint möglicherweise nicht mehr funktioniert.
 
-1. Die SharePoint-Stammwebsite wurde gelöscht und muss wiederhergestellt werden. Weitere Informationen finden Sie unter [Löschen der SharePoint-Stammwebsite](https://docs.microsoft.com/sharepoint/troubleshoot/sites/url-that-resides-under-root-site-collection-is-broken).
+1. Möglicherweise gibt es ein Problem mit dem Dienststatus bei SharePoint. Weitere Informationen finden Sie in Ihrem [Dienststatus-Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth).
 2. Möglicherweise wurden Berechtigungen geändert oder entfernt. Weitere Informationen finden Sie unter [Zugriff auf SharePoint Online nicht möglich](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible).
-3. Möglicherweise gibt es ein Problem mit dem Dienststatus bei SharePoint. Weitere Informationen finden Sie in Ihrem [Dienststatus-Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth).
-4. Browserprobleme verhindern möglicherweise, dass Benutzer SharePoint öffnen können. Bitten Sie den Benutzer, den privaten Modus seinen Browsers auszuprobieren und sich wieder bei SharePoint anzumelden.
+3. Browserprobleme verhindern möglicherweise, dass Benutzer SharePoint öffnen können. Bitten Sie den Benutzer, den privaten Modus seinen Browsers auszuprobieren und sich wieder bei SharePoint anzumelden.

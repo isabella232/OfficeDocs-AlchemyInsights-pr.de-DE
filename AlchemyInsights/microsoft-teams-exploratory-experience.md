@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: d6d460d90253ded2d093676f351d8250861ac0b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "7228"
+ms.openlocfilehash: 398c3b9db7c90fe016cab56ef9d13078e4011a6f
+ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674937"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49019546"
 ---
 # <a name="microsoft-teams-exploratory-experience"></a>Microsoft Teams-exploratives Erlebnis
 
-Mit der Sondierungs Erfahrung von Microsoft Teams können Benutzer in Ihrer Organisation, die über Azure Active Directory (AAD) verfügen und nicht für Teams lizenziert sind, eine Sondierungs Erfahrung mit Teams initiieren. Administratoren können dieses Feature für Nutzer in ihrer Organisation aktivieren oder deaktivieren. (Die frühere Microsoft-Studie zur kommerziellen Cloud wird nun als Sondierungs Erfahrung für Teams bezeichnet.)
-
-Die Microsoft Teams-Sondierungs Erfahrung steht bis zum nächsten Jahrestag oder zur Verlängerung der Unternehmens Vereinbarung am oder nach dem 2021. Januar ohne zusätzliche Kosten zur Verfügung. Zu diesem Zeitpunkt müssen Endbenutzer einer Microsoft-Sondierungs Lizenz zu einer kostenpflichtigen Lizenz mit Teams umsteigen.
-
-Weitere Informationen finden Sie unter [Managing the Microsoft Teams explorative License](https://docs.microsoft.com/microsoftteams/teams-exploratory/).
+- Was ist [Teams exploratives](https://docs.microsoft.com/microsoftteams/teams-exploratory)? Mit der Sondierungs Erfahrung von Microsoft Teams können Benutzer in Ihrer Organisation, die nicht für Teams lizenziert sind, eine Sondierungs Erfahrung mit Teams initiieren. Weitere Informationen finden Sie unter [What es in the Teams explorative Experience](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).
+- [Wann wird meine Lizenz ablaufen](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last)? Die Microsoft Teams-Sondierungs Erfahrung steht bis zum nächsten Jahrestag oder zur Verlängerung der Vereinbarung am oder nach dem 2021. Januar ohne zusätzliche Kosten zur Verfügung.
+- Als Administrator können Sie [Benutzer von der explorativen](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) Lizenz für Teams durch den Kauf eines Abonnements mit Teams, das Entfernen des Sondierungs Abonnements für Teams durch den Benutzer und das Zuweisen der neu erworbenen Lizenz aktualisieren.
+- Weitere Informationen finden Sie unter [Manage the Teams explorative License.](https://docs.microsoft.com/microsoftteams/teams-exploratory)
