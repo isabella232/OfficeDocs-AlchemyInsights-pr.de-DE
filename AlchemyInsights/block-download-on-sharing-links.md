@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5715"
-ms.openlocfilehash: 5837013a71648d5d53cd215c3e3489f3de5528d5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ddd74f3875a586b4fbf49db2f01c8efb180cb005
+ms.sourcegitcommit: 4e0ae808ee2a586339b396320e3edb8ba066a91a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685741"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "49353469"
 ---
 # <a name="block-download-on-sharing-links"></a>Blockieren des Downloads für Freigabelinks
 
-**Download blockieren** ist für **schreibgeschützte Links** zu Office-Dokumenten verfügbar. Wenn Sie diese Option auswählen, werden Personen, die über den von Ihnen erstellten Link Zugriff auf die Datei erhalten, keine Optionen zum Herunterladen, Drucken oder Kopieren der Datei angezeigt.
+Wenn Sie Elemente in OneDrive oder SharePoint für andere freigeben, können Sie ihnen den Zugriff auf die Ansicht geben, aber nicht das Herunterladen erlauben.
 
-Administratoren können über die `BlockDownloadLinksFileType`-Einstellung in den PowerShell-Cmdlets [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/set-spotenant?view=sharepoint-ps) oder [Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) steuern, ob die Einstellung "Download blockieren" nur für Office-Dateien angezeigt wird oder nicht.
+Weitere Informationen finden Sie unter [Blockieren des Herunterladens von schreibgeschützten Dateien in SharePoint und OneDrive](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)
