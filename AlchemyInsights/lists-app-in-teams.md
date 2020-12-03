@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "6213"
-ms.openlocfilehash: a268745601da13f0fe09d7ca9260056d29b821bd
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 4022aff4bdedb9c3589e2546f75b00d9ea275293
+ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48947411"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "49477454"
 ---
 # <a name="lists-app-in-teams"></a>Lists-App in Teams
 
@@ -28,13 +28,9 @@ Listen ist für alle Teams-Benutzer vorinstalliert und steht direkt im Reiter Ka
 
 Teams-Administratoren können die Verfügbarkeit der App mithilfe von Berechtigungsrichtlinien für Microsoft Teams steuern. Weitere Informationen hierzu finden Sie unter [Verwalten von Richtlinien für App-Berechtigungen in Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies).
 
-**Timing:** Anfang September bis Mitte Oktober 2020  
-
-**Rollout:** Organisationsebene  
-
 **Typ des Steuerelements:** Steuerelement für Teams-Administrator  
 
-**Aktion** : Überprüfen und Bewerten
+**Aktion**: Überprüfen und Bewerten
 
 Weitere Informationen finden Sie hier:
 
