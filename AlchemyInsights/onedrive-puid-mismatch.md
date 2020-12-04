@@ -13,21 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 96023978dbbeeb162504d2b205a61f6980734d14
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0dd9d7fafaff0e9a2cc897009aad63d69cfab38
+ms.sourcegitcommit: 8577192bfc5ddc6fe64aabd8beb8a8dcd387c5ae
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754338"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49569166"
 ---
 # <a name="onedrive-puid-mismatch"></a>OneDrive PUID Mismatch
-Es scheint, dass in OneDrive für Unternehmen ein [PUID Konflikt](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) auftritt. Führen Sie die folgenden Schritte aus, damit wir Sie so schnell wie möglich unterstützen können:
 
-1. Klicken Sie auf **Kontakt Support**und dann auf **Neue Dienstanforderung**.
-2. Belassen Sie den Titel und die Beschreibung als **PUID Mismatch auf der OneDrive-Website**.
+Es wird angezeigt, dass in OneDrive für Unternehmen ein [ID-Konflikt](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) auftritt. Führen Sie die folgenden Schritte aus, damit wir Sie so schnell wie möglich unterstützen können:
+
+1. Klicken Sie auf  **Kontakt Support** und dann auf  **Neue Dienstanforderung**.
+2. Lassen Sie den Titel und die Beschreibung als  **OneDrive Site-Benutzer-ID nicht übereinstimmen**.
 3. Sobald das Ticket übermittelt wurde, aktualisieren Sie es mit den folgenden Informationen:
     - Betroffene OneDrive-Website-URL.
     - Benutzerprinzipalname (UPN) des betroffenen Benutzers.
-
-
-
