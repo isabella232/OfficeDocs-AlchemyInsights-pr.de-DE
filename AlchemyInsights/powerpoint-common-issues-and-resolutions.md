@@ -12,25 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001698"
 - "3776"
-ms.openlocfilehash: 0fb5912194d7f07615b62e9dce979fa775cef1a7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c43896cd78e46a80ce5751685877ee1aae4ab503
+ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721149"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576286"
 ---
 # <a name="powerpoint-common-issues-and-resolutions"></a>Häufige Probleme und Lösungen in PowerPoint
 
 Hier finden Sie einige häufig angeforderte Themen mit PowerPoint:
 
+1. **Verwenden von PowerPoint in Microsoft Teams**: [Freigeben von PowerPoint-Folien in einer Besprechung in Teams](https://support.microsoft.com/office/share-content-in-a-meeting-in-teams-fcc2bf59-aecd-4481-8f99-ce55dd836ce8#ID0EABAAA=Desktop) oder zusammenarbeiten an Dateien in Microsoft Teams.
 1. [PowerPoint reagiert nicht, hängt oder friert](https://support.office.com/article/PowerPoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d)ein.
-
-2. [PowerPoint kann kein Video aus der ausgewählten Datei einfügen](https://support.office.com/article/PowerPoint-cannot-insert-a-video-from-the-selected-file-acd46430-9e0c-4dca-9484-19cf0afdde7c).
-
-3. **Videos**: [Einfügen einer Videodatei von Ihrem Computer](https://support.office.com/article/insert-and-play-a-video-file-from-your-computer-f3fcbd3e-5f86-4320-8aea-31bff480ed02), [Einfügen eines Videos aus YouTube](https://support.office.com/article/Insert-a-video-from-YouTube-or-another-site-8340ec69-4cee-4fe1-ab96-4849154bc6db)sowie von [in PowerPoint unterstützte Video-und Audiodatei Formate](https://support.office.com/article/video-and-audio-file-formats-supported-in-powerpoint-d8b12450-26db-4c7b-a5c1-593d3418fb59).
-
-4. **Drucken**: Informationen zu bewährten Methoden und Problemen im Zusammenhang mit dem Drucken finden [Sie in Drucken von PowerPoint-Folien und-Notizen](https://support.office.com/article/Print-your-PowerPoint-slides-handouts-or-notes-194d4320-aa03-478b-9300-df25f0d15dc4). 
-
-5. **Schriftarten**: um Schriftarten für Ihre Präsentationen freizugeben, lesen Sie [embed Fonts in Word oder PowerPoint](https://support.office.com/article/Embed-fonts-in-Word-or-PowerPoint-cb3982aa-ea76-4323-b008-86670f222dbc).
-
-6. **Features**: [Vergleichen von PowerPoint-Funktionen](https://support.office.com/article/Compare-PowerPoint-features-on-different-platforms-90986850-227c-4b25-938e-1c5838166b8b#bm11) auf den Windows-, Mac-, Internet-und mobilen Plattformen.
+1. **Webbasierte PowerPoint**: [wie sich bestimmte Features in webbasierten PowerPoint Verhalten.](https://support.microsoft.com/office/how-certain-features-behave-in-web-based-powerpoint-a931f0c8-1305-4428-8f7c-9cfa00ef28c5)
+1. [PowerPoint kann kein Video aus der ausgewählten Datei einfügen](https://support.office.com/article/PowerPoint-cannot-insert-a-video-from-the-selected-file-acd46430-9e0c-4dca-9484-19cf0afdde7c).
+1. **Drucken**: Informationen zu bewährten Methoden und Problemen im Zusammenhang mit dem Drucken finden [Sie in Drucken von PowerPoint-Folien und-Notizen](https://support.office.com/article/Print-your-PowerPoint-slides-handouts-or-notes-194d4320-aa03-478b-9300-df25f0d15dc4). 
+1. **Features**: [Vergleichen von PowerPoint-Funktionen](https://support.office.com/article/Compare-PowerPoint-features-on-different-platforms-90986850-227c-4b25-938e-1c5838166b8b#bm11) auf den Windows-, Mac-, Internet-und mobilen Plattformen.
