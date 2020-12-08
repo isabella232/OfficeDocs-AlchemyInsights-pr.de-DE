@@ -1,5 +1,5 @@
 ---
-title: Neu bei Microsoft Teams
+title: Einrichten von Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 65c6744b152e73310fb094bb2612dff77da82223
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b5e24c4d4cd074fcfba99147ee97254235c0a5bd
+ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750414"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576232"
 ---
-# <a name="new-to-microsoft-teams"></a>Neu bei Microsoft Teams
+# <a name="set-up-microsoft-teams"></a>Einrichten von Microsoft Teams
 
-Lesen Sie  [Erste Schritte mit Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start). Schauen Sie sich die Schulungsvideos, Decks und weitere Informationen für Microsoft Teams IT-Administratoren an.
+Der [Microsoft Teams-Einrichtungsleitfaden](https://aka.ms/teamsguidance)  bietet Ihrem Unternehmen eine Hilfestellung für die Einrichtung von Team-Arbeitsbereichen, in denen in Echtzeit über Nachrichten, Anrufe, und Audio- oder Video-Besprechungen sowohl im Team als auch privat kommuniziert werden kann. Sie erfahren, wie Sie die Netzwerkanforderungen Ihrer Organisation mit dem Netzwerkplaner-Tool und dem Advisor für Teams im Teams Admin Center bestimmen. Für die Zeit nach der Einrichtung enthält der Leitfaden hilfreiche Ressourcen für die ersten Schritte mit Teams.
 
-Wenn Sie Hilfe bei der Bereitstellung von Teams benötigen, um Remotearbeitskräfte (WFH) aufgrund von COVID-19 zu unterstützen, lesen Sie [Remotearbeitskräfte mithilfe von Microsoft Teams unterstützen](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams). Außerdem sind Sie möglicherweise durch das Microsoft 365 FastTrack-Programm zu Hilfe bei der Bereitstellung berechtigt – besuchen Sie bitte das [FastTrack Center](https://www.microsoft.com/fasttrack), um eine Anforderung zu übermitteln.
-
-**Wichtig**: Aufgrund der aktuell gestiegenen Nutzung von Teams, kann es möglicherweise bis zu 24 Stunden dauern, bis ein Benutzer, dem Sie eine Teams-Lizenz zugewiesen haben, vollständig eingerichtet ist. Bis zu diesem Zeitpunkt sind Sie nicht in der Lage, diesen Benutzern Teams-Richtlinien zuzuweisen, und diese haben möglicherweise keinen Zugriff auf einige Teams-Features wie Anrufe und Audiokonferenzen.
+Zusätzliche Informationen finden Sie unter [Erste Schritte mit Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).
