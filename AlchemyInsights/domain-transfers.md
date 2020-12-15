@@ -21,7 +21,7 @@ ms.locfileid: "48949672"
 ---
 # <a name="domain-transfers"></a>Domänenübertragungen
 
-[So übertragen Sie eine von Microsoft erworbene Domäne nach 60 Tagen auf einen anderen Anbieter](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
+[So übertragen Sie eine von Microsoft erworbene Domäne nach 60 Tagen auf einen anderen Anbieter](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
 
 - Eine von Microsoft erworbene Domäne kann nicht zwischen Microsoft 365-Mandanten übertragen werden.
 - Obwohl von Microsoft erworbene Domänen das Ändern von NS-Einträgen nicht unterstützen, sollten Sie in Erwägung ziehen, [DNS-Einträge für Ihre Website zu aktualisieren](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide), anstatt Ihre Domänenregistrierung auf den Webhost zu übertragen.
