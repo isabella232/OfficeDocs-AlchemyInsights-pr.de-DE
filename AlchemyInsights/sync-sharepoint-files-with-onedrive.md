@@ -21,7 +21,7 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 11/17/2020
 ms.locfileid: "49086047"
 ---
-# <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Behandeln von Problemen bei „Mit Explorer öffnen“ in SharePoint Online
+# <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Behandeln von Problemen bei "Mit Explorer öffnen" in SharePoint Online
 
 Folgen Sie den Schritten und bewährten Methoden in den unten stehenden Artikeln:
 
@@ -34,5 +34,5 @@ Folgen Sie den Schritten und bewährten Methoden in den unten stehenden Artikeln
 
 - **Mit Explorer öffnen** wird nur in Internet Explorer 11 unterstützt. Weitere Informationen finden Sie unter [Ende des Supports von IE11 für Microsoft 365 Apps](https://docs.microsoft.com/lifecycle/announcements/m365-ie11-microsoft-edge-legacy). **Mit Explorer öffnen** kann unter Windows nicht mit Microsoft Edge, Google Chrome oder Mozilla Firefox und auch nicht auf der Mac-Plattform verwendet werden. Aus diesem Grund ist die Option **Im Explorer anzeigen** möglicherweise ausgegraut. 
 
-- Die Schaltfläche **Mit Explorer öffnen** wird in der neuen Bibliotheksoberfläche nicht angezeigt. Klicken Sie auf das Dropdownmenü **Ansicht** in der oberen rechten Ecke (der Name der Dropdownliste ist abhängig von der aktuellen Ansicht), und klicken Sie dann auf **Im Datei-Explorer anzeigen**.
+- Die Schaltfläche **Mit Explorer öffnen** wird in der neuen Bibliotheksoberfläche nicht angezeigt. Klicken Sie auf das Dropdownmenü **Ansicht** in der oberen rechten Ecke (der Name der Dropdownliste ist abhängig von der aktuellen Ansicht) und klicken Sie dann auf **Im Datei-Explorer anzeigen**.
 

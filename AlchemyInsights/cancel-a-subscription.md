@@ -24,12 +24,12 @@ ms.locfileid: "49086386"
 Sie können das Azure-Abonnement im Azure-Portal nur kündigen, wenn Sie der Besitzer des Abonnements sind. Wenn Sie das Abonnement nicht mehr benötigen, führen Sie die nachstehenden Schritte aus.
 
 1. Wählen Sie das Abonnement über die [Seite „Abonnements“ im Azure-Portal](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) aus.
-2. Wählen Sie **Übersicht** aus und dann **Abonnement kündigen** aus.
+2. Wählen Sie **Übersicht** und dann **Abonnement kündigen** aus.
 
 **Was geschieht nach der Kündigung meines Abonnements?**
 
 Nachdem Sie gekündigt haben, wird die Abrechnung sofort gestoppt. Es kann jedoch bis zu 10 Minuten dauern, bis die Kündigung im Portal angezeigt wird. Wenn Sie im Laufe eines Abrechnungszeitraums kündigen, senden wir die endgültige Rechnung nach Ablauf des entsprechenden Zeitraums zu Ihrem üblichen Rechnungsdatum.
 
-Nachdem Ihr Abonnement gekündigt wurde, wartet Microsoft 30–90 Tage, bevor die Daten endgültig gelöscht werden, für den Fall, dass Sie darauf zugreifen müssen oder Sie es sich anders überlegen. Für die Aufbewahrung der Daten wird keine Gebühr erhoben. Weitere Informationen hierzu finden Sie unter [Microsoft Trust Center – wie wir Ihre Daten verwalten](https://www.microsoft.com/trust-center/privacy/data-management#leave).
+Nachdem Ihr Abonnement gekündigt wurde, wartet Microsoft 30–90 Tage, bevor die Daten endgültig gelöscht werden, für den Fall, dass Sie darauf zugreifen müssen oder Sie es sich anders überlegen. Für die Aufbewahrung der Daten wird keine Gebühr erhoben. Weitere Informationen hierzu finden Sie unter [Microsoft Trust Center – so verwalten wir Ihre Daten](https://www.microsoft.com/trust-center/privacy/data-management#leave).
 
 
