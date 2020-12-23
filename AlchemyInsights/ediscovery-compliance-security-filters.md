@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7463"
-ms.openlocfilehash: db025cd1278471a3c54d55409d9a9418095778a7
-ms.sourcegitcommit: 9c64886a9e1a9b0ff356b28a5c1482ecc148d7ef
+ms.openlocfilehash: 8786f11f170edb151879235e19caa38b50f3f06e
+ms.sourcegitcommit: 3d662e1a1440ba74b5347896347d03bb8c8f3af5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49666650"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49727222"
 ---
 # <a name="no-results-returned-during-content-searchexport"></a>Während der Inhaltssuche/des Exports werden keine Ergebnisse zurückgegeben.
 
@@ -26,7 +26,7 @@ Wenn Probleme mit den folgenden eDiscovery-Szenarien auftreten:
 - Inhaltssuche/-Export gibt keine Daten oder unerwartete Daten zurück
 - eDiscovery-Suche oder-Export schlägt fehl
 
-Dies kann auf bestimmte Compliance-Sicherheitsfilter zurückzuführen sein, die von einem bestimmten Administrator eingerichtet wurden und nicht allen Administratoren mitgeteilt wurden.
+Dies kann an bestimmten Sicherheitsfiltern für die Sicherheit liegen, die von einem bestimmten Administrator eingerichtet wurden und nicht allen Administratoren mitgeteilt wurden.
 
 Um dies zu beheben, überprüfen Sie, ob es irgendwelche Compliance-Sicherheitsfilter gibt, die diese Probleme verursachen könnten:
 
