@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 76171db94d905eaec0263700e5148b29d224a247
-ms.sourcegitcommit: b5f05809732ac148161ffdb7b8cb2348f101ecae
+ms.openlocfilehash: 37fb216fc4694bcaa7dddc2c56432a16c0dad555
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49709820"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755618"
 ---
 # <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Lohn Rechnung im Azure-Portal – empfohlene Schritte
+
+Basierend auf Ihrer Problembeschreibung haben wir eine Lösung für Sie gefunden. Die meisten Kunden konnten Ihr Problem selbst lösen, nachdem Sie unsere Dokumentation befolgen.
 
 Sie müssen der Administrator des Abrechnungskontos sein, um Rechnungen im Azure-Portal zu bezahlen. Das Abrechnungskonto "admin" ist der Benutzer, der sich ursprünglich für das Microsoft-Kundenvertrags Konto registriert hat. 
 
 So zahlen Sie Ihre Rechnung im Azure-Portal: 
 
 1. Melden Sie sich beim [Azure-Portal](https://portal.azure.com/) an.
-1. Suchen Sie auf **Kosten Management + Abrechnung**.
+1. Suchen Sie nach **Kostenverwaltung und Abrechnung**.
 1. Klicken Sie im linken Bereich unter **Abrechnung** auf **Rechnungen**.
 1. Wenn eine ihrer Rechnungen fällig oder überfällig ist, sehen Sie einen blauen **Pay Now** -Link für diese Rechnung. Klicken Sie auf **Jetzt bezahlen**.
 1. Klicken Sie im neuen Blade auf **Zahlungsmethode auswählen** , um eine vorhandene Kreditkarte auszuwählen, oder fügen Sie eine neue ein.

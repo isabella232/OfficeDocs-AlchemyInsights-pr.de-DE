@@ -1,5 +1,5 @@
 ---
-title: Wechsel zu Rechnungszahlung (Scheck/Überweisung)-Legacy WD
+title: Wechsel zur Zahlung per Rechnung (Scheck/Überweisung)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: 1be90771f994e832960383b1cb5e0bee8f5b08f8
-ms.sourcegitcommit: b561c339926fad609950ac92744c3cd91e0a68fa
+ms.openlocfilehash: c4c78d634cdef711423f573439c5091befedef34
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49722822"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755402"
 ---
-# <a name="switch-to-invoice-pay-chequewire-transfer---legacy-wd"></a>Wechsel zu Rechnungszahlung (Scheck/Überweisung)-Legacy WD
+# <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>Wechsel zur Zahlung per Rechnung (Scheck/Überweisung)
+
+Basierend auf Ihrer Problembeschreibung haben wir eine Lösung für Sie gefunden. Die meisten Kunden konnten Ihr Problem selbst lösen, nachdem Sie unsere Dokumentation befolgen.
 
 Wenn Sie zur Zahlung per Rechnung wechseln, bedeutet dies, dass Sie Ihre Rechnung innerhalb von 30 Tagen nach Rechnungsdatum bezahlen. Um berechtigt zu sein, für Ihr Azure-Abonnement auf Rechnung zu bezahlen, senden Sie eine Anforderung an Azure Support. Nachdem Ihre Anforderung genehmigt wurde, können Sie ein Abonnement für Rechnung in das Azure- [Portal](https://portal.azure.com/)auf Rechnungszahlung umschalten.
 

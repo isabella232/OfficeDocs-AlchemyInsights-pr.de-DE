@@ -1,5 +1,5 @@
 ---
-title: Jetzt bezahlen/Sofortzahlung – Legacy EA
+title: Jetzt bezahlen/Zahlung sofort tätigen
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7329"
-ms.openlocfilehash: 90d9341333d586d62a3932d4b8e6c7eaf277386b
-ms.sourcegitcommit: ae05e598333c08c0a73de254d3d97207c0b382e6
+ms.openlocfilehash: 3ffe4676325e2c86642cb06aaee59725759b7ed9
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49689066"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755690"
 ---
-# <a name="paynowmake-payment-immediately---legacy-ea"></a>Jetzt bezahlen/Sofortzahlung – Legacy EA
+# <a name="paynowmake-payment-immediately"></a>Jetzt bezahlen/Zahlung sofort tätigen
+
+Basierend auf Ihrer Problembeschreibung haben wir eine Lösung für Sie gefunden. Die meisten Kunden konnten Ihr Problem selbst lösen, nachdem Sie unsere Dokumentation befolgen.
 
 Bei einem Azure Enterprise-Vertrags Abonnement wird die Methode hinzufügen/aktualisieren/ändern der Zahlungsmethode nicht unterstützt. Wenn Sie die Adresse in einer vorhandenen Rechnung ändern möchten, wenden Sie sich an Ihren Microsoft-Mitarbeiter.
 

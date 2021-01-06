@@ -1,5 +1,5 @@
 ---
-title: Wechseln zu Rechnungszahlung (Check/Wire Transfer)-modern cl
+title: Zur Zahlung per Rechnung wechseln (Check/Wire Transfer)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: 2d6dc0edc716c45b2719865e4bdc0527d339fa5f
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49693378"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755462"
 ---
-# <a name="switch-to-invoice-pay-checkwire-transfer---modern-cl"></a>Wechseln zu Rechnungszahlung (Check/Wire Transfer)-modern cl
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Zur Zahlung per Rechnung wechseln (Check/Wire Transfer)
+
+Basierend auf Ihrer Problembeschreibung haben wir eine Lösung für Sie gefunden. Die meisten Kunden konnten Ihr Problem selbst lösen, nachdem Sie unsere Dokumentation befolgen.
 
 Wenn Sie zur Zahlung per Rechnung wechseln, bedeutet dies, dass Sie Ihre Rechnung innerhalb von 30 Tagen nach Rechnungsdatum bezahlen. Um berechtigt zu sein, für Ihr Azure-Abonnement auf Rechnung zu bezahlen, senden Sie eine Anforderung an Azure Support. Nachdem Ihre Anforderung genehmigt wurde, können Sie ein Abonnement für Rechnung in das Azure-Portal auf Rechnungszahlung umschalten.
 

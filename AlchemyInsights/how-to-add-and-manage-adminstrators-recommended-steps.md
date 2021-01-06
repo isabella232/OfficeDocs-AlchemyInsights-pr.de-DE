@@ -1,5 +1,5 @@
 ---
-title: Vorgehensweise hinzufügen und Verwalten von Administratoren-empfohlenen Schritten
+title: Hinzufügen und Verwalten von Administratoren – empfohlene Schritte
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 142bf1474ac0e0eac5cecb9dddd35e28b6b6631e
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+ms.openlocfilehash: ed3aa5defabdd4f505ee4f74570023d990910dcb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599479"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755834"
 ---
-# <a name="how-to-add-and-manage-adminstrators---recommended-steps"></a>Vorgehensweise hinzufügen und Verwalten von Administratoren-empfohlenen Schritten
+# <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Hinzufügen und Verwalten von Administratoren – empfohlene Schritte
+
+Basierend auf Ihrer Problembeschreibung haben wir eine Lösung für Sie gefunden. Die meisten Kunden konnten Ihr Problem selbst lösen, nachdem Sie unsere Dokumentation befolgen.
 
 **Bearbeiten des Abonnement Administrators oder des Co-Administrators**
 
@@ -41,7 +43,7 @@ Der Dienstadministrator oder der Co-Administrator kann diese Aktion mit den folg
 
 1. Melden Sie sich beim [Azure-Portal](https://ms.portal.azure.com/#home) als Dienst Administrator an.
 2. Öffnen Sie [Abonnements](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) , und wählen Sie ein Abonnement aus. (Co-Administratoren kann nur im Abonnement Bereich zugewiesen werden.)
-3. Navigieren Sie zu **Access Control (IAM)**  >  **Classic Administrators** hinzufügen Sie  >  **Add**  >  **Add Co-Administrator** , um den Bereich **Co-Admin hinzufügen** zu öffnen (wenn die Option Co-Administrator hinzufügen deaktiviert ist, bedeutet dies, dass Sie nicht über Berechtigungen verfügen).
+3. Navigieren Sie zu **Access Control (IAM)**  >  **Classic Administrators** hinzufügen Sie  >    >  **Add Co-Administrator** , um den Bereich **Co-Admin hinzufügen** zu öffnen (wenn die Option Co-Administrator hinzufügen deaktiviert ist, bedeutet dies, dass Sie nicht über Berechtigungen verfügen).
 4. Wählen Sie den Benutzer aus, den Sie hinzufügen möchten, und klicken Sie auf **Hinzufügen**.
 
 **Weitere Informationen:**
