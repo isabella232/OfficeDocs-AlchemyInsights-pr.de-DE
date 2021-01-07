@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: ab28162fcdf0a37060be3bdf15a78aceca7a48b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
+ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731238"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49768816"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Aktivieren der BitLocker-Verschlüsselung mit InTune
 
@@ -30,10 +30,12 @@ Informationen zur Behandlung von BitLocker-Problemen finden Sie unter [Problembe
  
 **Häufig gestellte Fragen**
 
- F.: welche Editionen von Windows unterstützen die Geräteverschlüsselung mithilfe der Endpunktschutz Richtlinie?<br>
- A.: die Einstellungen in der InTune-Endpunktschutz Richtlinie werden mithilfe des [BitLocker-CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp)implementiert. Nicht alle Editionen oder Builds von Windows unterstützen den BitLocker-CSP. <br><br>
-      Zu diesem Zeitpunkt werden die folgenden Windows-Editionen unterstützt: Enterprise, Education, Mobile, Mobile Enterprise und Professional (Build 1809 und höher).
- 
+F.: welche Editionen von Windows unterstützen die Geräteverschlüsselung mithilfe der Endpunktschutz Richtlinie?<br>
+A.: die Einstellungen in der InTune-Endpunktschutz Richtlinie werden mithilfe des [BitLocker-CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp)implementiert. Nicht alle Editionen oder Builds von Windows unterstützen den BitLocker-CSP. <br><br>
+
+F: Wie kann BitLocker auf Geräten aktiviert werden, ohne dass eine Benutzerinteraktion erforderlich ist?<br>
+A: solange die erforderlichen Voraussetzungen erfüllt sind, kann BitLocker "Silent Encryption" über InTune aktiviert werden. Lesen Sie die Details der Geräteanforderungen und Beispiel Richtlinieneinstellungen zum Aktivieren der automatischen Verschlüsselung im folgenden Dokument: [Automatische BitLocker-Verschlüsselung aktivieren](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices). <br><br>
+
 F.: Wenn ein Gerät bereits mit BitLocker mit den Standardeinstellungen für Verschlüsselungsmethode und Verschlüsselungsstärke (XTS-AES-128) verschlüsselt ist, wird durch die Anwendung einer Richtlinie mit unterschiedlichen Einstellungen automatisch eine erneute Verschlüsselung des Laufwerks mit den neuen Einstellungen ausgelöst?<br>
 A: Nein. Damit die neuen Verschlüsselungseinstellungen angewendet werden, muss das Laufwerk zunächst entschlüsselt werden.<br><br>
 **Hinweis:** Für Geräte, die mit Autopilot registriert werden, wird die automatische Verschlüsselung, die während der OOBE erfolgen würde, erst ausgelöst, wenn die Intune-Richtlinie ausgewertet wird, sodass die richtlinienbasierten Einstellungen anstelle der Standardwerte für das Betriebssystem verwendet werden können.
