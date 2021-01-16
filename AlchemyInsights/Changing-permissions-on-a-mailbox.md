@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: 1e0dbe74a3b8dd25005f1eb82870efe9c4f7ccfc
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: bdcb04923b2ece136208e38b69ed7486ffcf7fb6
+ms.sourcegitcommit: 3f0abd54b4bd161bde22b9a7f86924a9dbb59684
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502570"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49880165"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>Ändern von Berechtigungen für ein Postfach
 
-Wenn Benutzer Zugriff auf andere Postfächer benötigen als ihre eigenen, müssen Sie Berechtigungen für die Arbeit mit diesen Postfächern erhalten. Die Art der Zuweisung dieser Berechtigungen hängt vom Postfachtyp ab. Wenn Benutzer Zugriff auf Folgendes benötigen:
+Wenn Benutzer Zugriff auf andere Als ihre eigenen Postfächer benötigen, müssen sie über Berechtigungen zum Arbeiten mit diesen Postfächern verfügen. Wie Sie diese Berechtigungen zuweisen, hängt vom Postfachtyp ab. Wenn Benutzer Zugriff auf:
   
-- Postfächer anderer Benutzer – weitere Informationen finden Sie unter [Erteilen von Postfachberechtigungen für einen anderen Benutzer](https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user).
+- Postfächer anderer Benutzer: Weitere Informationen finden Sie unter ["Erteilen von Postfachberechtigungen für einen anderen Benutzer".](https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user)
     
-- Ein freigegebenes Postfach-Weitere Informationen finden Sie unter [Hinzufügen oder Entfernen von Mitgliedern eines freigegebenen Postfachs](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
+- Ein freigegebenes Postfach : Siehe "Einstellungen [für freigegebenes Postfach konfigurieren".](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#add-or-remove-members)
     
-Wenn Berechtigungen nicht ordnungsgemäß funktionieren, nachdem Sie die obigen Schritte ausgeführt haben, wechseln Sie zur Exchange-Verwaltungskonsole, und versuchen Sie, die Berechtigungen von dort aus festzulegen (siehe [Verwalten von Berechtigungen für Empfänger](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
+Wenn Berechtigungen nach den oben beschriebenen Schritten nicht ordnungsgemäß funktionieren, wechseln Sie zum Exchange Admin Center, und versuchen Sie, die Berechtigungen von dort aus zu setzen (siehe "Verwalten von Berechtigungen für [Empfänger").](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)
   
