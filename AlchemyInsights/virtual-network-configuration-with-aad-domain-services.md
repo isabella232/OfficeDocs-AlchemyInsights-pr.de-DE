@@ -24,8 +24,8 @@ ms.locfileid: "49884581"
 
 Die virtuelle Konfiguration mit AAD Domain Services umfasst die folgenden Schritte: 
 
-1. Überprüfen des Integritätszustands Ihrer Domäne im Azure-Portal https://aka.ms/aadds-health
-2. Überprüfen Ihres NSG auf Regeln, die Ports blockieren, die für die Synchronisierung in den Azure AD Domain Services im Portal https://aka.ms/aadds-networking erforderlich sind
+1. Überprüfen des Integritätszustands Ihrer Domäne im Azure-Portal https://aka.ms/aadds-health.
+2. Überprüfen Ihres NSG auf Regeln, die Ports blockieren, die für die Synchronisierung in den Azure AD Domain Services im Portal https://aka.ms/aadds-networking erforderlich sind.
 3. Sicherstellen, dass Ihr virtuelles Netzwerk in derselben Azure-Region wie die von Azure AD Domain Services verwaltete Domäne bereitgestellt wird.
 4. Sicherstellen, dass Sie nicht über eine vorhandene Domäne mit demselben Domänennamen verfügen, die im virtuellen Netzwerk verfügbar ist.
 
