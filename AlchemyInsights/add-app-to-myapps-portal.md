@@ -1,0 +1,25 @@
+---
+title: Hinzufügen von Anwendungen zum Portal „Meine Apps“
+ms.author: v-smandalika
+author: v-smandalika
+manager: dansimp
+ms.date: 01/15/2021
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "7857"
+- "9004350"
+ms.openlocfilehash: b8afb16394fca36c33fbc9b6ed793f0bc73cea1a
+ms.sourcegitcommit: 688642f4ebc0f1c335e954e780bb9ec8893e2f3f
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "49911583"
+---
+# <a name="adding-applications-to-the-myapps-portal"></a><span data-ttu-id="a4713-102">Hinzufügen von Anwendungen zum Portal „Meine Apps“</span><span class="sxs-lookup"><span data-stu-id="a4713-102">Adding applications to the MyApps portal</span></span>
+
+<span data-ttu-id="a4713-103">Wenn Ihr Administrator Ihnen die Berechtigung erteilt hat, können Sie auf der Seite **Apps** eine neue App hinzufügen.</span><span class="sxs-lookup"><span data-stu-id="a4713-103">If your administrator has given you permission, you can add a new app to the **Apps** page.</span></span> <span data-ttu-id="a4713-104">Weitere Informationen finden Sie unter [Hinzufügen einer neuen App zum Portal „Meine Apps“](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-access#add-a-new-app-to-the-my-apps-portal).</span><span class="sxs-lookup"><span data-stu-id="a4713-104">For more information, see [Add a new app to the My Apps portal](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-access#add-a-new-app-to-the-my-apps-portal).</span></span>
