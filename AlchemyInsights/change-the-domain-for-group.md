@@ -1,5 +1,5 @@
 ---
-title: Ändern der Domäne für Microsoft 365-Gruppe
+title: Ändern der Domäne für die Microsoft 365-Gruppe
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -12,15 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 955797530f53d22c7c225ce0a32d686a00215219
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 53ddccaf9f688ecdeeab8ba21a0700733a4b61b4
+ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748243"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "49911766"
 ---
-# <a name="change-the-domain-for-microsoft-365-group"></a>Ändern der Domäne für Microsoft 365-Gruppe
+# <a name="change-the-domain-for-a-microsoft-365-group"></a>Ändern der Domäne für eine Microsoft 365-Gruppe
 
-Wenn Sie die Domäne für eine Microsoft 365-Gruppe während der Erstellung ändern möchten, führen Sie die Schritte unter [Wählen Sie die Domäne aus, die beim Erstellen von Microsoft 365-Gruppen verwendet](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)werden soll aus.
+Wenn Sie die Domäne für eine Microsoft 365-Gruppe während der Erstellung ändern möchten, führen Sie die Schritte in "Domäne auswählen" aus, die beim Erstellen von [Microsoft 365-Gruppen verwendet werden soll.](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)
 
-Nachdem die Microsoft 365-Gruppe bereits erstellt wurde, gibt es derzeit keine Möglichkeit, die Domäne zu ändern. Die einzige Möglichkeit besteht darin, eine neue Microsoft 365-Gruppe zu erstellen und gegebenenfalls die alte zu löschen (weitere e-Mail-Adressen können über das [Exchange Admin Center](https://outlook.office365.com/ecp)hinzugefügt werden.
+Um die Domäne einer vorhandenen Microsoft 365-Gruppe zu ändern, können Sie als Administrator zum Microsoft 365 Admin Center navigieren und dann die https://admin.microsoft.com folgenden Schritte ausführen:
+
+- Auswählen **von Gruppen** im linken Menü
+- Suchen Sie nach der M365-Gruppe, die Sie  ändern  möchten, und wählen Sie sie aus, und klicken Sie dann auf der Registerkarte "Allgemein" unter "E-Mail-Adressen **bearbeiten".**
+- Jetzt können Sie die Domäne ihrer primären E-Mail-Adresse ändern und auch E-Mail-Aliase hinzufügen.
+
+> [!IMPORTANT]
+> Mit regulären Verteilergruppen und E-Mail-aktivierten Sicherheitsgruppen können Sie im Abschnitt "M365 Admin Center, Gruppen" weniger **Einstellungen** verwalten. Wenn Sie weitere Details verwalten möchten,  klicken Sie beim Bearbeiten eines dieser Details im M365 Admin Center auf die Registerkarte "Einstellungen", und wählen Sie in der Exchange Admin Center-Option "Weitere Einstellungen **verwalten"** aus.
