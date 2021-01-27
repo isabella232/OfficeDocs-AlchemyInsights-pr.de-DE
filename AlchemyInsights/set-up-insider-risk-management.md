@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 3cde8bb419d79506e101cd75fde6fcb69aa2441c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90655fea0b8a7debabdd986bf0f89244d509e8d9
+ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800967"
+ms.lasthandoff: 01/25/2021
+ms.locfileid: "49951824"
 ---
 # <a name="set-up-insider-risk-management"></a>Einrichten des Insider-Risikomanagements
 
-Verwenden Sie Richtlinien für das Insider-Risikomanagement, um riskante Aktivitäten und Verwaltungstools zu identifizieren, um Maßnahmen bei Risikoalarmen in Ihrer Organisation zu ergreifen. Bevor Sie mit der Verwaltung von Insider-Risiken beginnen, sollten Sie Ihr **Microsoft 365-Abonnement** bestätigen. Für den Zugriff auf und die Nutzung des Insider-Risikomanagements **muss** Ihre Organisation über eines der folgenden Abonnements verfügen:
+Für den Zugriff auf und die Nutzung des Insider-Risikomanagements **muss** Ihre Organisation über eines der folgenden Abonnements verfügen:
 
 - **Microsoft 365 E5**-Abonnement.
 
@@ -29,16 +29,10 @@ Verwenden Sie Richtlinien für das Insider-Risikomanagement, um riskante Aktivit
 
 Wenn Sie noch nicht über einen **Microsoft 365 E5**-Plan verfügen und das Insider-Risikomanagement testen möchten, können Sie Ihrem vorhandenen Abonnement Microsoft 365 hinzufügen oder sich für eine Testversion von Microsoft 365 Enterprise E5 registrieren.
 
-Die grundlegenden Schritte zur Verwendung des Insider-Risikomanagements sind:
-
-1. Aktivieren Sie die Berechtigungen für das Insider-Risikomanagement.
-
-2. Aktivieren des Überwachungsprotokolls.
-
-3. Konfigurieren Sie die Voraussetzungen für Vorlagen (optional).
-
-4. Konfigurieren Sie Insider-Risikoeinstellungen.
-
-5. Erstellen Sie eine Richtlinie für das Insider-Risikomanagement.
+> [!TIPS]
+- > Bei Verwendung der Vorlage "Datenlecks": Stellen Sie sicher, dass Sie mindestens eine DLP-Richtlinie konfiguriert haben.
+- > Administratoren sehen keine Benachrichtigungen: Stellen Sie sicher, dass der Benutzer einer der folgenden Gruppen zugewiesen ist:
+    - >**Insider-Risikomanagement-Analysten**
+    - >**Insider-Risikomanagement-Prüfer**
 
 Weitere Informationen, wie Sie mit Richtlinien für Risiko durch Insider Risiken in Ihrer Organisation verwalten können, finden Sie unter [Insider Risikomanagement in Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2123907).
