@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 0eecd89b2558359702935379d7ffbd8b7508f4cd
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 1e90aedab20c8abaa021ed980e868cea0503b7b1
+ms.sourcegitcommit: db95fd628c45d9810e5af5c5a4e6388c793339ac
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560439"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50093354"
 ---
 # <a name="enable-password-writeback-in-azure-ad-connect"></a>Aktivieren des Kennwortrückschreibens in Azure AD Connect
 
@@ -27,7 +27,7 @@ Wenn Sie das Rückschreiben für die Self-Service-Kennwortzurücksetzung aktivie
 2. Klicken Sie auf der **Begrüßungsseite** auf **Konfigurieren**.
 3. Wählen Sie auf dem Seite **Weitere Aufgaben** die Option **Synchronisierungsoptionen anpassen** aus, und klicken Sie dann auf **Weiter**.
 4. Geben Sie auf der Seite **Mit Azure AD verbinden** die Anmeldeinformationen für Ihren Azure-Mandanten ein, und klicken Sie dann auf **Weiter**.
-5. Klicken sie auf den Filterseiten **Verzeichnisse verbinden** und **Domänen/OE** auf **Weiter**.
+5. Klicken sie auf den Filterseiten **Verzeichnisse verbinden** und **Domänen-/OE** auf **Weiter**.
 6. Wählen Sie auf der Seite **Optionale Funktionen** das Kästchen neben **Kennwortrückschreiben** aus, und klicken Sie dann auf **Weiter**.
 7. Klicken Sie auf der Seite **Bereit zum Konfigurieren** auf **Konfigurieren** und warten Sie, bis der Vorgang abgeschlossen ist.
 8. Wenn die Option zum Abschließen der Konfiguration angezeigt wird, klicken Sie auf **Beenden**.
@@ -43,4 +43,4 @@ Wenn das Kennwortrückschreiben in Azure AD Connect aktiviert ist, konfigurieren
 Weitere Informationen finden Sie unter [Aktivieren des Zurückschreibens einer Azure Active Directory Self-Service-Kennwortzurücksetzung in eine lokale Umgebung](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback).
 
 > [!NOTE]
->  Setzt ein Administrator das Kennwort eines Benutzers im Azure-Portal zurück, wird das Kennwort in das lokale System zurückgeschrieben, wenn dieser Benutzer ein Verbundbenutzer ist oder mit einem Kennworthash synchronisiert wird. Diese Funktionalität wird derzeit im Office-Administratorportal nicht unterstützt.
+>  Wenn ein Administrator das Kennwort eines Benutzers im Azure-Portal zurücksetzt, dann wird das Kennwort in das lokale System zurückgeschrieben, wenn dieser Benutzer ein Verbundbenutzer ist oder mit einem Kennworthash synchronisiert wird. Dies Funktionalität benötigt eine Azure Premium-Lizenz (P1 oder P2) und ist zurzeit im Office-Administratorportal nicht unterstützt.
