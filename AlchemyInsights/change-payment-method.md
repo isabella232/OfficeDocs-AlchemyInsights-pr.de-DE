@@ -8,22 +8,21 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "1500001"
 - "277"
 - "4852"
-ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 710e4817fa0b3e7696f4cbf2dd4087c068a7c73e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 28ea821446a563650121f80fdfe1b81604b276b6
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681818"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152377"
 ---
 # <a name="change-payment-method"></a>Ändern der Zahlungsmethode
 
-Sie können die Zahlungsmethode aus dem **Microsoft 365 Admin Center**ändern.
+Sie können die Zahlungsmethode im **Microsoft 365 Admin Center ändern.**
   
 1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > **Rechnungen und Zahlungen** > [Zahlungsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 2. Wählen Sie die Zeile der Zahlungsmethode aus, die ersetzt werden soll. Im rechten Bereich werden alle Abrechnungsprofile und einzelne Abonnements mit der ausgewählten Zahlungsmethode aufgelistet.
@@ -35,6 +34,6 @@ Sie können die Zahlungsmethode aus dem **Microsoft 365 Admin Center**ändern.
 6. Geben Sie im Bereich **Zahlungsmethode hinzufügen** die Kontoinformationen ein und wählen Sie dann **Speichern** aus. Sie müssen eine Zahlungsmethode aus dem gleichen Land wie Ihr Mandant verwenden.
 7. Die neue Zahlungsmethode ist bereits in der Dropdownliste ausgewählt. Wählen Sie **Ersetzen**.
 
-Weitere Informationen finden Sie unter [Verwalten von Zahlungsmethoden](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Informationen zum Hinzufügen, Aktualisieren, Ersetzen oder Löschen von Zahlungsmethoden finden Sie unter ["Zahlungsmethoden verwalten".](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-Wenn Sie erfahren möchten, wie Sie von der Zahlung per Kreditkarte auf Rechnungszahlungen wechseln, lesen Sie [Ändern von Kreditkarten-oder Bankkonten zu Rechnung](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method#change-from-credit-card-or-bank-account-to-invoice).
+Informationen zum Wechseln zwischen Zahlungsmethoden finden Sie unter ["Bezahlen für Ihr Abonnement".](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
