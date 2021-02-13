@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5603"
-ms.openlocfilehash: 716f48793826e813796ec8c62baaf8d252ae4362
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: e5bbc2f7e447cfedeaee2be2bcfe1132e73b24e7
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48488952"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50231898"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>Deaktivieren oder Pausieren eines Abonnements
 
-Wenn Sie Ihr Abonnement vorübergehend deaktivieren oder pausieren möchten, können Sie es im Microsoft 365 Admin Center kündigen.
+Um Ihr Abonnement vorübergehend auszusetzen oder zu pausieren, können Sie das Abonnement im Microsoft 365 Admin Center kündigen.
 
-1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > **[Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 2. Suchen Sie auf der Registerkarte **Produkte** das Abonnement aus, das Sie kündigen möchten. Wählen Sie **Weitere Aktionen** (drei Punkte) und dann **Abonnement kündigen** aus.
 3. Als Abonnementstatus wird **Deaktiviert** angezeigt, und es wird das Datum angezeigt, an dem das Abonnement gekündigt wurde. Das Abonnement bleibt jetzt für 90 Tage mit dem Status "Deaktiviert" erhalten und bietet nur noch eingeschränkte Funktionen, bis es gelöscht oder [reaktiviert](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription) wird.
 

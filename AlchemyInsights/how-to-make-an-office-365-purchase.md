@@ -1,5 +1,5 @@
 ---
-title: Vorgehensweise zum Erstellen eines Microsoft 365-Kaufs
+title: So tätigen Sie einen Microsoft 365-Kauf
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "531"
 - "1400007"
-ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: a70459a58c957fc9987ddd7d990954c57f9de5e2
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: b27a7ebde0052f8df1666a9a35336d1911216783
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287137"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232366"
 ---
-# <a name="how-to-make-a-microsoft-365-purchase"></a>Vorgehensweise zum Erstellen eines Microsoft 365-Kaufs
+# <a name="how-to-make-a-microsoft-365-purchase"></a>So tätigen Sie einen Microsoft 365-Kauf
 
 Sie können ein Microsoft 365-Abonnement im Admin Center erwerben.
   
-- Wenn Sie einen Plan kaufen möchten, wechseln Sie zur Seite " **Abrechnungs** - \> [Einkaufsdienste](https://go.microsoft.com/fwlink/p/?linkid=868433) ".
-- Um zusätzliche Lizenzen zu erwerben, wechseln Sie zur Seite **Fakturierung** \> [ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054) . Wählen Sie das Abonnement aus, das Sie ändern möchten, und wählen Sie dann **Lizenzen kaufen** oder **Lizenzen entfernen**aus.
+- Um einen Plan zu erwerben, wechseln Sie **zur** Seite \> **[Abrechnungskaufdienste.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
+- Um zusätzliche Lizenzen zu erwerben, wechseln Sie zur Seite **"Abrechnung** \> **[Ihrer Produkte".](https://go.microsoft.com/fwlink/p/?linkid=842054)** Wählen Sie das Abonnement aus, das Sie ändern möchten, und wählen Sie dann **"Lizenzen kaufen" aus.**
+**Sehen Sie sich ein Video** an, in dem dies gezeigt wird: Kaufen neuer [Lizenzen](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-Weitere Informationen finden Sie unter [kaufen von Lizenzen für Ihr Microsoft 365 for Business-Abonnement](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Weitere Informationen finden Sie unter ["Kaufen oder Entfernen von Lizenzen".](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 **Problembehandlung**
 
@@ -35,5 +35,5 @@ Wenn Sie Probleme beim Laden der Seite haben, versuchen Sie, die Webseite in ein
 
 **Weitere Ressourcen**
   
-- [Zuweisen von Lizenzen zu Benutzern in Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
-- [Abbrechen von Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Zuweisen von Lizenzen zu Benutzern in Microsoft 365 Business](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Kündigen von Microsoft 365 Business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
