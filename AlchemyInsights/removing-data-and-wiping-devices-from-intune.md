@@ -13,12 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1279"
 - "6700008"
-ms.openlocfilehash: 24330dffb38be14dd369960ff86d4650d60c55ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "9004638"
+- "8392"
+ms.openlocfilehash: cada3c6f1e7d1dcd576baa1245fb5a62ed938613
+ms.sourcegitcommit: 229bd519ec1c14c65a243226a94eee23e117a7fc
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701282"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416312"
 ---
 # <a name="removing-data-and-wiping-devices-from-intune"></a>Entfernen von Daten und Zurücksetzen des Geräts aus Intune
 
@@ -27,11 +29,14 @@ Die Aktionen "Gerät zurücksetzen" und "Gerät abkoppeln" können verwendet wer
 1. Melden Sie sich bei der Microsoft 365-Geräteverwaltung an, und navigieren Sie zu **Geräte** > **Alle Geräte**.
 2. Wählen Sie das Gerät aus, das Sie zurücksetzen möchten.
 3. Wählen Sie die Art der Remotezurücksetzung aus, die Sie durchführen möchten. Durch das Abkoppeln werden nur organisatorische Informationen gelöscht, während eine vollständige Zurücksetzung das Gerät auf die Werkseinstellungen zurücksetzt.
-4. Wählen Sie zum Bestätigen **Ja** aus. Bis die Zurücksetzung abgeschlossen ist, wird als Status der Geräteaktion "Abkoppeln ausstehend" angezeigt.</br>
-    Nachdem der Vorgang abgeschlossen ist, wird das mobile Gerät nicht mehr in der Liste der verwalteten Geräte angezeigt.
+4. Wählen Sie zum Bestätigen **Ja** aus. Bis zum Löschen wird der Status der Geräteaktion als *Abkoppeln ausstehend* angezeigt.
+    Nach Abschluss der Aktion wird das mobile Gerät nicht mehr in der Liste der verwalteten Geräte angezeigt.
 
-**Hinweis** Unternehmensdaten können nicht von Geräten entfernt werden, die mit Azure AD VERBUNDEN sind.
+> [!NOTE]
+> Unternehmensdaten können nicht von Geräten entfernt werden, die mit Azure AD verbunden sind. 
 
-Vollständige Informationen zu den Auswirkungen der Aktionen "Abkoppeln" und "Zurücksetzen", beispielsweise, was aufbewahrt und was gelöscht wird, finden Sie unter [Entfernen von Geräten durch Zurücksetzen, Abkoppeln oder manuelles Aufheben der Registrierung des Geräts](https://docs.microsoft.com/intune/devices-wipe).
+Ausführliche Informationen zu den Auswirkungen der Aktionen "Abkoppeln" und "Zurücksetzen", einschließlich der beibehaltenen und gelöschten Aktionen, finden Sie in der folgenden Dokumentation:
 
-Informationen dazu, wie Sie alle Daten von einem macOS-Gerät löschen, finden Sie unter [Löschen aller Daten von einem macOS-Gerät](https://docs.microsoft.com/intune/device-erase).
+- [Entfernen Sie Geräte, indem Sie das Gerät zurücksetzen, abkoppeln oder manuell abmelden](https://docs.microsoft.com/mem/intune/remote-actions/devices-wipe).
+- [So löschen Sie nur Unternehmensdaten aus von Intune verwalteten Apps](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)
+- [Löschen allen Daten von einem MacOS-Gerät](https://docs.microsoft.com/mem/intune/remote-actions/device-erase).
