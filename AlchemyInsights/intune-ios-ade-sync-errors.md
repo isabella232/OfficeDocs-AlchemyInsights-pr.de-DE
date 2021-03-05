@@ -1,9 +1,9 @@
 ---
-title: Synchronisierungsfehler bei Apple für die automatische Geräteregistrierung
+title: Synchronisierungsfehler bei der automatischen Geräteregistrierung bei Apple
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "7256"
-ms.openlocfilehash: d7a9398046a1073e30fdbe2950f750bb55d4fa2f
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: 912c9e56b4c468fb333769f15bd7c212594dc11a
+ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49707894"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50448921"
 ---
-# <a name="apple-automatic-device-enrollment-sync-errors"></a>Synchronisierungsfehler bei Apple für die automatische Geräteregistrierung
+# <a name="apple-automatic-device-enrollment-sync-errors"></a>Synchronisierungsfehler bei der automatischen Geräteregistrierung bei Apple
 
-"Wir haben festgestellt, dass Sie über mindestens ein ADE/DEP-Token verfügen, das einen Fehlerzustand aufweist. Bis der Fehlerzustand für jedes betroffene Token aufgelöst wird, funktioniert die ADE-Funktion nicht für die gleiche ".
+"Wir haben festgestellt, dass Sie über ein oder mehrere ADE/DEP-Token verfügen, die sich im Fehlerzustand befinden. Bis der Fehlerstatus für jedes betroffene Token aufgelöst wurde, funktioniert die ADE-Funktion nicht wie erwartet."
 
-Dieser Fehler kann sich auf verschiedene Weise manifestieren, einschließlich:
+Dieser Fehler kann auf verschiedene Weise manifestiert werden, z. B.:
 
-1. Geräte dürfen nicht von ABM/ASM zu InTune synchronisiert werden
-2. Bei Registrierungsprofil Zuweisungen kann ein Fehler auftreten
-3. Bei Geräten ist die ADE-Registrierung möglicherweise nicht erfolgreich abgeschlossen.
+1. Geräte werden möglicherweise nicht von ABM/ASM mit Intune synchronisiert
+2. Registrierungsprofilzuweisungen können fehlgeschlagen sein
+3. Geräte können die ADE-Registrierung möglicherweise nicht erfolgreich abschließen
 
-Überprüfen Sie den in der InTune-Konsole gemeldeten Synchronisierungsfehler unter **Geräte > Geräte registrieren > Apple Enrollment > Registrierungsprogramm Tokens** , und lesen Sie die folgende Dokumentation, um mögliche Korrekturen anzuzeigen:
+Überprüfen Sie auf den Synchronisierungsfehler, der in der Intune-Konsole unter Geräte > Registrieren von Geräten > Registrierung von Apple > **Registrierungsprogrammtoken gemeldet wurde.**
 
-[ABM/ASM-Synchronisierungsfehler für IOS/iPad-und macOS-automatische Geräte Registrierungstoken](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#resolutions-when-syncing-tokens-between-intune-and-abmasm-for-automated-device-enrollment)
+Eine der häufigsten Ursachen für Synchronisierungsfehler ist das Ablaufen des aktuellen Tokens. In vielen Fällen wird das Problem durch die Verlängerung des betroffenen Tokens behoben.
+
+Wenn eines oder mehrere Ihrer Token abgelaufen sind, lesen Sie die folgende Dokumentation, um sie gegebenenfalls zu verlängern:
+
+[Verlängern eines Tokens für die automatische Geräteregistrierung](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment-program-enroll-ios#renew-an-automated-device-enrollment-token)
+
+Darüber hinaus sehen Sie in der folgenden Dokumentation mögliche Korrekturen für andere Fehler, die zu Fehlern bei der Tokensynchronisierung führen:
+
+[ABM-/ASM-Synchronisierungsfehler für iOS/iPadOS- und macOS-Token für die automatische Geräteregistrierung](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#sync-token-errors-between-intune-and-ade-dep)
+
+
+
+
+
+
+
+[ABM-/ASM-Synchronisierungsfehler für iOS/iPadOS- und macOS-Token für die automatische Geräteregistrierung](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#resolutions-when-syncing-tokens-between-intune-and-abmasm-for-automated-device-enrollment)
