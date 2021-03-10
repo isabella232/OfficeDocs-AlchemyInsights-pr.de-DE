@@ -9,20 +9,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
-- commerce
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: 28ea821446a563650121f80fdfe1b81604b276b6
-ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
+ms.openlocfilehash: ca0ebe741babe1c2177bfbc072a948143d1afe9b
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50152377"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601138"
 ---
 # <a name="change-payment-method"></a>Ändern der Zahlungsmethode
 
-Sie können die Zahlungsmethode im **Microsoft 365 Admin Center ändern.**
+Sie können die Zahlungsmethode über das **Microsoft 365 Admin Center ändern.**
   
 1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > **Rechnungen und Zahlungen** > [Zahlungsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 2. Wählen Sie die Zeile der Zahlungsmethode aus, die ersetzt werden soll. Im rechten Bereich werden alle Abrechnungsprofile und einzelne Abonnements mit der ausgewählten Zahlungsmethode aufgelistet.
@@ -34,6 +33,6 @@ Sie können die Zahlungsmethode im **Microsoft 365 Admin Center ändern.**
 6. Geben Sie im Bereich **Zahlungsmethode hinzufügen** die Kontoinformationen ein und wählen Sie dann **Speichern** aus. Sie müssen eine Zahlungsmethode aus dem gleichen Land wie Ihr Mandant verwenden.
 7. Die neue Zahlungsmethode ist bereits in der Dropdownliste ausgewählt. Wählen Sie **Ersetzen**.
 
-Informationen zum Hinzufügen, Aktualisieren, Ersetzen oder Löschen von Zahlungsmethoden finden Sie unter ["Zahlungsmethoden verwalten".](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Informationen zum Hinzufügen, Aktualisieren, Ersetzen oder Löschen von Zahlungsmethoden finden Sie unter [Manage payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-Informationen zum Wechseln zwischen Zahlungsmethoden finden Sie unter ["Bezahlen für Ihr Abonnement".](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Informationen zum Ändern zwischen Zahlungsmethoden finden Sie unter [How to pay for your subscription](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).

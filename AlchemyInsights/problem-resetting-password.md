@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003259"
 - "9360"
-ms.openlocfilehash: fe3a13acb0ba5c8872d7c0bb8c3961d83f7d3526
-ms.sourcegitcommit: bd6a9cb5d357baee5134c0dea430afc2a035c810
+ms.openlocfilehash: aa1eba1efef6a4c28aa6b9229071304093395922
+ms.sourcegitcommit: 9a00005546c2fe473e3cea2b06e38c27eada88c4
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 03/09/2021
-ms.locfileid: "50568582"
+ms.locfileid: "50585651"
 ---
 # <a name="problems-resetting-password"></a>Probleme beim Zurücksetzen des Kennworts
 
@@ -26,7 +26,7 @@ Nachfolgend finden Sie einige der Probleme, die beim Zurücksetzen des Kennworts
 
 **Ich habe ein Problem mit der Kennwortzurücksetzung, das in den anderen Kategorien nicht behandelt wird**
 
--Stellen Sie sicher, dass Sie autorisiert sind, Kennwörter zurückzusetzen. Nur globale, Kennwort- und Benutzeradministratoren können Benutzerkennwörter zurücksetzen. Globale Administratoren können auch die Kennwörter anderer privilegierter Administratoren zurücksetzen.
+- Stellen Sie sicher, dass Sie autorisiert sind, Kennwörter zurückzusetzen. Nur globale, Kennwort- und Benutzeradministratoren können Benutzerkennwörter zurücksetzen. Globale Administratoren können auch die Kennwörter anderer privilegierter Administratoren zurücksetzen.
 - Stellen Sie sicher, dass Sie die Lizenzierungsanforderungen verstehen:
     - In Ihrer Organisation muss mindestens eine Lizenz zugewiesen sein.
         - Nur Cloudbenutzer – Office 365 (O365) kostenpflichtige SKU oder Azure AD Basic
