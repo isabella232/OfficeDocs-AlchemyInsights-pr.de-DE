@@ -1,5 +1,5 @@
 ---
-title: Wiederherstellen eines gelöschten Postfachs
+title: Wiederherstellen gelöschter Postfächer
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -15,22 +15,24 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 899eb7e171d125c509871c219f99dfd1106b858a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 14d2c9b1fe6764f5cd3a5a968586a19a03b62694
+ms.sourcegitcommit: 1b554c31d008492f9e6464f0249af0332212a3fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728070"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50641517"
 ---
-# <a name="restore-a-deleted-mailbox"></a><span data-ttu-id="d4bc7-102">Wiederherstellen eines gelöschten Postfachs</span><span class="sxs-lookup"><span data-stu-id="d4bc7-102">Restore a deleted mailbox</span></span>
+# <a name="restore-a-deleted-mailbox"></a><span data-ttu-id="9c485-102">Wiederherstellen eines gelöschten Postfachs</span><span class="sxs-lookup"><span data-stu-id="9c485-102">Restore a deleted mailbox</span></span>
 
-<span data-ttu-id="d4bc7-103">Wenn ein Benutzer eine Exchange Online Lizenz verliert, wird sein Postfach 30 Tage lang aufbewahrt und kann wiederhergestellt werden, indem die Lizenz einfach erneut dem Benutzer zugewiesen wird.</span><span class="sxs-lookup"><span data-stu-id="d4bc7-103">When a user loses an Exchange Online license, their mailbox is retained for 30 days and can be recovered by simply re-assigning the license to the user.</span></span>
+<span data-ttu-id="9c485-103">Wenn ein Benutzer eine Exchange Online-Lizenz verliert, wird sein Postfach für 30 Tage aufbewahrt und kann durch einfaches erneutes Zuweisen der Lizenz an den Benutzer wiederhergestellt werden.</span><span class="sxs-lookup"><span data-stu-id="9c485-103">When a user loses an Exchange Online license, their mailbox is retained for 30 days and can be recovered by simply re-assigning the license to the user.</span></span>
   
- <span data-ttu-id="d4bc7-104">*Dies ist nur innerhalb von 30 Tagen möglich.*</span><span class="sxs-lookup"><span data-stu-id="d4bc7-104">*This will work only within 30 days.*</span></span>  
-  
-1. <span data-ttu-id="d4bc7-105">Wechseln Sie im Microsoft 365 Admin Center zur Seite **Benutzer** \> **aktive Benutzer** .</span><span class="sxs-lookup"><span data-stu-id="d4bc7-105">In the Microsoft 365 admin center, go to the **Users** \> **Active users** page.</span></span> <span data-ttu-id="d4bc7-106">Wählen Sie den betreffenden Benutzer aus.</span><span class="sxs-lookup"><span data-stu-id="d4bc7-106">Select the user in question.</span></span>
+1. <span data-ttu-id="9c485-104">Wechseln Sie im Microsoft 365 Admin Center zur **Seite** Aktive \> **Benutzer.**</span><span class="sxs-lookup"><span data-stu-id="9c485-104">In the Microsoft 365 admin center, go to the **Users** \> **Active users** page.</span></span> <span data-ttu-id="9c485-105">Wählen Sie den benutzer aus.</span><span class="sxs-lookup"><span data-stu-id="9c485-105">Select the user in question.</span></span>
 
-2. <span data-ttu-id="d4bc7-107">Weisen Sie auf der Registerkarte **Lizenzen und apps** die Exchange Online Lizenz zu, und wählen Sie **Änderungen speichern**aus.</span><span class="sxs-lookup"><span data-stu-id="d4bc7-107">On the **Licenses and Apps** tab, assign the Exchange Online license and select **Save changes**.</span></span>
+2. <span data-ttu-id="9c485-106">Weisen Sie **auf der Registerkarte Lizenzen** und Apps die Exchange Online-Lizenz zu, und wählen Sie Änderungen speichern **aus.**</span><span class="sxs-lookup"><span data-stu-id="9c485-106">On the **Licenses and Apps** tab, assign the Exchange Online license and select **Save changes**.</span></span>
 
-<span data-ttu-id="d4bc7-108">Wenn Sie versuchen, ein freigegebenes Postfach wiederherzustellen, kann es auch 30 Tage lang wiederhergestellt werden.</span><span class="sxs-lookup"><span data-stu-id="d4bc7-108">If you are trying to recover a Shared mailbox, it is also recoverable for 30 days.</span></span> <span data-ttu-id="d4bc7-109">Sie finden Sie unter **Users** \> **deleted users**; freigegebene Postfächer benötigen keine Lizenz.</span><span class="sxs-lookup"><span data-stu-id="d4bc7-109">You can find them under **Users** \> **Deleted users**; shared mailboxes do not require a license.</span></span> <span data-ttu-id="d4bc7-110">Wenn Sie feststellen, dass Sie einen gelöschten Benutzer wiederherstellen müssen, finden Sie weitere Informationen unter [Wiederherstellen eines Benutzers](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).</span><span class="sxs-lookup"><span data-stu-id="d4bc7-110">If you realize that you need to restore a deleted user, please see [Restore a user](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).</span></span>
+<span data-ttu-id="9c485-107">Wenn Sie versuchen, ein freigegebenes Postfach oder einen gelöschten Benutzer wiederhergestellt zu haben, kann es auch 30 Tage lang wiederhergestellt werden.</span><span class="sxs-lookup"><span data-stu-id="9c485-107">If you are trying to recover a shared mailbox or a user that was deleted, it is also recoverable for 30 days.</span></span> <span data-ttu-id="9c485-108">Sie finden sie unter **Benutzer** \> **Gelöschte Benutzer;** freigegebene Postfächer erfordern keine Lizenz.</span><span class="sxs-lookup"><span data-stu-id="9c485-108">You can find them under **Users** \> **Deleted users**; shared mailboxes do not require a license.</span></span> <span data-ttu-id="9c485-109">Weitere Informationen finden [Sie unter Restore a user](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).</span><span class="sxs-lookup"><span data-stu-id="9c485-109">Please see [Restore a user](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).</span></span>
+
+<span data-ttu-id="9c485-110">Die Wiederherstellung von E-Mails aus dem Postfach des Benutzers kann von Administratoren durchgeführt werden, indem Sie zum [neuen Exchange Admin Center gehen.](https://techcommunity.microsoft.com/t5/exchange-team-blog/a-new-recoverableitems-experience-comes-to-exchange-online/ba-p/1505353)</span><span class="sxs-lookup"><span data-stu-id="9c485-110">Recovery of email from user's mailbox can be done by admins by going to the [new Exchange Admin Center](https://techcommunity.microsoft.com/t5/exchange-team-blog/a-new-recoverableitems-experience-comes-to-exchange-online/ba-p/1505353).</span></span>
+
+<span data-ttu-id="9c485-111">Wenn Sie schließlich versuchen, ein inaktives Postfach wiederhergestellt zu werden, [befolgen Sie die anweisungen hier](https://docs.microsoft.com/microsoft-365/compliance/recover-an-inactive-mailbox).</span><span class="sxs-lookup"><span data-stu-id="9c485-111">Finally, if you are trying to recover an Inactive mailbox, [follow the instructions here](https://docs.microsoft.com/microsoft-365/compliance/recover-an-inactive-mailbox).</span></span>
   
