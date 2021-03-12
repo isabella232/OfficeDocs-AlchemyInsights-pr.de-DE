@@ -13,15 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: cab6f1cb79c88ca4fad53dcc8970ca37b507eae3
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: af09e8805409446a42a62c82aa577ad27f09a17a
+ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49715707"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50733848"
 ---
 # <a name="11-call-recording"></a>1:1 Anrufaufzeichnung
 
-1:1 Änderungen der Anruf Protokollierungsrichtlinien in Microsoft Teams werden in Kürze folgen. Weitere Informationen finden Sie im folgenden Message Center-Beitrag:
+Administratoren müssen jetzt Maßnahmen ergreifen, damit Benutzer weiterhin 1:1-Anrufe aufzeichnen können.
+ 
+Ab dem 12. April 2021 wird mit der Erzwingung einer neuen Option für Die Anrufrichtlinie von Teams *allowCloudRecordingForCalls gestartet.* 
 
-[1:1 Einführung in die Richtlinie zur Anrufaufzeichnung](https://admin.microsoft.com/AdminPortal/Home)
+Derzeit werden 1:1-Anrufaufzeichnungsfunktionen durch die *Option AllowCloudRecording* in Teams-Besprechungsrichtlinien gesteuert. Wenn Ihre Benutzer Teams-Besprechungen aufzeichnen dürfen, können sie auch 1:1-Anrufe aufzeichnen.
+
+Wenn Sie es vorziehen, alle Benutzer an der Aufzeichnung von 1:1-Anrufen zu blockieren, müssen Sie keine Aktion ergreifen. *Die Option allowCloudRecordingForCalls-Anrufrichtlinie* wird standardmäßig $False aktiviert.
+
+Diese Änderung ist in der folgenden Message Center Post dokumentiert: [(Aktualisiert) 1:1](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) Einführung in die Anrufaufzeichnungsrichtlinie Zum Festlegen der Option "Teams-Anrufrichtlinie" müssen Sie [Teams PowerShell verwenden.](https://docs.microsoft.com/microsoftteams/teams-powershell-install)
+
+**So aktivieren Sie die Anrufaufzeichnung in 1:1-Anrufen:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True
+
+**So deaktivieren Sie die Anrufaufzeichnung in 1:1-Anrufen:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $False
+
