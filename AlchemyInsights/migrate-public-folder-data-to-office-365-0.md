@@ -1,5 +1,5 @@
 ---
-title: Migrieren von Daten aus öffentlichen Ordnern zu Microsoft 365
+title: Migrieren von Daten für öffentliche Ordner zu Microsoft 365
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -12,22 +12,22 @@ ms.custom:
 - "639"
 - "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: 778caff63db2c61c07f510309754681c3cab2c56
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6dac268b3371af3a28bf8ef598e3a74d954a595c
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674613"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707305"
 ---
-# <a name="migrate-public-folder-data-to-microsoft-365"></a><span data-ttu-id="3e7af-102">Migrieren von Daten aus öffentlichen Ordnern zu Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="3e7af-102">Migrate public folder data to Microsoft 365</span></span>
+# <a name="migrate-public-folder-data-to-microsoft-365"></a><span data-ttu-id="ada0d-102">Migrieren von Daten für öffentliche Ordner zu Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="ada0d-102">Migrate public folder data to Microsoft 365</span></span>
 
-<span data-ttu-id="3e7af-103">Wenn Sie nicht viele öffentliche Ordner in Microsoft 365 haben, ist es am einfachsten, die Daten in zu kopieren. PST-Dateien und importieren Sie Sie dann in Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="3e7af-103">If you don't have a lot of public folders to bring into Microsoft 365, the easiest way to bring them would be to copy the data into .PST files and then import them into Microsoft 365.</span></span> <span data-ttu-id="3e7af-104">Für kleine Datenmengen ein einfaches Drag & Drop des öffentlichen Ordners in eine. PST-Datei kann ausreichen.</span><span class="sxs-lookup"><span data-stu-id="3e7af-104">For small amounts of data, a simple drag and drop of public folder into a .PST file can be sufficient.</span></span> <span data-ttu-id="3e7af-105">Wenn Sie mehr Daten als die (bis zu 30 GB) haben, haben wir [einen Prozess dokumentiert](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) , den Sie zum Exportieren von Ordnern in PST-Dateien verwenden können.</span><span class="sxs-lookup"><span data-stu-id="3e7af-105">If you have more data than that (up to 30GB), we have [documented a process](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) that you can use to export folders to PST files.</span></span>
+<span data-ttu-id="ada0d-103">Wenn Sie nicht über viele öffentliche Ordner in Microsoft 365 verfügen, können Sie sie am einfachsten in kopieren. PST-Dateien, und importieren Sie sie dann in Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="ada0d-103">If you don't have a lot of public folders to bring into Microsoft 365, the easiest way to bring them would be to copy the data into .PST files and then import them into Microsoft 365.</span></span> <span data-ttu-id="ada0d-104">Für kleine Datenmengen wird ein einfaches Ziehen und Ablegen von öffentlichen Ordnern in ein verschoben. PST-Datei kann ausreichend sein.</span><span class="sxs-lookup"><span data-stu-id="ada0d-104">For small amounts of data, a simple drag and drop of public folder into a .PST file can be sufficient.</span></span> <span data-ttu-id="ada0d-105">Wenn Sie über mehr Daten (bis zu 30 GB) verfügen, haben wir einen Prozess dokumentiert, den Sie zum Exportieren von Ordnern in PST-Dateien verwenden können. [](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx)</span><span class="sxs-lookup"><span data-stu-id="ada0d-105">If you have more data than that (up to 30GB), we have [documented a process](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) that you can use to export folders to PST files.</span></span>
   
-<span data-ttu-id="3e7af-106">Für größere Organisationen, die öffentliche Ordner in Microsoft 365 verschieben, stehen Anleitungen zur Verfügung:</span><span class="sxs-lookup"><span data-stu-id="3e7af-106">For larger organizations who are moving public folders into Microsoft 365, we have guides available:</span></span>
+<span data-ttu-id="ada0d-106">Für größere Organisationen, die öffentliche Ordner in Microsoft 365 verschieben, stehen Anleitungen zur Verfügung:</span><span class="sxs-lookup"><span data-stu-id="ada0d-106">For larger organizations who are moving public folders into Microsoft 365, we have guides available:</span></span>
   
-- <span data-ttu-id="3e7af-107">[Migrieren älterer öffentlicher Ordner](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/batch-migration-of-legacy-public-folders) (Exchange 2010)</span><span class="sxs-lookup"><span data-stu-id="3e7af-107">[Migrate legacy public folders](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/batch-migration-of-legacy-public-folders) (Exchange 2010)</span></span>
+- <span data-ttu-id="ada0d-107">[Migrieren von älteren öffentlichen Ordnern](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/batch-migration-of-legacy-public-folders) (Exchange 2010)</span><span class="sxs-lookup"><span data-stu-id="ada0d-107">[Migrate legacy public folders](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/batch-migration-of-legacy-public-folders) (Exchange 2010)</span></span>
 
-- [<span data-ttu-id="3e7af-108">Migrieren von Exchange 2013-, Exchange 2016-oder Exchange 2019-öffentlichen Ordnern</span><span class="sxs-lookup"><span data-stu-id="3e7af-108">Migrate Exchange 2013, Exchange 2016, or Exchange 2019 public folders</span></span>](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-exchange-online)
+- [<span data-ttu-id="ada0d-108">Migrieren von öffentlichen Exchange 2013-, Exchange 2016- oder Exchange 2019-Ordnern</span><span class="sxs-lookup"><span data-stu-id="ada0d-108">Migrate Exchange 2013, Exchange 2016, or Exchange 2019 public folders</span></span>](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-exchange-online)
 
-<span data-ttu-id="3e7af-109">Sie haben auch die Möglichkeit, [Öffentliche Ordner zu Microsoft 365-Gruppen zu migrieren](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups).</span><span class="sxs-lookup"><span data-stu-id="3e7af-109">You also have the option to [migrate public folders to Microsoft 365 Groups](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups).</span></span>
+<span data-ttu-id="ada0d-109">Sie haben auch die Möglichkeit, [öffentliche Ordner zu Microsoft 365-Gruppen zu migrieren.](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/migrate-your-public-folders-to-microsoft-365-groups)</span><span class="sxs-lookup"><span data-stu-id="ada0d-109">You also have the option to [migrate public folders to Microsoft 365 Groups](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/migrate-your-public-folders-to-microsoft-365-groups).</span></span>
   
