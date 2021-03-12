@@ -1,5 +1,5 @@
 ---
-title: Vorgehensweise zum Installieren von Mac Office aus dem Portal
+title: Installieren von Mac Office über das Portal
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,19 +13,19 @@ ms.assetid: 9b3a36d7-9d59-424f-91f4-5cd58a878ef8
 ms.custom:
 - "647"
 - "2000016"
-ms.openlocfilehash: 0e208251ac345c4151eb949892768842ef503cef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fbaa197d274c476d74f5c213d6efdf47862fa6e6
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704056"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707773"
 ---
-# <a name="how-to-install-mac-office-from-the-portal"></a>Vorgehensweise zum Installieren von Mac Office aus dem Portal
+# <a name="how-to-install-mac-office-from-the-portal"></a>Installieren von Mac Office über das Portal
 
-1. [Deinstallieren Sie Office 2011 für Mac auf ihren Computern](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).
+1. [Deinstallieren Sie Office 2011 für Mac von Ihren Computern.](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA)
 
-2. [Verwalten von Software Downloadeinstellungen](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365).
+2. [Verwalten von Softwaredownloadeinstellungen](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365).
 
-3. [Zuweisen von Lizenzen zu Benutzern](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users).
+3. [Zuweisen von Lizenzen zu Benutzern](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
-4. Benutzer können dann die Office-Software selbst installieren, oder Sie können [Office für Ihre Mac-Benutzer](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac)einsetzen.
+4. Benutzer können dann die Office-Software selbst installieren, oder Sie können [Bereitstellen von Office für Ihre Mac-Benutzer verwenden.](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac)

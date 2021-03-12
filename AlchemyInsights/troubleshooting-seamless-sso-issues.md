@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7808"
-ms.openlocfilehash: 7452b56e1291ef36256b09b9772179a1fdc8e2d8
-ms.sourcegitcommit: a44b6b34952bc84f834dfac7175ed2dcf025f147
+ms.openlocfilehash: 954b4490fd7d93767b4cc2b026ff4ac3d0edf80e
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "49868036"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707701"
 ---
-# <a name="troubleshooting-seamless-single-sign-on-issues"></a>Problembehandlung bei problemen mit Sign-On Einzelnen
+# <a name="troubleshooting-seamless-single-sign-on-issues"></a>Problembehandlung bei nahtlosen Sign-On Problemen
 
 1. Fragen Oder suchen Sie nach Antworten auf die Fragen, die Sie zu [Microsoft Q&A haben.](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports#troubleshoot-issues-with-activity-reports)
-1. Wenn Sie häufige Probleme mit dem nahtlosen einmaligen Anmelden (Single Sign-On, SSO) haben, lesen Sie die folgenden Anleitungen zur Problembehandlung:
+1. Wenn Sie häufige Probleme mit der nahtlosen einmaligen Anmeldung (Seamless Single Sign-On, SSO) finden Sie in den folgenden Anleitungen zur Problembehandlung:
     - [Problembehandlung beim Hinzufügen von Apps](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) 
-    - [Problembehandlung bei kennwortbasiertem einmaligen Anmelden in Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-ba) 
-    - [Problembehandlung für SAML-basiertes einmaliges Anmelden in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-saml-based-sso) 
-    - [Debuggen des SAML-basierten einmaligen Anmeldens bei Anwendungen in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/debug-saml-sso-issues) 
-    - Video: [Bewährte Methoden für einmaliges Anmelden für Azure Active Directory- und Microsoft-Konten](https://azure.microsoft.com/resources/videos/ignite-2018-single-sign-on-best-practices-for-azure-active-directory-and-microsoft-accounts/) 
+    - [Problembehandlung für kennwortbasierte einmaliges Anmelden in Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso) 
+    - [Problembehandlung für SAML-basierte einmaliges Anmelden in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-saml-based-sso) 
+    - [Debuggen von SAML-basierten einmaligen Anmeldungen bei Anwendungen in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/debug-saml-sso-issues) 
+    - Video: Bewährte Methoden für einmaliges Anmelden [für Azure Active Directory- und Microsoft-Konten](https://azure.microsoft.com/resources/videos/ignite-2018-single-sign-on-best-practices-for-azure-active-directory-and-microsoft-accounts/) 
     - [Suchen von Aktivitätsberichten im Azure-Portal](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports#troubleshoot-issues-with-activity-reports)

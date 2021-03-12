@@ -3,7 +3,7 @@ title: Probleme mit Links und URLs
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/15/2021
+ms.date: 02/25/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 24885d873d6471a72ae66581ad1ceb0a19b664f7
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: f682afc2006957a83d02973d28e2a07ee63ac888
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49950732"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707881"
 ---
 # <a name="issues-with-links-and-urls"></a>Probleme mit Links und URLs
 
@@ -31,7 +31,7 @@ Umleitungs-URI/Antwort-URLs (beide Ausdrücke sind untereinander austauschbar) s
 
 Wenn bei der Anmeldung bei der App, die Sie entwickeln, im Anmeldedialogfeld **AADSTS50011: The reply url specified in the request does not match the reply urls configured for the application (Die in der Anforderung angegebene Antwort-URL stimmt nicht mit den für diese App konfigurierten Antwort-URLs überein)<your app ID>** angezeigt wird, müssen Sie Ihrer Anwendungsregistrierung den Umleitungs-URI hinzufügen, den Ihr Code in der Tokenanforderung an die Microsoft-Identitätsplattform verwendet hat.
 
-Wechseln Sie zum Hinzufügen einer Antwort-URL im Azure-Portal auf der **Anwendungsregistrierungsseite** zur Registerkarte **Authentifizierung**, und fügen Sie im Abschnitt **Umleitungs-URIs** einen Eintrag hinzu. Umleitungs-URIs werden eingeben (Web oder mobil/Desktop). Der Wert, den Sie eingeben müssen, hängt von der Art der von Ihnen erstellten Anwendung ab, wie nachstehend beschrieben:
+Wechseln Sie zum Hinzufügen einer Antwort-URL im Azure-Portal auf der **Anwendungsregistrierungsseite** zur Registerkarte **Authentifizierung**, und fügen Sie im Abschnitt **Umleitungs-URIs** einen Eintrag hinzu. Der Wert, den Sie eingeben müssen, hängt von der Art der von Ihnen erstellten Anwendung ab, wie nachstehend beschrieben:
 
 - Bei Anwendungen mit nur einer Seite und Web-Apps ist die Antwort-URL eine URL in Ihrer Anwendung. Siehe [Registrieren von Einzelseiten-Apps ](https://docs.microsoft.com/azure/active-directory/develop/scenario-spa-app-registration#register-a-redirect-uri) oder [Registrieren einer Web-App über das Azure-Portal](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration?tabs=aspnetcore#register-an-app-using-azure-portal).
 - Bei Desktop-Apps hängt der auszuwählende Wert von Folgendem ab:
