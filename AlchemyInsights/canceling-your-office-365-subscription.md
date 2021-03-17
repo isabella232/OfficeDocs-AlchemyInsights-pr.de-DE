@@ -1,9 +1,9 @@
 ---
-title: Kündigen Ihres Abonnements?
+title: Ihr Abonnement kündigen?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "4"
 - "1400001"
-ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 443623b83e220d4016448809770609110294d72f
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+- commerce
+ms.openlocfilehash: e69a91cda5f5df07a7ee429dce7145af366be464
+ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49348664"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "50837381"
 ---
-# <a name="canceling-your-subscription"></a>Kündigen Ihres Abonnements?
+# <a name="canceling-your-subscription"></a>Ihr Abonnement kündigen?
 
-Es tut uns leid, dass Sie gehen, aber wenn Sie Ihr Abonnement kündigen möchten, finden Sie hier die folgenden Optionen:
+Es tut uns leid, dass Sie losgehen, aber wenn Sie Ihr Abonnement kündigen möchten, sind die folgenden Optionen verfügbar:
   
-- Wenn Sie ein Test Kunde sind, gibt es nichts zu kündigen. Testabonnements laufen automatisch ab, es sei denn, Sie geben eine Zahlungsmethode an.
-- Wenn Sie weniger als 25 zugewiesene Lizenzen haben, können Sie Ihr Abonnement Online kündigen. Wechseln Sie zur Seite **Fakturierung** \> [ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054) , und suchen Sie nach dem Abonnement, das Sie stornieren möchten. Wählen Sie **Weitere Aktionen** (drei Punkte) und dann **Abonnement kündigen** aus.
+- Wenn Ihnen weniger als 25 Lizenzen zugewiesen sind, können Sie Ihr Abonnement online kündigen. Wechseln Sie zur **Seite Abrechnung** Ihre Produkte, und suchen Sie nach dem \> **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** Abonnement, das Sie kündigen möchten. Wählen Sie **Weitere Aktionen** (drei Punkte) und dann **Abonnement kündigen** aus.
 - Wenn Sie mehr als 25 Lizenzen für Benutzer zugewiesen haben, [rufen Sie den Support an, um Ihr Abonnement zu kündigen](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).
   
-**Rückerstattung: jede anteilige Gutschrift wird Ihnen innerhalb des nächsten Abrechnungszyklus zurückgegeben.**
+**Rückerstattung: Alle angerechneten Guthaben werden Ihnen innerhalb des nächsten Abrechnungszyklus zurückgegeben.**
 
 > [!NOTE]
-> Wenn die Option zum Abbrechen nicht angezeigt wird, wählen Sie das Abonnement aus, um die Seite Details anzuzeigen. Wählen Sie im Abschnitt **Abonnement-und Zahlungseinstellungen** die Option **Abonnement kündigen** aus.
+> Wenn die Option zum Abbrechen nicht angezeigt wird, wählen Sie das Abonnement aus, um die Detailseite anzuzeigen. Wählen Sie **im Abschnitt Abonnement-** und Zahlungseinstellungen die Option **Abonnement kündigen aus.**
 
-Weitere Informationen finden Sie unter [kündigen Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Weitere Informationen finden Sie unter [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
