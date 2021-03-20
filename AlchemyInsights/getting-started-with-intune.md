@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3190"
 - "9001217"
-ms.openlocfilehash: dda42cf553b2b1e37b69f334c0ad426aa7a13d10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 06b3e8b553de078a41980dc519db02ec8041e144
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706342"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50897082"
 ---
 # <a name="getting-started-with-intune"></a>Erste Schritte mit Intune
 
-Eine kurze Übersicht über InTune und die Verwaltungskonsole finden Sie unter [Exemplarische Vorgehensweise von InTune im Azure-Portal](https://docs.microsoft.com/intune/fundamentals/tutorial-walkthrough-intune-portal).
+Eine kurze Tour durch Intune und die Admin-Konsole finden Sie unter [Exemplarische Vorgehensweise von Intune im Azure Portal](https://docs.microsoft.com/mem/intune/fundamentals/tutorial-walkthrough-endpoint-manager).
 
-Wenn Sie InTune testen oder eine Testversion einrichten möchten, lesen Sie den Artikel [Quick Start: Testen Sie Microsoft InTune kostenlos](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up).
+Wenn Sie Intune ausprobieren oder eine Testversion einrichten möchten, lesen Sie [Schnellstart: Testen Sie Microsoft Intune kostenlos.](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up)
 
-Wenn Sie bereits über InTune verfügen und mit der Verwendung dieser Funktion beginnen möchten, lesen Sie unsere Anleitung zum [Einrichten von InTune](https://docs.microsoft.com/intune/fundamentals/setup-steps) . 
+Wenn Sie mit der Verwendung von Intune beginnen möchten, lesen Sie [Einrichten von Intune](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps). Eine anleitungsgesteuerte Einrichtung finden Sie im [Intune-Setuphandbuch](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/intunesetupguide).

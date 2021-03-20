@@ -1,5 +1,5 @@
 ---
-title: . uk Domaintransfers
+title: .uk-Domänenübertragungen
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: 42fa6189bc41c573fcb06fb41c9c6c4af82a0c8f
-ms.sourcegitcommit: 9604f7cec8bf18ae2d7e5915cab4671a3a04d316
+ms.openlocfilehash: 9b08d72834c1bbfd46e9724ecf9c564325493ba5
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598567"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50896650"
 ---
-# <a name="uk-domain-transfers"></a>. uk Domaintransfers
+# <a name="uk-domain-transfers"></a>.uk-Domänenübertragungen
 
-Wenden Sie sich an den Microsoft-Support, und fordern Sie eine **IPS-Tag-Änderung** an, die der Registrierungsstelle entspricht, für die Sie Ihre Domäne verwalten möchten. Nachdem sich das Tag geändert hat, wird die Domäne sofort an die neue Registrierungsstelle übertragen. Anschließend müssen Sie mit der neuen Registrierungsstelle zusammenarbeiten, um die Übertragung abzuschließen, wahrscheinlich Gebühren für die Übertragung zu bezahlen und die übertragene Domäne Ihrem Konto bei ihrer neuen Registrierungsstelle hinzuzufügen.
+Wenden Sie sich an den Microsoft-Support, und fordern Sie eine Änderung des **IPS-Tags** an, um der Registrierungsstelle zu entsprechen, die Sie Ihre Domäne in Zukunft verwalten möchten. Sobald sich das Tag ändert, wird die Domäne sofort an die neue Registrierungsstelle übertragen. Sie müssen dann mit der neuen Registrierungsstelle zusammenarbeiten, um die Übertragung abschließen zu können, und wahrscheinlich Übertragungsgebühren bezahlen und die übertragene Domäne ihrem Konto mit Ihrer neuen Registrierungsstelle hinzufügen.
 
-Weitere Informationen zu Domänen Übertragungen finden Sie unter [übertragen einer Domäne von Microsoft auf einen anderen Host](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide).
+Weitere Informationen zu Domänenübertragungen finden Sie unter Übertragen einer Domäne [von Microsoft auf einen anderen Host.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide)
+
+Bereiten Sie sich darauf vor, das IPS-Tag der neuen Registrierungsstelle zur Verfügung zu stellen, das Sie unter https://registrars.nominet.uk/uk-namespace/registrar-agreement/list-of-registrars/ finden.
