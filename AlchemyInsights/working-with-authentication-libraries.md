@@ -1,0 +1,55 @@
+---
+title: Arbeiten mit Authentifizierungsbibliotheken
+ms.author: v-smandalika
+author: v-smandalika
+manager: dansimp
+ms.date: 03/17/2021
+audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9775"
+- "9004342"
+ms.openlocfilehash: f9f54ed2bfc5841df66d3e714112b9307455c182
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50897627"
+---
+# <a name="working-with-authentication-libraries"></a><span data-ttu-id="38f40-102">Arbeiten mit Authentifizierungsbibliotheken</span><span class="sxs-lookup"><span data-stu-id="38f40-102">Working with Authentication Libraries</span></span>
+
+<span data-ttu-id="38f40-103">Um das Problem mit der Microsoft-Authentifizierungsbibliotheken (MSAL) zu beheben, führen Sie die folgenden empfohlenen Schritte durch:</span><span class="sxs-lookup"><span data-stu-id="38f40-103">To resolve Microsoft Authentication Library (MSAL) issue, perform the following recommended steps:</span></span>
+
+1. <span data-ttu-id="38f40-104">**Arbeiten mit MSAL**: [Microsoft Identity Platform-Authentifizierungsbibliotheken](https://docs.microsoft.com/azure/active-directory/develop/reference-v2-libraries) – In diesem Artikel wird die Unterstützung der Microsoft-Authentifizierungsbibliothek für verschiedene Anwendungstypen beschrieben.</span><span class="sxs-lookup"><span data-stu-id="38f40-104">**Working with MSAL**: [Microsoft identity platform authentication libraries](https://docs.microsoft.com/azure/active-directory/develop/reference-v2-libraries) - This article shows Microsoft Authentication Library support for several application types.</span></span> <span data-ttu-id="38f40-105">Er enthält Links zum Quellcode der Bibliothek, gibt an, wo Sie das Paket für das Projekt Ihrer App erhalten und ob die Bibliothek die Benutzeranmeldung (Authentifizierung), den Zugriff auf geschützte Web-APIs (Autorisierung) oder beides unterstützt.</span><span class="sxs-lookup"><span data-stu-id="38f40-105">It includes links to library source code; where to get the package for your app's project; and whether the library supports user sign-in (authentication), access to protected web APIs (authorization), or both.</span></span>
+
+2. <span data-ttu-id="38f40-106">**Problembehandlung**: MSAL unterstützt mehrere Authentifizierungsabläufe zur Verwendung in verschiedenen Anwendungsszenarien.</span><span class="sxs-lookup"><span data-stu-id="38f40-106">**Troubleshoot Authentication**: The MSAL supports several authentication flows for use in different application scenarios.</span></span> <span data-ttu-id="38f40-107">Je nachdem, wie Ihre Clientanwendung aufgebaut ist, kann die MSAL einen oder mehrere der von Microsoft Identity Platform unterstützten Authentifizierungsabläufe verwenden.</span><span class="sxs-lookup"><span data-stu-id="38f40-107">Depending on how your client application is built, the MSAL can use one or more of the authentication flows supported by the Microsoft identity platform.</span></span> <span data-ttu-id="38f40-108">Diese Abläufe können verschiedene Arten von Token und Autorisierungscodes erzeugen und erfordern unterschiedliche Token, damit sie funktionieren.</span><span class="sxs-lookup"><span data-stu-id="38f40-108">These flows can produce several types of tokens and authorization codes, and require different tokens to make them work.</span></span>
+
+3. <span data-ttu-id="38f40-109">**Zugriffstoken**: [Zugriffstoken von Microsoft Identity Platform](https://docs.microsoft.com/azure/active-directory/develop/access-tokens) – Erfahren Sie, wie Ihre API die Ansprüche in einem Zugriffstoken validieren und verwenden kann.</span><span class="sxs-lookup"><span data-stu-id="38f40-109">**Access Tokens**: [Microsoft identity platform access tokens](https://docs.microsoft.com/azure/active-directory/develop/access-tokens) - Learn how your API can validate and use the claims inside an access token.</span></span> <span data-ttu-id="38f40-110">Die gesamte Dokumentation in diesem Artikel gilt, sofern nicht anders angegeben, nur für Token, die für von Ihnen registrierte APIs ausgestellt wurden.</span><span class="sxs-lookup"><span data-stu-id="38f40-110">All documentation in this article, except where noted, applies only to tokens issued for APIs you've registered.</span></span> <span data-ttu-id="38f40-111">Sie gilt nicht für Token, die für Microsoft-eigene APIs ausgestellt wurden, noch können diese Token verwendet werden, um zu überprüfen, wie Microsoft Identity Platform Token für eine von Ihnen erstellte API ausstellt.</span><span class="sxs-lookup"><span data-stu-id="38f40-111">It does not apply to tokens issued for Microsoft-owned APIs, nor can those tokens be used to validate how the Microsoft identity platform will issue tokens for an API you create.</span></span>
+
+<span data-ttu-id="38f40-112">**Ende der Unterstützung für die Azure Active Directory-Authentifizierungsbibliothek (ADAL)**</span><span class="sxs-lookup"><span data-stu-id="38f40-112">**End of support for Azure Active Directory Authentication Library (ADAL)**</span></span>
+
+- <span data-ttu-id="38f40-113">**Seit dem 30. Juni 2020** werden keine neuen Features mehr zu ADAL und Azure AD Graph hinzugefügt.</span><span class="sxs-lookup"><span data-stu-id="38f40-113">**Starting June 30th, 2020,** we will no longer add any new features to ADAL and Azure AD Graph.</span></span> <span data-ttu-id="38f40-114">Wir werden weiterhin technischen Support und Sicherheitsupdates bereitstellen, jedoch keine Funktionsupdates mehr.</span><span class="sxs-lookup"><span data-stu-id="38f40-114">We will continue to provide technical support and security updates but will no longer provide feature updates.</span></span>
+- <span data-ttu-id="38f40-115">**Ab dem 30. Juni 2022** werden wir den Support für ADAL und Azure AD Graph beenden und keinen technischen Support oder Sicherheitsupdates mehr bereitstellen.</span><span class="sxs-lookup"><span data-stu-id="38f40-115">**Starting June 30th, 2022,** we will end support for ADAL and Azure AD Graph and will no longer provide technical support or security updates.</span></span>
+- <span data-ttu-id="38f40-116">Apps, die ADAL unter vorhandenen Betriebssystemversionen verwenden, funktionieren auch nach diesem Zeitpunkt weiterhin, *es werden jedoch weder Support noch Sicherheitsupdates dafür bereitgestellt*.</span><span class="sxs-lookup"><span data-stu-id="38f40-116">Apps using ADAL on existing OS versions will continue to work after this time but will not *get any technical support or security updates*.</span></span>
+- <span data-ttu-id="38f40-117">Apps, die Azure AD Graph nach dieser Zeit verwenden, empfangen möglicherweise keine Antworten mehr vom Azure AD Graph-Endpunkt.</span><span class="sxs-lookup"><span data-stu-id="38f40-117">Apps using Azure AD Graph after this time may no longer receive responses from the Azure AD Graph endpoint.</span></span>
+
+<span data-ttu-id="38f40-118">**ADAL-Migration**</span><span class="sxs-lookup"><span data-stu-id="38f40-118">**ADAL Migration**</span></span>
+
+- <span data-ttu-id="38f40-119">Es wird ein Update auf die MSAL empfohlen, die über die neuesten Features und Sicherheitsupdates verfügt.</span><span class="sxs-lookup"><span data-stu-id="38f40-119">We recommend updating to the MSAL, which has the latest features and security updates.</span></span>
+- <span data-ttu-id="38f40-120">Wenn Sie Microsoft-Apps verwenden, sollten Sie wissen, dass Microsoft dabei ist, Microsoft-Apps bis zum Stichtag des Endes des Supports zu MSAL zu migrieren, um sicherzustellen, dass sie von den laufenden Sicherheits- und Featureverbesserungen von MSAL profitieren.</span><span class="sxs-lookup"><span data-stu-id="38f40-120">If you're using Microsoft apps, know that Microsoft is in the process of migrating its apps to MSAL by the end-of-support deadline, ensuring they'll benefit from MSAL's ongoing security and feature improvements.</span></span>
+
+1. <span data-ttu-id="38f40-121">[Lesen Sie hierzu die häufig gestellten Fragen zu ADAL](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq).</span><span class="sxs-lookup"><span data-stu-id="38f40-121">[Read the ADAL FAQ](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq).</span></span>
+2. <span data-ttu-id="38f40-122">[Informationen zum Migrieren von Apps nach Plattform](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#migration-guidance).</span><span class="sxs-lookup"><span data-stu-id="38f40-122">[Learn about how to migrate apps on a per-platform basis](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#migration-guidance).</span></span>
+3. <span data-ttu-id="38f40-123">Wenn Sie nach dem Lesen des Leitfadens für die Plattform Ihrer App weitere Fragen haben, können Sie diese unter [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-adal-deprecation.html) mit dem Tag „[azure-ad-adal-deprecation]“ posten oder ein Problem im GitHub-Repository der Bibliothek melden.</span><span class="sxs-lookup"><span data-stu-id="38f40-123">If, after reading the guide for your app's platform, you have additional questions, you can post on [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-adal-deprecation.html) with the tag [azure-ad-adal-deprecation] or open an issue in library's GitHub repository.</span></span> <span data-ttu-id="38f40-124">Im Abschnitt [Sprachen und Frameworks](https://docs.microsoft.com/azure/active-directory/develop/msal-overview#languages-and-frameworks) des Artikels **Übersicht über die MSAL** finden Sie Links zu den einzelnen Repositorys der Bibliothek.</span><span class="sxs-lookup"><span data-stu-id="38f40-124">See the [Languages and frameworks](https://docs.microsoft.com/azure/active-directory/develop/msal-overview#languages-and-frameworks) section of the **MSAL overview** article for links to each library's repo.</span></span>
+4. <span data-ttu-id="38f40-125">**Wenn Sie Hilfe benötigen, um zu verstehen, welche Ihrer Apps ADAL verwenden**, empfehlen wir Ihnen, den Quellcode all Ihrer Apps zu überprüfen.</span><span class="sxs-lookup"><span data-stu-id="38f40-125">**If you need help understanding which of your apps use ADAL**, we recommend you review all of your apps' source code.</span></span> <span data-ttu-id="38f40-126">Wenden Sie sich ggf. an unabhängige Softwareanbieter (ISVs) oder App-Anbieter.</span><span class="sxs-lookup"><span data-stu-id="38f40-126">If applicable, reach out to any Independent software vendors (ISVs) or app providers.</span></span> <span data-ttu-id="38f40-127">Der Microsoft-Support kann Ihnen auch eine Liste aller Nicht-Microsoft ADAL-Apps in Ihrem Mandanten bereitstellen.</span><span class="sxs-lookup"><span data-stu-id="38f40-127">Microsoft support can also provide you with a list of all non-Microsoft ADAL apps in your tenant.</span></span>
+
+
+
+
+
+
+

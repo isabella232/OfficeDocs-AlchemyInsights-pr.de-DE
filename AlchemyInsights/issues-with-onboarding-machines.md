@@ -1,5 +1,5 @@
 ---
-title: Probleme mit dem Onboarding-Computern
+title: Probleme beim Onboarding von Computern in Microsoft Defender für Endpunkt
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6023"
 - "9002913"
-ms.openlocfilehash: c3203ed68eb19d5f6d75eb2269094bb0422b14cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ccec69f8ab43f277978176519a7f8f8df443846
+ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676881"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901566"
 ---
-# <a name="issues-with-onboarding-machines"></a><span data-ttu-id="cbf99-102">Probleme mit dem Onboarding-Computern</span><span class="sxs-lookup"><span data-stu-id="cbf99-102">Issues with onboarding machines</span></span>
+# <a name="issues-with-onboarding-machines-to-microsoft-defender-for-endpoints"></a><span data-ttu-id="fd35d-102">Probleme beim Onboarding von Computern in Microsoft Defender für Endpunkt</span><span class="sxs-lookup"><span data-stu-id="fd35d-102">Issues with onboarding machines to Microsoft Defender for Endpoints</span></span>
 
-<span data-ttu-id="cbf99-103">Möglicherweise haben Sie Probleme mit Onboarding-Computern beim MDATP-Dienst.</span><span class="sxs-lookup"><span data-stu-id="cbf99-103">You might have issues with onboarding machines to MDATP service.</span></span> <span data-ttu-id="cbf99-104">Wenn Sie auf den Endbenutzercomputer zugreifen können, führen Sie die folgenden Schritte aus:</span><span class="sxs-lookup"><span data-stu-id="cbf99-104">If you can access the end-user machine, follow these steps:</span></span>
+<span data-ttu-id="fd35d-103">Möglicherweise haben Sie Probleme beim Onboarding von Computern in den MDE-Dienst.</span><span class="sxs-lookup"><span data-stu-id="fd35d-103">You might have issues with onboarding machines to MDE service.</span></span> <span data-ttu-id="fd35d-104">Wenn Sie auf den Endbenutzercomputer zugreifen können, führen Sie die folgenden Schritte aus:</span><span class="sxs-lookup"><span data-stu-id="fd35d-104">If you can access the end-user machine, follow these steps:</span></span>
 
-1. <span data-ttu-id="cbf99-105">Laden Sie das [Clientverbindungsuntersuchung](https://aka.ms/mdatpanalyzer)-Diagnosetool herunter.</span><span class="sxs-lookup"><span data-stu-id="cbf99-105">Download the [Client Connectivity Analyzer](https://aka.ms/mdatpanalyzer) diagnostic tool.</span></span>
-2. <span data-ttu-id="cbf99-106">Extrahieren Sie MDATPAnalyzer.cmd, und führen Sie es aus.</span><span class="sxs-lookup"><span data-stu-id="cbf99-106">Extract and run MDATPAnalyzer.cmd.</span></span>
-3. <span data-ttu-id="cbf99-107">Suchen Sie das Diagnoseprotokoll im Ordner „MDATPClientAnalyzerResult“, dem gleichen Ordner, in dem das Untersuchungstool heruntergeladen wird.</span><span class="sxs-lookup"><span data-stu-id="cbf99-107">Locate the diagnostic log in the folder called MDATPClientAnalyzerResult, the same folder where the Analyzer tool is downloaded.</span></span>
-4. <span data-ttu-id="cbf99-108">Überprüfen Sie die Protokolldatei „MDATPClientAnalyzer.txt“, um Probleme mit der Verbindung oder Internetproxyeinstellungen zu finden.</span><span class="sxs-lookup"><span data-stu-id="cbf99-108">Review the log file, MDATPClientAnalyzer.txt, to find connectivity or internet proxy settings issues.</span></span>
+1. <span data-ttu-id="fd35d-105">Laden Sie die neueste Vorschauversion des Diagnosetools zur [MDE-Clientanalyse](https://aka.ms/betamdeanalyzer) herunter.</span><span class="sxs-lookup"><span data-stu-id="fd35d-105">Download the latest preview version of the [MDE Client Analyzer](https://aka.ms/betamdeanalyzer) diagnostic tool.</span></span>
+2. <span data-ttu-id="fd35d-106">Klicken Sie mit der rechten Maustaste auf **MDEClientAnalyzer.cmd** und wählen Sie „Als Administrator ausführen“ aus.</span><span class="sxs-lookup"><span data-stu-id="fd35d-106">Right click **MDEClientAnalyzer.cmd** and select ‘Run as administrator’.</span></span>
+3. <span data-ttu-id="fd35d-107">Befolgen Sie alle Hilfestellungen, die Ihnen in **MDEClientAnalyzer.htm** vorgeschlagen werden.</span><span class="sxs-lookup"><span data-stu-id="fd35d-107">Follow any guidance suggested in **MDEClientAnalyzer.htm**.</span></span>
+4. <span data-ttu-id="fd35d-108">Weitere ausführliche Protokolle finden Sie im erstellten Unterordner namens **MDEClientAnalyzerResult**.</span><span class="sxs-lookup"><span data-stu-id="fd35d-108">For more verbose logs, review the created sub-folder named **MDEClientAnalyzerResult**.</span></span>
+5. <span data-ttu-id="fd35d-109">Wenn zusätzliche Anleitung nötig ist, wenden Sie sich an den [Support für Microsoft Defender für Endpunkt](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support) und stellen Sie die resultierende Datei „MDEClientAnalyzerResult.zip“ zur Analyse zur Verfügung.</span><span class="sxs-lookup"><span data-stu-id="fd35d-109">If additional guidance is needed, contact [Microsoft Defender for Endpoint support](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support) and provide the resulting MDEClientAnalyzerResult.zip file for analysis.</span></span>
