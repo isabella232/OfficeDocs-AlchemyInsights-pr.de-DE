@@ -1,8 +1,8 @@
 ---
-title: Suchen und Aktivieren des Product Keys
+title: Suchen und Aktivieren meines Product Key
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,33 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 107916aae8aef805e2adb5caaef1d06f97edeaa3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 37a847074f14ac914950ad42dfc0c6c52db942a6
+ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708574"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51200708"
 ---
-# <a name="find-and-activate-my-product-key"></a><span data-ttu-id="33da1-102">Suchen und Aktivieren des Product Keys</span><span class="sxs-lookup"><span data-stu-id="33da1-102">Find and activate my product key</span></span>
+# <a name="find-and-activate-my-product-key"></a><span data-ttu-id="cace3-102">Suchen und Aktivieren meines Product Key</span><span class="sxs-lookup"><span data-stu-id="cace3-102">Find and activate my product key</span></span>
 
-<span data-ttu-id="33da1-103">Wenn Sie Microsoft 365 for Business über ein [Microsoft Open License-Programm](https://go.microsoft.com/fwlink/p/?LinkID=613298)erworben haben, erfahren Sie hier, wie Sie Ihren Product Key finden und aktivieren.</span><span class="sxs-lookup"><span data-stu-id="33da1-103">If you bought Microsoft 365 for business through a [Microsoft Open License Program](https://go.microsoft.com/fwlink/p/?LinkID=613298), here is how you find and activate your product key.</span></span>
+<span data-ttu-id="cace3-103">Wenn Sie Microsoft 365 business über ein [Microsoft Open License Program](https://go.microsoft.com/fwlink/p/?LinkID=613298)erworben haben, finden und aktivieren Sie Ihren Product Key.</span><span class="sxs-lookup"><span data-stu-id="cace3-103">If you bought Microsoft 365 for business through a [Microsoft Open License Program](https://go.microsoft.com/fwlink/p/?LinkID=613298), here is how you find and activate your product key.</span></span>
 
-1. <span data-ttu-id="33da1-104">Nachdem Sie einen Schlüssel von einem Microsoft 365-Partner erworben haben, überprüfen Sie Ihren Posteingang auf eine e-Mail von Microsoft, die einen Aktivierungslink enthält.</span><span class="sxs-lookup"><span data-stu-id="33da1-104">After you purchase a key from a Microsoft 365 partner, check your inbox for an email from Microsoft containing an activation link.</span></span>  <span data-ttu-id="33da1-105">**Hinweis**: die e-Mail wird an die Person gesendet, die als Online Administrator im Volumenlizenz Vertrag aufgeführt ist.</span><span class="sxs-lookup"><span data-stu-id="33da1-105">**Note**: The email is sent to the person listed as the online administrator in the volume licensing agreement.</span></span>  <span data-ttu-id="33da1-106">Wenn Sie nicht sicher sind, wer als Online Administrator festgelegt ist, Fragen Sie Ihren Microsoft 365-Partner.</span><span class="sxs-lookup"><span data-stu-id="33da1-106">If you're not sure who is designated as the online administrator, ask your Microsoft 365 partner.</span></span>
+1. <span data-ttu-id="cace3-104">Nachdem Sie einen Schlüssel von einem Microsoft 365-Partner erwerben, überprüfen Sie ihren Posteingang auf eine E-Mail von Microsoft, die einen Aktivierungslink enthält.</span><span class="sxs-lookup"><span data-stu-id="cace3-104">After you purchase a key from a Microsoft 365 partner, check your inbox for an email from Microsoft that contains an activation link.</span></span>
 
-2. <span data-ttu-id="33da1-107">Klicken Sie auf den Link in der e-Mail, um sich mit Ihrem Geschäfts-oder Schulkonto anzumelden, den offenen Lizenzvertrag zu akzeptieren und das Abonnement zu erneuern.</span><span class="sxs-lookup"><span data-stu-id="33da1-107">Follow the link in the email to sign in with your work or school account, accept the Open license agreement and renew the subscription.</span></span>  <span data-ttu-id="33da1-108">Eine schrittweise Anleitung finden Sie im PDF-Handbuch unter [Aktivieren von Online Diensten: Microsoft 365-Abonnement](https://go.microsoft.com/fwlink/p/?LinkId=618100).</span><span class="sxs-lookup"><span data-stu-id="33da1-108">For a step-by-step walkthrough, download the PDF guide, [Activate Online Services: Microsoft 365 Subscription](https://go.microsoft.com/fwlink/p/?LinkId=618100).</span></span> 
+    > [!NOTE]
+    > <span data-ttu-id="cace3-105">Diese E-Mail wird an die Person gesendet, die im Volumenlizenzvertrag als Online-Administrator aufgeführt ist.</span><span class="sxs-lookup"><span data-stu-id="cace3-105">The email is sent to the person listed as the online administrator in the volume licensing agreement.</span></span> <span data-ttu-id="cace3-106">Wenn Sie nicht sicher sind, wer als Onlineadministrator festgelegt ist, fragen Sie Ihren Microsoft 365-Partner.</span><span class="sxs-lookup"><span data-stu-id="cace3-106">If you're not sure who is designated as the online administrator, ask your Microsoft 365 partner.</span></span>
+1. <span data-ttu-id="cace3-107">Folgen Sie dem Link in der E-Mail, um sich mit Ihrem Arbeits- oder Schulkonto zu anmelden, den Lizenzvertrag öffnen zu akzeptieren und das Abonnement zu verlängern.</span><span class="sxs-lookup"><span data-stu-id="cace3-107">Follow the link in the email to sign in with your work or school account, accept the Open license agreement and renew the subscription.</span></span> <span data-ttu-id="cace3-108">Eine schrittweise exemplarische Vorgehensweise finden Sie im PDF-Leitfaden Activate [Online Services: Microsoft 365 Subscription](https://go.microsoft.com/fwlink/p/?LinkId=618100).</span><span class="sxs-lookup"><span data-stu-id="cace3-108">For a step-by-step walkthrough, download the PDF guide, [Activate Online Services: Microsoft 365 Subscription](https://go.microsoft.com/fwlink/p/?LinkId=618100).</span></span>
 
-<span data-ttu-id="33da1-109">**Hinweis**: Volumenlizenzkunden können auch die Aktivierung von Abonnements im [Volumen Lizenzierungs-Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016)auswählen.</span><span class="sxs-lookup"><span data-stu-id="33da1-109">**Note**: Volume licensing customers can also choose to activate subscriptions in the [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016).</span></span>  <span data-ttu-id="33da1-110">Informationen zum Herunterladen des PDF-Handbuchs finden Sie unter [Active Online Services im Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkId=618096).</span><span class="sxs-lookup"><span data-stu-id="33da1-110">To learn how, download the PDF guide, [Active Online Services in the Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkId=618096).</span></span>
-
-<span data-ttu-id="33da1-111">Wenn Sie Microsoft 365 Business Premium Standard in einem Einzelhandelsgeschäft erworben haben, führen Sie die folgenden Schritte aus, um das Ablaufdatum zu verlängern oder eine Lizenz zu einem vorhandenen Abonnement hinzuzufügen.</span><span class="sxs-lookup"><span data-stu-id="33da1-111">If you purchased Microsoft 365 Business Premium Standard from a retail store, use the following steps to extend the expiration date or add a license to an existing subscription.</span></span>
-
-<span data-ttu-id="33da1-112">**Hinweis**: Wenn Sie einen Product Key zum Verlängern des Ablaufdatums oder zum Hinzufügen einer Lizenz zu Ihrem vorhandenen Microsoft 365 Business Premium-Standard Abonnement verwenden möchten, benötigen Sie einen neuen und unverwendeten Schlüssel für dasselbe Microsoft 365-Abonnement.</span><span class="sxs-lookup"><span data-stu-id="33da1-112">**Note**: To use a product key to extend the expiration date or add a license to your existing Microsoft 365 Business Premium Standard subscription, you need a new and unused key for the same Microsoft  365 subscription.</span></span>  <span data-ttu-id="33da1-113">Das Eingeben Ihres ursprünglichen Microsoft 365-Product Keys funktioniert nicht, da ein bereits eingelöster Schlüssel nicht erneut verwendet werden kann.</span><span class="sxs-lookup"><span data-stu-id="33da1-113">Entering your original Microsoft  365 product key won't work because a key that has already been redeemed can't be used again.</span></span>
-
-1. <span data-ttu-id="33da1-114">Wechseln Sie im Admin Center zur Seite **Fakturierung**  >  **[ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)** .</span><span class="sxs-lookup"><span data-stu-id="33da1-114">In the admin center, go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
-
-2. <span data-ttu-id="33da1-115">Suchen Sie nach dem Abonnement, für das Sie das Ablaufdatum verlängern oder Lizenzen hinzufügen möchten.</span><span class="sxs-lookup"><span data-stu-id="33da1-115">Find the subscription to which you want to extend the expiration date or add licenses.</span></span>  <span data-ttu-id="33da1-116">Klicken Sie auf [Enddatum verlängern](https://go.microsoft.com/fwlink/p/?linkid=842054) oder [Weitere Lizenzen hinzufügen](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="33da1-116">Click [extend end date](https://go.microsoft.com/fwlink/p/?linkid=842054) or [add more licenses](https://go.microsoft.com/fwlink/p/?linkid=842054).</span></span>
-
-3. <span data-ttu-id="33da1-117">Klicken Sie auf **neuen und nicht verwendeten Product Key verwenden** und dann auf **weiter**.</span><span class="sxs-lookup"><span data-stu-id="33da1-117">Click **Use a new and unused product key** and then **Next**.</span></span>
-
-4. <span data-ttu-id="33da1-118">Geben Sie den Product Key ein, und klicken Sie auf **weiter**.</span><span class="sxs-lookup"><span data-stu-id="33da1-118">Enter the product key and click **Next**.</span></span>
-
-5. <span data-ttu-id="33da1-119">Überprüfen Sie Ihre Bestelldetails.</span><span class="sxs-lookup"><span data-stu-id="33da1-119">Review your order details.</span></span>  <span data-ttu-id="33da1-120">Wenn alles richtig aussieht, klicken Sie auf **einlösen**.</span><span class="sxs-lookup"><span data-stu-id="33da1-120">If everything looks correct, click **Redeem**.</span></span>
+    > [!NOTE]
+    > <span data-ttu-id="cace3-109">Volumenlizenzierungskunden können abonnements auch im [Volume Licensing Service Center aktivieren.](https://go.microsoft.com/fwlink/p/?LinkID=282016)</span><span class="sxs-lookup"><span data-stu-id="cace3-109">Volume licensing customers can also choose to activate subscriptions in the [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016).</span></span> <span data-ttu-id="cace3-110">Um zu erfahren, laden Sie das PDF-Handbuch [Active Online Services im Volume Licensing Service Center herunter.](https://go.microsoft.com/fwlink/p/?LinkId=618096)</span><span class="sxs-lookup"><span data-stu-id="cace3-110">To learn how, download the PDF guide, [Active Online Services in the Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkId=618096).</span></span>
