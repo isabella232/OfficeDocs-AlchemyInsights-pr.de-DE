@@ -1,5 +1,5 @@
 ---
-title: Automatisches Anmelden bei Microsoft Edge
+title: Automatische Anmeldung bei Microsoft Edge
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003848"
 - "6898"
-ms.openlocfilehash: 68a1119abd0a3f687b6448bb6e58c6485c239c0f
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+- "8333"
+- "9004625"
+ms.openlocfilehash: 6021991c125f5cb2a33ce8db8fe7717b528bf49b
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599468"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398728"
 ---
-# <a name="sign-in-to-microsoft-edge-automatically"></a>Automatisches Anmelden bei Microsoft Edge
+# <a name="sign-in-to-microsoft-edge-automatically"></a>Automatische Anmeldung bei Microsoft Edge
 
-Microsoft Edge verwendet das Standardkonto des Betriebssystems, um sich automatisch bei einem Benutzer anzumelden, je nachdem, wie das Gerät des Benutzers konfiguriert ist. 
+Microsoft Edge verwendet das Standardkonto des Betriebssystems, um sich automatisch bei einem Benutzer entsprechend der Konfiguration des Geräts des Benutzers zu anmelden. 
 
-Die Szenarien der einzelnen Geräte Konfigurationstypen und des abhängigen Benutzeranmeldeprozesses werden im folgenden beschrieben:
+Die Szenarien der einzelnen Gerätekonfigurationen und des abhängigen Benutzer-Anmeldevorgangs werden unten beschrieben:
 
-1. **Das Gerät ist Hybrid/Aad-J**: diese Option ist unter Windows 10, untergeordnete Fenster und entsprechende Server Versionen verfügbar. Benutzer werden automatisch mit ihren Azure-Active Directory Konten (AD) angemeldet.
-2. **Das Gerät ist Domänenbeitritt**: diese Option ist unter Windows 10, untergeordnete Fenster und entsprechende Server Versionen verfügbar. Standardmäßig werden Benutzer mit Domänenkonten nicht automatisch angemeldet; um die automatische Anmeldung für diese zu aktivieren, verwenden Sie die **ConfigureOnPremisesAccountAutoSignIn** -Richtlinie. Wenn Sie die automatische Anmeldung für Benutzer mit Azure Ad Konten aktivieren möchten, sollten Sie den Hybriden Beitritt zu Ihren Geräten in Frage stellen.
-3. **Das Standardkonto des Betriebssystems ist ein Microsoft-Konto**: diese Option ist unter Windows 10 RS3 (Version 1709, Build 10.0.16299) und höheren Versionen verfügbar. Das Szenario ist unwahrscheinlich, dass es auf Enterprise-Geräten auftritt. Wenn das Standardkonto des Betriebssystems jedoch ein Microsoft-Konto ist, meldet sich Microsoft Edge automatisch beim Benutzer mit dem Microsoft-Konto an.
+- **Das Gerät ist hybrid/AAD-J**: Diese Option ist unter Windows 10, windows-down-level und entsprechenden Serverversionen verfügbar. Benutzer werden automatisch mit ihren Azure Active Directory (AD)-Konten angemeldet.
+- **Das Gerät ist mit der Domäne** verbunden: Diese Option ist unter Windows 10, Windows auf down-Level-Ebene und entsprechenden Serverversionen verfügbar. Standardmäßig werden Benutzer mit Domänenkonten nicht automatisch angemeldet. Verwenden Sie die **ConfigureOnPremisesAccountAutoSignIn-Richtlinie,** um die automatische Anmeldung für sie zu aktivieren. Um die automatische Anmeldung für Benutzer mit Azure AD-Konten zu aktivieren, sollten Sie die Hybridinteging ihrer Geräte in Betracht ziehen.
+- Das **Standardkonto** des Betriebssystems ist ein Microsoft-Konto: Diese Option ist unter Windows 10 RS3 (Version 1709, Build 10.0.16299) und höher verfügbar. Das Szenario wird auf Unternehmensgeräten wahrscheinlich nicht auftreten. Wenn es sich bei dem Standardkonto des Betriebssystems jedoch um ein Microsoft-Konto handelt, wird microsoft Edge den Benutzer automatisch mit dem Microsoft-Konto anmelden.
  
  
