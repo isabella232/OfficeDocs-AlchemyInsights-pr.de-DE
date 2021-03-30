@@ -12,14 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003841"
+- "9004632"
 - "6890"
-ms.openlocfilehash: 7752d3f5d1a567b4b9e61818ad80599ef5cda056
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8362"
+ms.openlocfilehash: dc6a5c233736912030f16b43c269b9deb442dfa6
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576479"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403346"
 ---
-# <a name="group-policies-in-microsoft-edge"></a><span data-ttu-id="90ad3-102">Gruppenrichtlinien in Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="90ad3-102">Group policies in Microsoft Edge</span></span>
+# <a name="group-policies-in-microsoft-edge"></a><span data-ttu-id="7ce8a-102">Gruppenrichtlinien in Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="7ce8a-102">Group policies in Microsoft Edge</span></span>
 
-<span data-ttu-id="90ad3-103">Verwenden Sie die in Microsoft Edge (Version 77 oder höher) verfügbaren [Gruppenrichtlinien](https://go.microsoft.com/fwlink/?linkid=2134623) , um anzugeben, wie der Browser in Ihrer Organisation ausgeführt wird.</span><span class="sxs-lookup"><span data-stu-id="90ad3-103">Use the [group policies](https://go.microsoft.com/fwlink/?linkid=2134623) available in Microsoft Edge (version 77 or later) to specify how the browser runs in your organization.</span></span>
+<span data-ttu-id="7ce8a-103">Verwenden Sie [die](https://go.microsoft.com/fwlink/?linkid=2134623) in Microsoft Edge (Version 77 oder höher) verfügbaren Gruppenrichtlinien, um anzugeben, wie der Browser in Ihrer Organisation ausgeführt wird.</span><span class="sxs-lookup"><span data-stu-id="7ce8a-103">Use the [group policies](https://go.microsoft.com/fwlink/?linkid=2134623) available in Microsoft Edge (version 77 or later) to specify how the browser runs in your organization.</span></span>

@@ -1,5 +1,5 @@
 ---
-title: Verwenden von Update bezogenen Gruppenrichtlinien, die in Microsoft Edge verfügbar sind
+title: Verwenden updatebezogener Gruppenrichtlinien, die in Microsoft Edge verfügbar sind
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,14 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003843"
+- "9004632"
 - "7092"
-ms.openlocfilehash: 506681be0666c8091b86c173635f6eaa9552432d
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+- "8359"
+ms.openlocfilehash: 3477b5a1754815e22f34a866e285096af94d6d78
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571872"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403670"
 ---
-# <a name="use-update-related-group-policies-available-in-microsoft-edge"></a><span data-ttu-id="b4ead-102">Verwenden von Update bezogenen Gruppenrichtlinien, die in Microsoft Edge verfügbar sind</span><span class="sxs-lookup"><span data-stu-id="b4ead-102">Use update-related group policies available in Microsoft Edge</span></span>
+# <a name="use-update-related-group-policies-available-in-microsoft-edge"></a><span data-ttu-id="0d9b3-102">Verwenden updatebezogener Gruppenrichtlinien, die in Microsoft Edge verfügbar sind</span><span class="sxs-lookup"><span data-stu-id="0d9b3-102">Use update-related group policies available in Microsoft Edge</span></span>
 
-<span data-ttu-id="b4ead-103">Verwenden Sie die in Microsoft Edge (Version 77 oder höher) verfügbaren [Richtlinien](https://go.microsoft.com/fwlink/?linkid=2134862) , um zu steuern, wie und wann Microsoft Edge aktualisiert wird.</span><span class="sxs-lookup"><span data-stu-id="b4ead-103">Use the [policies](https://go.microsoft.com/fwlink/?linkid=2134862) available in Microsoft Edge (version 77 or later) to control how and when Microsoft Edge is updated.</span></span>
+<span data-ttu-id="0d9b3-103">Verwenden Sie [die](https://go.microsoft.com/fwlink/?linkid=2134862) in Microsoft Edge (Version 77 oder höher) verfügbaren Richtlinien, um zu steuern, wie und wann Microsoft Edge aktualisiert wird.</span><span class="sxs-lookup"><span data-stu-id="0d9b3-103">Use the [policies](https://go.microsoft.com/fwlink/?linkid=2134862) available in Microsoft Edge (version 77 or later) to control how and when Microsoft Edge is updated.</span></span>
