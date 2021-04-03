@@ -1,0 +1,33 @@
+---
+title: So fügen Sie Erweiterungen in Microsoft Edge hinzu oder entfernen sie
+ms.author: pebaum
+author: pebaum
+manager: dansimp
+ms.date: 04/01/2021
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9971"
+- "9005674"
+ms.openlocfilehash: 29f43b718ede200b3c2024b759fca02f13f38c02
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505879"
+---
+# <a name="how-to-add-or-remove-extensions-in-microsoft-edge"></a><span data-ttu-id="53d2f-102">So fügen Sie Erweiterungen in Microsoft Edge hinzu oder entfernen sie</span><span class="sxs-lookup"><span data-stu-id="53d2f-102">How to add or remove extensions in Microsoft Edge</span></span>
+
+<span data-ttu-id="53d2f-103">Kurzes Demonstrationsvideo ansehen unter [So fügen Sie Erweiterungen in Microsoft Edge hinzu](https://support.microsoft.com/help/4027935/windows-10-add-or-remove-browser-extensions).</span><span class="sxs-lookup"><span data-stu-id="53d2f-103">For a brief demonstration video, see [How to add extensions in Microsoft Edge](https://support.microsoft.com/help/4027935/windows-10-add-or-remove-browser-extensions).</span></span>
+
+- <span data-ttu-id="53d2f-104">**So finden Sie eine Erweiterung und fügen sie zu Microsoft Edge hinzu:** Öffnen Sie Microsoft Edge und wählen Sie **Einstellungen und mehr …** > **Erweiterungen**, und dann **Erweiterungen aus dem Microsoft Store** aus.</span><span class="sxs-lookup"><span data-stu-id="53d2f-104">**To find an extension and add it to Microsoft Edge:** Open Microsoft Edge and select **Settings and more ...** > **Extensions**, and select **Get extensions from Microsoft Store**.</span></span> <span data-ttu-id="53d2f-105">Wählen Sie die Erweiterung aus, die Sie hinzufügen möchten, und drücken Sie die Schaltfläche **Abrufen**.</span><span class="sxs-lookup"><span data-stu-id="53d2f-105">Select the extension you want to add, and select the **Get** button.</span></span> <span data-ttu-id="53d2f-106">Bei der Aufforderung, die für die Erweiterung erforderlichen Berechtigungen anzuzeigen, lesen Sie sorgfältig die Berechtigungen und wählen Sie dann die Schaltfläche **Erweiterung hinzufügen** aus.</span><span class="sxs-lookup"><span data-stu-id="53d2f-106">At the prompt showing permissions required by the extension, carefully review the permissions, and then select the **Add extension** button.</span></span> <span data-ttu-id="53d2f-107">Die nächste Aufforderung bestätigt, dass die Erweiterung hinzugefügt wurde.</span><span class="sxs-lookup"><span data-stu-id="53d2f-107">The next prompt confirms the extension has been added.</span></span>
+
+- <span data-ttu-id="53d2f-108">**So fügen Sie eine Erweiterung aus dem Chrome Web Store zu Microsoft Edge hinzu**: Rufen Sie den Chrome Web Store auf.</span><span class="sxs-lookup"><span data-stu-id="53d2f-108">**To add an extension to Microsoft Edge from the Chrome Web Store**: Go to the Chrome Web Store.</span></span> <span data-ttu-id="53d2f-109">Wählen Sie im Banner oben auf der Seite die Option **Erweiterungen aus anderen Stores zulassen**.</span><span class="sxs-lookup"><span data-stu-id="53d2f-109">Select **Allow extensions from other stores** in the banner at the top of the page.</span></span> <span data-ttu-id="53d2f-110">Wählen Sie die Erweiterung aus, die Sie hinzufügen möchten, und wählen Sie **Zu Chrome hinzufügen** aus.</span><span class="sxs-lookup"><span data-stu-id="53d2f-110">Select the extension you want to add, and select **Add to Chrome**.</span></span> <span data-ttu-id="53d2f-111">Bei der Aufforderung, die für die Erweiterung erforderlichen Berechtigungen anzuzeigen, lesen Sie sorgfältig die Berechtigungen und wählen Sie die Schaltfläche **Erweiterung hinzufügen** aus.</span><span class="sxs-lookup"><span data-stu-id="53d2f-111">At the prompt showing permissions required by the extension, carefully review the permissions, and select the **Add extension** button.</span></span> <span data-ttu-id="53d2f-112">Eine letzte Aufforderung bestätigt, dass die Erweiterung hinzugefügt wurde.</span><span class="sxs-lookup"><span data-stu-id="53d2f-112">A final prompt confirms the extension has been added.</span></span>
+
+- <span data-ttu-id="53d2f-113">**So entfernen Sie eine Erweiterung aus Microsoft Edge**: Öffnen Sie Microsoft Edge und klicken Sie mit der rechten Maustaste auf das Erweiterungssymbol neben der Adressleiste.</span><span class="sxs-lookup"><span data-stu-id="53d2f-113">**To remove an extension from Microsoft Edge**: Open Microsoft Edge and right-click the extension icon next to the address bar.</span></span> <span data-ttu-id="53d2f-114">Wählen Sie **Aus Microsoft Edge entfernen** aus.</span><span class="sxs-lookup"><span data-stu-id="53d2f-114">Select **Remove from Microsoft Edge**.</span></span> <span data-ttu-id="53d2f-115">Sie können Erweiterungen auch entfernen, indem Sie zu **Einstellungen und mehr …** > **Erweiterungen** gehen und **Entfernen** unter der Erweiterung, die Sie entfernen möchten, auswählen.</span><span class="sxs-lookup"><span data-stu-id="53d2f-115">You can also remove extensions by going to **Settings and more ...** > **Extensions**, and then select **Remove** under the extension you want to remove.</span></span> <span data-ttu-id="53d2f-116">Bei der nächsten Aufforderung bestätigen Sie, dass Sie die Erweiterung entfernen möchten.</span><span class="sxs-lookup"><span data-stu-id="53d2f-116">A prompt asks you to confirm that you want to remove the extension.</span></span> <span data-ttu-id="53d2f-117">Wählen Sie zur Bestätigung die Schaltfläche **Entfernen**.</span><span class="sxs-lookup"><span data-stu-id="53d2f-117">Select the **Remove** button to confirm.</span></span>
+
+<span data-ttu-id="53d2f-118">**Hinweis**: Dieses Thema bezieht sich auf das neue Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="53d2f-118">**Note:** This topic is for the new Microsoft Edge.</span></span> <span data-ttu-id="53d2f-119">Für die Legacy-Version von Edge siehe [Hilfe für die Legacy-Version von Microsoft Edge](https://support.microsoft.com/hub/4522743/microsoft-edge-help).</span><span class="sxs-lookup"><span data-stu-id="53d2f-119">For the legacy version of Edge, see [Get help for the legacy version of Microsoft Edge](https://support.microsoft.com/hub/4522743/microsoft-edge-help).</span></span>
