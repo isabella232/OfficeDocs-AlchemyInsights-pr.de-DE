@@ -1,5 +1,5 @@
 ---
-title: Port Google Chrome Extensions to Microsoft Edge (Chrom)
+title: Portierung von Google Chrome-Erweiterungen zu Microsoft Edge (Chromium)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004032"
 - "7102"
-ms.openlocfilehash: 2a20f258cbcbca7c8db4e38c52464fefb1b6f39d
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+- "8297"
+- "9004617"
+ms.openlocfilehash: 1c71d74d01c1e38e4c7789aea2c0b43701b3a5de
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49600113"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505283"
 ---
-# <a name="port-google-chrome-extensions-to-microsoft-edge-chromium"></a><span data-ttu-id="70643-102">Port Google Chrome Extensions to Microsoft Edge (Chrom)</span><span class="sxs-lookup"><span data-stu-id="70643-102">Port Google Chrome extensions to Microsoft Edge (Chromium)</span></span>
+# <a name="port-google-chrome-extensions-to-microsoft-edge-chromium"></a><span data-ttu-id="332c9-102">Portierung von Google Chrome-Erweiterungen zu Microsoft Edge (Chromium)</span><span class="sxs-lookup"><span data-stu-id="332c9-102">Port Google Chrome extensions to Microsoft Edge (Chromium)</span></span>
 
-<span data-ttu-id="70643-103">Es ist ganz einfach, [Google Chrome-Erweiterungen an Microsoft Edge (Chrom) zu portieren](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension).</span><span class="sxs-lookup"><span data-stu-id="70643-103">It's easy to [port Google Chrome extensions to Microsoft Edge (Chromium)](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension).</span></span> <span data-ttu-id="70643-104">In den meisten Fällen sind nur minimale Änderungen erforderlich, um diese Erweiterungen auf Microsoft Edge auszuführen.</span><span class="sxs-lookup"><span data-stu-id="70643-104">In most cases, only minimal changes are needed to run these extensions on Microsoft Edge.</span></span>
+<span data-ttu-id="332c9-103">Es ist einfach, [Google Chrome-Erweiterungen auf Microsoft Edge (Chromium) zu porten.](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension)</span><span class="sxs-lookup"><span data-stu-id="332c9-103">It's easy to [port Google Chrome extensions to Microsoft Edge (Chromium)](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension).</span></span> <span data-ttu-id="332c9-104">In den meisten Fällen sind nur minimale Änderungen erforderlich, um diese Erweiterungen auf Microsoft Edge ausführen zu können.</span><span class="sxs-lookup"><span data-stu-id="332c9-104">In most cases, only minimal changes are needed to run these extensions on Microsoft Edge.</span></span>
 
-<span data-ttu-id="70643-105">Die von Google Chrome unterstützten Erweiterungs-APIs und manifestschlüssel sind mit Microsoft Edge Code kompatibel.</span><span class="sxs-lookup"><span data-stu-id="70643-105">The extension APIs and manifest keys supported by Google Chrome are code-compatible with Microsoft Edge.</span></span> <span data-ttu-id="70643-106">Microsoft Edge unterstützt jedoch nicht die Erweiterungs-APIs "Chrome. GCM", "Chrome. Identity. getaccounts", "Chrome. Identity. getAuthToken" und "Chrome. InstanceId".</span><span class="sxs-lookup"><span data-stu-id="70643-106">However, Microsoft Edge does not support the extension APIs chrome.gcm, chrome.identity.getAccounts, chrome.identity.getAuthToken, and chrome.instanceID.</span></span>
+<span data-ttu-id="332c9-105">Die von Google Chrome unterstützten Erweiterungs-APIs und Manifestschlüssel sind codekompatibel mit Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="332c9-105">The extension APIs and manifest keys supported by Google Chrome are code-compatible with Microsoft Edge.</span></span> <span data-ttu-id="332c9-106">Microsoft Edge unterstützt jedoch nicht die Erweiterungs-APIs chrome.gcm, chrome.identity.getAccounts, chrome.identity.getAuthToken und chrome.instanceID.</span><span class="sxs-lookup"><span data-stu-id="332c9-106">However, Microsoft Edge does not support the extension APIs chrome.gcm, chrome.identity.getAccounts, chrome.identity.getAuthToken, and chrome.instanceID.</span></span>
