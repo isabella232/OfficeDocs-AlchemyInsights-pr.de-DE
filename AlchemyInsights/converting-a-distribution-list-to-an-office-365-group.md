@@ -14,13 +14,15 @@ ms.custom:
 - "712"
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: 457dd29bd940e192eb4962d44bebc652646566f2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d184db0a82e4f10108ddad80611fc9a47483cfe7
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732966"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692321"
 ---
-# <a name="convert-a-distribution-group-to-a-microsoft-365-group"></a><span data-ttu-id="11ce6-102">Konvertieren einer Verteilergruppe in eine Microsoft 365-Gruppe</span><span class="sxs-lookup"><span data-stu-id="11ce6-102">Convert a distribution group to a Microsoft 365 Group</span></span>
+# <a name="convert-a-distribution-group-to-a-microsoft-365-group"></a><span data-ttu-id="301af-102">Konvertieren einer Verteilergruppe in eine Microsoft 365-Gruppe</span><span class="sxs-lookup"><span data-stu-id="301af-102">Convert a distribution group to a Microsoft 365 Group</span></span>
 
-<span data-ttu-id="11ce6-103">Sie können Verteilergruppen in Microsoft 365-Gruppen umwandeln, wenn Sie bestimmte Kriterien erfüllen.</span><span class="sxs-lookup"><span data-stu-id="11ce6-103">You can convert distribution groups to Microsoft 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="11ce6-104">Informationen zum Konvertieren einer Gruppe oder beheben von Konvertierungsproblemen finden Sie unter [Upgrade von Verteilerlisten auf Microsoft 365-Gruppen in Outlook](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists).</span><span class="sxs-lookup"><span data-stu-id="11ce6-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Microsoft 365 Groups in Outlook](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists).</span></span>
+<span data-ttu-id="301af-103">Sie können Verteilergruppen in Microsoft 365-Gruppen konvertieren, wenn sie bestimmte Kriterien erfüllen.</span><span class="sxs-lookup"><span data-stu-id="301af-103">You can convert distribution groups to Microsoft 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="301af-104">Informationen zum Konvertieren einer Gruppe oder zum Beheben von Konvertierungsproblemen finden Sie unter [Upgrade distribution lists to Microsoft 365 Groups in Outlook](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists).</span><span class="sxs-lookup"><span data-stu-id="301af-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Microsoft 365 Groups in Outlook](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists).</span></span>
+
+<span data-ttu-id="301af-105">We haben außerdem ein Skript, das Sie ausführen können, um Ihnen bei der Validierung der Berechtigung für Verteilergruppen zum Upgrade [auf Microsoft 365 Group zu helfen.](https://aka.ms/DLToM365Group)</span><span class="sxs-lookup"><span data-stu-id="301af-105">W alsoe have a script you can run to help you with [Validating Distribution Group eligibility for upgrade to Microsoft 365 Group](https://aka.ms/DLToM365Group).</span></span>
