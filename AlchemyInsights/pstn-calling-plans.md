@@ -13,12 +13,12 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: ecfdc59afeb8cd3dae8ae1b2cfba4618bbffe126
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff0de1a4c0c86aef7cf98981b785109bc69dddd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662504"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692465"
 ---
 # <a name="pstn-calling-plans"></a>Pläne für PSTN-Anrufe
 
@@ -28,4 +28,4 @@ Wenn Sie Ihre Benutzer jedoch in die Lage versetzen möchten, unter regulären T
 
 - Richten Sie [Kommunikationsguthaben](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) ein, um zu verhindern, dass Benutzer **keine Gesprächsminuten mehr haben**. Sehen Sie sich die Preise [hier](https://products.office.com/microsoft-teams/voice-calling) an. 
 
-- Weitere Informationen hierzu finden Sie unter [Telefonsystem und Anrufpläne](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) oder [Was sind Kommunikationsguthaben?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
+- Weitere Informationen hierzu finden Sie unter [Microsoft Teams Telefon und Microsoft Teams-Anrufpläne](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) oder [Was sind Kommunikationsguthaben?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
