@@ -2,7 +2,7 @@
 title: Eingeben von IMAP-Portnummern
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001101"
 - "3062"
-ms.openlocfilehash: a38d01f41298ff3fde1927635c31e442a19012a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8479c4af8833fc4f1dbc66ef3c59a4e24290b83c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709438"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813831"
 ---
 # <a name="enter-imap-port-numbers"></a>Eingeben von IMAP-Portnummern
 
-Melden Sie sich über den Bildschirm Advance-Setup an, und fügen Sie Ihre Port Details hinter einem Doppelpunkt in Einklang mit den Adressen für einen eingehenden und ausgehenden Server ein. (Diese Details können Sie von Ihrem e-Mail-Dienstanbieter erhalten.) 
+Melden Sie sich über den Bildschirm für die Vorabeinrichtung an, und fügen Sie Ihre Portdetails hinter einem Doppelpunkt in Einklang mit Ihren eingehenden und ausgehenden Serveradressen hinzu. (Sie können diese Details von Ihrem E-Mail-Dienstanbieter erhalten.) 
 
-Wechseln Sie zu **Einstellungen**  >  **Add Account**  >  **IMAP** > und klicken Sie auf **Erweiterte Einstellungen anzeigen**; dann geben Sie Ihre Daten ein. 
+Wechseln Sie **zu Einstellungen**  >  **Konto**  >  **hinzufügen IMAP->** und klicken Sie auf Erweiterte Einstellungen **anzeigen;** geben Sie dann Ihre Details ein. 
 
-*Eingehender e-Mail-Server*: IMAP.Servername.com:000 (normalerweise 993 oder 143) 
+*Eingehender E-Mail-Server*: imap.servername.com:000 (in der Regel 993 oder 143) 
 
-Post *Ausgangsserver*: SMTP.Servername.com:000 (normalerweise 465 oder 25) 
+*Server für ausgehende* E-Mails : smtp.servername.com:000 (in der Regel 465 oder 25) 
 
 Beachten Sie, dass der Doppelpunkt wichtig ist. 

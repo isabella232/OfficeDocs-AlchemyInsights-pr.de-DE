@@ -1,8 +1,8 @@
 ---
-title: Fehler beim Validieren des Zugriffstoken Fehlers beim on-Boarding von Desktop Analytics
+title: Fehler beim Überprüfen des Zugriffstokenfehlers beim Einsteigen in Desktop Analytics
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2536"
 - "9000657"
-ms.openlocfilehash: 45c6fb1a1632799a07c028c0791b6b8e77635293
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12e5906ba8cbc76ba1fd99dde1cf76396c3a6942
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783550"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813687"
 ---
-# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>Fehler beim Validieren des Zugriffstokens beim Desktop Analyse-Onboarding
+# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>Fehler "Fehler beim Überprüfen des Zugriffstokens" beim Desktop Analytics-Onboarding
 
-Dieser Fehler wird normalerweise beobachtet, wenn das Authentifizierungstoken abläuft. In der Regel wird durch das Aktualisieren der Seite das Token aktualisiert. Dieses Problem kann jedoch bestehen bleiben, wenn auf das Konto, das für die on-Board-Desktop Analyse verwendet wird, bedingte Zugriffsrichtlinien angewendet werden. Sie können die Azure AD Anmelde Protokolle im Azure-Portal überprüfen, um festzustellen, ob Anmeldefehler für das für das Onboarding von Desktop Analytics verwendete Konto vorliegen.
+Dieser Fehler wird normalerweise beim Ablauf des Authentifizierungstokens beobachtet. In der Regel aktualisiert das Aktualisieren der Seite das Token. Dieses Problem kann jedoch bestehen bleiben, wenn Richtlinien für bedingten Zugriff auf das Konto angewendet werden, das für die on-board-Desktopanalyse verwendet wird. Sie können die Azure AD-Anmeldeprotokolle im Azure-Portal überprüfen, um zu sehen, ob für das Konto, das für das Desktop Analytics-Onboarding verwendet wird, Anmeldefehler gibt.
 
-Weitere Informationen zum bedingten Zugriff finden Sie unter [Planen der Bereitstellung für bedingten Zugriff](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access).
+Weitere Informationen zum bedingten Zugriff finden Sie unter [Plan your Conditional Access deployment](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access).

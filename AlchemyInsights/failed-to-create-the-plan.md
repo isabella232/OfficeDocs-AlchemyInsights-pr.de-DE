@@ -2,7 +2,7 @@
 title: Fehler beim Erstellen des Plans
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3157"
 - "9000727"
-ms.openlocfilehash: a5090d6d74a3e8f1cdaf52f54d420ccc7c90c107
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27b5a2a88a82d837ae953f88866cf778fd74a2b6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47782614"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813219"
 ---
-# <a name="failed-to-create-the-plan-error-when-trying-to-create-a-planner-tab-in-microsoft-teams"></a>Fehler beim Erstellen einer Planer-Registerkarte in Microsoft Teams beim Versuch, den Plan nicht zu erstellen
+# <a name="failed-to-create-the-plan-error-when-trying-to-create-a-planner-tab-in-microsoft-teams"></a>Fehler "Plan konnte nicht erstellt werden" beim Erstellen einer Registerkarte Planner in Microsoft Teams
 
-Wenn Sie beim Versuch, eine Planer-Registerkarte in Microsoft Teams zu erstellen, den Fehler "Fehler beim Erstellen des Plans" erhalten, stellen Sie sicher, dass der Administrator ein Mitglied der Gruppe ist, indem Sie die folgenden Schritte ausführen:
+Wenn Beim Erstellen einer Registerkarte Planner in Microsoft Teams der Fehler "Fehler beim Erstellen des Plans" angezeigt wird, stellen Sie sicher, dass der Administrator Mitglied der Gruppe ist, indem Sie die folgenden Schritte ausführen:
 
 1. Wechseln Sie im Admin Center zu **Gruppen**  >  [Gruppen](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups). 
 2. Wählen Sie die Gruppe aus, und wählen Sie dann auf der Registerkarte **Mitglieder** die Option **Alle anzeigen und Mitglieder verwalten** aus.
-3. Fügen Sie das Element hinzu, und wählen Sie **Speichern**aus.
+3. Fügen Sie das Mitglied hinzu, und wählen Sie **Speichern aus.**

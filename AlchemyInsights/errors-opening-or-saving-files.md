@@ -2,7 +2,7 @@
 title: Fehler beim Öffnen oder Speichern von Dateien
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: ce9e160272d96f40a6ba30b1527bde1aed1b8d88
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 827db0139d2793a5e4d850aeb5463dab272e4d64
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783586"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813615"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>Beheben von Fehlern beim Öffnen oder Speichern von Word-Dateien
 
-Wenn beim Öffnen oder Speichern von Word-Dokumenten Probleme auftreten, versuchen Sie Folgendes:
+Wenn Beim Öffnen oder Speichern von Word-Dokumenten Probleme auftreten, versuchen Sie Folgendes:
 
-- [Installieren von Office-Updates](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5) Eine Liste der neuesten Office-Updates finden Sie unter [Latest Updates](https://docs.microsoft.com/officeupdates/office-updates-msi).
-- [Problembehandlung bei beschädigten Dokumenten in Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
+- [Installieren von Office-Updates](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Eine Liste der neuesten Office-Updates finden Sie unter [Neueste Updates](https://docs.microsoft.com/officeupdates/office-updates-msi).
+- [Behandeln von Problemen mit beschädigten Dokumenten in Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
 - [Reparieren einer Office-Anwendung](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
-- Wenn das Dokument nachverfolgte Änderungen enthält, verwenden Sie die Vorschläge in [Word verlangsamt oder reagiert nicht mehr, wenn übermäßige nachverfolgte Änderungen oder Kommentare](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) zur Behebung des Problems vorliegen.
+- Wenn das Dokument nachverfolgte Änderungen enthält, verwenden Sie die Vorschläge in [Word](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) verlangsamt oder reagieren nicht mehr, wenn es zu viele nachverfolgte Änderungen oder Kommentare gibt, um das Problem zu beheben.
 
-Wenn Sie einen Fehler wie den folgenden erhalten haben, verwenden Sie die Vorschläge in [Fehlermeldung in Office, wenn eine Datei durch Registrierungsrichtlinieneinstellungen blockiert wird](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office):
+Wenn Sie einen Fehler wie einen der folgenden erhalten haben, verwenden Sie die Vorschläge unter Fehlermeldung in Office, wenn eine Datei durch [Registrierungsrichtlinieneinstellungen blockiert wird:](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office)
 
 - Sie versuchen, einen Dateityp zu öffnen, der durch die Registrierungsrichtlinieneinstellung blockiert wird.
 - Sie versuchen, den Dateityp **\<File Type\>** zu öffnen, der durch Ihre Einstellungen für den Zugriffsschutz im Trust Center blockiert wurde.
 - Sie versuchen, eine Datei zu öffnen, die in einer früheren Version von Microsoft Office erstellt wurde. Das Öffnen dieses Dateityps in dieser Version wird durch die Registrierungsrichtlinieneinstellung blockiert.
 - Sie versuchen, einen Dateityp zu speichern, der durch die Registrierungsrichtlinieneinstellung blockiert wird.
-- Sie versuchen, einen Dateityp zu speichern, der durch die Einstellungen für den Datei Block im Vertrauensstellungs Center blockiert wurde.
+- Sie versuchen, einen Dateityp zu speichern, der von den Einstellungen für Dateiblockierung im Trust Center blockiert wurde.
 
 Wenn Sie Probleme beim Öffnen von Office-Dateien aus SharePoint- oder OneDrive-Dokumentbibliotheken haben, probieren Sie Folgendes aus:
 

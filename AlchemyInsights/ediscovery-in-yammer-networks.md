@@ -1,8 +1,8 @@
 ---
-title: eDiscovery in Jammer Netzwerken
+title: eDiscovery in Yammer Netzwerken
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 4bba92d5756186923b103f7b945155c3cb972b35
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2583a1d83047e87a5d655195a3941ee860ff1ced
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710915"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814479"
 ---
-# <a name="ediscovery-in-yammer-networks"></a>eDiscovery in Jammer Netzwerken
+# <a name="ediscovery-in-yammer-networks"></a>eDiscovery in Yammer Netzwerken
 
-Sie können nun eDiscovery-Suchvorgänge für jammern von Inhalten durchführen.  Das Ausführen von eDiscovery-suchen oder das Exportieren von Inhalten mit Jammer erfordert Folgendes:
+Sie können nun eDiscovery-Suchen nach Inhalten Yammer durchführen.  Für die Ausführung von eDiscovery-Suchen oder exportieren Yammer inhalt erfordert Folgendes:
 
-1. Sie müssen zuerst Ihr Jammer Unternehmensnetzwerk in den einheitlichen Modus migrieren, damit Nachrichten und Dateien für das Jammern auffindbar sind. **Hinweis: Wenn Sie ein neuer Kunde ab dem 9. Januar 2020 sind und Ihr Jammer Netzwerk bereits im einheitlichen Modus ist, sind Ihre Daten jetzt mit eDiscovery auffindbar**.
+1. Sie müssen zunächst Ihr Yammer Enterprise Network in den nativen Modus migrieren, um Ihre Yammer und Dateien zu erkennen. Hinweis: Wenn Sie ab dem **9. Januar 2020** ein neuer Kunde sind und Sich Ihr Yammer-Netzwerk bereits im nativen Modus befindet, können Ihre Daten jetzt mit eDiscovery ermittelt werden.
 
-2. Für das Beenden von Kunden steht eDiscovery für jammern zur Verfügung, sobald das Alignment-Tool für den einheitlichen Modus freigegeben wird und die Migration im einheitlichen Modus für jammern im Mandanten abgeschlossen wird.
+2. EDiscovery für Yammer wird für kundeneigene Kunden verfügbar sein, sobald das Tool für die Ausrichtung des nativen Modus veröffentlicht wurde und die Migration des systemeigenen Modus für Yammer Mandanten abgeschlossen ist.
 
 Weitere Informationen zu:
 
-- Nativer Modus in jammern finden Sie unter: [Overview of Native Mode](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
-- eDiscovery in Jammer Netzwerken, siehe: [Übersicht über eDiscovery in Jammer Netzwerken](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
-- eDiscovery in Microsoft 365, siehe [eDiscovery in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+- Native Mode in Yammer, siehe: [Overview of Native Mode](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
+- eDiscovery in Yammer Networks, siehe: Übersicht über [eDiscovery in Yammer Netzwerken](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
+- eDiscovery in Microsoft 365 finden Sie unter [eDiscovery in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
