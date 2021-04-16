@@ -1,8 +1,8 @@
 ---
-title: Fehlendes Duplikat
+title: Fehlt – dupliziert
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3414"
 - "9001433"
-ms.openlocfilehash: 1267f80c1e4d632a3627a97fbfccf86b482adb5d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b17dd499accdbcc05fd50ffeaf275317148b255e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673749"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51793211"
 ---
-# <a name="troubleshooting-missing-and-duplicate-calendar-items"></a>Problembehandlung beim Fehlen und Duplizieren von Kalenderelementen
+# <a name="troubleshooting-missing-and-duplicate-calendar-items"></a>Problembehandlung bei fehlenden und doppelten Kalenderelementen
 
-Informationen zur Behandlung von Problemen mit fehlenden und doppelten Terminen bei Verwendung von Microsoft Outlook und Exchange Server finden Sie unter [Problembehandlung bei fehlenden und doppelten Terminen in Outlook](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook).
+Informationen zum Beheben von Problemen mit fehlenden und doppelten Terminen, wenn Sie Microsoft Outlook und Microsoft Exchange Server verwenden, finden Sie unter [How to troubleshoot missing and duplicate appointments in Outlook](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook).

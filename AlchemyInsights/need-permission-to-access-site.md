@@ -1,8 +1,8 @@
 ---
-title: Benötigen Sie die Berechtigung für den Zugriff auf die Website
+title: Benötigen von Berechtigungen für den Zugriff auf die Website
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: dba40636895dda775884c9f720c8c60e2c815019
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a2363ff72348b53a73d06bcedbd875ebf3341c3b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772694"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792311"
 ---
-# <a name="you-need-permission-to-access-this-site"></a>Sie benötigen die Berechtigung für den Zugriff auf diese Website.
+# <a name="you-need-permission-to-access-this-site"></a>Sie benötigen Berechtigungen für den Zugriff auf diese Website
 
-["Zugriff verweigert", "Sie benötigen die Berechtigung für den Zugriff auf diese Website" oder "Benutzer nicht im Verzeichnis gefunden" Fehler in SharePoint Online und OneDrive für Unternehmen](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+[Fehler "Zugriff verweigert", "Sie benötigen Berechtigung für den Zugriff auf diese Website" oder "Benutzer nicht im Verzeichnis gefunden" in SharePoint Online und OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
