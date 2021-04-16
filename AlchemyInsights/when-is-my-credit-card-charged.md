@@ -2,7 +2,7 @@
 title: Wann wird meine Kreditkarte belastet?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: dd0dde092494fbea5a262bfee59725bde9ebeb28
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e7b8c8144f7ac042726ceeb537bbf98a296e507d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796395"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806081"
 ---
-# <a name="when-is-my-credit-card-charged"></a><span data-ttu-id="2dc92-102">Wann wird meine Kreditkarte belastet?</span><span class="sxs-lookup"><span data-stu-id="2dc92-102">When is my credit card charged?</span></span>
+# <a name="when-is-my-credit-card-charged"></a><span data-ttu-id="e7b43-102">Wann wird meine Kreditkarte belastet?</span><span class="sxs-lookup"><span data-stu-id="e7b43-102">When is my credit card charged?</span></span>
 
-<span data-ttu-id="2dc92-103">Bei einem Ersterwerb kann es bis zu zwei Tage dauern, bis die Gebühr eintritt.</span><span class="sxs-lookup"><span data-stu-id="2dc92-103">With an initial purchase, it can take up to two days for the charge to occur.</span></span>
+<span data-ttu-id="e7b43-103">Bei einem ersten Kauf kann es bis zu zwei Tage dauern, bis die Gebühr eintritt.</span><span class="sxs-lookup"><span data-stu-id="e7b43-103">With an initial purchase, it can take up to two days for the charge to occur.</span></span>
   
-<span data-ttu-id="2dc92-104">Wiederkehrende Gebühren erfolgen innerhalb eines Tages, an dem die Rechnung erstellt wird.</span><span class="sxs-lookup"><span data-stu-id="2dc92-104">Recurring charges happen within one day of the invoice being created.</span></span>
+<span data-ttu-id="e7b43-104">Wiederkehrende Gebühren fallen innerhalb eines Tages nach der zu erstellenden Rechnung an.</span><span class="sxs-lookup"><span data-stu-id="e7b43-104">Recurring charges happen within one day of the invoice being created.</span></span>
   
-<span data-ttu-id="2dc92-105">Wenn die Gebühr nicht erfolgreich ist, wird das System weiterhin versuchen, den Saldo in den nächsten Wochen abzurechnen.</span><span class="sxs-lookup"><span data-stu-id="2dc92-105">If the charge is unsuccessful, the system will continue to attempt to settle the balance over the next few weeks.</span></span> <span data-ttu-id="2dc92-106">Sie können jederzeit Aktualisierungen an Ihren Zahlungsinformationen vornehmen, um sicherzustellen, dass der nächste Ladeversuch erfolgreich verläuft.</span><span class="sxs-lookup"><span data-stu-id="2dc92-106">You can make updates to your payment information at any time to insure the next charge attempt is successful.</span></span> <span data-ttu-id="2dc92-107">Weitere Informationen finden Sie unter [Verwalten von Zahlungsmethoden](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span><span class="sxs-lookup"><span data-stu-id="2dc92-107">For more information, see [Manage payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span></span>
+<span data-ttu-id="e7b43-105">Wenn die Gebühr nicht erfolgreich ist, versucht das System weiterhin, den Saldo in den nächsten Wochen zu begleichen.</span><span class="sxs-lookup"><span data-stu-id="e7b43-105">If the charge is unsuccessful, the system will continue to attempt to settle the balance over the next few weeks.</span></span> <span data-ttu-id="e7b43-106">Sie können ihre Zahlungsinformationen jederzeit aktualisieren, um sicherzustellen, dass der nächste Gebührenversuch erfolgreich ist.</span><span class="sxs-lookup"><span data-stu-id="e7b43-106">You can make updates to your payment information at any time to insure the next charge attempt is successful.</span></span> <span data-ttu-id="e7b43-107">Weitere Informationen finden Sie unter [Verwalten von Zahlungsmethoden](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span><span class="sxs-lookup"><span data-stu-id="e7b43-107">For more information, see [Manage payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span></span>
