@@ -1,8 +1,8 @@
 ---
-title: Benötigen Sie Hilfe mit meinem Outlook.com-Konto
+title: Benötigen Sie Hilfe zu meinem Outlook.com Konto
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001104"
 - "3065"
-ms.openlocfilehash: 46fe8d21b725083b733fdd9cc0a77b2962ff7c62
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf08692f42bb823a48455a595555fb1593b40070
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803280"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792383"
 ---
-# <a name="need-help-with-my-outlookcom-account"></a><span data-ttu-id="e579b-102">Benötigen Sie Hilfe mit meinem Outlook.com-Konto</span><span class="sxs-lookup"><span data-stu-id="e579b-102">Need help with my Outlook.com account</span></span>
+# <a name="need-help-with-my-outlookcom-account"></a><span data-ttu-id="dbad1-102">Benötigen Sie Hilfe zu meinem Outlook.com Konto</span><span class="sxs-lookup"><span data-stu-id="dbad1-102">Need help with my Outlook.com account</span></span>
 
-<span data-ttu-id="e579b-103">Wenn Sie Hilfe mit dem Outlook.com-Dienst benötigen, haben wir Ihnen Hilfestellung gewidmet.</span><span class="sxs-lookup"><span data-stu-id="e579b-103">If you need help with the Outlook.com service, we have dedicated help to assist you.</span></span> <span data-ttu-id="e579b-104">So erhalten Sie direkt Unterstützung für die Webanwendung:</span><span class="sxs-lookup"><span data-stu-id="e579b-104">To get support directly on the web app:</span></span> 
+<span data-ttu-id="dbad1-103">Wenn Sie Hilfe für den Outlook.com benötigen, stehen wir Ihnen bei der Unterstützung zur Verfügung.</span><span class="sxs-lookup"><span data-stu-id="dbad1-103">If you need help with the Outlook.com service, we have dedicated help to assist you.</span></span> <span data-ttu-id="dbad1-104">So erhalten Sie Support direkt in der Web-App:</span><span class="sxs-lookup"><span data-stu-id="dbad1-104">To get support directly on the web app:</span></span> 
 
-1. <span data-ttu-id="e579b-105">Klicken Sie auf die?</span><span class="sxs-lookup"><span data-stu-id="e579b-105">Click on the ?</span></span> <span data-ttu-id="e579b-106">Symbol oben rechts auf dem Bildschirm.</span><span class="sxs-lookup"><span data-stu-id="e579b-106">icon on the top right of the screen.</span></span> 
+1. <span data-ttu-id="dbad1-105">Klicken Sie auf das ?</span><span class="sxs-lookup"><span data-stu-id="dbad1-105">Click on the ?</span></span> <span data-ttu-id="dbad1-106">symbol oben rechts auf dem Bildschirm.</span><span class="sxs-lookup"><span data-stu-id="dbad1-106">icon on the top right of the screen.</span></span> 
 
-2. <span data-ttu-id="e579b-107">Geben Sie Unterstützung in das Feld Hilfe ein, das im Popup Bereich angezeigt wird, und klicken Sie auf über **Mitteln**.</span><span class="sxs-lookup"><span data-stu-id="e579b-107">Type what you need assistance with on the help box displayed on the pop up panel and click **submit**.</span></span> 
+2. <span data-ttu-id="dbad1-107">Geben Sie im Hilfefeld im Popupbereich ein, wofür Sie Unterstützung benötigen, und klicken Sie auf **Übermitteln.**</span><span class="sxs-lookup"><span data-stu-id="dbad1-107">Type what you need assistance with on the help box displayed on the pop up panel and click **submit**.</span></span> 
 
-3. <span data-ttu-id="e579b-108">Wenn keine Lösung angezeigt wird, führen Sie einen Bildlauf nach unten durch den Seitenbereich durch, und klicken Sie dann auf **e-Mail an uns**.</span><span class="sxs-lookup"><span data-stu-id="e579b-108">If a solution is not presented, please scroll down the side panel and click **email us**.</span></span>
+3. <span data-ttu-id="dbad1-108">Wenn keine Lösung angezeigt wird, scrollen Sie bitte im Seitenbereich nach unten, und klicken Sie auf **E-Mail.**</span><span class="sxs-lookup"><span data-stu-id="dbad1-108">If a solution is not presented, please scroll down the side panel and click **email us**.</span></span>
