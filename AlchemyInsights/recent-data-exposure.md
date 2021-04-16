@@ -1,8 +1,8 @@
 ---
-title: Aktuelle Daten Exposition
+title: Aktuelle Datenexposition
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001493"
 - "3548"
-ms.openlocfilehash: e62710d2475656a733addfb3332e9509e061ab68
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 28a45f9922dd53727d80707aed781f7497c7ab9c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693230"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789359"
 ---
-# <a name="recent-data-exposure"></a>Aktuelle Daten Exposition
+# <a name="recent-data-exposure"></a>Aktuelle Datenexposition
 
-Microsoft wurde von einer Drittanbieter-Forscherin darauf hingewiesen, dass eine Datenbank, auf der die Microsoft-Support Daten gehostet werden, ohne Authentifizierung zugänglich war. Am 31. Dezember 2019 hat Microsoft die Datenbank gesichert.
+Microsoft wurde von einem Drittanbieterforscher darauf aufmerksam gemacht, dass auf eine Datenbank mit redaktierten Microsoft-Supportdaten ohne Authentifizierung zugegriffen werden konnte. Am 31. Dezember 2019 hat Microsoft die Datenbank gesichert.
 
-Wir bemühen uns um die Privatsphäre und Sicherheit unserer Kunden und ergreifen Maßnahmen, um zukünftige Vorkommen dieses Problems zu verhindern. Wir haben Benachrichtigungen an Kunden begonnen, deren Daten in dieser behandelten Datenbank vorhanden waren. Weitere Informationen finden Sie unter Informationen zur [Kunden Bekanntheit im Zusammenhang mit einer aktuellen Informations Exposition](https://aka.ms/privacyinfo).
+Wir sind dem Datenschutz und der Sicherheit unserer Kunden verpflichtet und ergreifen Maßnahmen, um zukünftige Vorkommen dieses Problems zu verhindern. Wir haben mit Benachrichtigungen für Kunden begonnen, deren Daten in dieser redaktierten Datenbank vorhanden waren. Weitere Informationen finden Sie unter Kundenbewusstseinsinformationen im Zusammenhang [mit einer aktuellen Informationsexposition](https://aka.ms/privacyinfo).
