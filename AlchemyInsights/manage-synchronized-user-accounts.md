@@ -2,7 +2,7 @@
 title: Verwalten synchronisierter Benutzerkonten
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92f8b774-a580-4704-b583-7401041fc436
-ms.openlocfilehash: 7566ad9a9591735a704649fd2599c75aef2895b0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1fe2857043434fd4b0b5723123b1fae908cd66ee
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777818"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51802886"
 ---
 # <a name="manage-synchronized-user-accounts"></a>Verwalten synchronisierter Benutzerkonten
 
-Normalerweise verwenden Sie das Microsoft 365 Admin Center zum Hinzufügen und Ändern von Benutzerkonten. Sie können Sie jedoch nicht verwenden, wenn Verzeichnissynchronisation oder SSO aktiviert sind. Verwalten Sie Ihre Benutzer stattdessen mit Windows PowerShell wie unter [configure User Account Properties with Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell )beschrieben. 
+In der Regel verwenden Sie das Microsoft 365 Admin Center, um Benutzerkonten hinzuzufügen und zu ändern. Sie können sie jedoch nicht verwenden, wenn Verzeichnissychronisierung oder SSO aktiviert sind. Verwalten Sie stattdessen Ihre Benutzer mit Windows PowerShell, wie unter Konfigurieren von [Benutzerkontoeigenschaften mit Office 365 PowerShell beschrieben.](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ) 
   
 
