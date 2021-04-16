@@ -1,8 +1,8 @@
 ---
-title: Wi-Fi-Netzwerkkennwort in Windows 10 anzeigen
+title: Anzeigen Wi-Fi Netzwerkkennworts in Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001467"
 - "3767"
-ms.openlocfilehash: dd4fa680b03a7f9dd29a22189b3e22b76e3f2025
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 254c192084ef7022f7bfbb146ecf8df57e6ff2a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689089"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51807377"
 ---
-# <a name="view-wi-fi-network-password-in-windows-10"></a>Wi-Fi-Netzwerkkennwort in Windows 10 anzeigen
+# <a name="view-wi-fi-network-password-in-windows-10"></a>Anzeigen Wi-Fi Netzwerkkennworts in Windows 10
 
-1. Stellen Sie sicher, dass Ihr Windows 10-PC mit dem Wi-Fi-Netzwerk verbunden ist.
+1. Stellen Sie sicher, dass Ihr Windows 10-PC mit dem Wi-Fi ist.
 
-2. Wechseln Sie zu **Einstellungen > Netzwerk & Internet > Status**, oder klicken oder tippen Sie [hier](ms-settings:network?activationSource=GetHelp) , damit wir Sie jetzt dorthin bringen können.)
+2. Wechseln Sie **zu Einstellungen > Netzwerk & Internet > Status**, [](ms-settings:network?activationSource=GetHelp) oder klicken oder tippen Sie hier, damit wir Sie jetzt erreichen können.)
 
 3. Klicken Sie auf **Netzwerk- und Freigabecenter**.
 
-    ![Netzwerk-und Freigabe Center.](media/network-sharing-center.png)
+    ![Netzwerk und Freigabecenter.](media/network-sharing-center.png)
 
-4. Im **Netzwerk-und Freigabe Center**wird neben **Verbindungen**der Name Ihres drahtlosen Netzwerks angezeigt. Wenn Ihr Netzwerk beispielsweise den Namen "abc123" trägt, sehen Sie möglicherweise Folgendes:
+4. Im **Netzwerk- und Freigabecenter** neben **Verbindungen** wird der Name Ihres Drahtlosnetzwerks angezeigt. Wenn Ihr Netzwerk z. B. "ABC123" heißt, sehen Sie möglicherweise:
 
     ![Netzwerkverbindungen.](media/network-connections.png)
 
-    Klicken Sie auf den Namen des Drahtlosnetzwerks, um das Fenster Wi-Fi Status zu öffnen. 
+    Klicken Sie auf den Namen des Drahtlosnetzwerks, um das Wi-Fi zu öffnen. 
 
-5. Klicken Sie im Fenster WLAN-Status auf **drahtlose Eigenschaften**, klicken Sie auf die Registerkarte **Sicherheit** , und aktivieren Sie die Option **Zeichen anzeigen**.
+5. Klicken Sie Wi-Fi im Fenster Status auf **Drahtloseigenschaften,** klicken Sie auf die **Registerkarte** Sicherheit, und aktivieren Sie **Zeichen anzeigen**.
 
-    ![Anzeigen von Wi-Fi-Kenn Wort Zeichen](media/show-password-characters.png)
+    ![Anzeigen Wi-Fi Kennwortzeichen.](media/show-password-characters.png)
 
