@@ -2,7 +2,7 @@
 title: Postfachkontingent überschritten
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001106"
 - "3067"
-ms.openlocfilehash: c0256ec8ff28b61b1c24d3c773c1ba7eb03cfcc1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 711d70def6281d67118c1fe5a1729174f4a6ff74
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695214"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795587"
 ---
 # <a name="mailbox-quota-exceeded"></a>Postfachkontingent überschritten
 
 Sie haben Ihr Postfachkontingent für Ihr Konto überschritten. Es gibt mehrere Schritte, die Sie ausführen können, um die Größe Ihres Posteingangs zu reduzieren, um eine bessere Leistung zu erzielen.
 
-1. Ältere Posteingang-Elemente löschen. Sie können dies schnell in der APP durchführen, indem Sie eine benutzerdefinierte Swipe Motion: **Settings > Swipe-Optionen**festlegen. Mit dieser Gruppe können Sie ganz einfach den Weg durch den Posteingang streichen, um ihn zu löschen.
+1. Löschen sie ältere Posteingangselemente. Sie können dies schnell in der App tun, indem Sie eine benutzerdefinierte Wischbewegung festlegen: Einstellungen **> Wischoptionen**. Mit diesem Satz können Sie ganz einfach durch Ihren Posteingang wischen, um ihn zu löschen.
 
-2. Leeren Sie Ihre Spam Ordner. Wechseln Sie direkt in Ihre Spam Ordner, und drücken Sie **leere Spam**.
+2. Leeren Sie Ihre Spamordner. Wechseln Sie direkt in Ihre Spamordner, und drücken Sie **leeren Spam.**
 
-3. Unter Android können Sie Ihre Papierkorbordner mit einem Mausklick leeren. Wechseln Sie direkt in den Papierkorbordner, und drücken Sie **leeren Papierkorb**. 
+3. Unter Android können Sie Ihre Papierkorbordner mit einem Klick leeren. Wechseln Sie direkt in Ihren Papierkorbordner, und drücken Sie **leeren Papierkorb.** 
 
-4. Speichern Sie Ihre Anlagen in OneDrive, damit Sie nicht in Ihrem Postfach gespeichert werden. Weitere Informationen finden Sie unter [Storage Limits in Outlook.com](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) . 
+4. Speichern Sie Ihre Anlagen in OneDrive, damit sie nicht in Ihrem Postfach gespeichert werden. Weitere [Informationen finden Sie unter Speichergrenzwerte in Outlook.com.](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) 
 
-Wenn Sie ein Microsoft 365-Benutzer sind, können Sie auch eine Post fach Vergrößerung von Ihrem IT-Administrator anfordern.
+Wenn Sie ein Microsoft 365-Benutzer sind, können Sie auch eine Postfacherhöhung von Ihrem IT-Administrator anfordern.
