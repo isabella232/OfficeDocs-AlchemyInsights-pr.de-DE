@@ -1,8 +1,8 @@
 ---
-title: Aktivierungsproblem – jetzt können wir keine Verbindung herstellen
+title: 'Aktivierungsproblem : Wir können derzeit keine Verbindung herstellen'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 24fe9910d1715b4f5f7d8d06b1d1344d4b8675bc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2dd3c97bb85254215b13ee8a1222941c0492b204
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725982"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806441"
 ---
-# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Beheben der Microsoft 365-Apps "Wir können die Verbindung jetzt nicht herstellen"-Nachricht
+# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Beheben der Microsoft 365-Apps "Wir können jetzt keine Verbindung herstellen"
 
-Wenn Sie diese Meldung erhalten, versuchen Sie Folgendes:
+Wenn Sie diese Nachricht erhalten, versuchen Sie Folgendes:
 
-1. Überprüfen Sie Ihre Firewall, Antivirensoftware und Proxyeinstellungen, um sicherzustellen, dass der Internet Zugriff auf Microsoft 365-apps nicht blockiert wird. Siehe [Microsoft-URLs und IP-Adressbereiche](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Überprüfen Sie Ihre Firewall-, Antivirensoftware- und Proxyeinstellungen, um zu überprüfen, ob sie den Internetzugriff auf Microsoft 365-Apps nicht blockieren. Weitere [Informationen finden Sie unter Microsoft URLs und IP-Adressbereiche](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Wechseln Sie zu **Start**  >  **Ausführen**, und geben Sie **Services. msc**ein. Stellen Sie sicher, dass die folgenden Dienste installiert sind:
-    - Mit dem Netzwerk verbundene Geräte werden automatisch eingerichtet
-    - Netzwerklisten Dienst
-    - Netzwerkstandort Erkennung
+2. Wechseln Sie **zu Start**  >  **Ausführen**, und geben Sie **dann services.msc ein.** Stellen Sie sicher, dass die folgenden Dienste ausgeführt werden:
+    - Automatisches Einrichten von netzwerkgebundenen Geräten
+    - Netzwerklistendienst
+    - Netzwerkstandortbewusstsein
     - Windows-Ereignisprotokoll
 
-Wenn einer dieser Dienste nicht aktiv ist, versuchen Sie, ihn zu starten. Wenn beim Starten des Diensts ein Problem auftritt, führen Sie den folgenden Befehl aus, indem Sie eine Eingabeaufforderung mit erhöhten Berechtigungen öffnen:
+Wenn einer dieser Dienste nicht ausgeführt wird, versuchen Sie, ihn zu starten. Wenn beim Starten des Diensts ein Problem besteht, führen Sie den folgenden Befehl aus, indem Sie eine Eingabeaufforderung mit erhöhten Berechtigungen öffnen:
 
-**sfc-/scannow**
+**sfc /scannow**
 
-Nachdem dieser Befehl abgeschlossen ist, starten Sie den Computer neu.
+Starten Sie nach Abschluss dieses Befehls den Computer neu.
 
-Ausführliche Informationen finden Sie unter ["Sorry, wir können keine Verbindung zu Ihrem Konto herstellen. Versuchen Sie es später erneut "Fehler beim Aktivieren von Office von Microsoft 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+Ausführliche Informationen finden Sie unter "Leider können [wir keine Verbindung mit Ihrem Konto herstellen. Versuchen Sie es später erneut"-Fehler, wenn Sie Office von Microsoft 365 aktivieren.](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)
