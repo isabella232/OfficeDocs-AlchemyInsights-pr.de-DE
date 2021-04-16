@@ -2,7 +2,7 @@
 title: Zurücksetzen oder Ändern von Kennwörtern
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 459f1ae3ab26abbdb57c5b4b627f78c8091f5171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692150"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810195"
 ---
-# <a name="reset-or-change-passwords"></a><span data-ttu-id="cf881-102">Zurücksetzen oder Ändern von Kennwörtern</span><span class="sxs-lookup"><span data-stu-id="cf881-102">Reset or change passwords</span></span>
+# <a name="reset-or-change-passwords"></a><span data-ttu-id="6e8af-102">Zurücksetzen oder Ändern von Kennwörtern</span><span class="sxs-lookup"><span data-stu-id="6e8af-102">Reset or change passwords</span></span>
 
-<span data-ttu-id="cf881-103">Ein Benutzer kann sein eigenes Kennwort von **meinem Konto**  >  [Sicherheit & Datenschutz](https://portal.office.com/account/#security)ändern.</span><span class="sxs-lookup"><span data-stu-id="cf881-103">A user can change their own password from **My account** > [Security & privacy](https://portal.office.com/account/#security).</span></span>
+<span data-ttu-id="6e8af-103">Ein Benutzer kann sein eigenes Kennwort von **"Mein Konto**  >  [Sicherheit" & ändern.](https://portal.office.com/account/#security)</span><span class="sxs-lookup"><span data-stu-id="6e8af-103">A user can change their own password from **My account** > [Security & privacy](https://portal.office.com/account/#security).</span></span>
   
-<span data-ttu-id="cf881-104">Wenn der Benutzer sein Kennwort vergessen hat, kann ein Administrator das Kennwort zurücksetzen, indem er zu **Benutzer**  >  [aktiven Benutzern](https://portal.office.com/adminportal/home#/users)wechseln, die Benutzer auswählen und auf **Kennwort zurücksetzen**klicken.</span><span class="sxs-lookup"><span data-stu-id="cf881-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), select the user(s), and click **Reset password**.</span></span>
+<span data-ttu-id="6e8af-104">Wenn der Benutzer sein Kennwort vergessen hat, kann ein Administrator das Kennwort zurücksetzen, indem er zu Benutzer Aktive Benutzer geht, die Benutzer auswählt und auf  >  [](https://portal.office.com/adminportal/home#/users)Kennwort **zurücksetzen klickt.**</span><span class="sxs-lookup"><span data-stu-id="6e8af-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), select the user(s), and click **Reset password**.</span></span>
   
-<span data-ttu-id="cf881-105">[Klicken Sie hier, um weitere Informationen zu erhalten](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)oder Benutzer ihre vergessenen Kennwörter zurücksetzen zu lassen.</span><span class="sxs-lookup"><span data-stu-id="cf881-105">[Click here to learn more](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), or to let users reset their own forgotten passwords.</span></span>
+<span data-ttu-id="6e8af-105">[Klicken Sie hier, um mehr zu](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)erfahren oder um Benutzern das Zurücksetzen ihrer eigenen vergessenen Kennwörter zu ermöglichen.</span><span class="sxs-lookup"><span data-stu-id="6e8af-105">[Click here to learn more](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), or to let users reset their own forgotten passwords.</span></span>
