@@ -2,7 +2,7 @@
 title: Wie füge ich eine Kreditkarte hinzu?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: 2db7b38a495d38d0da980100e51cb2754d7fb860
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dbea3f179dc7f89386ba4f89dfe4b70e2e594bcd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47782038"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811347"
 ---
-# <a name="how-do-i-add-a-credit-card"></a><span data-ttu-id="4fb89-102">Wie füge ich eine Kreditkarte hinzu?</span><span class="sxs-lookup"><span data-stu-id="4fb89-102">How do I add a credit card?</span></span>
+# <a name="how-do-i-add-a-credit-card"></a><span data-ttu-id="23ac7-102">Wie füge ich eine Kreditkarte hinzu?</span><span class="sxs-lookup"><span data-stu-id="23ac7-102">How do I add a credit card?</span></span>
 
-1. <span data-ttu-id="4fb89-103">Navigieren Sie im Microsoft 365 Admin Center zur Seite **Abrechnung** \> [Zahlungsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806).</span><span class="sxs-lookup"><span data-stu-id="4fb89-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
+1. <span data-ttu-id="23ac7-103">Navigieren Sie im Microsoft 365 Admin Center zur Seite **Abrechnung** \> [Zahlungsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806).</span><span class="sxs-lookup"><span data-stu-id="23ac7-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
 
-2. <span data-ttu-id="4fb89-104">Wählen Sie **Zahlungsmethode hinzufügen** aus.</span><span class="sxs-lookup"><span data-stu-id="4fb89-104">Click **Add a payment method**.</span></span>
+2. <span data-ttu-id="23ac7-104">Wählen Sie **Zahlungsmethode hinzufügen** aus.</span><span class="sxs-lookup"><span data-stu-id="23ac7-104">Click **Add a payment method**.</span></span>
 
-3. <span data-ttu-id="4fb89-105">Wählen Sie auf der Seite **Zahlungsmethoden** im Dropdownmenü eine Zahlungsmethode aus.</span><span class="sxs-lookup"><span data-stu-id="4fb89-105">On the **Payment methods** page, pick a payment method from the drop-down menu.</span></span>
+3. <span data-ttu-id="23ac7-105">Wählen Sie auf der Seite **Zahlungsmethoden** im Dropdownmenü eine Zahlungsmethode aus.</span><span class="sxs-lookup"><span data-stu-id="23ac7-105">On the **Payment methods** page, pick a payment method from the drop-down menu.</span></span>
 
-4. <span data-ttu-id="4fb89-106">Geben Sie die Informationen für die neue Kreditkarte oder das Bankkonto ein, und wählen Sie **Speichern** aus.</span><span class="sxs-lookup"><span data-stu-id="4fb89-106">Enter the information for the new credit card or bank account, then click **Save**.</span></span>
+4. <span data-ttu-id="23ac7-106">Geben Sie die Informationen für die neue Kreditkarte oder das Bankkonto ein, und wählen Sie **Speichern** aus.</span><span class="sxs-lookup"><span data-stu-id="23ac7-106">Enter the information for the new credit card or bank account, then click **Save**.</span></span>
 
-<span data-ttu-id="4fb89-107">Weitere Informationen finden Sie unter [Verwalten von Zahlungsmethoden](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span><span class="sxs-lookup"><span data-stu-id="4fb89-107">To learn more, see [Manage payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span></span>
+<span data-ttu-id="23ac7-107">Weitere Informationen finden Sie unter [Verwalten von Zahlungsmethoden](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span><span class="sxs-lookup"><span data-stu-id="23ac7-107">To learn more, see [Manage payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span></span>
