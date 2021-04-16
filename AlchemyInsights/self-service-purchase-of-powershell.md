@@ -1,8 +1,8 @@
 ---
-title: Self-Service-Erwerb von PowerShell
+title: Self-Service-Kauf von PowerShell
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3516"
-ms.openlocfilehash: e6cc504ebef19cbe78f576d9b207fe2d951d0ef5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 48b5b0a1be1bc03d45a531a1093f18a3f750c37d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739969"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797720"
 ---
-# <a name="self-service-purchase-of-powershell"></a>Self-Service-Erwerb von PowerShell
+# <a name="self-service-purchase-of-powershell"></a>Self-Service-Kauf von PowerShell
 
-Um das MSCommerce PowerShell-Modul verwenden zu können, müssen Sie es auf einem Windows 10-Gerät mit TLS 1,2 (lokale Administratorberechtigungen erforderlich) installieren.  Importieren und verbinden Sie sich mit dem MSCommerce-Modul.  Wenn Sie zur Anmeldung aufgefordert werden, müssen Sie die Anmeldeinformationen für die Administratorrolle Global oder Billing verwenden.  
+Zum Verwenden des MS Commerce PowerShell-Moduls müssen Sie es auf einem Windows 10-Gerät mit TLS 1.2 installieren (lokale Administratorberechtigungen erforderlich).  Importieren und Herstellen einer Verbindung mit dem MS Commerce-Modul.  Wenn Sie zur Anmeldung aufgefordert werden, müssen Sie anmeldeinformationen für globale Oder Abrechnungsadministratoren verwenden.  
 
-Wenn Sie nicht über TLS 1,2 verfügen, wird möglicherweise die folgende Fehlermeldung angezeigt, wenn Sie versuchen, die Richtlinie abzurufen oder zu aktualisieren:
+Wenn Sie nicht über TLS 1.2 verfügen, wird möglicherweise der folgende Fehler angezeigt, wenn Sie versuchen, die Richtlinie zu erhalten oder zu aktualisieren:
 
-*ErrorMessage-die zugrunde liegende Verbindung wurde geschlossen: beim Senden ist ein unerwarteter Fehler aufgetreten*.
+*ErrorMessage – Die zugrunde liegende Verbindung wurde geschlossen: Bei* einem Senden ist ein unerwarteter Fehler aufgetreten.
 
 
 
