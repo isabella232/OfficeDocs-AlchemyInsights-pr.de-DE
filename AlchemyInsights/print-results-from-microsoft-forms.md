@@ -2,7 +2,7 @@
 title: Drucken von Ergebnissen aus Microsoft Forms
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2545"
 - "9000672"
-ms.openlocfilehash: 3f83da053a3188b2d00719e1b4da90763084b308
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 310306c30fb9f888b80b87a9539ef904e0ad63f3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801912"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800609"
 ---
 # <a name="print-results-in-a-summary-of-responses"></a>Drucken von Ergebnissen in einer Zusammenfassung der Antworten
 
-Sie können [Microsoft Forms-Ergebnisse](https://support.office.com/article/print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc) als Zusammenfassung der Antworten oder für eine einzelne Person ausgeben. 
+Sie können [Microsoft Forms-Ergebnisse](https://support.office.com/article/print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc) als Zusammenfassung der Antworten oder für eine Person drucken. 
 
-Sie können Formulare ohne Antworten nicht drucken, aber Sie können dieses Feature anfordern oder abstimmen, indem Sie die [Microsoft Forms UserVoice-Website](https://microsoftforms.uservoice.com/forums/386451-welcome-to-microsoft-forms-suggestion-box)besuchen.
+Formulare können nicht ohne Antworten gedruckt werden, Aber Sie können dieses Feature anfordern oder abstimmen, indem Sie die [Microsoft Forms UserVoice-Website besuchen.](https://microsoftforms.uservoice.com/forums/386451-welcome-to-microsoft-forms-suggestion-box)
