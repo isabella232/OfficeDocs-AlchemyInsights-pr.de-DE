@@ -1,8 +1,8 @@
 ---
-title: Preis sieht nicht richtig aus?
+title: Der Preis sieht nicht richtig aus?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,13 +14,13 @@ ms.custom:
 - "473"
 - "1500027"
 ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
-ms.openlocfilehash: 3a3fb90af53f4c098fb4eb7673464cd373c40f99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 92290384e7995ccb44f41665b7166fd07196f947
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693662"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790439"
 ---
-# <a name="price-doesnt-look-correct"></a><span data-ttu-id="4dc11-102">Preis sieht nicht richtig aus?</span><span class="sxs-lookup"><span data-stu-id="4dc11-102">Price doesn't look correct?</span></span>
+# <a name="price-doesnt-look-correct"></a><span data-ttu-id="85387-102">Der Preis sieht nicht richtig aus?</span><span class="sxs-lookup"><span data-stu-id="85387-102">Price doesn't look correct?</span></span>
 
-<span data-ttu-id="4dc11-103">Wenn der Preis auf Ihrer Rechnung nicht richtig aussieht, kann dies an einer Preisänderung bei der Verlängerung liegen.</span><span class="sxs-lookup"><span data-stu-id="4dc11-103">If the price on your invoice doesn't look correct, this could be due to a price change at renewal.</span></span> <span data-ttu-id="4dc11-104">Wenn Sie nicht glauben, dass dieses Problem erläutert wird, verwenden Sie die Option "Wir rufen Sie an", um mit einem Supporttechniker zu sprechen.</span><span class="sxs-lookup"><span data-stu-id="4dc11-104">If you don't believe this explains the issue, please use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="85387-103">Wenn der Preis auf Ihrer Rechnung nicht korrekt ausschaut, kann dies auf eine Preisänderung bei verlängerungsbedingt sein.</span><span class="sxs-lookup"><span data-stu-id="85387-103">If the price on your invoice doesn't look correct, this could be due to a price change at renewal.</span></span> <span data-ttu-id="85387-104">Wenn Sie nicht glauben, dass dies das Problem erklärt, verwenden Sie die Option "Lassen Sie uns anrufen", um mit einem Supporttechniker zu sprechen.</span><span class="sxs-lookup"><span data-stu-id="85387-104">If you don't believe this explains the issue, please use the "Let us call you" option to talk to a support engineer.</span></span>

@@ -2,7 +2,7 @@
 title: Optimieren von Stream in meinem lokalen Netzwerk
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002552"
 - "5145"
-ms.openlocfilehash: 2666ee08e25dfbfb2fe9abba7cc4061587f9738a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0fa96d48a5bd6e02df8501c2d5758aa31ba2ae28
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694383"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790727"
 ---
-# <a name="optimizing-stream-within-my-local-network"></a><span data-ttu-id="078f5-102">Optimieren von Stream in meinem lokalen Netzwerk</span><span class="sxs-lookup"><span data-stu-id="078f5-102">Optimizing Stream within my local network</span></span>
+# <a name="optimizing-stream-within-my-local-network"></a><span data-ttu-id="1c5a1-102">Optimieren von Stream in meinem lokalen Netzwerk</span><span class="sxs-lookup"><span data-stu-id="1c5a1-102">Optimizing Stream within my local network</span></span>
 
-<span data-ttu-id="078f5-103">Stream nutzt das Streaming mit intelligenter Codierung und adaptiver Bitrate, um den Netzwerk- und Internetdatenverkehr bei der Videowiedergabe zu verringern.</span><span class="sxs-lookup"><span data-stu-id="078f5-103">Stream leverages the smart encoding and adaptive bitrate streaming to reduce network and internet traffic of video playback.</span></span> <span data-ttu-id="078f5-104">Die Wiedergabe ist jedoch ein Unicast-Stream.</span><span class="sxs-lookup"><span data-stu-id="078f5-104">However, playback is a unicast stream.</span></span> <span data-ttu-id="078f5-105">Bei Liveereignissen oder Videos, die an große Teile Ihrer Organisation gesendet werden, kann ein beträchtlicher Anteil der Internetbandbreite von den Zuschauern in Anspruch genommen werden.</span><span class="sxs-lookup"><span data-stu-id="078f5-105">For live events or videos sent out to large portions of your organization, there could be a significant amount of internet bandwidth consumed by viewers.</span></span> <span data-ttu-id="078f5-106">Weitere Informationen finden Sie unter:</span><span class="sxs-lookup"><span data-stu-id="078f5-106">For more information, see:</span></span>
+<span data-ttu-id="1c5a1-103">Stream nutzt das Streaming mit intelligenter Codierung und adaptiver Bitrate, um den Netzwerk- und Internetdatenverkehr bei der Videowiedergabe zu verringern.</span><span class="sxs-lookup"><span data-stu-id="1c5a1-103">Stream leverages the smart encoding and adaptive bitrate streaming to reduce network and internet traffic of video playback.</span></span> <span data-ttu-id="1c5a1-104">Die Wiedergabe ist jedoch ein Unicast-Stream.</span><span class="sxs-lookup"><span data-stu-id="1c5a1-104">However, playback is a unicast stream.</span></span> <span data-ttu-id="1c5a1-105">Bei Liveereignissen oder Videos, die an große Teile Ihrer Organisation gesendet werden, kann ein beträchtlicher Anteil der Internetbandbreite von den Zuschauern in Anspruch genommen werden.</span><span class="sxs-lookup"><span data-stu-id="1c5a1-105">For live events or videos sent out to large portions of your organization, there could be a significant amount of internet bandwidth consumed by viewers.</span></span> <span data-ttu-id="1c5a1-106">Weitere Informationen finden Sie unter:</span><span class="sxs-lookup"><span data-stu-id="1c5a1-106">For more information, see:</span></span>
 
-- [<span data-ttu-id="078f5-107">Optimieren der Videozustellung in meinem lokalen Netzwerk</span><span class="sxs-lookup"><span data-stu-id="078f5-107">Optimizing video delivery within my local network</span></span>](https://docs.microsoft.com/stream/network-overview#optimizing-video-delivery-within-my-local-network)
+- [<span data-ttu-id="1c5a1-107">Optimieren der Videozustellung in meinem lokalen Netzwerk</span><span class="sxs-lookup"><span data-stu-id="1c5a1-107">Optimizing video delivery within my local network</span></span>](https://docs.microsoft.com/stream/network-overview#optimizing-video-delivery-within-my-local-network)
