@@ -2,7 +2,7 @@
 title: Microsoft 365 für gemeinnützige Organisationen – abgelehnt
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,15 +14,15 @@ ms.custom:
 - "343"
 - "1500010"
 ms.assetid: 2c928480-0a18-47dc-871e-8b8558c9048b
-ms.openlocfilehash: 78389468129cf4529b7073f9e325872dedf7cb33
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b785243902b3e0ccbba14164ca6f19ab754beb9e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779770"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810699"
 ---
 # <a name="microsoft-365-for-nonprofits---declined"></a>Microsoft 365 für gemeinnützige Organisationen – abgelehnt
 
-Wir haben Ihre Anfrage überprüft und festgestellt, dass diese Organisation nicht als eine von Microsoft qualifizierte gemeinnützige Organisation berechtigt ist.
+Wir haben Ihre Anforderung überprüft und festgestellt, dass diese Organisation nicht als Microsoft Qualified Nonprofit Organization berechtigt ist.
   
-Informationen zum kommerziellen Kauf Office 365 finden Sie unter [Verfügbare Angebote](https://portal.office.com/AdminPortal/Home).
+Informationen zum kommerziellen Kauf von Office 365 finden Sie unter verfügbare [Angebote](https://portal.office.com/AdminPortal/Home).

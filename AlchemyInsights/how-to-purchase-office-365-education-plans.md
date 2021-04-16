@@ -1,8 +1,8 @@
 ---
-title: So erwerben Sie Office 365 Bildungspläne
+title: Kaufen von Office 365 Education-Plänen
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -15,14 +15,14 @@ ms.custom:
 - "370"
 - "1500009"
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 7199f8321d68ad9641dda265adba804216dede92
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8546be7dc2ab569fe0beb3150ead687d3a96c83a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703335"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810735"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>So erwerben Sie Office 365 Bildungspläne
+# <a name="how-to-purchase-office-365-education-plans"></a>Kaufen von Office 365 Education-Plänen
 
 Ihr Einsatz von Office 365 Education wurde genehmigt.  So kaufen Sie es:
 

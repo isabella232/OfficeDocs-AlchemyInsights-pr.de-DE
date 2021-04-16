@@ -1,8 +1,8 @@
 ---
-title: Ändern der Größe und Anfügung von Bildern auf Android
+title: Ändern der Größe und Anfügen von Bildern unter Android
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001113"
 - "3074"
-ms.openlocfilehash: 18ff3a111c07e28d7e62feb404623c1a974864f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa497883706055a3124f76d731399e39ca3f72f6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795675"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809510"
 ---
-# <a name="resize-and-attach-images-on-android"></a>Ändern der Größe und Anfügung von Bildern auf Android
+# <a name="resize-and-attach-images-on-android"></a>Ändern der Größe und Anfügen von Bildern unter Android
 
-Wenn Sie ein Bild mit einer Größe von mehr als 1 MB an eine e-Mail anfügen, haben Sie die Möglichkeit, die Größe von Bildern in der Nachricht zu komprimieren/zu ändern.
+Wenn Sie ein Bild mit einer Größe von mehr als 1 MB an eine E-Mail anfügen, haben Sie die Möglichkeit, Bilder in der Nachricht zu komprimieren bzw. deren Größe zu ändern.
  
-- Wenn Sie das Original beibehalten möchten, werden alle Bilder in der Nachricht in voller Größe gesendet.
+- Wenn Sie das Original behalten möchten, werden alle Bilder in der Nachricht in voller Größe gesendet.
  
-- Wenn Sie sich für die Größe entscheiden, werden alle Bilder in der Nachricht komprimiert.  Dies umfasst Bilder, die später hinzugefügt wurden, während dieser Entwurf noch bearbeitet wird.
+- Wenn Sie die Größe ändern möchten, werden ALLE Bilder in der Nachricht komprimiert.  Dies umfasst Bilder, die später hinzugefügt werden, während sie diesen Entwurf noch bearbeiten.
  
-- Wenn Sie den Entwurf speichern und später wieder zurückkehren und ein weiteres großes Bild hinzufügen, werden Sie erneut gefragt, und Ihre Auswahl wird während dieser Bearbeitungssitzung auf alle Entwürfe angewendet.
+- Wenn Sie den Entwurf speichern und später wiederkommen und ein weiteres großes Bild hinzufügen, werden Sie erneut gefragt, und Ihre Auswahl gilt für alle Entwürfe während dieser Bearbeitungssitzung.
  
