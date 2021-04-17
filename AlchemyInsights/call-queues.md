@@ -1,8 +1,8 @@
 ---
-title: Anrufwarteschlangen
+title: Anrufwarteschleifen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000731"
 - "2665"
-ms.openlocfilehash: 2cbb823c2051fd3c78233ce9ec5b090519654e69
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f905aedc95f5791c51bcff52a2a7a725c159732f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734334"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819835"
 ---
-# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a><span data-ttu-id="a100c-102">Anrufwarteschlangen in Microsoft Teams und Skype for Business</span><span class="sxs-lookup"><span data-stu-id="a100c-102">Call queues in Microsoft Teams and Skype for Business</span></span> 
+# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a><span data-ttu-id="458d9-102">Anrufwarteschlangen in Microsoft Teams und Skype for Business</span><span class="sxs-lookup"><span data-stu-id="458d9-102">Call queues in Microsoft Teams and Skype for Business</span></span> 
 
-<span data-ttu-id="a100c-103">Die ersten Schritte zur Verwendung von Anrufwarteschlangen finden Sie unter den folgenden Links.</span><span class="sxs-lookup"><span data-stu-id="a100c-103">To get started using call queues, refer to the following links.</span></span>
+<span data-ttu-id="458d9-103">Um mit der Verwendung von Anrufwarteschlangen zu beginnen, lesen Sie die folgenden Links.</span><span class="sxs-lookup"><span data-stu-id="458d9-103">To get started using call queues, refer to the following links.</span></span>
 
-- [<span data-ttu-id="a100c-104">Erstellen einer Cloudanrufwarteschleife</span><span class="sxs-lookup"><span data-stu-id="a100c-104">Create a Cloud call queue</span></span>](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
-- [<span data-ttu-id="a100c-105">Direktes Beantworten von Anrufen aus der automatischen Telefonzentrale und der Anrufwarteschleife aus Teams</span><span class="sxs-lookup"><span data-stu-id="a100c-105">Answer auto attendant and call queue calls directly from Teams</span></span>](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)
+- [<span data-ttu-id="458d9-104">Erstellen einer Cloudanrufwarteschleife</span><span class="sxs-lookup"><span data-stu-id="458d9-104">Create a Cloud call queue</span></span>](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
+- [<span data-ttu-id="458d9-105">Direktes Beantworten von Anrufen aus der automatischen Telefonzentrale und der Anrufwarteschleife aus Teams</span><span class="sxs-lookup"><span data-stu-id="458d9-105">Answer auto attendant and call queue calls directly from Teams</span></span>](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)

@@ -1,8 +1,8 @@
 ---
-title: Organisationsprofil ändern
+title: Ändern des Organisationsprofils
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000175"
 - "1714"
-ms.openlocfilehash: bb31fc99dc6cedd463bcf5d8bf4e00fb7d6dfd54
-ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
+ms.openlocfilehash: 157ad13c6171bd221ca61a29ae2d15281784529e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49726388"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818539"
 ---
-# <a name="change-organization-profile"></a><span data-ttu-id="931d9-102">Organisationsprofil ändern</span><span class="sxs-lookup"><span data-stu-id="931d9-102">Change Organization profile</span></span>
+# <a name="change-organization-profile"></a><span data-ttu-id="c8780-102">Ändern des Organisationsprofils</span><span class="sxs-lookup"><span data-stu-id="c8780-102">Change Organization profile</span></span>
 
-<span data-ttu-id="931d9-103">Ändern Sie den Namen Ihres Unternehmens, die Adresse, technische Kontaktinformationen und vieles mehr im Admin Center auf der  >  Registerkarte Organisationsprofil der Einstellungen **org Settings**  >  [](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation) .</span><span class="sxs-lookup"><span data-stu-id="931d9-103">Change your company name, address, technical contact information, and more in the admin center on the **Settings** > **Org Settings** > [Organizational profile](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation) tab.</span></span>
+<span data-ttu-id="c8780-103">Ändern Sie Ihren Firmennamen, Ihre Adresse, technische Kontaktinformationen und mehr im Admin Center auf der Registerkarte **Einstellungen**  >  **Organisationseinstellungen**  >  [Organisationsprofil.](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation)</span><span class="sxs-lookup"><span data-stu-id="c8780-103">Change your company name, address, technical contact information, and more in the admin center on the **Settings** > **Org Settings** > [Organizational profile](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation) tab.</span></span>
 
-<span data-ttu-id="931d9-104">Stellen Sie sicher, dass Sie alle mit einem \* markierten Felder ausfüllen, um das Speichern Ihrer Änderungen zu ermöglichen.</span><span class="sxs-lookup"><span data-stu-id="931d9-104">Be sure to fill in all required fields marked with an \* to enable saving your changes.</span></span>
+<span data-ttu-id="c8780-104">Achten Sie darauf, alle mit \* gekennzeichneten Pflichtfelder auszufüllen, damit Ihre Änderungen gespeichert werden können.</span><span class="sxs-lookup"><span data-stu-id="c8780-104">Be sure to fill in all required fields marked with an \* to enable saving your changes.</span></span>
 
-<span data-ttu-id="931d9-105">[Weitere Informationen finden Sie unter Adress-oder Rechnungs Adressänderungen](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more).</span><span class="sxs-lookup"><span data-stu-id="931d9-105">[See more information on address or billing address changes](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more).</span></span>
+<span data-ttu-id="c8780-105">[Weitere Informationen zu Adress- oder Abrechnungsadressenänderungen finden Sie unter](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more).</span><span class="sxs-lookup"><span data-stu-id="c8780-105">[See more information on address or billing address changes](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more).</span></span>
