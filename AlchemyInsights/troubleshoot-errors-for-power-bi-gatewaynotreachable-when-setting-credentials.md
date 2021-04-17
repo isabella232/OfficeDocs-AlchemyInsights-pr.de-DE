@@ -2,7 +2,7 @@
 title: GatewayNotReachable beim Festlegen von Anmeldeinformationen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1321"
 - "2500002"
-ms.openlocfilehash: eefd024944282f26460b8ae6da04829dd4239983
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d02ff9db70a8c8db82b573121cb52c031899fd4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690854"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834946"
 ---
-# <a name="gatewaynotreachable-when-setting-credentials"></a><span data-ttu-id="a2cf6-102">GatewayNotReachable beim Festlegen von Anmeldeinformationen</span><span class="sxs-lookup"><span data-stu-id="a2cf6-102">GatewayNotReachable when setting credentials</span></span>
+# <a name="gatewaynotreachable-when-setting-credentials"></a><span data-ttu-id="d1dca-102">GatewayNotReachable beim Festlegen von Anmeldeinformationen</span><span class="sxs-lookup"><span data-stu-id="d1dca-102">GatewayNotReachable when setting credentials</span></span>
 
-<span data-ttu-id="a2cf6-103">Beim Versuch, Anmeldeinformationen für eine Datenquelle innerhalb des Power BI-Diensts festzulegen, können GatewayNotReachable auftreten.</span><span class="sxs-lookup"><span data-stu-id="a2cf6-103">You may encounter GatewayNotReachable when trying to set credentials for a data source within the Power BI service.</span></span> <span data-ttu-id="a2cf6-104">Dies kann das Ergebnis eines veralteten Gateways sein.</span><span class="sxs-lookup"><span data-stu-id="a2cf6-104">This could be the result of an outdated gateway.</span></span> <span data-ttu-id="a2cf6-105">Installieren Sie das neueste Gateway, und versuchen Sie es erneut.</span><span class="sxs-lookup"><span data-stu-id="a2cf6-105">Install the latest gateway and try again.</span></span>
+<span data-ttu-id="d1dca-103">Möglicherweise kann GatewayNotReachable auftreten, wenn Sie versuchen, Anmeldeinformationen für eine Datenquelle innerhalb des Power BI-Diensts festlegen.</span><span class="sxs-lookup"><span data-stu-id="d1dca-103">You may encounter GatewayNotReachable when trying to set credentials for a data source within the Power BI service.</span></span> <span data-ttu-id="d1dca-104">Dies kann das Ergebnis eines veralteten Gateways sein.</span><span class="sxs-lookup"><span data-stu-id="d1dca-104">This could be the result of an outdated gateway.</span></span> <span data-ttu-id="d1dca-105">Installieren Sie das neueste Gateway, und versuchen Sie es erneut.</span><span class="sxs-lookup"><span data-stu-id="d1dca-105">Install the latest gateway and try again.</span></span>
 
-<span data-ttu-id="a2cf6-106">Weitere Informationen: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)</span><span class="sxs-lookup"><span data-stu-id="a2cf6-106">For more information: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)</span></span>
+<span data-ttu-id="d1dca-106">Weitere Informationen finden Sie unter: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)</span><span class="sxs-lookup"><span data-stu-id="d1dca-106">For more information: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)</span></span>
