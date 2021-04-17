@@ -1,8 +1,8 @@
 ---
-title: Aktivierung/Anmeldeproblem – Fehler beim vertrauenswürdigen Plattformmodul
+title: Aktivierungs-/Anmeldeproblem – Vertrauenswürdiges Plattformmodul ist fehlerhaft
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3406"
 - "9001429"
-ms.openlocfilehash: 13e6fcd18047e511452f0180dc2e4677466d4db3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 468d197ae1ad6a3ee13cbcc683a59f0d9f193af7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697520"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822886"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Beheben von Microsoft 365-Apps "vertrauenswürdige Plattformmodul Ihres Computers funktioniert nicht ordnungsgemäß"-Meldung
+# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Beheben der Microsoft 365-Apps "Das Modul "Vertrauenswürdige Plattform Ihres Computers funktioniert nicht ordnungsgemäß"
 
 Um diesen Fehler zu beheben, versuchen Sie Folgendes:
 
 1. Öffnen Sie eine Office-App, und [melden Sie sich von vorhandenen Benutzerkonten ab](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071).   
-2. Entfernen vorhandener Arbeits Konten mithilfe von Windows- **Einstellungs**  >  **Konten**  >  **e-Mail & Konten**. 
-3. Verwenden von Windows- **Einstellungen**  >  **Konten**  >  **Zugriff auf Arbeit oder Schule**, trennen vorhandener Konten. 
+2. Entfernen Sie **vorhandene**  >    >  **Arbeitskonten mithilfe &** E-Mail-Konten von Windows-Einstellungen. 
+3. Trennen Sie vorhandene Konten mithilfe von **Windows-Einstellungskonten** Auf Arbeit oder Schule  >    >  zugreifen. 
 4. Setzen Sie den Office-Aktivierungsstatus zurück. [Anleitung](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
 ).
-5. Versuchen Sie den [Benutzer Wiederherstellungsprozess](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) zum Beheben von TPM-Fehlern (Trusted Platform Module).
+5. Versuchen Sie den [Benutzerwiederherstellungsprozess,](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) um TPM-Fehler (Trusted Platform Module) zu beheben.

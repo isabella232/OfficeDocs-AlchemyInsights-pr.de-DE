@@ -2,7 +2,7 @@
 title: Ablauf des ADFS-Verbundzertifikats
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "645"
 - "1300012"
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: a3172bc402a22999a3bf963233cc26db1ddf2a03
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3ba6e6a6f93225bc843dfd1a028d31223f01280c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686713"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821950"
 ---
 # <a name="adfs-federation-certificate-expiring"></a>Ablauf des ADFS-Verbundzertifikats
 
 Führen Sie die folgenden Schritte aus, um dieses Problem zu beheben:
   
-1. Installieren Sie das Microsoft Azure Active Directory Modul für Windows PowerShell auf dem Computer (falls das Modul noch nicht installiert ist). Wechseln Sie dazu zum [Verwalten von Azure AD mithilfe von Windows PowerShell](https://aka.ms/aadposh).
+1. Installieren Sie das Microsoft Azure Active Directory-Modul für Windows PowerShell auf dem Computer (wenn das Modul noch nicht installiert ist). Wechseln Sie dazu zu [Verwalten von Azure AD mithilfe Windows PowerShell](https://aka.ms/aadposh).
 
-2. Befolgen Sie die Schritte im Abschnitt "Szenario 1: abgelaufenes AD FS-Token-Signierungszertifikat" unter ["Fehler beim Zugriff auf die Website" von AD FS, wenn sich ein Verbundbenutzer bei Microsoft 365, Azure oder InTune anmeldet](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
+2. Führen Sie die Schritte im Abschnitt "Szenario 1: Das AD FS-Tokensignaturzertifikat ist abgelaufen" des Fehlers "Es gab ein Problem beim Zugriff auf die Website" von AD FS aus, wenn sich ein Verbundbenutzer bei [Microsoft 365, Azure](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)oder Intune einschreibt.
 
-3. Führen Sie die Schritte unter [aktualisieren oder Reparieren der Einstellungen einer Verbunddomäne in Microsoft, Azure oder InTune](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365)aus.
+3. Führen Sie die Schritte unter Aktualisieren oder Reparieren der Einstellungen einer [Verbunddomäne in Microsoft, Azure oder Intune aus.](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365)
 
-    Weitere Informationen zum Erneuern von Verbund Zertifikaten finden Sie unter [Renew Federation certificates for Microsoft 365 and Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).
+    Weitere Informationen zum Verlängern von Verbundzertifikaten finden Sie unter [Renew federation certificates for Microsoft 365 and Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).
