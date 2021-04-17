@@ -2,7 +2,7 @@
 title: COVID-19 – Abrechnungs- und Lizenzfragen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,13 +16,13 @@ ms.custom:
 - "5113"
 - "9002647"
 - "5091"
-ms.openlocfilehash: 083a4047f86bf315702a90822eaefa5a5d2bf72a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5c6355106bf53d929eaaac3286ae27ccf7d738a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747550"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816415"
 ---
-# <a name="covid-19-billing-and-license-questions"></a><span data-ttu-id="93e0e-102">COVID-19 – Abrechnungs- und Lizenzfragen</span><span class="sxs-lookup"><span data-stu-id="93e0e-102">COVID-19 billing and license questions</span></span>
+# <a name="covid-19-billing-and-license-questions"></a><span data-ttu-id="f60c6-102">COVID-19 – Abrechnungs- und Lizenzfragen</span><span class="sxs-lookup"><span data-stu-id="f60c6-102">COVID-19 billing and license questions</span></span>
 
-<span data-ttu-id="93e0e-103">Die neuesten Aktualisierungen finden Sie im Blogbeitrag [Unser Engagement für Kunden während COVID-19](https://www.microsoft.com/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/).</span><span class="sxs-lookup"><span data-stu-id="93e0e-103">Refer to [Our commitment to customers during COVID-19](https://www.microsoft.com/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) blog post for the latest updates.</span></span>  <span data-ttu-id="93e0e-104">Wenn Sie im Zusammenhang mit der Covid-19-Krise spezielle Fragen zur Rechnung oder Lizenz haben, klicken Sie bitte unten auf dieser Seite auf **Support kontaktieren**.</span><span class="sxs-lookup"><span data-stu-id="93e0e-104">If you have specific billing or license questions related to the Covid-19 crisis, please click **Contact support** at the bottom of this page.</span></span>
+<span data-ttu-id="f60c6-103">Die neuesten Aktualisierungen finden Sie im Blogbeitrag [Unser Engagement für Kunden während COVID-19](https://www.microsoft.com/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/).</span><span class="sxs-lookup"><span data-stu-id="f60c6-103">Refer to [Our commitment to customers during COVID-19](https://www.microsoft.com/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) blog post for the latest updates.</span></span>  <span data-ttu-id="f60c6-104">Wenn Sie im Zusammenhang mit der Covid-19-Krise spezielle Fragen zur Rechnung oder Lizenz haben, klicken Sie bitte unten auf dieser Seite auf **Support kontaktieren**.</span><span class="sxs-lookup"><span data-stu-id="f60c6-104">If you have specific billing or license questions related to the Covid-19 crisis, please click **Contact support** at the bottom of this page.</span></span>
