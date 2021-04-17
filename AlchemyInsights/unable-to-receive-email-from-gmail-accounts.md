@@ -1,8 +1,8 @@
 ---
-title: E-Mail kann nicht von Gmail-Konten empfangen werden
+title: E-Mails von Gmail-Konten können nicht empfangen werden
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000048"
 - "3798"
-ms.openlocfilehash: ceaad0d8d09ffc5e16d7692d566627b4275638d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 70472d6a25a386eff623389d29a4463098adb45a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735450"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830392"
 ---
-# <a name="unable-to-receive-email-from-gmail-accounts"></a>E-Mail kann nicht von Gmail-Konten empfangen werden
+# <a name="unable-to-receive-email-from-gmail-accounts"></a>E-Mails von Gmail-Konten können nicht empfangen werden
 
-**Problem**
+**PROBLEM**
 
-Wir sind uns bewusst, dass einige Benutzer möglicherweise keine e-Mails von Gmail-Konten empfangen können. Wir untersuchen ein mögliches Problem.
+Wir sind uns bewusst, dass einige Benutzer möglicherweise keine E-Mails von Gmail-Konten empfangen können. Wir untersuchen ein mögliches Problem.
 
-**Problemumgehung**
+**PROBLEMUMGEHUNG**
 
-Stellen Sie sicher, dass Sie die Gmail-Domäne nicht versehentlich blockiert haben, wenn Sie einen Gmail-Benutzer blockieren.
+Vergewissern Sie sich, dass Sie die Gmail-Domäne nicht versehentlich blockiert haben, wenn Sie einen Gmail-Benutzer blockieren.
 
-1. Öffnen Sie die [Liste blockierter Absender](https://go.microsoft.com/fwlink/?linkid=2121010).
+1. Öffnen Sie [die Liste blockierter Absender](https://go.microsoft.com/fwlink/?linkid=2121010).
 
-2. Wenn sich gmail.com in der Liste befindet, klicken Sie auf das Papierkorbsymbol neben dem Eintrag, und drücken Sie **Speichern**.
+2. Wenn Gmail.com in der Liste angezeigt wird, klicken Sie auf das Papierkorbsymbol neben dem Eintrag, und drücken Sie **speichern**.

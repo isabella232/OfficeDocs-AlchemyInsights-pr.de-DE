@@ -1,8 +1,8 @@
 ---
-title: Projekt häufig auftretende Probleme und Lösungen
+title: Projekt häufige Probleme und Lösungen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001502"
 - "3559"
-ms.openlocfilehash: e044e70fb581896bce98b4e2d8e5853e28ae7411
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 969cf2812a60f4b9a03aad46c96c1eb7a0458816
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801723"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830833"
 ---
-# <a name="project-common-issues-and-resolutions"></a>Projekt häufig auftretende Probleme und Lösungen
+# <a name="project-common-issues-and-resolutions"></a>Projekt häufige Probleme und Lösungen
 
-Hier finden Sie einige häufig angeforderte Themen mit Project:
+Hier sind einige häufig angeforderte Themen mit Project:
 
-1. Erste **Schritte mit Project online:**[beginnen](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) Sie mit der Verwendung von Project Online, und erfahren Sie, wie Sie Project Online in Ihrer Umgebung [planen, implementieren und verwalten](https://docs.microsoft.com/projectonline/project-online) können.   Überprüfen Sie [Project Online Software Beschränkungen und-Grenzen](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) , um wichtige Einschränkungen zu überprüfen.
+1. **Erste Schritte mit Project Online: Beginnen** Sie [mit Project Online,](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) und erfahren Sie, wie Sie Project Online in Ihrer Umgebung [planen,](https://docs.microsoft.com/projectonline/project-online) implementieren und warten.   Überprüfen [Sie Project Online Software Limits and Boundaries, um](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) wichtige Einschränkungen zu überprüfen.
 
-2. **Ermöglichen Sie Benutzern den Zugriff auf Project online:** Hinzufügen von [Personen, Gruppen, Ressourcen und Freigeben von Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) zur Zusammenarbeit mit anderen Benutzern. 
+2. **Geben Sie Benutzern Zugriff auf Project Online:** Fügen [Sie Personen, Gruppen, Ressourcen hinzu, und teilen Sie Project Online,](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) um mit anderen zusammenzuarbeiten. 
 
-3. **Optimieren der Leistung von Project Web App (PWA) in Project online:** Überprüfen Sie die [Leistungsbeeinträchtigung und die Nachteile](https://docs.microsoft.com/projectonline/tune-project-online-performance) einiger der am häufigsten verwendeten Project Web App Einstellungen.
+3. **Optimieren der Leistung von Project Web App (PWA) in Project Online:** Überprüfen Sie die Auswirkungen auf die Leistung und die [Tradeoffs](https://docs.microsoft.com/projectonline/tune-project-online-performance) einiger der gängigsten Project Web App-Einstellungen.
 
-4. Stellen **Sie mit dem Project-Desktop Client eine Verbindung mit Project Online her:** Verwenden Sie den [Project Online Desktop Client](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) , um eine Verbindung mit Project Online in Ihrer Microsoft 365-Umgebung herzustellen. 
+4. **Stellen Sie eine Verbindung mit Project Online mit dem Project Desktop Client herzustellen:** Verwenden Sie den [Project Online Desktop-Client,](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) um eine Verbindung mit Project Online in Ihrer Microsoft 365-Umgebung herzustellen. 
 
-5. **Installieren Sie Project Professional:** [Installieren und verwenden Sie Project Professional](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) mit den Abonnementversionen von Project Online und den nicht-Abonnementversionen von Project 2019, 2016 oder 2013.
+5. **Installieren von Project Professional:** Installieren und Verwenden von [Project Professional](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) mit den Abonnementversionen von Project Online und den Nichtabonnementversionen von Project 2019, 2016 oder 2013.

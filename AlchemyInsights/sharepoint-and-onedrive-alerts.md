@@ -1,8 +1,8 @@
 ---
-title: Verzögerungen beim Empfang von SharePoint-und OneDrive-Warnungen
+title: Verzögerungen beim Empfangen von SharePoint- und OneDrive-Warnungen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: e5476f4e8462f233ff2a46832742d5a1f6e14e73
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+ms.openlocfilehash: fd00bd90de382e325a9b8c4ce5b21d535e630730
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599851"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831229"
 ---
-# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Verzögerungen beim Empfang von SharePoint-und OneDrive-Warnungen
+# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Verzögerungen beim Empfangen von SharePoint- und OneDrive-Warnungen
 
-- Wenn **sich alle Warnungen aus mehreren Dateien oder Bibliotheken verzögert** haben, besuchen Sie das [Service-Integritäts Dashboard](https://portal.office.com/adminportal/home?ref=/servicehealth) , um nach eventuellen Ankündigungen/Vorfällen zu suchen, die mit SharePoint oder Exchange möglicherweise auftreten.
-- Wenn **eine einzelne Warnung aus einer bestimmten Datei oder Bibliothek nicht zugestellt wird**, versuchen Sie, Sie zu löschen und neu zu erstellen. Informationen zum erneuten Erstellen der Benachrichtigung finden Sie unter [verwalten, anzeigen oder Löschen von SharePoint-Warnungen](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) .
-- Überprüfen Sie den Ordner Junk oder Spam in Ihrer e-Mail.
+- Wenn **alle Warnungen** aus mehreren Dateien oder Bibliotheken verzögert werden, besuchen Sie das Dienstintehashboard, um nach Etwaigen Ratgebern/Vorfällen zu suchen, die mit SharePoint oder Exchange auftreten können. [](https://portal.office.com/adminportal/home?ref=/servicehealth)
+- Wenn **eine einzelne Warnung aus einer bestimmten Datei** oder Bibliothek nicht zugestellt wird, versuchen Sie, sie zu löschen und neu zu erstellen. Weitere Informationen zum Erneuten Erstellen der Warnung finden Sie [unter Verwalten, Anzeigen](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) oder Löschen von SharePoint-Warnungen.
+- Überprüfen Sie den Junk- oder Spamordner in Ihrer E-Mail.
 
 > [!NOTE]
-> - Benachrichtigungen können nicht an eine Verteilergruppe gesendet werden. Es werden nur Sicherheits-und O365-Gruppen unterstützt.
-> - Sie können keine e-Mail-Benachrichtigungsvorlagen anpassen. Sie müssen Microsoft Flow oder SharePoint Designer Workflow verwenden, um diese zu erreichen.
+> - Warnungen können nicht an eine Verteilergruppe gesendet werden. Es werden nur Sicherheits- und O365-Gruppen unterstützt.
+> - Sie können keine Benachrichtigungs-E-Mail-Vorlagen anpassen. Sie müssen Microsoft Flow oder SharePoint Designer Workflow verwenden, um diese zu erreichen.
