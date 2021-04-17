@@ -1,8 +1,8 @@
 ---
-title: Senden von PowerApps-oder Microsoft Flow-Supportanforderungen
+title: Übermitteln von PowerApps- oder Microsoft Flow-Supportanforderungen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "1494"
 - "1495"
 - "6200027"
-ms.openlocfilehash: 0546a222eeb68fd9138a1ab846ebe190ddcbbc0b
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 8e2b04a32af02679ce9a9ade92895011391b2ae7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653440"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827971"
 ---
-# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a><span data-ttu-id="39d42-102">Senden von PowerApps-oder Microsoft Flow-Supportanforderungen</span><span class="sxs-lookup"><span data-stu-id="39d42-102">Submit PowerApps or Microsoft Flow support requests</span></span>
+# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a><span data-ttu-id="70eb2-102">Übermitteln von PowerApps- oder Microsoft Flow-Supportanforderungen</span><span class="sxs-lookup"><span data-stu-id="70eb2-102">Submit PowerApps or Microsoft Flow support requests</span></span>
 
-<span data-ttu-id="39d42-103">Wenn Sie ein **PowerApps** -oder **Microsoft Flow** -Kunde sind, senden Sie Ihr Ticket über das neue [Power Platform Admin Center](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819).</span><span class="sxs-lookup"><span data-stu-id="39d42-103">If you are a **PowerApps** or **Microsoft Flow** customer please submit your ticket through the new [Power platform Admin Center](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819).</span></span> <span data-ttu-id="39d42-104">Das neue Portal bietet einen direkteren Pfad zur unterstützten Unterstützung, die für PowerApps und andere Power Platform-Produkte optimiert ist.</span><span class="sxs-lookup"><span data-stu-id="39d42-104">The new portal provides a more direct path to assisted support that is optimized for PowerApps and other Power platform products.</span></span>
+<span data-ttu-id="70eb2-103">Wenn Sie ein **PowerApps-** oder **Microsoft Flow-Kunde** sind, übermitteln Sie Ihr Ticket bitte über das [neue Power Platform Admin Center](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819).</span><span class="sxs-lookup"><span data-stu-id="70eb2-103">If you are a **PowerApps** or **Microsoft Flow** customer please submit your ticket through the new [Power platform Admin Center](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819).</span></span> <span data-ttu-id="70eb2-104">Das neue Portal bietet einen direkteren Pfad zur unterstützungsgestützten Unterstützung, die für PowerApps und andere Power-Plattformprodukte optimiert ist.</span><span class="sxs-lookup"><span data-stu-id="70eb2-104">The new portal provides a more direct path to assisted support that is optimized for PowerApps and other Power platform products.</span></span>
 
-[<span data-ttu-id="39d42-105">Senden der Microsoft Flow-Supportanforderung</span><span class="sxs-lookup"><span data-stu-id="39d42-105">Submit Microsoft Flow support request</span></span>](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
+[<span data-ttu-id="70eb2-105">Übermitteln einer Microsoft Flow-Supportanfrage</span><span class="sxs-lookup"><span data-stu-id="70eb2-105">Submit Microsoft Flow support request</span></span>](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)

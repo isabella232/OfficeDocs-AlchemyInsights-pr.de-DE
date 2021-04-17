@@ -1,8 +1,8 @@
 ---
-title: SharePoint-Berechtigungsfehler
+title: Fehler bei den SharePoint-Berechtigungen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: e2685734657cb9e9e8c43cd19ac024b795dcd49b
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 051d0d002394b4685b044f2ed15057f5f26b3024
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653395"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826594"
 ---
-# <a name="sharepoint-permissions-errors"></a><span data-ttu-id="fd7a7-102">SharePoint-Berechtigungsfehler</span><span class="sxs-lookup"><span data-stu-id="fd7a7-102">SharePoint permissions errors</span></span>
+# <a name="sharepoint-permissions-errors"></a><span data-ttu-id="433d0-102">Fehler bei den SharePoint-Berechtigungen</span><span class="sxs-lookup"><span data-stu-id="433d0-102">SharePoint permissions errors</span></span>
 
-<span data-ttu-id="fd7a7-103">Es gibt viele Szenarien, die eine dieser Nachrichten auffordern können.</span><span class="sxs-lookup"><span data-stu-id="fd7a7-103">There are many scenarios that can prompt one of these messages.</span></span> <span data-ttu-id="fd7a7-104">Am häufigsten werden Berechtigungen für den Benutzer oder Administrator falsch konfiguriert oder gar nicht konfiguriert.</span><span class="sxs-lookup"><span data-stu-id="fd7a7-104">Most frequently, permissions for the user or administrator are configured incorrectly or not configured at all.</span></span> 
+<span data-ttu-id="433d0-103">Es gibt viele Szenarien, in denen eine dieser Nachrichten angezeigt werden kann.</span><span class="sxs-lookup"><span data-stu-id="433d0-103">There are many scenarios that can prompt one of these messages.</span></span> <span data-ttu-id="433d0-104">Am häufigsten werden Berechtigungen für den Benutzer oder Administrator falsch oder gar nicht konfiguriert.</span><span class="sxs-lookup"><span data-stu-id="433d0-104">Most frequently, permissions for the user or administrator are configured incorrectly or not configured at all.</span></span> 
 
-<span data-ttu-id="fd7a7-105">Weitere Informationen finden Sie unter "[Zugriff verweigert", "Sie benötigen die Berechtigung für den Zugriff auf diese Website" oder "Benutzer nicht im Verzeichnis gefunden" Fehler in SharePoint Online und OneDrive für Unternehmen](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).</span><span class="sxs-lookup"><span data-stu-id="fd7a7-105">For more information, please see "[Access Denied," "You need permission to access this site," or "User not found in the directory" errors in SharePoint Online and OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).</span></span>
+<span data-ttu-id="433d0-105">Weitere Informationen finden Sie unter "Zugriff[verweigert", "Sie benötigen](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)berechtigung für den Zugriff auf diese Website" oder "Benutzer nicht im Verzeichnis gefunden" in SharePoint Online und OneDrive for Business .</span><span class="sxs-lookup"><span data-stu-id="433d0-105">For more information, please see "[Access Denied," "You need permission to access this site," or "User not found in the directory" errors in SharePoint Online and OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).</span></span>
