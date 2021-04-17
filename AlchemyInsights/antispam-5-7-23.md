@@ -1,8 +1,8 @@
 ---
-title: Antispam-5.7.23
+title: Antispam – 5.7.23
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3156"
 - "9001196"
-ms.openlocfilehash: ecbce4f0077dc9acab63575c19d40c0675a406ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e494e8017f24d65a94d1a7490be4d67c46a2120b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717324"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821410"
 ---
-# <a name="fix-email-delivery-issues-for-error-code-5723"></a>Beheben von Problemen mit der Zustellung von e-Mails bei Fehlercode 5.7.23
+# <a name="fix-email-delivery-issues-for-error-code-5723"></a>Beheben von Problemen mit der E-Mail-Zustellung für Fehlercode 5.7.23
 
-Überprüfen Sie den SPF-DNS-Eintrag für Ihre Domäne bei einem öffentlich verfügbaren SPF-oder DNS-Eintrags Prüfer im Internet.
+Überprüfen Sie den SPF-DNS-Eintrag für Ihre Domäne bei einer öffentlich verfügbaren SPF- oder DNS-Eintragsüberprüfung im Web.
 
-Stellen Sie sicher, dass die ausgehende Nachricht von Microsoft nicht als Spam identifiziert und über den [Pool mit hoher Risikoverteilung](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages)weitergeleitet wurde. Nachrichten im Pool mit hoher Risikoverteilung werden keine SPF-Prüfungen übergeben und werden daher von der Ziel-e-Mail-Organisation nicht akzeptiert.
+Stellen Sie sicher, dass die ausgehende Nachricht von Microsoft nicht als Spam identifiziert und über den Pool für die Zustellung mit hohem [Risiko geroutet wurde.](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages) Nachrichten im Pool für die Zustellung mit hohem Risiko bestehen keine SPF-Prüfungen und werden daher von der Ziel-E-Mail-Organisation nicht akzeptiert.
 
-Wenn das Problem weiterhin besteht, müssen Sie sich möglicherweise an den Administrator des e-Mail-Hosts wenden, an den Sie e-Mails senden möchten. Notieren Sie sich den detaillierten externen Fehler, der in der Bounce-Nachricht verfügbar ist. Der Microsoft-Support kann möglicherweise nicht weiterhelfen.
+Wenn das Problem weiterhin besteht, müssen Sie sich möglicherweise an den Administrator des E-Mail-Hosts wenden, an den Sie versuchen, E-Mails zu senden. Notieren Sie sich den detaillierten externen Fehler in der Unzustellbarkeitsnachricht. Der Microsoft-Support kann möglicherweise nicht weiter unterstützen.

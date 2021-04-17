@@ -1,8 +1,8 @@
 ---
-title: Zuweisen von Hub-Websites als Websitebesitzer
+title: Zuordnen von Hubwebsites als Websitebesitzer
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000717"
 - "2638"
-ms.openlocfilehash: 9dd2faff114be063bfac0455c7ac13202b5b20cb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e08bed31171bfcb4420b86c225542515d5e1e819
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715632"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821005"
 ---
-# <a name="associate-hub-sites-as-site-owner"></a>Zuweisen von Hub-Websites als Websitebesitzer
+# <a name="associate-hub-sites-as-site-owner"></a>Zuordnen von Hubwebsites als Websitebesitzer
 
-Das [Nachrichten Center 186626](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter?id=MC186626) wurde freigegeben, wie die Teilnahme an einem SharePoint-Hub nun von Websitebesitzern ausgeführt werden kann. Wenn Ihre Organisation bestimmte Personen verwalten möchte, die einem Hub zugeordnet werden können, führen Sie die folgenden Schritte aus: 
+[Message Center 186626](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter?id=MC186626) hat geteilt, wie der Beitritt zu einem SharePoint-Hub jetzt von Websitebesitzern ausgeführt werden kann. Wenn Ihre Organisation bestimmte Personen verwalten möchte, die einem Hub zugeordnet werden können, führen Sie die folgenden Schritte aus: 
 
-1. Melden Sie sich bei ( [https://portal.office.com](https://portal.office.com) ) mit Administratorrechten an.
-2. Wählen Sie das **App** -Startfeld (Symbol mit neun Quadraten) oben links auf dem Bildschirm aus, und wählen Sie dann **Administrator**aus.
-3. Wählen Sie **Admin Center** aus dem Menü auf der linken Seite des Bildschirms aus, und wählen Sie dann **SharePoint**aus.
-4. Wählen Sie im blauen Banner oben auf dem Bildschirm die Option **APP jetzt starten** aus, um das neue SharePoint Admin Center anzuzeigen.
-5. Wählen Sie in der Anzeige auf der linken Seite des Bildschirms **Sites** aus dem Menü aus, und wählen Sie dann **aktive Standorte**aus.
-6. Überprüfen Sie den Hub-Standort, an dem Sie die Einstellungen ändern möchten.
-7. Wählen Sie **Hub** im Menü oben auf dem Bildschirm aus, und wählen Sie **Hub-Website-Einstellungen bearbeiten**aus.
-8. Geben Sie die Benutzer oder Sicherheitsgruppen an, mit denen Sie in dem Element "Benutzer, die die Website mit diesem Hub verknüpfen können" arbeiten möchten.
-9. Klicken Sie unten auf dem Bildschirm auf **Speichern** .
+1. Melden Sie sich mit [https://portal.office.com](https://portal.office.com) Administratorrechten bei ( ) an.
+2. Wählen Sie **das App-Startfeld** (Symbol mit neun Quadraten) oben links auf dem Bildschirm aus, und wählen Sie dann **Administrator aus.**
+3. Wählen **Sie admin Center** im Menü auf der linken Seite des Bildschirms aus, und wählen Sie dann **SharePoint aus.**
+4. Wählen Sie im blauen Banner am oberen Rand des Bildschirms App jetzt starten aus, **um** das neue Sharepoint Admin Center anzuzeigen.
+5. Wählen Sie in der Anzeige auf der linken Seite des Bildschirms im Menü **Websites** aus, und wählen Sie dann **Aktive Websites aus.**
+6. Überprüfen Sie die Hubwebsite, an der Sie die Einstellungen ändern möchten.
+7. Wählen **Sie hub** im Menü oben auf dem Bildschirm aus, und wählen Sie **Hubwebsiteeinstellungen bearbeiten aus.**
+8. Geben Sie die Benutzer oder Sicherheitsgruppen an, mit denen Sie arbeiten möchten, im Element "Benutzer, die die Website diesem Hub zuordnen können".
+9. Wählen **Sie unten** auf dem Bildschirm speichern aus.
 
-Weitere Informationen finden Sie unter [Zuordnen einer SharePoint-Website zu einem Hub-Standort](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05). 
+Weitere Informationen finden Sie unter [Zuordnen einer SharePoint-Website zu einer Hubwebsite](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05). 

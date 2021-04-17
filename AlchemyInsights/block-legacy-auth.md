@@ -2,7 +2,7 @@
 title: BlockLegacyAuth
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3154"
 - "9001194"
-ms.openlocfilehash: baf3ee808cce1e4da362dd0841c0138d7d9268d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 06ded694893c020f862864215700853b19d35f08
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685597"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820177"
 ---
-# <a name="blocking-legacy-authentication"></a>Blockieren der Legacy Authentifizierung
+# <a name="blocking-legacy-authentication"></a>Blockieren der Legacyauthentifizierung
 
 Der Begriff Legacy-Authentifizierung bezeichnet eine Authentifizierungsanforderung folgender Clients:
 
-- Ältere Office-Clients, die keine moderne Authentifizierung verwenden (beispielsweise Office 2010-Client).
+- Ältere Office-Clients, die keine moderne Authentifizierung verwenden (z. B. Office 2010-Client).
 
 - Alle Clients, die Legacy-Mail-Protokolle wie IMAP/SMTP/POP3 verwenden.
 
-Weitere Informationen zum Blockieren der Legacy Authentifizierung und zur Aktivierung moderner Authentifizierung finden Sie unter [Blockieren der Legacy](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication)Authentifizierung.
+Weitere Informationen zum Blockieren der Legacyauthentifizierung und zum Aktivieren der modernen Authentifizierung finden Sie unter [Blocking legacy authentication](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication).
 
-Sicherheitsstandards in Azure Active Directory (Azure AD) erleichtern die Sicherheit und schützen Ihre Organisation. Sicherheitsstandards enthalten vorkonfigurierte Sicherheitseinstellungen für häufige Angriffe.
-Weitere Informationen zu Sicherheitsstandards finden Sie unter [Was sind Sicherheitsstandards?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults). 
+Sicherheitseinstellungen in Azure Active Directory (Azure AD) erleichtern die Sicherheit und schützen Ihre Organisation. Sicherheitseinstellungen enthalten vorkonfigurierte Sicherheitseinstellungen für häufige Angriffe.
+Weitere Informationen zu Sicherheitseinstellungen finden Sie unter [Was sind Sicherheitseinstellungen?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults). 
 
-**Hinweis**: Wenn Ihr Mandant am oder nach dem 22. Oktober 2019 erstellt wurde, ist es möglich, dass Sie das neue Standardverhalten durchlaufen und bereits Sicherheitsstandards in Ihrem Mandanten aktiviert haben.  In dem Bemühen, alle unsere Benutzer zu schützen, werden Sicherheitsstandards für alle neuen erstellten Mandanten eingeführt.
+**Hinweis**: Wenn Ihr Mandant am oder nach dem 22. Oktober 2019 erstellt wurde, ist es möglich, dass Sie das neue standardmäßige Sicherheitsverhalten erleben und bereits Sicherheitseinstellungen in Ihrem Mandanten aktiviert haben.  Um alle Benutzer zu schützen, werden Sicherheitseinstellungen für alle neuen Mandanten erstellt.

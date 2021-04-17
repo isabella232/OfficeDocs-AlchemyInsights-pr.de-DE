@@ -1,8 +1,8 @@
 ---
-title: Bitten Sie Ihren Administrator, Microsoft Teams zu aktivieren.
+title: Bitten Sie Ihren Administrator, Microsoft Teams zu aktivieren
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 62ec9b385b3827395a757150a75ac6bb4237941b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d401a0f29bdd808622cf8348ef1ae3770bb54c3a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716244"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821185"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Sie vermissen es! Bitten Sie Ihren Administrator, Microsoft Teams zu aktivieren.
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>You're missing out! Bitten Sie Ihren Administrator, Microsoft Teams zu aktivieren
 
-Wenn Sie einen EDU-Mandanten haben, müssen Sie Microsoft Teams manuell aktivieren. Wechseln Sie dazu zum Microsoft 365 Admin Center > **Dienste und Add-Ins > Microsoft Teams**. Wenn Sie das neue Teamadministrator Center verwenden, müssen Sie **das neue Admin Center**   zum Suchen von **Diensten und Add-ins**deaktivieren. 
+Wenn Sie einen EDU-Mandanten haben, müssen Sie Microsoft Teams manuell aktivieren. Wechseln Sie dazu zum Microsoft 365 Admin Center > **Services and add-ins > Microsoft Teams**. Wenn Sie das neue Teams Admin Center verwenden, müssen Sie Das neue **Admin Center** testen deaktivieren, um Dienste und    **Add-Ins zu finden.** 
 
-**Wichtig**: möglicherweise müssen Sie bis zu 24 Stunden warten, bis die Änderungen wirksam werden.
+**WICHTIG:** Sie müssen möglicherweise bis zu 24 Stunden warten, bis Ihre Änderungen wirksam werden.
