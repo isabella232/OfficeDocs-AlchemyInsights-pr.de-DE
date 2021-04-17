@@ -1,8 +1,8 @@
 ---
-title: Etwas stimmt nicht mit einer ihrer Datendateien, und Outlook muss geschlossen werden.
+title: Bei einer Ihrer Datendateien stimmt etwas nicht, und Outlook muss geschlossen werden.
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003094"
 - "5849"
-ms.openlocfilehash: b3e5d4b8c4cc88b4fdd166eed5da831c0bef0a46
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 84e81baac7bbf255c6a5af5c32e3418164c49bae
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677025"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836638"
 ---
-# <a name="something-is-wrong-with-one-of-your-data-files-and-outlook-needs-to-close"></a>Etwas stimmt nicht mit einer ihrer Datendateien, und Outlook muss geschlossen werden.
+# <a name="something-is-wrong-with-one-of-your-data-files-and-outlook-needs-to-close"></a>Bei einer Ihrer Datendateien stimmt etwas nicht, und Outlook muss geschlossen werden.
 
-Wir sind uns bewusst und arbeiten daran, ein Problem zu beheben, das Ihnen beim Öffnen von Outlook möglicherweise einen Fehler gibt.
+Wir sind uns bewusst und arbeiten daran, ein Problem zu beheben, das ihnen diesen Fehler beim Öffnen von Outlook geben kann.
 
-Informationen zum aktuellen Status für Problemumgehungen finden Sie unter [Fix und Workarounds für aktuelle Probleme in Outlook für PC](https://support.microsoft.com/office/ecf61305-f84f-4e13-bb73-95a214ac1230), insbesondere in diesem Artikel: [etwas stimmt mit einer ihrer Datendateien nicht, und Outlook muss geschlossen](https://support.microsoft.com/office/a3b59934-2446-4f2a-bd25-58f88188b9b2) werden.
+Informationen zum neuesten Status für Problemumgehungen finden Sie unter Beheben und Problemumgehungen für aktuelle Probleme  [in Outlook für PC](https://support.microsoft.com/office/ecf61305-f84f-4e13-bb73-95a214ac1230), insbesondere in diesem Artikel: Etwas stimmt nicht mit einer Ihrer Datendateien, und Outlook muss geschlossen [werden.](https://support.microsoft.com/office/a3b59934-2446-4f2a-bd25-58f88188b9b2)
