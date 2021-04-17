@@ -1,8 +1,8 @@
 ---
-title: Herstellen einer Verbindung mit dem MSCommerce-Modul
+title: Herstellen einer Verbindung mit dem MS Commerce-Modul
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3529"
-ms.openlocfilehash: 15dc7038426a8d436c236a91aa0f3462f6a3e366
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e6819f6d6ff37baab4bdd49cb5a87c32490f841
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702614"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829735"
 ---
-# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>Für MSCommerce ist ein Firmen-oder Abrechnungs Administrator Konto erforderlich.
+# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>MS Commerce erfordert ein Konto des Unternehmens- oder Abrechnungsadministrators
 
-Das MSCommerce-Modul erfordert ein Konto mit Berechtigungen für den Firmen-oder Abrechnungs Administrator. Wenn Sie den folgenden Fehler erhalten, müssen Sie sich erneut mit einem anderen Konto verbinden.
+Das MODUL MS Commerce erfordert ein Konto mit Berechtigungen des Unternehmens- oder Abrechnungsadministrators. Wenn Sie den folgenden Fehler erhalten, müssen Sie eine Verbindung mit einem anderen Konto herstellen.
 
-*ErrorMessage-der Remoteserver hat einen Fehler zurückgegeben: (403) unzulässig. ErrorDetails-unter C:\Program Files\WindowsPowerShell\Modules\MSCommerce\1.2\MSCommerce.psm1:216 Char: 5*<br>
-*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError-errorcontext $ _-CustomErrorMessage "Fehler beim wiederholen...*<br>
+*ErrorMessage – Der Remoteserver hat einen Fehler zurückgegeben: (403) Verboten. ErrorDetails - unter C:\Program Files\WindowsPowerShell\Modules\MS Commerce\1.2\MS Commerce.psm1:216 char:5*<br>
+*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError -ErrorContext $_ -CustomErrorMessage "Fehler beim Retri...*<br>
 \+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ CategoryInfo: NotSpecified: (:) [Write-error], WriteErrorException*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ FullyQualifiedErrorId: Microsoft. PowerShell. Commands. WriteErrorException, HandleError*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ CategoryInfo : NotSpecified: (:) [Write-Error], WriteErrorException*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ FullyQualifiedErrorId : Microsoft.PowerShell.Commands.WriteErrorException,HandleError*
 
-Wenn Ihr Konto nicht über Firmen-oder Abrechnungs Administrator Rechte verfügt, wenden Sie sich an Ihren IT-Administrator.
+Wenn Ihr Konto nicht über Die Rechte des Unternehmens- oder Abrechnungsadministrators verfügt, wenden Sie sich an Ihren IT-Administrator.

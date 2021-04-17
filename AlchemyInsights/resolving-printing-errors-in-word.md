@@ -1,8 +1,8 @@
 ---
-title: Auflösen von Druckfehlern in Word
+title: Beheben von Druckfehlern in Word
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3040"
 - "9000585"
-ms.openlocfilehash: de1f6e6f78c0100b994db3fdb759054cdb7f8bf1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8adda2a4a2c9a41d67747a68eb9eeafb1bf2ae34
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720861"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828691"
 ---
-# <a name="resolving-print-failures-in-word"></a>Auflösen von Druckfehlern in Word
+# <a name="resolving-print-failures-in-word"></a>Beheben von Druckfehlern in Word
 
-Wenn Sie Fehler beim Drucken in Word erhalten, versuchen Sie, aus einem neuen Testdokument zu drucken, um festzustellen, ob Ihr Problem mit einem bestimmten Dokument zusammenhängt.
+Wenn Beim Drucken in Word Fehler angezeigt werden, versuchen Sie, aus einem neuen Testdokument zu drucken, um zu ermitteln, ob ihr Problem mit einem bestimmten Dokument in Zusammenhang steht.
 
-- Wenn Sie aus dem Testdokument drucken können, aber Ihr Originaldokument dennoch nicht drucken können, ist das Originaldokument möglicherweise beschädigt. Befolgen Sie die Anweisungen unter [How to Troubleshoot Damaged Documents in Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows).
-- Wenn Sie immer noch nicht drucken können, befolgen Sie die Anweisungen unter [Problembehandlung bei Druckfehlern in Word](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) , um das Problem zu diagnostizieren und zu beheben.
+- Wenn Sie aus dem Testdokument drucken können, das originale Dokument jedoch weiterhin nicht drucken kann, ist Das originale Dokument möglicherweise beschädigt. Befolgen Sie die Anweisungen unter [How to troubleshoot damaged documents in Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows).
+- Wenn Sie weiterhin nicht drucken können, befolgen Sie die Anweisungen unter Problembehandlung von Druckfehlern [in Word,](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) um das Problem zu diagnostizieren und zu beheben.
