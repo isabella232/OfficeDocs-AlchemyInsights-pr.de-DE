@@ -1,8 +1,8 @@
 ---
-title: Veraltete Extraktions Bezeichnung für Firmennamen
+title: Veraltete Extraktion von Firmennamen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2703"
 - "9000759"
-ms.openlocfilehash: 8487ba5c0e3c00df9e25101c8086fbf34994480f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0e646694424e7526e8d761092a39f94356017d7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681007"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817387"
 ---
-# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>Änderungen an der Extraktion von Firmennamen in SharePoint Online
+# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>Änderungen an der Unternehmensnamenextraktion in SharePoint Online
 
-Ab dem 15. November 2019 werden wir die [Extraktion von Firmennamen aus SharePoint Online entfernen](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online). Durch die Extraktion von Firmennamen in SharePoint kann das Suchsystem Unternehmensnamen aus Inhalten unter bestimmten Bedingungen mithilfe eines vorab aufgefüllten Wörterbuchs oder mithilfe der Listen firmeneinschlüsse oder firmenausschlüsse extrahieren. Während die Extraktion von Firmennamen zu einer anvertrauten Lösung geworden ist, um einen oder mehrere Firmennamen von Inhalten in SharePoint Online abzuleiten, sind sowohl das Wörterbuch als auch sein zugrunde liegender Featuresatz obsolet geworden.
+Ab dem 15. November 2019 entfernen wir die Firmennamenextraktion [aus SharePoint Online](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online). Die Extraktion von Firmennamen in SharePoint ermöglicht es dem Suchsystem, Firmennamen aus Inhalten unter bestimmten Bedingungen mithilfe eines vordefinierten Wörterbuchs oder mithilfe der Unternehmenseinschlüsse oder Unternehmensausschlüsse zu extrahieren. Während die Extraktion von Unternehmensnamen zu einer auf Denklösungen angewiesenen Lösung geworden ist, um einen oder mehrere Firmennamen von Inhalten in SharePoint Online zu leiten, sind sowohl das Wörterbuch als auch der zugrunde liegende Featuresatz veraltet.
 
-- [Woher weiß ich, ob die Extraktion von Firmennamen für eine Eigenschaft aktiviert ist?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
+- [Wo kann ich wissen, ob die Extraktion von Firmennamen für eine Eigenschaft aktiviert ist?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
 
-- [Was geschieht, wenn die Unternehmens-namens Extraktion veraltet ist?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#what-happens-when-company-name-extraction-is-deprecated) 
+- [Was geschieht, wenn die Extraktion von Firmennamen veraltet ist?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#what-happens-when-company-name-extraction-is-deprecated) 
 
 - [Gibt es Alternativen zur Extraktion von Firmennamen?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#are-there-alternatives-to-company-name-extraction) 
