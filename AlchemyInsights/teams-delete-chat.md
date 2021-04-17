@@ -2,7 +2,7 @@
 title: 'Teams: Chat löschen'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000743"
 - "2680"
-ms.openlocfilehash: d22877d1777df432a1c9b5420c4fce73d291c994
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f9ff0fcc734361d733deb37ca0db55689b2ac85c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736791"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835090"
 ---
 # <a name="delete-a-chat-in-microsoft-teams"></a>Löschen eines Chats in Microsoft Teams
 
-Wenn Sie mehr darüber erfahren möchten, wie einzelne Benutzer Nachrichten bearbeiten oder löschen können, zeigen Sie [Bearbeiten oder Löschen einer gesendeten Nachricht in Microsoft Teams](https://support.office.com/article/5f1fe604-a900-4a07-b8b7-8cf70ed6b263)an. 
+Weitere Informationen dazu, wie einzelne Benutzer Nachrichten bearbeiten oder löschen können, finden Sie unter Bearbeiten oder Löschen einer [gesendeten Nachricht in Teams.](https://support.office.com/article/5f1fe604-a900-4a07-b8b7-8cf70ed6b263) 
 
-Zu den Löschoptionen zählen folgende:
+Zu den Löschoptionen gehören die folgenden:
 
-- Benutzer können Ihre eigenen Nachrichten an einer beliebigen Stelle in Microsoft Teams löschen.
-- Team Besitzer können wählen, ob Benutzer in Ihrem Mandanten bearbeiten oder löschen oder in öffentlichen Kanälen gepostete Nachrichten löschen können.
-- Benutzer können Ihre privaten Chat-Threads ausblenden oder stumm schalten (Threads, die angezeigt werden, wenn Sie auf das Symbol "Chat" klicken).
+- Benutzer können ihre eigenen Nachrichten an einer beliebigen Stelle in Teams löschen.
+- Teambesitzer können auswählen, ob Benutzer in ihrem Mandanten bearbeiten oder löschen oder nachrichten, die in öffentlichen Kanälen gepostet werden, löschen können.
+- Benutzer können ihre privaten Chatthreads ausblenden oder stummschalten (Threads, die angezeigt werden, wenn Sie auf das Chatsymbol klicken).
 
-**Hinweis:** Die Möglichkeit, private Chat-Threads zu löschen, wird noch überprüft und kann in [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/33535006-delete-private-chat-threads)nachverfolgt werden. 
+**Hinweis:** Die Möglichkeit, private Chatthreads zu löschen, wird noch überprüft und kann in [UserVoice nachverfolgt werden.](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/33535006-delete-private-chat-threads) 

@@ -1,8 +1,8 @@
 ---
-title: Einrichten von PSTN-Einwahl Audiokonferenzen in Skype for Business Online
+title: Einrichten von PSTN-Einwahlkonferenzen in Skype for Business Online
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,21 +13,21 @@ ms.custom:
 - "9001521"
 - "3577"
 - "3579"
-ms.openlocfilehash: 809627422cd245a6b5962762ced5b524dd0f3730
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9e401cb59d4536fb8d2def4e61017f13fc59e2c3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739536"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835486"
 ---
-# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Einrichten von PSTN-Einwahl Audiokonferenzen in Skype for Business Online
+# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Einrichten von PSTN-Einwahlkonferenzen in Skype for Business Online
 
-Wenn Sie Audiokonferenzen für Skype for Business Online einrichten möchten, müssen Sie einige Dinge tun. 
+Wenn Sie Audiokonferenzen für Skype for Business Online einrichten möchten, müssen Sie einige Schritte unternehmen. 
 
-- Finden Sie heraus, ob Audiokonferenzen in Ihrem Land/Ihrer Region verfügbar sind.
+- Erfahren Sie, ob Audiokonferenzen in Ihrem Land/Ihrer Region verfügbar sind.
 
-- Abrufen und Zuweisen von Lizenzen zu Ihren Benutzern.
+- Sie können Lizenzen für Ihre Benutzer erhalten und zuweisen.
 
-- Abrufen und Zuweisen von Dienstnummern.
+- Dienstnummern erhalten und zuweisen.
 
-- Füllen Sie die Prüfliste unter [Einrichten von Audiokonferenzen für Skype for Business](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing)aus.
+- Füllen Sie die Prüfliste unter [Einrichten von Audiokonferenzen für Skype for Business aus.](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing)

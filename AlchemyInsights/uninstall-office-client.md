@@ -1,8 +1,8 @@
 ---
-title: Deinstallieren von Office-Client
+title: Deinstallieren des Office-Clients
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f34326-94dd-44e7-867f-c6cac0b4fa75
-ms.openlocfilehash: ad820de8a44921bb540108054aa29401b618a460
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ea9138df7dcd9b98cc41914f3070ea40989ad682
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658320"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834550"
 ---
-# <a name="uninstall-office-client"></a>Deinstallieren von Office-Client
+# <a name="uninstall-office-client"></a>Deinstallieren des Office-Clients
 
-Sie können die unten aufgeführten Links verwenden, um Ihre Version von Office für Ihren Computer zu deinstallieren.
+Sie können die folgenden Links verwenden, um Ihre Version von Office für Ihren Computer zu deinstallieren.
   
 > Für PC: [Deinstallieren von Office für PC](https://support.office.com/article/Uninstall-Office-from-a-PC-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx)
     

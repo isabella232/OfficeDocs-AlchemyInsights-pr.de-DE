@@ -1,8 +1,8 @@
 ---
-title: Word-Konvertierung in XPS oder PDF
+title: Word – Konvertieren in XPS oder PDF
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000586"
 - "2687"
-ms.openlocfilehash: 252194c9c193f2e19b0727435b7ff8e294fa6545
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1fe4b99b480de199e531cec22015a5fe00453d82
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794838"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834190"
 ---
 # <a name="resolve-issues-converting-a-word-document-to-xps-or-pdf"></a>Beheben von Problemen beim Konvertieren eines Word-Dokuments in XPS oder PDF
 
-Hier finden Sie einige Lösungen für häufige Probleme. 
+Hier sind einige Lösungen für häufige Probleme. 
 
 **So exportieren oder speichern Sie ein Word-Dokument als PDF oder XPS:**
 
-1. Wählen Sie in Ihrem Word-Dokument **Datei**  >  **exportieren**  >  **PDF/XPS-Dokument**  >  **erstellen PDF/XPS**erstellen aus.
+1. Wählen Sie in Ihrem Word-Dokument **Datei**  >  **exportieren**  >  **PDF/XPS Dokument** erstellen  >  **PDF/XPS erstellen aus.**
 
-2. Navigieren Sie im Fenster **als PDF-oder XPS** -Datei zum Speicherort der Datei, ändern Sie den Dateinamen, wenn Sie möchten, und wählen Sie dann **veröffentlichen**aus.
+2. Navigieren Sie im Fenster Als PDF oder **XPS** veröffentlichen zu dem Speicherort ihrer Datei, ändern Sie den Dateinamen, wenn Sie möchten, und wählen Sie **dann Veröffentlichen aus.**
 
 **So verbessern Sie die Bildqualität in einer von Word generierten PDF-Datei:**
 
-1. Wählen Sie in Ihrem Word-Dokument **Datei**  >  **exportieren**  >  **PDF/XPS-Dokument**  >  **erstellen PDF/XPS**erstellen aus.
+1. Wählen Sie in Ihrem Word-Dokument **Datei**  >  **exportieren**  >  **PDF/XPS Dokument** erstellen  >  **PDF/XPS erstellen aus.**
 
-2. Wählen Sie im Fenster **als PDF-oder XPS** -Datei veröffentlichen **Optionen**  >  **für die Bildqualität optimieren**aus. Legen Sie alle anderen gewünschten Optionen fest, und wählen Sie **OK**aus. 
+2. Wählen Sie **im Fenster Als PDF oder XPS** veröffentlichen die Option **Optionen** optimieren für die  >  **Bildqualität aus.** Legen Sie alle anderen optionen, die Sie möchten, und wählen Sie **OK aus.** 
 
-**So fügen Sie einer von Word generierten PDF-Datei barrierefreie Tags hinzu:**
+**So fügen Sie einer von Word generierten PDF-Datei Barrierefreiheitstags hinzu:**
  
-1. Wählen Sie in Ihrem Word-Dokument **Datei**  >  **exportieren**  >  **PDF/XPS-Dokument**  >  **erstellen PDF/XPS**erstellen aus.
+1. Wählen Sie in Ihrem Word-Dokument **Datei**  >  **exportieren**  >  **PDF/XPS Dokument** erstellen  >  **PDF/XPS erstellen aus.**
 
-2. Klicken Sie im Fenster **als PDF-oder XPS-Datei veröffentlichen** auf **Optionen**  >  **Dokumentstruktur Tags für Barrierefreiheit**. Legen Sie alle anderen gewünschten Optionen fest, und wählen Sie **OK**aus.
+2. Wählen Sie **im Fenster Als PDF oder XPS** veröffentlichen die Option **Optionen**  >  **Dokumentstrukturtags für Barrierefreiheit aus.** Legen Sie alle anderen optionen, die Sie möchten, und wählen Sie **OK aus.**
 
-Weitere Informationen zu Optionen zum Konvertieren von Office-Dateien in XPS oder PDF finden Sie unter [Speichern oder konvertieren in PDF oder XPS](https://support.office.com/article/d85416c5-7d77-4fd6-a216-6f4bf7c7c110).
+Weitere Informationen zu Optionen zum Konvertieren von Office-Dateien in XPS oder PDF finden Sie unter Speichern oder Konvertieren [in PDF oder XPS](https://support.office.com/article/d85416c5-7d77-4fd6-a216-6f4bf7c7c110).

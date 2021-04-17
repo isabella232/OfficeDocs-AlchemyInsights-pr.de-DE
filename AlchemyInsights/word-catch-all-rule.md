@@ -1,8 +1,8 @@
 ---
-title: Catch-All-Regel für Word
+title: Word-Catch-All-Regel
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3481"
 - "9001466"
-ms.openlocfilehash: 9cb582ab66e6236effbec968a8e7dae54270cfe3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 538bf292b5baa51a6a24ae4c2d060848cea97695
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698651"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834226"
 ---
-# <a name="common-issues-and-resolutions-with-word"></a>Häufige Probleme und Auflösungen mit Word
+# <a name="common-issues-and-resolutions-with-word"></a>Häufige Probleme und Lösungen mit Word
 
-Hier sind einige häufig angeforderte Artikel, die bei der Lösung häufig auftretender Probleme in Word hilfreich sein können:
+Im Folgenden finden Sie einige häufig angeforderte Artikel, mit denen häufige Probleme in Word behoben werden können:
 
 - [Beheben von Fehlern beim Öffnen oder Speichern von Word-Dateien](https://docs.microsoft.com/alchemyinsights/errors-opening-or-saving-files)
 - [Warum wurde meine Datei schreibgeschützt geöffnet?](https://support.office.com/article/why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15)

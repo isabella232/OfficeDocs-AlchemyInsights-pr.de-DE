@@ -1,8 +1,8 @@
 ---
-title: Problembehandlung beim Setup für Stream – verwalten der Datenstrom Lizenzierung
+title: Problembehandlung beim Setup für Stream – Verwalten der Streamlizenzierung
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1339"
 - "2800001"
-ms.openlocfilehash: 43d0a04194214a9630958ad80707187d9f8f3270
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc09331d58503f5f44d8b942d81a00235ddf1585
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749657"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834766"
 ---
 # <a name="managing-microsoft-stream-licenses"></a>Verwalten von Microsoft Stream-Lizenzen
 
-**Wichtig:** Sie müssen in der Mandanten-Administratorrolle sein, um in diesem Thema beschriebene Vorgänge ausführen zu können.
+**Wichtig:** Sie müssen in der Rolle "Mandantenadministrator" sein, um die in diesem Thema beschriebenen Vorgänge ausführen zu können.
 
-Sie müssen entweder ein globaler Administrator oder ein Administrator der Benutzerverwaltung sein. Weitere Informationen finden Sie unter [Informationen zu Administratorrollen](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).
+Sie müssen entweder ein globaler Administrator oder ein Benutzerverwaltungsadministrator sein. Weitere Informationen finden Sie unter [Informationen zu Administratorrollen](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).
 
-Sie können [Benutzerkonten mit Office 365 PowerShell Lizenzen](https://go.microsoft.com/fwlink/p/?linkid=850410)zuweisen.
+Mit [Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410)können Sie Benutzerkonten Lizenzen zuweisen.

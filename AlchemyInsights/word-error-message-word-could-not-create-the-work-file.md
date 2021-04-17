@@ -1,8 +1,8 @@
 ---
-title: 'Word-Fehlermeldung: Word konnte die Arbeitsdatei nicht erstellen'
+title: 'Word – Fehlermeldung: Word konnte die Arbeitsdatei nicht erstellen'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "3185"
-ms.openlocfilehash: 0a84bcc8be84f89df7f110de03f7b34b46a8b60a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4ab35941bb7e423b4ee53e31765b1d30ef0fde03
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657491"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834154"
 ---
-# <a name="resolve-the-word-could-not-create-the-work-file-error-message"></a>Beheben Sie die Fehlermeldung "Word konnte die Arbeitsdatei nicht erstellen"
+# <a name="resolve-the-word-could-not-create-the-work-file-error-message"></a>Beheben der Fehlermeldung "Word konnte die Arbeitsdatei nicht erstellen"
 
-Um diesen Fehler zu beheben, lesen Sie [die Fehlermeldung "Word konnte die Arbeitsdatei nicht erstellen" beim Speichern eines Dokuments in Microsoft Word](https://docs.microsoft.com/office/troubleshoot/word/word-could-not-create-the-work-file).
+Informationen zum Beheben dieses Fehlers finden Sie unter Fehlermeldung "Word konnte die Arbeitsdatei nicht [erstellen",](https://docs.microsoft.com/office/troubleshoot/word/word-could-not-create-the-work-file)wenn Sie ein Dokument in Microsoft Word speichern.
 
-Wenn beim Öffnen von Word-Dokumenten Probleme auftreten, gehen Sie wie folgt vor:
+Wenn Beim Öffnen von Word-Dokumenten Probleme auftreten, versuchen Sie Folgendes:
 
-- [Installieren von Office-Updates](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5) Eine Liste der neuesten Office-Updates finden Sie unter [Latest Updates](https://docs.microsoft.com/officeupdates/office-updates-msi).
-- [Problembehandlung bei beschädigten Dokumenten in Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
+- [Installieren von Office-Updates](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Eine Liste der neuesten Office-Updates finden Sie unter [Neueste Updates](https://docs.microsoft.com/officeupdates/office-updates-msi).
+- [Behandeln von Problemen mit beschädigten Dokumenten in Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
 - [Reparieren einer Office-Anwendung](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).

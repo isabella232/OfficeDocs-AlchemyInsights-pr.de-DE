@@ -2,7 +2,7 @@
 title: Einrichten eines externen Monitors
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3453"
 - "9001450"
-ms.openlocfilehash: 699219510d5c68884b4552599c95549decd435cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51d95ecdfd78fb501c23a5ad8b906eadad8b4bf2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773909"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835522"
 ---
 # <a name="set-up-one-monitor"></a>Einrichten eines Monitors
 
-**Überprüfen der Projekteinstellungen Ihres PCs**
+**Überprüfen der Projekteinstellungen ihres PCs**
 
-1. Öffnen Sie Ihre Projekteinstellungen, indem Sie die folgenden Tasten gleichzeitig drücken: Windows-Taste (Windows-Logo-Start Schaltfläche) + P.
-2. Wählen Sie nur **Duplizieren**, **erweitern**oder **zweiten Bildschirm**, je nach Ihren Einstellungen.
+1. Öffnen Sie die Projekteinstellungen, indem Sie die folgenden Tasten gleichzeitig drücken: Windows-Taste (Windows-Logo-Startschaltfläche) + P.
+2. Wählen Sie duplizieren, erweitern oder **nur zweiten Bildschirm** aus, je nach Ihren Einstellungen.
 
-**Hinweis:** Wenn Ihr PC nur über einen Anzeige-Port verfügt (wie HDMI oder VGA), benötigen Sie eine Dockingstation oder einen USB-Adapter, um mehrere Monitore einzurichten.
+**Hinweis:** Wenn Ihr PC nur über einen Anzeigeport (z. B. HDMI oder VGA) verfügt, benötigen Sie eine Dockingstation oder einen USB-Adapter, um mehrere Monitore einrichten zu können.
 
-Auch wenn Sie einen Monitor einrichten können, aber nicht mehrere, ist Ihr PC möglicherweise nicht mit mehreren Monitoren kompatibel. Weitere Informationen finden Sie in den Originaldokumenten Ihres PCs.
+Wenn Sie einen Monitor einrichten können, aber nicht mehrere, ist Ihr PC möglicherweise nicht mit mehreren Monitoren kompatibel. Weitere Informationen finden Sie in den originalen Dokumenten Ihres PCs.
