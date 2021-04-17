@@ -1,8 +1,8 @@
 ---
-title: E-Mail kann nicht von Gmail-Konten empfangen werden
+title: E-Mails von Gmail-Konten können nicht empfangen werden
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000048"
 - "3798"
-ms.openlocfilehash: ceaad0d8d09ffc5e16d7692d566627b4275638d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 70472d6a25a386eff623389d29a4463098adb45a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735450"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830392"
 ---
-# <a name="unable-to-receive-email-from-gmail-accounts"></a><span data-ttu-id="3258c-102">E-Mail kann nicht von Gmail-Konten empfangen werden</span><span class="sxs-lookup"><span data-stu-id="3258c-102">Unable to receive email from Gmail accounts</span></span>
+# <a name="unable-to-receive-email-from-gmail-accounts"></a><span data-ttu-id="892b0-102">E-Mails von Gmail-Konten können nicht empfangen werden</span><span class="sxs-lookup"><span data-stu-id="892b0-102">Unable to receive email from Gmail accounts</span></span>
 
-<span data-ttu-id="3258c-103">**Problem**</span><span class="sxs-lookup"><span data-stu-id="3258c-103">**ISSUE**</span></span>
+<span data-ttu-id="892b0-103">**PROBLEM**</span><span class="sxs-lookup"><span data-stu-id="892b0-103">**ISSUE**</span></span>
 
-<span data-ttu-id="3258c-104">Wir sind uns bewusst, dass einige Benutzer möglicherweise keine e-Mails von Gmail-Konten empfangen können.</span><span class="sxs-lookup"><span data-stu-id="3258c-104">We are aware that some users may not be able to receive email from Gmail accounts.</span></span> <span data-ttu-id="3258c-105">Wir untersuchen ein mögliches Problem.</span><span class="sxs-lookup"><span data-stu-id="3258c-105">We are investigating a possible problem.</span></span>
+<span data-ttu-id="892b0-104">Wir sind uns bewusst, dass einige Benutzer möglicherweise keine E-Mails von Gmail-Konten empfangen können.</span><span class="sxs-lookup"><span data-stu-id="892b0-104">We are aware that some users may not be able to receive email from Gmail accounts.</span></span> <span data-ttu-id="892b0-105">Wir untersuchen ein mögliches Problem.</span><span class="sxs-lookup"><span data-stu-id="892b0-105">We are investigating a possible problem.</span></span>
 
-<span data-ttu-id="3258c-106">**Problemumgehung**</span><span class="sxs-lookup"><span data-stu-id="3258c-106">**WORKAROUND**</span></span>
+<span data-ttu-id="892b0-106">**PROBLEMUMGEHUNG**</span><span class="sxs-lookup"><span data-stu-id="892b0-106">**WORKAROUND**</span></span>
 
-<span data-ttu-id="3258c-107">Stellen Sie sicher, dass Sie die Gmail-Domäne nicht versehentlich blockiert haben, wenn Sie einen Gmail-Benutzer blockieren.</span><span class="sxs-lookup"><span data-stu-id="3258c-107">Check that you have not accidentally blocked the Gmail domain when blocking one Gmail user.</span></span>
+<span data-ttu-id="892b0-107">Vergewissern Sie sich, dass Sie die Gmail-Domäne nicht versehentlich blockiert haben, wenn Sie einen Gmail-Benutzer blockieren.</span><span class="sxs-lookup"><span data-stu-id="892b0-107">Check that you have not accidentally blocked the Gmail domain when blocking one Gmail user.</span></span>
 
-1. <span data-ttu-id="3258c-108">Öffnen Sie die [Liste blockierter Absender](https://go.microsoft.com/fwlink/?linkid=2121010).</span><span class="sxs-lookup"><span data-stu-id="3258c-108">Open your [Blocked Senders list](https://go.microsoft.com/fwlink/?linkid=2121010).</span></span>
+1. <span data-ttu-id="892b0-108">Öffnen Sie [die Liste blockierter Absender](https://go.microsoft.com/fwlink/?linkid=2121010).</span><span class="sxs-lookup"><span data-stu-id="892b0-108">Open your [Blocked Senders list](https://go.microsoft.com/fwlink/?linkid=2121010).</span></span>
 
-2. <span data-ttu-id="3258c-109">Wenn sich gmail.com in der Liste befindet, klicken Sie auf das Papierkorbsymbol neben dem Eintrag, und drücken Sie **Speichern**.</span><span class="sxs-lookup"><span data-stu-id="3258c-109">If Gmail.com is in the list, click the trash icon next to the entry and press **Save**.</span></span>
+2. <span data-ttu-id="892b0-109">Wenn Gmail.com in der Liste angezeigt wird, klicken Sie auf das Papierkorbsymbol neben dem Eintrag, und drücken Sie **speichern**.</span><span class="sxs-lookup"><span data-stu-id="892b0-109">If Gmail.com is in the list, click the trash icon next to the entry and press **Save**.</span></span>

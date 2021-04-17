@@ -1,8 +1,8 @@
 ---
-title: Anmeldung bei Windows 10 ohne Verwendung eines Kennworts
+title: Anmelden bei Windows 10 ohne Kennwort
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001690"
 - "3766"
-ms.openlocfilehash: 839b945c457cb007f13605c5b903ded75dadd1d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1c03f00f7b41ea16d3106b19b998edeea6114603
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719952"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830545"
 ---
-# <a name="sign-in-to-windows-10-without-using-a-password"></a><span data-ttu-id="01b73-102">Anmeldung bei Windows 10 ohne Verwendung eines Kennworts</span><span class="sxs-lookup"><span data-stu-id="01b73-102">Sign-in to Windows 10 without using a password</span></span>
+# <a name="sign-in-to-windows-10-without-using-a-password"></a><span data-ttu-id="73c39-102">Anmelden bei Windows 10 ohne Kennwort</span><span class="sxs-lookup"><span data-stu-id="73c39-102">Sign-in to Windows 10 without using a password</span></span>
 
-<span data-ttu-id="01b73-103">Um zu vermeiden, dass beim Windows-Start ein Kennwort eingegeben werden muss, empfehlen wir Ihnen, wenn verfügbar, eine der Windows Hello Secure-Anmeldeoptionen wie PIN, Face Recognition oder Fingerabdruck.</span><span class="sxs-lookup"><span data-stu-id="01b73-103">To avoid having to type a password at Windows startup, we recommend you use one of the Windows Hello secure sign-in options, like a PIN, face recognition, or fingerprint, if available.</span></span> <span data-ttu-id="01b73-104">Wenn Sie die sichere Anmeldung wirklich deaktivieren möchten, lesen Sie die Anweisungen unter "Automatisches Anmelden bei Windows 10".</span><span class="sxs-lookup"><span data-stu-id="01b73-104">If you really want to disable secure sign-in, see the "Automatically sign in to Windows 10" instructions below.</span></span>
+<span data-ttu-id="73c39-103">Um zu vermeiden, dass Sie beim Starten von Windows ein Kennwort eingeben müssen, empfehlen wir, eine der sicheren Anmeldeoptionen für Windows Hello zu verwenden, z. B. eine PIN, Gesichtserkennung oder Fingerabdruck, sofern verfügbar.</span><span class="sxs-lookup"><span data-stu-id="73c39-103">To avoid having to type a password at Windows startup, we recommend you use one of the Windows Hello secure sign-in options, like a PIN, face recognition, or fingerprint, if available.</span></span> <span data-ttu-id="73c39-104">Wenn Sie die sichere Anmeldung wirklich deaktivieren möchten, lesen Sie die Anweisungen "Automatische Anmeldung bei Windows 10" weiter unten.</span><span class="sxs-lookup"><span data-stu-id="73c39-104">If you really want to disable secure sign-in, see the "Automatically sign in to Windows 10" instructions below.</span></span>
 
-<span data-ttu-id="01b73-105">**Sichere Windows Hello-Alternativen zum Kontokennwort**</span><span class="sxs-lookup"><span data-stu-id="01b73-105">**Secure Windows Hello alternatives to the account password**</span></span>
+<span data-ttu-id="73c39-105">**Sichern von Windows Hello-Alternativen zum Kontokennwort**</span><span class="sxs-lookup"><span data-stu-id="73c39-105">**Secure Windows Hello alternatives to the account password**</span></span>
 
-<span data-ttu-id="01b73-106">Wechseln Sie zu **Einstellungen > Konten > Anmeldeoptionen** (oder klicken Sie [hier](ms-settings:signinoptions?activationSource=GetHelp)).</span><span class="sxs-lookup"><span data-stu-id="01b73-106">Go to **Settings  > Accounts > Sign-in options** (or click [here](ms-settings:signinoptions?activationSource=GetHelp)).</span></span> <span data-ttu-id="01b73-107">Die verfügbaren Anmeldeoptionen werden aufgelistet.</span><span class="sxs-lookup"><span data-stu-id="01b73-107">Available sign-in options will be listed.</span></span> <span data-ttu-id="01b73-108">Zum Beispiel:</span><span class="sxs-lookup"><span data-stu-id="01b73-108">For example:</span></span>
+<span data-ttu-id="73c39-106">Wechseln Sie **zu Einstellungen > Konten > Anmeldeoptionen** (oder klicken Sie [hier](ms-settings:signinoptions?activationSource=GetHelp)).</span><span class="sxs-lookup"><span data-stu-id="73c39-106">Go to **Settings  > Accounts > Sign-in options** (or click [here](ms-settings:signinoptions?activationSource=GetHelp)).</span></span> <span data-ttu-id="73c39-107">Verfügbare Anmeldeoptionen werden aufgelistet.</span><span class="sxs-lookup"><span data-stu-id="73c39-107">Available sign-in options will be listed.</span></span> <span data-ttu-id="73c39-108">Zum Beispiel:</span><span class="sxs-lookup"><span data-stu-id="73c39-108">For example:</span></span>
 
 ![Anmeldeoptionen.](media/sign-in-options.png)
 
-<span data-ttu-id="01b73-110">Klicken oder tippen Sie auf eine der Optionen, um Sie zu konfigurieren.</span><span class="sxs-lookup"><span data-stu-id="01b73-110">Click or tap one of the options to configure it.</span></span> <span data-ttu-id="01b73-111">Wenn Sie das nächste Mal Windows starten oder entsperren, können Sie die neue Option anstelle eines Kennworts verwenden.</span><span class="sxs-lookup"><span data-stu-id="01b73-111">Next time you start or unlock Windows, you will be able to use the new option instead of a password.</span></span> 
+<span data-ttu-id="73c39-110">Klicken oder tippen Sie auf eine der Optionen, um sie zu konfigurieren.</span><span class="sxs-lookup"><span data-stu-id="73c39-110">Click or tap one of the options to configure it.</span></span> <span data-ttu-id="73c39-111">Wenn Sie Windows das nächste Mal starten oder entsperren, können Sie die neue Option anstelle eines Kennworts verwenden.</span><span class="sxs-lookup"><span data-stu-id="73c39-111">Next time you start or unlock Windows, you will be able to use the new option instead of a password.</span></span> 
 
-<span data-ttu-id="01b73-112">**Automatisches Anmelden bei Windows 10**</span><span class="sxs-lookup"><span data-stu-id="01b73-112">**Automatically sign-in to Windows 10**</span></span>
+<span data-ttu-id="73c39-112">**Automatische Anmeldung bei Windows 10**</span><span class="sxs-lookup"><span data-stu-id="73c39-112">**Automatically sign-in to Windows 10**</span></span>
 
-<span data-ttu-id="01b73-113">**Hinweis**: die automatische Anmeldung ist praktisch, führt jedoch ein Sicherheitsrisiko ein, insbesondere dann, wenn Ihr PC von mehreren Personen zugänglich ist.</span><span class="sxs-lookup"><span data-stu-id="01b73-113">**Note**: Automatic sign-in is convenient, but introduces a security risk, especially if your PC is accessible by multiple people.</span></span> 
+<span data-ttu-id="73c39-113">**Hinweis:** Die automatische Anmeldung ist praktisch, führt jedoch zu einem Sicherheitsrisiko, insbesondere wenn auf Ihren PC mehrere Personen zugriffen können.</span><span class="sxs-lookup"><span data-stu-id="73c39-113">**Note**: Automatic sign-in is convenient, but introduces a security risk, especially if your PC is accessible by multiple people.</span></span> 
 
-1. <span data-ttu-id="01b73-114">Klicken oder tippen Sie auf die Schaltfläche **Start** in der Taskleiste.</span><span class="sxs-lookup"><span data-stu-id="01b73-114">Click or tap the **Start** button in the Taskbar.</span></span>
+1. <span data-ttu-id="73c39-114">Klicken oder tippen Sie **auf die Schaltfläche Start** in der Taskleiste.</span><span class="sxs-lookup"><span data-stu-id="73c39-114">Click or tap the **Start** button in the Taskbar.</span></span>
 
-2. <span data-ttu-id="01b73-115">Geben Sie **netplwiz** ein, und drücken Sie die EINGABETASTE, um das Fenster Benutzerkonten zu öffnen.</span><span class="sxs-lookup"><span data-stu-id="01b73-115">Type **netplwiz** and hit the Enter key to open the User Accounts window.</span></span>
+2. <span data-ttu-id="73c39-115">Geben **Sie netplwiz ein,** und drücken Sie die EINGABETASTE, um das Fenster Benutzerkonten zu öffnen.</span><span class="sxs-lookup"><span data-stu-id="73c39-115">Type **netplwiz** and hit the Enter key to open the User Accounts window.</span></span>
 
-3. <span data-ttu-id="01b73-116">Klicken Sie unter **Benutzerkonten**auf das Konto, für das Sie sich beim Start von Windows automatisch anmelden möchten.</span><span class="sxs-lookup"><span data-stu-id="01b73-116">In **User Accounts**, click the account you want to automatically sign in to when Windows starts.</span></span>
+3. <span data-ttu-id="73c39-116">Klicken **Sie unter Benutzerkonten** auf das Konto, bei dem Sie sich automatisch anmelden möchten, wenn Windows gestartet wird.</span><span class="sxs-lookup"><span data-stu-id="73c39-116">In **User Accounts**, click the account you want to automatically sign in to when Windows starts.</span></span>
 
-4. <span data-ttu-id="01b73-117">Deaktivieren Sie das Kontrollkästchen "Benutzer müssen einen Benutzernamen und ein Kennwort für die Verwendung dieses Computers eingeben".</span><span class="sxs-lookup"><span data-stu-id="01b73-117">Uncheck the "Users must enter a user name and password to use this computer" checkbox.</span></span>
+4. <span data-ttu-id="73c39-117">Deaktivieren Sie das Kontrollkästchen "Benutzer müssen einen Benutzernamen und ein Kennwort eingeben, um diesen Computer zu verwenden".</span><span class="sxs-lookup"><span data-stu-id="73c39-117">Uncheck the "Users must enter a user name and password to use this computer" checkbox.</span></span>
 
-    ![Benutzer müssen eine Option für Benutzername und Kennwort eingeben.](media/users-must-enter-username.png)
+    ![Benutzer müssen eine Benutzername- und Kennwortoption eingeben.](media/users-must-enter-username.png)
 
-5. <span data-ttu-id="01b73-119">Klicken Sie auf **OK**.</span><span class="sxs-lookup"><span data-stu-id="01b73-119">Click **OK**.</span></span> <span data-ttu-id="01b73-120">Sie werden aufgefordert, das Kennwort für das ausgewählte Konto einzugeben und zu bestätigen.</span><span class="sxs-lookup"><span data-stu-id="01b73-120">You will be asked to enter and confirm the password for the account you selected.</span></span> <span data-ttu-id="01b73-121">Klicken Sie zum Abschließen auf **OK**.</span><span class="sxs-lookup"><span data-stu-id="01b73-121">Click **OK** to finish.</span></span> <span data-ttu-id="01b73-122">Das nächste Mal, wenn Windows 10 gestartet wird, wird es sich automatisch bei dem ausgewählten Konto anmelden.</span><span class="sxs-lookup"><span data-stu-id="01b73-122">Next time Windows 10 starts, it will automatically sign in to the account you selected.</span></span>
+5. <span data-ttu-id="73c39-119">Klicken Sie auf **OK**.</span><span class="sxs-lookup"><span data-stu-id="73c39-119">Click **OK**.</span></span> <span data-ttu-id="73c39-120">Sie werden aufgefordert, das Kennwort für das ausgewählte Konto einzugeben und zu bestätigen.</span><span class="sxs-lookup"><span data-stu-id="73c39-120">You will be asked to enter and confirm the password for the account you selected.</span></span> <span data-ttu-id="73c39-121">Klicken Sie zum Abschließen auf **OK**.</span><span class="sxs-lookup"><span data-stu-id="73c39-121">Click **OK** to finish.</span></span> <span data-ttu-id="73c39-122">Wenn Windows 10 das nächste Mal gestartet wird, wird es sich automatisch bei dem ausgewählten Konto anmelden.</span><span class="sxs-lookup"><span data-stu-id="73c39-122">Next time Windows 10 starts, it will automatically sign in to the account you selected.</span></span>
