@@ -2,7 +2,7 @@
 title: Überprüfen Ihrer Domäne mit Google (eNom)
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 34e18db8c68d1666cd72b14418a2f075cb0d8425
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 77c1163be2efc4f31262734ee3800fd99f1a7209
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816216"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824362"
 ---
 # <a name="verify-your-domain-with-google-enom"></a>Überprüfen Ihrer Domäne mit Google (eNom)
 
-Um Ihre Domäne zu überprüfen, müssen Sie Ihrer Domänenregistrierungsstelle einen TXT-Eintrag hinzufügen, um zu überprüfen, ob Sie Ihre Domäne besitzen. 
+Um Ihre Domäne zu überprüfen, müssen Sie Ihrer Domänenregistrierungsstelle einen TXT-Eintrag hinzufügen, um zu überprüfen, ob Sie derEn Domäne besitzen. 
 
-Führen Sie zuerst den [Assistenten zum Hinzufügen von Domänen](https://admin.microsoft.com/Adminportal#/Domains) aus, indem Sie **Einstellungs** \> **Domänen**auswählen und dann **Domäne hinzufügen**.
+Folgen Sie zunächst dem [Assistenten Zum Hinzufügen einer Domäne,](https://admin.microsoft.com/Adminportal#/Domains) indem Sie **Einstellungen** \> **Domänen** auswählen und **dann Domäne hinzufügen.**
   
-Schritt-für-Schritt-Anleitungen finden Sie unter [Erstellen von DNS-Einträgen, wenn Ihre Domäne von Google verwaltet wird (eNom)](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-for-domain-managed-by-google-enom) .
+Schrittweise Anweisungen finden Sie unter Erstellen von DNS-Einträgen, wenn Ihre Domäne von [Google (eNom)](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-for-domain-managed-by-google-enom) verwaltet wird.

@@ -1,8 +1,8 @@
 ---
-title: Verwalten eines synchronisierten Benutzers
+title: Verwalten des synchronisierten Benutzers
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: 7bf7d3f00308ff6bc973cd52e09ca51c5fd0f45b
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 0dc2ecfa0bb5703c619dc1b2d6b4d517f999da0d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451399"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823966"
 ---
-# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>Primäre e-Mail-Adresse kann nicht festgelegt, Benutzerattribute geändert oder ein synchronisierter Benutzer entfernt/gelöscht werden
+# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>Primäre E-Mail-Adresse kann nicht festgelegt, Benutzerattribute geändert oder ein synchronisierter Benutzer entfernt/gelöscht werden.
 
-Wenn die Verzeichnissynchronisierung für Ihre Umgebung aktiviert ist, können einige Benutzer-oder Objektattribute nicht mithilfe des Microsoft 365 Admin Center geändert werden.
+Wenn die Verzeichnissynchronisierung für Ihre Umgebung aktiviert ist, können einige Benutzer- oder Objektattribute nicht mithilfe des Microsoft 365 Admin Center geändert werden.
 
-Verwenden Sie zum vollständigen verwalten synchronisierter Benutzer und aller Attribute Ihre lokale Active Directory-Benutzer-und Gruppen Verwaltungskonsole (AdsiEdit. msc).  
+Verwenden Sie ihre lokale Active Directory-Benutzer- und Gruppenverwaltungskonsole (adsiedit.msc), um synchronisierte Benutzer und alle ihre Attribute vollständig zu verwalten.  
 
-Alternativ können Sie einzelne Benutzer oder Attribute für synchronisierte Benutzer mithilfe von PowerShell ändern, wie in den folgenden allgemeinen Beispielen gezeigt:
+Alternativ können Sie einzelne Benutzer oder Attribute für synchronisierte Benutzer mithilfe von powershell ändern, wie in den folgenden gängigen Beispielen gezeigt:
 
 `Set-MsolUser -UserPrincipalName user@yourdomain.onmicrosoft.com -AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com`
 

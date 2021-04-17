@@ -1,8 +1,8 @@
 ---
-title: Hängen im Postausgang aufgrund großer Anlagen
+title: Aufgrund großer Anlagen im Posteingang hängen geblieben
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,13 +14,13 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 2185c1439d84a3beea00fe6849c1dae456131b96
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: f2342e99544f475b24181e0571ccd0a7c6fdc8b0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451831"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825010"
 ---
-# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>Beheben von Nachrichten, die im Postausgang mit SaRA hängen bleiben
+# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>Beheben von Nachrichten, die im Posteingang mit SaRA hängen bleiben
 
-Es wird empfohlen, dass Sie zunächst das Szenario ["Ich habe Probleme beim Senden, empfangen oder suchen von e-Mail-Nachrichten"](https://aka.ms/SaRA-OutlookSendReceive) auf dem Computer mit dem [Microsoft Support and Recovery Assistant (SaRa)](https://diagnostics.office.com/#/) -Tool starten.
+Es wird empfohlen, zunächst das Szenario "Ich habe Probleme beim [Senden,](https://aka.ms/SaRA-OutlookSendReceive) Empfangen oder Suchen von E-Mail-Nachrichten" auf dem ausgeführten Computer aus dem [Microsoft Support and Recovery Assistant (SaRa)-Tool](https://diagnostics.office.com/#/) ausführen.

@@ -2,7 +2,7 @@
 title: Überprüfen Ihrer Domäne mit GoDaddy
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 35ba58e3a28d57d490aee8eb91a8e77f20b14da4
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 248890e78f432015dbaa6eae712f42c96481afaa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816180"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824326"
 ---
 # <a name="verify-your-domain-with-godaddy"></a>Überprüfen Ihrer Domäne mit GoDaddy
 
-Um Ihre Domäne zu überprüfen, müssen Sie Ihrer Domänenregistrierungsstelle einen TXT-Eintrag hinzufügen, um zu überprüfen, ob Sie Ihre Domäne besitzen. 
+Um Ihre Domäne zu überprüfen, müssen Sie Ihrer Domänenregistrierungsstelle einen TXT-Eintrag hinzufügen, um zu überprüfen, ob Sie derEn Domäne besitzen. 
 
-Führen Sie zuerst den [Assistenten zum Hinzufügen von Domänen](https://admin.microsoft.com/Adminportal#/Domains) aus, indem Sie **Einstellungs** \> **Domänen**auswählen und dann **Domäne hinzufügen**.
+Folgen Sie zunächst dem [Assistenten Zum Hinzufügen einer Domäne,](https://admin.microsoft.com/Adminportal#/Domains) indem Sie **Einstellungen** \> **Domänen** auswählen und **dann Domäne hinzufügen.**
   
-Schritt-für-Schritt-Anleitungen finden Sie unter [Erstellen von DNS-Einträgen bei GoDaddy für Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-godaddy) .
+Schrittweise Anweisungen finden Sie unter [Create DNS records at GoDaddy for Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-godaddy)

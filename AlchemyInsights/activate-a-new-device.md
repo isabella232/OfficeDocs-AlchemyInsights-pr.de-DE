@@ -2,7 +2,7 @@
 title: Aktivieren eines neuen Geräts
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3402"
 - "9001418"
-ms.openlocfilehash: 6c8a32496b8e9f82d2c72b0d509f2dbbecff6539
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5ee50d45712f4c363cf21d49e56ed813d6c0f782
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668381"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823282"
 ---
-# <a name="activating-a-new-device-running-windows-10"></a>Aktivieren eines neuen Geräts mit Windows 10
+# <a name="activating-a-new-device-running-windows-10"></a>Aktivieren eines neuen Geräts unter Windows 10
 
 Wenn Sie ein neues Gerät mit Windows 10 gekauft haben, wird es automatisch aktiviert, wenn Sie Ihr Gerät mit dem Internet verbinden. Wenn die Aktivierungsserver ausgelastet sind, müssen Sie möglicherweise eine Weile warten, bis Windows aktiviert ist.
 
-Um den Aktivierungsstatus zu überprüfen, wählen Sie **Start** **Einstellungen**  >  **Aktualisieren & Sicherheits**  >  **Aktivierung**aus.
+Wählen Sie Zum Überprüfen des Aktivierungsstatus die Option **Einstellungen**   >  **aktualisieren &**  >  **Sicherheitsaktivierung aus.**
 
-**Hinweis:** In einigen Fällen müssen Sie möglicherweise den Product Key von Windows 10 eingeben, der mit dem Gerätepaket geliefert wurde, oder als Karte oder das Echtheitszertifikat (Certificate of Authenticity, COA) enthält, das dem Gerät zugeordnet ist.
+**Hinweis:** In einigen Fällen müssen Sie möglicherweise den Windows 10-Product Key eingeben, der im Lieferumfang der Gerätepackung enthalten war, oder als Karte oder auf dem Zertifikat für Die Echtheit (Certificate of Authenticity, COA) des Geräts enthalten sein.
 
 [Weitere Informationen zur Aktivierung in Windows 10](https://support.microsoft.com/help/12440)

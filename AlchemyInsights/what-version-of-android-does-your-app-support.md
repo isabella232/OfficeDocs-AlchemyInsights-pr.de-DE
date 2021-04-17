@@ -1,8 +1,8 @@
 ---
-title: Welche Version von Android wird von Ihrem App-Support unterstützt?
+title: Welche Version von Android wird von Ihrer App unterstützt?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001178"
 - "3430"
-ms.openlocfilehash: e3e4f3bb248959b3826438578c5ae274ac04992f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a8d58943a6278fb21bf2a0ee71284b16daf10e0f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773054"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824182"
 ---
-# <a name="what-version-of-android-does-your-app-support"></a>Welche Version von Android wird von Ihrem App-Support unterstützt?
+# <a name="what-version-of-android-does-your-app-support"></a>Welche Version von Android wird von Ihrer App unterstützt?
 
-Um die beste Leistung zu erzielen, funktioniert unsere App auf jedem Gerät mit Android Version 5,0 und höher.
+Für eine optimale Leistung funktioniert unsere App auf jedem Gerät mit Android Version 5.0 und höher.
 
-Wenn Sie auf Ihrem Android-Betriebssystem auf dem neuesten Stand sind, aber weiterhin Benachrichtigungen über das Betriebssystem erhalten, das mit Ihrem Gerät nicht kompatibel ist, versuchen Sie bitte, den Cache und die Daten der Play Store-App zu löschen.
+Wenn Sie auf Ihrem Android-Betriebssystem auf dem neuesten Stand sind, aber weiterhin Benachrichtigungen darüber erhalten, dass das Betriebssystem mit Ihrem Gerät nicht kompatibel ist, versuchen Sie, den Cache und die Daten der Play Store-App zu löschen.
 
 Gehen Sie hierzu folgendermaßen vor: 
 
-1. Öffnen Sie auf Ihrem Android-Smartphone oder Tablet die **Einstellungen** und dann **apps** oder **Anwendungen**.
+1. Öffnen Sie auf Ihrem Android-Smartphone oder -Tablet **Einstellungen** und dann **Apps** oder **Anwendungen.**
 
-2. Tippen Sie oben auf dem Bildschirm auf **mehr** (Dies kann auch ein Auslassungszeichen oder drei vertikale Punkte sein) und dann **System anzeigen**. 
+2. Tippen Sie oben auf dem Bildschirm auf **Mehr** (dies kann auch ein Auslassungsstrich oder drei vertikale Punkte sein) und dann **System anzeigen.** 
 
-3. Scrollen Sie nach unten, und tippen Sie auf **Google Play Services**. 
+3. Scrollen Sie nach unten, und tippen **Sie auf Google Play Services**. 
 
-4. Tippen Sie auf **Speicher** , und löschen Sie dann den **Cache**. 
+4. Tippen **Sie auf Speicher,** und löschen **Sie dann Cache.** 
 
-5. Tippen Sie auf **Space verwalten** , und löschen Sie dann **alle Daten**. 
+5. Tippen **Sie auf Speicherplatz verwalten,** und löschen Sie dann alle **Daten.** 
 
-6. Öffnen Sie den **Google Play Store**. 
+6. Öffnen Sie **den Google Play Store**. 
 
 7. Warten Sie 5 Minuten, und versuchen Sie es dann erneut. 
