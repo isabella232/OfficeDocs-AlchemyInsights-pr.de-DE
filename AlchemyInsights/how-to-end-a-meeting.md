@@ -1,8 +1,8 @@
 ---
-title: Vorgehensweise zum formellen Beenden einer Besprechung
+title: So beenden Sie eine Besprechung offiziell
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "5852"
 - "9002623"
-ms.openlocfilehash: 6a568fdcf2b431b67085a9c9d2c3e40bdcebf77c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67c33e90b1f7ca9f68af1ef01ce158075a0dc54d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780418"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825694"
 ---
-# <a name="how-to-formally-end-a-meeting"></a>Vorgehensweise zum formellen Beenden einer Besprechung
+# <a name="how-to-formally-end-a-meeting"></a>So beenden Sie eine Besprechung offiziell
 
-Besprechungsorganisatoren können eine Besprechung für alle Besprechungsteilnehmer in Microsoft Teams beenden, indem Sie in den Besprechungs Steuerelementen innerhalb der Besprechung auf **Besprechung beenden** klicken.  
+Besprechungsorganisatoren können eine Besprechung für alle Besprechungsteilnehmer in Teams beenden, indem sie **in** den Besprechungssteuerelementen innerhalb der Besprechung auf Besprechung beenden klicken.  
 
-Um eine Besprechungs Besprechung für alle Teilnehmer zu beenden, wählen Sie Besprechungs Steuerelemente aus, wählen Sie das Symbol 3-Punkt aus, und klicken Sie auf Besprechung beenden. Sie werden aufgefordert, Ihre Auswahl zu bestätigen. Wenn Sie Ihre Auswahl bestätigen, wird die Besprechung für alle beendet.
+Wählen Sie zum Beenden einer Besprechung in Bearbeitung für alle Teilnehmer Besprechungssteuerelemente aus, wählen Sie das 3-Punkt-Symbol aus, und klicken Sie auf Besprechung beenden. Sie werden aufgefordert, Ihre Auswahl zu bestätigen. Wenn Sie Ihre Auswahl bestätigen, wird die Besprechung für alle beendet.
 
-Hinweis: nur der Besprechungsorganisator kann eine Besprechung "beenden".
+HINWEIS: Nur der Besprechungsorganisator kann eine Besprechung "beenden".

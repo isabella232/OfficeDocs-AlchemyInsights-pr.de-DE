@@ -1,8 +1,8 @@
 ---
-title: Die AllowSelfServicePurchase-Richtlinie kann nicht festgelegt oder angezeigt werden
+title: Die AllowSelfServicePurchase-Richtlinie kann nicht festgelegt oder angezeigt werden.
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: 5ec16b3071f95ef52af2771e95137116222a3c5b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8dac2bdc20905cf37fc30317d9b371bfd755f452
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735198"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826090"
 ---
-# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Die AllowSelfServicePurchase-Richtlinie kann nicht festgelegt oder angezeigt werden
+# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Die AllowSelfServicePurchase-Richtlinie kann nicht festgelegt oder angezeigt werden.
 
-Beim Versuch, die AllowSelfServicePurchase-Richtlinie festzulegen oder anzuzeigen, wird die folgende Fehlermeldung angezeigt:
+Wenn Sie versuchen, die AllowSelfServicePurchase-Richtlinie zu festlegen oder anzeigen, wird die folgende Fehlermeldung angezeigt:
 
-*HandleError: Fehler beim Abrufen der Produktrichtlinie mit der Richtlinien-Nr "AllowSelfServicePurchase", ErrorMessage – die zugrunde liegende Verbindung wurde geschlossen: ein unerwarteter Fehler ist bei einem senden aufgetreten.*
+*HandleError : Fehler beim Abrufen der Produktrichtlinie mit PolicyId 'AllowSelfServicePurchase', ErrorMessage – Die zugrunde liegende Verbindung wurde geschlossen: Bei einem Senden ist ein unerwarteter Fehler aufgetreten.*
 
-Dies kann an einer älteren Version von Transport Layer Security (TLS) liegen. Um den MSCommerce-Dienst zu verbinden, müssen Sie TLS 1,2 oder höher verwenden.  
+Dies liegt möglicherweise an einer älteren Version von Transport Layer Security (TLS). Zum Verbinden des MS Commerce-Diensts müssen Sie TLS 1.2 oder höher verwenden.  
 
-Führen Sie die folgenden Schritte aus, um das TLS-Protokoll auf 1,2, überprüfen und wiederholen zu aktivieren/festzulegen.
- 1. Geben Sie an der PowerShell-Eingabeaufforderung (PS C: \) den folgenden Befehl ein, um das TLS-Protokoll auf Version 1,2 festzulegen:
+Führen Sie die folgenden Schritte aus, um das TLS-Protokoll auf 1.2 zu aktivieren bzw. auf 1.2 zu setzen, zu überprüfen und erneut zu versuchen.
+ 1. Geben Sie an der #A0 (PS C: geben Sie den folgenden Befehl ein, um das \) #A1 auf Version 1.2 zu setzen:
 
     `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
-2. Überprüfen Sie mit dem folgenden Befehl die verwendeten TLS-Protokolle (n):
+2. Überprüfen Sie die verwendeten TLS-Protokolle mit dem folgenden Befehl:
 
     `[Net.ServicePointManager]::SecurityProtocol` 
 
-3. Wiederholen Sie die Befehle Get oder Update bei Bedarf.
+3. Wiederholen Sie die Befehle Get oder Update nach Bedarf.
 
