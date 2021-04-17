@@ -2,7 +2,7 @@
 title: Administratorrolle und deren Zuweisung
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,15 +14,15 @@ ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 116b92824b4046766d9c8b869ef0cfc655ee2395
-ms.sourcegitcommit: ce1a381ca3b24b8b4e60c5b83fae3ec7609eaf9d
+ms.openlocfilehash: 6679f67b5f3059a5a152ee492ca2973f15a9b932
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "51585974"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821878"
 ---
-# <a name="admin-roles"></a><span data-ttu-id="fd771-102">Administratorrollen</span><span class="sxs-lookup"><span data-stu-id="fd771-102">Admin roles</span></span>
+# <a name="admin-roles"></a><span data-ttu-id="b0fdf-102">Administratorrollen</span><span class="sxs-lookup"><span data-stu-id="b0fdf-102">Admin roles</span></span>
 
-- <span data-ttu-id="fd771-103">Um eine Rolle zuzuweisen, wählen Sie im [Admin Center](https://admin.microsoft.com/Adminportal/Home#/users) die Option **Aktive Benutzer**, dann einen Benutzernamen und anschließend **Rollen verwalten** aus.</span><span class="sxs-lookup"><span data-stu-id="fd771-103">To assign a role, select **Active Users** in the [admin center](https://admin.microsoft.com/Adminportal/Home#/users), select a user name, and then select  **Manage Roles**.</span></span>
+- <span data-ttu-id="b0fdf-103">Um eine Rolle zuzuweisen, wählen Sie im [Admin Center](https://admin.microsoft.com/Adminportal/Home#/users) die Option **Aktive Benutzer**, dann einen Benutzernamen und anschließend **Rollen verwalten** aus.</span><span class="sxs-lookup"><span data-stu-id="b0fdf-103">To assign a role, select **Active Users** in the [admin center](https://admin.microsoft.com/Adminportal/Home#/users), select a user name, and then select  **Manage Roles**.</span></span>
 
-- <span data-ttu-id="fd771-104">Weitere Informationen über eine Rolle finden Sie unter [Info zu Administratorrollen](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles) oder indem Sie auf das **i** neben der Rolle klicken.</span><span class="sxs-lookup"><span data-stu-id="fd771-104">For more information about a role, click the **i** next to the role, or see [About admin roles](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).</span></span>
+- <span data-ttu-id="b0fdf-104">Weitere Informationen über eine Rolle finden Sie unter [Info zu Administratorrollen](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles) oder indem Sie auf das **i** neben der Rolle klicken.</span><span class="sxs-lookup"><span data-stu-id="b0fdf-104">For more information about a role, click the **i** next to the role, or see [About admin roles](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).</span></span>
