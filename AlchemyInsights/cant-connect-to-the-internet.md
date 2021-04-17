@@ -1,8 +1,8 @@
 ---
-title: Keine Verbindung mit dem Internet möglich
+title: Keine Verbindung mit dem Internet herstellen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "3434"
 - "9001438"
-ms.openlocfilehash: 50e901a0bb6e6b4abefbb3aa8946c40fb11dfc99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6d865aa08a5703ec5906d7f263532184fc50ed7e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794261"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819439"
 ---
 # <a name="fix-network-connection"></a>Beheben der Netzwerkverbindung
 
-Um Probleme mit der Netzwerkverbindung zu beheben, führen Sie zunächst die Netzwerkproblembehandlung aus. 
+Um Netzwerkverbindungsprobleme zu beheben, führen Sie zuerst die Netzwerkproblembehandlung aus. 
 
 1. [Öffnen Sie die Problembehandlungseinstellungen](ms-settings:troubleshoot).
 
-2. Wählen Sie unter **Internet Verbindungen** **die Option Problembehandlung ausführen**aus.
+2. Wählen **Sie unter Internetverbindungen** **die Option Problembehandlung ausführen aus.**
 
-Wenn Sie eine WLAN-Verbindung verwenden, stellen Sie sicher, dass WLAN für Ihr Gerät aktiviert ist (einschließlich aller physikalischen Wi-Fi-Switches), und dieser Flugzeugmodus ist nicht aktiviert.
+Wenn Sie eine Wi-Fi verwenden, stellen Sie sicher, dass Wi-Fi für Ihr Gerät aktiviert ist (einschließlich physischer Wi-Fi-Switch), und dass der Flugzeugmodus nicht aktiviert ist.
 
-Wenn Sie eine Ethernet-Verbindung verwenden, stellen Sie sicher, dass das Kabel ordnungsgemäß an Ihren PC und an Ihren Router oder Ihr Modem angeschlossen ist.
+Wenn Sie eine Ethernetverbindung verwenden, stellen Sie sicher, dass das Kabel sicher an Ihren PC und Ihren Router oder Ihr Modem angeschlossen ist.
 
-Wenn dies nicht funktioniert, versuchen Sie, Ihren PC, Ihr Modem und Ihren Router neu zu starten (falls vorhanden):
+Wenn dies nicht funktioniert, starten Sie Ihren PC, Ihr Modem und ihren Router neu (wenn Sie über einen verfügen):
 
-1. Ziehen Sie den Netzstecker aus dem Modem und Router. Wenn Ihr Modem über eine Batteriesicherung verfügt, müssen Sie die Batterie entfernen, um die Stromversorgung vollständig auszuschalten.
+1. Trennen Sie das Netz von Ihrem Modem und Router. Wenn Ihr Modem über eine Akkusicherung verfügt, müssen Sie den Akku entfernen, um den Strom vollständig zu deaktivieren.
 
-2. Warten Sie etwa 30 Sekunden. Wenn Sie die Batterie aus dem Modem entfernt haben, setzen Sie Sie wieder ein.
+2. Warten Sie etwa 30 Sekunden. Wenn Sie den Akku aus dem Modem entfernt haben, setzen Sie ihn wieder ein.
 
-3. Schließen Sie das Netzkabel für Modem und Router an.
+3. Schließen Sie das Netzkabel für das Modem und den Router an.
 
-4. Wenn Sie warten, bis das Modem und der Router vollständig eingeschaltet sind, starten Sie Ihren PC neu: **starten**Sie den  >  **Energie**  >  **Neustart**.
+4. Starten Sie ihren PC neu, während Sie warten, bis das Modem und der Router vollständig ein- und wieder ein- und ausgesen sind: **Starten Sie den**  >  **Netzneustart.**  >  
 
 **Erweiterte Problembehandlung**
 
-Weitere Erweiterte Schritte zur Problembehandlung finden Sie unter [Beheben von WLAN-Verbindungsproblemen in Windows](https://support.microsoft.com/help/10741?ocid=SMC10741%2F). 
+Weitere Schritte zur Problembehandlung finden Sie unter [Beheben Wi-Fi Verbindungsprobleme in Windows](https://support.microsoft.com/help/10741?ocid=SMC10741%2F). 
 
-Wenn Sie mit den technischen Schritten zur Problembehandlung nicht vertraut sind, [wenden Sie sich an uns](https://support.microsoft.com/contactus).
+Wenn Sie sich nicht mit den technischen Problembehandlungsschritten nicht wohl fühlen, kontaktieren [Sie uns](https://support.microsoft.com/contactus).
