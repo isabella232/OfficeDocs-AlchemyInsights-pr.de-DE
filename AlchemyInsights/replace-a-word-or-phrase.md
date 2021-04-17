@@ -1,8 +1,8 @@
 ---
-title: Ersetzen eines Wortes oder einer Phrase
+title: Ersetzen eines Worts oder Ausdrucks
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001453"
 - "3465"
-ms.openlocfilehash: 47a631bd045d3a3ae889d00d8e4ac615948a0d0f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e278b15f552639332e576389ce10dbb0dc2d34fa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692690"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835738"
 ---
-# <a name="replace-a-word-or-phrase"></a>Ersetzen eines Wortes oder einer Phrase
+# <a name="replace-a-word-or-phrase"></a>Ersetzen eines Worts oder Ausdrucks
 
-So ersetzen Sie mehrere Instanzen eines Wortes oder einer Phrase in einem Word-Dokument:
+So ersetzen Sie mehrere Instanzen eines Worts oder Ausdrucks in einem Word-Dokument:
 
-1. Wechseln Sie zu **Pos1**  >  **ersetzen**, oder drücken Sie STRG + H.
-2. Geben Sie im Feld **Suchen** nach das Wort oder den Ausdruck ein, den Sie ersetzen möchten. 
-3. Geben Sie im Feld **Ersetzen durch** den neuen Text ein.
-3. Wählen Sie **Alle ersetzen** aus, um alle Vorkommen des Wortes oder Satzes zu ändern, oder wählen Sie **weiter suchen** aus, bis Sie die zu aktualisierenden (n) suchen, und wählen Sie dann **ersetzen**aus.
+1. Wechseln Sie zu **Home**  >  **Replace**, oder drücken Sie STRG+H.
+2. Geben Sie **im Feld Suchen,** was sie ersetzen möchten, das Wort oder den Ausdruck ein. 
+3. Geben Sie **im Feld** Ersetzen durch den neuen Text ein.
+3. Wählen **Sie Alle** ersetzen aus, um alle Vorkommen des Worts oder Ausdrucks zu ändern, oder wählen Sie **Weiter** suchen aus, bis Sie die zu aktualisierenden Vorkommen finden, und wählen Sie dann **Ersetzen aus.**
