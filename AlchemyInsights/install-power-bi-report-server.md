@@ -1,8 +1,8 @@
 ---
-title: Installieren des Power BI-Berichtsservers
+title: Installieren von Power BI Report Server
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "1304"
 - "2500001"
-ms.openlocfilehash: 3ea596547093773ab872ca34e8dd3a4e49e59fd7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8479be2a538228b71033aca3907d3aba2f5e28fb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755094"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832093"
 ---
-# <a name="install-power-bi-report-server"></a>Installieren des Power BI-Berichtsservers
+# <a name="install-power-bi-report-server"></a>Installieren von Power BI Report Server
 
-1. Suchen Sie den Speicherort von PowerBIReportServer.exe, und starten Sie das Installationsprogramm.
+1. Suchen Sie den Speicherort PowerBIReportServer.exe und starten Sie das Installationsprogramm.
 
-2. Wählen Sie **Power BI-Berichts Server installieren**aus.
+2. Wählen **Sie Power BI Report Server installieren aus.**
 
-3. Wählen Sie eine zu installierende Edition aus, und wählen Sie dann **weiter**aus.
+3. Wählen Sie eine zu installierende Edition aus, und wählen Sie dann **Weiter aus.**
 
-4. Sie können entweder Evaluation oder Developer Edition aus der Dropdownliste auswählen.  Andernfalls können Sie einen Product Key für den Server eingeben, den Sie entweder im Power BI-Dienst oder im Volume License Service Center erworben haben. Weitere Informationen zum Abrufen des Product Keys finden Sie im Abschnitt bevor Sie beginnen. Lesen und akzeptieren Sie die Lizenzbedingungen, und wählen Sie dann **weiter**aus.
+4. Sie können entweder Evaluation oder Developer Edition aus der Dropdownliste auswählen.  Andernfalls können Sie einen Product Key für den Server eingeben, den Sie entweder über den Power BI-Dienst oder das Volume License Service Center erworben haben. Weitere Informationen zum Erhalten ihres Product Key finden Sie im Abschnitt Before you begin. Lesen Und stimmen Sie den Lizenzbedingungen zu, und wählen Sie dann **Weiter aus.**
 
-5. Zum Speichern der Berichtsserver-Datenbank muss ein Datenbankmodul verfügbar sein. Wählen Sie **weiter** aus, um nur den Berichtsserver zu installieren.
+5. Sie benötigen ein Datenbankmodul, um die Berichtsserverdatenbank zu speichern. Wählen **Sie Weiter** aus, um nur den Berichtsserver zu installieren.
 
-6. Geben Sie den Installationsspeicherort für den Berichtsserver an. Wählen Sie **install** aus, um den Vorgang fortzusetzen.
+6. Geben Sie den Installationsspeicherort für den Berichtsserver an. Wählen **Sie Installieren aus,** um fortzufahren.
 
-7. Wählen Sie nach einem erfolgreichen Setup **Berichts Server konfigurieren** aus, um den Konfigurations-Manager für Reporting Services zu starten.
+7. Wählen Sie nach einem erfolgreichen Setup **die Option Berichtsserver konfigurieren aus,** um den Reporting Services Configuration Manager zu starten.
 
-Zum Zeitpunkt der Installation benötigen Sie keinen SQL Server Datenbankmodul-Server zur Verfügung. Sie benötigen eine, um Reporting Services nach der Installation zu konfigurieren.
+Sie benötigen keinen SQL Server datenbankmodulserver, der zum Zeitpunkt der Installation verfügbar ist. Sie benötigen eine, um Reporting Services nach der Installation zu konfigurieren.
 
-Weitere Informationen: https://docs.microsoft.com/power-bi/report-server/install-report-server
+Weitere Informationen finden Sie unter: https://docs.microsoft.com/power-bi/report-server/install-report-server

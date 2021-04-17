@@ -1,8 +1,8 @@
 ---
-title: Probleme mit der Apple-Uhr
+title: Probleme mit der Apple Watch
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001107"
 - "3068"
-ms.openlocfilehash: d175e46d1a85715bc195d78e004dc3b57b77f124
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f7c7c91a25a18e21c1858aba0e54a42f27bc0f58
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700022"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832273"
 ---
-# <a name="trouble-with-the-apple-watch"></a>Probleme mit der Apple-Uhr
+# <a name="trouble-with-the-apple-watch"></a>Probleme mit der Apple Watch
 
 Wenn Sie Probleme mit Outlook auf der Apple Watch haben, finden Sie hier einige Schritte zur Problembehandlung: 
 
 1. Wechseln Sie zur Watch-App auf dem iPhone.
 
-2. Scrollen Sie zur Outlook-app.
+2. Scrollen Sie zur Outlook-App.
 
-3. Toggle "App auf Apple Watch anzeigen" auf **aus** zur Deinstallation.
+3. Umschalten Sie "App auf Apple Watch anzeigen" auf **AUS,** um sie zu deinstallieren.
 
-4. Aktivieren Sie die Option "App auf Apple Watch anzeigen", **um Sie auf** der Uhr erneut zu installieren.
+4. Umschalten Sie "App auf Apple Watch anzeigen" auf **EIN,** um die Uhr erneut zu installieren.
 
-5. Starten Sie die Outlook-App auf der Apple-Uhr, und warten Sie, bis die Daten mit der neuesten synchronisiert sind. 
+5. Starten Sie die Outlook-App auf der Apple Watch, und warten Sie, bis die Daten mit der neuesten synchronisiert werden. 
 
-Wenn Ihr Problem nicht behoben wurde, hilft Ihnen das Support Team gerne weiter. Wechseln Sie zu **Einstellungen > Hilfe & Feedback > wenden Sie sich an den Support**. 
+Wenn Ihr Problem nicht behoben wird, hilft ihnen das Supportteam gerne weiter. Wechseln Sie **zu Einstellungen > Hilfe & Feedback > Support kontaktieren**. 

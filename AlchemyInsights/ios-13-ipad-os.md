@@ -1,8 +1,8 @@
 ---
-title: IOS 13 – iPad
+title: iOS 13 – iPadOS
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2701"
 - "6700003"
-ms.openlocfilehash: 747c24250b911f30176ff03ed623ae38488ab57f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d851fcc6c8514300d5f67b5755caa729c5441a67
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695936"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833146"
 ---
-# <a name="ios-13--ipados-updates-for-conditional-access-policy"></a>IOS 13 +/iPads-Updates für die Richtlinie für bedingten Zugriff
+# <a name="ios-13--ipados-updates-for-conditional-access-policy"></a>iOS 13+ / iPadOS-Updates für Richtlinie für bedingten Zugriff
 
-Wenn Probleme im Zusammenhang mit dem bedingten Zugriff auf iPads auftreten, die auf "iPad" (IOS 13 oder höher) aktualisiert wurden, lesen Sie den folgenden Artikel aus dem AAD-Team bezüglich der Änderungen, die Sie möglicherweise vornehmen müssen, um sicherzustellen, dass der bedingte Zugriff wie gewünscht weiter funktioniert:
+Wenn Probleme im Zusammenhang mit dem bedingten Zugriff auf Ipads auftreten, die auf iPadOS (iOS 13 oder höher) aktualisiert wurden, lesen Sie den folgenden Artikel des AAD-Teams zu Änderungen, die Sie möglicherweise vornehmen müssen, um sicherzustellen, dass der bedingte Zugriff weiterhin wie gewünscht funktioniert:
 
-[Erforderliche Aktion: auswerten und Aktualisieren von Richtlinien für bedingten Zugriff in Vorbereitung auf die Version von iPads](https://support.microsoft.com/help/4521038/action-required-update-conditional-access-policies-for-ipados)
+[Aktion erforderlich: Auswerten und Aktualisieren von Richtlinien für bedingten Zugriff in Vorbereitung auf die iPadOS-Version](https://support.microsoft.com/help/4521038/action-required-update-conditional-access-policies-for-ipados)
