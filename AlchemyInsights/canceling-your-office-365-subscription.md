@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "4"
 - "1400001"
-ms.openlocfilehash: d4c5fcf5140f079bfb6ae0f76ec2d080c6befd0a
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 1c9c57be405b6bfd530cebc801671fd017df859b
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896866"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261591"
 ---
 # <a name="canceling-your-subscription"></a>Ihr Abonnement kündigen?
 
 Es tut uns leid, dass Sie losgehen, aber wenn Sie Ihr Abonnement kündigen möchten, sind die folgenden Optionen verfügbar:
   
 - Wenn Ihnen weniger als 25 Lizenzen zugewiesen sind, können Sie Ihr Abonnement online kündigen. Wechseln Sie zur **Seite Abrechnung** Ihre Produkte, und suchen Sie nach dem \> **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** Abonnement, das Sie kündigen möchten. Wählen Sie **Weitere Aktionen** (drei Punkte) und dann **Abonnement kündigen** aus.
-- Wenn Sie mehr als 25 Lizenzen für Benutzer zugewiesen haben, [rufen Sie den Support an, um Ihr Abonnement zu kündigen](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).
+- Wenn Sie mehr als 25 Lizenzen für Benutzer zugewiesen haben, [rufen Sie den Support an, um Ihr Abonnement zu kündigen](/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).
   
 **Rückerstattung: Alle angerechneten Guthaben werden Ihnen innerhalb des nächsten Abrechnungszyklus zurückgegeben.**
 
