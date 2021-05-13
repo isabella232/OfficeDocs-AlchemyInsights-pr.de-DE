@@ -14,27 +14,27 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: a4c7ed707853cd4d99db4b5a3d630df343a1ffe0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 107099899e881097a752d0376a4d76d51ea62463
+ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664061"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470251"
 ---
-# <a name="microsoft-365-import-service"></a>Microsoft 365-Import Dienst
+# <a name="microsoft-365-import-service"></a>Microsoft 365 Importdienst
 
-Mit dem Microsoft 365-Import Dienst können Sie mehrere PST-Dateien in Exchange Online Postfächern Massenimportieren.
+Mit Microsoft 365 Importdienst können Sie mehrere PST-Dateien massenimportieren, um Exchange Online zu importieren.
 
-So greifen Sie auf den Import Dienst zu und starten den Importvorgang:
+So greifen Sie auf den Importdienst zu, und starten Sie den Importvorgang:
 
-1. Wechseln Sie zum [Security & Compliance Center](https://protection.office.com) , und melden Sie sich mit den Anmeldeinformationen für ein Administratorkonto in Ihrer Organisation an.
+1. Wechseln Sie zum [Security & Compliance Center,](https://protection.office.com) und melden Sie sich mit den Anmeldeinformationen für ein Administratorkonto in Ihrer Organisation an.
 
-2. Klicken Sie im linken Bereich des **Security & Compliance Centers**auf **Data Governance > Import**.
+2. Klicken Sie im linken Bereich des **Security & Compliance Center** auf Information Governance > **Importieren**.
 
-3. Klicken Sie auf der Seite **importieren** auf **neuer Importauftrag**.
+3. Klicken Sie **auf der** Seite Importieren auf **Neuer Importauftrag**.
 
-4. Führen Sie die folgenden [schrittweisen Anleitungen](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)aus, um die Schritte im Assistenten abzuschließen.
+4. Führen Sie zum Ausführen der Schritte im Assistenten die folgenden [schritt-für-Schritt-Anweisungen aus.](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md)
 
-**Wichtig**: für den Zugriff auf die **Import** Seite im Security & Compliance Center sind Ihnen  [die entsprechenden Berechtigungen](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)zugewiesen.
+**Wichtig:** Für den Zugriff auf die **Seite Import** im Security & Compliance Center wurden Ihnen die entsprechenden [Berechtigungen zugewiesen.](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md)
 
-Wenn Sie nur eine PST-Datei in Ihr Postfach importieren möchten, lesen Sie [diesen Artikel](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+Wenn Sie nur ein PST in Ihr Postfach importieren möchten, lesen Sie [diesen Artikel](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
