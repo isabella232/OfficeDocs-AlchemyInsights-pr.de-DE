@@ -1,5 +1,5 @@
 ---
-title: Projekt Abonnement kündigen
+title: Kündigen Project Abonnements
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 14f594f72e8104cbd900fcd4e2acc1232ca26167
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: c87f6ea32fa758d7b7779a77897b338edc0308e8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416480"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543396"
 ---
-# <a name="cancel-project-subscription"></a><span data-ttu-id="6a688-102">Projekt Abonnement kündigen</span><span class="sxs-lookup"><span data-stu-id="6a688-102">Cancel Project subscription</span></span>
+# <a name="cancel-project-subscription"></a><span data-ttu-id="a0f4c-102">Kündigen Project Abonnements</span><span class="sxs-lookup"><span data-stu-id="a0f4c-102">Cancel Project subscription</span></span>
 
-<span data-ttu-id="6a688-103">Administratoren können das Projekt Abonnement für Ihre Organisation im Microsoft 365 Admin Center abbrechen.</span><span class="sxs-lookup"><span data-stu-id="6a688-103">Admins can cancel the Project subscription for their organization in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="a0f4c-103">Administratoren können das Project für ihre Organisation im Microsoft 365 kündigen.</span><span class="sxs-lookup"><span data-stu-id="a0f4c-103">Admins can cancel the Project subscription for their organization in the Microsoft 365 admin center.</span></span>
 
-1. <span data-ttu-id="6a688-104">Wechseln Sie zur Seite **Abrechnung** \> [ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="6a688-104">Go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
-2. <span data-ttu-id="6a688-105">Suchen Sie auf der Registerkarte **Produkte** nach dem Projekt Abonnement, das Sie stornieren möchten.</span><span class="sxs-lookup"><span data-stu-id="6a688-105">On the **Products** tab, find the Project subscription that you want to cancel.</span></span> <span data-ttu-id="6a688-106">Wählen Sie **Weitere Aktionen** (drei Punkte) aus, und wählen Sie dann **Abonnement kündigen**aus.</span><span class="sxs-lookup"><span data-stu-id="6a688-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
-3. <span data-ttu-id="6a688-107">Wählen Sie im Bereich **Abonnement kündigen** einen Grund aus, warum Sie abbrechen möchten.</span><span class="sxs-lookup"><span data-stu-id="6a688-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="6a688-108">Geben Sie optional Feedback ein.</span><span class="sxs-lookup"><span data-stu-id="6a688-108">Optionally, provide any feedback.</span></span>
-4. <span data-ttu-id="6a688-109">Wählen Sie **Speichern** aus.</span><span class="sxs-lookup"><span data-stu-id="6a688-109">Select **Save**.</span></span>
+1. <span data-ttu-id="a0f4c-104">Navigieren Sie zur Seite **Abrechnung** \> [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="a0f4c-104">Go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="a0f4c-105">Suchen Sie **auf** der Registerkarte Produkte nach Project Abonnement, das Sie kündigen möchten.</span><span class="sxs-lookup"><span data-stu-id="a0f4c-105">On the **Products** tab, find the Project subscription that you want to cancel.</span></span> <span data-ttu-id="a0f4c-106">Wählen Sie die drei Punkte (weitere Aktionen) aus, und wählen Sie dann **Abonnement abbrechen aus.**</span><span class="sxs-lookup"><span data-stu-id="a0f4c-106">Select the three dots (more actions), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="a0f4c-107">Wählen Sie im Bereich **Abonnement kündigen** einen Grund aus, warum Sie kündigen.</span><span class="sxs-lookup"><span data-stu-id="a0f4c-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="a0f4c-108">Geben Sie optional Feedback.</span><span class="sxs-lookup"><span data-stu-id="a0f4c-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="a0f4c-109">Wählen Sie **Speichern** aus.</span><span class="sxs-lookup"><span data-stu-id="a0f4c-109">Select **Save**.</span></span>
 
-<span data-ttu-id="6a688-110">**Rückerstattung:** Eine anteilsmäßige Gutschrift wird Ihnen mit dem nächsten Abrechnungszyklus erstattet.</span><span class="sxs-lookup"><span data-stu-id="6a688-110">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
+<span data-ttu-id="a0f4c-110">**Rückerstattung:** Eine anteilsmäßige Gutschrift wird Ihnen mit dem nächsten Abrechnungszyklus erstattet.</span><span class="sxs-lookup"><span data-stu-id="a0f4c-110">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
 
-<span data-ttu-id="6a688-111">Weitere Informationen finden Sie unter [kündigen Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="6a688-111">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
+<span data-ttu-id="a0f4c-111">Weitere Informationen finden Sie unter [Cancel your subscription](/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="a0f4c-111">To learn more, see [Cancel your subscription](/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
