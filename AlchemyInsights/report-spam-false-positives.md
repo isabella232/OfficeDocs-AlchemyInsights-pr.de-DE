@@ -1,5 +1,5 @@
 ---
-title: 975 möchten Sie eine falsch positive Spam Meldung an Microsoft melden?
+title: 975 Möchten Sie Microsoft einen falsch positiven Spam melden?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 975
 ms.assetid: ''
-ms.openlocfilehash: 8225382e88184db1e2a8b76201946a4647a0f4d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f523ac9230e5fdc8aff35c90a9d0f8aadd35e66a
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692330"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52540399"
 ---
-# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Möchten Sie eine falsch positive Spam Meldung an Microsoft melden?
+# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Möchten Sie Microsoft einen falsch positiven Spam melden?
 
-Als Administrator können Sie am besten ermitteln, warum eine Phishing-oder Spamnachricht zugestellt wurde, indem Sie das Beispiel im Übermittlungs- [Explorer](https://protection.office.com/reportsubmission)an Microsoft übermitteln. Um es einfacher zu machen, können Sie Ihren Benutzern erlauben, über das [Add-in "Berichtsnachricht](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)" direkt an Microsoft zu berichten.
+Als Administrator können Sie am besten ermitteln, warum eine Phishing- oder Spamnachricht zugestellt wurde, wenn Sie das Beispiel im [Übermittlungs-Explorer](https://protection.office.com/reportsubmission)an Microsoft übermitteln. Um es einfacher zu machen, können Sie Ihren Benutzern erlauben, über das [Add-In](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)"Nachricht melden" direkt bei Microsoft zu melden.
 
-Wenn Sie sich entschließen, [die Microsoft 365-Spamfilter zu umgehen](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters), empfehlen wir Vorsicht.
+Wir raten zur Vorsicht, wenn Sie die [Spamfilter Microsoft 365 umgehen möchten.](/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)
 
-**Wussten Sie schon?**: Sie können nun Beispiele direkt von der [Nachrichtenablaufverfolgung](https://protection.office.com/messagetrace) übermitteln, und E5/ATP-Plan 2-Kunden können Beispiele von [Threat Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)übermitteln.
+**Wussten Sie?**: Sie können [](https://protection.office.com/messagetrace) jetzt Beispiele direkt aus der Nachrichtenverfolgung übermitteln und E5/Microsoft Defender für Office 365 Plan 2 Können Kunden Beispiele aus dem Threat [Explorer übermitteln.](/microsoft-365/security/office-365-security/threat-explorer)

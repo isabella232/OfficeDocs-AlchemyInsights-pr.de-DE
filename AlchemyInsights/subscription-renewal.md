@@ -1,5 +1,5 @@
 ---
-title: Abonnementverlängerung
+title: Abonnementerneuerung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,21 +14,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: f0b1244204b082e8c8e2fc7581af600526b40ec4
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: bb9750e7a2357254485c938da447b8f3579a77f5
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286849"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539967"
 ---
-# <a name="subscription-recurring-billing"></a>Abonnement wiederkehrende Abrechnung
+# <a name="subscription-recurring-billing"></a>Abonnementserienabrechnung
 
-Wenn Sie wissen möchten, wann Ihr monatliches oder jährliches Abonnement fakturiert wird (wenn **wiederkehrende Abrechnung** aktiviert ist) oder wenn es abgelaufen ist (wenn **wiederkehrende Abrechnung** deaktiviert ist), gehen Sie wie folgt vor:
+Wenn Sie wissen möchten, wann Ihr monatliches oder  jährliches Abonnement abgerechnet wird (wenn  die wiederkehrende Abrechnung aktiviert ist) oder abläuft (wenn die wiederkehrende Abrechnung deaktiviert ist), verwenden Sie die folgenden Schritte:
   
 1. Navigieren Sie im Admin Center zur Seite **Abrechnung** \> [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Suchen Sie auf der Registerkarte " **Produkte** " nach dem Abonnement, zu dem Sie mehr wissen möchten. In der Spalte **Abonnementstatus** wird das Erneuerungs-oder Ablaufdatum angezeigt.
-3. Um eine Änderung vorzunehmen, wählen Sie **Weitere Aktionen** (drei Punkte) aus, und wählen Sie dann **wiederkehrende Abrechnung bearbeiten**aus.
-4. Wählen Sie im Bereich **wiederkehrende Abrechnung bearbeiten** die **Option ein,** **ein, erneuern einmal**oder **aus aus**.
+2. Suchen Sie **auf** der Registerkarte Produkte nach dem Abonnement, über das Sie mehr erfahren möchten. In **der Spalte Abonnementstatus** wird das Verlängerungs- oder Ablaufdatum angezeigt.
+3. Wählen Sie zum Ändern die drei Punkte (weitere Aktionen) aus, und wählen Sie dann **Wiederkehrende Abrechnung bearbeiten aus.**
+4. Wählen Sie **im Bereich** Wiederkehrende Abrechnung bearbeiten die Option **Ein**, **Ein, einmal** verlängern oder Aus aus **aus** aus.
 5. Klicken Sie auf **Speichern**.
 
-Weitere Informationen hierzu finden Sie unter [Aktivieren oder Deaktivieren der wiederholten Abrechnung](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
+Weitere Informationen hierzu finden Sie unter [Aktivieren oder Deaktivieren der wiederholten Abrechnung](/microsoft-365/commerce/subscriptions/renew-your-subscription).

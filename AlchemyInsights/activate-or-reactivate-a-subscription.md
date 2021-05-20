@@ -13,20 +13,20 @@ ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
 ms.custom:
 - "1500028"
 - "482"
-ms.openlocfilehash: d8cba59f38760edd9ebb693bd5d5e63576966ae3
-ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
+ms.openlocfilehash: fbf80520625322c30a41f90333ec47ee3528bee2
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52261663"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52540255"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Aktivieren oder Reaktivieren eines Abonnements
 
 **Aktivieren eines Abonnements**
 
-- Um einem Benutzer den Zugriff auf einen Dienst zu ermöglichen, weisen Sie ihm eine Lizenz zu. Weitere Informationen finden Sie unter [Zuweisen von Lizenzen an Benutzer](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Um einem Benutzer den Zugriff auf einen Dienst zu ermöglichen, weisen Sie ihm eine Lizenz zu. Weitere Informationen finden Sie unter [Zuweisen von Lizenzen an Benutzer](/microsoft-365/admin/manage/assign-licenses-to-users).
 - Wenn Ihnen bereits eine Lizenz zugewiesen ist, finden Sie Anwendungen, die Sie auf der Seite Mein [Konto herunterladen können.](https://portal.office.com/account/#installs) Diese Seite enthält eine Liste der Anwendungen, die Sie basierend auf den zugewiesenen Lizenzen herunterladen können.
-- Wenn Sie bereits die Office heruntergeladen haben, müssen Sie sich möglicherweise mit Ihrem Arbeits- oder Schulkonto bei den Anwendungen anmelden. Sie können dies in jeder beliebigen Office (Word, Excel usw.) tun, indem Sie auf **Datei**  >  **Office Konto** (unten) klicken. Wählen **Sie unter Benutzerinformationen** die Option **Konto wechseln aus.** Weitere Informationen finden Sie unter [Install Office applications](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
+- Wenn Sie bereits die Office heruntergeladen haben, müssen Sie sich möglicherweise mit Ihrem Arbeits- oder Schulkonto bei den Anwendungen anmelden. Sie können dies in jeder beliebigen Office (Word, Excel usw.) tun, indem Sie auf **Datei**  >  **Office Konto** (unten) klicken. Wählen **Sie unter Benutzerinformationen** die Option **Konto wechseln aus.** Weitere Informationen finden Sie unter [Install Office applications](/microsoft-365/admin/setup/install-applications).
 
 **Reaktivieren eines Abonnements**
 
@@ -34,15 +34,15 @@ Wenn Ihr Abonnement abläuft, von Microsoft deaktiviert wurde oder Sie es in der
   
 1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
 2. Suchen Sie auf der Registerkarte **Produkte** das Abonnement aus, das Sie reaktivieren möchten.
-3. Wählen Sie **Weitere Aktionen** (drei Punkte) und dann **Dieses Abonnement reaktivieren** aus.
+3. Wählen Sie die drei Punkte (weitere Aktionen) aus, und wählen Sie **dann Reaktivieren dieses Abonnements aus.**
     > [!IMPORTANT]
-    > Wenn Sie dieses Abonnement nicht **als** verfügbare Aktion reaktivieren sehen, rufen Sie den [Support](/microsoft-365/admin/contact-support-for-business-products) auf, um Ihr Abonnement zu reaktivieren.
+    > Wenn Sie dieses Abonnement nicht **als** verfügbare Aktion reaktivieren sehen, rufen Sie den [Support](https://go.microsoft.com/fwlink/p/?linkid=518322) auf, um Ihr Abonnement zu reaktivieren.
 4. Wählen Sie **im Bereich Dieses** Abonnement reaktivieren eine vorhandene Zahlungsmethode aus, oder wählen Sie **Zahlungsmethode hinzufügen aus.**
 5. Wählen **Sie Reaktivieren aus.**
 
-Weitere Informationen finden Sie unter [Ihr Abonnement reaktivieren](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Weitere Informationen finden Sie unter [Ihr Abonnement reaktivieren](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Aktivieren eines neuen Abonnements mit einem Product Key**
 
 1. Informationen dazu, wie Sie ein neues Microsoft 365-Abonnement mit Ihrem Product Key aktivieren, finden Sie unter [Eingabeort für den Office-Product Key](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
-2. Geben Sie Ihren Microsoft 365-Product Key ein, und folgen Sie den Eingabeaufforderungen, um Ihr Abonnement zu aktivieren. Wenn Sie Probleme mit der Aktivierung haben, finden Sie in dieser Liste [gängiger Product Key-Fehler und -Lösungen .](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)
+2. Geben Sie Ihren Microsoft 365-Product Key ein, und folgen Sie den Eingabeaufforderungen, um Ihr Abonnement zu aktivieren. Wenn Sie Probleme mit der Aktivierung haben, finden Sie in dieser Liste [gängiger Product Key-Fehler und -Lösungen .](/microsoft-365/commerce/product-key-errors-and-solutions)
