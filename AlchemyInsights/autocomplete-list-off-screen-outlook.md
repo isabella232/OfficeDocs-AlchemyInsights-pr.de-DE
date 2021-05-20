@@ -13,17 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3700001"
 - "11171"
-ms.openlocfilehash: afc84866a3dd9ecb30562bd185239c3d1695fd10
-ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
+ms.openlocfilehash: 17e25e4d017f8a829c18a7987dfa332783efc0b3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52261883"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543784"
 ---
 # <a name="autocomplete-list-scrolls-off-the-screen-in-outlook-desktop"></a>AutoComplete-Liste führt einen Bildlauf vom Bildschirm in Outlook Desktop aus
 
-Nach dem Aktualisieren auf Outlook Desktop, Version 2104 (Build 13929.20296), wird die Liste "AutoComplete" unerwartet nach oben geschaltet und kann vom Bildschirm scrollen. Möglicherweise werden nicht alle AutoComplete-Einträge in der Liste angezeigt, und sie können nicht nach oben scrollen, um darauf zu zugreifen.
+Dieses Problem wurde in Version 2104 Build 13929.20386 behoben. Das Update mit dem festen Build wird voraussichtlich in der Woche des 17. Mai zu Current Channel Production wechseln. 
 
-**STATUS: INVESTIGATING**  Das Outlook untersucht das Problem und aktualisiert diesen Artikel, wenn weitere Informationen verfügbar sind.
-
-Den neuesten Status finden Sie unter [AutoComplete list scrolls off the screen in Outlook](https://support.microsoft.com/office/autocomplete-list-scrolls-off-the-screen-in-outlook-0247f165-697f-4238-b424-b03cd2582e2d?ui=en-US&rs=en-US&ad=US).
+Informationen dazu, wann der feste Build verfügbar ist, finden Sie unter [Update history for Microsoft 365 Apps (listed by date).](/officeupdates/update-history-microsoft365-apps-by-date)

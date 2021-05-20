@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002453"
 - "4763"
-ms.openlocfilehash: 59db84b9068843333ee28f47b9e69cf8b805b184
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 8a85768fc419829f288bbc8dcf887c2d6b0044b4
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489312"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544253"
 ---
 # <a name="subscription-no-longer-active"></a>Abonnement ist nicht mehr aktiv
 
@@ -26,8 +26,8 @@ Wenn beim [Öffnen einer Microsoft-Anwendung ein Abonnementhinweis angezeigt wir
 **Reaktivieren eines Abonnements**
 
 1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Suchen Sie auf der Registerkarte **Produkte** das Abonnement aus, das Sie reaktivieren möchten. Wählen Sie **Weitere Aktionen** (drei Punkte) und dann **Dieses Abonnement reaktivieren** aus.
+2. Suchen Sie auf der Registerkarte **Produkte** das Abonnement, das Sie reaktivieren möchten. Wählen Sie die drei Punkte (weitere Aktionen) und dann **Dieses Abonnement reaktivieren** aus.
 3. Wählen Sie im Bereich **Dieses Abonnement reaktivieren** eine Zahlungsmethode aus der Dropdownliste aus, oder wählen Sie **Zahlungsmethode hinzufügen** aus.
 4. Klicken Sie auf **Speichern**.
 
-Weitere Informationen finden Sie unter [Reaktivieren Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Weitere Informationen finden Sie unter [Reaktivieren Ihres Abonnements](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

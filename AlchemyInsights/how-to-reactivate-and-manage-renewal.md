@@ -14,23 +14,23 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 9d5a05387a686b4e49c9ca14c7f5c6a76913fd23
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 88e152e1e06ae8035c635117fbfa63b50c6c9d92
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709141"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544325"
 ---
 # <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>So reaktivieren Sie ein Abonnement und verwalten wiederkehrende Abrechnungen
 
 Es sieht so aus, als hätten Sie ein abgelaufenes Abonnement. Wenn Sie es reaktivieren möchten, sehen Sie sich dies an.
   
 1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Suchen Sie auf der Registerkarte **Produkte** das Abonnement aus, das Sie reaktivieren möchten. Wählen Sie **Weitere Aktionen** (drei Punkte) und dann **Dieses Abonnement reaktivieren** aus.
+2. Suchen Sie auf der Registerkarte **Produkte** das Abonnement aus, das Sie reaktivieren möchten. Wählen Sie die drei Punkte (weitere Aktionen) aus, und wählen Sie **dann Reaktivieren dieses Abonnements aus.**
 3. Wählen Sie im Bereich **Dieses Abonnement reaktivieren** eine Zahlungsmethode aus der Dropdownliste aus, oder wählen Sie **Zahlungsmethode hinzufügen** aus.
 4. Klicken Sie auf **Speichern**.
 
-Weitere Informationen finden Sie unter [Reaktivieren Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Weitere Informationen finden Sie unter [Reaktivieren Ihres Abonnements](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 Sie können die **wiederholte Abrechnung** aktivieren oder deaktivieren, um eine monatliche oder jährliche Abrechnung zu verwalten.
   
@@ -40,4 +40,4 @@ Sie können die **wiederholte Abrechnung** aktivieren oder deaktivieren, um eine
 4. Wählen Sie im Bereich **Einstellungen für die wiederkehrende Abrechnung bearbeiten** zwischen den Optionen **Ein**, **Ein, aber einmal verlängern** oder **Deaktivieren** aus.
 5. Klicken Sie auf **Speichern**.
 
-Weitere Informationen hierzu finden Sie unter [Aktivieren oder Deaktivieren der wiederholten Abrechnung](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Weitere Informationen hierzu finden Sie unter [Aktivieren oder Deaktivieren der wiederholten Abrechnung](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

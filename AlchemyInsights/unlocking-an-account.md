@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 532b273154a31c024825b150d9b0edd42eb6130c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cf2431cb49902b3f7625ab96bc6d4e2121e51fdd
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827755"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544143"
 ---
 # <a name="unlocking-an-account"></a>Entsperren eines Kontos
 
@@ -25,7 +25,7 @@ Es kann vorkommen, dass Benutzer von Microsoft 365 aufgrund fehlerhafter Kennwor
 
 **E-Mail-Zugriff eingeschränkt**
 
-Als Administrator können Sie, wenn einer Ihrer Benutzer keine E-Mails versenden darf, [die Sperre selbst aufheben](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam). Der Benutzer kann innerhalb einer Stunde nach Aufhebung der Einschränkung E-Mails senden.
+Als Administrator können Sie, wenn einer Ihrer Benutzer keine E-Mails versenden darf, [die Sperre selbst aufheben](/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam). Der Benutzer kann innerhalb einer Stunde nach Aufhebung der Einschränkung E-Mails senden.
 
 **Zurücksetzen des Benutzerkennworts**
 
@@ -37,8 +37,8 @@ Als Administrator können Sie, wenn einer Ihrer Benutzer keine E-Mails versenden
 
 1. Navigieren Sie im Admin-Center zu **Benutzer > [Aktive Benutzer](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**.
 
-2. Wählen Sie den Benutzer aus und klicken Sie auf **Weitere Aktionen (...)** und danach auf **Anmeldestatus bearbeiten**.
+2. Wählen Sie den Benutzer aus und klicken Sie auf die drei Punkte (weitere Aktionen), und klicken Sie dann auf **Anmeldestatus bearbeiten**.
 
-Informationen zu weiteren Szenarien für das Zurücksetzen von Kennwörtern, einschließlich dem Zurücksetzen von Kennwörtern durch Benutzer, finden Sie unter [Zurücksetzen von Microsoft 365-Business-Kennwörtern](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).
+Informationen zu weiteren Szenarien für das Zurücksetzen von Kennwörtern, einschließlich dem Zurücksetzen von Kennwörtern durch Benutzer, finden Sie unter [Zurücksetzen von Microsoft 365-Business-Kennwörtern](/microsoft-365/admin/add-users/reset-passwords).
 
-Der Dienst verhindert, dass ein Benutzer E-Mails sendet, nachdem er Hinweise auf ein angegriffenes Konto und/oder ausgehenden Spam entdeckt hat. Als Vorsichtsmaßnahme, führen Sie die Schritte zum [Reagieren auf ein angegriffenes E-Mail-Konto in Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) für den Benutzer aus.
+Der Dienst verhindert, dass ein Benutzer E-Mails sendet, nachdem er Hinweise auf ein angegriffenes Konto und/oder ausgehenden Spam entdeckt hat. Als Vorsichtsmaßnahme, führen Sie die Schritte zum [Reagieren auf ein angegriffenes E-Mail-Konto in Microsoft 365](/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) für den Benutzer aus.

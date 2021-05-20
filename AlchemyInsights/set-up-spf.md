@@ -12,17 +12,19 @@ ms.custom:
 - "37"
 - "1000003"
 ms.assetid: 6817c10c-e7c4-49b5-b272-c09a869567ed
-ms.openlocfilehash: 6059ca011f3b9dd1d4045a0e90d391cae495bc72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2e2a8fbbc979d0079321e68e808eda7c37694995
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798951"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544649"
 ---
 # <a name="set-up-spf"></a>Einrichten von SPF
 
-Aktualisieren Sie Ihre DNS-Einträge so, dass Sie ein SPF (Sender Policy Framework) mit Ihrer benutzerdefinierten Domäne verwenden können, um ausgehende e-Mails zu validieren, die von Ihrer benutzerdefinierten Domäne gesendet wurden. Dadurch wird verhindert, dass andere Personen e-Mails so manipulieren, als ob Sie von Ihrer Domäne gesendet wurden.
+Aktualisieren Sie Ihre DNS-Einträge, sodass Sie ein Sender Policy Framework (SPF) mit Ihrer benutzerdefinierten Domäne verwenden können, um ausgehende E-Mails zu überprüfen, die von Ihrer benutzerdefinierten Domäne gesendet wurden. Dadurch wird verhindert, dass andere E-Mails so "spoofing" wie von Ihrer Domäne gesendet werden.
   
-- [Einrichten von SPF zum Verhindern von Spoofing](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [Einrichten von SPF zum Verhindern von Spoofing](/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
 
-- [Hilfe beim Einrichten aller DNS-Einträge](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+- [Problembehandlung bei SPF-Einträgen](/microsoft-365/security/office-365-security/how-office-365-uses-spf-to-prevent-spoofing#SPFTroubleshoot)
+
+- [Hilfe beim Einrichten aller DNS-Einträge](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)

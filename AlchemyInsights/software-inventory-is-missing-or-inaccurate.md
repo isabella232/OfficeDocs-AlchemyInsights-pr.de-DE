@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: 9a2013dfdfec32086f3ba029b6f78bffd9fcf79c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 474672131cb7e9f52029eb8976691a305396a9b8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665285"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543963"
 ---
 # <a name="software-inventory-is-missing-or-inaccurate"></a>Fehlender oder ungenauer Softwarebestand
 
-Der Softwarebestand im Microsoft Defender ATP-Dienst enthält den Produktnamen oder -hersteller, die aktuelle Versionsnummer und die erkannten Schwachstellen und Sicherheitsrisiken. Weitere Informationen finden Sie unter [Softwarebestand – Bedrohungs- und Sicherheitsrisikoverwaltung](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
+Der Softwarebestand im Microsoft Defender ATP-Dienst enthält den Produktnamen oder -hersteller, die aktuelle Versionsnummer und die erkannten Schwachstellen und Sicherheitsrisiken. Weitere Informationen finden Sie unter [Softwarebestand – Bedrohungs- und Sicherheitsrisikoverwaltung](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
 
 Sie können vage oder unvollständige Informationen, ungenaue Versionsnummern oder korrigierte Informationen zum Softwarebestand melden, indem Sie diese Schritte befolgen.  
 

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 49f690a08ed39e5132f9e23b514d3e353b126840
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 486ac58b9b5b88b11fe45b7ace5b084190cfcee2
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737123"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543720"
 ---
 # <a name="increase-protection-from-advanced-threats"></a>Erhöhen des Schutzes vor erweiterten Bedrohungen
 
-So richten Sie Microsoft Defender für Office 365 ein oder verwalten
+So richten Oder verwalten Sie Microsoft Defender für Office 365:
 
-1. Microsoft Defender für Office 365-Features sind in Enterprise E5, Education A5 und Microsoft 365 Business verfügbar. Für alle anderen Pläne ist ein Add-On-ATP-Abonnement erforderlich. Sie müssen über *globale Administrator- oder* *Sicherheitsadministratorberechtigungen für* den Zugriff auf Defender für Office 365 verfügen.
+1. Microsoft Defender für Office 365 features are available in Enterprise E5, Education A5, and Microsoft 365 Business. Für alle anderen Pläne ist ein Microsoft Defender-Add-On für Office 365 erforderlich. Sie müssen über *globale Administrator- oder* *Sicherheitsadministratorberechtigungen für* den Zugriff auf Microsoft Defender für Office 365.
 2. Wählen Sie im Admin Center [Setup aus.](https://go.microsoft.com/fwlink/p/?linkid=2075721)
 3. Wechseln Sie **zu Anmelden und Sicherheit** Erhöhen Sie den Schutz vor  >  **erweiterten Bedrohungen,** und wählen Sie dann Anzeigen [aus.](https://go.microsoft.com/fwlink/?linkid=2109302)
 4. Wählen **Sie Verwalten** aus, und wählen Sie dann aus, an welchem der verfügbaren Richtlinientypen Sie Änderungen vornehmen möchten.

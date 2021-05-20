@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: c55550529aff28fd13c8329bc1f2303e04cf1316
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1869cff3a5ef80a90d36a7d40199c14011cd87a0
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736400"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543756"
 ---
 # <a name="create-a-sensitivity-label"></a>Erstellen einer Vertraulichkeitsbezeichnung
 
 Führen Sie die folgenden Schritte aus, um eine Vertraulichkeitsbezeichnung zu erstellen:
 
 1. Navigieren Sie zu **[Office 365 Security & Compliance Center](https://sip.protection.office.com/) > Klassifizierung > Vertraulichkeitsbezeichnungen**.
-2. Klicken Sie auf **+ Bezeichnung erstellen**, um den **Assistenten für neue Vertraulichkeitsbezeichnungen** zu starten. Weitere Informationen zu Verschlüsselungseinstellungen und automatischen Bezeichnungen finden Sie unter [Einschränken des Zugriffs auf Inhalte mithilfe der Verschlüsselung in Vertraulichkeitsbezeichnungen](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels) bzw. [Automatisches Anwenden einer Vertraulichkeitsbezeichnung auf Inhalte](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically).
-3. Wiederholen Sie diese Schritte, um weitere Bezeichnungen zu erstellen. Wenn Sie jedoch eine Unterbezeichnung erstellen möchten, wählen Sie zuerst die übergeordnete Bezeichnung aus, klicken Sie auf **...** für **Weitere Aktionen** und dann auf **Unterbezeichnung hinzufügen**.
-4. Wenn Sie alle benötigten Bezeichnungen erstellt haben, bringen Sie sie bei Bedarf durch Verschieben nach oben oder unten in die gewünschte Reihenfolge. Wenn Sie die Reihenfolge der Bezeichnungen ändern möchten, klicken Sie auf **...** für **Weitere Aktionen** und dann auf **Nach oben** oder **Nach unten**. 
+2. Klicken Sie auf **+ Bezeichnung erstellen**, um den **Assistenten für neue Vertraulichkeitsbezeichnungen** zu starten. Weitere Informationen zu Verschlüsselungseinstellungen und automatischen Bezeichnungen finden Sie unter [Einschränken des Zugriffs auf Inhalte mithilfe der Verschlüsselung in Vertraulichkeitsbeschriftungen](/microsoft-365/compliance/encryption-sensitivity-labels) bzw. [Automatisches Anwenden einer Vertraulichkeitsbezeichnung auf Inhalte](/microsoft-365/compliance/apply-sensitivity-label-automatically).
+3. Wiederholen Sie diese Schritte, um weitere Bezeichnungen zu erstellen. Wenn Sie jedoch eine untergeordnete Bezeichnung erstellen möchten, wählen Sie zuerst die übergeordnete Bezeichnung aus, wählen Sie die drei Punkte (weitere Aktionen) und dann **Untertitel hinzufügen** aus.
+4. Wenn Sie alle benötigten Bezeichnungen erstellt haben, bringen Sie sie bei Bedarf durch Verschieben nach oben oder unten in die gewünschte Reihenfolge. Um die Reihenfolge einer Beschriftung zu ändern, wählen Sie die drei Punkte (weitere Aktionen) und dann **Nach oben verschieben** oder **Nach unten verschieben** aus. 

@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3203"
 - "9001221"
-ms.openlocfilehash: 634f6804a7b2bfe5ffde62e972bff541fdf3ff68
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c06e9b017170fd23b12b11cf0aac98b2bf53db0d
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725190"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544035"
 ---
 # <a name="microsoft-defender-atp-missed-a-malicious-item"></a>Microsoft Defender ATP hat ein bösartiges Element übersehen
 
 - Übermitteln Sie die schädliche Datei an Microsoft über das [Microsoft Defender Response Portal](https://www.microsoft.com/wdsi/filesubmission/) zur Analyse. 
 - Wenn Sie angemeldet sind, finden Sie den Verlauf für eine übermittelte Datei im [Microsoft Defender Response Portal](https://www.microsoft.com/wdsi/submissionhistory).
-- Weitere Informationen finden Sie unter [Übermitteln von Dateien zur Analyse](https://docs.microsoft.com/windows/security/threat-protection/intelligence/submission-guide).
+- Weitere Informationen finden Sie unter [Übermitteln von Dateien zur Analyse](/windows/security/threat-protection/intelligence/submission-guide).

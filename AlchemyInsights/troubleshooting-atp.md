@@ -1,5 +1,5 @@
 ---
-title: Problembehandlung von Microsoft Defender für Office 365
+title: Problembehandlung bei Microsoft Defender für Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 91d73853d3ea67d6c6954fffb32dd1428e3d9976
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801442"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545267"
 ---
-# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Problembehandlung von Microsoft Defender für Office 365
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Problembehandlung bei Microsoft Defender für Office 365
 
-- Bemerken Sie Verzögerungen bei der Nachrichtenzustellung? Verwenden Sie die [dynamische Zustellungs](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) Option in Ihrer Richtlinie für ATP-sichere Anlagen. Dadurch werden Verzögerungen bei der Nachrichtenübermittlung vermieden, während Empfänger vor bösartigen Dateien geschützt werden.
+- **Bemerken Sie Verzögerungen bei der Nachrichtenzustellung?** Verwenden Sie [die Option Dynamische](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) Zustellung in Ihrer Microsoft Defender for Office 365 Richtlinie für sichere Anlagen. Dies hilft, Nachrichtenverzögerungen zu vermeiden und gleichzeitig Empfänger vor schädlichen Dateien zu schützen.
 
-- Möchten Sie Microsoft falsch positive oder falsch negative Ergebnisse melden? Über diesen [Link](https://www.microsoft.com/wdsi/filesubmission/) können Sie Dateien zur Analyse übermitteln.
+- **Möchten Sie falsch positive oder falsch negative Ergebnisse an Microsoft melden?** Verwenden [des Übermittlungs-Explorers](https://protection.office.com/reportsubmission).
 
-- Wussten Sie, dass Sie den Schutz für sichere Links für interne e-Mail-Nachrichten zwischen Empfängern in Ihrer Organisation aktivieren können? Gehen Sie folgendermaßen vor:
+-** Wussten Sie, dass Sie den Schutz sicherer Links für interne E-Mails aktivieren können, die zwischen Empfängern innerhalb Ihrer Organisation gesendet werden?** Führen Sie die folgenden Schritte aus:
 
-  1. Wechseln Sie zu, [https://protection.office.com](https://protection.office.com) und melden Sie sich mit einem globalen Administrator-oder Sicherheitsadministrator Konto an.
+  1. Wechseln Sie [https://protection.office.com](https://protection.office.com) zu und melden Sie sich mit einem globalen Administrator- oder Sicherheitsadministratorkonto an.
 
-  2. Wählen Sie im linken Navigationsbereich unter **Threat Management** die Option **Richtlinien** \> **sichere Links** aus.
+  2. Wählen Sie im linken Navigationsbereich unter **Bedrohungsverwaltung** die **Option Sichere** \> **Richtlinienlinks aus.**
 
-  3. Wählen Sie in den **Richtlinien, die für den gesamten Abschnitt Organisation gelten** , die Richtlinie aus, und klicken Sie auf **Bearbeiten** .
+  3. Wählen Sie **im Abschnitt Richtlinien, die für die gesamte Organisation gelten,** die Richtlinie aus, und klicken Sie auf **Bearbeiten**.
 
-  4. Aktivieren **Settings** Sie unter Einstellungen **die Option sichere Links auf Nachrichten anwenden, die innerhalb der Organisation gesendet werden** .
+  4. Aktivieren **Einstellungen** unter Anwenden sicherer Links auf Nachrichten, die **innerhalb der Organisation gesendet werden.**
