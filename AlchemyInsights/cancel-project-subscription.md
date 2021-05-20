@@ -1,5 +1,5 @@
 ---
-title: Projekt Abonnement kündigen
+title: Kündigen Project Abonnements
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 14f594f72e8104cbd900fcd4e2acc1232ca26167
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: c87f6ea32fa758d7b7779a77897b338edc0308e8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416480"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543396"
 ---
-# <a name="cancel-project-subscription"></a>Projekt Abonnement kündigen
+# <a name="cancel-project-subscription"></a>Kündigen Project Abonnements
 
-Administratoren können das Projekt Abonnement für Ihre Organisation im Microsoft 365 Admin Center abbrechen.
+Administratoren können das Project für ihre Organisation im Microsoft 365 kündigen.
 
-1. Wechseln Sie zur Seite **Abrechnung** \> [ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Suchen Sie auf der Registerkarte **Produkte** nach dem Projekt Abonnement, das Sie stornieren möchten. Wählen Sie **Weitere Aktionen** (drei Punkte) aus, und wählen Sie dann **Abonnement kündigen**aus.
-3. Wählen Sie im Bereich **Abonnement kündigen** einen Grund aus, warum Sie abbrechen möchten. Geben Sie optional Feedback ein.
+1. Navigieren Sie zur Seite **Abrechnung** \> [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Suchen Sie **auf** der Registerkarte Produkte nach Project Abonnement, das Sie kündigen möchten. Wählen Sie die drei Punkte (weitere Aktionen) aus, und wählen Sie dann **Abonnement abbrechen aus.**
+3. Wählen Sie im Bereich **Abonnement kündigen** einen Grund aus, warum Sie kündigen. Geben Sie optional Feedback.
 4. Wählen Sie **Speichern** aus.
 
 **Rückerstattung:** Eine anteilsmäßige Gutschrift wird Ihnen mit dem nächsten Abrechnungszyklus erstattet.
 
-Weitere Informationen finden Sie unter [kündigen Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Weitere Informationen finden Sie unter [Cancel your subscription](/microsoft-365/commerce/subscriptions/cancel-your-subscription).

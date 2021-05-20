@@ -1,5 +1,5 @@
 ---
-title: Erweiterter Bedrohungsschutz in SharePoint und OneDrive
+title: Advanced Threat Protection in SharePoint und OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,23 +13,23 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: 2cf3455fb545ce2b89d9f4278bf9474db0b07ce8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc7ea11f9cd12f3459c5da4b0fd6fe124d133293
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663332"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542928"
 ---
-# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a>Advanced Threat Protection (ATP) in SharePoint und OneDrive
+# <a name="microsoft-defender-for-office-365-in-sharepoint-and-onedrive"></a>Microsoft Defender for Office 365 in SharePoint und OneDrive
 
 Siehe hierzu:
-- [ATP für SharePoint, OneDrive und Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
-- [Bedrohungs-Explorer und Echtzeiterkennung](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
+- [Microsoft Defender for Office 365 for SharePoint, OneDrive and Teams](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Bedrohungs-Explorer und Echtzeiterkennungen](/microsoft-365/security/office-365-security/threat-explorer-views)
 
 
 Weitere Informationen:
 
-- [Virenerkennung in SpO](https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
-- [Datenverschlüsselung in ODB und SpO](https://docs.microsoft.com/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
-- [Schützen von Daten in SharePoint](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
-- [Ransomware-Erkennung und Dateien werden erneut hergestellt](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
+- [Virenerkennung in SPO](/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
+- [Datenverschlüsselung in ODB und SPO](/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
+- [Schützen Ihrer Daten in SharePoint](/sharepoint/safeguarding-your-data)</br>
+- [Erkennung und Wiederherstellung von Dateien durch Ransomware](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
