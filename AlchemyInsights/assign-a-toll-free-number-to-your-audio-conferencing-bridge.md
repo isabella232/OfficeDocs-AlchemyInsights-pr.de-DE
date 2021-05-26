@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5141"
-ms.openlocfilehash: 8d0ec82e602aff6558a08c4e5b7fb02e07167969
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 76e809d49925f842e69f0b0a17fcf1e62645e75f
+ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821113"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52626076"
 ---
-# <a name="assign-a-toll-free-number-to-your-audio-conferencing-bridge"></a><span data-ttu-id="c3932-102">Zuweisen einer kostenfreien Rufnummer zu Ihrer Audiokonferenzbrücke</span><span class="sxs-lookup"><span data-stu-id="c3932-102">Assign a toll free number to your audio conferencing bridge</span></span>
+# <a name="assign-a-toll-free-number-to-your-audio-conferencing-bridge"></a><span data-ttu-id="4aed3-102">Zuweisen einer kostenfreien Rufnummer zu Ihrer Audiokonferenzbrücke</span><span class="sxs-lookup"><span data-stu-id="4aed3-102">Assign a toll free number to your audio conferencing bridge</span></span>
 
-<span data-ttu-id="c3932-103">So weisen Sie Ihrer Audiokonferenzbrücke die neue Rufnummer zu</span><span class="sxs-lookup"><span data-stu-id="c3932-103">To assign the new phone number to your audio conferencing bridge:</span></span>
+<span data-ttu-id="4aed3-103">So weisen Sie Ihrer Audiokonferenzbrücke die neue Rufnummer zu</span><span class="sxs-lookup"><span data-stu-id="4aed3-103">To assign the new phone number to your audio conferencing bridge:</span></span>
 
-1. <span data-ttu-id="c3932-104">Melden Sie sich bei Office 365 mit Ihrem Geschäftskonto an.</span><span class="sxs-lookup"><span data-stu-id="c3932-104">Sign in to Office 365 with your work account.</span></span>
-2. <span data-ttu-id="c3932-105">Wechseln Sie zu **Microsoft 365 Admin Center > Admin Center > Teams & Skype > Legacy-Portal > Sprache > Telefonnummern**.</span><span class="sxs-lookup"><span data-stu-id="c3932-105">Go to **Microsoft 365 admin center > Admin centers > Teams & Skype > Legacy portal > Voice > Phone numbers**.</span></span>
-3. <span data-ttu-id="c3932-106">Wählen Sie die Telefonnummer aus der Liste aus, und klicken Sie im **Aktionsbereich** auf **Zuweisen**.</span><span class="sxs-lookup"><span data-stu-id="c3932-106">Select the phone number from the list, and in the **Action** pane, click **Assign**.</span></span>
-4. <span data-ttu-id="c3932-107">Klicken Sie auf der Seite **Zuweisen** auf **Speichern**.</span><span class="sxs-lookup"><span data-stu-id="c3932-107">On the **Assign** page, click **Save**.</span></span>
+1. <span data-ttu-id="4aed3-104">Navigieren Sie zum Microsoft Teams Admin Center.</span><span class="sxs-lookup"><span data-stu-id="4aed3-104">Go to the Microsoft Teams admin center.</span></span>
+1. <span data-ttu-id="4aed3-105">Navigieren Sie im linken Navigationsbereich zu **Besprechungen** > **Konferenzbrücken**.</span><span class="sxs-lookup"><span data-stu-id="4aed3-105">In the left navigation pane, go to **Meetings** > **Conference bridges**.</span></span>
+1. <span data-ttu-id="4aed3-106">Markieren Sie die gebührenpflichtige Nummer des Dienstes, die Sie als Standard konfigurieren möchten.</span><span class="sxs-lookup"><span data-stu-id="4aed3-106">Highlight the service toll number that you want to configure as the default.</span></span>
+1. <span data-ttu-id="4aed3-107">Wählen Sie **Als Standard festlegen** aus.</span><span class="sxs-lookup"><span data-stu-id="4aed3-107">Select **Set as default**.</span></span>
 
-<span data-ttu-id="c3932-108">Weitere Informationen finden Sie unter [Ändern der Telefonnummern in Ihrer Audiokonferenzbrücke](https://docs.microsoft.com/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge).</span><span class="sxs-lookup"><span data-stu-id="c3932-108">For more information, see [Change the phone numbers on your Audio Conferencing bridge](https://docs.microsoft.com/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge).</span></span>
+<span data-ttu-id="4aed3-108">Weitere Informationen finden Sie unter [Ändern der Telefonnummern in Ihrer Audiokonferenzbrücke](/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge).</span><span class="sxs-lookup"><span data-stu-id="4aed3-108">For more information, see [Change the phone numbers on your Audio Conferencing bridge](/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge).</span></span>
