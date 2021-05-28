@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: ab1c412f0214f0e2cea8351415f8c550ada9409a
-ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
+ms.openlocfilehash: 2290950f6a6b4680b3c436307f5c2dbaa1be527d
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52573745"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696885"
 ---
 # <a name="disable-chat"></a>Deaktivieren des Chats
 
@@ -26,7 +26,7 @@ Um den Chat für Ihre Organisation zu aktivieren oder zu deaktivieren, können S
 
 - **Besprechung**: Klicken Sie im Admin Center von Teams auf [Besprechungsrichtlinien](https://admin.teams.microsoft.com/) – stellen Sie für den Chat **Chat in Besprechungen zulassen** ein. Weitere Informationen zum Erstellen von benutzerdefinierten Besprechungsrichtlinien finden Sie unter [Besprechungsrichtlinien in Teams verwalten](/microsoftteams/meeting-policies-in-teams) und [Chat in Besprechungen zulassen](/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings).
 
-- **Nachrichten**: Wechseln Sie im Teams Admin Center zu [Nachrichtenrichtlinien](https://admin.teams.microsoft.com/) und schalten Sie den **Chat ein** oder **Aus**. Weitere Informationen zu benutzerdefinierten Richtlinien und zum Zuweisen von Richtlinien an Benutzer erhalten Sie unter [Verwalten von Nachrichtenrichtlinien in Teams](/microsoftteams/messaging-policies-in-teams).
+- **Nachrichten**: Wechseln Sie im Teams Admin Center zu [Nachrichtenrichtlinien](https://admin.teams.microsoft.com/), und schalten Sie auf **Chat ein** oder **aus**. Weitere Informationen zu benutzerdefinierten Richtlinien und zum Zuweisen von Richtlinien an Benutzer erhalten Sie unter [Verwalten von Nachrichtenrichtlinien in Teams](/microsoftteams/messaging-policies-in-teams).
 
 - **Kursteilnehmer**: Informationen zum Deaktivieren des Chats für einen Kursteilnehmer finden Sie in den Optionen zum Zulassen des Chats in Besprechungen sowie zum Zulassen von Einzelchats unter [Teams-Richtlinien und -Richtlinienpakete für Bildungseinrichtungen](/microsoftteams/policy-packages-edu).
 
