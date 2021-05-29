@@ -12,25 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "5037"
-ms.openlocfilehash: 0cce7319860b28ccb6fc9da053f6ce127b8504fa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 34a034bd06599685e0cb0b9e127aab0c8f1691a3
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809762"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52697029"
 ---
 # <a name="recording-in-teams"></a>Aufzeichnen in Teams
 
-Microsoft Teams-Besprechungsaufzeichnungen können nun in OneDrive oder SharePoint gespeichert werden. Weitere Informationen sowie die Möglichkeit zur Anmeldung dazu finden Sie im folgenden Nachrichtencenter-Beitrag: [(Aktualisiert) Microsoft Teams: Besprechungsaufzeichnungen gespeichert in OneDrive und SharePoint](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
+Wenn die Schaltfläche zum **Aufzeichnen** bei einem Benutzer abgeblendet ist oder in einer Microsoft Teams-Besprechung nicht angezeigt wird, führen Sie die Diagnosefunktion für Besprechungsaufzeichnungen aus, indem Sie **Diag: Besprechungsaufzeichnung** in das Feld oben eingeben. 
 
-Durch die Verlagerung des Speicherortes auf OneDrive oder SharePoint entfällt die bisherige Anforderung, dass Stream in Ihrer Region verfügbar sein muss.
+Microsoft Teams-Besprechungsaufzeichnungen können jetzt in OneDrive SharePoint gespeichert werden. Durch das Verlegen Ihres Speicherorts nach OneDrive und SharePoint lässt sich das Problem beheben, dass Besprechungsaufzeichnungen evtl. nicht funktionierten, weil Stream in Ihrer Region nicht verfügbar ist. Weitere Informationen finden Sie in den [häufig gestellte Fragen zu Microsoft Stream](/stream/faq#which-regions-does-microsoft-stream-host-my-data-in).
 
-Wie Sie in Teams die **Aufzeichnungsfunktion** für Ihre Organisation aktivieren und konfigurieren, **einschließlich der Steuerelemente zum Aktivieren oder Deaktivieren der Besprechungsaufzeichnung für bestimmte Benutzer**, erfahren Sie in [Aufzeichnung einer Teams-Besprechung in der Cloud](https://docs.microsoft.com/microsoftteams/cloud-recording).
+Näheres zum Speichern von Besprechungsaufzeichnungen finden Sie im Beitrag im Nachrichtencenter: [(Aktualisiert) Microsoft Teams: In OneDrive und SharePoint gespeicherte Besprechungsaufzeichnungen](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640).
 
-Wenn Sie **in Teams nicht aufzeichnen können oder nicht wissen, wie die Aufzeichnung in Teams funktioniert**, lesen Sie einen der folgenden Artikel:
+Wie Sie in Microsoft Teams die Aufzeichnungsfunktion für Ihre Organisation aktivieren und konfigurieren, einschließlich der Steuerelemente zum Aktivieren oder Deaktivieren der Besprechungsaufzeichnung für bestimmte Benutzer, erfahren Sie in  [Aufzeichnen von Microsoft Teams-Besprechungen in der Cloud](/microsoftteams/cloud-recording). 
 
-- Wenn Sie sich noch nicht für OneDrive- oder SharePoint-Speicher für Teams-Besprechungsaufzeichnungen entschieden haben, sind diese Funktionen von der regionalen und länderspezifischen Verfügbarkeit von Stream abhängig. Wenn Sie eine Besprechung nicht aufzeichnen können, überprüfen Sie die [Verfügbarkeit von Stream in Ihrem Land oder Ihrer Region](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in). Wenn Sie weitere Informationen erhalten möchten, lesen Sie den folgenden Beitrag im Nachrichtencenter im Administratorportal: [Aktualisiertes Feature: Regionale Speichersteuerung für Microsoft Stream Cloud-Aufzeichnungen](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
+Wenn das Aufzeichnen in Microsoft Teams weiterhin nicht möglich ist, oder Sie nicht genau wissen, wie das geht, lesen Sie: 
 
-- Zur Nutzung der Besprechungsaufzeichnung in Teams [müssen bestimmte Lizenzen und Richtlinien zugewiesen werden](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording), beispielsweise Stream-Lizenzen zum Hochladen oder Herunterladen von Besprechungsaufzeichnungen in Microsoft Stream.
+[Aktualisiertes Feature: Microsoft Stream-Cloudaufzeichnungen – regionale Speicherkontrolle](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
 
-- Nachdem Sie sich vergewissert haben, dass alle Anforderungen, einschließlich Lizenzierung, Richtlinien und regionaler Verfügbarkeit von Stream, erfüllt sind, lesen Sie [Aufzeichnen einer Besprechung in Teams](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24).
+Zur Nutzung der Besprechungsaufzeichnung in Microsoft Teams sind bestimmte zugewiesene Lizenzen und Richtlinien erforderlich, beispielsweise Stream-Lizenzen zum Hochladen oder Herunterladen von Besprechungsaufzeichnungen in Microsoft Stream. Einzelheiten finden Sie unter [Voraussetzungen für die Aufzeichnung von Microsoft Teams-Cloudbesprechungen](/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording).
+
+Nachdem Sie sich vergewissert haben, dass alle Anforderungen, einschließlich Lizenzierung, Richtlinien und regionaler Verfügbarkeit von Stream, erfüllt sind, lesen Sie  [Aufzeichnen einer Besprechung in Microsoft Teams](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24). 
