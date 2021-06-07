@@ -13,26 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "8263"
 - "9004610"
-ms.openlocfilehash: 49f813e7ae4942c11033260d5abd62827a92da1b
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: c855ce4df75cd169719d51f380de2e3f0a348394
+ms.sourcegitcommit: f7a9e97d04b7b6cbb633b32094d40f1874bf0fce
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898315"
+ms.lasthandoff: 06/06/2021
+ms.locfileid: "52783112"
 ---
 # <a name="information-about-teams-contacts"></a>Informationen über Teams-Kontakte
-
-Wenn Kontakte für einen oder mehrere Benutzer nicht synchronisiert werden, machen Sie Folgendes:
-- Stellen Sie sicher, dass das Exchange-Postfach online gehostet ist (nicht lokal). Weitere Informationen finden Sie unter [Interaktion von Exchange und Microsoft Teams](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
-- Stellen Sie sicher, dass die Telefonnummer des Kontaktes zu den Kontaktinformationen hinzugefügt ist.
 
 Microsoft Teams verwendet die folgenden Kontakte:
 
 - Kontakte in der Active Directory Ihrer Organisation
 - Kontakte, die dem Outlook-Standardordner des Benutzers hinzugefügt wurden
 
-Microsoft Teams-Benutzer können mit jeder Person im Active Directory Ihrer Organisation kommunizieren, und sie können jede Person im Active Directory Ihrer Organisation als Kontakt zu ihren Kontaktlisten hinzufügen, indem sie zu **Chat > Kontakte oder Anrufe > Kontakte** gehen.
+Wenn Kontakte für einen oder mehrere Benutzer nicht synchronisiert werden, machen Sie Folgendes:
 
-Microsoft Teams-Benutzer können außerdem eine Person, die sich nicht im Active Directory Ihrer Organisation befindet, unter **Anrufe > Kontakte** als Kontakt hinzufügen.
+- Stellen Sie sicher, dass das Exchange-Postfach online gehostet ist (nicht lokal). Weitere Informationen finden Sie unter [Interaktion von Exchange und Microsoft Teams](/microsoftteams/exchange-teams-interact).
+- Stellen Sie sicher, dass die Telefonnummer des Kontaktes zu den Kontaktinformationen hinzugefügt ist.
+- Suchen Sie in der **Suchleiste** nach der E-Mail des Kontakts. Kontakte, die Sie mit der Kontaktliste synchronisieren können.
 
 
