@@ -13,17 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "11512"
 - "9006672"
-ms.openlocfilehash: 988e97896cc1000c11ce1e81cd169090b1c39104
-ms.sourcegitcommit: 9de78b30602f917d58705057cdcce31fec349969
+ms.openlocfilehash: c5b0721d286b07d7e0f84199885b6f527a2b42a2
+ms.sourcegitcommit: f7a9e97d04b7b6cbb633b32094d40f1874bf0fce
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "52760832"
+ms.lasthandoff: 06/06/2021
+ms.locfileid: "52783140"
 ---
 # <a name="manage-webinar-registration"></a>Verwalten der Webinarregistrierung
 
-Mithilfe der Teams PowerShell-Befehlen können Sie verwalten, wer sich für Teams-Webinare registrieren kann. Standardmäßig ist *WhoCanRegister* aktiviert und auf **Jeder** festgelegt. Wenn Sie die Besprechungsregistrierung deaktivieren möchten, legen Sie *AllowMeetingRegistration* auf **False** fest.
+Sie verwalten mithilfe von Teams PowerShell-Befehlen, wer sich für Teams-Webinare registrieren kann. Informationen zum Installieren von Teams PowerShell finden Sie unter [Teams PowerShell](/microsoftteams/teams-powershell-install). 
 
-Um diese Einstellungen zu ändern, müssen Sie [Teams PowerShell](/microsoftteams/teams-powershell-install) installieren. Außerdem werden Besprechungsrichtlinien in Teams-Webinaren erzwungen. Wenn der anonyme Beitritt beispielsweise in den Besprechungseinstellungen deaktiviert ist, können anonyme Benutzer nicht an Webinaren teilnehmen.
+Standardmäßig ist *WhoCanRegister* aktiviert und auf **EveryoneInCompany** festgelegt. Damit sich jeder, einschließlich anonymer Benutzer, registrieren kann, müssen Sie die Besprechungsrichtlinie mithilfe des PowerShell-Befehls auf **Jeder** festlegen:
+
+`Set-CsTeamsMeetingPolicy -WhoCanRegister Everyone`
+
+**Hinweis**: Wenn der anonyme Beitritt in den Besprechungseinstellungen deaktiviert ist, können anonyme Benutzer nicht an Webinaren teilnehmen. Weitere Informationen und die Aktivierung dieser Einstellung finden Sie unter [Verwalten von Besprechungseinstellungen in Microsoft Teams](/microsoftteams/meeting-settings-in-teams).
+
+Wenn Sie die Besprechungsregistrierung deaktivieren möchten, legen Sie *AllowMeetingRegistration* auf **False** fest.
 
 Weitere Informationen dazu, wie Sie konfigurieren können, wer sich für Webinare registrieren kann, finden Sie unter [Konfigurieren, wer sich für Webinare registrieren kann](/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars). Weitere Informationen zu den Einstellungen für Microsoft Listen finden Sie unter [Steuern der Einstellungen für Microsoft Listen](/sharepoint/control-lists).
