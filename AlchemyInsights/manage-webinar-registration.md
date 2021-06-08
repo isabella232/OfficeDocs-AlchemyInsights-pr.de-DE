@@ -13,18 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "11512"
 - "9006672"
-ms.openlocfilehash: c5b0721d286b07d7e0f84199885b6f527a2b42a2
-ms.sourcegitcommit: f7a9e97d04b7b6cbb633b32094d40f1874bf0fce
+ms.openlocfilehash: 0db6f434fa74970ac6083501ab26762cc6b7885f
+ms.sourcegitcommit: 1eee2412dfb8b1f10a3aa28dd1086a0c589cdba0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52783140"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798643"
 ---
 # <a name="manage-webinar-registration"></a>Verwalten der Webinarregistrierung
 
 Sie verwalten mithilfe von Teams PowerShell-Befehlen, wer sich für Teams-Webinare registrieren kann. Informationen zum Installieren von Teams PowerShell finden Sie unter [Teams PowerShell](/microsoftteams/teams-powershell-install). 
 
-Standardmäßig ist *WhoCanRegister* aktiviert und auf **EveryoneInCompany** festgelegt. Damit sich jeder, einschließlich anonymer Benutzer, registrieren kann, müssen Sie die Besprechungsrichtlinie mithilfe des PowerShell-Befehls auf **Jeder** festlegen:
+Standardmäßig ist *WhoCanRegister* aktiviert und auf **Jeder** festgelegt. 
+
+Wenn in der Besprechungseinladung die Option, die Registrierung für jeden zuzulassen, nicht angezeigt wird, legen Sie *WhoCanRegister* erneut auf „Jeder“ fest, und warten Sie 24 Stunden. Zum erneuten Ausführen von *WhoCanRegister* verwenden Sie den PowerShell-Befehl:
 
 `Set-CsTeamsMeetingPolicy -WhoCanRegister Everyone`
 

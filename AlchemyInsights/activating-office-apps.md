@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 8755fde0cb22dd79612c74d8c7af792625405ac2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 46a9be285ec7e0eb491ec73651f81ea5a33654d2
+ms.sourcegitcommit: 1eee2412dfb8b1f10a3aa28dd1086a0c589cdba0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823030"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798607"
 ---
 # <a name="activating-microsoft-365-apps"></a>Aktivieren von Microsoft 365-Apps
+
+**Hinweis**: Wenn Sie eine ältere Version von Windows verwenden (z. B. Windows 7), stellen Sie sicher, dass TLS 1.2 als Standard aktiviert ist. Weitere Informationen finden Sie unter [Update zum Aktivieren von TLS 1.1 und TLS 1.2 als sichere Standardprotokolle in WinHTTP unter Windows](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392).
 
 So aktivieren Sie Office:
 
@@ -27,7 +29,7 @@ So aktivieren Sie Office:
 
 - [Aktivieren von Office auf einem Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Hinweis:** Stellen Sie sicher, dass Sie über ein Office 365- oder ein Microsoft 365-Abonnement verfügen, das [Office-Client-Apps beinhaltet](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e), z. B. Microsoft 365 Business Standard, Microsoft 365 Apps for Business oder Microsoft 365 Apps for Enterprise. Vergewissern Sie sich außerdem, dass dem Benutzerkonto, mit dem Sie sich bei Office-Apps anmelden, [eine Lizenz zugewiesen](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) ist.
+**Hinweis:** Stellen Sie sicher, dass Sie über ein Office 365- oder ein Microsoft 365-Abonnement verfügen, das [Office-Client-Apps beinhaltet](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e), z. B. Microsoft 365 Business Standard, Microsoft 365 Apps for Business oder Microsoft 365 Apps for Enterprise. Vergewissern Sie sich außerdem, dass dem Benutzerkonto, mit dem Sie sich bei Office-Apps anmelden, [eine Lizenz zugewiesen](/microsoft-365/admin/manage/assign-licenses-to-users) ist.
 
 Behandeln von Office-Aktivierungsproblemen:
 
@@ -46,6 +48,6 @@ Wenn Sie sich bei Microsoft 365-Apps nicht anmelden können, führen Sie die fol
 
 3. Trennen Sie unter Verwendung von Windows **Einstellungen > Konten > Zugriff auf Geschäft, Schule oder Uni** alte oder nicht verwendete Geschäftskonten.
 
-4. [Setzen Sie den Office-Aktivierungsstatus zurück](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state), und [melden Sie sich dann mit dem neuen Konto bei Office-Apps an](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426).
+4. [Setzen Sie den Office-Aktivierungsstatus zurück](/office365/troubleshoot/activation/reset-office-365-proplus-activation-state), und [melden Sie sich dann mit dem neuen Konto bei Office-Apps an](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426).
 
 Weitere Problembehandlungen finden Sie unter [Beim Öffnen einer Office 365-Anwendung wird ein Hinweis zu meinem Abonnement angezeigt](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).
