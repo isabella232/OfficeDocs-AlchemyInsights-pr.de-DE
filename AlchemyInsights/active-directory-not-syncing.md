@@ -11,22 +11,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001688"
+- "1300023"
 - "3754"
-ms.openlocfilehash: 274855457a143cfccd25f9a161ff894882cee9c4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+- "4531"
+ms.openlocfilehash: 0da512379e5a2f6ccb773e18c465e545c0660560
+ms.sourcegitcommit: e42bb24c9bae1d0df8c49c424d2aa5e7466703ac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822850"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52930974"
 ---
 # <a name="active-directory-not-syncing"></a>Active Directory wird nicht synchronisiert
 
-Wenn Sie Synchronisierungsfehler erhalten, z. B. "keine aktuelle Synchronisierung", oder beachten Sie den Verzeichnissynchronisierungsstatus im Office-Verwaltungsportal: "Letzte Synchronisierung vor mehr als 3 Tagen", kann es sein, dass AADConnect falsche Einstellungen oder unzureichende Berechtigungen zum Ausführen einer Synchronisierung hat.  
+Wenn Sie Synchronisierungsfehler erhalten, z. B. "keine aktuelle Synchronisierung", oder beachten Sie, dass der Status der Verzeichnissynchronisierung im Office Verwaltungsportal besagt: "Letzte Synchronisierung vor mehr als 3 Tagen", kann es sein, dass AADConnect über falsche Einstellungen oder unzureichende Berechtigungen zum Ausführen einer Synchronisierung verfügt.  
 
-Durch das erneute Installieren von AADConnect mithilfe von Expresseinstellungen kann das Problem schnell behoben werden:
+Durch erneutes Installieren von AADConnect mithilfe von Expresseinstellungen kann das Problem schnell behoben werden:
 
-1. [Laden Sie die neueste Version von AADConnect herunter.](https://go.microsoft.com/fwlink/?LinkId=615771)
+1. [Laden Sie die neueste Version von AADConnect](https://go.microsoft.com/fwlink/?LinkId=615771)herunter.
 
-2. [Befolgen Sie die Anweisungen für die Expressinstallation](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
+2. [Folgen Sie den Anweisungen für die Expressinstallation.](/azure/active-directory/hybrid/how-to-connect-install-express)
 
-Weitere Informationen zu AADConnect-Dienstkonten finden Sie unter [Azure AD Connect: Konten und Berechtigungen](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).
+Azure AD Connect muss unter Windows Server 2012 oder höher installiert sein. Dieser Server muss der Domäne beigetreten sein und kann ein Domänencontroller oder ein Mitgliedsserver sein. Eine vollständige Liste der Azure AD-Verbinden Anforderungen und Voraussetzungen erhalten Sie unter ["Voraussetzungen für Azure AD Verbinden."](/azure/active-directory/hybrid/how-to-connect-install-prerequisites)
+
+Weitere Informationen zu AADConnect-Dienstkonten finden Sie unter [Azure AD Connect: Konten und Berechtigungen](/azure/active-directory/hybrid/reference-connect-accounts-permissions).
