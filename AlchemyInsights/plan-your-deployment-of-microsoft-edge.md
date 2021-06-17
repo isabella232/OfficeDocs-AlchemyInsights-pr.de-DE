@@ -12,23 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005291"
 - "9140"
-ms.openlocfilehash: 91f94fa8739bad387c18586fc89f69cc49675b04
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+- "11087"
+- "9006490"
+ms.openlocfilehash: dd3449ccd6eeb5fc9162e9679f5de39bacc46efa
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898101"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989932"
 ---
 # <a name="plan-your-deployment-of-microsoft-edge"></a>Planen der Bereitstellung von Microsoft Edge
 
-Die Bereitstellung eines neuen Browsers für eine Reihe von Benutzern kann bedenklich sein. Wir können Ihnen dabei helfen, sie in Schritte zu unterbrechen und sie durch die einzelnen Schritte zu gehen. Wenn Sie diese sieben Schritte ausführen, haben Sie eine erfolgreiche Microsoft Edge-Bereitstellung mit minimalem Benutzer frustriert:
+Die Bereitstellung eines neuen Browsers für eine Gruppe von Benutzern kann entmutigend wirken. Wir können Ihnen dabei helfen, sie in Schritte aufzubrechen und Sie durch die einzelnen Schritte zu führen. Wenn Sie diese sieben Schritte ausführen, haben Sie eine erfolgreiche Microsoft Edge Bereitstellung mit minimaler Benutzerzufriedenheit:
 
-1. Bewerten Der vorhandenen Browserumgebung und -anforderungen.
-2. Bestimmen Sie Ihre Bereitstellungsmethode.
-3. Machen Sie die Websiteermittlung.
-4. Bestimmen Sie Ihre Kanalstrategie.
+1. Bewerten Sie Ihre vorhandene Browserumgebung und -anforderungen.
+2. Ermitteln Sie Ihre Bereitstellungsmethode.
+3. Führen Sie die Websiteermittlung durch.
+4. Ermitteln Sie Ihre Kanalstrategie.
 5. Definieren und Konfigurieren von Richtlinien.
-6. Durchführen von App-Kompatibilitätstests.
-7. Stellen Sie Microsoft Edge in einer Pilotgruppe aus, und überprüfen Sie es.
+6. Führen Sie App-Kompatibilitätstests durch.
+7. Stellen Sie Microsoft Edge für eine Pilotgruppe bereit, und überprüfen Sie sie.
 
-Informationen zum Ausführen dieser Schritte finden Sie unter [Plan your deployment of Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2129990).
+Informationen zum eigenständigen Ausführen dieser Schritte finden Sie unter [Planen der Bereitstellung von Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2129990)
