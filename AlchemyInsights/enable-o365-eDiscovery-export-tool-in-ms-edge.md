@@ -1,5 +1,5 @@
 ---
-title: Aktivieren Office 365 eDiscovery-Export Tools in Microsoft Edge
+title: Aktivieren Office 365 eDiscovery-Exporttools in Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,21 @@ ms.collection: Admin_O365
 ms.custom:
 - "9003878"
 - "6930"
-ms.openlocfilehash: c3d4b45d77ffb47db458f11aeab183230d3fa9cc
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "11694"
+- "9006005"
+ms.openlocfilehash: 00b64ee8999ce47cac1f36a8fc3af32783e2e1a1
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576461"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023174"
 ---
-# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>Aktivieren Office 365 eDiscovery-Export Tools in Microsoft Edge
+# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>Aktivieren Office 365 eDiscovery-Exporttools in Microsoft Edge
 
-Die Unterstützung für ClickOnce ist in Microsoft Edge standardmäßig nicht mehr aktiviert. Um das eDiscovery-Export Tool Microsoft Office 365 weiterhin zu verwenden, müssen Sie wie folgt Microsoft Internet Explorer verwenden oder die Option ClickOnce-Unterstützung in Chrom basiertem Microsoft Edge aktivieren:
+Die Unterstützung für ClickOnce ist in Microsoft Edge standardmäßig nicht mehr aktiviert. Um das Microsoft Office 365 eDiscovery-Exporttool weiterhin verwenden zu können, müssen Sie Microsoft Internet Explorer verwenden oder die Option ClickOnce Support in Chromium-basierten Microsoft Edge aktivieren, wie folgt:
 
-1. Wechseln Sie zu Edge://Flags/#Edge-Click-Once.
-1. Ändern Sie für die Option **ClickOnce-Unterstützung** den Wert von **Standard** oder **deaktiviert** in **aktiviert**.
-1. Klicken Sie am unteren Rand des Browserfensters auf **neu starten**. Die Änderung wird nach dem Neustart von Microsoft Edge wirksam.
+1. Wechseln Sie zu edge://flags/#edge-click-once.
+1. Ändern Sie für die **Option ClickOnce Support** den Wert von **"Standard"** oder **"Deaktiviert"** in **"Aktiviert".**
+1. Klicken Sie am unteren Rand des Browserfensters auf **"Neu starten".** Die Änderung wird nach dem Neustart von Microsoft Edge wirksam.
 
-Weitere Informationen finden Sie unter [Verwenden des Office 365 eDiscovery-Export Tools in Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2111611).
+Weitere Informationen finden Sie unter [Verwenden des Office 365 eDiscovery-Exporttools in Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2111611)
