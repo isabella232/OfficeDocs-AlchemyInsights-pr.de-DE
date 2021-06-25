@@ -1,5 +1,5 @@
 ---
-title: Office 365 for Education-Pläne und Preise
+title: Office 365 für Bildungseinrichtungen – Pläne und Preise
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,17 +14,19 @@ ms.custom:
 - "476"
 - "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: 95d398a7f287899d11dc069e9874db805c5f51a8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6abec5038c8b0e0089ed3080f5b06db85766791f
+ms.sourcegitcommit: beed1fe0708571c17c4cf6a4d028fc3a2553847a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829591"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "53104601"
 ---
-# <a name="get-microsoft-365-free-for-your-entire-school"></a>Kostenloses Nutzen von Microsoft 365 für Ihre gesamte Schule
+# <a name="get-microsoft-365-free-for-your-entire-school"></a>Kostenlosen Microsoft 365 für Ihre gesamte Schule erhalten
 
-Verbessern Sie die Zusammenarbeit von Kursräumen und Schulen mit kostenlosen Produktivitätstools. Sie müssen überprüfen, ob Sie eine akkreditierte akademische Einrichtung sind, um diese Angebote nutzen zu können.
+Verbessern Sie die Zusammenarbeit in Klassenzimmern und Schulen mit kostenlosen Produktivitätstools. Sie müssen überprüfen, ob Sie eine akkreditierte akademische Bildungseinrichtung sind, um diese Angebote nutzen zu können.
   
-- [Überprüfen der Bildungspläne](https://products.office.com/academic/compare-office-365-education-plans)
+- [Überprüfen der Education-Pläne](https://products.office.com/academic/compare-office-365-education-plans)
 
-- [Vergleichen aller Microsoft 365-Abonnements](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Erste Schritte mit Office 365 Education](https://support.office.com/article/get-started-with-office-365-education-ab02abe5-a1ee-458c-b749-5b44416ccf14?wt.mc_id=o365_portal_mmaven&ui=en-US&rs=en-US&ad=US)
+
+- [Vergleichen aller Microsoft 365 Abonnements](https://products.office.com/business/compare-more-office-365-for-business-plans)
