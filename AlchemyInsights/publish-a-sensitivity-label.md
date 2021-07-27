@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 7df40e2c747c1701c6f66a1127d484fde3e9ce60
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 1db4d15b45ff95a643ceca788667de9fb6a8f4bc
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52539643"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532254"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>So wird eine Vertraulichkeitsbezeichnung veröffentlicht
 
-1. Navigieren Sie zu Office 365 Security & Compliance Center > **Klassifizierung** > **Vertraulichkeitsbezeichnungen**.
+1. Wechseln Sie zum Microsoft 365 Compliance Center > **Information Protection** > **Bezeichnungsrichtlinien**.
 
-1. Wählen Sie auf der Seite "Vertraulichkeitsbezeichnungen" die Registerkarte **"Bezeichnungsrichtlinien"** und dann **"Bezeichnungen veröffentlichen"**.
+1. Wählen Sie **+ Bezeichnung veröffentlichen** aus, um den Assistenten für neue Vertraulichkeitsbezeichnungen zu starten.
 
 1. Wählen Sie **Zu veröffentlichende Vertraulichkeitsbezeichnungen auswählen** aus. Wählen Sie die Bezeichnungen, die Sie in Apps und Diensten zur Verfügung stellen möchten, und dann **Hinzufügen** aus.
 
@@ -34,7 +34,7 @@ ms.locfileid: "52539643"
 
 1. Folgen Sie den Eingabeaufforderungen, um die Richtlinieneinstellungen zu konfigurieren.
 
-1. Wiederholen Sie diese Schritte, wenn Sie für verschiedene Benutzer oder Standorte unterschiedliche Richtlinieneinstellungen benötigen. Sie möchten z. B. zusätzliche Bezeichnungen für eine Gruppe von Benutzern oder eine andere Standardbezeichnung für eine Untergruppe von Benutzern festlegen.
+1. Wiederholen Sie diese Schritte, wenn Sie für verschiedene Benutzer oder Standorte unterschiedliche Richtlinieneinstellungen benötigen. Sie möchten z. B. zusätzliche Bezeichnungen für eine Gruppe von Benutzern oder eine andere Standardbezeichnung für eine Untergruppe von Benutzern festlegen.
 
 1. Wenn Sie mehrere Bezeichnungsrichtlinie erstellen, die zu einem Konflikt für einen Benutzer oder Standort führen könnten, überprüfen Sie die Reihenfolge der Richtlinien und verschieben Sie einzelne Richtlinien gegebenenfalls nach oben oder unten. Um die Reihenfolge einer Bezeichnungsrichtlinie zu ändern, wählen Sie die drei Punkte (weitere Aktionen) und wählen Sie dann **Nach oben verschieben** oder **Nach unten verschieben** aus.
 
