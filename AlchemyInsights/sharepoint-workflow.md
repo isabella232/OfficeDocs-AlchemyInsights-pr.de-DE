@@ -15,22 +15,20 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: a0d05285539d498aa27b1f54880da9c5110acf98
-ms.sourcegitcommit: e2f1c3a8adcce7e7e545ec13d5aeae3cf2f67db7
+ms.openlocfilehash: 14680a039068688e0740ba2a7dee5c168d03d9d2
+ms.sourcegitcommit: 380ee556007d2be389b1a99795bca04bc1f9f60f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/26/2021
-ms.locfileid: "53586933"
+ms.lasthandoff: 07/27/2021
+ms.locfileid: "53604884"
 ---
 # <a name="troubleshoot-workflows-in-sharepoint"></a>Problembehandlung für Workflows in SharePoint
-
-**Problembehandlung und Debuggen von Workflows in SharePoint**
 
 Weitere Informationen finden Sie unter:
 
 - [Problembehandlung bei SharePoint Workflowvalidierungsfehlern](/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
 - [Debuggen SharePoint Workflows.](/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
-- [Sammeln SharePoint 2013 Workflow-Problembehandlungsdaten mit ShowScopeDebugInfo](/sharepoint/troubleshoot/workflows/gather-workflow-data)
+- [Sammeln SharePoint 2013-Workflowproblembehandlungsdaten mit ShowScopeDebugInfo](/sharepoint/troubleshoot/workflows/gather-workflow-data)
 
 **Power Automate**
 
