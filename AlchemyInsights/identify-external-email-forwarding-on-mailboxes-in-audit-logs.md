@@ -1,5 +1,5 @@
 ---
-title: Identifizieren der externen e-Mail-Weiterleitung für Postfächer in Überwachungsprotokollen
+title: Identifizieren der externen E-Mail-Weiterleitung für Postfächer in Überwachungsprotokollen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,31 +13,31 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: d06ef83adcae1342173a6fe75f79525c7e1797ce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7146b2b09b6ac1e33b192dcbcbfb72ea2593313
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696296"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630248"
 ---
-# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Ermitteln, wann externe e-Mail-Weiterleitung für Postfächer konfiguriert ist
+# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Ermitteln, wann die externe E-Mail-Weiterleitung für Postfächer konfiguriert ist
 
-Wenn ein Microsoft 365-Benutzer die externe e-Mail-Weiterleitung für ein Postfach konfiguriert, wird die Aktivität im Rahmen des Cmdlets "Set **-Mailbox** " überwacht. Sie können die Aktivität mithilfe der Überwachungsprotokoll Suche im Security & Compliance Center anzeigen.
+Wenn ein Microsoft 365 Benutzer die externe E-Mail-Weiterleitung für ein Postfach konfiguriert, wird die Aktivität als Teil des Cmdlets **"Set-Mailbox"** überwacht. Sie können die Aktivität mithilfe der Überwachungsprotokollsuche im Security & Compliance Center anzeigen.
 
-1. Melden Sie sich beim [Microsoft 365 Security & Compliance Center](https://protection.office.com/)an.
+1. Melden Sie sich beim [Microsoft 365 Compliance Center](https://protection.office.com/)an.
 
-2. Wechseln Sie zur **Search**  >  Suchseite**Überwachungsprotokoll** suchen.
+2. Wechseln Sie zur Suchseite des  >  **Überwachungsprotokolls** für die Suche.
 
-3. Wählen Sie den Datumsbereich in den Feldern **Start Datum** und **Enddatum** aus. Sie müssen keinen Benutzernamen angeben. Stellen Sie sicher, dass das Feld **Aktivitäten** auf **Ergebnisse für alle Aktivitäten anzeigen**festgelegt ist.
+3. Wählen Sie den Datumsbereich in den Feldern **Startdatum** und Enddatum aus.  Sie müssen keinen Benutzernamen angeben. Überprüfen Sie, ob das Feld **"Aktivitäten"** auf **"Ergebnisse für alle Aktivitäten anzeigen"** festgelegt ist.
 
 4. Klicken Sie auf **Suchen**.
 
-Klicken Sie in den Ergebnissen auf **Filterergebnisse** , und geben Sie im Feld Aktivitäts Filter den Text **Satz-Postfach** ein. Wählen Sie einen Überwachungseintrag in den Ergebnissen aus. Klicken Sie im **Detail** Flyout auf **Weitere Informationen**. Sie müssen sich die Details jedes Überwachungsdatensatzes ansehen, um festzustellen, ob die Aktivität mit der e-Mail-Weiterleitung zusammenhängt.
+Klicken Sie in den Ergebnissen auf **"Ergebnisse filtern",** und geben **Sie "Set-Mailbox"** im Aktivitätsfilterfeld ein. Wählen Sie einen Überwachungsdatensatz in den Ergebnissen aus. Klicken Sie im **Flyout "Details"** auf **"Weitere Informationen".** Sie müssen sich die Details jedes Überwachungsdatensatzes ansehen, um festzustellen, ob die Aktivität mit der E-Mail-Weiterleitung zusammenhängt.
 
-- **ObjectID**: der Alias Wert des Postfachs, das geändert wurde.
+- **ObjectId**: Der Aliaswert des Postfachs, das geändert wurde.
 
-- **Parameter**: _ForwardingSmtpAddress_ gibt die Ziel-e-Mail-Adresse an.
+- **Parameter:** _ForwardingSmtpAddress_ gibt die E-Mail-Zieladresse an.
 
-- **UserID**: der Benutzer, der die e-Mail-Weiterleitung für das Postfach im Feld **objectID** konfiguriert hat.
+- **UserId**: Der Benutzer, der die E-Mail-Weiterleitung für das Postfach im **Feld ObjectId** konfiguriert hat.
 
-Weitere Informationen finden Sie unter [bestimmen der Personen, die die e-Mail-Weiterleitung für ein Postfach eingerichtet](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)haben.
+Weitere Informationen finden Sie unter [Ermitteln, wer die E-Mail-Weiterleitung für ein Postfach eingerichtet hat.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)

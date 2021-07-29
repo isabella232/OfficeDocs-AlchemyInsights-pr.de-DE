@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: 0dc9fb2d34e8b2538c6174e401c20a40b216efce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a135fae4b6fb7369fd289ecdd5af50935e0c219e
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669210"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630140"
 ---
 # <a name="unified-retention-policies-in-the-security--compliance-center"></a>Einheitliche Aufbewahrungsrichtlinien im Security & Compliance Center
 
@@ -31,6 +31,6 @@ Mithilfe von Aufbewahrungsrichtlinien können Sie die Inhalte Ihrer Organisation
       
 Weitere Einzelheiten zu Aufbewahrungsrichtlinien für Inhalte wie Exchange-E-Mail, OneDrive-, SharePoint- und Teams-Inhalte finden Sie unter [Überblick über die Aufbewahrungsrichtlinien](https://go.microsoft.com/fwlink/?linkid=2127785).  
     
-Wenn Sie Aufbewahrungsrichtlinien parallel im Exchange Admin Center und im Security & Compliance Center verwenden, beachten Sie die Empfehlung, [eine Aufbewahrungsrichtlinie anstelle älterer Features zu verwenden](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide#use-a-retention-policy-instead-of-older-features).  
+Wenn Sie Aufbewahrungsrichtlinien parallel im Exchange Admin Center und im Security & Compliance Center verwenden, beachten Sie die Empfehlung, [eine Aufbewahrungsrichtlinie anstelle älterer Features zu verwenden](/microsoft-365/compliance/retention-policies#use-a-retention-policy-instead-of-older-features).  
     
-Spezifische Informationen zur Aufbewahrung in Teams finden Sie unter [Aufbewahrungsrichtlinien in Teams](https://docs.microsoft.com/microsoftteams/retention-policies).
+Spezifische Informationen zur Aufbewahrung in Teams finden Sie unter [Aufbewahrungsrichtlinien in Teams](/microsoftteams/retention-policies).

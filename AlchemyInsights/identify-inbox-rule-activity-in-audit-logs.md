@@ -1,5 +1,5 @@
 ---
-title: Identifizieren der Posteingangsregel Aktivität in Überwachungsprotokollen
+title: Identifizieren von Posteingangsregelaktivitäten in Überwachungsprotokollen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,27 +13,27 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 3de6fcde6dc649cb77077d469cc66d4003e0c890
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3bda32b55be9c2fa671376e73b06aadfbe976363
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779050"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630176"
 ---
-# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identifizieren der Posteingangsregel Aktivität in Überwachungsprotokollen
+# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identifizieren von Posteingangsregelaktivitäten in Überwachungsprotokollen
 
-Sie können die Überwachungsprotokoll Suche im Compliance Center von Microsoft 365 Security & verwenden, um Posteingangsregel Ereignisse anzuzeigen (erstellen, ändern und Löschen von Posteingangsregeln).
+Sie können die Überwachungsprotokollsuche im Microsoft 365 Security & Compliance Center verwenden, um Posteingangsregelereignisse anzuzeigen (Erstellen, Ändern und Löschen von Posteingangsregeln).
 
-1. Melden Sie sich beim [Microsoft 365 Security & Compliance Center](https://protection.office.com/)an.
+1. Melden Sie sich beim [Microsoft 365 Compliance Center](https://protection.office.com/)an.
 
-2. Wechseln Sie zur **Search**  >  Suchseite**Überwachungsprotokoll** suchen.
+2. Wechseln Sie zur Suchseite des  >  **Überwachungsprotokolls** für die Suche.
 
-3. Wählen Sie den Datumsbereich in den Feldern **Start Datum** und **Enddatum** aus.
+3. Wählen Sie den Datumsbereich in den Feldern **Startdatum** und Enddatum aus. 
 
-4. Stellen Sie sicher, dass unter **Exchange-Postfachaktivitäten**das Feld **Aktivitäten** auf **neu-InboxRule Create/Modify/Enable/Disable Posteingangsregel**festgelegt ist.
+4. Überprüfen Sie unter **Exchange Postfachaktivitäten,** ob das Feld **"Aktivitäten"** auf **"Neue Posteingangsregel erstellen/ändern/aktivieren/deaktivieren"** festgelegt ist.
 
 5. Klicken Sie auf **Suchen**.
 
-Wählen Sie in den Ergebnissen einen Überwachungseintrag aus. Klicken Sie im Detail Flyout auf **Weitere Informationen**. Im Feld **Parameter** werden Informationen zu den Einstellungen für Posteingangsregeln angezeigt.
+Wählen Sie in den Ergebnissen einen Überwachungsdatensatz aus. Klicken Sie im Flyout "Details" auf **"Weitere Informationen".** Informationen zu den Posteingangsregeleinstellungen werden im **Parameterfeld** angezeigt.
 
-Weitere Informationen finden Sie unter [ermitteln, ob ein Benutzer eine Posteingangsregel erstellt](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule) hat.
+Weitere Informationen finden Sie unter [Ermitteln, ob ein Benutzer eine Posteingangsregel erstellt hat.](/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
