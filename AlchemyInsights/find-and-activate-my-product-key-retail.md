@@ -1,8 +1,10 @@
 ---
-title: Prepaid-Karte im Einzelhandel
+title: Retail-Prepaidkarte
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: commerce_purchase
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,24 +12,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: 1785cc69d00211cf025814e66ae317fc5b69e8bd
-ms.sourcegitcommit: 84f0aebdb278703f642a0c33fe260e3aee849be9
+ms.openlocfilehash: a6876ee3e10f970e01b35f4e74198f94e03e5b7f
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51217960"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688613"
 ---
-# <a name="retail-prepaid-card"></a>Prepaid-Karte im Einzelhandel
+# <a name="retail-prepaid-card"></a>Retail-Prepaidkarte
 
-Wenn Sie Microsoft 365 Business Standard aus einem Einzelhandelsgeschäft erworben haben, verwenden Sie die folgenden Schritte, um das Ablaufdatum zu verlängern oder einem vorhandenen Abonnement eine Lizenz hinzuzufügen.
+Wenn Sie Microsoft 365 Business Standard aus einem Einzelhandelsgeschäft erworben haben, führen Sie die folgenden Schritte aus, um das Ablaufdatum zu verlängern oder einem vorhandenen Abonnement eine Lizenz hinzuzufügen.
 
 > [!NOTE]
-> Um einen Product Key zum Verlängern des Ablaufdatums oder zum Hinzufügen einer Lizenz zu Ihrem vorhandenen Microsoft 365 Business Standard-Abonnement zu verwenden, benötigen Sie einen neuen und nicht verwendeten Schlüssel für dasselbe Microsoft 365-Abonnement. Die Eingabe Ihres ursprünglichen Microsoft 365-Product Key funktioniert nicht, da ein bereits eingelöster Schlüssel nicht erneut verwendet werden kann.
+> Um einen Product Key zu verwenden, um das Ablaufdatum zu verlängern oder Ihrem vorhandenen Microsoft 365 Business Standard Abonnement eine Lizenz hinzuzufügen, benötigen Sie einen neuen und nicht verwendeten Schlüssel für dasselbe Microsoft 365 Abonnement. Die Eingabe Ihres ursprünglichen Microsoft 365 Product Key funktioniert nicht, da ein bereits eingelöster Schlüssel nicht erneut verwendet werden kann.
 
 1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > **[Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-2. Suchen Sie nach dem Abonnement, zu dem Sie eine Lizenz erweitern oder hinzufügen möchten. Wählen [Sie Enddatum erweitern aus,](https://go.microsoft.com/fwlink/p/?linkid=842054) [oder fügen Sie weitere Lizenzen hinzu.](https://go.microsoft.com/fwlink/p/?linkid=842054)
-3. Wählen **Sie Neuen und nicht verwendeten Product Key verwenden** aus, und wählen Sie dann Weiter **aus.**
-4. Geben Sie den Product Key ein, und wählen Sie **Weiter aus.**
-5. Überprüfen Sie Ihre Bestelldetails. Wenn alles korrekt aussieht, wählen Sie **Einlösen aus.**
+2. Suchen Sie das Abonnement, zu dem Sie eine Lizenz erweitern oder hinzufügen möchten. Wählen Sie ["Enddatum verlängern"](https://go.microsoft.com/fwlink/p/?linkid=842054) aus, oder [fügen Sie weitere Lizenzen hinzu.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+3. Wählen **Sie "Neuen und nicht verwendeten Product Key verwenden"** und dann **"Weiter"** aus.
+4. Geben Sie den Product Key ein, und wählen Sie **"Weiter"** aus.
+5. Überprüfen Sie Ihre Auftragsdetails. Wenn alles richtig aussieht, wählen Sie **Einlösen** aus.

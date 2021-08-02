@@ -1,8 +1,9 @@
 ---
-title: So reaktivieren und verwalten Sie die Verlängerung
+title: Reaktivieren und Verwalten der Verlängerung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.date: ''
 ms.audience: Admin
 ms.topic: article
@@ -11,22 +12,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 88e152e1e06ae8035c635117fbfa63b50c6c9d92
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: d73e92cb4422113f50d55d7fad529b1bc0dd6cb5
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544325"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689045"
 ---
-# <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>So reaktivieren Sie ein Abonnement und verwalten wiederkehrende Abrechnungen
+# <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>Reaktivieren eines Abonnements und Verwalten der wiederkehrenden Abrechnung
 
-Es sieht so aus, als hätten Sie ein abgelaufenes Abonnement. Wenn Sie es reaktivieren möchten, sehen Sie sich dies an.
+Es sieht so aus, als hätten Sie ein Abonnement, das abgelaufen ist. Wenn Sie es reaktivieren möchten, gehen Sie wie folgt vor.
   
 1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Suchen Sie auf der Registerkarte **Produkte** das Abonnement aus, das Sie reaktivieren möchten. Wählen Sie die drei Punkte (weitere Aktionen) aus, und wählen Sie **dann Reaktivieren dieses Abonnements aus.**
+2. Suchen Sie auf der Registerkarte **Produkte** das Abonnement, das Sie reaktivieren möchten. Wählen Sie die drei Punkte (Weitere Aktionen) und dann **Dieses Abonnement reaktivieren** aus.
 3. Wählen Sie im Bereich **Dieses Abonnement reaktivieren** eine Zahlungsmethode aus der Dropdownliste aus, oder wählen Sie **Zahlungsmethode hinzufügen** aus.
 4. Klicken Sie auf **Speichern**.
 
