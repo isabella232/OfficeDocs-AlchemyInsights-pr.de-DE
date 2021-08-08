@@ -14,27 +14,27 @@ ms.custom:
 - "6986"
 - "8329"
 - "9004625"
-ms.openlocfilehash: d469973c4f8605b00d32f6f625eb5fdd17e8f390
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: 8ddec37260ec4e3bcc390dcc8adb7397368de19555ee31be458be033d3886386
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398560"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934364"
 ---
 # <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>Erweiterte Authentifizierungskonzepte für Microsoft Edge
 
-Nachfolgend finden Sie die erweiterten Authentifizierungskonzepte, die für Microsoft Edge gelten:
+Es folgen die erweiterten Authentifizierungskonzepte, die für Microsoft Edge gelten:
 
 **Proaktive Authentifizierung**
 
-Wenn Sie die [ProaktiveAuthEnabled-Richtlinie](https://go.microsoft.com/fwlink/?linkid=2134621) aktivieren, versucht Microsoft Edge, angemeldete Benutzer proaktiv über Microsoft-Dienste zu authentifizieren. In regelmäßigen Abständen wird ein Onlinedienst verwendet, um nach einem aktualisierten Manifest zu suchen, das die Konfiguration für die proaktive Authentifizierung enthält.
+Wenn Sie die [ProactiveAuthEnabled-Richtlinie](https://go.microsoft.com/fwlink/?linkid=2134621) aktivieren, versuchen Microsoft Edge, angemeldete Benutzer proaktiv über Microsoft-Dienste zu authentifizieren. In regelmäßigen Abständen wird ein Onlinedienst verwendet, um nach einem aktualisierten Manifest zu suchen, das die Konfiguration für die proaktive Authentifizierung enthält.
 
-Vorteile: Die proaktive Authentifizierung ermöglicht die Authentifizierung für wichtige Dienste, z. B. die Office New Tab Page. Wenn Bing als Suchmaschine verwendet wird, verbessert die proaktive Authentifizierung außerdem die Leistung der Adressleiste und hilft bei der Generierung von Suchergebnissen, die auf die Anforderungen Ihres Unternehmens zugeschnitten sind.
+Vorteile: Die proaktive Authentifizierung ermöglicht die Authentifizierung bei wichtigen Diensten, z. B. der Office Seite "Neue Registerkarte". Wenn Bing als Suchmaschine verwendet wird, verbessert die proaktive Authentifizierung außerdem die Leistung der Adressleiste und hilft bei der Generierung von Suchergebnissen, die an die Anforderungen Ihres Unternehmens angepasst sind.
 
-**Windows Hello CredUI für die NTLM-Authentifizierung**
+**Windows Hello CredUI für ntlm-Authentifizierung**
 
-Wenn einmaliges Anmelden (Single Sign-On, SSO) nicht verfügbar ist, wenn eine Website versucht, sich über den NTLM- oder Negotiate-Mechanismus beim Benutzer zu registrieren, ermöglicht dieses Feature dem Benutzer, die Anmeldeinformationen des Betriebssystems für die Website frei zu geben und die Authentifizierungsanforderungen mithilfe der Windows Hello Cred-Benutzeroberfläche zu erfüllen. Dieser Anmeldefluss wird nur unter Windows 10 und nur für Benutzer angezeigt, die während eines NTLM oder einer Negotiate-Herausforderung keine SSO erhalten.
+Wenn einmaliges Anmelden (Single Sign-On, SSO) nicht verfügbar ist, wenn eine Website versucht, den Benutzer über ntlm oder den Aushandlungsmechanismus anzumelden, ermöglicht dieses Feature dem Benutzer, die BS-Anmeldeinformationen für die Website freizugeben und die Authentifizierungsanforderung mithilfe Windows Hello Cred UI zu erfüllen. Dieser Anmeldefluss wird nur in Windows 10 und nur für Benutzer angezeigt, die während einer NTLM- oder Einer Negotiate-Abfrage kein SSO erhalten.
 
-**Automatische Anmeldung mit gespeicherten Kennwörtern**
+**Verwenden von gespeicherten Kennwörtern zum automatischen Anmelden**
 
 Benutzer, die Kennwörter in Microsoft Edge speichern, können die automatische Anmeldung bei Websites aktivieren, auf denen sie Anmeldeinformationen gespeichert haben. Benutzer können dieses Feature in edge://settings/passwords aktivieren oder deaktivieren, und Sie können es in den [Kennwort-Manager-Richtlinien](https://go.microsoft.com/fwlink/?linkid=2134622) konfigurieren.
