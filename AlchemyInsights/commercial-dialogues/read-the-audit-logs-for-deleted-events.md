@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 9739fb1eb8e4f5adf81cd699c851a51176f0429e
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 8d656d5660b7c6e6d32d32a06c3dbf49c45e4ca04c4422128f1c4ea62413afa1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464603"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967332"
 ---
 # <a name="read-the-audit-logs-for-deleted-events"></a>Lesen der Überwachungsprotokolle für gelöschte Ereignisse
 
-Hier erfahren Sie, wie Sie dies tun:
+So gehen Sie wie folgt vor:
 
-1. Wechseln Sie zum [Office 365 Security & Compliance Center](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Wählen **Sie Suche**  >  [**Überwachungsprotokollsuche aus.**](https://go.microsoft.com/fwlink/?linkid=2103759)
+1. Wechseln Sie zum [Office 365 Security & Compliance Center.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Wählen Sie   >  [**"Überwachungsprotokollsuche durchsuchen" aus.**](https://go.microsoft.com/fwlink/?linkid=2103759)
     > [!NOTE]
-    > Wenn Sie eine Benachrichtigung sehen, dass Sie das Feature aktivieren müssen, fahren Sie mit dem Feature voran, und aktivieren Sie es jetzt. Wenn das Feature nicht aktiviert ist, können Suchergebnisse keine Daten aus früheren Datumsangaben ziehen.
-1. Wählen **Sie Aktivitäten** aus, und suchen Sie dann nach **Exchange-Postfachaktivitäten.** Wählen Sie **die Ordneroptionen Gelöschte Nachrichten** aus dem Ordner Gelöschte Elemente und **In Gelöschte Elemente** verschobene Nachrichten aus. Wenn Sie fertig sind, klicken Sie außerhalb des Bereichs, um den Bereich **Aktivitäten zu** minimieren.
-1. Geben Sie den Datumsbereich an, und wählen Sie dann im Feld **Benutzer** den Benutzernamen für den Benutzer aus, den Sie untersuchen möchten. Sie können mehrere Benutzer gleichzeitig auswählen.
-1. Wählen Sie **Suchen aus.** Die Aktivitäten werden unter **Ergebnisse angezeigt.**
-1. Wählen Sie zum Anzeigen der Details eine Aktivität aus, und wählen Sie dann **Weitere Informationen aus.** Zusätzliche Informationen zum gelöschten Element, z. B. die Betreffzeile und der Speicherort des Elements, wenn es gelöscht wurde, werden im **Feld AffectedItems** angezeigt.
+    > Wenn Sie einen Hinweis sehen, dass Sie das Feature aktivieren müssen, fahren Sie fort, und aktivieren Sie es jetzt. Wenn das Feature nicht aktiviert ist, können Suchergebnisse keine Daten aus früheren Datumsangaben abrufen.
+1. Wählen Sie **"Aktivitäten"** aus, und suchen Sie dann **nach Exchange Postfachaktivitäten.** Wählen Sie die Optionen **"Gelöschte Nachrichten" aus dem Ordner "Gelöschte Elemente"** und "Nachrichten in Ordner **"Gelöschte Elemente" verschieben** aus. Wenn Sie fertig sind, klicken Sie außerhalb des Bereichs, um den **Bereich "Aktivitäten"** zu minimieren.
+1. Geben Sie den Datumsbereich an, und wählen Sie dann im Feld **"Benutzer"** den Benutzernamen für den Benutzer aus, den Sie untersuchen möchten. Sie können mehrere Benutzer gleichzeitig auswählen.
+1. Wählen Sie **Suchen** aus. Die Aktivitäten werden unter **Ergebnisse** angezeigt.
+1. Um die Details anzuzeigen, wählen Sie eine Aktivität aus, und wählen Sie dann **weitere Informationen** aus. Zusätzliche Informationen zum gelöschten Element, z. B. die Betreffzeile und den Speicherort des Elements, als es gelöscht wurde, werden im **Feld "AffectedItems"** angezeigt.
     > [!NOTE]
-    > Gelöschte Elemente können nicht mithilfe des Überwachungsprotokollfeatures wiederhergestellt werden. Informationen zum Wiederherstellen gelöschter Elemente finden Sie unter [Wiederherstellen gelöschter Elemente oder E-Mails in Outlook Web App](https://go.microsoft.com/fwlink/?linkid=2103759).
+    > Gelöschte Elemente können nicht mithilfe der Überwachungsprotokollfunktion wiederhergestellt werden. Informationen zum Wiederherstellen gelöschter Elemente finden Sie unter [Wiederherstellen gelöschter Elemente oder E-Mails in Outlook Web App](https://go.microsoft.com/fwlink/?linkid=2103759).
 
-Weitere Informationen finden Sie unter [Durchsuchen des Office 365-Überwachungsprotokolls zur Problembehandlung gängiger Szenarien.](https://go.microsoft.com/fwlink/?linkid=2103944)
+Weitere Informationen finden Sie unter [Durchsuchen des Office 365 Überwachungsprotokolls, um häufige Szenarien zu behandeln.](https://go.microsoft.com/fwlink/?linkid=2103944)
