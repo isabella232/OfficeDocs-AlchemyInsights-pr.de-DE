@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004584"
 - "8187"
-ms.openlocfilehash: 4d1f136cc57b100084dd5ac137828ececb1a03b0
-ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
+ms.openlocfilehash: 6d0fc347172257be489313e0874f064620d93e8cd24ccc74520954e7427bcd95
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50075927"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970114"
 ---
 # <a name="application-guard-for-office-for-admins"></a>Application Guard für Office für Administratoren
 
-Application Guard für Office ist für Organisationen verfügbar, die über Lizenzen für Microsoft 365 E5 oder Microsoft 365 E5 Mobility + Security verfügen. Benutzer in diesen Organisationen müssen Microsoft 365 Apps for Enterprise im aktuellen Kanal oder monatlichen Unternehmenskanal verwenden.
+Application Guard für Office ist für Organisationen verfügbar, die über Microsoft 365 E5 oder Microsoft 365 E5 Mobility + Security-Lizenzen verfügen. Benutzer in diesen Organisationen müssen Microsoft 365 Apps für Unternehmen im aktuellen Kanal oder im monatlichen Enterprise Kanal verwenden.
 
 > [!NOTE]
-> Application Guard für Office erfordert, dass Microsoft Defender Application Guard (MDAG) zuerst auf dem Gerät aktiviert ist. Informationen zum Bereitstellen von MDAG auf mehreren Geräten finden Sie unter ["Vorbereiten der Installation von Microsoft Defender Application Guard".](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-application-guard/install-md-app-guard)
+> Application Guard für Office erfordert, dass Microsoft Defender Application Guard (MDAG) zuerst auf dem Gerät aktiviert ist. Informationen zum Bereitstellen von MDAG auf mehreren Geräten finden Sie unter [Vorbereiten der Installation Microsoft Defender Application Guard](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-application-guard/install-md-app-guard).
 
 Ausführliche Informationen zu Voraussetzungen, Setup, Einschränkungen und Problembehandlung für Application Guard für Office finden Sie unter:
 

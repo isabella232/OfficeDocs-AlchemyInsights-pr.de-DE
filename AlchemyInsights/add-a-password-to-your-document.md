@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001454"
 - "3464"
-ms.openlocfilehash: 171c1716012240bd79f77148086adfee2d324667
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5f2923a164e67b9b3abf07b9c2327b650eeb14d872c4b4f037e0c82a209c5728
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822706"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936452"
 ---
 # <a name="add-a-password-to-a-word-document"></a>Hinzufügen eines Kennworts zu einem Word-Dokument
 
-1. Wechseln Sie **zu**  >  **Dateiinformationen**  >  **Dokument verschlüsseln** mit Kennwort  >  **schützen.**
-2. Geben Sie das Kennwort ein, das Sie verwenden möchten, und wählen Sie dann **OK aus.**
-3. Geben Sie das Kennwort erneut ein, und wählen Sie dann **OK aus.**
+1. Wechseln Sie zu **"Dateiinformationen**  >    >  **schützen Dokument**  >  **verschlüsseln mit Kennwort".**
+2. Geben Sie das Kennwort ein, das Sie verwenden möchten, und klicken Sie dann auf **"OK".**
+3. Geben Sie das Kennwort erneut ein, und wählen Sie dann **OK** aus.
