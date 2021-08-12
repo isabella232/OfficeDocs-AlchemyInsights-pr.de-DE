@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001696"
 - "3773"
-ms.openlocfilehash: 9cd3b2e5c8d1bd336029e14051ebfe0eb069827d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a3b9fc034087db3e0c3910ae13a1af8c2e8f153e272f5f90d8b2efcc6afb8dbe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829015"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944274"
 ---
 # <a name="permissions-in-microsoft-stream"></a>Berechtigungen in Microsoft Stream
 
-Standardmäßig werden beim Hochladen eines Videos die Berechtigungen festgelegt, damit das Video für das gesamte Unternehmen sichtbar ist. Wenn Sie Berechtigungen für bestimmte Benutzer/Gruppen angeben möchten, können Sie die Videoberechtigungen anpassen.
+Wenn Sie ein Video hochladen, werden standardmäßig die Berechtigungen festgelegt, damit das Video für das gesamte Unternehmen sichtbar ist. Wenn Sie Berechtigungen für bestimmte Benutzer/Gruppen angeben möchten, können Sie die Videoberechtigungen anpassen.
 
 - [Berechtigungen und Datenschutz in Microsoft Stream](https://docs.microsoft.com/stream/portal-permissions)
 

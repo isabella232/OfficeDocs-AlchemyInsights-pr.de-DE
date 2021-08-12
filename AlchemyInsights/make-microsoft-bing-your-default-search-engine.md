@@ -1,5 +1,5 @@
 ---
-title: Microsoft Bing zur Standardsuchmaschine machen
+title: Microsoft Bing als Standardsuchmaschine festlegen
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9289"
-ms.openlocfilehash: 96cf8e223921ef175a31cf0a55e7390d313a5478
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: e8d4e46da4dfb6b742452371cfd1b0054eb2a9118092821bcd7b66ef4121d02f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51379824"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925488"
 ---
-# <a name="make-microsoft-bing-your-default-search-engine"></a>Microsoft Bing zur Standardsuchmaschine machen
+# <a name="make-microsoft-bing-your-default-search-engine"></a>Microsoft Bing als Standardsuchmaschine festlegen
 
-Befolgen Sie die Anweisungen unter Make Bing the default search engine , um Bing als Standardsuchmaschine für Microsoft Edge, Google Chrome oder Internet Explorer [zu verwenden.](https://go.microsoft.com/fwlink/?linkid=2148834)
+Um Bing Ihre Standardsuchmaschine für Microsoft Edge, Google Chrome oder Internet Explorer zu erstellen, folgen Sie den Anweisungen unter [Make Bing the default search engine](https://go.microsoft.com/fwlink/?linkid=2148834).

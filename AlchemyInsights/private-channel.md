@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: 6dacba53908b3aad980d0a781d7489334a5ec054
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9e2b7ec560d92c7a74437723f0c33da9009624c7aabb5bb4cf4b3906d916051a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51790403"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944166"
 ---
 # <a name="private-channels-in-microsoft-teams"></a>Private Kanäle in Microsoft Teams
 
-Private Kanäle in Microsoft Teams schaffen fokussierte Räume für die Zusammenarbeit innerhalb Ihrer Teams. Nur die Nutzer im Team, die Besitzer oder Mitglieder des privaten Kanals sind, können auf den Kanal zugreifen. Jeder, auch Gäste, kann als Mitglied zu einem privaten Kanals hinzugefügt werden, solange er bereits Mitglied des Teams ist.
+Private Kanäle in Microsoft Teams fokussierte Räume für die Zusammenarbeit in Ihren Teams schaffen. Nur die Nutzer im Team, die Besitzer oder Mitglieder des privaten Kanals sind, können auf den Kanal zugreifen. Jeder, auch Gäste, kann als Mitglied zu einem privaten Kanals hinzugefügt werden, solange er bereits Mitglied des Teams ist.
 
-Weitere Informationen finden Sie unter [Private Kanäle in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels). Dies umfasst Informationen wie z. B. [private Kanalerstellung und Mitgliedschaft und](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) private [Kanal-SharePoint-Websites.](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)
+Um mehr zu erfahren, beginnen Sie mit [privaten Kanälen in Microsoft Teams.](https://docs.microsoft.com/MicrosoftTeams/private-channels) Dies umfasst Informationen wie [die Erstellung und Mitgliedschaft eines privaten Kanals](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) sowie SharePoint Websites des privaten [Kanals.](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)
 
 **Benötigen Sie einen neuen Teambesitzer?**
 
-Wenn Ihr Privater Kanalbesitzer Ihre Organisation verlässt oder aus der Gruppe entfernt wird, wird ein Mitglied des privaten Kanals automatisch zum Besitzer des privaten Kanals heraufgestuft.
+Wenn Ihr Besitzer des privaten Kanals Ihre Organisation verlässt oder aus der Gruppe entfernt wird, wird ein Mitglied des privaten Kanals automatisch zum Besitzer des privaten Kanals höhergestuft.
 
-Administratoren können auch den Lebenszyklus von privaten Kanälen [in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) verwalten sehen, um mehr über Richtlinien zur Verwaltung der Benutzer zu erfahren, die private Kanäle erstellen können, sowie Möglichkeiten zum Erstellen von Abfragen für eDiscovery oder rechtliche Halterechte.
+Administratoren können auch [den Lebenszyklus von privaten Kanälen in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) verwalten, um mehr über Richtlinien zum Verwalten von Personen zu erfahren, die private Kanäle erstellen können, sowie Möglichkeiten zum Erstellen von Abfragen für eDiscovery oder gesetzliche Haltebereiche.
