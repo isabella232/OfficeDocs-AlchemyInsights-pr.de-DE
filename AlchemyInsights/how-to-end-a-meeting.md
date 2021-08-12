@@ -1,5 +1,5 @@
 ---
-title: So beenden Sie eine Besprechung offiziell
+title: Formelles Beenden einer Besprechung
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "5852"
 - "9002623"
-ms.openlocfilehash: 67c33e90b1f7ca9f68af1ef01ce158075a0dc54d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3ef93e2f94ffe0768c9da3a740a865dfd36952e6d908a36670275297aed39913
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825694"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963282"
 ---
-# <a name="how-to-formally-end-a-meeting"></a>So beenden Sie eine Besprechung offiziell
+# <a name="how-to-formally-end-a-meeting"></a>Formelles Beenden einer Besprechung
 
-Besprechungsorganisatoren können eine Besprechung für alle Besprechungsteilnehmer in Teams beenden, indem sie **in** den Besprechungssteuerelementen innerhalb der Besprechung auf Besprechung beenden klicken.  
+Besprechungsorganisatoren können eine Besprechung für alle Besprechungsteilnehmer in Teams beenden, indem sie in den Besprechungssteuerelementen innerhalb der Besprechung auf **"Besprechung beenden"** klicken.  
 
-Wählen Sie zum Beenden einer Besprechung in Bearbeitung für alle Teilnehmer Besprechungssteuerelemente aus, wählen Sie das 3-Punkt-Symbol aus, und klicken Sie auf Besprechung beenden. Sie werden aufgefordert, Ihre Auswahl zu bestätigen. Wenn Sie Ihre Auswahl bestätigen, wird die Besprechung für alle beendet.
+Um eine laufende Besprechung für alle Teilnehmer zu beenden, wählen Sie Besprechungssteuerelemente aus, wählen Sie das 3-Punkte-Symbol aus, und klicken Sie auf "Besprechung beenden". Sie werden aufgefordert, Ihre Auswahl zu bestätigen. Wenn Sie Ihre Auswahl bestätigen, wird die Besprechung für alle beendet.
 
 HINWEIS: Nur der Besprechungsorganisator kann eine Besprechung "beenden".
