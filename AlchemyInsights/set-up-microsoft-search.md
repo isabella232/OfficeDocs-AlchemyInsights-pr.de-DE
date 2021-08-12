@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9264"
-ms.openlocfilehash: 5bc1f27377e48d54d82ab36705fe92a5a16f3c48
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 6eca85ef9909f80086376e5abcc16ccdcd298ff09a5507161b222447d9f690c0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51379839"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958152"
 ---
 # <a name="set-up-microsoft-search"></a>Einrichten von Microsoft Search
 
-Microsoft Search‎ provides a user-friendly interface to search and find results in your organization across ‎Microsoft 365‎ services and applications to help you complete what you're working on. It is included at no additional cost with your eligible ‎Microsoft 365‎ subscription.
+Microsoft Search bietet eine benutzerfreundliche Benutzeroberfläche zum Suchen und Suchen von Ergebnissen in Ihrer Organisation über Microsoft 365 Dienste und Anwendungen hinweg, die Ihnen dabei hilft, ihre Arbeit abzuschließen. Es ist ohne zusätzliche Kosten in Ihrem berechtigten Microsoft 365-Abonnement enthalten.
 
-Verwenden Sie [das Microsoft Search-Setuphandbuch,](https://go.microsoft.com/fwlink/?linkid=2156919) um zu konfigurieren, ob Sie es für eine Gruppe von Benutzern pilotprojekten oder für alle Benutzer in Ihrer Organisation ausführen möchten. Sie weisen Suchadministratoren und Sucheditoren zu und passen dann die Sucherfahrung für Ihre Benutzer mit Antworten und zusätzlichen Optionen an, z. B. hinzufügen der Bing-Erweiterung zu Chrome oder Festlegen von Bing als Standardsuchmaschine.
+Verwenden Sie die [Microsoft Search Einrichtungshandbuchs,](https://go.microsoft.com/fwlink/?linkid=2156919) um zu konfigurieren, ob Sie es für eine Gruppe von Benutzern testen oder für alle Benutzer in Ihrer Organisation bereitstellen möchten. Sie weisen Suchadministratoren und Such-Editoren zu und passen dann die Suchumgebung für Ihre Benutzer mit Antworten und zusätzlichen Optionen an, z. B. hinzufügen der Bing-Erweiterung zu Chrome oder Festlegen Bing als Standardsuchmaschine.

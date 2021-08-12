@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 6bbda4191d677a137ea0a834385d48a941050ef5
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 6537210c5757201c2ea2eecbf56934c36fc1bd6bb5245e9b7ba3c445f88d7dbe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403526"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916054"
 ---
 # <a name="remove-suspicious-forwarding-rules"></a>Entfernen verdächtiger Weiterleitungsregeln
 
 Führen Sie die folgenden Schritte aus, um verdächtige Weiterleitungsregeln zu entfernen. Dies ist eine weitere Möglichkeit, wie Hacker die E-Mail-Nachrichten von Benutzern an sich selbst weiterleiten.
 
-1. Wenn Sie Outlook 2016 verwenden, klicken Sie auf der Registerkarte **Start** auf Regeln  >  **Regeln verwalten & Warnungen**. 
-1. Scrollen Sie **auf der** Registerkarte E-Mail-Regeln durch die Liste, und löschen Sie alle Regeln, die Sie nicht kennen.
-1. Wenn Sie Outlook im Web verwenden, klicken Sie auf Einstellungen **(Symbol)** > Alle **Outlook-Einstellungen anzeigen**.
-1. Klicken **Sie auf Weiterleiten,** und löschen Sie alle verdächtigen Weiterleitungsregeln, die Sie nicht erkennen.
+1. Wenn Sie Outlook 2016 verwenden, klicken Sie auf der Registerkarte **"Start"** auf   >  **"Regeln verwalten" & "Warnungen".** 
+1. Scrollen Sie auf der Registerkarte **"E-Mail-Regeln"** durch die Liste, und löschen Sie alle Regeln, die Sie nicht erkennen.
+1. Wenn Sie Outlook im Web verwenden, klicken Sie auf **Einstellungen** Symbol > **Alle einstellungen Outlook anzeigen.**
+1. Klicken Sie auf **"Weiterleitung",** und löschen Sie dann alle verdächtigen Weiterleitungsregeln, die Sie nicht erkennen.
