@@ -1,5 +1,5 @@
 ---
-title: Beheben von Absenderadressen-/Domänenlistenregeln
+title: Beheben Absenderadresse/Domänenlistenregeln
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a57016ce0b5e8ed741889a50e3858c68578c6713
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: bf2a36853f53c723ca620487dd1c656ecb188cba9c80def68c793e3d5fbf5f87
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737136"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930024"
 ---
-# <a name="fix-sender-addressdomain-list-rules"></a>Beheben von Absenderadressen-/Domänenlistenregeln
+# <a name="fix-sender-addressdomain-list-rules"></a>Beheben Absenderadresse/Domänenlistenregeln
 
-Eine Antispamrichtlinie in Ihrem Mandanten hat diese Nachricht beeinflusst. Der Absender der Nachricht wurde in einer Liste "Zulassen" oder "Blockieren" gefunden. Gehen Sie wie folgt vor, um die Richtlinie zu überprüfen:
+Diese Nachricht wurde durch eine Antispamrichtlinie in Ihrem Mandanten beeinflusst. Der Absender der Nachricht wurde in einer Zulassungs- oder Sperrliste gefunden. Gehen Sie folgendermaßen vor, um die Richtlinie zu überprüfen:
 
-1. Wechseln Sie zum [Office 365 Security & Compliance Center,](https://go.microsoft.com/fwlink/p/?linkid=2077143)und wechseln Sie dann zu **Bedrohungsverwaltungsrichtlinie**  >    >  [Antispam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Überprüfen Sie auf der Registerkarte **Standard,** wenn **Standardeinstellungen** aktiviert sind, die Listen **Zulassen** und **Blockieren.**
-3. Wenn die **benutzerdefinierten** Einstellungen aktiviert sind, überprüfen  Sie auf der Registerkarte Benutzerdefinierte Einstellungen die Richtlinien, indem Sie Richtlinie bearbeiten auswählen und die Listen **Zulassen** und **Blockieren überprüfen.** 
+1. Wechseln Sie zum [Office 365 Security & Compliance Center,](https://go.microsoft.com/fwlink/p/?linkid=2077143)und wechseln Sie dann zu   >    >  ["Antispamrichtlinie](https://go.microsoft.com/fwlink/?linkid=2101518)für die Bedrohungsverwaltung".
+2. Wenn **Standardeinstellungen** aktiviert sind, überprüfen Sie auf der Registerkarte **"Standard"** die **Listen "Zulassen"** und **"Listen blockieren".**
+3. Überprüfen Sie auf der Registerkarte **"Benutzerdefiniert",** wenn die **benutzerdefinierten Einstellungen** aktiviert sind, die Richtlinien, indem Sie **"Richtlinie bearbeiten"** und **"Zulassungslisten"** und **"Listen blockieren"** aktivieren.
 
-Weitere Informationen zum Konfigurieren von Spamfilterrichtlinien finden Sie unter [Configure your spam filter policies](https://go.microsoft.com/fwlink/?linkid=2101431).
+Weitere Informationen zum Konfigurieren von Spamfilterrichtlinien finden Sie unter [Konfigurieren ihrer Spamfilterrichtlinien.](https://go.microsoft.com/fwlink/?linkid=2101431)

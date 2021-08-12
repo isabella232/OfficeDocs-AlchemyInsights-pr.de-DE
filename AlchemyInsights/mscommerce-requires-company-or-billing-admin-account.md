@@ -1,5 +1,5 @@
 ---
-title: Herstellen einer Verbindung mit dem MS Commerce-Modul
+title: Verbinden zum MSModule-Modul
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3529"
-ms.openlocfilehash: 8e6819f6d6ff37baab4bdd49cb5a87c32490f841
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 357604f1d4cda3ac8ef6b8b4dbf8780b96dcee59409a6c2edad4a84d6adda62a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829735"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974668"
 ---
-# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>MS Commerce erfordert ein Konto des Unternehmens- oder Abrechnungsadministrators
+# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>MS Commerce erfordert ein Konto des Unternehmens oder des Abrechnungsadministrators
 
-Das MODUL MS Commerce erfordert ein Konto mit Berechtigungen des Unternehmens- oder Abrechnungsadministrators. Wenn Sie den folgenden Fehler erhalten, müssen Sie eine Verbindung mit einem anderen Konto herstellen.
+Das MSModule erfordert ein Konto mit Den Berechtigungen "Unternehmen" oder "Abrechnungsadministrator". Wenn der folgende Fehler angezeigt wird, müssen Sie die Verbindung mit einem anderen Konto wiederherstellen.
 
-*ErrorMessage – Der Remoteserver hat einen Fehler zurückgegeben: (403) Verboten. ErrorDetails - unter C:\Program Files\WindowsPowerShell\Modules\MS Commerce\1.2\MS Commerce.psm1:216 char:5*<br>
-*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError -ErrorContext $_ -CustomErrorMessage "Fehler beim Retri...*<br>
+*ErrorMessage : Der Remoteserver hat einen Fehler zurückgegeben: (403) Forbidden. ErrorDetails - At C:\Program Files\WindowsPowerShell\Modules\MS Dropdown\1.2\MS Connectors.psm1:216 char:5*<br>
+*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError -ErrorContext $_ -CustomErrorMessage "Fehler beim Wiederholen ...*<br>
 \+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ CategoryInfo : NotSpecified: (:) [Write-Error], WriteErrorException*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ FullyQualifiedErrorId : Microsoft.PowerShell.Commands.WriteErrorException,HandleError*
 
-Wenn Ihr Konto nicht über Die Rechte des Unternehmens- oder Abrechnungsadministrators verfügt, wenden Sie sich an Ihren IT-Administrator.
+Wenn Ihr Konto nicht über Berechtigungen für den Unternehmens- oder Abrechnungsadministrator verfügt, wenden Sie sich an Ihren IT-Administrator.
