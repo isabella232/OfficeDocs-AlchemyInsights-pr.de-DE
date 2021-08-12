@@ -1,5 +1,5 @@
 ---
-title: Diese Website kann nicht erreicht werden – Fehler beim Versuch, über browser oder Teams auf die SharePoint-Website zu zugreifen
+title: Diese Website kann nicht erreicht werden – Fehler beim Versuch, über einen Browser oder Teams auf SharePoint Website zuzugreifen
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005378"
 - "9266"
-ms.openlocfilehash: 451544fb85522e0eececc9274825805699685ee9
-ms.sourcegitcommit: 186281d0b87d67f041c127d4334faa937da9a48a
+ms.openlocfilehash: 5f8861e85df21082329273237679e26a1b31ce694e11ad6407d4690d7caf2fc9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50718182"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946650"
 ---
-# <a name="this-site-cant-be-reached-error-when-trying-to-access-sharepoint-site-from-browser-or-teams"></a>Fehler "Diese Website kann nicht erreicht werden", wenn Versucht wird, über browser oder Teams auf die SharePoint-Website zu zugreifen
+# <a name="this-site-cant-be-reached-error-when-trying-to-access-sharepoint-site-from-browser-or-teams"></a>Fehler "Diese Website kann nicht erreicht werden" beim Versuch, über einen Browser oder Teams auf SharePoint Website zuzugreifen
 
-Benutzer erhalten möglicherweise den Fehler "Diese Website kann nicht erreicht werden", wenn sie versuchen, über browser oder Teams auf die SharePoint-Website zu zugreifen. 
+Benutzer erhalten möglicherweise die Fehlermeldung "Diese Website kann nicht erreicht werden", wenn sie versuchen, über einen Browser oder Teams auf SharePoint Website zuzugreifen. 
 
-Gehen Sie wie folgt vor, um dieses Problem zu beheben: 
+So lösen Sie das Problem: 
 
-1. Überprüfen Sie, ob sich die Startseite im Papierkorb oder im Papierkorb der zweiten Phase befindet, und stellen Sie die Seite wieder auf.
+1. Überprüfen Sie, ob sich die Startseite im Papierkorb oder im endgültigen Papierkorb befindet, und stellen Sie die Seite wieder her.
 
-**Beispiel für direkte URL zum Papierkorb**: https://contoso.sharepoint.com/sites/siteA/_layouts/15/RecycleBin.aspx
+**Beispiel für direkte URL zum Papierkorb:**https://contoso.sharepoint.com/sites/siteA/_layouts/15/RecycleBin.aspx
 
-1. Wenn die Homepage dauerhaft aus dem Papierkorb entfernt wird, erstellen Sie eine neue Websiteseite aus der Websiteseitenbibliothek, und erstellen Sie sie zu einer Homepage. 
+1. Wenn die Startseite dauerhaft aus dem Papierkorb entfernt wird, erstellen Sie eine neue Websiteseite aus der Websiteseitenbibliothek und machen Sie sie zu einer Startseite. 
 
-**Beispiel für direkte URL**: https://contoso.sharepoint.com/sites/siteA/_layouts/15/RecycleBin.aspx
+**Direkte Beispiel-URL:**https://contoso.sharepoint.com/sites/siteA/_layouts/15/RecycleBin.aspx

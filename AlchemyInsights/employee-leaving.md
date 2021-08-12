@@ -14,23 +14,23 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: da27ea5fdb0126486de9957bc82ef6e8d4a47d93
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e50fac3bba87481acdba15102063300366fce12528802bcdf7d8cdf146807e3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814335"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946751"
 ---
-# <a name="block-access-to-a-former-employee"></a>Blockieren des Zugriffs auf einen ehemaligen Mitarbeiter
+# <a name="block-access-to-a-former-employee"></a>Zugriff auf einen ehemaligen Mitarbeiter blockieren
 
-Muss ein Mitarbeiter den Zugriff auf Daten und E-Mails blockieren? Gehen Sie hierzu wie nachfolgend beschrieben vor.
+Verlassen Mitarbeiter und müssen den Zugriff auf Daten und E-Mails blockieren? Gehen Sie hierzu wie nachfolgend beschrieben vor.
   
-1. Wechseln Sie im Admin Center zur **Seite** Aktive \> [Benutzer.](https://go.microsoft.com/fwlink/p/?linkid=834822)
+1. Wechseln Sie im Admin  Center zur Seite \> ["Aktive Benutzer der](https://go.microsoft.com/fwlink/p/?linkid=834822) Benutzer".
 
 2. Wählen Sie den Namen des Benutzers aus, den Sie blockieren möchten.
 
-3. Wählen Sie unter dem Namen des Benutzers die Option **Diesen Benutzer blockieren aus.**
+3. Wählen Sie unter dem Namen des Benutzers **"Diesen Benutzer blockieren"** aus.
 
-4. Wählen **Sie Benutzer von der Anmeldung unter Speichern von** Änderungen blockieren \> **aus.**
+4. Choose **Block the user from signing in** Save \> **changes**.
 
-**Hinweis:** Die Abmelden für einige Apps ist möglicherweise nicht sofort. Folgen Sie weiteren Aktionen in diesem Artikel: [Entfernen eines ehemaligen Mitarbeiters](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee)
+**Hinweis:** Die Abmeldung für einige Apps ist möglicherweise nicht sofort. Weitere Aktionen in diesem Artikel: [Entfernen eines ehemaligen Mitarbeiters](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee)

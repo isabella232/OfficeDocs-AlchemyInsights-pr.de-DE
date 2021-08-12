@@ -1,5 +1,5 @@
 ---
-title: Problembehandlung beim Sicherheitstipp für Betrugserkennungsüberprüfungen
+title: Problembehandlung der Sicherheitstipp für Betrugserkennungsprüfungen
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.custom:
 - "275"
 - "3100004"
-ms.openlocfilehash: 85faa0086935fb7e7132ee9fdced546bafdb344c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c7ee1fcc887a3221b5f2acda1aa6ae6beb03cb96686d4ecb7828a02f8ff48302
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834730"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955965"
 ---
-# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Problembehandlung beim Sicherheitstipp für Betrugserkennungsüberprüfungen
+# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Problembehandlung der Sicherheitstipp für Betrugserkennungsprüfungen
 
-Wenn Sie einen Sicherheitstipp erhalten, der "Der Absender hat unsere Betrugserkennungsüberprüfungen nicht bestanden und möglicherweise nicht der Absender ist, um den es sich handelt", hat der Absender keine DKIM- oder SPF-Authentifizierungsüberprüfungen bestanden. Die beste Methode, um dies zu beheben, ist, dass sich der Absender selbst autorisiert. Wenn der Absender in Ihrem Namen sendet, müssen Sie sie autorisieren, indem Sie die IP-Adresse des Absenders zu Ihrem SPF-Eintrag hinzufügen.
+Wenn Sie eine Sicherheitstipp mit der Meldung "Der Absender hat unsere Betrugserkennungsprüfungen nicht bestanden und möglicherweise nicht die Person, die er zu sein scheint" erhalten, hat der Absender die DKIM- oder SPF-Authentifizierungsprüfungen nicht bestanden. Die beste Methode, um dies zu beheben, besteht darin, dass der Absender sich selbst autorisiert. Wenn der Absender in Ihrem Auftrag sendet, müssen Sie ihn autorisieren, indem Sie die IP-Adresse des Absenders zu Ihrem SPF-Eintrag hinzufügen.
   
-Weitere [Informationen finden Sie unter Troubleshooting the red (suspicious) safety tip for fraud detection](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) checks.
+Weitere Informationen finden Sie unter [Problembehandlung der roten (verdächtigen) Sicherheitstipp für Überprüfungen der Betrugserkennung.](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/)
   
 Hier sind einige weitere Links, die Ihnen helfen können:
   
-- [So verwendet Microsoft das Sender Policy Framework (SPF), um Spoofing zu verhindern](https://docs.microsoft.com/microsoft-365/security/office-365-security/how-office-365-uses-spf-to-prevent-spoofing)
+- [Wie Microsoft das Absenderrichtlinienframework (SPF) verwendet, um Spoofing zu verhindern](https://docs.microsoft.com/microsoft-365/security/office-365-security/how-office-365-uses-spf-to-prevent-spoofing)
 
 - [Einrichten von SPF zum Verhindern von Spoofing](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
