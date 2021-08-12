@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 89c848b1aad331c2ba4cbf2596da48020e7b9cc2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 036a6b5d9188bf40607d186bfb0b31b3182116abb597ab96cfad48f9b3026936
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736292"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966684"
 ---
 # <a name="skip-redirecting-email-to-new-address"></a>Umleiten von E-Mails an neue Adresse überspringen
 
-Überspringen Sie den Schritt zum Umleiten von E-Mails an eine neue Adresse, wenn Sie über benutzerdefinierte DNS-Einträge verfügen. Anschließend können Sie die benötigten Datensätze später hinzufügen. Einige Office 365-Dienste sind möglicherweise nicht verfügbar, bis Sie die Datensätze manuell bei Ihrer Registrierungsstelle hinzufügen.
+Überspringen Sie den Schritt des Umleitens von E-Mails an eine neue Adresse, wenn Sie über benutzerdefinierte DNS-Einträge verfügen. Anschließend können Sie die benötigten Datensätze später hinzufügen. Einige Office 365 Dienste sind möglicherweise nicht verfügbar, bis Sie die Datensätze mit Ihrer Registrierungsstelle manuell hinzufügen.
 
-Wenn Sie das Umleiten von E-Mails an eine neue Adresse überspringen möchten, wählen Sie **Diesen Schritt überspringen > Überprüfen aus.**
+Um das Umleiten von E-Mails an eine neue Adresse zu überspringen, wählen Sie **diesen Schritt überspringen > Überprüfen** aus.
