@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: dd367176f8d6f38f1f94ae6627229234f15c81ff
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 61ca448ef146f3f6fb930f0dc6f09f41bde72087f56ffba820f0a2d517cddb31
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543927"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53964632"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Aktivieren von Microsoft Defender for Office 365 for SharePoint Online, OneDrive und Microsoft Teams
+# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Aktivieren von Microsoft Defender für Office 365 für SharePoint Online, OneDrive und Microsoft Teams
 
-1. Gehen Sie auf https://protection.office.com, und melden Sie sich an.
-2. Wählen **Sie Bedrohungsverwaltungsrichtlinie**  >    >  **Sichere Anlagen aus.**
-3. Wählen **Sie Aktivieren von Defender für Office 365 für SharePoint, OneDrive und Microsoft Teams aus,** und klicken Sie dann auf **Speichern**.
-4. (Empfohlen) Führen Sie als globaler Administrator oder SharePoint Onlineadministrator das [Cmdlet Set-SPOTenant](/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) aus, und der **Parameter DisallowInfectedFileDownload** ist auf *true festgelegt.*
+1. Wechseln Sie zu https://protection.office.com, und melden Sie sich an.
+2. Wählen Sie Die Richtlinie für **die Bedrohungsverwaltung**  >    >  **Tresor Anlagen aus.**
+3. Wählen Sie **"Defender für Office 365 für SharePoint, OneDrive und Microsoft Teams** aktivieren" aus, und klicken Sie dann auf **"Speichern".**
+4. (Empfohlen) Führen Sie als globaler Administrator oder SharePoint Onlineadministrator das Cmdlet ["Set-SPOTenant"](/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) aus, wobei der Parameter **DisallowInfectedFileDownload** auf *"true"* festgelegt ist.
 5. (Empfohlen) [Richten Sie Warnungen](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) für erkannte Dateien ein.
 
 > [!NOTE]
-> Microsoft Defender for Office 365 scannt nicht jede einzelne Datei in SharePoint Online, OneDrive oder Microsoft Teams. Dateien werden asynchron durch einen Prozess überprüft, der Freigabe- und Gastaktivitätsereignisse sowie intelligente Heuristiken und Bedrohungssignale verwendet, um schädliche Dateien zu identifizieren. Weitere [Informationen zu Office 365, SharePoint, OneDrive und](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)Microsoft Teams finden Sie unter Microsoft Defender for Microsoft Teams .
+> Microsoft Defender für Office 365 überprüft nicht jede einzelne Datei in SharePoint Online, OneDrive oder Microsoft Teams. Dateien werden asynchron durch einen Prozess gescannt, der Freigabe- und Gastaktivitätsereignisse sowie intelligente Heuristiken und Bedrohungssignale verwendet, um schädliche Dateien zu identifizieren. Informationen [zu SharePoint, OneDrive und Microsoft Teams finden Sie unter Microsoft Defender für Office 365.](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)

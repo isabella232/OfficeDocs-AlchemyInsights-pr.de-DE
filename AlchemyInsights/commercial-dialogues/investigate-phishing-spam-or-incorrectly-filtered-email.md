@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 2646a80ebcec959375c8fa938d420b5e11b0fdb8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 6a20a59ae4395e718839c82c8c2cdcdec05ae80c59715e7f618e75b9d5428b64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737112"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948954"
 ---
 # <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Untersuchen von Phishing, Spam oder falsch gefilterten E-Mails
 
-Verwenden Sie den Übermittlungs-Explorer, um die Nachricht an Microsoft zu übermitteln. Sie erhalten sofortiges Feedback zur Nachrichtenfilterung und zum Grund des Problems. Im Folgenden finden Sie eine Zusammenfassung der Schritte:
+Verwenden Sie den Übermittlungs-Explorer, um die Nachricht an Microsoft zu senden. Sie erhalten sofortiges Feedback zur Nachrichtenfilterung und zur Ursache des Problems. Hier ist eine Zusammenfassung der Schritte:
 
-1. Wechseln Sie zum [Office 365 Security & Compliance Center,](https://go.microsoft.com/fwlink/p/?linkid=2077143)wählen Sie   >  **Bedrohungsverwaltungsübermittlungen** aus, und wählen Sie **dann +Neue Übermittlung aus.**
-2. Geben Sie die Details im **Flyout Neue Übermittlung** an.
-3. Informieren Sie Ihre Benutzer darüber, dass sie verdächtige E-Mails an Microsoft melden sollten und dass das [Add-In](https://go.microsoft.com/fwlink/?linkid=2092385) Nachricht melden das Tool ist, das sie für diesen Zweck verwenden sollten.
+1. Wechseln Sie zum [Office 365 Security & Compliance Center,](https://go.microsoft.com/fwlink/p/?linkid=2077143)wählen Sie **"Bedrohungsmanagementübermittlungen"**  >  aus, und wählen Sie dann **"+Neue Übermittlung"** aus.
+2. Geben Sie die Details im **Flyout "Neue Übermittlung"** an.
+3. Informieren Sie Ihre Benutzer darüber, dass sie verdächtige E-Mails an Microsoft melden sollten und dass das [Add-In "Nachricht melden"](https://go.microsoft.com/fwlink/?linkid=2092385) das Tool ist, das sie für diesen Zweck verwenden sollten.

@@ -1,5 +1,5 @@
 ---
-title: Eine Anlage kann einem extern ausgerichteten Formular nicht hinzugefügt werden
+title: Anlage kann nicht zu einem formular mit externer Ausrichtung hinzugefügt werden
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003121"
 - "5901"
-ms.openlocfilehash: 50434b664d0fbec6788f7d5601f39123420489bd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: caa23df4aa0847a8c31fc015e8c18859132a5a2c1ff7fe6d3dd98357671c3435
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51797324"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920214"
 ---
-# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a>Eine Anlage kann einem extern ausgerichteten Formular nicht hinzugefügt werden
+# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a>Anlage kann nicht zu einem formular mit externer Ausrichtung hinzugefügt werden
 
-Wenn Sie versuchen, einer externen Microsoft Forms-Umfrage eine Anlage hinzuzufügen, ist dieses Feature noch nicht verfügbar. Um den Status dieser Featureanforderung nachverfolgt zu haben, wechseln Sie zu diesem [UserVoice-Eintrag,](https://go.microsoft.com/fwlink/?linkid=2133069)und fügen Sie Ihre Stimme hinzu.
+Wenn Sie versuchen, einer externen Microsoft Forms-Umfrage eine Anlage hinzuzufügen, ist dieses Feature noch nicht verfügbar. Um den Status dieser Featureanforderung nachzuverfolgen, wechseln Sie zu [diesem UserVoice-Eintrag,](https://go.microsoft.com/fwlink/?linkid=2133069)und fügen Sie Ihre Stimme hinzu.
