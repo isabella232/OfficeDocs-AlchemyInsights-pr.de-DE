@@ -1,5 +1,5 @@
 ---
-title: Verwenden von Microsoft Edge-Erweiterungen
+title: Verwenden Microsoft Edge Erweiterungen
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004621"
 - "8313"
-ms.openlocfilehash: 4a7e83e27aa78e064c2f8261c3b66bfe0468f300
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: ac0c7b9f05c34c95d20539104af1317b43203b5a05882372d93c98b80632ced3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898281"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971554"
 ---
-# <a name="use-microsoft-edge-extensions"></a>Verwenden von Microsoft Edge-Erweiterungen
+# <a name="use-microsoft-edge-extensions"></a>Verwenden Microsoft Edge Erweiterungen
 
-[Erweiterungen](https://go.microsoft.com/fwlink/?linkid=2135619) sind Add-Ons, die Sie in Microsoft Edge installieren können, um Anzeigen zu blockieren, Kennwörter zu verwalten, Text zu übersetzen und Ihre Browsererfahrung auf viele andere Weise anzupassen.
+[Erweiterungen](https://go.microsoft.com/fwlink/?linkid=2135619) sind Add-Ons, die Sie in Microsoft Edge installieren können, um Anzeigen zu blockieren, Kennwörter zu verwalten, Text zu übersetzen und Ihre Browserumgebung auf viele andere Arten anzupassen.
