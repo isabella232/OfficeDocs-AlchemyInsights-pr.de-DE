@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "9000566"
 - "2424"
-ms.openlocfilehash: 898bdd2831d10c77585143b7ce8f574f516dc0d9
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 504d0af989d93130bca0d91183cbfe608b76fd95d88f46af465e87cff1f052df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689153"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926460"
 ---
 # <a name="how-to-cancel-software-as-a-service-apps"></a>So brechen Sie Software-as-a-Service-Apps ab
 
@@ -28,4 +28,4 @@ ms.locfileid: "53689153"
 2. Scrollen Sie auf der Seite **"Produkte"** zum Abschnitt **"Apps",** und suchen Sie das Abonnement, das Sie kündigen möchten. 
 3. Wählen Sie die drei Punkte (weitere Aktionen) und dann **Abonnement kündigen** aus.
 4. Wählen Sie im Bereich **Abonnement kündigen** einen Grund für Ihre Kündigung aus. Geben Sie optional Feedback.
-5. Wählen Sie **Speichern**.
+5. Wählen Sie **Speichern** aus.
