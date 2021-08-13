@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 858a80886321394a5f3acc813e1f95b6f88cad8f
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d42d7eb55062b729b3156dc02562c83800c786d34f6de05152e7e09fa88ab71b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736478"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915694"
 ---
 # <a name="report-suspicious-urls"></a>Melden verdächtiger URLs
 
-Führen Sie die folgenden Schritte aus, um verdächtige URLs zu übermitteln:
+Gehen Sie folgendermaßen vor, um verdächtige URLs zu übermitteln:
 
-1. Geben Sie **im Flyout** Neue Übermittlung die vollständige URL ein, einschließlich des Protokolls (https://).
-2. Wenn Sie **"Gesperrt" auswählen,** geben Sie an, ob es sich bei der URL um **Phishing oder** Schadsoftware **handelt.**
+1. Geben Sie im **Flyout "Neue Übermittlung"** die vollständige URL einschließlich des Protokolls (https://) ein.
+2. Wenn Sie **"Sollte blockiert" ausgewählt haben,** geben Sie an, ob es sich bei der URL um **Phishing** oder **Schadsoftware** handelt.
 3. Wählen Sie **Senden** aus.

@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: c4d462c14623282a7a94a0009275c4f36c70d33b
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 2518c831277bc1cea0b339fc62fa456b7decbf5d9e5b8c2bb2733fe47c969a81
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52542892"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952212"
 ---
 # <a name="microsoft-defender-for-office-365"></a>Microsoft Defender für Office 365
 
-- Sichere Anlagen, sichere Links und Antiphishing sind Teil von Microsoft Defender für Office 365. Enterprise E5, Education A5 und Microsoft 365 Business Premium enthalten Microsoft Defender für Office 365. Für alle anderen Pläne ist ein Microsoft Defender-Add-On für Office 365 erforderlich.
+- Tresor Anlagen, Tresor Links und Antiphishing sind Bestandteil von Microsoft Defender für Office 365. Enterprise E5, Education A5 und Microsoft 365 Business Premium umfassen Microsoft Defender für Office 365. Alle anderen Pläne erfordern ein Add-On microsoft Defender für Office 365 Abonnement.
 
-- Sie müssen die entsprechenden Lizenzen zuweisen, um Ihre Benutzer durch Microsoft Defender für die Office 365. Unter [Hinzufügen von Benutzern und gleichzeitiges](/microsoft-365/admin/add-users/add-users) Zuweisen von Lizenzen finden Sie Anweisungen zum Massen anwenden von Lizenzen auf Ihre Benutzer.
+- Sie müssen die entsprechenden Lizenzen zuweisen, um Ihre Benutzer durch Microsoft Defender für Office 365 zu schützen. Anweisungen zum Massenanfügen von Lizenzen auf Ihre Benutzer finden Sie unter "Hinzufügen von [Benutzern und gleichzeitiges Zuweisen](/microsoft-365/admin/add-users/add-users) von Lizenzen".
 
-- Globale Administratoren oder Sicherheitsadministratoren können auf Microsoft Defender für Office 365 im Security & Compliance Center unter **Threat Managmeent** \> **Policy zugreifen.**
+- Globale Administratoren oder Sicherheitsadministratoren können im Security & Compliance Center bei **Threat Managmeent** Policy auf Microsoft Defender für Office 365 Features \> zugreifen.
 
-- Richtlinien für sichere Anlagen und sichere Links können auf Ihre gesamte Organisation, bestimmte Domänen oder kleinere Benutzergruppen begrenzt werden.
+- Tresor Anlagen und Tresor Verknüpfungsrichtlinien können auf Ihre gesamte Organisation, bestimmte Domänen oder kleinere Benutzergruppen beschränkt werden.
 
-- Es gibt keine Standardmäßige Richtlinie für sichere Anlagen. Sie müssen eine [Richtlinie erstellen und](/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) auf Ihre Benutzer anwenden.
+- Es gibt keine Standardrichtlinie für Tresor Anlage. Sie müssen [eine Richtlinie erstellen](/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) und auf Ihre Benutzer anwenden.
 
-- Es gibt eine Standardrichtlinie für sichere Links, die für alle in Ihrer Organisation gilt. Informationen zum Bearbeiten dieser Richtlinie oder zum Erstellen benutzerdefinierter Richtlinien finden Sie unter [Set up Safe Links policies in Microsoft Defender for Office 365](/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
+- Es gibt eine Standardrichtlinie für Tresor Links, die für alle Personen in Ihrer Organisation gilt. Informationen zum Bearbeiten dieser Richtlinie oder zum Erstellen benutzerdefinierter Richtlinien finden Sie unter ["Einrichten Tresor Links"-Richtlinien in Microsoft Defender für Office 365.](/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)
