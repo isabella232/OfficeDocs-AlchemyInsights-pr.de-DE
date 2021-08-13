@@ -1,5 +1,5 @@
 ---
-title: Hilfe zur SharePoint und Microsoft Teams Interaktion
+title: Hilfe bei der SharePoint und Microsoft Teams Interaktion
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,17 +14,17 @@ ms.assetid: ''
 ms.custom:
 - "9007084"
 - "11929"
-ms.openlocfilehash: 416e86b693ced8b3569ebec97c657e28fbe69ce1
-ms.sourcegitcommit: 7f08f13823b5a04cde96e344efa368912c9d0f68
+ms.openlocfilehash: 6f63eed31fda61ea6377c364cfbf63035311864e55637baa5a5838784a03b582
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53617708"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957415"
 ---
-# <a name="help-with-the-sharepoint-and-microsoft-teams-interaction"></a>Hilfe zur SharePoint und Microsoft Teams Interaktion
+# <a name="help-with-the-sharepoint-and-microsoft-teams-interaction"></a>Hilfe bei der SharePoint und Microsoft Teams Interaktion
 
 Jedes Team in Microsoft Teams verfügt über eine Teamwebsite in SharePoint, und jeder Standardkanal in einem Team erhält einen Ordner in der Standarddokumentbibliothek der Teamwebsite. Jeder private Kanal erhält eine eigene, separate SharePoint Website. Weitere Informationen:
 
 - Weitere Informationen zur Interaktion mit privaten Kanälen finden Sie [unter "Private Kanäle" in Microsoft Teams.](/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)
 
-- Weitere Informationen zu Grenzwerten und zur Auswirkung SharePoint Speichers finden Sie unter [Grenzwerte und Spezifikationen für Microsoft Teams](/microsoftteams/limits-specifications-teams#storage). 
+- Weitere Informationen zu Grenzwerten und zur Auswirkung SharePoint Speichers finden Sie unter [Grenzwerte und Spezifikationen für Microsoft Teams.](/microsoftteams/limits-specifications-teams#storage) 
