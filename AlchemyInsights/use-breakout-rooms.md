@@ -1,5 +1,5 @@
 ---
-title: Verwenden von Unterbrechungsräumen
+title: Verwenden von Breakoutrooms
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: 12d1fd7371a7d0a616335ea5212093a162215b5d
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: 66696e6524f6d7a173a3cbcbf0b75d7bbd1e7c62d13a7ad57f6c142e81b81c47
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52107536"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919560"
 ---
-# <a name="use-breakout-rooms"></a>Verwenden von Unterbrechungsräumen
+# <a name="use-breakout-rooms"></a>Verwenden von Breakoutrooms
 
-Nur Besprechungsorganisatoren in den Desktopversionen von Teams (Windows und Mac) können Unterbrechungsräume erstellen und verwalten. 
+Nur Besprechungsorganisatoren auf den Desktopversionen von Teams (Windows und Mac) können Gruppenräume erstellen und verwalten. 
 
-Breakout Rooms ist über die Besprechungssteuerelemente verfügbar, nachdem Sie Ihre Besprechungen gestartet haben.
+Breakout rooms is available from the meeting controls after you have started your meetings.
 
-Weitere Informationen zum Erstellen, Starten und Schließen von Unterbrechungsräumen finden Sie unter [Erstellen]() und Verwalten von Unterbrechungsräumen während Klassenbesprechungen oder Verwenden von Pausenräumen in Teams [Besprechungen](https://support.microsoft.com/office/use-breakout-rooms-in-teams-meetings-7de1f48a-da07-466c-a5ab-4ebace28e461).
+Weitere Informationen zum Erstellen, Starten und Schließen von Breakoutrooms finden Sie unter Erstellen und Verwalten von [Pausenräumen während Kursbesprechungen]() oder [Verwenden von Pausenräumen in Teams Besprechungen.](https://support.microsoft.com/office/use-breakout-rooms-in-teams-meetings-7de1f48a-da07-466c-a5ab-4ebace28e461)
