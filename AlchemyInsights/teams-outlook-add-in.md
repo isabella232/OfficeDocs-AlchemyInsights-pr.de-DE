@@ -1,5 +1,5 @@
 ---
-title: Teams Outlook -Add-In (Freigeben an Teams , Jetzt treffen, Teams Besprechung, Teams Besprechung)
+title: Teams Outlook-Add-In (Freigeben für Teams, Sofortbesprechung, Neue Teams Besprechung, Teilnehmen an Teams Besprechung)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,23 +14,23 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 2ce65a5a5d425d41a127541ee738b6e947a41b05
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: d8335c20da06d4cfde2f92149b560f3829c773cfff10aec1ad160b95049f7139
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52542748"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956515"
 ---
-# <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook -Add-In (Freigeben an Teams , Jetzt treffen, Neue Teams Besprechung, Teams Besprechung)
+# <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook-Add-In (Freigeben für Teams, Sofortbesprechung, Neue Teams Besprechung, Teilnehmen an Teams Besprechung)
 
 ## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>So behandeln Sie ein fehlendes Teams Outlook-Add-In
 
-1. Führen Sie die Diagnose "Team-Add-In fehlt in Outlook" aus, wodurch überprüft wird, ob ein Benutzer über die richtigen Richtlinien verfügt, um das Teams Outlook zu aktivieren. Um auf die Diagnose zu zugreifen, geben Sie **Diag: Teams add-in Missing in Outlook** in das Suchfeld ein.
+1. Führen Sie die Diagnose "Team-Add-In fehlt in Outlook" aus, wodurch überprüft wird, ob ein Benutzer über die richtigen Richtlinien zum Aktivieren des Teams Outlook-Add-Ins verfügt. Um auf die Diagnose zuzugreifen, geben Sie **Diag: Teams Add-In Fehlt in Outlook** im Suchfeld ein.
 
-1. Wenn die Dienstdiagnose keine Probleme angibt, diagnostizieren und beheben Sie Clientprobleme auf den betroffenen Benutzercomputern, indem Sie das [Microsoft Support- und Wiederherstellungs-Assistent](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Teams Outlook-Add-In-Szenario herunterladen** und ausführen.
+1. Wenn die Dienstdiagnose keine Probleme anzeigt, diagnostizieren und beheben Sie alle Clientprobleme auf den betroffenen Benutzercomputern, indem Sie das [Microsoft Support- und Wiederherstellungs-Assistent](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Teams Outlook-Add-In-Szenario** herunterladen und ausführen.
 
-Wenn Sie ein fehlendes Teams Outlook manuell beheben möchten, überprüfen Sie die Liste der potenziellen Faktoren, die dazu führen können, dass Teams-Add-In nicht aufgeführt wird. Weitere Informationen finden Sie unter [Teams Meeting add-in in Outlook for Windows does not show](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+Um eine fehlende Teams Outlook-Add-In manuell zu beheben, überprüfen Sie die Liste der möglichen Faktoren, die dazu führen können, dass Ihr Teams-Add-In nicht aufgeführt wird. Weitere Informationen finden Sie unter [Teams Besprechungs-Add-In in Outlook für Windows nicht angezeigt wird.](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)
 
-## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>So behandeln Sie die Planung Teams Besprechung im Namen einer anderen Person (Delegate)
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>So behandeln Sie die Problembehandlung beim Planen einer Teams Besprechung im Auftrag einer anderen Person (Stellvertretung)
 
-Informationen zum Planen Teams Besprechung im Namen einer anderen Person finden Sie unter Problembehandlung Microsoft Teams [und Exchange Server Interaktionsprobleme](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
+Informationen zum Planen einer Teams Besprechung im Namen einer anderen Person finden Sie unter [Problembehandlung bei Microsoft Teams und Exchange Server Interaktionsproblemen.](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)
