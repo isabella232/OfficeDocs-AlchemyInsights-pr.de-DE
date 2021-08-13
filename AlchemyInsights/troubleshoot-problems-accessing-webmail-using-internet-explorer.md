@@ -1,5 +1,5 @@
 ---
-title: Behandeln von Problemen mit dem Zugriff auf Webmail
+title: Problembehandlung beim Zugriff auf Webmail
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003958"
 - "7014"
-ms.openlocfilehash: 8711b33851e2dac4499f39e3bfbff955d3cb91e3
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: b38e953c69c3fbc0e1ac4771953b1777e7033286ea56554d42952c2df696bd70
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708025"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007989"
 ---
-# <a name="troubleshoot-problems-with-accessing-webmail"></a>Behandeln von Problemen mit dem Zugriff auf Webmail
+# <a name="troubleshoot-problems-with-accessing-webmail"></a>Problembehandlung beim Zugriff auf Webmail
 
 Falsche Datums- und Uhrzeiteinstellungen auf Ihrem PC können Probleme beim Zugriff auf webbasierte E-Mail-Server verursachen. Führen Sie die folgenden Schritte aus, um sicherzustellen, dass die Datums- und Uhrzeiteinstellungen korrekt sind:
 
-1. Wählen **Sie Start** aus, geben Sie Datum und **Uhrzeit** ein, und wählen Sie dann Datum und **Uhrzeit aus.**
-2. Gehen Sie **im & Datums-** und Uhrzeitfenster wie folgt vor:
+1. Wählen Sie **"Start",** **"Datum und Uhrzeit" und** dann **"Datum und Uhrzeit"** aus.
+2. Führen Sie im Fenster **Datum & Uhrzeit** eine der folgenden Aktionen aus:
 
-    - Aktivieren Sie **Zeit automatisch festlegen und** Zeitzone automatisch **festlegen.**
+    - Aktivieren **Sie "Zeit automatisch festlegen"** und **"Zeitzone automatisch festlegen".**
 
-    - Halten Sie die automatischen  Einstellungen aus, wählen  Sie jedoch  die Schaltfläche Ändern aus, wählen Sie im Dialogfeld Datum und Uhrzeit ändern die Einstellungen Datum und Uhrzeit ändern aus, und wählen Sie dann **Ändern aus.** 
+    - Lassen Sie die automatischen Einstellungen deaktiviert, wählen Sie jedoch die Schaltfläche **"Ändern"** aus, wählen Sie die Einstellungen für **Datum** und **Uhrzeit** im Dialogfeld **"Datum und Uhrzeit ändern"** aus, und wählen Sie dann **"Ändern"** aus.
 
-Weitere Informationen finden Sie unter [Problembehandlung beim Zugriff auf Webmail mithilfe von Internet Explorer](https://answers.microsoft.com/windows/forum/all/problem-accessing-email-through-ie/41f871f3-6df3-4bc9-a5bd-7f71651a2888).
+Weitere Informationen finden Sie unter [Problembehandlung beim Zugriff auf Webmail mit Internet Explorer.](https://answers.microsoft.com/windows/forum/all/problem-accessing-email-through-ie/41f871f3-6df3-4bc9-a5bd-7f71651a2888)

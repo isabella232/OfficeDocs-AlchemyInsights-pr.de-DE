@@ -1,5 +1,5 @@
 ---
-title: Aktuelle Datenexposition
+title: Aktuelle Datenbelichtung
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001493"
 - "3548"
-ms.openlocfilehash: 28a45f9922dd53727d80707aed781f7497c7ab9c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b0e5577b159e695214b5cd3ad2a77f54e3afe9926517068bfe9a90e475dfc491
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51789359"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54062475"
 ---
-# <a name="recent-data-exposure"></a>Aktuelle Datenexposition
+# <a name="recent-data-exposure"></a>Aktuelle Datenbelichtung
 
-Microsoft wurde von einem Drittanbieterforscher darauf aufmerksam gemacht, dass auf eine Datenbank mit redaktierten Microsoft-Supportdaten ohne Authentifizierung zugegriffen werden konnte. Am 31. Dezember 2019 hat Microsoft die Datenbank gesichert.
+Ein Drittanbieter hat Microsoft darauf hingewiesen, dass auf eine Datenbank mit bearbeiteten Microsoft-Supportdaten ohne Authentifizierung zugegriffen werden konnte. Am 31. Dezember 2019 hat Microsoft die Datenbank gesichert.
 
-Wir sind dem Datenschutz und der Sicherheit unserer Kunden verpflichtet und ergreifen Maßnahmen, um zukünftige Vorkommen dieses Problems zu verhindern. Wir haben mit Benachrichtigungen für Kunden begonnen, deren Daten in dieser redaktierten Datenbank vorhanden waren. Weitere Informationen finden Sie unter Kundenbewusstseinsinformationen im Zusammenhang [mit einer aktuellen Informationsexposition](https://aka.ms/privacyinfo).
+Wir setzen uns für den Datenschutz und die Sicherheit unserer Kunden ein und ergreifen Maßnahmen, um zukünftige Vorkommen dieses Problems zu verhindern. Wir haben mit Benachrichtigungen an Kunden begonnen, deren Daten in dieser bearbeiteten Datenbank vorhanden waren. For more information, please go to [Customer awareness information related to a recent information exposure](https://aka.ms/privacyinfo).
