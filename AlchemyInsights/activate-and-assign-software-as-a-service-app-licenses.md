@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: c31de2fd6e34ffb4d510bc3bb33525e58c1c6557
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: af767f4c2ab03ab4d0757b572085ff77d9a2901ddcde61523c7f314b11726f25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823210"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938036"
 ---
 # <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Aktivieren und Zuweisen von Software-as-a-Service-App-Lizenzen 
 
 ## <a name="to-activate-apps"></a>So aktivieren Sie Apps
 
-1. Wechseln Sie im Admin Center zur Seite **Abrechnung**  >  **[Ihre Produkte,](https://go.microsoft.com/fwlink/p/?linkid=842054)** und wählen Sie dann die **Registerkarte Apps** aus.
+1. Wechseln Sie im Admin Center zur Seite **"Abrechnung**  >  **[Für Ihre Produkte",](https://go.microsoft.com/fwlink/p/?linkid=842054)** und wählen Sie dann die Registerkarte **"Apps"** aus.
 
-2. Suchen Und wählen Sie die App aus, die Sie verwalten möchten.
+2. Suchen Sie die App, die Sie verwalten möchten, und wählen Sie sie aus.
 
-3. Wählen **Sie unter Lizenzen** die Option Konto einrichten **aus.**  
+3. Wählen Sie unter **"Lizenzen"** die Option **"Konto einrichten"** aus.  
 
 ## <a name="to-assign-app-licenses"></a>So weisen Sie App-Lizenzen zu
 
-1. Wechseln Sie im Admin Center zur Seite **Abrechnung**  >  **[Ihre Produkte,](https://go.microsoft.com/fwlink/p/?linkid=842054)** und wählen Sie dann die **Registerkarte Apps** aus.
+1. Wechseln Sie im Admin Center zur Seite **"Abrechnung**  >  **[Für Ihre Produkte",](https://go.microsoft.com/fwlink/p/?linkid=842054)** und wählen Sie dann die Registerkarte **"Apps"** aus.
 
-2. Suchen Und wählen Sie die App aus, die Sie verwalten möchten.  
+2. Suchen Sie die App, die Sie verwalten möchten, und wählen Sie sie aus.  
 
-3. Wählen **Sie unter Einstellungen & Aktionen** den Link zum Verwalten im **Herausgeberportal aus.**
+3. Wählen Sie unter **Einstellungen & Aktionen** den Link zum Verwalten im Portal **des Herausgebers** aus.

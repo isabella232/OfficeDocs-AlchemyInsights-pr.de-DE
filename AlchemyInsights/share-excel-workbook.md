@@ -1,5 +1,5 @@
 ---
-title: Freigeben der Excel-Arbeitsmappe
+title: Freigeben Excel Arbeitsmappe
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000689"
 - "2583"
-ms.openlocfilehash: 38422d44e584c68db1913198228b0091869a87b0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3c2a51afb1b376af4782e49e5b308c9811b5e61bfeea1f52852a79178e818968
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828439"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094317"
 ---
-# <a name="collaborate-on-excel-documents"></a>Zusammenarbeit an Excel-Dokumenten
+# <a name="collaborate-on-excel-documents"></a>Zusammenarbeit an Excel Dokumenten
 
-Verwenden Sie das Feature zur gemeinsamen Dokumenterstellung, um mit Kollegen an **Excel-Dokumenten zusammenzuarbeiten.** 
+Verwenden Sie das Feature für die **gemeinsame Dokumenterstellung,** um mit Kollegen an Excel Dokumenten zusammenzuarbeiten. 
 
-Informationen zum Aktivieren und Verwenden dieses Features finden Sie unter Collaborate on Excel workbooks at the same time [with co-authoring](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).
+Erfahren Sie mehr über die Aktivierung und Verwendung dieses Features sowie antworten auf häufig gestellte Fragen zum Teilen und gemeinsamen Erstellen von Szenarien, bei [der Zusammenarbeit an Excel Arbeitsmappen gleichzeitig mit der gemeinsamen Dokumenterstellung.](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
