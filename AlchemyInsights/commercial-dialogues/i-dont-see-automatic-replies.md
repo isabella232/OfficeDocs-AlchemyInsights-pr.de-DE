@@ -1,5 +1,5 @@
 ---
-title: Automatische Antworten werden nicht sehen
+title: Ich sehe keine automatischen Antworten
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: 239c4db4d3a0b4010d14c2fac63018e8ad817c93
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5f0e1b52e5a31d7bfd64ef40f9d8806358a6cad218b6a474b0d0e38aa051ac72
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736623"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949458"
 ---
-# <a name="i-dont-see-automatic-replies"></a>Automatische Antworten werden nicht sehen
+# <a name="i-dont-see-automatic-replies"></a>Ich sehe keine automatischen Antworten
 
-Wenn nach dem Auswählen von **Datei** keine automatischen Antworten angezeigt werden, verwenden Sie wahrscheinlich ein Gmail-, Yahoo- oder ein anderes POP- oder IMAP-Konto, das das Feature automatische Antworten von Outlook nicht unterstützt. Sie können eine Regel einrichten, die auf eingehende Nachrichten antwortet, jedoch nur, wenn Sie Outlook nicht mehr ausführen lassen.
+Wenn nach dem Auswählen der **Datei** keine automatischen Antworten angezeigt werden, verwenden Sie wahrscheinlich ein Gmail-, Yahoo- oder anderes POP- oder IMAP-Konto, das die Funktion Outlook automatische Antworten nicht unterstützt. Sie können eine Regel einrichten, die auf eingehende Nachrichten antwortet, jedoch nur, wenn Sie Outlook ausgeführt werden.
