@@ -1,5 +1,5 @@
 ---
-title: Umbenennen Ihrer onmicrosoft-Domäne
+title: Benennen Sie Ihre onmicrosoft-Domäne um.
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: 1e966aab4d24b47f3672dcb3c84eb6961b8966f1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7748763d8eb9ea18494d1cbf45ad727f97d2d4067bc19ab7a8e60eeb738b668f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810231"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094491"
 ---
-# <a name="rename-your-onmicrosoftcom-domain"></a>Umbenennen ihrer onmicrosoft.com Domäne
+# <a name="rename-your-onmicrosoftcom-domain"></a>Umbenennen Ihrer onmicrosoft.com Domäne
 
- **Sie können die "onmicrosoft.com"-Domäne nach der Registrierung nicht umbenennen**. Wenn die ursprüngliche Domäne, die Sie ausgewählt *haben,* fourthcoffee.onmicrosoft.com wurde, können Sie sie nicht ändern, um fabrikam.onmicrosoft.com *.* Um eine andere onmicrosoft.com zu verwenden, müssen Sie ein neues Abonnement mit Microsoft 365 starten.
+ **Sie können die "onmicrosoft.com"-Domäne nach der Registrierung nicht umbenennen**. Wenn beispielsweise die ursprüngliche Domäne, die Sie ausgewählt haben,  *fourthcoffee.onmicrosoft.com* war, können Sie sie nicht in  *fabrikam.onmicrosoft.com* ändern. Um eine andere onmicrosoft.com Domäne zu verwenden, müssten Sie ein neues Abonnement mit Microsoft 365 starten.
   
-Wenn Sie eine benutzerdefinierte Domäne wie contoso.com verwenden [](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) *möchten,* können Sie eine Eigene hinzufügen oder eine von [Microsoft kaufen.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name)
+Wenn Sie eine benutzerdefinierte Domäne wie *contoso.com* verwenden möchten, können Sie [eine Eigene hinzufügen](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) oder eine von Microsoft [kaufen.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name)
   
