@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, tugu
+ms.reviewer: tugu, jmueller
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: a2a9b189ba8228cd6487c2f268c9d71affaa3519
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: acf3231c198a611d0975fffc4ef68ac28a901488f93a695de5d8f19bebf80f25
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686309"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868381"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Hinzufügen oder Bearbeiten einer Umsatzsteuer-ID
 
@@ -34,4 +34,4 @@ ms.locfileid: "53686309"
 3. Wählen Sie auf der Seite mit den Abonnementdetails im Abschnitt **Dienstnutzungsadresse** die Option **Dienstnutzungsadresse bearbeiten** aus.
 4. Geben Sie im **Adressbereich "Dienstnutzung bearbeiten"** Ihre Umsatzsteuer-ID in das **Feld "Umsatzsteuernummer"** ein, und wählen Sie dann **"Speichern"** aus. Danach wird die Umsatzsteuer nicht auf Ihre nächste Rechnung erhoben.
 
-Weitere Informationen finden Sie unter [Welche Steuer wird mir für Microsoft 365 in Rechnung gestellt?](/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).
+Weitere Informationen finden Sie unter [Welche Steuer wird mir Microsoft 365 in Rechnung gestellt?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).

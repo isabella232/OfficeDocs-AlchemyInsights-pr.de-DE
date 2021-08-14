@@ -14,20 +14,20 @@ ms.custom:
 - commerce_subscriptions
 - "9001519"
 - "3586"
-ms.openlocfilehash: 9d26786b1d1643278b50d25fd52f8eb46b4cfbef
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: dc7669ddd868f49e510e99ad5e37252c5d2305208b938dacf65fd92a1d9fb137
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689549"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009103"
 ---
 # <a name="subscription-status"></a>Abonnementstatus
 
 Abonnementstatus, Ablaufdatum und Anzahl der Lizenzen finden Sie auf der Seite **"Ihre Produkte"** des Microsoft 365 Admin Center.
 
 1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Auf der Registerkarte **"Produkte"** werden standardmäßig alle Abonnements und deren Status angezeigt (aktiv, abgelaufen, deaktiviert oder gelöscht). Um eine Teilmenge aller Abonnements anzuzeigen, wählen Sie das Filtersymbol aus, und wählen Sie dann den **Abonnementstatus aus,** den Sie anzeigen möchten.
-3. Wenn Sie ein abgelaufenes oder deaktiviertes Abonnement reaktivieren möchten, wählen Sie die drei Punkte (weitere Aktionen) aus, und aktivieren Sie **dann dieses Abonnement erneut.**
+2. Auf der Registerkarte **"Produkte"** werden standardmäßig alle Abonnements und deren Status angezeigt (aktiv, abgelaufen, deaktiviert oder gelöscht). Um eine Teilmenge aller Abonnements anzuzeigen, wählen Sie das Filtersymbol und dann den **Abonnementstatus** aus, den Sie anzeigen möchten.
+3. Wenn Sie ein abgelaufenes oder deaktiviertes Abonnement reaktivieren möchten, wählen Sie die drei Punkte (weitere Aktionen) und dann **dieses Abonnement reaktivieren** aus.
 4. Auf der Seite **"Ihre Produkte"** werden auch die folgenden Informationen angezeigt:
     - Die Anzahl der Lizenzen, die Benutzern zugewiesen sind, wird in der Spalte **"Zugewiesene Lizenzen"** angezeigt.
     - Die Gesamtzahl der im Abonnement enthaltenen Lizenzen wird in der Spalte **"Gekaufte Menge"** angezeigt.
