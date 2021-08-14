@@ -1,5 +1,5 @@
 ---
-title: Hinzufügen eines Overlays zu einem SharePoint-Kalender
+title: Hinzufügen einer Überlagerung zu einem SharePoint Kalender
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: f105c2e6035f7ac49c669d1196b688ab20ce34a7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1ceed47bf94350b52da3633da5afbff1a70a8ca6d651576bc1d89acdbaf7af65
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822058"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953014"
 ---
-# <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Hinzufügen eines Overlays zu einem SharePoint-Kalender
+# <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Hinzufügen einer Überlagerung zu einem SharePoint Kalender
 
-SharePoint-Kalender sind klassische Listentypen, die manchmal mit Microsoft 365-Gruppenkalendern verwechselt werden.
+SharePoint Kalender sind klassische Listentypen, die manchmal mit Microsoft 365 Gruppenkalendern verwechselt werden.
  
-Wenn Sie einen SharePoint-Kalender auf Ihrer Website verwenden, können Sie Ihren eigenen Exchange-Kalender darüber überlagern, um eine kombinierte Kalenderansicht zu erstellen. Alternativ können Sie einen anderen SharePoint-Kalender überlagern, solange sich beide SharePoint-Kalender in derselben Websitesammlung befinden.
+Wenn Sie einen SharePoint Kalender auf Ihrer Website verwenden, können Sie Ihren eigenen Exchange Kalender darauf überlagern, um eine kombinierte Kalenderansicht zu erstellen. Alternativ können Sie einen anderen SharePoint Kalender überlagern, solange sich beide SharePoint Kalender in derselben Websitesammlung befinden.
  
-Führen Sie die Schritte unter Überlagern eines [SharePoint-Kalenders](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A)mit einem Kalender aus Exchange oder SharePoint aus, um einem klassischen SharePoint-Kalender ein Overlay hinzuzufügen.
+Um einem klassischen SharePoint Kalender ein Overlay hinzuzufügen, führen Sie die Schritte unter [Überlagern eines SharePoint Kalenders mit einem Kalender aus Exchange oder SharePoint aus.](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A)
