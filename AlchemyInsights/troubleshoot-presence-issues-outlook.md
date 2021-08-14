@@ -1,13 +1,13 @@
 ---
-title: "Problembehandlung bei Anwesenheitsproblemen in Outlook" ms.author: pebaum author: pebaum manager: scotv ms.date: 08.04.2021 ms.audience: Admin ms.topic: article ms.service: o365-administration ROBOT: NOINDEX, NOFOLLOW localization_priority: Priority ms.collection: Adm_O365 ms.custom: (
+title: "Troubleshoot presence issues in Outlook" ms.author: pebaum author: pebaum manager: scotv ms.date: 04/8/2021 ms.audience: Admin ms.topic: article ms.service: o365-administration ROBOTS: NOINDEX, NOFOLLOW localization_priority: Priority ms.collection: Adm_O365 ms.custom: (
 - 9257
 - 9003349
 ---
 
 # <a name="troubleshoot-presence-issues-in-outlook"></a>Behandeln von Anwesenheitsproblemen in Outlook
 
-Um Probleme mit dem Anwesenheitsstatus für einen Benutzer in Outlook zu diagnostizieren und zu beheben, laden Sie microsoft Support and Recovery Assistant > Teams Presence Scenario herunter und führen sie [aus.](https://aka.ms/SaRA-TeamsPresenceScenario)
+Um Probleme mit dem Anwesenheitsstatus eines Benutzers in Outlook zu diagnostizieren und zu beheben, laden Sie Microsoft Support- und Wiederherstellungs-Assistent > [Teams Anwesenheitsszenario](https://aka.ms/SaRA-TeamsPresenceScenario)herunter und führen sie aus.
 
-Führen Sie die Schritte unter Benutzerpräsenzstatusprobleme in Outlook aus, um ein Problem mit der Anwesenheit in Outlook manuell [zu beheben.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook)
+Um ein Problem mit anwesenheitsinformationen in Outlook manuell zu beheben, führen Sie die Schritte unter [Benutzeranwesenheitsstatusprobleme in Outlook](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook)aus.
 
-Wenn der Anwesenheitsstatus in Teams nicht aktualisiert wird, finden Sie weitere Informationen unter Ihr tatsächlicher Anwesenheitsstatus wird [nicht in Teams angezeigt.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status)
+Wenn der Anwesenheitsstatus in Teams nicht aktualisiert wird, lesen Sie, dass [der tatsächliche Anwesenheitsstatus nicht in Teams widergespiegelt wird.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status)
