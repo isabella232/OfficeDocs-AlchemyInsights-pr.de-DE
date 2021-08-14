@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: 7d2ed7bc4c7d99cd01dadc12e38762903d6d8ab3
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 9051fb44d7d6bde388d279b3311627848b6f499e30b5eca00d6a47cef105fb77
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543576"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997133"
 ---
 # <a name="microsoft-defender-for-office-365-for-sharepoint-onedrive-and-microsoft-teams"></a>Microsoft Defender für Office 365 für SharePoint, OneDrive und Microsoft Teams
 
-Führen Sie die folgenden Schritte aus, um Microsoft Defender für Office 365:
+Führen Sie die folgenden Schritte aus, um Microsoft Defender für Office 365 zu aktivieren:
 
-1. Wechseln Sie [https://protection.office.com](https://protection.office.com) zu und melden Sie sich mit einem globalen Administrator- oder Sicherheitsadministratorkonto an.
+1. Wechseln Sie zu [https://protection.office.com](https://protection.office.com) einem globalen Administrator- oder Sicherheitsadministratorkonto, und melden Sie sich an.
 
-2. Wählen Sie im linken Navigationsbereich unter **Bedrohungsverwaltung** die **Option** \> **Richtliniensichere Anlagen aus.**
+2. Wählen Sie im linken Navigationsbereich unter **Bedrohungsverwaltung** **die Option "Richtlinie** \> **Tresor Anlagen" aus.**
 
-3. Wählen **Sie Defender für Office 365 für SharePoint, OneDrive und Microsoft Teams aus.**
+3. Wählen Sie **"Defender für Office 365 für SharePoint, OneDrive und Microsoft Teams aktivieren"** aus.
 
-4. [Erstellen Sie eine Aktivitätsbenachrichtigungsrichtlinie,](/microsoft-365/compliance/create-activity-alerts) um Benachrichtigungen zu erhalten, wenn schädliche Dateien erkannt werden.
+4. [Erstellen Sie eine Aktivitätswarnungsrichtlinie,](/microsoft-365/compliance/create-activity-alerts) um Benachrichtigungen zu erhalten, wenn wir schädliche Dateien erkennen.
 
-Vollständige Anweisungen finden Sie unter [Turn on Safe Attachments for SharePoint, OneDrive, and Microsoft Teams](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).
+Vollständige Anweisungen finden Sie unter ["Aktivieren Tresor Anlagen" für SharePoint, OneDrive und Microsoft Teams.](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams)
 
-**Hinweis:** Microsoft Defender for Office 365 scannt nicht jede einzelne Datei in SharePoint Online, OneDrive for Business oder Microsoft Teams. Dateien werden asynchron von einem Prozess überprüft, der Freigabeaktivitäten, Gastaktivitäten und Bedrohungssignale verwendet, um schädliche Dateien zu identifizieren. Weitere Informationen finden Sie unter [Safe Attachments for SharePoint, OneDrive, and Microsoft Teams](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).
+**Hinweis:** Standardmäßig überprüft Microsoft Defender für Office 365 nicht jede einzelne Datei in SharePoint Online, OneDrive for Business oder Microsoft Teams. Dateien werden asynchron von einem Prozess gescannt, der Freigabeaktivitäten, Gastaktivitäten und Bedrohungssignale verwendet, um schädliche Dateien zu identifizieren. Weitere Informationen finden Sie unter [Tresor Anlagen für SharePoint, OneDrive und Microsoft Teams.](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
