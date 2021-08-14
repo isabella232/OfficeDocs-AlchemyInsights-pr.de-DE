@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
-ms.openlocfilehash: 6cfb01fbe117fe3c1d3c3bddbec9f5a8188066ae
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 1a4843f43e1f5a261b06a0beca1231380a25c302605a2a82ef7143791f2964e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709213"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991641"
 ---
 # <a name="restore-items-in-sharepoint-online"></a>Wiederherstellen von Elementen in SharePoint Online
 
-Wenn Sie Elemente in SharePoint Online löschen, werden sie insgesamt 93 Tage lang aufbewahrt. Sie bleiben die ganze Zeit im Papierkorb der Website, es sei denn, Sie leeren ihn oder löschen die Elemente aus dem Papierkorb. In diesem Fall gehen die Elemente in den Papierkorb der Websitesammlung, wo sie für die restlichen 93 Tage bleiben. Am Ende der Zeit werden die Elemente endgültig gelöscht. So stellen Sie gelöschte Elemente aus dem Websitepapierkorb wieder auf:
+Wenn Sie Elemente in SharePoint Online löschen, werden sie insgesamt 93 Tage lang aufbewahrt. Sie verbleiben die ganze Zeit im Papierkorb der Website, es sei denn, Sie leeren ihn oder löschen die Elemente daraus. In diesem Fall werden die Elemente in den Papierkorb der Websitesammlung verschoben, wo sie für die verbleibenden 93 Tage verbleiben. Am Ende der Zeit werden die Elemente endgültig gelöscht. So stellen Sie gelöschte Elemente aus dem Papierkorb der Website wieder her:
   
-1. Wechseln Sie zur Website, und klicken Sie **im** linken Bereich auf Papierkorb. 
+1. Wechseln Sie zur Website, und klicken Sie im linken Bereich auf **"Papierkorb".** 
     
-    Wenn im linken  Bereich kein Papierkorb angezeigt wird, klicken Sie oben rechts auf das Symbol Einstellungen, und klicken Sie dann auf **Websiteinhalte**. Der Papierkorb befindet sich ganz rechts neben der Befehlsleiste oben.
+    Wenn im linken Bereich kein **Papierkorb** angezeigt wird, klicken Sie oben rechts auf das symbol Einstellungen, und klicken Sie dann auf **Websiteinhalte.** Der Papierkorb befindet sich ganz rechts auf der Befehlsleiste oben.
     
-2. Wählen Sie **auf der Seite** Papierkorb die Elemente aus, die Sie wiederherstellen möchten, indem Sie auf sie zeigen und auf das angezeigte Häkchensymbol klicken. 
+2. Wählen Sie auf der Seite **"Papierkorb"** die Elemente aus, die Sie wiederherstellen möchten, indem Sie auf sie zeigen und auf das angezeigte Häkchensymbol klicken. 
     
 3. Klicken Sie auf **Wiederherstellen**.
     

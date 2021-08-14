@@ -1,5 +1,5 @@
 ---
-title: 1489-Permissions-Required-for-eDiscovery-searches
+title: 1489-permissions-required-for-ediscovery-searches
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: bc384a948bab5ba93b00f9401cc42e4fda71ec3d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4343a43b5019877ce01601f4baa13f3290177d25e0d24d6034858205966f5f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795819"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973840"
 ---
-# <a name="permissions-required-for-ediscovery-searches"></a>Erforderliche Berechtigungen für eDiscovery-suchen
+# <a name="permissions-required-for-ediscovery-searches"></a>Erforderliche Berechtigungen für eDiscovery-Suchvorgänge
 
-Um die Inhaltssuche im Security & Compliance Center durchführen zu können, muss ein Benutzer mindestens Mitglied der Rollengruppe "eDiscovery-Manager" sein, die es Ihnen ermöglicht, Suchvorgänge durchzuführen und Aufbewahrungsmöglichkeiten für Postfächer, SharePoint-Websites und OneDrive-Speicherorte zu platzieren. Mitglieder können auch eDiscovery-Fälle erstellen und verwalten, Mitglieder zu einem Fall hinzufügen und entfernen, Inhalts suchen erstellen und bearbeiten sowie auf Groß-und klein Schreibungs Daten in Advanced eDiscovery zugreifen.
+Zum Ausführen von Inhaltssuchen im Security & Compliance Center muss ein Benutzer mindestens Mitglied der Rollengruppe "eDiscovery-Manager" sein, sodass er Suchvorgänge durchführen und Haltebereiche für Postfächer, SharePoint Websites und OneDrive Speicherorte platzieren kann. Mitglieder können auch eDiscovery-Fälle erstellen und verwalten, Mitglieder zu einem Fall hinzufügen und entfernen, Inhaltssuchen erstellen und bearbeiten und auf Falldaten in Advanced eDiscovery zugreifen.
 
-Um Compliance-eDiscovery-suchen im Exchange Admin Center (EAC) durchführen zu können, muss der Benutzer Mitglied der Rollengruppe "Discoveryverwaltung" in Exchange Online sein.
+Um In-Place eDiscovery-Suchvorgänge im Exchange Admin Center (EAC) durchzuführen, muss der Benutzer Mitglied der Rollengruppe "Discoveryverwaltung" in Exchange Online sein.
 
 Weitere Informationen zu eDiscovery-Berechtigungen finden Sie unter: 
 
@@ -31,4 +31,4 @@ Weitere Informationen zu eDiscovery-Berechtigungen finden Sie unter:
 
 - [Zuweisen von eDiscovery-Berechtigungen in Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 
-**Hinweis**: nach dem Zuweisen von eDiscovery-Berechtigungen müssen Sie möglicherweise einige Minuten warten, bis die Berechtigungen weitergegeben werden.
+**Hinweis:** Nach dem Zuweisen von eDiscovery-Berechtigungen müssen Sie möglicherweise einige Minuten warten, bis die Berechtigungen verteilt werden.
