@@ -14,16 +14,16 @@ ms.custom:
 - "6895"
 - "9006502"
 - "11144"
-ms.openlocfilehash: a6c6f9563933b7cf6b71c4758c29ffd94617c4be
-ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
+ms.openlocfilehash: 798b28fa20291c7ef5e94d555b9ae72c3b193d343b892affd22b6a23e780d523
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52989672"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975856"
 ---
 # <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>Verwenden von Microsoft Intune zum Verwalten des Webzugriffs in Microsoft Edge für iOS und Android
 
-Microsoft Edge für iOS und Android können Benutzer das Web aus mehreren, vollständig getrennten Profilen durchsuchen.
+Microsoft Edge für iOS und Android ermöglicht es benutzern, das Web aus mehreren, vollständig getrennten Profilen zu durchsuchen.
 
 Die umfassendsten Schutzfunktionen für Microsoft 365 Daten werden verfügbar, wenn Sie die Enterprise Mobility + Security-Suite abonnieren, die Microsoft Intune und Azure Active Directory Premium Features wie bedingten Zugriff umfasst. Sie sollten mindestens eine Richtlinie für bedingten Zugriff bereitstellen, mit der (1) Benutzer eine Verbindung von mobilen Geräten mit Microsoft Edge für iOS und Android herstellen können und die (2) eine Microsoft Intune App-Schutzrichtlinie implementiert, die eine geschützte Browserumgebung bereitstellt.
 
@@ -45,4 +45,4 @@ Informationen dazu, wie Sie bedingten Zugriff und Richtlinien verwenden können,
 
 [Verwenden von Microsoft Endpoint Manager zum Bereitstellen von App-Konfigurationsrichtlinien](https://go.microsoft.com/fwlink/?linkid=2132707)
 
-Informationen zum Zugreifen auf Protokolle verwalteter Apps finden Sie unter [Verwenden von Microsoft Edge für iOS und Android, um auf Protokolle verwalteter Apps zuzugreifen.](https://go.microsoft.com/fwlink/?linkid=2132578)
+Informationen zum Zugreifen auf protokolle verwalteter Apps finden Sie unter [Verwenden von Microsoft Edge für iOS und Android, um auf protokolle verwalteter Apps zuzugreifen.](https://go.microsoft.com/fwlink/?linkid=2132578)
