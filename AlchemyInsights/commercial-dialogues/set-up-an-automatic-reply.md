@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: fe32f93f17151be777749a256a934f475c224048
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 09f618c305cf566c03cbad8ca6ef2ebbf42e48be6c97374199654005698053df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736352"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994936"
 ---
 # <a name="set-up-an-automatic-reply"></a>Einrichten einer automatischen Antwort
 
-Verwenden Sie automatische Antworten, wenn Sie Personen, die Ihnen E-Mails senden, wissen lassen möchten, dass Sie nicht sofort auf ihre Nachrichten antworten. Nachdem automatische Antworten aktiviert wurden, werden sie einmal an jeden Absender gesendet.
+Verwenden Sie automatische Antworten, wenn Sie Personen, die Ihnen E-Mails senden, mitteilen möchten, dass Sie nicht sofort auf ihre Nachrichten antworten werden. Nachdem automatische Antworten aktiviert wurden, werden sie einmal an jeden Absender gesendet.
 
-1. Melden Sie sich bei Outlook.com.
-2. Wählen Sie auf der Navigationsleiste **Einstellungen Automatische** Antworten  >  **festlegen aus.** Wenn **Automatische Antworten festlegen** nicht angezeigt wird, wählen Sie **Einstellungen**  >  **Optionen**  >  **Automatische Antworten aus.**
-3. Ändern Sie hier die Einstellungen für Ihre automatischen Antworten. Dazu gehören nur automatische Antworten für einen bestimmten Zeitraum, das Senden einer Antwort einmal an alle Mitglieder in Ihrer Organisation oder das Senden einer Antwort nur an Mitglieder außerhalb Ihrer Organisation.
+1. Melden Sie sich bei Outlook.com an.
+2. Wählen Sie in der Navigationsleiste **Einstellungen**  >  **automatische Antworten festlegen** aus. Wenn **automatische Antworten festlegen** nicht angezeigt wird, wählen Sie **Einstellungen**  >  **Optionen**  >  **automatische Antworten** aus.
+3. Ändern Sie hier die Einstellungen für Ihre automatischen Antworten, einschließlich automatischer Antworten für einen bestimmten Zeitraum, einmaliges Senden einer Antwort an alle Mitglieder in Ihrer Organisation oder Senden einer Antwort nur an Mitglieder außerhalb Ihrer Organisation.
