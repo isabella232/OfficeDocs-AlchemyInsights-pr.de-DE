@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a4f25f5cdcfefaad91f12864dfaa2e000c357716
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c28a54bb2ebdbb95c3f33bce7bb569a76d48751168189dc23cbc37390d95613f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736525"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016591"
 ---
 # <a name="permissions-and-browser-related-requirements-for-microsoft-365-defender"></a>Berechtigungen und browserbezogene Anforderungen für Microsoft 365 Defender
 
-- Berechtigungen: Zum Aktivieren von Microsoft 365 Defender müssen Sie ein globaler Administrator oder Sicherheitsadministrator in Azure Active Directory sein. Eine Liste der Rollen, die Microsoft 365 Defender verwenden können, und informationen, wie der Zugriff auf Daten reguliert wird, finden Sie unter Verwalten des Zugriffs auf [Microsoft 365 Defender](https://go.microsoft.com/fwlink/?linkid=2143626).
+- Berechtigungen: Um Microsoft 365 Defender zu aktivieren, müssen Sie ein globaler Administrator oder ein Sicherheitsadministrator in Azure Active Directory sein. Eine Liste der Rollen, die Microsoft 365 Defender verwenden können, und informationen dazu, wie der Zugriff auf Daten geregelt ist, finden Sie unter Verwalten des [Zugriffs auf Microsoft 365 Defender](https://go.microsoft.com/fwlink/?linkid=2143626).
 
-- Browserbezogene Anforderungen: Verwenden Sie Microsoft Edge, Internet Explorer 11 oder einen beliebigen HTML 5-kompatiblen Webbrowser, um auf Microsoft 365 Defender im Microsoft 365 Security Center zu zugreifen.
+- Browserbezogene Anforderungen: Verwenden Sie Microsoft Edge, Internet Explorer 11 oder einen html 5-kompatiblen Webbrowser, um auf Microsoft 365 Defender im Microsoft 365 Security Center zuzugreifen.

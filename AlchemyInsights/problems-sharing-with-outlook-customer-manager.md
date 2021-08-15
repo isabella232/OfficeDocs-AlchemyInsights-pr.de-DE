@@ -1,5 +1,5 @@
 ---
-title: problems-sharing-with-outlook-customer-manager
+title: Problems-sharing-with-outlook-customer-manager
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: be42bed4b3a13ac69a73479e644309213e4f3647
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 8281adacb2164ee88a73ee5b5e3afcc2a4ed317e96e8f37eba0d068c2792bfdd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709249"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960114"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Probleme bei der Freigabe mit Outlook Customer Manager
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Probleme beim Teilen mit Outlook Customer Manager
 
-Wenn Sie Probleme mit der Freigabe mit Outlook Customer Manager haben, empfehlen wir, zuerst zu versuchen, den Browsercache zu löschen. In Internet Explorer würden Sie z. B. folgende Einstellungen verwenden:
+Wenn Sie Probleme mit der Freigabe mit Outlook Kunden-Manager haben, empfehlen wir, zuerst ihren Browsercache zu löschen. In Internet Explorer würden Sie beispielsweise Folgendes ausführen:
 
-1. Wechseln Sie **zu**  >  **Einstellungen Allgemein** > Einstellungen unter **Browserverlauf**  >  **Caches und Datenbanken**.
-2. Löschen von Cachedateien für die Website "outlookapps.com".
+1. Wechseln Sie zu **Einstellungen**  >  **Allgemeine** > Einstellungen unter **Browserverlaufscaches**  >  **und Datenbanken.**
+2. Löschen Sie Cachedateien für die Website "outlookapps.com".
 3. Starten Sie Outlook neu.
 
-Weitere Informationen zur Freigabe finden Sie unter [Freigeben von Informationen in Outlook Customer Manager](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710).
+Weitere Informationen zur Freigabe finden Sie unter [Freigeben von Informationen in Outlook Customer Manager.](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710)
