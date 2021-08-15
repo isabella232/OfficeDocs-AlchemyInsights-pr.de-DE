@@ -1,5 +1,5 @@
 ---
-title: Offboard-Nicht-Windows-Geräte von Microsoft Defender Advanced Threat Protection (ATP)
+title: Offboarding von Nicht-Windows-Geräten von Microsoft Defender Advanced Threat Protection (ATP)
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 435957c555cd80155a985a49bd94b041a4ada31d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fbaab348e06691b73db68492a0083c4a5a54c4504e03d27ec53f2a9f5047266d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736538"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967800"
 ---
-# <a name="offboard-non-windows-devices-from-microsoft-defender-advanced-threat-protection-atp"></a>Offboard-Nicht-Windows-Geräte von Microsoft Defender Advanced Threat Protection (ATP)
+# <a name="offboard-non-windows-devices-from-microsoft-defender-advanced-threat-protection-atp"></a>Offboarding von Nicht-Windows-Geräten von Microsoft Defender Advanced Threat Protection (ATP)
 
 Dazu gehen Sie so vor:
 
-1. Befolgen Sie die Dokumentation des Drittanbieters zum Trennen der Drittanbieterlösung von Microsoft Defender ATP.
-2. Entfernen Sie von Ihrem Azure Active Directory-Mandanten Berechtigungen für die Drittanbieterlösung:
+1. Folgen Sie der Dokumentation des Drittanbieters, um die Verbindung zwischen der Drittanbieterlösung und Microsoft Defender ATP zu trennen.
+2. Entfernen Sie aus Ihrem Azure Active Directory Mandanten Berechtigungen für die Drittanbieterlösung:
 
     1. Melden Sie sich beim [Azure-Portal](https://go.microsoft.com/fwlink/?linkid=2125612) an.
-    1. Wählen **Sie Alle Dienste** Azure Active  >  **Directory** Enterprise Applications  >  **aus.**
+    1. Wählen Sie **alle Dienste**  >  **Azure Active Directory**  >  **Enterprise Anwendungen** aus.
     1. Wählen Sie die Anwendung aus, die Sie offboarden möchten.
     1. Wählen Sie **Löschen** aus.
 
-Weitere Informationen finden Sie unter [Offboard-Nicht-Windows-Geräte](https://go.microsoft.com/fwlink/?linkid=2143630).
+Weitere Informationen finden Sie unter [Offboarding von Nicht-Windows-Geräten.](https://go.microsoft.com/fwlink/?linkid=2143630)

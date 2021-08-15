@@ -1,5 +1,5 @@
 ---
-title: Problembehandlung bei einmaligem Anmelden für Azure AD-beigetretene Geräte
+title: Problembehandlung bei single-sign-on für Azure AD-geräte
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003246"
 - "9327"
-ms.openlocfilehash: d11c24719eb2db9e9fd87c158c80cec5cb75b946
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 872333e13bb51b3a22431154627ad561f6db88c681c9eeee523fdd09e58c0371
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898084"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039245"
 ---
-# <a name="troubleshoot-single-sign-on-for-azure-ad-joined-devices"></a>Problembehandlung bei einmaligem Anmelden für Azure AD-beigetretene Geräte
+# <a name="troubleshoot-single-sign-on-for-azure-ad-joined-devices"></a>Problembehandlung bei single-sign-on für Azure AD-geräte
 
-Wenn Sie über eine lokale Active Directory (AD)-Umgebung verfügen und Ihre mit der AD-Domäne beigetretenen Computer zu Azure AD hinzufügen möchten, können Sie dies erreichen, indem Sie azure AD hybrid beitreten. [How To: Plan your hybrid Azure Active Directory join implementation](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) provides you with the related steps to implement a hybrid Azure AD join in your environment.
+Wenn Sie über eine lokale Active Directory (AD)-Umgebung verfügen und Ihre mit der AD-Domäne verbundenen Computer mit Azure AD verknüpfen möchten, können Sie dies erreichen, indem Sie eine Azure AD-Hybridverknüpfung durchführen. [How To: Plan your hybrid Azure Active Directory join implementation](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) provides you with the related steps to implement a hybrid Azure AD join in your environment.
 
-Weitere Informationen finden Sie unter [Configure Azure AD joined devices for On-premises Single-Sign On using Windows Hello for Business](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base).
+Weitere Informationen finden Sie unter [Konfigurieren von in Azure AD eingebundenen Geräten für lokale Single-Sign On mit Windows Hello for Business.](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base)
 
-**Probleme mit dem primären Aktualisierungstoken (Primary Refresh Token, PRT)**
+**Probleme mit dem primären Aktualisierungstoken (PRT)**
 
-Ein primäres Aktualisierungstoken (Primary Refresh Token, PRT) ist ein Schlüsselartefakte der Azure AD-Authentifizierung auf Windows 10-, Windows Server 2016- und höher-, iOS- und Android-Geräten. Es handelt sich um ein JSON-Webtoken (JWT), das speziell für Tokenbroker von Microsoft first party ausgegeben wurde, um einmaliges Anmelden (Single Sign-On, SSO) für die Anwendungen zu aktivieren, die auf diesen Geräten verwendet werden. Weitere Informationen dazu, wie ein PRT auf Windows 10-Geräten ausgegeben, verwendet und geschützt wird, finden Sie unter [Was ist ein primäres Aktualisierungstoken?](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token).
+Ein primäres Aktualisierungstoken (PRT) ist ein Schlüsselartefakt der Azure AD-Authentifizierung auf Windows 10, Windows Server 2016 und neueren Versionen, iOS- und Android-Geräten. Es handelt sich um ein JSON-Webtoken (JWT), das speziell für Tokenbroker von Erstanbietern von Microsoft ausgestellt wurde, um einmaliges Anmelden (Single Sign-On, SSO) für die auf diesen Geräten verwendeten Anwendungen zu aktivieren. Ausführliche Informationen dazu, wie ein PRT auf Windows 10 Geräten ausgestellt, verwendet und geschützt wird, finden Sie unter [Was ist ein primäres Aktualisierungstoken?](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token)
 
-**WamDefaultSet: JA und AzureADPrt: JA**
+**WamDefaultSet: YES und AzureADPrt: JA**
 
-Diese Felder geben an, ob sich der Benutzer erfolgreich bei Azure AD authentifiziert hat, wenn er sich beim Gerät anmeldet. Wenn die Werte **NO sind,** kann dies auf:
+Diese Felder geben an, ob der Benutzer sich bei Azure AD bei der Anmeldung am Gerät erfolgreich authentifiziert hat. Wenn die Werte **NEIN** sind, kann dies auf Folgendes zurückzuführen sein:
 
-- Ungültiger Speicherschlüssel im TPM, das dem Gerät bei der Registrierung zugeordnet ist (überprüfen Sie den KeySignTest während der Ausführung mit erhöhten Rechten)
+- Ungültiger Speicherschlüssel im TPM, der dem Gerät bei der Registrierung zugeordnet ist (überprüfen Sie keySignTest, während Sie erhöhte Rechte ausführen).
 - Alternative Anmelde-ID
 - HTTP-Proxy nicht gefunden
 
-Informationen zur Problembehandlung von Geräten mithilfe des Befehls dsregcmd finden Sie unter [SSO-Status](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-device-dsregcmd#sso-state).
+Informationen zur Problembehandlung von Geräten mit dem Befehl "dsregcmd" finden Sie unter [SSO-Status.](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-device-dsregcmd#sso-state)
