@@ -14,12 +14,12 @@ ms.custom:
 - "9140"
 - "11087"
 - "9006490"
-ms.openlocfilehash: dd3449ccd6eeb5fc9162e9679f5de39bacc46efa
-ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
+ms.openlocfilehash: e215528904a0e1176b02069a86d47884d17b1e2b04ca4f90d5deedbeb82f5dc9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52989932"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960690"
 ---
 # <a name="plan-your-deployment-of-microsoft-edge"></a>Planen der Bereitstellung von Microsoft Edge
 
@@ -33,4 +33,4 @@ Die Bereitstellung eines neuen Browsers für eine Gruppe von Benutzern kann entm
 6. Führen Sie App-Kompatibilitätstests durch.
 7. Stellen Sie Microsoft Edge für eine Pilotgruppe bereit, und überprüfen Sie sie.
 
-Informationen zum eigenständigen Ausführen dieser Schritte finden Sie unter [Planen der Bereitstellung von Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2129990)
+Informationen zum eigenen Ausführen dieser Schritte finden Sie unter [Planen der Bereitstellung von Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2129990)
