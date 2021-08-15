@@ -1,5 +1,5 @@
 ---
-title: Informationen zum Anzeigen isolierter Nachrichten
+title: Informationen zum Anzeigen von isolierten Nachrichten
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 1027243d90562a9ad7389400b206a6d29845f71a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fb3c7afafab80f5f1801f30d6a1d16a7a8ea2ce5a268369cbfb41787e7a2cbc4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736615"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978916"
 ---
-# <a name="info-about-viewing-quarantined-messages"></a>Informationen zum Anzeigen isolierter Nachrichten
+# <a name="info-about-viewing-quarantined-messages"></a>Informationen zum Anzeigen von isolierten Nachrichten
 
-Verwenden Sie das Microsoft 365 Admin Center, um alle isolierten Nachrichten für Ihre Organisation anzeigen zu können. Hier sind einige Tipps:
+Um alle isolierten Nachrichten für Ihre Organisation anzuzeigen, verwenden Sie die Microsoft 365 Admin Center. Hier sind einige Tipps:
 
-- Es gibt keine Möglichkeit, einen täglichen oder wöchentlichen Bericht über alle isolierten Nachrichten an Ihr Postfach zu senden.
-- Sie können jedoch Microsoft 365 einrichten, um Ihren Benutzern einen Digest darüber zu senden, welche ihrer E-Mails sich in Quarantäne befinden.
-- Spam-, Massen- und Phishingnachrichten werden standardmäßig für 15 Tage isoliert. Nachrichten, die einer Nachrichtenflussregel entsprechen, werden für 7 Tage isoliert (Sie können dies nicht anpassen). Wenn Microsoft 365 eine Nachricht aus der Quarantäne löscht, können Sie sie nicht mehr zurück.
+- Es gibt keine Möglichkeit, einen täglichen oder wöchentlichen Bericht aller isolierten Nachrichten an Ihr Postfach zu senden.
+- Sie können jedoch Microsoft 365 einrichten, um Ihren Benutzern einen Digest darüber zu senden, welche ihrer E-Mails in Quarantäne sind.
+- Standardmäßig werden Spam-, Massen- und Phishingnachrichten 15 Tage lang unter Quarantäne gestellt. Nachrichten, die einer Nachrichtenflussregel entsprechen, werden 7 Tage lang unter Quarantäne gestellt (Sie können dies nicht anpassen). Wenn Microsoft 365 eine Nachricht aus der Quarantäne löscht, können Sie sie nicht wieder abrufen.

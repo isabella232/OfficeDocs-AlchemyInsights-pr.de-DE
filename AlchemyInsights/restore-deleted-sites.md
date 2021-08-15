@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000210"
 - "4836"
-ms.openlocfilehash: eca087369f8cf879a27d713da3e8e190aaf34eb9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e018f80fdd69205fc13f06228df30d145fc5a5287c9795e986e96cdee3e7a67c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809402"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991246"
 ---
 # <a name="restore-deleted-sites"></a>Wiederherstellen von gelöschten Websites
 
-Gelöschte Websites werden für 93 Tage aufbewahrt. Nach 93 Tagen werden Websites sowie alle Inhalte und Einstellungen, einschließlich Listen, Bibliotheken, Seiten und Unterwebsites, dauerhaft gelöscht.
+Gelöschte Websites werden 93 Tage lang aufbewahrt. Nach 93 Tagen werden Websites sowie alle deren Inhalte und Einstellungen – einschließlich Listen, Bibliotheken, Seiten und Unterwebsites – endgültig gelöscht.
 
 - Weitere Informationen finden Sie unter [Wiederherstellen von gelöschten Websites](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
