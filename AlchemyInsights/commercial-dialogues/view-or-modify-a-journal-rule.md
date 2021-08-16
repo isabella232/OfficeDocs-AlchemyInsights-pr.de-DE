@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: e85f2dc0dfe3e4c2b5229c407249ddb87da1f47c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: a8783a85f0539e070665a7ef30f1ebc87cb3644d7508ec9b561ad17200c97505
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736255"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045095"
 ---
 # <a name="view-or-modify-a-journal-rule"></a>Anzeigen oder Ändern einer Journalregel
 
 Dazu gehen Sie so vor:
 
-1. Wechseln Sie [im Exchange Admin Center](https://go.microsoft.com/fwlink/p/?linkid=2059104)zu **Complianceverwaltungsjournalregeln**  >  .
+1. Wechseln Sie im [Exchange Admin Center](https://go.microsoft.com/fwlink/p/?linkid=2059104)zu **Compliance-Verwaltungs-Journalregeln.**  >  
 2. In der Listenansicht werden alle Journalregeln in Ihrer Organisation angezeigt.
 3. Doppelklicken Sie auf die Regel, die Sie anzeigen oder ändern möchten.
-4. Ändern **Sie in** der Journalregel die einstellungen, die Sie möchten.
+4. Ändern Sie in **der Journalregel** die gewünschten Einstellungen.

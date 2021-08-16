@@ -1,5 +1,5 @@
 ---
-title: Erstellen einer Dateianforderung
+title: So erstellen Sie eine Dateianforderung
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001432"
 - "3413"
-ms.openlocfilehash: faf867f41679ad4f51b977b97678b62797488bd8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 01124fa426d2f2beaed81d646773efdf155f5f0d45a9c585f80913b111fa9598
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816010"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016267"
 ---
-# <a name="how-to-create-a-file-request"></a>Erstellen einer Dateianforderung
+# <a name="how-to-create-a-file-request"></a>So erstellen Sie eine Dateianforderung
 
-Mit der Dateianforderungsfunktion in OneDrive können Sie einen Ordner auswählen, in dem andere Dateien über einen Link hochladen können, den Sie ihnen senden. Die Benutzer, von der Sie Dateien anfordern, können nicht sehen, was sich im Ordner befindet- sie können nur Dateien hochladen.
+Mit der Dateianforderungsfunktion in OneDrive können Sie einen Ordner auswählen, in den andere Dateien über einen Link hochladen können, den Sie ihnen senden. Die Benutzer, von denen Sie Dateien anfordern, können nicht sehen, was sich im Ordner befindet. Sie können nur Dateien in den Ordner hochladen.
 
-**Hinweis:** Ein Administrator muss [#A0](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) in OneDrive aktivieren, damit Dateianforderungen funktionieren.
+**Hinweis:** Ein Administrator muss ["Jeder"-Links](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) in OneDrive aktivieren, damit Dateianforderungen funktionieren.
 
-- Weitere Informationen finden Sie unter [Create a file request](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).
+- Weitere Informationen finden Sie unter [Erstellen einer Dateianforderung.](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af)

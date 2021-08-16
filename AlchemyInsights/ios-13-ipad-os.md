@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2701"
 - "6700003"
-ms.openlocfilehash: d851fcc6c8514300d5f67b5755caa729c5441a67
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c20e1a100f34aaea49fd0bfea513583ed45c91963751459ac229a265929f3fd0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833146"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054869"
 ---
-# <a name="ios-13--ipados-updates-for-conditional-access-policy"></a>iOS 13+ / iPadOS-Updates für Richtlinie für bedingten Zugriff
+# <a name="ios-13--ipados-updates-for-conditional-access-policy"></a>iOS 13+ / iPadOS-Updates für Richtlinien für bedingten Zugriff
 
-Wenn Probleme im Zusammenhang mit dem bedingten Zugriff auf Ipads auftreten, die auf iPadOS (iOS 13 oder höher) aktualisiert wurden, lesen Sie den folgenden Artikel des AAD-Teams zu Änderungen, die Sie möglicherweise vornehmen müssen, um sicherzustellen, dass der bedingte Zugriff weiterhin wie gewünscht funktioniert:
+Wenn Probleme im Zusammenhang mit bedingtem Zugriff auf Ipads auftreten, die auf iPadOS (iOS 13 oder höher) aktualisiert wurden, lesen Sie den folgenden Artikel des AAD-Teams zu Änderungen, die Sie möglicherweise vornehmen müssen, um sicherzustellen, dass der bedingte Zugriff weiterhin wie gewünscht funktioniert:
 
 [Aktion erforderlich: Auswerten und Aktualisieren von Richtlinien für bedingten Zugriff in Vorbereitung auf die iPadOS-Version](https://support.microsoft.com/help/4521038/action-required-update-conditional-access-policies-for-ipados)
