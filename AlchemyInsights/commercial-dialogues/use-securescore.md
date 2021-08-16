@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100002"
 - "7525"
-ms.openlocfilehash: e6065c9ec681e377f8f8a51232d1b411bc91845e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 0367cf3f76a9668e71dec52645a5b3aed44ccec93c0c39bccfa883212009633b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736243"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033781"
 ---
 # <a name="use-securescore"></a>Verwenden von SecureScore
 
-Secure Score ist ein Sicherheitsanalysetool, das empfiehlt, was Sie tun können, um das Risiko weiter zu reduzieren. Secure Score überprüft Ihre Einstellungen und Aktivitäten in Office 365 und vergleicht diese mit einer von Microsoft aufgestellten Basislinie. Sie erhalten eine Bewertung basierend darauf, wie gut Sie mit den besten Sicherheitsmethoden abgestimmt sind.
+Die Sicherheitsbewertung ist ein Tool zur Sicherheitsanalyse, das empfiehlt, was Sie tun können, um risiken weiter zu reduzieren. Secure Score überprüft Ihre Einstellungen und Aktivitäten in Office 365 und vergleicht diese mit einer von Microsoft aufgestellten Basislinie. Sie erhalten eine Bewertung basierend darauf, wie Sie sich an bewährten Sicherheitsmethoden orientieren.
 
-Möchten Sie Secure Score ausprobieren? Wenn Sie als globaler Administrator bei Office 365 angemeldet sind, wechseln Sie [zu SecureScore.com.](https://securescore.office.com/)
+Möchten Sie die Sicherheitsbewertung ausprobieren? Wenn Sie bei Office 365 als globaler Administrator angemeldet sind, wechseln Sie zu [SecureScore.com.](https://securescore.office.com/)

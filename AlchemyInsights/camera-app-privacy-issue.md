@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005290"
 - "9120"
-ms.openlocfilehash: edd40fe12560beac0b5650349d3426ce0c3313bf
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 894ef204e6725b2d5cfeb24a3e0af73d6b131234ececd771454cae3800acac8c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736471"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071943"
 ---
 # <a name="camera-app-privacy-settings"></a>Kamera-App Datenschutzeinstellungen
 
 Es klingt, als würden Ihre Datenschutzeinstellungen den Zugriff der App auf Ihre Kamera verhindern.
 
-1.  Wählen Sie von **Start** aus **Einstellungen** (Zahnradsymbol) > **Datenschutz** > **Kamera**.
+1.  Wählen Sie unter **Start** die Option **Einstellungen** (Zahnradsymbol) > **Datenschutz** > **Kamera**.
 
-2.  Wählen Sie unter **Zugriff auf die Kamera auf diesem Gerät** zulassen die Option **Ändern**. Vergewissern Sie sich, dass der Kippschalter auf **Ein** steht.
+2.  Wählen Sie unter **Zugriff auf die Kamera auf diesem Gerät zulassen** die Option **Ändern**. Vergewissern Sie sich, dass der Kippschalter auf **Ein** steht.
 
 3.  Vergewissern Sie sich als Nächstes, dass unter **Apps den Zugriff auf Ihre Kamera erlauben** der Schalter auf **Ein** steht.
 
