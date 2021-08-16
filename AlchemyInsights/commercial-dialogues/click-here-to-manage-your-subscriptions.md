@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9ff59a49120c2f363710c5b3f63cd8aaaba9d3ca
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 67a9a8abdf4a4bd0b6fd302eeec593cc4babda58a81294042a4644eeb2a0b2aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736429"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968232"
 ---
 # <a name="click-here-to-manage-your-subscriptions"></a>Klicken Sie hier, um Ihre Abonnements zu verwalten.
 
-Um Ihre Zahlungsmethode zu ändern, aktualisieren Sie Ihre Einstellungen für die automatische Verlängerung oder wechseln Sie zu Plänen, Klicken Sie [hier, um Ihre Abonnements zu verwalten.](https://portal.office.com/AdminPortal/Home#/subscriptions)
+Klicken Sie hier, um Ihre [Abonnements zu verwalten, um](https://portal.office.com/AdminPortal/Home#/subscriptions)Ihre Zahlungsmethode zu ändern, ihre Einstellungen für die automatische Verlängerung zu aktualisieren oder pläne zu wechseln.
