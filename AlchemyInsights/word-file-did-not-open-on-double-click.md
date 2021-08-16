@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 0b29aa150d9eead7fa97768a1cd59c1601cfce77
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: aff548db493087e16629e81f5da9990a00c53e510bc5f92743dee393956d9c1c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834118"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036563"
 ---
 # <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word-Dokument in der falschen App geöffnet oder nicht geöffnet
 
 Probieren Sie einen der folgenden Vorschläge aus:
 
-**Wählen Sie Word als Standard aus**
+**Auswählen von Word als Standard**
 
-- Klicken Sie mit der rechten Maustaste auf das Dokument, wählen **Sie Öffnen mit** aus, und wählen Sie dann Word **aus.**
+- Klicken Sie mit der rechten Maustaste auf das Dokument, wählen Sie **"Öffnen mit"** und dann **"Word"** aus.
 
 **Ausführen einer Schnellreparatur**
 
 1. Wechseln Sie zu **Systemsteuerung > Programme > Programme und Funktionen**.
 
-2. Wählen Sie das Zu reparierende Office-Produkt aus, und wählen Sie dann **Ändern aus.**
+2. Wählen Sie das Office Produkt aus, das Sie reparieren möchten, und wählen Sie dann **Ändern** aus.
 
-3. Wählen Sie **die Option Schnellreparatur** aus, und wählen Sie dann **Reparieren aus.**
+3. Wählen Sie die Option **"Schnellreparatur"** und dann **"Reparieren"** aus.
 
-**Deinstallieren von Office-Versionen, die Sie nicht verwenden**
+**Deinstallieren von Versionen von Office, die Sie nicht verwenden**
 
-1. Wechseln Sie **zu Systemsteuerung > Programm deinstallieren,** und wählen Sie dann die Version von Office aus, die Sie entfernen möchten.
+1. Wechseln Sie zur **Systemsteuerung > Programm deinstallieren,** und wählen Sie dann die Version von Office aus, die Sie entfernen möchten.
 
-2. Klicken Sie **auf Deinstallieren**.
+2. Klicken Sie auf **Deinstallieren**.
 
 3. Restart your computer.
 
-**Führen Sie diese Problembehandlung aus, um das Öffnen von Office-Dateierweiterungen in Office zu festlegen.**
+**Führen Sie diese Problembehandlung aus, um festzulegen, Office Dateierweiterungen in Office**
 
 1. Führen Sie diese Problembehandlung aus: https://aka.ms/diag_officefile .
 
-2. Öffnen oder speichern  Sie  je nach Browser die Problembehandlung auf Ihrem Desktop, und führen Sie **sie dann** aus.
+2. **Öffnen** oder **speichern Sie** die Problembehandlung je nach Browser auf Ihrem Desktop, und führen Sie sie dann **aus.**
