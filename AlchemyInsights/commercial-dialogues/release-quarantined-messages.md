@@ -12,18 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 1b53dd25f4aa4b9409ffa52cc0fa9d0914c682ee0d21ccc0b6f0b484a3186626
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b9daff7b03f34fbadc50c023aad2e7636274cb1a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966972"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58296050"
 ---
 # <a name="release-quarantined-messages"></a>Freigeben von Nachrichten unter Quarantäne
 
-Sie können eine isolierte Nachricht (oder eine Reihe von Nachrichten) für alle Empfänger freigeben oder die Nachricht nur für bestimmte Personen freigeben, die Sie aus der Liste aller Empfänger auswählen.
+Sie können eine isolierte Nachricht (oder eine Reihe von Nachrichten) für alle Empfänger freigeben oder die Nachricht nur für bestimmte Personen freigeben, die Sie aus der Liste aller Empfänger auswählen. Dazu gehen Sie so vor:
 
-1. Wechseln Sie zum [Security & Compliance Center.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Wechseln Sie zu **"Bedrohungsmanagement**  >  **überprüfen**  >  **Quarantäne".**
-3. Wählen Sie die Nachrichten aus, die Sie freigeben möchten.
-4. Nachdem Sie eine Nachricht freigegeben haben, wählen Sie **"Aktualisieren"** aus, um Ihre Daten zu aktualisieren, und doppelklicken Sie dann auf die Nachricht. Sie sollten sehen, dass die Nachricht für die vorgesehenen Empfänger freigegeben wurde.
+1. Wechseln Sie im Microsoft 365 Defender Portal unter <https://security.microsoft.com> **"E-Mail-&** \> Zusammenarbeitsüberprüfungsquarantäne" zu "E-Mail & Zusammenarbeit  \> **überprüfen".**
+
+   Um direkt zur **Quarantäneseite** zu wechseln, verwenden Sie <https://security.microsoft.com/quarantine> .
+
+2. Überprüfen Sie auf **der** Quarantäneseite, ob die **Registerkarte "E-Mail"** ausgewählt ist, und führen Sie dann einen der folgenden Schritte aus:
+   - **Einzelne Nachricht:** Wählen Sie die Nachricht aus. Wählen Sie im angezeigten Flyout "Details" die **Option "E-Mail freigeben"** aus, konfigurieren Sie die gewünschten Optionen, und klicken Sie dann auf **"Nachricht freigeben".**
+   - **Mehrere Nachrichten:** Wählen Sie bis zu 100 Nachrichten aus, um die Nachricht für alle Empfänger freizugeben (Sie können keine einzelnen ursprünglichen Empfänger angeben). Wählen Sie in der angezeigten Dropdownliste **"Massenaktionen"** die Option **"Freigabenachrichten"** aus, konfigurieren Sie die gewünschten Optionen, und klicken Sie dann auf **"Nachricht freigeben".**
+
+Weitere Informationen finden Sie in den folgenden Artikeln:
+
+- [Suchen und Freigeben von isolierten Nachrichten als Benutzer](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Verwalten von Nachrichten und Dateien in Quarantäne als Administrator](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)

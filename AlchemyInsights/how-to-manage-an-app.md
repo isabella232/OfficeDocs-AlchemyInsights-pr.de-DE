@@ -1,5 +1,5 @@
 ---
-title: Verwalten einer App
+title: So verwalten Sie eine App
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "9439"
-ms.openlocfilehash: 5cd58303b0629e55b0ed67157f9fcf01668fda1e
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: 5481d1d63e6cf1f2fdbe1c17420dd041e5fe8b4f5be17a891b9e0bf871d27baf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50586491"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002083"
 ---
-# <a name="how-to-manage-an-app"></a>Verwalten einer App
+# <a name="how-to-manage-an-app"></a>So verwalten Sie eine App
 
 So verwalten Sie eine App:
 
-- Beginnen Sie [mit Verwalten von Apps](https://admin.teams.microsoft.com/policies/manage-apps) im Microsoft Teams Admin Center, um eine App für Ihre Organisation hinzuzufügen.
-- Sie können [App-Berechtigungsrichtlinien](https://admin.teams.microsoft.com/policies/app-permission) im Microsoft Teams Admin Center verwenden, um eine App zu erlauben oder zu blockieren und sie Benutzern zuzuordnen.
-- Um die Reihenfolge zu ändern, in der eine App benutzern angezeigt wird, oder um eine App anheften zu können, verwenden Sie die [App-Setuprichtlinien](https://admin.teams.microsoft.com/policies/app-setup) im Microsoft Teams Admin Center.
+- Beginnen Sie mit ["Apps verwalten"](https://admin.teams.microsoft.com/policies/manage-apps) im Microsoft Teams Admin Center, um eine App für Ihre Organisation hinzuzufügen.
+- Sie können [App-Berechtigungsrichtlinien](https://admin.teams.microsoft.com/policies/app-permission) im Microsoft Teams Admin Center verwenden, um eine App zuzulassen oder zu blockieren und sie Benutzern zuzuweisen.
+- Um die Reihenfolge zu ändern, in der eine App benutzern angezeigt wird, oder um eine App anheften zu können, verwenden Sie [app-Setuprichtlinien](https://admin.teams.microsoft.com/policies/app-setup) im Microsoft Teams Admin Center.
 
 Weitere Informationen zum Erstellen von App-Richtlinien für Ihre Organisation finden Sie unter:
 
