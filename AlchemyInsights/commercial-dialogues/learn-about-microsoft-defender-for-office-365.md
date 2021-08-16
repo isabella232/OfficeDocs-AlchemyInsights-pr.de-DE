@@ -1,5 +1,5 @@
 ---
-title: Erfahren Sie mehr über Microsoft Defender für Office 365
+title: Informationen zu Microsoft Defender für Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9eac6f1b666f7b8031fe3ff7b439c5c5ddf9e998
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d384b1d0aaba2faca60870dd04727985f9e13cda43687bc6f7bc53da90db4b9e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737081"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016951"
 ---
-# <a name="learn-about-microsoft-defender-for-office-365"></a>Erfahren Sie mehr über Microsoft Defender für Office 365
+# <a name="learn-about-microsoft-defender-for-office-365"></a>Informationen zu Microsoft Defender für Office 365
 
 Hier sind einige Informationen zu Microsoft Defender für Office 365:
 
 - **Was ist Microsoft Defender für Office 365?**  
-    Defender für Office 365 ist ein cloudbasierter E-Mail-Filterdienst, der Organisationen vor unbekannter Schadsoftware und Viren schützt, indem er einen stabilen Zero-Day-Schutz bietet. Es enthält Features zum Schutz von Organisationen vor schädlichen Links in Echtzeit.
+    Defender für Office 365 ist ein cloudbasierter E-Mail-Filterdienst, der Organisationen durch robusten Zero-Day-Schutz vor unbekannter Schadsoftware und Viren schützt. Es enthält Features zum Schutz von Organisationen vor schädlichen Links in Echtzeit.
 - **Wie aktiviere ich Microsoft Defender für Office 365?**  
-    Sichere Anlagen, sichere Links und Antiphishing sind Teil von Defender for Office 365. Enterprise E5, Education A5 und Microsoft 365 Business umfassen integrierte Defender for Office 365-Features. Alle anderen Pläne erfordern ein Add-On Defender for Office 365-Abonnement. Sie müssen ihren Benutzern die entsprechenden Lizenzen zuweisen, die von Defender for Office 365 geschützt werden sollen. Sie müssen über *globale Administrator- oder* *Sicherheitsadministratorberechtigungen für* den Zugriff auf Defender für Office 365 verfügen. Weitere Informationen zum Massen anwenden von Lizenzen auf Ihre Benutzer finden Sie unter Zuweisen von Lizenzen zu Benutzern [in Office 365 Business](https://go.microsoft.com/fwlink/?linkid=2093435).
-- **Wie verwalte ich Defender for Office 365, oder erfahren Sie mehr darüber?**  
+    Tresor Anlagen, Tresor Links und Antiphishing sind Bestandteil von Defender für Office 365. Enterprise E5, Education A5 und Microsoft 365 Business umfassen integrierte Defender for Office 365-Features. Alle anderen Pläne erfordern ein Add-On Defender für Office 365 Abonnement. Sie müssen Ihren Benutzern die entsprechenden Lizenzen zuweisen, um von Defender für Office 365 geschützt zu werden. Sie müssen über *globale Administrator-* oder *Sicherheitsadministratorberechtigungen* verfügen, um auf Defender für Office 365 zugreifen zu können. Weitere Informationen dazu, wie Sie Lizenzen in Massen auf Ihre Benutzer anwenden, finden Sie unter [Zuweisen von Lizenzen zu Benutzern in Office 365 for Business.](https://go.microsoft.com/fwlink/?linkid=2093435)
+- **Wie kann ich Defender für Office 365 verwalten oder mehr darüber erfahren?**  
   - Wechseln Sie zu [Setup](https://go.microsoft.com/fwlink/p/?linkid=2075721).  
-  - Erhöhen **Sie unter Anmeldung und Sicherheit** den Schutz vor **erweiterten Bedrohungen,** und wählen Sie dann Anzeigen [aus.](https://go.microsoft.com/fwlink/?linkid=2109302)
+  - Under **Sign-in and security** find Increase protection from advanced **threats,** and then select [View](https://go.microsoft.com/fwlink/?linkid=2109302).

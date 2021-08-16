@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 7a01aa3cc0d875e6534435f3e8f90a24f2832dc3
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 5b58803719df700290f495cb2d2d6742f072420a2a1d393534ca165bb5a14fbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464704"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017131"
 ---
 # <a name="find-the-ip-address-in-audit-log"></a>Suchen der IP-Adresse im Überwachungsprotokoll
 
-1. Die IP-Adresse, die einer Aktivität eines Benutzers oder Administrators entspricht, wird in den Überwachungsprotokollen angezeigt. Die Clientinformationen werden ebenfalls protokolliert. So identifizieren Sie die IP-Adresse:
+1. Die IP-Adresse, die einer von einem Benutzer oder Administrator ausgeführten Aktivität entspricht, wird in den Überwachungsprotokollen angezeigt. Die Clientinformationen werden ebenfalls protokolliert. So identifizieren Sie die IP-Adresse:
 
-1. Wechseln Sie zum [Office 365 Security & Compliance Center](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Wählen **Sie Suche**  >  **[Überwachungsprotokollsuche aus.](https://go.microsoft.com/fwlink/?linkid=2103759)**
+1. Wechseln Sie zum [Office 365 Security & Compliance Center.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Wählen Sie   >  **["Überwachungsprotokollsuche durchsuchen" aus.](https://go.microsoft.com/fwlink/?linkid=2103759)**
     > [!NOTE]
-    > Wenn Sie eine Benachrichtigung sehen, dass Sie die Überwachung aktivieren müssen, fahren Sie mit der Überwachung voran, und aktivieren Sie sie jetzt. Wenn dieses Feature nicht aktiviert ist, können Suchergebnisse keine Daten aus vorherigen Datumsangaben ziehen.
-1. Wenn Sie an einer bestimmten Aktivität interessiert sind, wählen Sie sie in der Liste **Aktivitäten** aus. Andernfalls werden standardmäßig alle Aktivitäten für den ausgewählten Benutzer zurückgegeben. Beachten Sie, dass bestimmte Aktivitäten möglicherweise nicht zur Auswahl im Menü **Aktivitäten verfügbar** sind. Diese Überwachungselemente werden jedoch zurückgegeben, wenn **Ergebnisse** für alle Aktivitäten anzeigen ausgewählt ist (Standardeinstellung).
-1. Geben Sie den Datumsbereich an, und wählen Sie im Feld **Benutzer** den Benutzernamen für den Benutzer aus, den Sie untersuchen möchten.
-1. Wählen Sie **Suchen aus.** Die Aktivitäten werden unter **Ergebnisse angezeigt.** Sie können die IP-Adresse für jede Aktivität sehen.
-1. Wählen Sie zum Anzeigen von Details eine Aktivität aus, und wählen Sie dann **Weitere Informationen aus.**
+    > Wenn Sie einen Hinweis sehen, dass Sie die Überwachung aktivieren müssen, fahren Sie fort, und aktivieren Sie sie jetzt. Wenn dieses Feature nicht aktiviert ist, können Suchergebnisse keine Daten aus früheren Datumsangaben abrufen.
+1. Wenn Sie an einer bestimmten Aktivität interessiert sind, wählen Sie sie aus der **Liste "Aktivitäten"** aus. andernfalls werden standardmäßig alle Aktivitäten für den ausgewählten Benutzer zurückgegeben. Beachten Sie, dass bestimmte Aktivitäten möglicherweise nicht für die Auswahl im Menü **"Aktivitäten"** verfügbar sind. Diese Überwachungselemente werden jedoch zurückgegeben, wenn **"Ergebnisse für alle Aktivitäten anzeigen"** ausgewählt ist (Standardeinstellung).
+1. Geben Sie den Datumsbereich an, und wählen Sie im Feld **"Benutzer"** den Benutzernamen für den Benutzer aus, den Sie untersuchen möchten.
+1. Wählen Sie **Suchen** aus. Die Aktivitäten werden unter **Ergebnisse** angezeigt. Sie können die IP-Adresse für jede Aktivität anzeigen.
+1. Um Details anzuzeigen, wählen Sie eine Aktivität aus, und wählen Sie dann **weitere Informationen** aus.
 
-Weitere Informationen finden Sie unter Durchsuchen des [Office 365-Überwachungsprotokolls zur Problembehandlung gängiger Szenarien.](https://go.microsoft.com/fwlink/?linkid=2103944)
+Weitere Informationen finden Sie unter Durchsuchen des [Office 365 Überwachungsprotokolls, um allgemeine Szenarien zu behandeln.](https://go.microsoft.com/fwlink/?linkid=2103944)

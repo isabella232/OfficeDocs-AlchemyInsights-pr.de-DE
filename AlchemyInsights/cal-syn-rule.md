@@ -1,5 +1,5 @@
 ---
-title: Cal-Syn-Rule
+title: Cal-Syn-Regel
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3416"
 - "9001435"
-ms.openlocfilehash: 8b1880a220fb49a99e0d28d3c322f15c70f01f58
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 78c3c0d1fa2847178c7f731f26b02f31435225ea6f31a11141197294a283fd0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819997"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046463"
 ---
-# <a name="problems-syncing-calendar-and-contacts-on-phone-or-tablet"></a>Probleme beim Synchronisieren von Kalendern und Kontakten auf Dem Smartphone oder Tablet
+# <a name="problems-syncing-calendar-and-contacts-on-phone-or-tablet"></a>Probleme beim Synchronisieren von Kalender und Kontakten auf Telefonen oder Tablets
 
-Informationen zur Problembehandlung bei der Synchronisierung Ihres Kalenders und Ihrer Kontakte mit mobilen Geräten finden Sie unter [Can't sync calendar and contacts with my phone or tablet](https://support.office.com/article/can-t-sync-calendar-and-contacts-with-my-phone-or-tablet-8479d764-b9f5-4fff-ba88-edd7c265df9f).
+Informationen zum Beheben von Problemen beim Synchronisieren Ihres Kalenders und Ihrer Kontakte mit mobilen Geräten finden Sie unter ["Kalender und Kontakte können nicht mit meinem Smartphone oder Tablet synchronisiert werden."](https://support.office.com/article/can-t-sync-calendar-and-contacts-with-my-phone-or-tablet-8479d764-b9f5-4fff-ba88-edd7c265df9f)

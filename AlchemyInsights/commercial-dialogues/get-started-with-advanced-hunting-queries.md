@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 0dce5a6ac69994c8953401aba06aefb2d3761ff2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1819720b1c7dd1b5a0b5822f2ba7f9e6a6b7c2fec6d962ea411b8a3a350cc758
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737129"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016987"
 ---
 # <a name="get-started-with-advanced-hunting-queries"></a>Erste Schritte mit erweiterten Suchabfragen
 
-Microsoft-Sicherheitsforscher teilen in GitHub regelmäßig erweiterte [Suchabfragen.](https://go.microsoft.com/fwlink/?linkid=2144624)
+Microsoft-Sicherheitsexperten teilen regelmäßig [Abfragen zur erweiterten Suche in GitHub.](https://go.microsoft.com/fwlink/?linkid=2144624)
 
-Die Forscher stellen außerdem erweiterte Suchabfragen zum Auffinden von Aktivitäten und Indikatoren im Zusammenhang mit neuen [Bedrohungen zur Verfügung.](https://go.microsoft.com/fwlink/?linkid=2145808) Diese Abfragen werden als Teil der Berichte zur Bedrohungsanalyse im Microsoft Defender Security Center bereitgestellt.
+Die Experten bieten auch erweiterte Suchabfragen zum Auffinden von Aktivitäten und Indikatoren im Zusammenhang mit [neuen Bedrohungen.](https://go.microsoft.com/fwlink/?linkid=2145808) Diese Abfragen werden im Rahmen der Berichte zur Bedrohungsanalyse im Microsoft Defender Security Center bereitgestellt.

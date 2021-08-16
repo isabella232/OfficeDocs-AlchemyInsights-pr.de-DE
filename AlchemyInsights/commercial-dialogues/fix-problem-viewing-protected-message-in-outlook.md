@@ -1,5 +1,5 @@
 ---
-title: Problem beim Anzeigen geschützter Nachrichten in Outlook beheben
+title: Behebung des Problems beim Anzeigen geschützter Nachrichten in Outlook
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: a267e643031323baa448e51bca1b18a3030f43c2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5d560f62a349540fd0ba6a5df3cd0c210d1743c57ab7c74fac2967a90be23c80
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736688"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017023"
 ---
 # <a name="fix-problem-viewing-protected-message-in-outlook"></a>Problem beim Anzeigen geschützter Nachrichten in Outlook beheben
 
-In einigen Fällen kann Outlook möglicherweise keine Nachricht öffnen, die von einem Benutzer in einer anderen Microsoft 365-Organisation gesendet wird, wenn diese Nachricht durch die Verwaltung von Informationsrechten geschützt wurde.
+In einigen Fällen können Outlook möglicherweise keine Nachricht öffnen, die von einem Benutzer in einer anderen Microsoft 365 Organisation gesendet wurde, wenn diese Nachricht mit der Verwaltung von Informationsrechten geschützt wurde.
 
-Führen Sie die folgenden Schritte aus, um solche geschützten Nachrichten zu öffnen und zu anzeigen:
+Führen Sie die folgenden Schritte aus, um solche geschützten Nachrichten zu öffnen und anzuzeigen:
 
-1. Stellen Sie sicher, dass Sie Outlook 1808+ oder höher installiert haben. Informationen zur Versionsnummer finden Sie unter [Welche Version von Office werde ich verwenden?](https://support.microsoft.com/office/about-office-what-version-of-office-am-i-using-932788b8-a3ce-44bf-bb09-e334518b8b19)
-2. Versuchen Sie, die E-Mail mit Outlook im Web zu sehen: [Outlook im Web anmelden](https://outlook.office365.com/mail/inbox)
+1. Stellen Sie sicher, dass Sie Outlook Version 1808 oder höher installiert haben. Um Ihre Versionsnummer zu finden, lesen [Sie, welche Version von Office ich verwende?](https://support.microsoft.com/office/about-office-what-version-of-office-am-i-using-932788b8-a3ce-44bf-bb09-e334518b8b19)
+2. Versuchen Sie, die E-Mail mit Outlook im Web anzuzeigen: [Outlook im Web anmelden](https://outlook.office365.com/mail/inbox)
 
 > [!NOTE]
-> Wir arbeiten daran, das Problem in Outlook 2016 und 2019 zu beheben. Es wird nicht in Outlook 2010 oder 2013 behoben.
+> Wir arbeiten an der Behebung des Problems in Outlook 2016 und 2019. Es wird in Outlook 2010 oder 2013 nicht behoben.
