@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: nicholak, micurn
+ms.reviewer: micurn, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9000568"
 - "2425"
-ms.openlocfilehash: 1af3d36dead1db10ed3857d2f75b2c16d31c854e
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 31b2069e02aff949adcbe703675cd85ed2c87256fda2e73e96742542d1971b1f
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687101"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54502499"
 ---
 # <a name="change-app-license-quantity"></a>Ändern der App-Lizenzmenge
 
@@ -28,13 +28,13 @@ Sie können die Anzahl der Lizenzen anzeigen oder ändern, die Sie besitzen, und
 
 ## <a name="to-change-license-quantity"></a>So ändern Sie die Lizenzmenge
 
-**Sehen Sie sich ein Video** an, das zeigt, wie Sie dies tun: Neue Lizenzen [kaufen](https://go.microsoft.com/fwlink/p/?linkid=2154857) oder vorhandene [Lizenzen entfernen](https://go.microsoft.com/fwlink/p/?linkid=2154938)
+**Sehen Sie sich ein Video** an, das zeigt, wie dies funktioniert: Neue Lizenzen [kaufen](https://go.microsoft.com/fwlink/p/?linkid=2154857) oder vorhandene [Lizenzen entfernen](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
 1. Wechseln Sie zur Seite **"Abrechnung**  >  **[Für Ihre Produkte".](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Suchen Sie auf der Registerkarte **"Produkte"** im Abschnitt **"Apps"** nach der App, die Sie verwalten möchten. Wählen Sie die drei Punkte (weitere Aktionen) aus, und wählen Sie dann **Lizenzen kaufen** aus.
 3. Wenn Sie die Anzahl der Lizenzen reduzieren möchten, wählen Sie oben im Bereich **Lizenzen kaufen** die Option **"Lizenzen entfernen"** aus.
 4. Um Lizenzen zu kaufen oder zu entfernen, geben Sie unter **"Neue Menge"** im Feld **"Lizenzen insgesamt"** die Gesamtanzahl der Lizenzen ein, die Sie für dieses Abonnement benötigen. Wenn Sie beispielsweise 100 Lizenzen haben und fünf weitere hinzufügen möchten, geben Sie 105 ein. Wenn Sie fünf davon entfernen möchten, geben Sie 95 ein.
-5. Klicken Sie auf **Speichern**.
+5. Wählen Sie **Speichern** aus.
 
 ## <a name="to-assign-app-licenses"></a>So weisen Sie App-Lizenzen zu
 

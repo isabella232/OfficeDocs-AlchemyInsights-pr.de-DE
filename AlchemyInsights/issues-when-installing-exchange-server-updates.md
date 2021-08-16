@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005482"
 - "9421"
-ms.openlocfilehash: cc05469475c469691c0f09562f8362bc6f4a638d
-ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
+ms.openlocfilehash: 6d454a78feca7ece7c3d7d6c93f8eb5d343106b68029b96839b5ff28077d0f25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "51645166"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013027"
 ---
 # <a name="issues-when-installing-exchange-server-updates"></a>Probleme beim Installieren Exchange Server Updates
 
-Wenn Sie für Exchange Server auf das neueste kumulative Update (Cumulative Update, CU) aktualisieren müssen, können Sie einen detaillierten Satz von Schritten zum Aktualisieren von Ihrer aktuellen KU auf die [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) Ziel-KU verwenden.
+Wenn Sie auf das neueste kumulative Update (KU) für Exchange Server aktualisieren müssen, können Sie [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) eine detaillierte Gruppe von Schritten zum Aktualisieren von Ihrem aktuellen CU auf das Ziel-CU abrufen.
 
-Wenn während oder nach der Installation von Exchange Server Fehler auftreten, lesen Sie den Abschnitt "Bewährte Methoden" im Artikel [Upgrade Exchange to the latest Cumulative Update](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates). Es ist sehr wichtig, Sicherheitsupdates mithilfe der CmD-Eingabeaufforderung mit erhöhten Rechten zu installieren (wenn Updates nicht über Microsoft Update installiert werden).
+Wenn während oder nach der Installation von Exchange Server Updates Fehler auftreten, lesen Sie den Abschnitt "Bewährte Methoden" des Artikels [Upgrade Exchange auf das neueste kumulative Update.](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates) Es ist sehr wichtig, Sicherheitsupdates mithilfe der CMD-Eingabeaufforderung mit erhöhten Rechten zu installieren (wenn Updates nicht über Microsoft Update installiert werden).
 
-Wenn Beim Installieren von Sicherheitsupdates oder nach der Installation von Updates Fehler angezeigt werden, finden Sie weitere Informationen unter Reparieren fehlgeschlagener Installationen von [kumulativen und Sicherheitsupdates](https://aka.ms/exupdatefaq)für Exchange.
+Wenn Beim Installieren von Sicherheitsupdates oder nach der Installation des Updates Fehler angezeigt werden, lesen Sie ["Reparieren fehlgeschlagener Installationen von kumulativen updates und Sicherheitsupdates" Exchange](https://aka.ms/exupdatefaq).

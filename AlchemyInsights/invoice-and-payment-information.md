@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, jkinma
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,18 +16,18 @@ ms.custom:
 - commerce_billing
 - "485"
 - "1500018"
-ms.openlocfilehash: 1f7c6cc7003165140f519b51ac0cc40636e71a3e
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 8b9b8545607e230a13de78478e3b1c655c461f6259f649aeb2b369d94d2697aa
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687209"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54502607"
 ---
 # <a name="invoice-and-payment-information"></a>Rechnungs- und Zahlungsinformationen
 
 **Zahlung**
 
-Wenn Sie ein Microsoft 365 for Business-Abonnement direkt von Microsoft kaufen, können Sie mit einer Kredit- oder Debitkarte bezahlen.  In einigen Ländern/Regionen können Sie auch mit einem Bankkonto bezahlen.  Sie können erfahren, wie Sie diese Zahlungsmethoden verwalten und beheben können, unter ["Zahlungsmethoden verwalten".](/microsoft-365/commerce/billing-and-payments/manage-payment-methods) Dies umfasst das Beheben von Problemen, wenn Ihre Kreditkarte abgelehnt wird, und das Aktualisieren von Zahlungsinformationen.
+Wenn Sie ein Microsoft 365 business-Abonnement direkt von Microsoft kaufen, können Sie mit einer Kredit- oder Debitkarte bezahlen.  In einigen Ländern/Regionen können Sie auch mit einem Bankkonto bezahlen.  Sie können erfahren, wie Sie diese Zahlungsmethoden verwalten und beheben können, unter ["Zahlungsmethoden verwalten".](/microsoft-365/commerce/billing-and-payments/manage-payment-methods) Dies umfasst das Beheben von Problemen, wenn Ihre Kreditkarte abgelehnt wird, und das Aktualisieren von Zahlungsinformationen.
 
 **Rechnung/Rechnung**
 
