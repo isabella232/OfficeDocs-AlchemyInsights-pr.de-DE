@@ -1,5 +1,5 @@
 ---
-title: 126 Fehler beim Abrufen eines Postfachs in OWA gefunden?
+title: 126 Fehler beim Abrufen eines Postfachs in OWA nicht gefunden?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,23 +14,23 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 6bab821aaa3b50c365ef5d25a61bca195c76d7ce
-ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
+ms.openlocfilehash: aca0371dad9ba43fa21b0df8e50f1b8ee536528af90d6bda401995c6e5796be4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51426661"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056489"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Abrufen eines Postfachs nicht gefunden Fehler in Outlook im Web?
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Fehlermeldung "Postfach nicht gefunden" in Outlook im Web erhalten?
 
-Wenn Sie Outlook im Web verwenden und ein **Postfach** nicht gefunden werden konnte, ist das Konto, das Sie zum Herstellen einer Verbindung mit Outlook im Web verwendet haben, nicht über eine Exchange Online-Lizenz, und daher ist dem Konto kein Postfach zugeordnet. Ihr Administrator kann Ihrem Konto eine Lizenz zuweisen, indem sie die folgenden Schritte ausführen:
+Wenn Sie Outlook im Web verwenden und ein Postfach aufgrund eines **Fehlers nicht gefunden werden konnte,** verfügt das Konto, das Sie zum Herstellen einer Verbindung mit Outlook im Web verwendet haben, nicht über eine Exchange Online Lizenz, und daher ist dem Konto kein Postfach zugeordnet. Ihr Administrator kann Ihrem Konto eine Lizenz zuweisen, indem er die folgenden Schritte ausführt:
 
-1. Öffnen Sie [das Microsoft 365 Admin Center,](https://portal.office.com/adminportal/home#/homepage) und wechseln Sie im Abschnitt Benutzer zu Aktive Benutzer, und wählen Sie den Benutzer aus, dem der Fehler angezeigt wird.  
+1. Öffnen Sie die [Microsoft 365 Admin Center,](https://portal.office.com/adminportal/home#/homepage) wechseln Sie im Abschnitt **"Benutzer"** zu **"Aktive Benutzer",** und wählen Sie den Benutzer aus, dem der Fehler angezeigt wird.
 
-2. Wechseln Sie auf der geöffneten Benutzerseite zum Abschnitt Lizenzen und **Apps,** wählen Sie den entsprechenden **Standortwert** aus, und weisen Sie eine Lizenz zu, die Exchange Online enthält (erweitern Sie die Lizenz, um ihre Details anzuzeigen). Klicken Sie nach Abschluss des Vorgangs auf **Änderungen speichern**.
+2. Wechseln Sie auf der geöffneten Benutzerseite zum Abschnitt **"Lizenzen und Apps",** wählen Sie den entsprechenden **Standortwert** aus, und weisen Sie eine Lizenz zu, die Exchange Online enthält (erweitern Sie die Lizenz, um ihre Details anzuzeigen). Klicken Sie nach Abschluss des Vorgangs auf **Änderungen speichern**.
 
-In einigen Fällen hilft das Entfernen und Erneute Zuweisen der Lizenz, wenn die Lizenz bereits einem Benutzerkonto zugewiesen ist, das Problem zu beheben und ordnungsgemäß im System bereitgestellt zu bekommen: 
+Wenn die Lizenz in einigen Fällen bereits einem Benutzerkonto zugewiesen ist, hilft das Entfernen und erneute Zuweisen der Lizenz, das Problem zu beheben und im System ordnungsgemäß bereitzustellen: 
 
-- Überprüfen Sie, ob Ihre M365 Exchange Online -Abonnements (und andere, sofern Sie über ein Abonnement verfügen) aktuell sind und noch nicht abgelaufen sind.
+- Überprüfen Sie, ob Ihre M365-Exchange Online -Abonnements (und andere, sofern Vorhanden) aktuell sind und nicht vor kurzem abgelaufen sind.
 
-Nachdem Sie sichergestellt haben, dass Ihr Abonnement nicht abgelaufen ist und dem Benutzerkonto eine gültige Lizenz zugewiesen wurde, kann es bis zu 24 Stunden dauern, bis die Lizenz bereitgestellt wurde, sodass Sie möglicherweise warten müssen, bis Ihr Problem behoben ist. Weitere Informationen finden Sie unter [Assign and manage licenses](https://docs.microsoft.com/deployoffice/overview-licensing-activation-microsoft-365-apps#assign-and-manage-licenses).
+Nachdem Sie sichergestellt haben, dass Ihr Abonnement nicht abgelaufen ist und dem Benutzerkonto eine gültige Lizenz zugewiesen wurde, kann es bis zu 24 Stunden dauern, bis die Lizenz bereitgestellt wurde. Daher müssen Sie möglicherweise warten, bis ihr Problem behoben ist. Weitere Informationen finden Sie unter [Zuweisen und Verwalten von Lizenzen.](https://docs.microsoft.com/deployoffice/overview-licensing-activation-microsoft-365-apps#assign-and-manage-licenses)

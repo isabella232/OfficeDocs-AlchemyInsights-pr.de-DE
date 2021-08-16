@@ -1,5 +1,5 @@
 ---
-title: Die AllowSelfServicePurchase-Richtlinie kann nicht festgelegt oder angezeigt werden.
+title: AllowSelfServicePurchase-Richtlinie kann nicht festgelegt oder angezeigt werden
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: 8dac2bdc20905cf37fc30317d9b371bfd755f452
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 255dbe35b808b3fe6b5707779251bf3f4a7e1c269c8b6f0ac2cb43ca03c469e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826090"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020191"
 ---
-# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Die AllowSelfServicePurchase-Richtlinie kann nicht festgelegt oder angezeigt werden.
+# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>AllowSelfServicePurchase-Richtlinie kann nicht festgelegt oder angezeigt werden
 
-Wenn Sie versuchen, die AllowSelfServicePurchase-Richtlinie zu festlegen oder anzeigen, wird die folgende Fehlermeldung angezeigt:
+Beim Versuch, die AllowSelfServicePurchase-Richtlinie festzulegen oder anzuzeigen, wird die folgende Fehlermeldung angezeigt:
 
-*HandleError : Fehler beim Abrufen der Produktrichtlinie mit PolicyId 'AllowSelfServicePurchase', ErrorMessage – Die zugrunde liegende Verbindung wurde geschlossen: Bei einem Senden ist ein unerwarteter Fehler aufgetreten.*
+*HandleError: Fehler beim Abrufen der Produktrichtlinie mit "AllowSelfServicePurchase", ErrorMessage : Die zugrunde liegende Verbindung wurde geschlossen: Beim Senden ist ein unerwarteter Fehler aufgetreten.*
 
-Dies liegt möglicherweise an einer älteren Version von Transport Layer Security (TLS). Zum Verbinden des MS Commerce-Diensts müssen Sie TLS 1.2 oder höher verwenden.  
+Dies kann auf eine ältere Version von Transport Layer Security (TLS) zurückzuführen sein. Um den MSTeroperabilität-Dienst zu verbinden, müssen Sie TLS 1.2 oder höher verwenden.  
 
-Führen Sie die folgenden Schritte aus, um das TLS-Protokoll auf 1.2 zu aktivieren bzw. auf 1.2 zu setzen, zu überprüfen und erneut zu versuchen.
- 1. Geben Sie an der #A0 (PS C: geben Sie den folgenden Befehl ein, um das \) #A1 auf Version 1.2 zu setzen:
+Führen Sie die folgenden Schritte aus, um das TLS-Protokoll auf 1.2 zu aktivieren/festzulegen, es zu überprüfen und erneut zu versuchen.
+ 1. Geben Sie an der PowerShell-Eingabeaufforderung (PS C: \) Geben Sie den folgenden Befehl ein, um das TLS-Protokoll auf Version 1.2 festzulegen:
 
     `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
@@ -36,5 +36,5 @@ Führen Sie die folgenden Schritte aus, um das TLS-Protokoll auf 1.2 zu aktivier
 
     `[Net.ServicePointManager]::SecurityProtocol` 
 
-3. Wiederholen Sie die Befehle Get oder Update nach Bedarf.
+3. Wiederholen Sie die Befehle "Abrufen" oder "Aktualisieren" nach Bedarf.
 

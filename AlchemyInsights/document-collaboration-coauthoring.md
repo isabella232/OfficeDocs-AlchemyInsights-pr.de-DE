@@ -14,12 +14,12 @@ ms.assetid: ''
 ms.custom:
 - "9006405"
 - "12387"
-ms.openlocfilehash: 88f27bc1eebd83b80c0e0970184f6c72e8812160
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 4404190a8667afb0bf248a82c8c195e1a56902647db487770f93888445182b2d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689650"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030740"
 ---
 # <a name="document-collaboration-and-co-authoring"></a>Zusammenarbeit und gemeinsame Dokumenterstellung
 
@@ -28,7 +28,7 @@ Die gemeinsame Dokumenterstellung ist für Office-Dokumente verfügbar, die in O
 Um gemeinsam mit anderen Autoren zu erstellen, benötigen Sie Folgendes:    
 
 - **Ein freigegebener Speicherbereich** OneDrive, OneDrive für Arbeit oder Schule, SharePoint und SharePoint Server sind freigegebene Speicherbereiche, die die gemeinsame Dokumenterstellung ermöglichen.
-- **Apps, die die gemeinsame Dokumenterstellung unterstützen** Word und PowerPoint auf allen Geräten und Versionen, die aktueller als Office 2010 sind, unterstützen die gemeinsame Dokumenterstellung. Die Excel mobilen Apps und die neueste Version von Excel für Microsoft 365 unterstützen auch die gemeinsame Dokumenterstellung.
+- **Apps, die die gemeinsame Dokumenterstellung unterstützen** Word und PowerPoint auf allen Geräten und Versionen, die aktueller als Office 2010 sind, unterstützen die gemeinsame Dokumenterstellung. Die Excel mobile Apps und die neueste Version von Excel für Microsoft 365 unterstützen auch die gemeinsame Erstellung.
 - **Ein dokumentfreundliches Dokument zur gemeinsamen Dokumenterstellung** Die gemeinsame Dokumenterstellung wird nur in modernen Dateiformaten unterstützt, einschließlich: .docx (Word), .pptx (PowerPoint) und .xlsx (Excel).
 - **Bearbeiten von Berechtigungen für Mitautoren** Alle Mitautoren müssen über die Berechtigung verfügen, auf die Dokumente zuzugreifen und sie zu bearbeiten.
 
