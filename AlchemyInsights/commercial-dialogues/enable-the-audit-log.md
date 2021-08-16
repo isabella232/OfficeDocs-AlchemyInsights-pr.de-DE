@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: d92d44d7c4b926eebb231e7ea1fcb90010482c72
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 8159c7750c487a19c58c863d39efce22ad7faecaa44376a2592eb9d3ff6d233a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736759"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988402"
 ---
 # <a name="enable-the-audit-log"></a>Aktivieren des Überwachungsprotokolls
 
-Für die Kommunikationscompliance sind Überwachungsprotokolle erforderlich, um Warnungen anzuzeigen und die von den Prüfern ergriffenen Abhilfemaßnahmen zu verfolgen. Die Überwachungsprotokolle sind eine Zusammenfassung aller Aktivitäten, die einer definierten Organisationsrichtlinie zugeordnet sind, einschließlich jeder Änderung einer Kommunikationskonformitätsrichtlinie. So aktivieren Sie die Überwachungsprotokollierung:
+Für die Kommunikationscompliance sind Überwachungsprotokolle erforderlich, um Warnungen anzuzeigen und die von den Prüfern ergriffenen Abhilfemaßnahmen zu verfolgen. Die Überwachungsprotokolle sind eine Zusammenfassung aller Aktivitäten im Zusammenhang mit einer definierten Organisationsrichtlinie, einschließlich jeder Änderung einer Kommunikationscompliancerichtlinie. So aktivieren Sie die Überwachungsprotokollierung:
 
-1. Wechseln Sie [im Security & Compliance Center](https://go.microsoft.com/fwlink/?linkid=2101341)zu **Suche**  >  **nach Überwachungsprotokollsuche.**
-2. Wählen **Sie Überwachung aktivieren aus.**
+1. Wechseln Sie im [Security & Compliance Center](https://go.microsoft.com/fwlink/?linkid=2101341)zur **Suche** nach  >  **Überwachungsprotokollen.**
+2. Wählen Sie **"Überwachung aktivieren" aus.**
 
-    Nachdem Sie die Überwachung aktiviert haben, wird eine Meldung mit der Meldung angezeigt, dass das Überwachungsprotokoll vorbereitet wird, und Sie können eine Suche in ein paar Stunden nach Abschluss der Vorbereitung ausführen. Sie müssen diese Aktion nur einmal tun.
+    Nachdem Sie die Überwachung aktiviert haben, wird eine Meldung angezeigt, die besagt, dass das Überwachungsprotokoll vorbereitet wird, und Sie können eine Suche in ein paar Stunden nach Abschluss der Vorbereitung ausführen. Sie müssen diese Aktion nur einmal ausführen.
 
 Weitere Informationen finden Sie unter Aktivieren oder Deaktivieren der [Überwachungsprotokollsuche](https://go.microsoft.com/fwlink/?linkid=2129077) und [Durchsuchen des Überwachungsprotokolls.](https://go.microsoft.com/fwlink/?linkid=2123729)
