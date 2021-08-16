@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8320"
-ms.openlocfilehash: 4cb5194e692ad64fc85d35170659c55b546fc431
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 3e3ce845bdae94c5d0fb54d34448bfc91a7540dcd33f9820c030406f19108f97
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545375"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012127"
 ---
 # <a name="microsoft-threat-experts---targeted-attack-notification"></a>Microsoft-Bedrohungsexperten – Benachrichtigung über gezielte Angriffe
 
-Targeted Attack Notification ist eine der beiden Microsoft-Bedrohungsexperten Funktionen. Es handelt sich um einen proaktiven Dienst zur Bedrohungssuche, der spezielle Einblicke und Analysen bietet, die sicherstellen, dass die wichtigsten Bedrohungen erkannt und schnell und präzise beantwortet werden.
+Die Benachrichtigung über gezielte Angriffe ist eine der beiden Microsoft-Bedrohungsexperten Funktionen. Es handelt sich um einen proaktiven Dienst für die Bedrohungssuche, der spezielle Einblicke und Analysen bereitstellt, mit denen sichergestellt wird, dass die kritischsten Bedrohungen schnell und präzise erkannt und beantwortet werden.
 
-Wenn Sie Microsoft Defender for Endpoint-Kunde sind, müssen Sie sich für Microsoft-Bedrohungsexperten – Targeted Attack Notifications bewerben, um spezielle Einblicke und Analysen zu erhalten, die ihnen helfen, die wichtigsten Bedrohungen zu identifizieren, damit Sie schnell darauf reagieren können.
+Wenn Sie Ein Kunde von Microsoft Defender für Endpunkt sind, müssen Sie Microsoft-Bedrohungsexperten – Benachrichtigungen über gezielte Angriffe beantragen, um spezielle Einblicke und Analysen zu erhalten, die ihnen helfen, die kritischsten Bedrohungen zu identifizieren, damit Sie schnell darauf reagieren können.
 
-Um sich bei Microsoft-Bedrohungsexperten – Vorteile für gezielte Angriffsbenachrichtigungen zu registrieren, wechseln Sie zu **Einstellungen** Allgemeine erweiterte Features  >    >    >  **Microsoft-Bedrohungsexperten – Benachrichtigungen** für gezielte Angriffe, die angewendet werden sollen. Sobald sie akzeptiert wurden, erhalten Sie die Vorteile von Benachrichtigungen über gezielte Angriffe.
+Wenn Sie sich für Microsoft-Bedrohungsexperten – Vorteile von gezielten Angriffsbenachrichtigungen registrieren möchten, wechseln Sie zu **Einstellungen**  >  **Allgemeinen**  >  **erweiterten Features** Microsoft-Bedrohungsexperten – Anzuwendende gezielte  >  **Angriffsbenachrichtigungen.** Nach der Annahme erhalten Sie die Vorteile von Benachrichtigungen über gezielte Angriffe.
 
 Sie können eine gezielte Angriffsbenachrichtigung von Microsoft-Bedrohungsexperten über das folgende Medium erhalten:
 
-- Die Seite "Vorfälle" des Defender for Endpoint-Portals
-- Das Benachrichtigungsdashboard des Defender for Endpoint-Portals
+- Die Seite "Vorfälle" des Defender für Endpunkt-Portals
+- Warnungsdashboard des Defender für Endpunkt-Portals
 - OData-Warnungs-API und REST-API
-- DeviceAlertEvents-Tabelle in erweiterte Suche
+- DeviceAlertEvents-Tabelle in der erweiterten Suche
 - Ihre E-Mail, wenn Sie sie konfigurieren möchten
 
-Erstellen Sie eine E-Mail-Benachrichtigungsregel, um gezielte Angriffsbenachrichtigungen per E-Mail zu erhalten. 
+Um gezielte Angriffsbenachrichtigungen per E-Mail zu erhalten, erstellen Sie eine E-Mail-Benachrichtigungsregel. 
 
-Weitere Informationen finden Sie unter Configure [and manage Microsoft-Bedrohungsexperten capabilities.](/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts)
+Weitere Informationen finden Sie unter [Konfigurieren und Verwalten Microsoft-Bedrohungsexperten Funktionen.](/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts)

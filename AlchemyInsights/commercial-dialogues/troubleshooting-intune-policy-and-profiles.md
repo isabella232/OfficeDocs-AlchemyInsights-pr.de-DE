@@ -1,5 +1,5 @@
 ---
-title: Problembehandlung bei der Intune-Richtlinie und -Profile
+title: Problembehandlung für die Intune-Richtlinie und -Profile
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: f3294bb9d0f388e1003181b0b83f9fd6ccef6097
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 06352056740180c9f332dd85553a9373b0f25548e50222a1d4bf9d502f513dfb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736920"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058181"
 ---
-# <a name="troubleshooting-the-intune-policy-and-profiles"></a>Problembehandlung bei der Intune-Richtlinie und -Profile
+# <a name="troubleshooting-the-intune-policy-and-profiles"></a>Problembehandlung für die Intune-Richtlinie und -Profile
 
-Um vorhandene Richtlinien zu sehen, Konflikte zu beheben, Protokolldaten zu überprüfen und allgemeine Fragen und Probleme zu sehen, können die folgenden Anleitungen hilfreich sein:
+Um vorhandene Richtlinien anzuzeigen, Konflikte zu beheben, Protokolldaten zu überprüfen und allgemeine Fragen und Probleme anzuzeigen, können die folgenden Handbücher hilfreich sein:
 
-- [Behandeln von Richtlinien und Profilen in Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
-- [Häufige Fragen, Probleme und Lösungen mit Geräterichtlinien und -profilen in Intune](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot)
+- [Problembehandlung bei Richtlinien und Profilen in Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
+- [Allgemeine Fragen, Probleme und Lösungen mit Geräterichtlinien und -profilen in Intune](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot)
 - [Überwachen von Gerätekonfigurationsprofilen und Anzeigen von Konflikten in Intune](https://docs.microsoft.com/mem/intune/configuration/device-profile-monitor)
-- [Behandeln von Problemen mit der Gerätekonformität und dem bedingten Zugriff in Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-conditional-access)
+- [Problembehandlung bei der Gerätecompliance und dem bedingten Zugriff in Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-conditional-access)
 - [Überwachen von Compliancerichtlinien und Anzeigen von Konflikten in Intune](https://docs.microsoft.com/mem/intune/protect/compliance-policy-monitor)
 
 [Weitere Informationen...](https://docs.microsoft.com/mem/intune/configuration/device-profiles)
