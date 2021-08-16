@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "6451"
-ms.openlocfilehash: b14fc07dfbcb0dd91a757704ee1ccb289705df6f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fcded92364237f43bc45896a028c2100532979d467cee05f3166118a02894831
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51801914"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041657"
 ---
 # <a name="organize-groups-and-channels-in-microsoft-stream"></a>Organisieren von Gruppen und Kanälen in Microsoft Stream
 
-Mit der Kombination aus organisationsweiten Kanälen und Gruppen in Microsoft Stream können Sie einen Bereich einrichten, in dem Sie Ihre Videos organisieren und ihren Anforderungen anpassen können.  
+Mit der Kombination aus organisationsweiten Kanälen und Gruppen in Microsoft Stream können Sie einen Bereich einrichten, in dem Ihre Videos ihren Anforderungen entsprechen.  
 
 - [Organisieren von Gruppen und Kanälen in Microsoft Stream](https://docs.microsoft.com/stream/groups-channels-organization)

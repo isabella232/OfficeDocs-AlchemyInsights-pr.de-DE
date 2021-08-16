@@ -1,5 +1,5 @@
 ---
-title: Suchen von E-Mails im Ordner "Archiv" in der Outlook-App
+title: Suchen von E-Mails im Ordner "Archiv" in Outlook-App
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: fd13949e477c40801874bfd1a235f8c477e686c4
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 10703fea4789b0861e0e5714ccba976ef52ac9088eb7d38d4ff8e95236a413c3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736703"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968016"
 ---
-# <a name="find-email-in-archive-folder-in-outlook-app"></a>Suchen von E-Mails im Ordner "Archiv" in der Outlook-App
+# <a name="find-email-in-archive-folder-in-outlook-app"></a>Suchen von E-Mails im Ordner "Archiv" in Outlook-App
 
-In Outlook 2016 ist der Ordner "Archiv" einer der Standardordner von Outlook, z. B. Posteingang, gesendete Elemente und Ordner "Gelöschte Elemente". Sie können den Ordner "Archiv" nicht löschen. Wenn Sie Outlook mit einem Office 365-Konto verwenden, gelten Ordnerrichtlinien wie Aufbewahrungsrichtlinien für den Ordner Archiv.
+In Outlook 2016 ist der Archivordner einer der Standardordner Outlook, z. B. Posteingang, Gesendete Elemente und der Ordner "Gelöschte Elemente". Sie können den Ordner "Archiv" nicht löschen. Wenn Sie Outlook mit einem Office 365 Konto verwenden, gelten Ordnerrichtlinien wie Aufbewahrungsrichtlinien für den Archivordner.
 
 So suchen Sie den Archivordner:
 
-1. Wählen Sie in Outlook die Registerkarte **Ansicht** > **Ordnerbereich**  >  **Normal aus.**
-2. Der Ordner "Archiv" befindet sich in der Liste der Ordner.
-3. Standardmäßig durchsucht Outlook bei der Suche nach Outlook-Elementen mithilfe der Funktion Aktuelles Postfach durchsuchen am Anfang der Ordnerliste Ihr gesamtes Postfach, einschließlich des Ordners Archiv.
+1. Wählen Sie in Outlook die Registerkarte **"Ansicht"** > **Ordnerbereich**  >  **"Normal"** aus.
+2. Ihr Archivordner befindet sich in der Liste der Ordner.
+3. Wenn Sie mithilfe der Funktion "Aktuelles Postfach suchen" oben in der Ordnerliste nach Outlook Elementen suchen, durchsucht Outlook standardmäßig das gesamte Postfach, einschließlich des Archivordners.
