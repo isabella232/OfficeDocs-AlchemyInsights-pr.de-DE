@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
-ms.openlocfilehash: 516ad0ccadd74eee7e00353d7439eebc6d88718f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1180ca96f0e1fdf0dc6e45829283fb3c99586683feb6ad7da1571fc05f41c48d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814101"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002875"
 ---
-# <a name="how-to-enable-microsoft-to-do"></a>Aktivieren von Microsoft To-Do
+# <a name="how-to-enable-microsoft-to-do"></a>So aktivieren Sie Microsoft To-Do
 
-Um Microsoft To-Do verwenden zu können, muss ein Administrator die App für das Konto jedes Benutzers aktivieren. Wechseln Sie zur [Seite &amp; Dienste-Add-Ins](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) auf der Seite Microsoft 365-Administratoreinstellungen, um To-Do Benutzer zu aktivieren.
+Um Microsoft To-Do verwenden zu können, muss ein Administrator die App für jedes Benutzerkonto aktivieren. Wechseln Sie zur [Seite &amp; "Dienste-Add-Ins"](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) der Seite Microsoft 365 Administratoreinstellungen, um To-Do für jeden Benutzer zu aktivieren.
   
-Microsoft To-Do verwendet Features in Exchange Online zum Synchronisieren und Speichern von Benutzer-To-Do-Elementen. Für die Verwendung von Microsoft To-Do benötigt ein Benutzer ein gültiges Exchange Online-Postfach.
+Microsoft To-Do verwendet Features in Exchange Online zum Synchronisieren und Speichern von Aufgabenelementen von Benutzern. Um Microsoft To-Do verwenden zu können, benötigt ein Benutzer ein gültiges Exchange Online Postfach.
   
-Weitere Informationen finden Sie unter [Microsoft To-Do Preview Administration](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
+Weitere Informationen finden Sie unter [Microsoft To-Do Preview-Verwaltung.](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx)
   
- **Hinweis**: Wenn Sie beim Anmelden einen Fehler 501 [https://todo.microsoft.com](https://todo.microsoft.com) erhalten, versuchen Sie es [https://to-do.microsoft.com](https://to-do.microsoft.com) mit .
+ **Hinweis:** Wenn beim Versuch, sich anzumelden, ein 501-Fehler angezeigt [https://todo.microsoft.com](https://todo.microsoft.com) wird, versuchen Sie [https://to-do.microsoft.com](https://to-do.microsoft.com) es.
   
 

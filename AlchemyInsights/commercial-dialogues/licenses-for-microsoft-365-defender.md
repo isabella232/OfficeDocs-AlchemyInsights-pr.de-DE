@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 38f1e314b2e492e02c2ea6eea37ea775c67e354e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: f536fbfe365538f49cee93f77f4a56400658400390535c9d2ae142004b2c2274
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737069"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967980"
 ---
 # <a name="licenses-for-microsoft-365-defender"></a>Lizenzen für Microsoft 365 Defender
 
-Die folgenden Lizenzen bieten kostenlosen Zugriff auf Microsoft 365 Defender-Features im Microsoft 365 Security Center:
+Die folgenden Lizenzen bieten kostenlosen Zugriff auf Microsoft 365 Defender Features im Microsoft 365 Security Center:
 
 - Microsoft 365 E5 oder A5
 - Microsoft 365 E5 Security oder A5 Security
@@ -36,6 +36,6 @@ Die folgenden Lizenzen bieten kostenlosen Zugriff auf Microsoft 365 Defender-Fea
     > [!NOTE]
     > Derzeit bieten Testlizenzen für Office 365 keinen Zugriff auf Microsoft 365 Defender.
 
-Weitere Informationen finden Sie im [Vergleich zu Microsoft 365 Enterprise-Plänen.](https://go.microsoft.com/fwlink/?linkid=2143458)
+Weitere Informationen finden Sie im [Vergleich zu Microsoft 365 Enterprise Plänen.](https://go.microsoft.com/fwlink/?linkid=2143458)
 
-Sie haben noch keine Lizenz? [Testen oder kaufen Sie ein Microsoft 365-Abonnement.](https://go.microsoft.com/fwlink/?linkid=2143625)
+Sie haben noch keine Lizenz? [Versuchen Sie, ein Microsoft 365 Abonnement](https://go.microsoft.com/fwlink/?linkid=2143625)zu kaufen.

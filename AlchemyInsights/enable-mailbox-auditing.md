@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 19997b0a-394f-4943-8908-c601696a332c
-ms.openlocfilehash: c04f27edc1e22e0e4269758827d5468767967be8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 176fdc57c6453cafe6ca773d845f8f59ea782089e3e33ad70909ed495aa1a8c4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814191"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003019"
 ---
 # <a name="enable-mailbox-auditing"></a>Aktivieren der Postfachüberwachung
 
-Zum Aktivieren der Postfachüberwachung für einen einzelnen Benutzer oder eine gesamte Organisation müssen die folgenden Cmdlets über die Remote power Shell ausgeführt werden:
+Um die Postfachüberwachung für einen einzelnen Benutzer oder eine gesamte Organisation zu aktivieren, müssen die folgenden Cmdlets über die Remote-PowerShell ausgeführt werden:
   
  **Einzelner Benutzer**
   
-Set-Mailbox -Identity "Jane Dow" -AuditEnabled $true
+Set-Mailbox -Identity "Jane Maustaste" -AuditEnabled $true
   
  **Organisation**
   

@@ -1,5 +1,5 @@
 ---
-title: Veröffentlichung von Inhaltstypen
+title: Veröffentlichen von Inhaltstypen
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003050"
 - "5793"
-ms.openlocfilehash: d70e3deb0067552cf97137862a1139fc9873f2c5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 37e21ada4c5a8d8fa5f59dd9434b725566b00f794da1f56f705e1b9d0b8cfa5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816811"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032701"
 ---
-# <a name="content-type-publishing"></a>Veröffentlichung von Inhaltstypen
+# <a name="content-type-publishing"></a>Veröffentlichen von Inhaltstypen
 
-Wenn Inhaltstypen in Ihrer Organisation für alle Benutzer verfügbar sein sollen, ist es ein guter Kandidat, alle Websitesammlungen zu veröffentlichen. Informationen zum Veröffentlichen eines Inhaltstyps finden Sie unter [Publish a content type from a content publishing hub](https://support.office.com/article/publish-a-content-type-from-a-content-publishing-hub-58081155-118d-4e7a-9cc5-d43b5dbb7d02).
+Wenn Inhaltstypen in Ihrer Organisation für alle Benutzer verfügbar sein sollen, ist es ein guter Kandidat für die Veröffentlichung in allen Websitesammlungen. Informationen zum Veröffentlichen eines Inhaltstyps finden Sie unter [Veröffentlichen eines Inhaltstyps aus einem Inhaltsveröffentlichungshub.](https://support.office.com/article/publish-a-content-type-from-a-content-publishing-hub-58081155-118d-4e7a-9cc5-d43b5dbb7d02)
