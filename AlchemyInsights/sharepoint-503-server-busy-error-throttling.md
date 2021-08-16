@@ -13,20 +13,20 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 01ce7a0266eb15a04f70826cc3f5e135f384c13b
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 38cd588e9f5388579e4e8c2064d1390091425254effd3aa7c50c4f2cbc80ce53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707557"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051485"
 ---
-# <a name="sharepoint-online-throttling"></a>SharePoint Online-Einschränkung
+# <a name="sharepoint-online-throttling"></a>SharePoint Onlinedrosselung
 
 SharePoint Online verwendet Einschränkung, um eine optimale Leistung und Zuverlässigkeit des Diensts SharePoint Online verwalten. Einschränkungsgrenzwerte Ruft die Anzahl von Aktionen eines Benutzers oder gleichzeitige (von Code- oder Skriptblock), um Ressourcen zu verhindern. 
 
-Weitere Informationen zur Drosselung finden Sie unter [Vermeiden, dass sie in SharePoint Online gedrosselt oder blockiert werden.](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+Weitere Informationen zur Drosselung finden Sie unter Vermeiden von [Einschränkungen oder Sperren in SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 
-Wenn Sie der Meinung sind, dass dieser Fehler nichts mit der Einschränkung zu tun hat, können Sie überprüfen, ob für Ihren Mandanten eine aktive Wartung stattfindet, indem Sie zum [Nachrichtencenter navigieren.](https://portal.office.com/adminportal/home#/MessageCenter)
+Wenn Sie der Meinung sind, dass dieser Fehler nichts mit der Drosselung zu tun hat, können Sie überprüfen, ob aktive Wartung auf Ihrem Mandanten erfolgt, indem Sie zum [Nachrichtencenter](https://portal.office.com/adminportal/home#/MessageCenter)navigieren.
 
- Stellen Sie schließlich sicher, dass Sie die [Seite Dienstinte](https://portal.office.com/adminportal/home#/servicehealth) health besuchen, um nach eventuell auftretenden Ratgebern/Vorfällen zu suchen.
+ Achten Sie abschließend darauf, dass Sie die Seite ["Dienststatus"](https://portal.office.com/adminportal/home#/servicehealth) besuchen, um nach eventuell auftretenden Empfehlungen/Vorfällen zu suchen.
 

@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 635009ed4b78d2b05b0eef1f3298765b10f86ede
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d89283dec427ba3d4f55fc1f180efc13da16ae15c3d5a6c0c06a696faa6df7f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737135"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034753"
 ---
 # <a name="fix-transport-rules"></a>Beheben von Transportregeln
 
-Diese Nachricht wurde von einer benutzerdefinierten Nachrichtenflussregel beeinflusst. Gehen Sie wie folgt vor, um die genaue Regel zu überprüfen:
+Diese Nachricht wurde von einer benutzerdefinierten Nachrichtenflussregel beeinflusst. Gehen Sie folgendermaßen vor, um die genaue Regel zu überprüfen:
 
-1. Notieren Sie sich in den Übermittlungsergebnissen unter **Zusätzliche Informationen** die **GUID** oder **den Richtliniennamen**.
-2. Starten Sie die Exchange-Verwaltungsshell. Weitere Informationen finden Sie unter [Open the Exchange Management Shell](https://go.microsoft.com/fwlink/?linkid=2101432).
+1. Notieren Sie sich in den Übermittlungsergebnissen unter **"Zusätzliche Informationen"** die **GUID** oder den **Richtliniennamen.**
+2. Starten Sie Exchange Verwaltungsshell. Weitere Informationen finden Sie unter [Open the Exchange Management Shell](https://go.microsoft.com/fwlink/?linkid=2101432).
 3. Führen Sie diesen Befehl aus (mithilfe der GUID aus Ihrer Übermittlung):  **Get-TransportRule -identity "GUID" | fl * Description***
-4. Überprüfen Sie die Beschreibung, um die konfigurierten Bedingungen zu sehen, die sich auf die Nachricht ausdrückten.
+4. Überprüfen Sie die Beschreibung, um die konfigurierten Bedingungen anzuzeigen, die sich auf die Nachricht auswirkten.
 
 Weitere Informationen finden Sie unter [Get-TransportRule](https://go.microsoft.com/fwlink/?linkid=2101523).
