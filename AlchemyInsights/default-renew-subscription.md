@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "3043"
 - "1500012"
-ms.openlocfilehash: 9bf0273fc2f0ca653750d037f022c5bf367bf23a
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 9113c21a6b840abbbe86c54a9b6e41f4e61aa4916ff6a96ecd8f5170640bcd95
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689297"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031837"
 ---
 # <a name="renewing-your-subscription"></a>Verlängern Ihres Abonnements
 
@@ -33,4 +33,4 @@ So aktivieren Sie die wiederkehrende Abrechnung:
 2. Wählen Sie auf der Registerkarte **Produkte** das Abonnement aus, das Sie ändern möchten.
 3. Wählen Sie auf der Seite Abonnementdetails, unter **Abonnement- und Zahlungseinstellungen**, **Wiederkehrende Abrechnung bearbeiten** aus.
 4. Wählen Sie im Bereich **Einstellungen für die wiederkehrende Abrechnung bearbeiten** zwischen den Optionen **Ein**, **Ein, aber einmal verlängern** oder **Deaktivieren** aus.
-5. Klicken Sie auf **Speichern**. 
+5. Wählen Sie **Speichern** aus. 

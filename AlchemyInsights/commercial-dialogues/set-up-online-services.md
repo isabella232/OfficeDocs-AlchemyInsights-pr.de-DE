@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 94651ca9efff3c6b7ab1ba858e092247195679f9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 55ee011c16fe9bd7a35cde1a73dd610d988f227c316f379adab0483973ab903d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736309"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070395"
 ---
 # <a name="set-up-online-services"></a>Einrichten von Onlinediensten
 
-Führen Sie zum Einrichten von Onlinediensten die folgenden Schritte aus:
+Führen Sie die folgenden Schritte aus, um Onlinedienste einzurichten:
 
-1. Auf der **Seite Datensätze für Ihre Website** hinzufügen: a. Klicken **Sie auf Weiter**, wenn Sie über keine Website verfügen. Anschließend landen Sie auf der Seite **Dns-Einstellungen aktualisieren.**
-    b. Suchen Sie den Eintrag bei Ihrem DNS-Hostinganbieter, falls Sie über eine Website verfügen. Kopieren Sie sie dann, und fügen Sie sie in die Seite ein.
-2. Klicken **Sie auf Weiter,** um zur Seite **DNS-Einstellungen aktualisieren zu** wechseln.
+1. On the **Add the records for your website** page: a. Klicken Sie auf **"Weiter",** wenn Sie keine Website haben. Anschließend gelangen Sie auf die Seite **"DNS-Einstellungen aktualisieren".**
+    b. Suchen Sie den Eintrag bei Ihrem DNS-Hostinganbieter, wenn Sie über eine Website verfügen. Kopieren Sie sie dann, und fügen Sie sie in die Seite ein.
+2. Klicken Sie auf **"Weiter",** um zur Seite **"DNS-Einstellungen aktualisieren"** zu wechseln.

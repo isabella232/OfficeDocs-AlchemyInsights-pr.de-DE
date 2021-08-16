@@ -1,5 +1,5 @@
 ---
-title: Einrichten von Richtlinien für sichere Links in Microsoft Defender für Office 365
+title: Einrichten Tresor Linkrichtlinien in Microsoft Defender für Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a59f6fb22ae18d8d9ead98563af05b88e8208c5e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b6569d9a07cd5a5a72965020055ce7ed4c7f53bd4a9746e361c805c8410c0cde
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736298"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070359"
 ---
-# <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Einrichten von Richtlinien für sichere Links in Microsoft Defender für Office 365
+# <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Einrichten Tresor Linkrichtlinien in Microsoft Defender für Office 365
 
-Eine Standardrichtlinie für sichere Links in Microsoft Defender für Office 365 wurde bereits für Sie erstellt. So ändern Sie die Konfigurationen:
+Eine Standardrichtlinie für Tresor Links in Microsoft Defender für Office 365 ist bereits für Sie erstellt. So ändern Sie die Konfigurationen:
 
-1. Wechseln Sie zum [Office 365 Security & Compliance Center](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Wählen Sie **Bedrohungsverwaltungsrichtlinie**  >  **aus.** Wählen Sie **auf der** Seite Richtlinie die Option Microsoft Defender for [Office 365 Safe Links aus.](https://go.microsoft.com/fwlink/?linkid=2101058)
-3. Wählen Sie **im Abschnitt Richtlinien, die für die gesamte Organisation** gelten, **Standard** aus, und wählen Sie dann das **Symbol Bearbeiten** aus.
-4. Geben Sie im Abschnitt Block **the following URLs** eine oder mehrere URLs an, die Sie verhindern möchten, dass Personen in Ihrer Organisation besucht werden. Weitere Informationen finden Sie unter ["Blockieren der folgenden URLs" für sichere Links](https://go.microsoft.com/fwlink/?linkid=2092123).
-5. Wählen Sie im Abschnitt Einstellungen, **die für Inhalte** außer E-Mail gelten, die optionen aus, die Sie verwenden möchten. (Es wird empfohlen, alle Optionen auszuwählen.)
+1. Wechseln Sie zum [Office 365 Security & Compliance Center.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+2. Wählen Sie **Die Richtlinie für die Bedrohungsverwaltung**  >  aus. Wählen Sie auf der Seite **"Richtlinie"** [Microsoft Defender für Office 365 Tresor Links](https://go.microsoft.com/fwlink/?linkid=2101058)aus.
+3. Wählen Sie in den **Richtlinien, die für den gesamten Organisationsabschnitt gelten,** die Option **"Standard"** und dann das Symbol **"Bearbeiten"** aus.
+4. Geben Sie im Abschnitt **"Block the following URLs"** eine oder mehrere URLs an, die Sie verhindern möchten, dass Personen in Ihrer Organisation besuchen. Weitere Informationen finden Sie in [der Liste "Blockieren der folgenden URLs" für Tresor Links.](https://go.microsoft.com/fwlink/?linkid=2092123)
+5. Wählen Sie in der Einstellungen, die für Inhalte mit Ausnahme des **E-Mail-Abschnitts gelten,** die Optionen aus, die Sie verwenden möchten(oder deaktivieren). (Es wird empfohlen, alle Optionen auszuwählen.)
 6. Wählen Sie **Speichern**.

@@ -1,5 +1,5 @@
 ---
-title: Einrichten und Konfigurieren der Kommunikationskonformität
+title: Einrichten und Konfigurieren der Kommunikationscompliance
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 8892a49dc1fb4a5bb18d743807f80302360f9c29
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 8c82c89dce2025f7d818e0ae65310b40200551c4c6ea34306c4104dc8557efcf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736346"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070755"
 ---
-# <a name="set-up-and-configure-communication-compliance"></a>Einrichten und Konfigurieren der Kommunikationskonformität
+# <a name="set-up-and-configure-communication-compliance"></a>Einrichten und Konfigurieren der Kommunikationscompliance
 
-Für zukünftige Referenz müssen Benutzer, die von der Kommunikationskonformität überwacht werden, entweder über eine Microsoft 365 E5-Compliancelizenz oder eine Office 365 Enterprise E3-Lizenz verfügen.
+Für zukünftige Referenzen müssen Benutzer, die durch kommunikationscompliance überwacht werden, entweder über eine Microsoft 365 E5 Compliance- oder eine Office 365 Enterprise E3-Lizenz verfügen.
 
-* Informationen zum Einrichten oder Konfigurieren der Kommunikationskonformität finden Sie unter [Erste Schritte mit der Kommunikationskonformität](https://go.microsoft.com/fwlink/?linkid=2111549).
-* Wenn Sie keinen vorhandenen Enterprise E5-Plan haben und supervision ausprobieren möchten, registrieren Sie sich für eine Testversion [von Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279).
+* Wenn Sie die Kommunikationscompliance einrichten oder konfigurieren möchten, lesen [Sie "Erste Schritte mit der Kommunikationscompliance".](https://go.microsoft.com/fwlink/?linkid=2111549)
+* Wenn Sie nicht über einen vorhandenen Enterprise E5-Plan verfügen und die Aufsicht ausprobieren möchten, [registrieren Sie sich für eine Testversion von Office 365 Enterprise E5.](https://go.microsoft.com/fwlink/p/?LinkID=698279)

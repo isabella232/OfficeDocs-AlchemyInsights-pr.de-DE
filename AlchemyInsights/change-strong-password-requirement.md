@@ -1,5 +1,5 @@
 ---
-title: Ändern der Anforderung für starke Kennwörter
+title: Ändern der Anforderung für sichere Kennwörter
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000105"
 - "1600"
-ms.openlocfilehash: cf5cab9a1c2dd4226997d93417dc7104347f8a6e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8a82c002bd64a33556b632545e98355e860848d845e122bfea06fbc5ee5dcb90
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818467"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070683"
 ---
-# <a name="change-strong-password-requirement"></a>Ändern der Kennwortanforderung für starke Kennwörter
+# <a name="change-strong-password-requirement"></a>Ändern der Anforderung eines sicheren Kennworts
 
-Microsoft benötigt standardmäßig sichere Kennwörter.
+Microsoft erfordert standardmäßig sichere Kennwörter.
 
 Mithilfe von PowerShell können Sie sichere Kennwörter für bestimmte Benutzer mit den folgenden Befehlen deaktivieren:
 
 `Set-MsolUser –UserPrincipalName <UserPrincipalName> –StrongPasswordRequired  $false`
 
-Verwenden Sie zum Deaktivieren von starken Kennwörtern für alle Benutzer:
+Um sichere Kennwörter für alle Benutzer zu deaktivieren, verwenden Sie Folgendes:
 
 `Get-MsolUser | Set-MsolUser -StrongPasswordRequired $false`
 
