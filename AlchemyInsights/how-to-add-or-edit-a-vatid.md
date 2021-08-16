@@ -15,12 +15,12 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: acf3231c198a611d0975fffc4ef68ac28a901488f93a695de5d8f19bebf80f25
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 797666be608e4f426cb6077dbf40e81e0adef7a6bf01f66b74722274a01c42c7
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868381"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54502175"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Hinzufügen oder Bearbeiten einer Umsatzsteuer-ID
 
@@ -32,6 +32,6 @@ ms.locfileid: "57868381"
 1. Navigieren Sie im Admin Center zur Seite **Abrechnung** \> [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
 2. Wählen Sie auf der Registerkarte **Produkte** das Abonnement aus, das Sie aktualisieren möchten.
 3. Wählen Sie auf der Seite mit den Abonnementdetails im Abschnitt **Dienstnutzungsadresse** die Option **Dienstnutzungsadresse bearbeiten** aus.
-4. Geben Sie im **Adressbereich "Dienstnutzung bearbeiten"** Ihre Umsatzsteuer-ID in das **Feld "Umsatzsteuernummer"** ein, und wählen Sie dann **"Speichern"** aus. Danach wird die Umsatzsteuer nicht auf Ihre nächste Rechnung erhoben.
+4. Geben Sie im **Adressbereich "Dienstnutzung bearbeiten"** Ihre Umsatzsteuer-ID in das **Feld "Umsatzsteuernummer"** ein, und wählen Sie dann **"Speichern"** aus. Danach wird der nächsten Rechnung keine Umsatzsteuer in Rechnung gestellt.
 
-Weitere Informationen finden Sie unter [Welche Steuer wird mir Microsoft 365 in Rechnung gestellt?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).
+Weitere Informationen finden Sie unter [Welche Steuer wird mir Microsoft 365 in Rechnung gestellt?](/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).
