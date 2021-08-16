@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 2ea412617caa77d50813941dafce84a972a2cfe2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 09401ceb0bcdcfe280f2e7e293caffc8a4189561bf26b713c98f015991134e21
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737243"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069891"
 ---
 # <a name="working-in-microsoft-intune"></a>Arbeiten in Microsoft Intune
 
-Hier sind einige Grundlegendes zu Intune:
+Hier sind einige Intune-Grundlagen:
 
 - [Was ist Intune?](https://docs.microsoft.com/mem/intune/fundamentals/what-is-intune)
 - [Sie möchten sich für die Intune-Testversion registrieren?](https://docs.microsoft.com/mem/intune/fundamentals/free-trial-sign-up)
-- [Einrichten von Intune zum ersten Mal](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps)
+- [Erstmaliges Einrichten von Intune](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps)
 - [Was ist die Geräteregistrierung in Intune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment)
 - [Verwenden des Problembehandlungsportals zur Unterstützung von Benutzern Ihres Unternehmens](https://docs.microsoft.com/mem/intune/fundamentals/help-desk-operators)
 

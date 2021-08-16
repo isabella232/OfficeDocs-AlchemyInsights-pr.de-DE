@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 8bc5c98dc9f60ae23b52b36d2087cafbb9fd6491
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 487d12d8a4e53f7dd08b7231819086eceb578c3474f64e6d69bf0f7c1d40bcdd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51401834"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058505"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>Einrichten eines Antispamschutzes
 
-Hier erfahren Sie, wie Sie dies tun:
+So gehen Sie wie folgt vor:
 
-1. Wechseln Sie zum [Office 365 Security & Compliance Center](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Navigieren Sie zu **Richtlinie für**  >  **die** Bedrohungsverwaltung, und klicken Sie **[auf Antispam](https://go.microsoft.com/fwlink/p/?linkid=2077143)**.
-1. Aktivieren Sie **auf** der Registerkarte Benutzerdefinierte Einstellungen **benutzerdefinierte** Einstellungen.
-1. Erweitern Sie die **Standardspamfilterrichtlinie,** klicken **Sie auf Richtlinie bearbeiten,** und geben Sie dann die folgenden Einstellungen an:
-    1. Legen Sie **im Abschnitt Spam-** und Massenaktionen den Schwellenwert auf den Wert 5 oder 6.
+1. Wechseln Sie zum [Office 365 Security & Compliance Center.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Navigieren Sie zur **Bedrohungsverwaltungsrichtlinie,**  >  und klicken Sie auf **[Antispam.](https://go.microsoft.com/fwlink/p/?linkid=2077143)**
+1. Aktivieren Sie auf der Registerkarte **"Benutzerdefiniert"** **die benutzerdefinierten** Einstellungen.
+1. Erweitern Sie die **Standardmäßige Spamfilterrichtlinie,** klicken Sie auf **Richtlinie bearbeiten,** und geben Sie dann die folgenden Einstellungen an:
+    1. Legen Sie im Abschnitt **"Spam" und "Massenaktionen"** den Schwellenwert auf 5 oder 6 fest.
 1. Klicken Sie auf **Speichern**.
 
-Weitere Informationen zu Ihren Antispamrichtlinienoptionen finden Sie unter [Configure the anti-spam policies](https://go.microsoft.com/fwlink/?linkid=2092051).
+Weitere Informationen zu Ihren Antispamrichtlinienoptionen finden Sie unter [Konfigurieren der Antispamrichtlinien.](https://go.microsoft.com/fwlink/?linkid=2092051)
