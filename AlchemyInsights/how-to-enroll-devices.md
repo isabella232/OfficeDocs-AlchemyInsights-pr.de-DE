@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "2683"
 - "6200002"
-ms.openlocfilehash: c40742d6bfb7d0431b788c15517b50d34dd199a0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a4855d71152a158b94a19c36159b1ea9b055f626c680c43c875de1f258329c96
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825658"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029371"
 ---
 # <a name="how-to-enroll-devices"></a>Registrieren von Geräten
 
-Im Folgenden finden Sie die Grundlagen für die Registrierung:
+Nachfolgend sind die Grundlagen der Registrierung aufgeführt:
 
-- Weitere Informationen zur Registrierung von Intune finden Sie unter [Was ist geräteregistrierung in Intune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment).
+- Informationen zur Intune-Registrierung finden Sie unter [Was ist die Geräteregistrierung in Intune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment).
 
-- Ausführliche Informationen zur Registrierung für bestimmte Plattformen, Anleitungen und Lernprogramme finden Sie unter Registrieren von Geräten [im Microsoft Intune-Portal.](https://docs.microsoft.com/mem/intune/enrollment/)
+- Ausführlichere Informationen zur Registrierung für bestimmte Plattformen, Anleitungen und Lernprogramme finden Sie unter ["Registrieren von Geräten in Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/) Portal".
 
-**Problembehandlung bei der Geräteregistrierung**
+**Behandeln von Problemen bei der Geräteregistrierung**
 
 - [Problembehandlung bei der Geräteregistrierung in Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
 - [Problembehandlung bei der iOS/iPadOS-Geräteregistrierung](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
-- [Behandeln von Problemen mit der Registrierung von Windows-Geräten](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-enrollment-errors)
+- [Problembehandlung bei Windows Geräteregistrierungsproblemen](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-enrollment-errors)
 
-- [Problembehandlung bei der automatischen Registrierung von Windows 10](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
+- [Problembehandlung bei der automatischen Registrierung Windows 10](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
 
-- [Behandeln von Problemen mit Android Enterprise-Geräten](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)
+- [Behandeln von Problemen mit Android-Enterprise-Geräten](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)
 
 
