@@ -1,5 +1,5 @@
 ---
-title: Beheben häufiger Probleme mit Microsoft Defender für Office 365
+title: Beheben allgemeiner Probleme mit Microsoft Defender für Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 05fa518ece7ea40fd7b4cea57115d9cd60370b01
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: de1edf14389c6747272d4e1f8d8e0955a86269c433106bc8ce25129e78581ea7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737172"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034969"
 ---
-# <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Beheben häufiger Probleme mit Microsoft Defender für Office 365
+# <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Beheben allgemeiner Probleme mit Microsoft Defender für Office 365
 
 Hier sind einige Lösungen für häufige Probleme mit Microsoft Defender für Office 365:
 
-- **Nachrichtenverzögerung:** Wenn Probleme auftreten, bei denen die Nachrichtenzustellung verzögert  wird, sollten Sie die Optionen für die dynamische Zustellung in Ihrer Richtlinie für sichere Anlagen verwenden. Weitere Informationen finden Sie unter [Dynamic Delivery in Safe Attachments policies](https://go.microsoft.com/fwlink/?linkid=2094106).
-- **Melden falsch positiver oder negativer Ergebnisse:** Melden Sie die Nachricht über diesen Link an Microsoft: [Microsoft Defender Response Portal](https://go.microsoft.com/fwlink/?linkid=2092835).
-- **Schutz sicherer Links aktivieren:**
-    1. Melden Sie sich beim [Office 365 Security & Compliance Center an.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-    2. Wechseln Sie zu **Sichere Links zu Bedrohungsverwaltungsrichtlinie.**  >    >  
-    3. Öffnen **Sie unter Richtlinien, die für bestimmte Empfänger gelten,** die konfigurierte Richtlinie.
-    4. Wählen **Sie unter Einstellungen** die Option Sichere Links auf Nachrichten anwenden **aus, die innerhalb der Organisation gesendet werden.**
+- **Nachrichtenverzögerung:** Wenn Probleme auftreten, bei denen die Nachrichtenübermittlung verzögert wird, sollten Sie die Optionen für die **dynamische Zustellung** in Ihrer Tresor Attachments-Richtlinie verwenden. Weitere Informationen finden Sie unter ["Dynamische Zustellung" in Tresor Anlagenrichtlinien.](https://go.microsoft.com/fwlink/?linkid=2094106)
+- **Melden falsch positiver oder negativer Ergebnisse:** Melden Sie die Nachricht über diesen Link an Microsoft: [Microsoft Defender Response Portal.](https://go.microsoft.com/fwlink/?linkid=2092835)
+- **Aktivieren Sie Tresor Linkschutz:**
+    1. Melden Sie sich beim [Office 365 Security & Compliance Center](https://go.microsoft.com/fwlink/p/?linkid=2077143)an.
+    2. Wechseln Sie zu "Richtlinien für die **Bedrohungsverwaltung**  >    >  **Tresor Links".**
+    3. Öffnen Sie unter **"Richtlinien", die für bestimmte Empfänger gelten,** die konfigurierte Richtlinie.
+    4. Wählen Sie unter **Einstellungen** sichere **Links auf Innerhalb der Organisation gesendete Nachrichten** anwenden aus.

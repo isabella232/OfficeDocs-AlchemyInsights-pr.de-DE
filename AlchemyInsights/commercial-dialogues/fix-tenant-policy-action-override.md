@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bc7ad8acd86c9d5b2f99ffdc6fe8a8b53e1fcb8b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9c0b88c1ca2120acccd9cd75eb918a81bde52ec3919f6148922f077f07899da7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736687"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034933"
 ---
 # <a name="fix-tenant-policy-action-override"></a>Beheben der Mandantenrichtlinie (Außerkraftsetzung der Aktion)
 
-Eine Antispamrichtlinie in Ihrem Mandanten hat diese Nachricht beeinflusst. Gehen Sie wie folgt vor, um die Richtlinie zu überprüfen:
+Diese Nachricht wurde durch eine Antispamrichtlinie in Ihrem Mandanten beeinflusst. Gehen Sie folgendermaßen vor, um die Richtlinie zu überprüfen:
 
-1. Wechseln Sie zum [Office 365 Security & Compliance Center,](https://go.microsoft.com/fwlink/p/?linkid=2077143)und wechseln Sie dann zu **Bedrohungsverwaltungsrichtlinie**  >    >  [Antispam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Überprüfen Sie, ob **die Richtlinienquelle** Folgendes angibt:  **Add-Xheader/ModifySubject/Redirect/Delete/No action/ BCC message**
+1. Wechseln Sie zum [Office 365 Security & Compliance Center,](https://go.microsoft.com/fwlink/p/?linkid=2077143)und wechseln Sie dann zu   >    >  ["Antispamrichtlinie](https://go.microsoft.com/fwlink/?linkid=2101518)für die Bedrohungsverwaltung".
+2. Überprüfen Sie, ob **die Richtlinienquelle** Folgendes angibt:  **Add-Xheader/ModifySubject/Redirect/Delete/No action/BCC message**
 
-    Wenn ja, überprüfen **Sie** auf der Registerkarte Benutzerdefinierte Die Einstellungen der Richtlinie, die sich auf die Nachricht ausdingt. Es ist möglich, dass die **Standardeinstellungen, die** auf alle Exchange Online Protection-Kunden angewendet wurden, die Nachricht beeinflusst haben.
+    Wenn ja, überprüfen Sie auf der Registerkarte **"Benutzerdefiniert"** die Einstellungen der Richtlinie, die die Nachricht beeinflusst hat. Es ist möglich, dass die **Standardeinstellungen,** die auf alle Exchange Online Protection Kunden angewendet wurden, die Nachricht betroffen haben.
 
-Weitere Informationen zum Konfigurieren von Spamfilterrichtlinien finden Sie unter [Configure your spam filter policies](https://go.microsoft.com/fwlink/?linkid=2101431).
+Weitere Informationen zum Konfigurieren von Spamfilterrichtlinien finden Sie unter [Konfigurieren ihrer Spamfilterrichtlinien.](https://go.microsoft.com/fwlink/?linkid=2101431)
