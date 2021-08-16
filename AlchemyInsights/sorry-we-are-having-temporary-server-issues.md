@@ -1,5 +1,5 @@
 ---
-title: Beheben von Microsoft 365-Apps Leider gibt es eine Meldung zu temporären Serverproblemen
+title: Beheben Microsoft 365 Apps Leider wird eine Meldung zu temporären Serverproblemen angezeigt.
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: 0adf1d66869051b9dd8290ef3466ef9b13aa2d41
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: aa0d625856df1027146de5af57845224e3056d8c21d9ac4cefbd4a9c329f487c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835270"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021595"
 ---
-# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Beheben der Microsoft 365-Apps "Leider haben wir temporäre Serverprobleme"
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Beheben der Microsoft 365-Apps mit der Meldung "Leider treten temporäre Serverprobleme auf"
 
 Wenn Sie diese Nachricht erhalten, versuchen Sie Folgendes:
 
-1. Überprüfen Sie Ihre Firewall-, Antivirensoftware- und Proxyeinstellungen, um zu überprüfen, ob sie den Internetzugriff auf Microsoft 365-Apps nicht blockieren. Weitere [Informationen finden Sie unter URLs und IP-Adressbereiche](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Überprüfen Sie ihre Firewall-, Antivirensoftware- und Proxyeinstellungen, um sicherzustellen, dass sie den Internetzugriff auf Microsoft 365 Apps nicht blockieren. Siehe [URLs und IP-Adressbereiche.](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
 
-2. Wechseln Sie **zu Start**  >  **Ausführen**, und geben Sie **dann services.msc ein.** Stellen Sie sicher, dass die folgenden Dienste ausgeführt werden:
-    - Automatisches Einrichten von netzwerkgebundenen Geräten
+2. Wechseln **Sie** zu  >  **Startausführung,** und geben Sie dann **"services.msc"** ein. Stellen Sie sicher, dass die folgenden Dienste ausgeführt werden:
+    - Automatische Einrichtung netzwerkverbundener Geräte
     - Netzwerklistendienst
-    - Netzwerkstandortbewusstsein
+    - Netzwerkstandortinformationen
     - Windows-Ereignisprotokoll
 
-Wenn einer dieser Dienste nicht ausgeführt wird, versuchen Sie, ihn zu starten. Wenn beim Starten des Diensts ein Problem besteht, führen Sie den folgenden Befehl aus, indem Sie eine Eingabeaufforderung mit erhöhten Berechtigungen öffnen:
+Wenn einer dieser Dienste nicht ausgeführt wird, versuchen Sie, ihn zu starten. Wenn beim Starten des Diensts ein Problem auftritt, führen Sie den folgenden Befehl aus, indem Sie eine Eingabeaufforderung mit erhöhten Berechtigungen öffnen:
 
 **sfc /scannow**
 
 Starten Sie nach Abschluss dieses Befehls den Computer neu.
 
-Ausführliche Informationen finden Sie unter "Leider können [wir keine Verbindung mit Ihrem Konto herstellen. Versuchen Sie es später erneut"-Fehler, wenn Sie aktivieren.](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)
+Ausführliche Informationen finden Sie unter ["Leider können wir keine Verbindung mit Ihrem Konto herstellen. Versuchen Sie es später erneut" beim Aktivieren.](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)

@@ -1,5 +1,5 @@
 ---
-title: Integrität des Microsoft 365-Diensts
+title: Integrität des Microsoft 365-Diensts
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: a636305b369d6a0d78d768acd420f14b295812a5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 649c36d848223613c6188f600bb8f041fd205078c2a2d3ce66cb3387a4f84bd7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51794471"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098457"
 ---
-# <a name="microsoft-365-service-health"></a>Integrität des Microsoft 365-Diensts
+# <a name="microsoft-365-service-health"></a>Integrität des Microsoft 365-Diensts
 
 
-Überprüfen Sie den Dienstzustand eines Diensts über das [Dienstintehashboard](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Wenn Sie **das neue Admin Center** in der oberen rechten Ecke auswählen, werden neue Optionen für den Dienstinte health angezeigt.
+Überprüfen Sie den Dienststatus eines beliebigen Diensts aus dem [Dienststatus-Dashboard.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) Wenn Sie in der oberen rechten Ecke das **neue Admin Center** auswählen, werden neue Optionen für den Dienststatus angezeigt.
 
-- Wählen **Sie Einstellungen zum Empfangen** von E-Mail-Benachrichtigungen zum Dienstzustand **aus.**
+- Wählen Sie **"Einstellungen" aus,** um **E-Mail-Benachrichtigungen zum** Dienststatus zu erhalten.
 
-- Wählen **Sie Problem melden** aus, wenn ein Problem mit dem Dienst auftritt.
+- Wählen Sie **"Problem melden"** aus, wenn ein Problem mit dem Dienst auftritt.
 
-- Wählen **Sie Verlauf** aus, um den Dienstzustandsverlauf Ihrer Organisation zu überprüfen. 
+- Wählen Sie **"Verlauf"** aus, um den Dienststatusverlauf Ihrer Organisation zu überprüfen. 
 
-Weitere Informationen finden Sie unter [Überprüfen des Microsoft 365-Dienstzustands.](https://docs.microsoft.com/office365/enterprise/view-service-health) 
+Weitere Informationen finden Sie unter [Überprüfen Microsoft 365 Dienststatus.](https://docs.microsoft.com/office365/enterprise/view-service-health) 
