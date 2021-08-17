@@ -12,16 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 100ce1685d95dc5e38a6b03b2ef2cf8c1c7a092157f4d30866b3dd36375ae2f0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e457f07a8180788dd612e0e905190276bd459856
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045131"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58311398"
 ---
 # <a name="view-all-quarantined-messages"></a>Anzeigen aller isolierten Nachrichten
 
-1. Wechseln Sie im Admin Center zum [Security & Compliance Center.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Wechseln Sie zu **"Bedrohungsmanagement**  >  **überprüfen**  >  **Quarantäne".**
+1. Wechseln Sie im Microsoft 365 Defender Portal unter <https://security.microsoft.com> **"E-Mail-&** \> Zusammenarbeitsüberprüfungsquarantäne" zu "E-Mail & Zusammenarbeit  \> **überprüfen".**
+
+   Um direkt zur **Quarantäneseite** zu wechseln, verwenden Sie <https://security.microsoft.com/quarantine> .
+
+2. Überprüfen Sie auf der **Quarantäneseite,** ob die **Registerkarte "E-Mail"** ausgewählt ist.
 3. Standardmäßig werden Nachrichten vom neuesten zum ältesten basierend auf dem Datum sortiert, an dem die Nachricht empfangen wurde. Sie können nach einem Feld sortieren, indem Sie auf eine Kopfzeile klicken.
 4. Sie können nur Massenvorgänge für bis zu 100 Elemente ausführen, sodass die Filterung auch dazu beitragen kann, das Resultset zu reduzieren, wenn Sie mehr als 100 Elemente haben.
+
+Weitere Informationen finden Sie in den folgenden Artikeln:
+
+- [Suchen und Freigeben von isolierten Nachrichten als Benutzer](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Verwalten von Nachrichten und Dateien in Quarantäne als Administrator](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)

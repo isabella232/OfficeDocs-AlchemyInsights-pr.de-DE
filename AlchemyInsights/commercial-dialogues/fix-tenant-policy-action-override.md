@@ -12,20 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9c0b88c1ca2120acccd9cd75eb918a81bde52ec3919f6148922f077f07899da7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54034933"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896074"
 ---
 # <a name="fix-tenant-policy-action-override"></a>Beheben der Mandantenrichtlinie (Außerkraftsetzung der Aktion)
 
-Diese Nachricht wurde durch eine Antispamrichtlinie in Ihrem Mandanten beeinflusst. Gehen Sie folgendermaßen vor, um die Richtlinie zu überprüfen:
+Eine Ihrer Antispamrichtlinien wirkte sich auf diese Nachricht aus. Führen Sie die folgenden Schritte aus, um die Richtlinien zu überprüfen:
 
-1. Wechseln Sie zum [Office 365 Security & Compliance Center,](https://go.microsoft.com/fwlink/p/?linkid=2077143)und wechseln Sie dann zu   >    >  ["Antispamrichtlinie](https://go.microsoft.com/fwlink/?linkid=2101518)für die Bedrohungsverwaltung".
-2. Überprüfen Sie, ob **die Richtlinienquelle** Folgendes angibt:  **Add-Xheader/ModifySubject/Redirect/Delete/No action/BCC message**
+1. Wechseln Sie im Microsoft 365 Defender Portal unter <https://security.microsoft.com/> **"E-Mail & Richtlinien** für die Zusammenarbeit & Richtlinien für \>  \> **Bedrohungsregeln** \> **Antispam"** im Abschnitt **"Richtlinien".**
 
-    Wenn ja, überprüfen Sie auf der Registerkarte **"Benutzerdefiniert"** die Einstellungen der Richtlinie, die die Nachricht beeinflusst hat. Es ist möglich, dass die **Standardeinstellungen,** die auf alle Exchange Online Protection Kunden angewendet wurden, die Nachricht betroffen haben.
+   Wechseln Sie direkt zur Seite **Antispamrichtlinien**, verwenden Sie <https://security.microsoft.com/antispam>.
 
-Weitere Informationen zum Konfigurieren von Spamfilterrichtlinien finden Sie unter [Konfigurieren ihrer Spamfilterrichtlinien.](https://go.microsoft.com/fwlink/?linkid=2101431)
+2. Wählen Sie auf der Seite **"Antispamrichtlinien"** die Richtlinie aus, indem Sie auf den Namen der Richtlinie klicken (**Typ** ist **benutzerdefinierte Antispamrichtlinie** oder **Name** ist **Eingehende Antispamrichtlinie (Standard).**
+3. Wählen Sie im angezeigten Flyout "Details" die **Option "Aktionen bearbeiten"** im Abschnitt **"Aktionen"** aus.
+4. Überprüfen Sie im Abschnitt **"Nachrichtenaktionen"** die Bewertungen für **Spam,** **Spam mit hoher Spamwahrscheinlichkeit,** **Phishing** und Phishing mit **hoher Vertrauenswürdigkeit,** um festzustellen, ob einer der folgenden Werte ausgewählt ist:
+   - **X-Header hinzufügen**
+   - **Text in Betreffzeile voranstellen**
+   - **Nachricht an E-Mail-Adresse umleiten**
+   - **Nachricht löschen**
+   - **Keine Aktion**
+
+   Es ist möglich, dass die **Standardeinstellungen** auf alle Exchange Online Protection Kunden angewendet wurden, die die Nachricht betroffen haben.
+
+Weitere Informationen finden Sie unter [Konfigurieren von Antispamrichtlinien in EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).

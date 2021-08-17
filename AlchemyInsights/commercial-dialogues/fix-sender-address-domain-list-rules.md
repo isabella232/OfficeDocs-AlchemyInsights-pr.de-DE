@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf2a36853f53c723ca620487dd1c656ecb188cba9c80def68c793e3d5fbf5f87
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53930024"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896110"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>Beheben Absenderadresse/Domänenlistenregeln
 
-Diese Nachricht wurde durch eine Antispamrichtlinie in Ihrem Mandanten beeinflusst. Der Absender der Nachricht wurde in einer Zulassungs- oder Sperrliste gefunden. Gehen Sie folgendermaßen vor, um die Richtlinie zu überprüfen:
+Eine Ihrer Antispamrichtlinien wirkte sich auf diese Nachricht aus. Der Absender der Nachricht wurde in einer Zulassungs- oder Sperrliste gefunden. Führen Sie die folgenden Schritte aus, um die Richtlinien zu überprüfen:
 
-1. Wechseln Sie zum [Office 365 Security & Compliance Center,](https://go.microsoft.com/fwlink/p/?linkid=2077143)und wechseln Sie dann zu   >    >  ["Antispamrichtlinie](https://go.microsoft.com/fwlink/?linkid=2101518)für die Bedrohungsverwaltung".
-2. Wenn **Standardeinstellungen** aktiviert sind, überprüfen Sie auf der Registerkarte **"Standard"** die **Listen "Zulassen"** und **"Listen blockieren".**
-3. Überprüfen Sie auf der Registerkarte **"Benutzerdefiniert",** wenn die **benutzerdefinierten Einstellungen** aktiviert sind, die Richtlinien, indem Sie **"Richtlinie bearbeiten"** und **"Zulassungslisten"** und **"Listen blockieren"** aktivieren.
+1. Wechseln Sie im Microsoft 365 Defender Portal unter <https://security.microsoft.com/> **"E-Mail & Richtlinien** für die Zusammenarbeit & Richtlinien für \>  \> **Bedrohungsregeln** \> **Antispam"** im Abschnitt **"Richtlinien".**
 
-Weitere Informationen zum Konfigurieren von Spamfilterrichtlinien finden Sie unter [Konfigurieren ihrer Spamfilterrichtlinien.](https://go.microsoft.com/fwlink/?linkid=2101431)
+   Wechseln Sie direkt zur Seite **Antispamrichtlinien**, verwenden Sie <https://security.microsoft.com/antispam>.
+
+2. Wählen Sie auf der Seite **"Antispamrichtlinien"** die Richtlinie aus, indem Sie auf den Namen der Richtlinie klicken (**Typ** ist **benutzerdefinierte Antispamrichtlinie** oder **Name** ist **Eingehende Antispamrichtlinie (Standard).**
+3. Wählen Sie im angezeigten Flyout "Details" im Abschnitt **"Zugelassene und blockierte Absender und Domänen"** die Option "Zulässige **und blockierte Absender und Domänen** bearbeiten" aus.
+4. Überprüfen Sie im Abschnitt **"Zugelassen"** die Absender und Domänen, indem Sie auf **\<nn\> "Absender verwalten"** oder **"Domänen zulassen"** klicken.
+
+Weitere Informationen finden Sie unter [Konfigurieren von Antispamrichtlinien in EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).

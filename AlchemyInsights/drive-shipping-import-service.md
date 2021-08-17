@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11514"
 - "9003046"
-ms.openlocfilehash: 85d6e723e56b01fd9914165d8c9740f3b055947d
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: 1f286896f80a6bbabd4810f10fb0b8284fd13aba
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721692"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58311362"
 ---
 # <a name="drive-shipping-in-the-microsoft-365-import-service"></a>Laufwerkversand im Microsoft 365-Importdienst
 
@@ -34,12 +34,11 @@ So starten Sie die Anfrage:
 
 Hier sind einige Dinge, die Sie beachten sollten:
 
-- Ihnen muss die Rolle für den Postfachimport/-export in Exchange Online zugewiesen sein, um PST-Dateien in Microsoft 365-Postfächer importieren zu können.
-Bei PSTs mit mehr als 20 GB kann die Leistung beeinträchtigt werden.
+- Ihnen muss die Rolle „Postfachimport/-export“ in Exchange Online zugewiesen sein, um PST-Dateien in Microsoft 365-Postfächer zu importieren. Bei PSTs mit mehr als 20 GB kann die Leistung beeinträchtigt werden.
 
 - Nur 2,5-Zoll-Festkörperlaufwerke (SSDs) oder interne 2,5-/3,5-Zoll-SATA II/III-Festplatten werden unterstützt.
 Eine Festplatte, die PST-Dateien enthält, muss mit BitLocker verschlüsselt werden.
 
 - Die Kosten für das Importieren von PST-Dateien in Microsoft 365-Postfächer mithilfe des Laufwerkversands betragen 2 USD pro GB an Daten.
 
-Weitere Informationen zur Verwendung der Laufwerkversandmethode für den Import von PST-Dateien finden Sie unter [Verwenden des Laufwerkversands zum Importieren der PST-Dateien Ihrer Organisation](/microsoft-365/compliance/use-drive-shipping-to-import-pst-files-to-office-365).
+Weitere Informationen zur Verwendung der Laufwerkversandmethode für den Import von PST-Dateien finden Sie unter [Verwenden des Laufwerkversands zum Importieren der PST-Dateien Ihrer Organisation](https://docs.microsoft.com/microsoft-365/compliance/use-drive-shipping-to-import-pst-files-to-office-365).
