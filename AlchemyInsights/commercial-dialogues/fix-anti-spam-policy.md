@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 97ee636a4fe7137b570171b5ffb8ba86dd7d88d4ad3ddd1f823cfb3937c61c5b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5671d8ede9b195f63a5d96767c46b4757d3e887547d31b82c969c36dc974f753
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988258"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898855"
 ---
 # <a name="fix-anti-spam-policy"></a>Beheben von Antispamrichtlinien
 
-Eine benutzerdefinierte Antispamrichtlinie in Ihrem Mandanten wirkte sich auf diese Nachricht aus. Gehen Sie folgendermaßen vor, um die Richtlinie zu überprüfen:
+Eine Ihrer Antispamrichtlinien wirkte sich auf diese Nachricht aus. Führen Sie die folgenden Schritte aus, um die Richtlinie zu überprüfen:
 
-1. Wechseln Sie zum [Office 365 Security & Compliance Center,](https://go.microsoft.com/fwlink/p/?linkid=2077143)und wechseln Sie dann zu   >    >  ["Antispamrichtlinie](https://go.microsoft.com/fwlink/?linkid=2101518)für die Bedrohungsverwaltung".
-2. Wählen Sie auf der Registerkarte **"Benutzerdefiniert"** die **Standard-Spamfilterrichtlinie** oder eine andere benutzerdefinierte Richtlinie aus, die Sie möglicherweise erstellt haben, und wählen Sie dann Richtlinie **bearbeiten** aus.
-3. Erweitern Sie die Option **"Spameigenschaften",** und überprüfen Sie die Einstellungen **"Als Spam markieren".**
+1. Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com/> zu **E-Mail-& Richtlinien** für die Zusammenarbeit & Richtlinien für \>  \> **Bedrohungsregeln** \> **Antispam** im Abschnitt **"Richtlinien".**
 
-Weitere Informationen zum Konfigurieren von Spamfilterrichtlinien finden Sie unter [Konfigurieren benutzerdefinierter Spamfilterrichtlinieneinstellungen.](https://go.microsoft.com/fwlink/?linkid=2101054)
+   Wechseln Sie direkt zur Seite **Antispamrichtlinien**, verwenden Sie <https://security.microsoft.com/antispam>.
+
+2. Wählen Sie auf der Seite **"Antispamrichtlinien"** die Richtlinie aus, indem Sie auf den Namen der Richtlinie klicken (**Typ** ist **benutzerdefinierte Antispamrichtlinie** oder **Name** ist **Eingehende Antispamrichtlinie (Standard).**
+
+3. Klicken Sie im angezeigten Flyout "Details" auf **"Spamschwellenwert bearbeiten" und "Eigenschaften"** im Abschnitt **"Massen-E-Mail & Spameigenschaften",** wählen Sie **"Aktionen bearbeiten"** aus, und überprüfen Sie die Einstellungen **"Als Spam** markieren".
+
+Weitere Informationen finden Sie unter [Konfigurieren von Antispamrichtlinien in EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).

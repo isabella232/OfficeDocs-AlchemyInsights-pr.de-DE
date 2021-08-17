@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 509cd2db33a84f93baf3f53d1ae66aee28c62051
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: a56513d727517a799f0a415b8bcb777cd2b26dec677f1990a6caf4b2090f660b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737196"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058901"
 ---
 # <a name="dkim-domainkeys-identified-mail"></a>DKIM (DomainKeys Identified Mail)
 
-DomainKeys Identified Mail (DKIM) ist ein Protokoll, das es einer Organisation ermöglicht, die Verantwortung für die Übertragung einer Nachricht auf eine Weise zu übernehmen, die von Postfachanbietern überprüft werden kann. Diese Überprüfung wird durch die kryptografische Authentifizierung ermöglicht.
+DomainKeys Identified Mail (DKIM) ist ein Protokoll, mit dem eine Organisation die Verantwortung für die Übertragung einer Nachricht auf eine Weise übernehmen kann, die von Postfachanbietern überprüft werden kann. Diese Überprüfung wird durch kryptografische Authentifizierung ermöglicht.

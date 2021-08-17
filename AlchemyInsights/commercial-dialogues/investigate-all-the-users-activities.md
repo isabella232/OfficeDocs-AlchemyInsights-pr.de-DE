@@ -13,26 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 5375efe4998ee8720867b77a8c9ed60e3eda92e5b00fd3b6e93c0afab09fec2b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d05c8f02efc3bb92865880ea4a2338abaf7d70254f0b4bbfb566423e62b391dd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53949386"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898795"
 ---
 # <a name="investigate-all-the-users-activities"></a>Untersuchen aller Aktivitäten der Benutzer
 
 So gehen Sie wie folgt vor:
 
-1. Wechseln Sie zum [Security & Compliance Center.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Wählen Sie   >  **["Überwachungsprotokollsuche durchsuchen" aus.](https://go.microsoft.com/fwlink/?linkid=2103759)**
+1. Führen Sie eine der folgenden Aktionen aus:
+   - Wechseln Sie im Microsoft 365 Compliance Center unter <https://compliance.microsoft.com> zu **"Lösungsüberwachung".** \>  Oder verwenden Sie , um direkt zur **Seite "Überwachung"** zu <https://compliance.microsoft.com/auditlogsearch> wechseln.
+   - Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com> zu **"Überwachen".** Oder verwenden Sie , um direkt zur **Seite "Überwachung"** zu <https://security.microsoft.com/auditlogsearch> wechseln.
+
     > [!NOTE]
     > Wenn Sie einen Hinweis sehen, dass Sie das Feature aktivieren müssen, fahren Sie fort, und aktivieren Sie es jetzt. Wenn das Feature nicht aktiviert ist, können Suchergebnisse keine Daten aus früheren Datumsangaben abrufen.
 
-1. Wenn Sie an einer bestimmten Aktivität interessiert sind, wählen Sie sie aus der **Liste "Aktivitäten"** aus. Wenn nicht, werden standardmäßig alle Aktivitäten für den ausgewählten Benutzer zurückgegeben.
-1. Geben Sie den Datumsbereich an, und wählen Sie dann im Feld **"Benutzer"** den Benutzernamen für den Benutzer aus, den Sie untersuchen möchten. Sie können mehrere Benutzer gleichzeitig auswählen.
-1. Klicken Sie auf **Suchen**. Die Aktivitäten werden unter **Ergebnisse** angezeigt. Sie sehen die IP-Adresse, den Benutzer und den Aktivitätsnamen.
-1. Um die Ergebnisse herunterzuladen, wählen Sie **"Ergebnisse exportieren"** aus.
-1. Wählen Sie zum Überprüfen der Details die Aktivität aus, und erweitern Sie dann **weitere Informationen.**
+2. Konfigurieren Sie auf der Registerkarte **"Suchen"** der **Überwachungsseite** die folgenden Einstellungen:
+   - **Datums- und Uhrzeitbereich:** Wählen Sie den Datums-/Uhrzeitbereich in den Feldern **Start** und Ende aus. 
+   - **Aktivitäten:** Wenn Sie an einer bestimmten Aktivität interessiert sind, wählen Sie sie aus der Liste aus. andernfalls gibt der Standardwert **"Ergebnisse für alle Aktivitäten anzeigen"** alle Aktivitäten zurück.
+   - **Benutzer:** Akzeptieren Sie den leeren Standardwert, um Ergebnisse für alle Benutzer zurückzugeben, oder geben Sie einen oder mehrere Benutzer ein.
 
-Weitere Informationen finden Sie unter [Durchsuchen des Überwachungsprotokolls, um häufige Szenarien zu behandeln.](https://go.microsoft.com/fwlink/?linkid=2103944)
+3. Wenn Sie fertig sind, klicken Sie auf **Suchen.** Die Aktivitäten werden auf der neuen **Überwachungssuchseite** angezeigt. Es werden die **IP-Adresse,** **der Benutzer** und der **Aktivitätsname** angezeigt.
+
+4. Um die Ergebnisse  herunterzuladen, wählen Sie \> **"Alle Ergebnisse herunterladen"** aus.
+
+5. Wählen Sie eine Aktivität in den Ergebnissen aus, um das Detail-Flyout zu öffnen.
+
+Weitere Informationen finden Sie unter [Durchsuchen des Überwachungsprotokolls, um allgemeine Supportprobleme zu untersuchen.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)
