@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11084"
 - "9003537"
-ms.openlocfilehash: a53a0109c3b974806d04135dd2c102de81ec560f
-ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
+ms.openlocfilehash: cefebe63e45caab176ba84a35280378ace7e6b3115c48694ed043a39b4d93c1e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52627245"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890053"
 ---
 # <a name="defender-endpoint-check-sensor-status"></a>Defender-Endpunkt – Überprüfen Sie den Sensorstatus
 
@@ -35,11 +35,11 @@ Wenn Sie auf eine der Gruppen klicken, werden Sie zur Liste "Geräte" umgeleitet
 - **Falsch konfigurierte** Geräte, die sensorische Daten möglicherweise nur teilweise beim Defender für Endpunkt-Dienst melden, die jedoch Konfigurationsfehler haben, die behoben werden müssen. Falsch konfigurierte Geräte können entweder eins oder eine Mischung aus den folgenden Probleme haben:
 
     - Keine Sensordaten – Die Geräte haben aufgehört, Sensordaten zu senden. Das Gerät kann begrenzt Alarme auslösen.
-    - Eingeschränkte Kommunikation – Die Kommunikation mit dem Gerät ist beeinträchtigt. Dateien zur tiefen Analyse senden, Dateien sperren, das Gerät vom Netzwerk isolieren und andere Aktionen, die eine Kommunikation mit dem Gerät erfordern, funktionieren möglicherweise nicht.
+    - Beeinträchtigte Kommunikation – Die Fähigkeit, mit dem Gerät zu kommunizieren, ist beeinträchtigt. Dateien zur tiefen Analyse senden, Dateien sperren, das Gerät vom Netzwerk isolieren und andere Aktionen, die eine Kommunikation mit dem Gerät erfordern, funktionieren möglicherweise nicht.
 - **Inaktive** Geräte, die keine Meldungen an den Defender für Endpunkt-Dienst mehr senden.
 
 Sie können die gesamte Liste im CSV-Format mithilfe der Exportfunktion herunterladen.
 
-Weitere Informationen finden Sie unter [Überprüfen des Integritätsstatus des Sensor in Microsoft Defender für Endpunkt](/microsoft-365/security/defender-endpoint/check-sensor-status).
+Weitere Informationen finden Sie unter [Überprüfen des Integritätsstatus des Sensor in Microsoft Defender für Endpunkt](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/check-sensor-status).
 
-Weitere Informationen darüber, was dazu geführt hat, dass ein Gerät inaktiv oder falsch konfiguriert war, finden Sie unter [Beheben fehlerhafter Sensoren in Microsoft Defender für Endpunkt](/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors).
+Weitere Informationen darüber, was dazu geführt hat, dass ein Gerät inaktiv oder falsch konfiguriert war, finden Sie unter [Beheben fehlerhafter Sensoren in Microsoft Defender für Endpunkt](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors).

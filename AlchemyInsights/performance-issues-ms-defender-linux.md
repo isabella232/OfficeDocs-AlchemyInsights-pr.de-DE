@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "11491"
 - "9001464"
-ms.openlocfilehash: 268f44640d3b2d8764133560d0cbf500eb4afd22
-ms.sourcegitcommit: 8242a824491f64be48dfe81da09766920fbd7feb
+ms.openlocfilehash: 26ad9631111c250fd8b9ec32d4a6122f37f82513b7542231e402317aea4949dd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52783434"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899399"
 ---
 # <a name="performance-issues-for-microsoft-defender-for-endpoint-on-linux"></a>Leistungsprobleme bei Microsoft Defender für Endpunkt unter Linux
 
 Dieser Artikel führt Sie durch die Schritte zum Identifizieren von Leistungsproblemen bei Microsoft Defender für Endpunkt unter Linux.
 
-Es ist wichtig zuerst zu überprüfen, ob das Problem mit der [aktuellsten Version](/microsoft-365/security/defender-endpoint/linux-whatsnew) behoben wurde. 
+Es ist wichtig zuerst zu überprüfen, ob das Problem mit der [aktuellsten Version](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/linux-whatsnew) behoben wurde. 
 
-Informationen zum Starten Ihrer Untersuchung finden Sie unter [Behandeln von Leistungsproblemen bei Microsoft Defender für Endpunkt unter Linux](/microsoft-365/security/defender-endpoint/linux-support-perf).
+Informationen zum Starten Ihrer Untersuchung finden Sie unter [Behandeln von Leistungsproblemen bei Microsoft Defender für Endpunkt unter Linux](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/linux-support-perf).
 
 ## <a name="exclusions"></a>Ausschlüsse
 
 Ausschlüsse können zur Entschärfung von Leistungsproblemen beitragen. Überprüfen Sie Ihre Ausschlüsse, bevor Sie beginnen, damit zusätzliche Risiken bekannt und dokumentiert sind.
 
-Weitere Informationen finden Sie unter [Konfigurieren und Überprüfen von Ausschlüssen für Microsoft Defender für Endpunkt unter Linux](/microsoft-365/security/defender-endpoint/linux-exclusions).
+Weitere Informationen finden Sie unter [Konfigurieren und Überprüfen von Ausschlüssen für Microsoft Defender für Endpunkt unter Linux](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/linux-exclusions).
 
 Wenn Sie mehrere Dateien und Ordner ausschließen möchten und diese sich alle am selben Bereitstellungspunkt befinden, könnte es einfacher sein, den Bereitstellungspunkt auszuschließen. Beginnend mit der Februar-Version 101.22.80 können Sie einen gesamten Bereitstellungspunkt ausschließen.
 

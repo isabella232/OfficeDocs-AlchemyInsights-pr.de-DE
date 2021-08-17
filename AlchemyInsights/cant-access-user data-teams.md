@@ -1,5 +1,5 @@
 ---
-title: Zugriff auf Benutzerdaten über das Microsoft Teams Admin Center
+title: Zugriff auf Benutzerdaten über das Microsoft Teams Admin Center nicht möglich
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "11116"
 - "9000701"
-ms.openlocfilehash: 30c327fde0930f00cde8a1a6785295f7ec20a737
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: 55c6ac4de6f6d00e76b5f5257c823108f324d994bd2a926cd52ba6dfa6158b4a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52107521"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059333"
 ---
-# <a name="cant-access-user-data-via-the-microsoft-teams-admin-center"></a>Zugriff auf Benutzerdaten über das Microsoft Teams Admin Center
+# <a name="cant-access-user-data-via-the-microsoft-teams-admin-center"></a>Zugriff auf Benutzerdaten über das Microsoft Teams Admin Center nicht möglich
 
-Möglicherweise werden Fehler angezeigt, z. B.: "Wir können derzeit nicht alle Benutzer laden", "Wir können das Aktivitätsprotokoll nicht erhalten", und "Wir können derzeit keine Richtlinien erhalten" beim Zugriff auf Daten im Teams Admin Center. Versuchen Sie, auf Daten zu zugreifen, indem Sie den Browsercache löschen, die Benutzerprofilsitzung ihres Browsers abschreiben und neu starten oder indem Sie das Browserfenster in InPrivate verwenden. 
+Möglicherweise werden Fehler angezeigt, z. B.: "Wir können derzeit nicht alle Benutzer laden", "Wir können das Aktivitätsprotokoll nicht abrufen" und "Wir können derzeit keine Richtlinien abrufen" beim Zugriff auf Daten in Teams Admin Center. Versuchen Sie, auf Daten zuzugreifen, indem Sie den Browsercache löschen, sich von der Browserbenutzerprofilsitzung abmelden und neu starten, oder indem Sie das InPrivate-Fenster browsen. 
 
-Weitere Informationen finden Sie unter Administratoren können nicht zeitweise über das Microsoft Teams [auf Benutzerdaten zugreifen.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-administration/cannot-access-admin-center)
+Weitere Informationen finden Sie unter Administratoren, die [zeitweise nicht über das Microsoft Teams Admin Center auf Benutzerdaten zugreifen können.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-administration/cannot-access-admin-center)

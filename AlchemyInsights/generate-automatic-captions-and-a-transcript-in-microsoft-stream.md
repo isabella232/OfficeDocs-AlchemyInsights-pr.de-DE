@@ -1,5 +1,5 @@
 ---
-title: Generieren automatischer Beschriftungen und einer Aufzeichnung in Microsoft Stream
+title: Generieren automatischer Beschriftungen und einer Transkription in Microsoft Stream
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001699"
 - "3777"
-ms.openlocfilehash: 033c479cd31c5028b00b2ffe64d63fea2762f3fc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 37d0194ab8e5def8a9cb9dabe629ecbbf95118160aebc85f734a838cdc0c1893
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812381"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116871"
 ---
-# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Generieren automatischer Beschriftungen und einer Aufzeichnung in Microsoft Stream
+# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Generieren automatischer Beschriftungen und einer Transkription in Microsoft Stream
 
-Stream kann beschriftungen automatisch mithilfe der Technologie für die automatische Spracherkennung generieren, und Sie können ein Bildlaufaufzeichnungsfenster anzeigen, um mit dem gesprochenen Inhalt eines Videos einfach zu navigieren und zu folgen.
+Stream kann Untertitel automatisch mithilfe der automatischen Spracherkennungstechnologie generieren, und Sie können ein Bildlauf-Transkriptfenster anzeigen, um einfach zu navigieren und den gesprochenen Inhalten eines Videos zu folgen.
 
 - [Automatisches Generieren von Liveuntertiteln und eines Transkripts für Ihre Microsoft Stream-Videos](https://docs.microsoft.com/stream/portal-autogenerate-captions)
 
-- [Anzeigen eines Bildlaufaufzeichnungsfensters für ein Video in Microsoft Stream](https://docs.microsoft.com/stream/portal-configure-transcript-mode)
+- [Anzeigen eines Bildlauf-Transkriptfensters für ein Video in Microsoft Stream](https://docs.microsoft.com/stream/portal-configure-transcript-mode)
