@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 989f359e5b39454189f3decd31834b12b62a66d4e794eb9e2977173effb80b60
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a15acbe1b612a5686d7dc87e9348865aaace44491c9af25c6dda470492fd06c6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54015151"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893274"
 ---
 # <a name="how-to-verify-your-domain"></a>So überprüfen Sie Ihre Domäne
 
 Um eine Domäne zu überprüfen, folgen Sie dem Assistenten zum Hinzufügen von [Domänen,](https://admin.microsoft.com/Adminportal#/Domains/Wizard)oder wechseln Sie manuell zu   >  **"Domänen**  >  **hinzufügen"**.
 
-Weitere Informationen zu DNS-Änderungen, die zum Überprüfen Ihrer Domäne erforderlich sind, finden Sie in den Anweisungen unter [Hinzufügen von DNS-Einträgen zum Verbinden Ihrer Domäne.](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+Weitere Informationen zu DNS-Änderungen, die zum Überprüfen Ihrer Domäne erforderlich sind, finden Sie in den Anweisungen unter [Hinzufügen von DNS-Einträgen zum Verbinden Ihrer Domäne.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
 
-Weitere Domänenfragen finden Sie in den [häufig gestellten Fragen zu Domänen.](/microsoft-365/admin/setup/domains-faq)
+Weitere Domänenfragen finden Sie in den [häufig gestellten Fragen zu Domänen.](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)

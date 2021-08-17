@@ -16,19 +16,19 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 6db785eb860498dacc4330f8e3e4558e58da0fe82b2701ffce8abe615678275a
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 31b3cfed4b5cadd2b5b2290fc8ed6e203225a0235be141140b5ecbd01efc2f98
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501599"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892686"
 ---
 # <a name="declined-credit-card"></a>Abgelehnte Kreditkarte
 
 Wenn Sie mit Kreditkarte bezahlen und Ihre Kreditkarte abgelehnt wird, erhalten Sie eine E-Mail, in der Sie darüber informiert werden, dass wir die Zahlung nicht verarbeiten konnten. Überprüfen Sie, ob die [Kreditkartendetails](https://go.microsoft.com/fwlink/p/?linkid=842054) – Kartennummer, Ablaufdatum, Name auf der Kreditkarte und Adresse, einschließlich Stadt, Bundesland und POSTLEITZAHL – genau wie auf der Kreditkarte und Ihrer Kreditkartenabrechnung angezeigt werden. Sie können Ihre Kreditkarteninformationen aktualisieren und die Zahlung sofort übermitteln, indem Sie die Option **"Saldo ausgleichen"** auf der Seite **"Abrechnung**  >  [Für Ihre Produkte"](https://go.microsoft.com/fwlink/p/?linkid=842054) verwenden.
 
-Weitere Informationen finden Sie unter "Was geschieht, wenn meine Kreditkarte abgelaufen ist und meine Zahlung überfällig ist?" in [Pay for your Microsoft 365 for Business subscription](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
+Weitere Informationen finden Sie unter "Was geschieht, wenn meine Kreditkarte abgelaufen ist und meine Zahlung überfällig ist?" in [Pay for your Microsoft 365 for Business subscription](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   
 Wenn die Kreditkarte dann immer noch abgelehnt wird, wenden Sie sich an Ihre Bank. Es ist möglich, dass Ihre Kreditkarte nicht aktiv ist - beispielsweise, wenn Sie die Kreditkarte mit einem aktualisierten Ablaufdatum vor Kurzem per Post erhalten haben, müssen Sie sie möglicherweise noch aktivieren. Von Ihrer Bank können Sie außerdem erfahren, ob Ihre Kreditkarte nicht für Online-, internationale oder wiederkehrende Transaktionen zugelassen ist.  
   
-Weitere Informationen finden Sie unter [Verwalten von Zahlungsmethoden.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Weitere Informationen finden Sie unter [Verwalten von Zahlungsmethoden.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)

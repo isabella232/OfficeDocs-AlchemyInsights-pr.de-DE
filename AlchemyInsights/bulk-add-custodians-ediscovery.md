@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "12623"
-ms.openlocfilehash: 3af333712cd7b269bd2ec61e1912d14fd38d2ac501831f210cd0ef68f987f560
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: da394ca319a6adaaf0e4c450008cee66ff59da3721dcde2df515a6140095b61a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54504049"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892978"
 ---
 # <a name="bulk-add-custodians-in-advanced-ediscovery"></a>Massenhinzufügen von Verwahrer in Advanced eDiscovery
 
- Um Verwahrer in Advanced eDiscovery massenweise hinzuzufügen, importieren Sie mehrere Verwahrer auf einmal, indem Sie eine CSV-Datei verwenden, welche die erforderlichen Informationen zum Hinzufügen der Verwahrer zu einem Fall enthält. Gehen Sie wie folgt vor:
+ Zum Massenhinzufügen von Verwahrern in Advanced eDiscovery importieren Sie mehrere Verwahrer gleichzeitig mithilfe einer CSV-Datei, die die Informationen enthält, die zum Hinzufügen der Verwahrer zu einem Fall erforderlich sind. Führen Sie die folgenden Schritte aus:
 
 1. Wechseln Sie zum [Microsoft 365 Compliance Center](https://compliance.microsoft.com/) > **eDiscovery** > **Advanced eDiscovery**, und wählen Sie Ihren eDiscovery-Fall aus.
 
@@ -30,5 +30,5 @@ ms.locfileid: "54504049"
 
 1. Führen Sie die Schritte im Assistenten aus, um Verwahrer massenweise hinzuzufügen.
 
-Weitere Informationen zum Importieren von Verwahrern finden Sie unter [Importieren von Verwahrern zu einem Advanced eDiscovery-Fall](/microsoft-365/compliance/bulk-add-custodians).
+Weitere Informationen zum Importieren von Verwahrern finden Sie unter [Importieren von Verwahrern zu einem Advanced eDiscovery-Fall](https://docs.microsoft.com/microsoft-365/compliance/bulk-add-custodians).
 

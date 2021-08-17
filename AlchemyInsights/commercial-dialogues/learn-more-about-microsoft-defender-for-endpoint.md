@@ -1,5 +1,5 @@
 ---
-title: Weitere Informationen zu Microsoft Defender for Endpoint
+title: Weitere Informationen zu Microsoft Defender für Endpunkt
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 2b2a425904c63ea627332c36d67cc2b902571ee3
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 891ed9f226cfab2882554e68c24f675c11f54c1aea2802f3851d42630af80df8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737075"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081897"
 ---
-# <a name="learn-more-about-microsoft-defender-for-endpoint"></a>Weitere Informationen zu Microsoft Defender for Endpoint
+# <a name="learn-more-about-microsoft-defender-for-endpoint"></a>Weitere Informationen zu Microsoft Defender für Endpunkt
 
-Microsoft Defender for Endpoint ist eine Plattform, mit der Unternehmensnetzwerke erweiterte Bedrohungen verhindern, erkennen, untersuchen und darauf reagieren können.
+Microsoft Defender für Endpunkt ist eine Plattform, die Unternehmensnetzwerke dabei unterstützt, fortgeschrittene Bedrohungen zu verhindern, zu erkennen, zu untersuchen und darauf zu reagieren.
 
-- Microsoft Defender für Office 365 und Microsoft Defender for Endpoint bieten unterschiedliche Funktionen:
-  - **Defender für Office 365** überwacht E-Mails sowie alltägliche Tools für die Zusammenarbeit, z. B. SharePoint, One Drive und Teams.
-  - **Defender for Endpoint schützt** Geräte, die Endpunkten zugeordnet sind, und hilft bei der Identifizierung von Angriffen, die den Schutz vor Sicherheitsverletzungen über die Vorverletzungsabwehr stellen.
-- Weitere Informationen zu Defender for Endpoint oder zum Starten einer kostenlosen Testversion finden Sie unter [Microsoft Defender for Endpoint](https://go.microsoft.com/fwlink/?linkid=2094113).
+- Microsoft Defender für Office 365 und Microsoft Defender für Endpunkt bieten unterschiedliche Funktionen:
+  - **Defender für Office 365** überwacht E-Mails zusammen mit alltäglichen Tools für die Zusammenarbeit wie SharePoint, One Drive und Teams.
+  - **Defender für Endpunkt** schützt Geräte, die Endpunkten zugeordnet sind, und hilft bei der Identifizierung von Angriffen, die den Schutz vor der Verletzung vermeinern.
+- Weitere Informationen zu Defender für Endpunkt oder zum Starten einer kostenlosen Testversion finden Sie unter [Microsoft Defender für Endpunkt.](https://go.microsoft.com/fwlink/?linkid=2094113)

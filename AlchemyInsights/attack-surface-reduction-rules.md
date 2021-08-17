@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "11228"
 - "9005470"
-ms.openlocfilehash: 0f2e3d2d2cfa205f95a5d5dc84f7293fbee165a2976248de75a96379becd6925
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1eb0d949693916d1192fb75132207cd6a52e75840899e57c089a5f5aaca3ca88
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54072195"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893134"
 ---
 # <a name="attack-surface-reduction-rules"></a>Regeln zur Verringerung der Angriffsfläche
 
 Das Ausschließen von Dateien oder Ordnern kann den Schutz durch Regeln zur Verringerung der Angriffsfläche erheblich beeinträchtigen. Dateien, die durch eine Regel blockiert worden wären, dürfen ausgeführt werden, und es wird kein Bericht oder Ereignis aufgezeichnet. Ein Ausschluss gilt für alle Regeln, die Ausschlüsse zulassen.
 
-ASR-Ausschlüsse verwenden dieselbe Syntax wie Microsoft Defender Antivirus-Ausschlüsse. Weitere Informationen finden Sie unter [Konfigurieren und Überprüfen von Ausschlüssen für Microsoft Defender Antivirus-Scans](/microsoft-365/security/defender-endpoint/configure-exclusions-microsoft-defender-antivirus). Um Probleme zu vermeiden, lesen Sie [Häufige Fehler, die beim Festlegen von Ausschlüssen vermieden werden sollten](/microsoft-365/security/defender-endpoint/common-exclusion-mistakes-microsoft-defender-antivirus).
+ASR-Ausschlüsse verwenden dieselbe Syntax wie Microsoft Defender Antivirus-Ausschlüsse. Weitere Informationen finden Sie unter [Konfigurieren und Überprüfen von Ausschlüssen für Microsoft Defender Antivirus-Scans](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/configure-exclusions-microsoft-defender-antivirus). Um Probleme zu vermeiden, lesen Sie [Häufige Fehler, die beim Festlegen von Ausschlüssen vermieden werden sollten](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/common-exclusion-mistakes-microsoft-defender-antivirus).
 
-Nicht alle ASR-Regeln unterstützen Ausschlüsse. Informationen zur Überprüfung, ob Ihre Regel Ausschlüsse unterstützt, finden Sie in der Tabelle [Regeln zur Verringerung der Angriffsfläche](/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules).
+Nicht alle ASR-Regeln unterstützen Ausschlüsse. Informationen zur Überprüfung, ob Ihre Regel Ausschlüsse unterstützt, finden Sie in der Tabelle [Regeln zur Verringerung der Angriffsfläche](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules).
 
 ## <a name="attack-surface-reduction-rules"></a>Regeln zur Verringerung der Angriffsfläche
 
@@ -34,11 +34,11 @@ Die Angriffsfläche Ihrer Organisation enthält alle Stellen, an denen ein Angre
 
 Weitere Informationen finden Sie unter:
 
-- [Zuordnen des ASR-Regel-GUID zu Namen](/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules)
+- [Zuordnen des ASR-Regel-GUID zu Namen](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules)
 - Voraussetzungen der ASR-Regeln:
-    - [Windows 10, Version 1709 oder höher](/windows/whats-new/whats-new-windows-10-version-1709)
-    - [Windows 10 Enterprise, Version 1709 oder höher](/windows/whats-new/whats-new-windows-10-version-1709)
-    - [Windows Server, Version 1803 (halbjährlicher Kanal) oder höher](/windows-server/get-started/whats-new-in-windows-server-1803)
+    - [Windows 10, Version 1709 oder höher](https://docs.microsoft.com/windows/whats-new/whats-new-windows-10-version-1709)
+    - [Windows 10 Enterprise, Version 1709 oder höher](https://docs.microsoft.com/windows/whats-new/whats-new-windows-10-version-1709)
+    - [Windows Server, Version 1803 (halbjährlicher Kanal) oder höher](https://docs.microsoft.com/windows-server/get-started/whats-new-in-windows-server-1803)
 
 ## <a name="identify-the-correct-exclusion-to-apply"></a>Identifizieren Sie den richtigen, anzuwendenden Ausschluss.
 
@@ -50,15 +50,15 @@ Weitere Informationen finden Sie unter:
     - Machen Sie den Ausschluss so streng wie möglich.
     - Wenden Sie bei Bedarf einen Platzhalter an (ersetzen Sie beispielsweise die Benutzervariable).
 
-1. Wenden Sie den Ausschluss entsprechend Ihren Bereitstellungsanforderungen an. Weitere Informationen finden Sie unter [Anpassen der Regeln zur Verringerung der Angriffsfläche](/microsoft-365/security/defender-endpoint/customize-attack-surface-reduction).
+1. Wenden Sie den Ausschluss entsprechend Ihren Bereitstellungsanforderungen an. Weitere Informationen finden Sie unter [Anpassen der Regeln zur Verringerung der Angriffsfläche](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/customize-attack-surface-reduction).
 
 ## <a name="exclusion-is-not-honored"></a>Ausschluss wird nicht anerkannt
 
-1. Bestimmen Sie, ob die Regel Ausschlüsse unterstützt. Weitere Informationen finden Sie unter [Anpassen der Regeln zur Verringerung der Angriffsfläche](/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules).
+1. Bestimmen Sie, ob die Regel Ausschlüsse unterstützt. Weitere Informationen finden Sie unter [Anpassen der Regeln zur Verringerung der Angriffsfläche](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules).
 
-1. Überprüfen Sie die angewendeten Ausschlüsse und überprüfen Sie anhand der Ereignisdaten, ob Tippfehler oder falsch interpretierte Platzhalter vorhanden sind. Weitere Informationen finden Sie unter [Unterstützte Ausschlusstypen](/microsoft-365/security/defender-endpoint/mac-exclusions#supported-exclusion-types)
+1. Überprüfen Sie die angewendeten Ausschlüsse und überprüfen Sie anhand der Ereignisdaten, ob Tippfehler oder falsch interpretierte Platzhalter vorhanden sind. Weitere Informationen finden Sie unter [Unterstützte Ausschlusstypen](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/mac-exclusions#supported-exclusion-types)
 
-1. Wenn die Auswirkung der Regel zu hoch ist, sollten Sie die Regel (zurück) in den Überwachungsmodus verschieben, um eine weitere Validierung durchzuführen. Weitere Informationen finden Sie unter [Testen der Funktionalität der Features von Microsoft Defender für Endpunkte im Überwachungsmodus](/microsoft-365/security/defender-endpoint/audit-windows-defender).
+1. Wenn die Auswirkung der Regel zu hoch ist, sollten Sie die Regel (zurück) in den Überwachungsmodus verschieben, um eine weitere Validierung durchzuführen. Weitere Informationen finden Sie unter [Testen der Funktionalität der Features von Microsoft Defender für Endpunkte im Überwachungsmodus](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/audit-windows-defender).
 
 1. Sammeln Sie Supportdaten, um einen Supportfall mit diesem Befehl zu öffnen:
     
