@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: d36d6c418d405be9acf31bc17f7da511a4941cc790353812dce2f088a2d19604
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029731"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895886"
 ---
 # <a name="expired-subscription"></a>Abgelaufenes Abonnement
 
@@ -35,7 +35,7 @@ Es scheint, dass Sie über ein oder mehrere abgelaufene Abonnements verfügen. W
 3. Wählen Sie im Bereich **Dieses Abonnement reaktivieren** eine Zahlungsmethode aus der Dropdownliste aus, oder wählen Sie **Zahlungsmethode hinzufügen** aus.
 4. Klicken Sie auf **Speichern**.
 
-Weitere Informationen finden Sie unter [Reaktivieren Ihres Abonnements](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Weitere Informationen finden Sie unter [Reaktivieren Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Tätigen eines neuen Kaufs**
   
@@ -44,4 +44,4 @@ Weitere Informationen finden Sie unter [Reaktivieren Ihres Abonnements](/microso
 3. Geben Sie die Anzahl der benötigten Lizenzen ein, und wählen Sie aus, ob Sie jeden Monat oder das ganze Jahr bezahlen möchten. Wählen Sie aus, ob Sie Lizenzen automatisch allen Benutzern zuweisen möchten, die derzeit nicht über eine Lizenz verfügen. Klicken Sie dann auf **"Jetzt auschecken".**
 4. Führen Sie die verbleibenden Schritte aus, um das Auschecken abzuschließen.
 
-Weitere Informationen finden Sie unter ["Kaufen eines anderen Abonnements".](/microsoft-365/commerce/buy-another-subscription)
+Weitere Informationen finden Sie unter ["Kaufen eines anderen Abonnements".](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription)

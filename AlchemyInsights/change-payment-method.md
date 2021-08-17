@@ -15,12 +15,12 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f540989ca78e7a367bc3a7dfdbb2acd9ce06e0b0db23d1b4f05835ae0061c113
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: f9c00baebd563b2a3e6a8d742432349fe0e623d07794530785591daf1a9bd9ca
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500015"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895490"
 ---
 # <a name="change-payment-method"></a>Ändern der Zahlungsmethode
 
@@ -36,6 +36,6 @@ Sie können die Zahlungsmethode aus dem **Microsoft 365 Admin Center** ändern.
 6. Geben Sie im Bereich **Zahlungsmethode hinzufügen** die Kontoinformationen ein und wählen Sie dann **Speichern** aus. Sie müssen eine Zahlungsmethode aus dem gleichen Land wie Ihr Mandant verwenden.
 7. Die neue Zahlungsmethode ist bereits in der Dropdownliste ausgewählt. Wählen Sie **Ersetzen**.
 
-Informationen zum Hinzufügen, Aktualisieren, Ersetzen oder Löschen von Zahlungsmethoden finden Sie unter [Verwalten von Zahlungsmethoden.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Informationen zum Hinzufügen, Aktualisieren, Ersetzen oder Löschen von Zahlungsmethoden finden Sie unter [Verwalten von Zahlungsmethoden.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-Informationen zum Wechseln zwischen Zahlungsmethoden finden Sie unter [So bezahlen Sie für Ihr Abonnement.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Informationen zum Wechseln zwischen Zahlungsmethoden finden Sie unter [So bezahlen Sie für Ihr Abonnement.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
