@@ -1,5 +1,5 @@
 ---
-title: E-Mail-Weiterleitungsbericht
+title: Bericht über automatisch weitergeleitete Nachrichten
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,14 @@ ms.custom:
 - "1195"
 - "1200004"
 ms.assetid: b8308c24-029f-43ab-af84-0ac97e6ff9d7
-ms.openlocfilehash: 6ec48c625ad183b34cb9dd665e5275c0c6c23b075233fcee4712404ab8f37284
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f501b9c74b7480a706def72dd60fa9012c98318b1ef590a5c4c9c17d707d5240
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54030127"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891450"
 ---
-# <a name="email-forwarding-report"></a>E-Mail-Weiterleitungsbericht
+# <a name="auto-forwarded-messages-report"></a>Bericht über automatisch weitergeleitete Nachrichten
 
-Wenn Sie einen Bericht über die Anzahl der automatisch weitergeleiteten Nachrichten in Ihrer Organisation anzeigen möchten, lesen Sie [Einblick in automatisch weitergeleitete Nachrichten im Security & Compliance Center](https://docs.microsoft.com/microsoft-365/security/office-365-security/mfi-auto-forwarded-messages-report) im [Microsoft 365 Security &amp; Compliance Center](https://protection.office.com/#/homepage).
-  
-Hinweis: Wenn Sie sich zum ersten Mal beim Security &amp; Compliance Center anmelden, müssen Sie möglicherweise nach ein paar Minuten den Browser aktualisieren, damit alle verfügbaren Optionen angezeigt werden.
+Informationen dazu, wie viele automatisch weitergeleitete Nachrichten in Ihrer Organisation vorhanden sind, finden Sie im Bericht [Automatisch weitergeleitete Nachrichten](https://docs.microsoft.com/exchange/monitoring/mail-flow-reports/mfr-auto-forwarded-messages-report) im Exchange Admin Center (EAC) unter <https://admin.exchange.microsoft.com/> \> **Berichte** \> **Nachrichtenfluss**. Oder verwenden Sie <https://admin.exchange.microsoft.com/#/reports/autoforwardedmessages>, um direkt zur Seite **Automatisch weitergeleitete Nachrichten** zu wechseln.
   

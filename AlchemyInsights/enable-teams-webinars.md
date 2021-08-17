@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11513"
 - "9006672"
-ms.openlocfilehash: a56abdaae182b840a1a96466e0581ef49b2b0075
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: e0c2b4fd09282cba72361372045ef0074ca9bd95e33b7447ae59c5fa8f489062
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688973"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891414"
 ---
 # <a name="enable-teams-webinars"></a>Aktivieren von Teams-Webinaren
 
-Die Registrierung für das Webinar ist standardmäßig aktiviert. Wenn Sie die Besprechungsregistrierung deaktivieren möchten, können Sie das Microsoft Teams Admin Center verwenden: 
+Die Webinarregistrierung ist standardmäßig aktiviert. Wenn Sie die Besprechungsregistrierung deaktivieren möchten, können Sie das Microsoft Teams Admin Center verwenden: 
 
-1. Navigieren Sie zum [Microsoft Teams Admin Center](https://admin.teams.microsoft.com/policies/meetings). 
+1. Navigieren Sie zum [Teams Admin Center](https://admin.teams.microsoft.com/policies/meetings). 
 
 2. Wählen Sie die **Globale Richtlinie (organisationsweiter Standard)** oder eine andere spezifische Richtlinie aus. 
 
@@ -32,12 +32,12 @@ Die Registrierung für das Webinar ist standardmäßig aktiviert. Wenn Sie die B
 
 Wenn die Besprechungsregistrierung auf **Ein** festgelegt ist, können Sie auch über das Microsoft Teams Admin Center verwalten, wer sich für Microsoft Teams-Webinare registriert: 
 
-1. Navigieren Sie zum [Microsoft Teams Admin Center](https://admin.teams.microsoft.com/policies/meetings). 
+1. Navigieren Sie zum [Teams Admin Center](https://admin.teams.microsoft.com/policies/meetings). 
 
 2. Wählen Sie die **Globale Richtlinie (organisationsweiter Standard)** oder eine andere spezifische Richtlinie aus. 
 
 3. Navigieren Sie unter **Allgemein** zur Einstellung **Wer kann sich registrieren**, und wählen Sie entweder **Alle** oder **Alle im Unternehmen** aus. 
 
-**Hinweis**: Wenn die anonyme Teilnahme in den Besprechungseinstellungen deaktiviert ist, können anonyme Benutzer nicht an Webinaren teilnehmen. Weitere Informationen zum Aktivieren dieser Einstellung finden Sie unter  [Verwalten von Besprechungseinstellungen in Microsoft Teams](/microsoftteams/meeting-settings-in-teams). 
+**Hinweis**: Wenn die anonyme Teilnahme in den Besprechungseinstellungen deaktiviert ist, können anonyme Benutzer nicht an Webinaren teilnehmen. Weitere Informationen zum Aktivieren dieser Einstellung finden Sie unter  [Verwalten von Besprechungseinstellungen in Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams). 
 
-Weitere Informationen zum Konfigurieren, wer sich für Webinare registrieren kann, und zum Verwalten dieser Richtlinien mithilfe von Teams PowerShell finden Sie unter [Konfigurieren, wer sich für Webinare registrieren kann](/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars). Weitere Informationen zu den Einstellungen für Microsoft Listen finden Sie unter  [Steuerelementeinstellungen für Microsoft Listen](/sharepoint/control-lists). 
+Weitere Informationen zum Konfigurieren, wer sich für Webinare registrieren kann, und zum Verwalten dieser Richtlinien mithilfe von Teams PowerShell finden Sie unter [Konfigurieren, wer sich für Webinare registrieren kann](https://docs.microsoft.com/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars). Weitere Informationen zu den Einstellungen für Microsoft Listen finden Sie unter  [Steuerelementeinstellungen für Microsoft Listen](https://docs.microsoft.com/sharepoint/control-lists). 
