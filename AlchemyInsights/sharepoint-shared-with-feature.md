@@ -14,15 +14,15 @@ ms.assetid: ''
 ms.custom:
 - "9000192"
 - "12469"
-ms.openlocfilehash: ce9491c2553a3658ac31905e5c49d0b13cdad654
-ms.sourcegitcommit: 380ee556007d2be389b1a99795bca04bc1f9f60f
+ms.openlocfilehash: 201ec54b870a5f4c169e7e85c759d0e23cbfd7cd6dbe61e43eb0c6b536510e20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53604931"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084994"
 ---
 # <a name="sharepoint-shared-with-feature"></a>SharePoint Funktion "Freigegeben mit"
 
 Sie können jederzeit sehen, für wen ein OneDrive für Arbeit, Schule, SharePoint oder Teams Datei oder Ordner freigegeben wurde.
 
-Weitere Informationen finden Sie unter ["Für wen eine Datei in OneDrive oder SharePoint freigegeben ist".](https://support.microsoft.com/office/see-who-a-file-is-shared-with-in-onedrive-or-sharepoint-51bb79a9-b696-410d-a7a7-c320e541272d)
+Weitere Informationen finden Sie unter ["Für wen eine Datei in OneDrive oder SharePoint freigegeben wurde".](https://support.microsoft.com/office/see-who-a-file-is-shared-with-in-onedrive-or-sharepoint-51bb79a9-b696-410d-a7a7-c320e541272d)

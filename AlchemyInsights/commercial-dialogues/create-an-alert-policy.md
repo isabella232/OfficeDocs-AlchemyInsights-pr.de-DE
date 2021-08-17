@@ -13,27 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 0572765d56d3cd1a38a1a41fec2277ccc4b1da54
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 057a0c587c2bee69f94e1e35192145b013e901b9fa1831fccf566e7e64de5261
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313697"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894498"
 ---
 # <a name="create-an-alert-policy"></a>Erstellen einer Warnungsrichtlinie
 
 1. Wechseln Sie im Microsoft 365 Compliance Center unter <https://security.microsoft.com> zu  \> **Richtlinienwarnungsrichtlinien** im Abschnitt **"Warnung".**
 
-1. Wechseln Sie zum [Office 365 Security & Compliance Center.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Wählen Sie  >  [Warnungsrichtlinien](https://go.microsoft.com/fwlink/?linkid=2103208)aus.
-1. Wählen Sie **+ Neue Warnungsrichtlinie** aus. Ein Flyout wird angezeigt.
-1. Legen Sie die Felder **"Name",** **"Beschreibung",** **"Schweregrad"** und **"Kategorie"** entsprechend Ihren Anforderungen fest. Wählen Sie **Weiter** aus.
-1. Wählen Sie im Dropdownmenü **Aktivität ist** eine Aktivität aus.
-
-    **Hinweis:** Sie können nur eine Aktivität auswählen, aber Sie können Bedingungen hinzufügen, um zu verfeinern, was die Richtlinie erkennt.
-1. Wählen Sie die Warnungsauslöserfrequenzen aus, die Ihren Anforderungen entsprechen, und wählen Sie dann **"Weiter"** aus.
-1. Entscheiden Sie, ob Sie Personen benachrichtigen möchten, wenn diese Warnung ausgelöst wird, indem Sie **"E-Mail-Benachrichtigungen senden"** auswählen und die entsprechenden **E-Mail-Empfänger** auswählen. Wählen Sie **Weiter** aus.
-1. Wenn Sie fertig sind, überprüfen Sie die Einstellungen. Sie können die Richtlinie sofort aktivieren, indem Sie **"Ja" auswählen, sie sofort aktivieren** und dann **"Fertig stellen"** auswählen.
    To go directly to the **Alert policy** page, use <https://compliance.microsoft.com/alertpolicies> .
 
 2. Klicken Sie auf **+ Neue Warnungsrichtlinie**.
@@ -41,7 +31,8 @@ ms.locfileid: "58313697"
    - **Benennen Sie die** Warnungsseite: Geben Sie die Werte **"Name",** **"Description"** (optional), **"Severity"** und **"Category"** entsprechend Ihren Anforderungen ein. Wenn Sie fertig sind, klicken Sie auf **Weiter**.
    - **Erstellen Sie Warnungseinstellungen:** Wählen Sie eine Aktivität aus dem Dropdownmenü **"Aktivität"** und alle zusätzlichen Angezeigten Einstellungen aus, und wählen Sie die Warnung aus, die Frequenzen auslöst, die Ihren Anforderungen entsprechen. Wenn Sie fertig sind, klicken Sie auf **Weiter**.
 
-     **Hinweis:** Sie können nur eine Aktivität auswählen, aber Sie können Bedingungen hinzufügen, um zu verfeinern, was die Richtlinie erkennt.
+     > [!NOTE]
+     > Sie können nur eine Aktivität auswählen, aber Sie können Bedingungen hinzufügen, um zu verfeinern, was die Richtlinie erkennt.
 
    - **Festlegen der Empfängerseite:** Entscheiden Sie, ob Sie Personen benachrichtigen möchten, wenn diese Warnung ausgelöst wird, indem Sie **"E-Mail-Benachrichtigungen senden"** auswählen und die entsprechenden **E-Mail-Empfänger** und einen **Grenzwert für tägliche Benachrichtigungen** auswählen. Wenn Sie fertig sind, klicken Sie auf **Weiter**.
    - **Überprüfen Sie Ihre Einstellungsseite:** Überprüfen Sie die Einstellungen. Sie können Einstellungen ändern, indem Sie im entsprechenden Abschnitt auf **"Bearbeiten"** klicken. Sie können die Richtlinie sofort aktivieren, indem Sie **"Ja" auswählen, sie sofort aktivieren.**
