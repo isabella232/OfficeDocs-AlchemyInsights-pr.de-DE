@@ -13,24 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 3e66fad970e52af7ab3b2c5a66001c44b50c2fe6
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 59bca6951dd7fb6a6cd5df1108993e3c018ee0d8391b51a0cbcaf3a61fc45a55
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403238"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883354"
 ---
 # <a name="microsoft-secure-score"></a>Microsoft-Sicherheitsbewertung
 
-Sie können Ihre Umgebung mithilfe von Microsoft Secure Score sicherer machen. Denken Sie daran als Bonitätsnote für Sicherheit. Sie erfahren, welche Aktionen Sie ergreifen können, um die Sicherheit Ihrer Organisation zu verbessern.
+Sie können Ihre Umgebung mithilfe der Microsoft-Sicherheitsbewertung sicherer machen. Stellen Sie sich dies als Kreditwürdigkeit für die Sicherheit vor. Sie erfahren, welche Aktionen Sie ausführen können, um die Sicherheit Ihrer Organisation zu verbessern.
 
-1. Wechseln Sie zum [Office 365 Security & Compliance Center](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Wählen Sie die Microsoft Secure Score-Karte aus, oder wechseln Sie zu [Microsoft Secure Score](https://go.microsoft.com/fwlink/?linkid=2099589).
-    > [!TIP]
-    >  Wählen Sie auf der Seite Microsoft Secure Score Overview die Option Verbesserungsmaßnahmen aus, um Empfehlungen zum Schützen Ihrer Organisation zu erhalten. Sie können filter or Group by in der Tabelle auswählen, um Aktionen schnell zu identifizieren, die besser sein können, wenn Sie sie in der Reihenfolge abschließen.
-1. Wählen Sie in der Liste eine Verbesserungsaktion aus. Es wird ein Flyout angezeigt, das eine kurze Beschreibung der Aktion enthält.
-1. Klicken **Sie auf** Einstellungen anzeigen, und folgen Sie dann den Anweisungen, die in den nächsten Schritten bereitgestellt **werden.**
+1. Wechseln Sie im Microsoft 365 Defender-Portal <https://security.microsoft.com> unter zu **"Sicherheitsbewertung".**
+
+   To go directly to the **Secure score** page, use <https://security.microsoft.com/securescore>
+
+2. Beachten Sie auf der Registerkarte **"Übersicht"** in den Abschnitten **"Aktionen zum Überprüfen"** und **"Wichtigste Verbesserungsmaßnahmen"** empfehlungen für die Sicherung Ihrer Organisation.
+
+3. Beachten Sie auf der Registerkarte **"Verbesserungsmaßnahmen"** die **Einträge "Rang** der **Verbesserungsmaßnahmen",** die die **Statuswerte** **"An"** oder **"Regressed" aufweisen.** Sie können **"Filtern"** oder **"Gruppieren nach"** in der Tabelle verwenden, um Aktionen schnell zu identifizieren, die besser sind, wenn Sie sie in der richtigen Reihenfolge ausführen.
+
+4. Wählen Sie in der Liste auf der Registerkarte **"Verbesserungsaktionen"** ein **"An"-Element** oder ein **"Zurückgeleitet"-Element** aus. Eine neue Seite wird geöffnet und enthält eine vollständige Beschreibung und eine Schaltfläche **"Verwalten",** um das Problem zu beheben.
+
     > [!NOTE]
-    > Sie erhalten Punkte für die Konfiguration empfohlener Sicherheitsfeatures, beachten Sie jedoch, dass einige Aktionen als **[Not Scored] gekennzeichnet sind.** Dies bedeutet, dass Auch wenn Sie diese Verbesserungsaktion implementieren, erhalten Sie keine Punkte für Ihre Bewertung. Andernfalls *kann es bis zu 24 Stunden* dauern, bis Ihre Bewertung aktualisiert wird.
+    > Sie erhalten Punkte für die Konfiguration empfohlener Sicherheitsfeatures, aber denken Sie daran, dass einige Aktionen als **[Not Scored]** gekennzeichnet sind. Dies bedeutet, dass Ihnen auch dann, wenn Sie diese Verbesserungsmaßnahme implementieren, keine Punkte für Ihre Bewertung gewährt werden. Andernfalls *kann es bis zu 24 Stunden dauern,* bis Ihre Bewertung aktualisiert wurde.
 
-Weitere Informationen zu Microsoft Secure Score finden Sie unter [Microsoft Secure Score](https://go.microsoft.com/fwlink/?linkid=2103077).
+Weitere Informationen zur Microsoft-Sicherheitsbewertung finden Sie unter [Microsoft-Sicherheitsbewertung.](https://docs.microsoft.com/microsoft-365/security/defender/microsoft-secure-score)

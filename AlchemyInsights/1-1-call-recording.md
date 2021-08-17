@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: befb89c28396be3dc60d9d812a0c6aced69bea3c1c48d88a4ab81a34d6c259b0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 29383643e6867bca7fd31774a9594b82fdc080bb0e7254141e8c883ad861075e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918990"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886138"
 ---
 # <a name="11-call-recording"></a>1:1-Anrufaufzeichnung
 
 Wenn die Schaltfläche **"Aufzeichnung starten"** in einem 1:1-Anruf ausgegraut ist, müssen Sie die Richtlinieneinstellungen für den betroffenen Benutzer ändern. Um die Richtlinieneinstellung zu überprüfen, führen Sie die Diagnose für den betroffenen Benutzer aus, indem Sie **Diag: Teams 1:1-Anrufaufzeichnung** oben eingeben.     
 
-Ab dem 31. Mai 2021 wird eine neue Teams Anrufrichtlinie *AllowCloudRecordingForCalls* erzwungen. Vor dieser Änderung wird die Aufzeichnung von 1:1-Anrufen durch die *Besprechungsrichtlinie "AllowCloudRecording* Teams" gesteuert. Diese Änderung ist im Nachrichtencenterbeitrag dokumentiert: [(Aktualisiert) 1:1 Einführung in die Richtlinie für die Anrufaufzeichnung.](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)  
+Ab dem 31. Mai 2021 werden wir eine neue Teams Anrufrichtlinie *AllowCloudRecordingForCalls* erzwingen. Vor dieser Änderung wird die Aufzeichnung von 1:1-Anrufen durch die *Besprechungsrichtlinie "AllowCloudRecording* Teams" gesteuert. Diese Änderung ist im Nachrichtencenterbeitrag dokumentiert: [(Aktualisiert) 1:1 Einführung in die Richtlinie für die Anrufaufzeichnung.](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)  
 
 *AllowCloudRecordingForCalls*   Die Anrufrichtlinienoption ist standardmäßig auf **$False** festgelegt. Wenn Sie die Aufzeichnung von 1:1-Anrufen für alle Benutzer blockieren möchten, müssen Sie keine Maßnahmen ergreifen.  
 
-Verwenden Sie [Teams PowerShell,](/microsoftteams/teams-powershell-install) um die Anrufaufzeichnung für alle Benutzer in 1:1-Anrufen zu aktivieren, um das folgende Cmdlet auszuführen: 
+Um die Anrufaufzeichnung für alle Benutzer in 1:1-Anrufen zu aktivieren, verwenden [Sie Teams PowerShell,](https://docs.microsoft.com/microsoftteams/teams-powershell-install) um das folgende Cmdlet auszuführen: 
 
 **Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 

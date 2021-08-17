@@ -12,17 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 206c5c8889e88efa792f2fae686da040c5ec94d3f4bb495a5ac5cca59e455e64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 88f06f5d35030a4decaaf3a7b1f8198f42e6913154c27ed426373ad95a291a67
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058541"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888369"
 ---
 # <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>Einrichten Tresor Anlagenrichtlinien in Microsoft Defender für Office 365
 
-1. Wechseln Sie zum [Office 365 Security & Compliance Center,](https://go.microsoft.com/fwlink/p/?linkid=2077143) und wählen Sie **"Threat Management**  >  **Policy** Tresor  >  **Attachments" aus.**
-2. Um dieses Feature für andere Workloads zu aktivieren, wählen Sie **Microsoft Defender für Office 365 für SharePoint Online, OneDrive und Microsoft Teams** aktivieren.
-3. Um eine neue Richtlinie zu erstellen, wählen Sie das Symbol **Neu** ( **+** ) aus.
-4. Geben Sie den Namen, die Beschreibung und die Einstellungen für die Richtlinie an.
-5. Wählen Sie **Speichern**.
+1. Wechseln Sie im Microsoft 365 Defender Portal unter <https://security.microsoft.com/> **"E-Mail & Richtlinien** für die Zusammenarbeit & Richtlinien für \>  \> **Bedrohungsregeln** \> **Tresor Anlagen"** im Abschnitt **"Richtlinien".**
+
+   To go directly to the **Tresor Attachments** page, use <https://security.microsoft.com/safeattachmentv2> .
+
+2. Führen Sie auf der Seite **Tresor Anlagen** einen der folgenden Schritte aus:
+   - Um eine neue Richtlinie hinzuzufügen, wählen Sie **+ Erstellen** aus. Ein Assistent wird gestartet, um Die Richtlinieneinstellungen zu definieren.
+   - Um eine vorhandene Richtlinie zu bearbeiten, wählen Sie die Richtlinie aus, indem Sie auf den Namen der Richtlinie klicken. Wählen Sie im angezeigten Flyout "Details" die Option **"Bearbeiten"** in dem Abschnitt aus, der die Einstellungen enthält, die Sie konfigurieren möchten.
+   - Um Tresor Anlagen für SharePoint, OneDrive und Microsoft Teams zu aktivieren oder zu deaktivieren, klicken Sie auf **"Globale Einstellungen",** aktivieren oder deaktivieren Sie die Einstellung, und klicken Sie dann auf **"Speichern".**
+
+3. Nachdem Sie Ihre Einstellungen überprüft haben, wählen Sie **Absenden** (neu) oder **Speichern** (Bearbeiten) aus.
+
+Weitere Informationen finden Sie in den folgenden Artikeln:
+
+- [Einrichten Tresor Anlagenrichtlinien in Microsoft Defender für Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies)
+- [Aktivieren von Sicheren Anlagen für SharePoint, OneDrive und Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams)

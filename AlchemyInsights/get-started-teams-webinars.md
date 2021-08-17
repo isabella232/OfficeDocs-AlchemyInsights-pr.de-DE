@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006672"
 - "11357"
-ms.openlocfilehash: f5ef7d216d5c6b1a116f3a58cdd7fc9c3263f94732c45a403381b987381be37b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 82c6524011f996de07025e4401604101f50a326b37e38b890524626325a01aaf
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53964416"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888241"
 ---
 # <a name="getting-started-with-teams-webinars"></a>Erste Schritte mit Teams Webinaren
 
@@ -27,4 +27,4 @@ Nach dem Einrichten von Webinaren in Ihrer Organisation können Ihre Benutzer We
 
 **Hinweis:** Die Webinarfunktionalität wird noch für Microsoft 365 Mandanten bereitgestellt. 
 
-Weitere Informationen zum Einrichten und Konfigurieren Teams Webinare finden Sie unter ["Einrichten von Webinaren in Microsoft Teams".](/microsoftteams/set-up-webinars)
+Weitere Informationen zum Einrichten und Konfigurieren Teams Webinare finden Sie unter ["Einrichten von Webinaren in Microsoft Teams".](https://docs.microsoft.com/microsoftteams/set-up-webinars)

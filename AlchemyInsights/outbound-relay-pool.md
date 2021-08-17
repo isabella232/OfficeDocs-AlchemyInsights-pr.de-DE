@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: 8750c9036f258d9c5edc94bb027d564140bbd9914712cc1f25ff3abc3f4b9468
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d2f83b3afc4abf72a3e18bffe5ac9d6c940cc216916925338c18f0fb8a39948a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54041585"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883130"
 ---
 # <a name="outbound-relay-pool"></a>Ausgehender Relaypool
 
-Microsoft unternimmt einige Änderungen an der Konfiguration für das Weiterleiten oder Weiterleiten von E-Mails über Microsoft 365. Nachrichten in bestimmten Szenarien werden über Microsoft 365 mithilfe eines speziellen Relaypools weitergeleitet oder weitergeleitet. Nachrichten, die mithilfe des Relaypools gesendet werden, können im Junk-E-Mail-Ordner des Empfängers enden. Weitere Informationen finden Sie unter "Pools für [ausgehende Übermittlungen"](/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
+Microsoft unternimmt einige Änderungen an der Konfiguration für das Weiterleiten oder Weiterleiten von E-Mails über Microsoft 365. Nachrichten in bestimmten Szenarien werden über Microsoft 365 mithilfe eines speziellen Relaypools weitergeleitet oder weitergeleitet. Nachrichten, die mithilfe des Relaypools gesendet werden, können im Junk-E-Mail-Ordner des Empfängers enden. Weitere Informationen finden Sie unter "Pools für [ausgehende Übermittlungen"](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
 
 Um ein Szenario mithilfe des Relaypools zu vermeiden, stellen Sie sicher, dass weitergeleitete/weitergeleitete Nachrichten eines der folgenden Kriterien erfüllen:
 

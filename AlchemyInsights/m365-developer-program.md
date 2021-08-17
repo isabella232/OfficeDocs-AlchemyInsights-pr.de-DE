@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "12320"
 - "9001669"
-ms.openlocfilehash: ad112ee9517169aa4c3884c61842c617ef6980bcc112e4eea5c9ec8b081df1c1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a6f36ebff88efee00c0fc9256250cf570a04e614af936b8f907d564e0e82398f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53925560"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887387"
 ---
 # <a name="microsoft-365-developer-program"></a>Microsoft 365-Entwicklerprogramm
 
-Das Microsoft 365-Entwicklerprogramm umfasst ein Microsoft 365 E5-Entwicklerabonnement, mit dem Sie einen eigenen Sandkasten erstellen und Lösungen unabhängig von Ihrer Produktionsumgebung entwickeln können. Weitere Informationen und Häufig gestellte Fragen zum Microsoft 365-Entwicklerprogramm und Visual Studio-Abonnements finden Sie unter [Microsoft 365-Entwicklerprogramm](/office/developer-program/microsoft-365-developer-program).
+Das Microsoft 365-Entwicklerprogramm umfasst ein Microsoft 365 E5-Entwicklerabonnement, mit dem Sie einen eigenen Sandkasten erstellen und Lösungen unabhängig von Ihrer Produktionsumgebung entwickeln können. Weitere Informationen und Häufig gestellte Fragen zum Microsoft 365-Entwicklerprogramm und Visual Studio-Abonnements finden Sie unter [Microsoft 365-Entwicklerprogramm](https://docs.microsoft.com/office/developer-program/microsoft-365-developer-program).
 
 Wenn Sie Unterstützung beim Microsoft 365-Entwicklerprogramm oder Visual Studio-Abonnements benötigen, senden Sie eine Supportanfrage an [Visual Studio-Abonnementsupport](https://visualstudio.microsoft.com/subscriptions/support/).
