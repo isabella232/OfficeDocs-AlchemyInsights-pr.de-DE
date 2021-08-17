@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: be0086b8c2e1907d28e81227b82ade09fc46c1ed4749a50ac0c776eb431ece56
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 05c6df5290e079e1d50d43c730f5e76eb04ec49eebf596f5835e4f8939e968a4
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937748"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889313"
 ---
 # <a name="activate-your-subscription"></a>Aktivieren Ihres Abonnements
 
 **Aktivieren eines Abonnements**
 
-- Um einem Benutzer den Zugriff auf einen Dienst zu ermöglichen, weisen Sie ihm eine Lizenz zu. Weitere Informationen finden Sie unter [Zuweisen von Lizenzen an Benutzer](/microsoft-365/admin/manage/assign-licenses-to-users).
+- Um einem Benutzer den Zugriff auf einen Dienst zu ermöglichen, weisen Sie ihm eine Lizenz zu. Weitere Informationen finden Sie unter [Zuweisen von Lizenzen an Benutzer](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - Wenn Ihnen bereits eine-Lizenz zugewiesen wurde, finden Sie die Anwendungen, die Sie herunterladen können, auf der Seite [Mein Konto](https://portal.office.com/account/#installs). Diese Seite enthält eine Liste der Anwendungen, die Sie auf der Grundlage zugewiesener Lizenzen herunterladen können.
-- Wenn Sie die Office-Anwendungen bereits heruntergeladen haben, müssen Sie sich bei den Anwendungen möglicherweise mit Ihrem Geschäfts, Schul- oder Unikonto anmelden. Sie können dies in jeder beliebigen Office-Anwendung (Word, Excel usw.) tun, indem Sie (am unteren Rand) **Datei > Konto** auswählen. Wählen Sie unter Benutzerinformationen **Konto wechseln** aus. Weitere Informationen finden Sie unter [Installieren von Office-Anwendungen](/microsoft-365/admin/setup/install-applications).
+- Wenn Sie die Office-Anwendungen bereits heruntergeladen haben, müssen Sie sich bei den Anwendungen möglicherweise mit Ihrem Geschäfts, Schul- oder Unikonto anmelden. Sie können dies in jeder beliebigen Office-Anwendung (Word, Excel usw.) tun, indem Sie (am unteren Rand) **Datei > Konto** auswählen. Wählen Sie unter Benutzerinformationen **Konto wechseln** aus. Weitere Informationen finden Sie unter [Installieren von Office-Anwendungen](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **Reaktivieren eines Abonnements**
 
@@ -36,9 +36,9 @@ Wenn Ihr Abonnement abgelaufen ist oder von Microsoft deaktiviert wurde, oder we
 3. Wählen Sie im Bereich **Dieses Abonnement reaktivieren** eine Zahlungsmethode aus der Dropdownliste aus, oder wählen Sie **Zahlungsmethode hinzufügen** aus.
 4. Wählen Sie **Speichern** aus.
 
-Weitere Informationen finden Sie unter [Ihr Abonnement reaktivieren](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Weitere Informationen finden Sie unter [Ihr Abonnement reaktivieren](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Aktivieren eines neuen Abonnements mit einem Product Key**
 
 - Informationen dazu, wie Sie ein neues Microsoft 365-Abonnement mit Ihrem Product Key aktivieren, finden Sie unter [Eingabeort für den Office-Product Key](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
-- Geben Sie Ihren Microsoft 365-Product Key ein, und folgen Sie den Eingabeaufforderungen, um Ihr Abonnement zu aktivieren. Wenn bei der Aktivierung Probleme auftreten, schauen Sie die Liste der [häufig auftretenden Fehler mit Product Keys und die zugehörigen Lösungen](/microsoft-365/commerce/product-key-errors-and-solutions) an.
+- Geben Sie Ihren Microsoft 365-Product Key ein, und folgen Sie den Eingabeaufforderungen, um Ihr Abonnement zu aktivieren. Wenn bei der Aktivierung Probleme auftreten, schauen Sie die Liste der [häufig auftretenden Fehler mit Product Keys und die zugehörigen Lösungen](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions) an.
