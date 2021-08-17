@@ -13,17 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 742870fc586daa1f44c88f16405c7b14b5bd2f5000f7e13d396ad6d43829acbd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 38700b516887dd4789e826a02672b5cc5d8354b1cd0ff743ba321724903413ba
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54081429"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895006"
 ---
 # <a name="unblock-an-account-by-using-threat-management"></a>Aufheben der Blockierung eines Kontos mithilfe der Bedrohungsverwaltung
 
-So gehen Sie wie folgt vor: 
+So gehen Sie wie folgt vor:
 
-1. Wechseln Sie zum [Office 365 Security & Compliance Center.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Wählen Sie **"Bedrohungsmanagement**  >  **überprüfen" aus.** Wählen Sie auf der Seite **"Überprüfen"** die Option **["Eingeschränkte Benutzer" aus.](https://go.microsoft.com/fwlink/?linkid=2103514)**
-1. Wenn das kompromittierte Konto in der Liste angezeigt wird, klicken Sie auf **"Konto entsperren".** Das Konto sollte in der Lage sein, Nachrichten erneut zu senden, in der Regel innerhalb einer Stunde.
+1. Wechseln Sie zum portal Microsoft 365 Defender unter <https://security.microsoft.com> \> **"E-Mail &** \> **Zusammenarbeit überprüfen** \> **eingeschränkte Benutzer".**
+
+   Um direkt zur Seite **"Eingeschränkte Benutzer"** zu wechseln, verwenden Sie <https://security.microsoft.com/restrictedusers> .
+
+2. Wenn sich der Benutzer in der Liste befindet, wählen Sie den Benutzer aus, und klicken Sie dann auf **"Blockierung aufheben".** Führen Sie die Schritte im Flyoutbereich aus, und wählen Sie dann **"Ja"** aus, um dies zu bestätigen.
+
+   Das Konto sollte in der Lage sein, Nachrichten erneut zu senden, in der Regel innerhalb einer Stunde.
+
+Weitere Informationen finden Sie unter ["Blockierte Benutzer aus dem Portal für eingeschränkte Benutzer entfernen".](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam)

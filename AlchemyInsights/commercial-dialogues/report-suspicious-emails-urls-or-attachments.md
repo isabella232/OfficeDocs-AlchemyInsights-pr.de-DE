@@ -12,18 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 15efe9acf4fab9ced09674784ea130b5ddfd645d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 56d689521d8438cedf797d8f7e524c542fbf3fedeb3a0caaf92b6b2cff1dd9bb
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736483"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895118"
 ---
 # <a name="report-suspicious-emails-urls-or-attachments"></a>Melden verdächtiger E-Mails, URLs oder Anlagen
 
-Ich weiß, dass Sie Hilfe bei der Untersuchung einer verdächtigen E-Mail oder einer E-Mail benötigen, die falsch gefiltert wurde. Ich kann Ihnen helfen, das Problem mithilfe des Übermittlungs-Explorers zur Analyse zu übermitteln, was Ihnen sofortiges Feedback gibt. Im Folgenden finden Sie eine Zusammenfassung der Schritte:
+Ich bin mir bewusst, dass Sie Hilfe bei der Untersuchung einer verdächtigen E-Mail oder einer E-Mail benötigen, die falsch gefiltert wurde. Ich kann Ihnen helfen, das Problem zur Analyse über das **Übermittlungsportal** zu übermitteln, das Ihnen sofortiges Feedback gibt. Hier ist eine Zusammenfassung der Schritte:
 
-1. Wechseln Sie zum [Office 365 Security & Compliance Center,](https://go.microsoft.com/fwlink/p/?linkid=2077143)und wechseln Sie dann **zu** Übermittlungen der  >  [Bedrohungsverwaltung.](https://go.microsoft.com/fwlink/?linkid=2101521)
-2. Wählen Sie **+ Neue Übermittlung aus.** Ein Flyout wird mit der Option angezeigt, entweder eine E-Mail, EINE URL oder eine Datei zu senden.
-    > [!NOTE]
-    > Informieren Sie Ihre Benutzer, dass sie verdächtige Nachrichten in ihrem Posteingang über das [Add-In](https://go.microsoft.com/fwlink/?linkid=2092385)Report Message an Microsoft melden sollten.
+1. Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com> zu **E-Mail-&** \> **Übermittlungen für** die Zusammenarbeit.
+
+   Um direkt zur Seite **"Übermittlungen"** zu wechseln, verwenden Sie <https://security.microsoft.com/reportsubmission> .
+
+2. Überprüfen Sie auf der Seite **"Übermittlungen",** ob die Registerkarte **"Zur Analyse übermittelt"** ausgewählt ist, und klicken Sie dann auf **+ Zur Analyse an Microsoft übermitteln.**
+
+3. Ein Flyout wird mit der Option zum Senden einer E-Mail, einer URL oder einer Datei angezeigt.
+
+Weitere Informationen finden Sie unter ["Verwenden der Administratorübermittlung" zum Übermitteln von verdächtigem Spam, Phishing, URLs und Dateien an Microsoft.](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)
+
+> [!NOTE]
+> Informieren Sie Ihre Benutzer, dass sie verdächtige Nachrichten in ihrem Posteingang mithilfe des [Add-Ins "Nachricht melden" oder des Add-Ins "Phishing melden"](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)melden sollen.

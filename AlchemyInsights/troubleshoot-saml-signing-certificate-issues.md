@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9406"
 - "9004341"
-ms.openlocfilehash: 290e740ccd7f3beac5b77e63c32c5b18c295070e6002dcdde44ce4a93f4330f6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fb043122edf5f99325f0403810eb0dc119d254e0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54105675"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314419"
 ---
 # <a name="troubleshoot-saml-signing-certificate-issues"></a>Behandeln von Problemen mit SAML-Signaturzertifikaten
 
@@ -31,13 +31,11 @@ Nach Abschluss dieses Vorgangs vertraut die Anwendung diesem Zertifikat, und all
 
 3. Wenn dieses Zertifikat abläuft, erstellen Sie ein neues, aktualisieren Sie es für den Anwendungsanbieter, und aktivieren Sie es dann auf Azure-Seite. Weitere Informationen finden Sie unter [Erneuern eines Zertifikats, das in Kürze abläuft](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#renew-a-certificate-that-will-soon-expire).
 
-> [!NOTE]
-> Wenn das Zertifikat abläuft, wird der Benutzer nicht blockiert.
+**Hinweis**: Wenn das Zertifikat abläuft, wird der Benutzer nicht blockiert.
 
-4. [Fügen Sie eine E-Mail-Adresse für Benachrichtigung hinzu](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#add-email-notification-addresses-for-certificate-expiration), die vor Ablauf des aktuellen Zertifikats versendet werden sollen.
+4. [Fügen Sie eine E-Mail-Adresse für Benachrichtigungen hinzu](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#add-email-notification-addresses-for-certificate-expiration), die Sie vor Ablauf des aktuellen Zertifikats erhalten wollen.
 
-> [!NOTE]
-> Schritt 4 ist optional.
+**Hinweis**: Schritt 4 ist optional.
 
 5. Ändern Sie die SAML-Zertifikatsignierungsoptionen einer Anwendung und den Zertifikatsignierungsalgorithmus. Weitere Informationen finden Sie unter [Ändern von Zertifikatsignierungsoptionen und Signierungsalgorithmus](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options).
 

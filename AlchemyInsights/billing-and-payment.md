@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 0899e81892117e1d512aa37a264ad3a77cf27b5c457f04c4d6a8d56753300543
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502391"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314915"
 ---
 # <a name="billing-and-payment"></a>Abrechnung und Zahlung
 
@@ -46,8 +46,7 @@ Wenn Sie eine neue Karte hinzugefügt haben und weiterhin eine Ablehnungsbenachr
 
 4. Wenn Sie eine vorhandene Zahlungsmethode verwenden möchten, wählen Sie in der Dropdownliste eine aus und wählen Sie dann **Ersetzen**.
 
-    > [!NOTE]
-    > Wenn Sie Abonnements haben, die mit einem Abrechnungsprofil verknüpft sind, können Sie diese nur mit einer Kredit- oder Debitkarte bezahlen. Wenn Sie auf der Seite **Zahlungsmethoden** Bankkonten aufgelistet haben, können diese in der Dropdownliste nicht ausgewählt werden.
+    **Hinweis:** Wenn Sie Abonnements mit einem Abrechnungsprofil verknüpft haben, können Sie nur eine Kredit- oder Debitkarte verwenden, um dafür zu bezahlen. Wenn Sie auf der Seite **Zahlungsmethoden** Bankkonten aufgelistet haben, können diese in der Dropdownliste nicht ausgewählt werden.
 
 5. Wenn Sie eine neue Zahlungsmethode hinzufügen möchten, wählen Sie **Zahlungsmethode hinzufügen** aus.
 
@@ -55,10 +54,10 @@ Wenn Sie eine neue Karte hinzugefügt haben und weiterhin eine Ablehnungsbenachr
 
 7. Die neue Zahlungsmethode ist bereits in der Dropdownliste ausgewählt. Wählen Sie **Ersetzen**.
 
-Weitere Informationen finden Sie unter [Verwalten von Zahlungsmethoden](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Weitere Informationen finden Sie unter [Verwalten von Zahlungsmethoden](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Abrechnungshäufigkeit**
 
 Rechnungen werden monatlich oder jährlich generiert, je nach der beim Checkout ausgewählten Abrechnungshäufigkeit.  
 
-**Hinweis:** Bestellungen mit jährlicher Abrechnung erhalten möglicherweise eine Rechnung, wenn Änderungen wie das Hinzufügen oder Entfernen von Lizenzen vorgenommen wurden. [Ändern Sie Ihre Abrechnungshäufigkeit.](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
+**Hinweis:** Bestellungen mit jährlicher Abrechnung erhalten möglicherweise eine Rechnung, wenn Änderungen wie das Hinzufügen oder Entfernen von Lizenzen vorgenommen wurden. [Ändern Sie Ihre Abrechnungshäufigkeit.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)

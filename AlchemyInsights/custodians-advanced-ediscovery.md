@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "12580"
-ms.openlocfilehash: e7b971619744503cfe09f2ee1ae96ce89929f00943164ff1e0b26e15e74ab8b9
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7999b2e7c4ab6523f9084d406484f2c58a3560a533a3137698f07a18c58d46f4
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54504057"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894962"
 ---
 # <a name="custodians-in-advanced-ediscovery"></a>Verwahrer in Advanced eDiscovery
 
@@ -32,6 +32,6 @@ So verwalten Sie Verwahrer in einem Advanced eDiscovery-Fall:
 
 Weitere Informationen über das Verwalten und Anzeigen von Aktivitäten von Verwahrern in Advanced eDiscovery finden Sie unter:
 
-- [Arbeiten mit Verwahrern und nicht verwahrten Datenquellen in Advanced eDiscovery](/microsoft-365/compliance/managing-custodians).
+- [Arbeiten mit Verwahrern und nicht verwahrten Datenquellen in Advanced eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/managing-custodians).
 
-- [Anzeigen der Überwachungsaktivitäten von Verwaltern](/microsoft-365/compliance/view-custodian-activity)
+- [Anzeigen der Überwachungsaktivitäten von Verwaltern](https://docs.microsoft.com/microsoft-365/compliance/view-custodian-activity)
