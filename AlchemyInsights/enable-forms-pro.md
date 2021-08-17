@@ -1,5 +1,5 @@
 ---
-title: Aktivieren oder Deaktivieren von Forms Pro
+title: Aktivieren oder Deaktivieren von Formularen Pro
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2546"
 - "9000672"
-ms.openlocfilehash: c4fad42beb2eebd96ee096732a12c206c1d6cbf4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 03d5a9d06e2fe2f34d26d4fdc5b2e1b3cc40268d9e226cba2f30aae880d941fe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814227"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057209"
 ---
-# <a name="enable-or-disable-forms-pro"></a>Aktivieren oder Deaktivieren von Forms Pro
+# <a name="enable-or-disable-forms-pro"></a>Aktivieren oder Deaktivieren von Formularen Pro
 
-Microsoft Forms Pro hat sich zu Dynamics 365 Customer Voice entwickelt und bietet Ihnen zusätzliche Umfragefunktionen und geschäftliche Vorteile. Weitere Informationen finden Sie unter [Hilferessourcen für Dynamics 365 Customer Voice](https://go.microsoft.com/fwlink/p/?linkid=2128357).  
+Microsoft Forms Pro wurde zu Dynamics 365 Customer Voice weiterentwickelt und bietet Ihnen zusätzliche Umfragefunktionen und geschäftliche Vorteile. Weitere Informationen finden Sie in [den Hilferessourcen für Dynamics 365 Customer Voice.](https://go.microsoft.com/fwlink/p/?linkid=2128357)  
 
-Microsoft Forms Pro ist teil der Dynamics 365 Enterprise-Lizenz. Alternativ kann ein Administrator eine Microsoft Forms Pro-Lizenz erwerben. Sie können auch eine Microsoft Forms Pro-Lizenz von einem Benutzer entfernen.  
+Microsoft Forms Pro ist Teil der Dynamics 365 Enterprise-Lizenz. Alternativ kann ein Administrator eine Microsoft Forms Pro-Lizenz erwerben. Sie können auch eine Microsoft Forms-Pro-Lizenz von einem Benutzer entfernen.  
 
-Weitere Informationen zur Lizenzierung finden Sie unter [Kaufen von Microsoft Forms Pro](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) und Deaktivieren von Microsoft Forms Pro für einen [Benutzer.](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1)
+Weitere Informationen zur Lizenzierung finden Sie unter ["Microsoft Forms Pro kaufen"](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) und ["Microsoft Forms Pro für einen Benutzer deaktivieren".](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1)
   
-Hilferessourcen finden Sie unter [Problembehandlung in Forms Pro](https://docs.microsoft.com/forms-pro/troubleshoot).
+Hilferessourcen finden Sie unter [Problembehandlung in Formularen Pro.](https://docs.microsoft.com/forms-pro/troubleshoot)

@@ -1,5 +1,5 @@
 ---
-title: Testen Ihrer Kommunikationskonformitätsrichtlinie
+title: Testen Ihrer Kommunikationscompliancerichtlinie
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: fba853749d98eb556395c7133555c0b04044c88c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e03f594bde1e12fb606cdb5f51fd98ff028f1a311d901e9f10241b027231c371
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736472"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081501"
 ---
-# <a name="test-your-communication-compliance-policy"></a>Testen Ihrer Kommunikationskonformitätsrichtlinie
+# <a name="test-your-communication-compliance-policy"></a>Testen Ihrer Kommunikationscompliancerichtlinie
 
-Dieser Schritt ist optional. Nachdem Sie eine Kommunikationskonformitätsrichtlinie erstellt haben, sollten Sie sie testen, um sicherzustellen, dass die von Ihnen definierten Bedingungen von der Richtlinie ordnungsgemäß erzwungen werden.
+Dieser Schritt ist optional. Nachdem Sie eine Richtlinie zur Kommunikationscompliance erstellt haben, sollten Sie diese testen, um sicherzustellen, dass die von Ihnen definierten Bedingungen von der Richtlinie ordnungsgemäß durchgesetzt werden.
 
-Möglicherweise möchten Sie auch Ihre Richtlinien zur Verhinderung von Datenverlust [(Data Loss Prevention, DLP)](https://go.microsoft.com/fwlink/?linkid=2110890) testen, wenn Ihre Richtlinien für die Kommunikationskonformität vertrauliche Informationstypen enthalten.
+Sie können auch [Ihre Richtlinien zur Verhinderung von Datenverlust (Data Loss Prevention, DLP) testen,](https://go.microsoft.com/fwlink/?linkid=2110890) wenn Ihre Richtlinien zur Kommunikationscompliance vertrauliche Informationstypen enthalten.
 
-Weitere Informationen finden Sie unter [Test your communication compliance policy](https://go.microsoft.com/fwlink/?linkid=2111304).
+Weitere Informationen hierzu finden Sie unter ["Testen Ihrer Kommunikationscompliancerichtlinie".](https://go.microsoft.com/fwlink/?linkid=2111304)
