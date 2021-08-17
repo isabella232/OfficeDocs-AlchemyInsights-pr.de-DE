@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001110"
 - "3071"
-ms.openlocfilehash: 9011c8219f7aec09454ecf08fc1c5ad2959e89a3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6e70ce5f23302e4d0bb0fb11272bf62b7bb68188c5b4e3905f3d25434db4737f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51770702"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072663"
 ---
 # <a name="what-are-groups"></a>Was sind Gruppen?
 
-Mit Microsoft 365-Gruppen können Sie eine Gruppe von Personen auswählen, mit denen Sie zusammenarbeiten möchten, und auf einfache Weise eine Sammlung von Ressourcen einrichten, die diese Personen freigeben können. Sie müssen sich keine Gedanken über das manuelle Zuweisen von Berechtigungen zu allen diesen Ressourcen machen, da ihnen das Hinzufügen von Mitgliedern zur Gruppe automatisch die Berechtigungen gibt, die sie für die Tools benötigen, die Ihre Gruppe bietet. Darüber hinaus sind Gruppen die neue und verbesserte Erfahrung für die Verwendung von Verteilerlisten oder freigegebenen Postfächern.  Weitere Informationen finden Sie unter Informationen zu [Microsoft 365-Gruppen.](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) 
+Microsoft 365 Mithilfe von Gruppen können Sie eine Gruppe von Personen auswählen, mit denen Sie zusammenarbeiten möchten, und auf einfache Weise eine Sammlung von Ressourcen einrichten, die diese Personen freigeben können. Sie müssen sich keine Gedanken über die manuelle Zuweisung von Berechtigungen für alle diese Ressourcen machen, da das Hinzufügen von Mitgliedern zur Gruppe ihnen automatisch die Berechtigungen gewährt, die sie für die Von Ihrer Gruppe bereitgestellten Tools benötigen. Darüber hinaus sind Gruppen die neue und verbesserte Oberfläche für die Verwendung von Verteilerlisten oder freigegebenen Postfächern.  Weitere [Informationen finden Sie unter "Informationen zu Microsoft 365-Gruppen".](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) 

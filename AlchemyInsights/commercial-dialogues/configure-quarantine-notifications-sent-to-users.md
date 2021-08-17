@@ -1,5 +1,5 @@
 ---
-title: Konfigurieren von An Benutzer gesendeten Quarantänebenachrichtigungen
+title: Konfigurieren von Quarantänebenachrichtigungen, die an Benutzer gesendet werden
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 3e3e350f74b19420155c29cb282f065e7db6d4d7
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fa38d893a8bd543e87c0239f1a88d9c1caa33153ced6e33ef31c309be8989e95
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736412"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035185"
 ---
-# <a name="configure-quarantine-notifications-sent-to-users"></a>Konfigurieren von An Benutzer gesendeten Quarantänebenachrichtigungen
+# <a name="configure-quarantine-notifications-sent-to-users"></a>Konfigurieren von Quarantänebenachrichtigungen, die an Benutzer gesendet werden
 
-So senden Sie Benachrichtigungen an Ihre Benutzer über die Quarantäne:
+So senden Sie Ihren Benutzern Benachrichtigungen zu den in Quarantäne befindlichen Informationen:
 
-1. Navigieren Sie im Admin Center zu **Admin Center**  >  **Exchange**  >  **Protection**  >  **Spam filter**.
+1. Navigieren Sie im Admin Center zu **Admin Center**  >  **Exchange**  >  **Spamfilter "Schutz".**  >  
 2. Wählen Sie die Spamfilterrichtlinie aus, für die Sie Benachrichtigungen aktivieren möchten.
-3. Wählen Sie im rechten Bereich den **Link Endbenutzerspambenachrichtigungen** konfigurieren aus.
-4. Wählen Sie im nächsten Dialogfeld **Spambenachrichtigungen** für Endbenutzer aktivieren aus. Wählen Sie aus, um Spambenachrichtigungen für diese Richtlinie zu aktivieren.
-5. Geben **Sie unter Senden von Spambenachrichtigungen** für Endbenutzer alle (Tage) an, wie oft Benutzerspambenachrichtigungen gesendet werden sollen. Der Standardwert beträgt 3 Tage. Sie können zwischen 1 und 15 Tagen angeben. Wenn Sie beispielsweise 7 Tage angeben, enthält die Benachrichtigung eine Liste aller Nachrichten der letzten 7 Tage für diesen Benutzer, die stattdessen in die Spamquarantäne verschoben wurden.
-6. Wählen **Sie in Benachrichtigungssprache** die Sprache aus, in der Benutzerspambenachrichtigungen für diese Richtlinie geschrieben werden sollen.
+3. Wählen Sie im rechten Bereich den Link **"Spambenachrichtigungen** für Endbenutzer konfigurieren" aus.
+4. Wählen Sie im nächsten Dialogfeld **Spambenachrichtigungen** für Endbenutzer aktivieren aus. Aktivieren Sie Spambenachrichtigungen für diese Richtlinie.
+5. Geben **Sie in Send end-user spam notifications every (days)** an, how often to send user spam notifications. Der Standardwert beträgt 3 Tage. Sie können zwischen 1 und 15 Tagen angeben. Wenn Sie beispielsweise 7 Tage angeben, enthält die Benachrichtigung eine Liste aller Nachrichten der letzten 7 Tage für diesen Benutzer, die stattdessen in die Spamquarantäne verschoben wurden.
+6. Wählen Sie in der **Sprache "Benachrichtigung"** die Sprache aus, in der Benutzerspambenachrichtigungen für diese Richtlinie geschrieben werden sollen.
 7. Wählen Sie **Speichern** aus.
