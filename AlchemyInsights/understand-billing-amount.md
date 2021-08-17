@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: 50a420bd938519c81a1f7fd234f8cdbb10f5855e6d7d69dd27e261ebc7e0c091
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48c62896b4821ef45d47b582ed723a38403853c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53919638"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58304332"
 ---
 # <a name="understand-billing-amount"></a>Informationen zum Abrechnungsbetrag
 
@@ -67,7 +67,9 @@ Vergleichen Sie den Gesamtbetrag Ihrer Azure Marketplace-Rechnung unter Berichte
 - Melden Sie sich beim **Enterprise-Portal** an. Wählen Sie **Berichte** aus.
 - Wechseln Sie in der oberen rechten Ecke der Registerkarte von der Ansicht **M** zu **C**, und passen Sie den Zeitraum an jenen auf der Rechnung an.
 - Der **Azure Marketplace**-Gesamtbetrag sollten dem **Gesamtumsatz** auf Ihrer Marketplace-Rechnung entsprechen.
-- Wechseln Sie zu **Nutzungsdaten herunterladen**, um weitere Informationen zu den berechneten nutzungsbasierten Gebühren zu erhalten. Wählen Sie unter **Marketplace-Gebühren** die Option **Herunterladen**. **Hinweis**: Dieser Bericht beinhaltet keine Steuern oder einmalige Käufe.
+- Wechseln Sie zu **Nutzungsdaten herunterladen**, um weitere Informationen zu den berechneten nutzungsbasierten Gebühren zu erhalten. Wählen Sie unter **Marketplace-Gebühren** die Option **Download** aus. 
+
+**Hinweis**: Dieser Bericht enthält weder Steuern noch einmalige Käufe.
 
 **Cloud Solution Provider (CSP)**
 
