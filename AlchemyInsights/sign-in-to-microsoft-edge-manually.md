@@ -1,5 +1,5 @@
 ---
-title: Manuelles Anmelden bei Microsoft Edge
+title: Manuelle Anmeldung bei Microsoft Edge
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/03/2020
@@ -15,18 +15,18 @@ ms.custom:
 - "6893"
 - "8332"
 - "9004625"
-ms.openlocfilehash: f380d09dc14788205638cdee6aebe0b084ecab2f
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: f9aa27a585d805360e1fadecfd0db3b11d15a3594ed5bd5dc6c68cec37a4d6a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398656"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050765"
 ---
-# <a name="sign-in-to-microsoft-edge-manually"></a>Manuelles Anmelden bei Microsoft Edge
+# <a name="sign-in-to-microsoft-edge-manually"></a>Manuelle Anmeldung bei Microsoft Edge
 
-Wenn ein Benutzer während einer ersten Ausführung nicht automatisch angemeldet ist, kann er sich manuell über die Einstellungen des Browsers oder das Identitätsf flyout anmelden. Verwenden Sie die folgenden Richtlinien, um die Anmeldung zu verwalten:
+Wenn ein Benutzer während der ersten Ausführung nicht automatisch angemeldet ist, kann er sich manuell über die Browsereinstellungen oder das Identitätsflyout anmelden. Verwenden Sie zum Verwalten der Anmeldung die folgenden Richtlinien:
 
-1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) – So stellen Sie sicher, dass ein Benutzer immer über ein Arbeitsprofil in Microsoft Edge verfügt.
-2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) – So beschränken Sie die Anmeldung auf einen Satz vertrauenswürdiger Konten.
-3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) – So deaktivieren Sie die Anmeldung oder erzwingen die Anmeldung von Benutzern.
+1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) – Um sicherzustellen, dass ein Benutzer immer über ein Arbeitsprofil in Microsoft Edge verfügt.
+2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) : So beschränken Sie die Anmeldung auf eine Gruppe von vertrauenswürdigen Konten.
+3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) : So deaktivieren Sie die Anmeldung oder erzwingen, dass sich Benutzer anmelden.
 
