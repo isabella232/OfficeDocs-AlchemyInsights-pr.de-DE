@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11446"
 - "9003537"
-ms.openlocfilehash: 752d08ce7583580ac9896bd4390152df493d7148c8e8d4a1f39d86fc87785a7f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c06fbd377159e55cf34c79ef0aa1e34f0412a908e8d4e3dec5ad088c9b8b818a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54069531"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898199"
 ---
 # <a name="create-and-manage-device-tags-or-groups"></a>Erstellen und Verwalten von Gerätekategorien oder -gruppen
 
-Fügen Sie Kategorien auf Geräten hinzu, um eine logische Gruppenzugehörigkeit zu erstellen. Gerätekategorien unterstützen die ordnungsgemäße Zuordnung des Netzwerks, sodass Sie verschiedene Kategorien anfügen können, um den Kontext zu erfassen und die dynamische Listenerstellung als Teil eines Vorfalls zu ermöglichen. Kategorien können als Filter in der Listenansicht für Geräte oder zum Gruppieren von Geräten verwendet werden. Weitere Informationen zum Gruppieren von Geräten finden Sie unter [Erstellen und Verwalten von Gerätekategorien](/microsoft-365/security/defender-endpoint/machine-tags).
+Fügen Sie Kategorien auf Geräten hinzu, um eine logische Gruppenzugehörigkeit zu erstellen. Gerätekategorien unterstützen die ordnungsgemäße Zuordnung des Netzwerks, sodass Sie verschiedene Kategorien anfügen können, um den Kontext zu erfassen und die dynamische Listenerstellung als Teil eines Vorfalls zu ermöglichen. Kategorien können als Filter in der Listenansicht für Geräte oder zum Gruppieren von Geräten verwendet werden. Weitere Informationen zum Gruppieren von Geräten finden Sie unter [Erstellen und Verwalten von Gerätekategorien](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/machine-tags).
 
 Sie können Kategorien auf Geräten hinzufügen, indem Sie:
 
@@ -32,7 +32,7 @@ Sie können Kategorien auf Geräten hinzufügen, indem Sie:
  
 **Hinweis:** Zwischen dem Zeitpunkt, zu dem eine Kategorie zu einem Gerät hinzugefügt wird und wann sie in der Geräteliste und auf der Geräteseite verfügbar ist, kann es zu Wartezeiten kommen.
 
-Informationen zum Hinzufügen von Gerätekategorien mithilfe der API finden Sie unter [Hinzufügen oder Entfernen von Gerätekategorien-API](/microsoft-365/security/defender-endpoint/add-or-remove-machine-tags).
+Informationen zum Hinzufügen von Gerätekategorien mithilfe der API finden Sie unter [Hinzufügen oder Entfernen von Gerätekategorien-API](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/add-or-remove-machine-tags).
 
 ## <a name="add-and-manage-device-tags-using-the-portal"></a>Hinzufügen und Verwalten von Gerätekategorien über das Portal
 
@@ -51,4 +51,4 @@ Informationen zum Hinzufügen von Gerätekategorien mithilfe der API finden Sie 
 
 Kategorien werden der Geräteansicht hinzugefügt und in der Listenansicht für Geräte angezeigt. Anschließend können Sie mithilfe des Kategorienfilters die relevante Geräteliste anzeigen.
 
-Weitere Informationen finden Sie unter [Erstellen und Verwalten von Gerätekategorien](/microsoft-365/security/defender-endpoint/machine-tags).
+Weitere Informationen finden Sie unter [Erstellen und Verwalten von Gerätekategorien](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/machine-tags).

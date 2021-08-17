@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 975
 ms.assetid: ''
-ms.openlocfilehash: f523ac9230e5fdc8aff35c90a9d0f8aadd35e66a
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 3d2e6a04a66ed8627b720c0f343272fa77de23ba415aa70723210587585c9b19
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52540399"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898503"
 ---
-# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Möchten Sie Microsoft einen falsch positiven Spam melden?
+# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Möchten Sie Microsoft ein falsch positives Spam melden?
 
-Als Administrator können Sie am besten ermitteln, warum eine Phishing- oder Spamnachricht zugestellt wurde, wenn Sie das Beispiel im [Übermittlungs-Explorer](https://protection.office.com/reportsubmission)an Microsoft übermitteln. Um es einfacher zu machen, können Sie Ihren Benutzern erlauben, über das [Add-In](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)"Nachricht melden" direkt bei Microsoft zu melden.
+Als Administrator können Sie am besten ermitteln, warum eine Phishing- oder Spamnachricht übermittelt wurde, darin, das Beispiel im [Übermittlungs-Explorer](https://protection.office.com/reportsubmission)an Microsoft zu übermitteln. Um dies zu vereinfachen, können Sie Ihren Benutzern erlauben, direkt über das [Add-In "Nachricht melden"](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)an Microsoft zu berichten.
 
-Wir raten zur Vorsicht, wenn Sie die [Spamfilter Microsoft 365 umgehen möchten.](/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)
+Wir empfehlen Vorsicht, wenn Sie sich entscheiden, [die Microsoft 365 Spamfilter](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)zu umgehen.
 
-**Wussten Sie?**: Sie können [](https://protection.office.com/messagetrace) jetzt Beispiele direkt aus der Nachrichtenverfolgung übermitteln und E5/Microsoft Defender für Office 365 Plan 2 Können Kunden Beispiele aus dem Threat [Explorer übermitteln.](/microsoft-365/security/office-365-security/threat-explorer)
+**Wissen Sie?**: Sie können jetzt Beispiele direkt aus der [Nachrichtenablaufverfolgung](https://protection.office.com/messagetrace) und E5/Microsoft Defender für Office 365 Plan 2-Kunden Beispiele aus [dem Bedrohungs-Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)übermitteln.

@@ -1,5 +1,5 @@
 ---
-title: Inhaltssuche Keine Ergebnisse
+title: Inhaltssuche keine Ergebnisse
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000661"
 - "2527"
-ms.openlocfilehash: 0267286ca5967ee891e65343d49adf776f0322a6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b53534dd0666fa64e692910aa6800abab30169a97fbe567c815ce6b948381a63
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816847"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058001"
 ---
-# <a name="no-results-from-content-searchexports"></a>Keine Ergebnisse aus inhaltssuche/export
+# <a name="no-results-from-content-searchexports"></a>Keine Ergebnisse der Inhaltssuche/-exporte
 
-Probleme mit der Inhaltssuche/-exporten, die keine Daten zurückgeben, können auf bestimmten Compliancesicherheitsfilter zurück, der von einem bestimmten Administrator eingerichtet wurde und nicht an alle Administratoren kommuniziert wurde.
+Probleme mit der Inhaltssuche/-exporte, die keine Daten zurückgeben, können auf einen bestimmten Compliancesicherheitsfilter zurückzuführen sein, der von einem bestimmten Administrator eingerichtet und nicht an alle Administratoren kommuniziert wurde.
 
-Um dies zu beheben, überprüfen Sie, ob Kompatibilitätssicherheitsfilter enthalten sind, die dies verursachen können:
-1. Herstellen einer Verbindung mit Security and Compliance Center Powershell
-2. Führen Sie die folgenden Befehlslets aus:
+Um dies zu beheben, überprüfen Sie, ob Compliancesicherheitsfilter vorhanden sind, die dies verursachen können:
+1. Verbinden zu Security and Compliance Center PowerShell
+2. Führen Sie die folgenden Commandlets aus:
 <br>$org = "yourdomain.com"
-<br>Get-ComplianceSecurityFilter -Organization $org
+<br>Get-ComplianceSecurityFilter - Organisations-$org
