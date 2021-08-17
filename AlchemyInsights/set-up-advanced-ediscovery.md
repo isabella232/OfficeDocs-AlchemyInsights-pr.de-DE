@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3835"
-ms.openlocfilehash: 5eaf53633be10a10df9c040bc2852152f51daa6b248f3773997e203cbb6b86f7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 51a7e1c5d060f58a5bb0e551e31b8c9734858fc2ec88fc662b1d9a78d127bed1
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54108591"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893686"
 ---
 # <a name="set-up-advanced-ediscovery"></a>Einrichten der Advanced eDiscovery
 
@@ -40,6 +40,6 @@ Nachstehend finden Sie eine allgemeine Übersicht der Schritte zum Einrichten un
 
 **4. Erstellen eines Advanced eDiscovery-Falls**
 
-Informationen zu den erforderlichen Schritten zum Einrichten von Advanced eDiscovery finden Sie unter [Erste Schritte mit Advanced eDiscovery](/microsoft-365/compliance/get-started-with-advanced-ediscovery).
+Informationen zu den erforderlichen Schritten zum Einrichten von Advanced eDiscovery finden Sie unter [Erste Schritte mit Advanced eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-advanced-ediscovery).
 
-Informationen zum Erstellen und Verwalten von Fällen finden Sie unter [Erstellen und Verwalten von Advanced eDiscovery-Fällen in Microsoft 365](/microsoft-365/compliance/create-and-manage-advanced-ediscoveryv2-case).
+Informationen zum Erstellen und Verwalten von Fällen finden Sie unter [Erstellen und Verwalten von Advanced eDiscovery-Fällen in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/create-and-manage-advanced-ediscoveryv2-case).

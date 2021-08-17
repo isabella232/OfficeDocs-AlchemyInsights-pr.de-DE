@@ -14,18 +14,18 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: 425f9ba488fd69b8c5ea29636bccccd995bf48fd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 608e2226c055f58ecf4f62e3c913106a6d319190ed6b317508e41514c12ba5d0
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815245"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893402"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>Haben Ihre Benutzer bösartige e-Mails empfangen?
 
-- Die können bösartige E-Mails jetzt ganz einfach an Microsoft melden, indem Sie die [Administrator-Übermittlungen im Security & Compliance Center](https://sip.protection.office.com/reportsubmission) verwenden.
+Sie können die böswillige E-Mail nun an Microsoft melden, indem Sie [Übermittlungen im Microsoft 365 Defender-Portal](https://sip.security.microsoft.com/reportsubmission?viewid=admin) verwenden.
 
-Nachrichten, die über [Administrator-Übermittlungen](https://sip.protection.office.com/reportsubmission) eingereicht werden, werden überprüft, und die folgenden Ergebnisse werden im Flyout **Details** angezeigt:
+Nachrichten, die über [Administrator-Übermittlungen](https://security.microsoft.com/reportsubmission?viewid=admin) eingereicht werden, werden überprüft, und die folgenden Ergebnisse werden im Details-Flyout angezeigt:
 
 - Mögliche Fehler in der E-Mail-Authentifizierung des Absenders zum Zeitpunkt der Auslieferung.
 - Informationen zu Richtlinientreffern, welche die Bewertung über einer Nachricht beeinflusst oder überschrieben haben könnten.
@@ -39,9 +39,9 @@ Wenn Sie mit der endgültigen Bewertung über eine Nachricht, URL oder Datei (bl
 In der Zwischenzeit können Sie bösartige E-Mails aus den Posteingängen von Benutzern entfernen, indem Sie den Anleitungen in [diesem Artikel](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization) folgen.
 
 - Kunden mit Microsoft Defender für Office 365 können:
-    - den [Sicherheitsrisiken-Explorer zum Auffinden und Löschen von verdächtigen E-Mails](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered) verwenden
-    - [Sichere Links zum Sperren von Zugriff](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) auf eine bösartige URL verwenden
-    - Benutzer nachverfolgen, die auf bösartige URLs geklickt und zugegriffen haben: [Phishing-URL anzeigen und auf Bewertungsdaten klicken](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer) & [Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace).
-    - manuell [eine automatische Untersuchung starten](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
+  - Den [Sicherheitsrisiken-Explorer zum Auffinden und Löschen von verdächtigen E-Mails](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered) verwenden
+  - [Sichere Links zum Sperren von Zugriff](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links) auf eine bösartige URL verwenden
+  - Benutzer nachverfolgen, die auf bösartige URLs geklickt und zugegriffen haben: [Phishing-URL anzeigen und auf Bewertungsdaten klicken](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer) & [Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace).
+  - Manuell [eine automatische Untersuchung starten](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
 
 Sie können sich auch vor bösartigen Dateien und URLs, indem Sie die Anleitungen in [Schutz vor bösartigen URLs und Dateien](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats) befolgen.

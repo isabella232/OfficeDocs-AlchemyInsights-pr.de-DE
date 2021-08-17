@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "1500028"
 - "482"
-ms.openlocfilehash: 94275b950e2f09730aa42d9b8fc0ae39e39be1bd9c8ca4cad5b20926b263fca2
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 127ad8bd2ea71a04475c2cddb1b8a97ec4fadf38
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889381"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314311"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Aktivieren oder Reaktivieren eines Abonnements
 
@@ -36,8 +36,9 @@ Wenn Ihr Abonnement abläuft, von Microsoft deaktiviert wurde oder Sie es in der
 1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
 2. Suchen Sie auf der Registerkarte **Produkte** das Abonnement aus, das Sie reaktivieren möchten.
 3. Wählen Sie die drei Punkte (weitere Aktionen) und dann **Dieses Abonnement reaktivieren** aus.
-    > [!IMPORTANT]
-    > Wenn Sie dieses Abonnement nicht als verfügbare Aktion **reaktivieren** sehen, rufen Sie [den Support](https://go.microsoft.com/fwlink/p/?linkid=518322) auf, um Ihr Abonnement zu reaktivieren.
+
+    **Wichtig:** Wenn Sie dieses Abonnement nicht als verfügbare Aktion **reaktivieren** sehen, rufen Sie [den Support](https://go.microsoft.com/fwlink/p/?linkid=518322) auf, um Ihr Abonnement zu reaktivieren.
+
 4. Wählen Sie im **Bereich "Dieses Abonnement reaktivieren"** eine vorhandene Zahlungsmethode aus, oder wählen Sie **Zahlungsmethode hinzufügen** aus.
 5. Wählen Sie **Reaktivieren** aus.
 

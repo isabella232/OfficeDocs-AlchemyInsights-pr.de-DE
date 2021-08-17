@@ -1,5 +1,5 @@
 ---
-title: Defender für Office 365 für SharePoint, OneDrive und Microsoft Teams
+title: Aktivieren Tresor Anlagen für SharePoint Online, OneDrive und Microsoft Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: db79c1d79ddb9bc92f0601ac156e5e41a8ab83cd603556f191d5491cdd5ae2a3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7357f53ef7827aea9cbb0d222c338a5edf429ffd201bfbb6d7307b3d446fdae2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058865"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894462"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Defender für Office 365 für SharePoint, OneDrive und Microsoft Teams
+# <a name="enable-safe-attachments-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Aktivieren Tresor Anlagen für SharePoint Online, OneDrive und Microsoft Teams
 
-1. Melden Sie sich mit Ihren Anmeldeinformationen für globale Administratoren oder Sicherheitsadministratoren beim [Office 365 Security and Compliance Center](https://protection.office.com/)an.
-2. Wählen Sie im linken Bereich die **Bedrohungsverwaltung** aus, und wählen Sie dann **Richtlinie**  >  [Tresor Anlagen aus.](https://protection.office.com/safeattachment)
-3. Wählen Sie **"Microsoft Defender für Office 365 für SharePoint, OneDrive und Microsoft Teams** aktivieren" und dann **"Speichern"** aus.
+1. Öffnen Sie mit ihren Anmeldeinformationen für globale Administratoren oder Sicherheitsadministratoren das Microsoft 365 Defender-Portal unter , und wechseln Sie <https://security.microsoft.com> dann im Abschnitt **"Richtlinien" zu "Richtlinien & Regeln** für \> **Bedrohungsrichtlinien** Tresor \> **Anlagen".** 
+
+   To go directly to the **Tresor Attachments** page, use <https://security.microsoft.com/safeattachmentv2> .
+
+2. Klicken Sie auf der Seite **Tresor Anlagen** auf **globale Einstellungen.**
+3. On the flyout that appears, select **Turn on Microsoft Defender for Office 365 for SharePoint, OneDrive, and Microsoft Teams**, and then select **Save**.
+
     > [!TIP]
     >
-    > - Führen Sie als globaler Administrator oder SharePoint Onlineadministrator das folgende PowerShell-Cmdlet aus, wobei der **Parameter DisallowInfectedFileDownload** auf *"true"* festgelegt ist: [Set-SPOTenant](https://go.microsoft.com/fwlink/?linkid=2092301)
-    > - [Einrichten von Warnungen für erkannte Dateien](https://go.microsoft.com/fwlink/?linkid=2092110)
+    > Führen Sie die folgenden Schritte aus, um den Schutz von Tresor Anlagen für SharePoint, OneDrive und Microsoft Teams zu verbessern:
+    >
+    > - Um zu verhindern, dass Benutzer schädliche Dateien herunterladen, verwenden Sie den Wert `$true` für den *Parameter DisallowInfectedFileDownload* im **[Cmdlet "Set-SPOTenant"](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant)** in SharePoint Online-PowerShell. Weitere Informationen finden Sie unter [Verwenden von SharePoint Online PowerShell, um zu verhindern, dass Benutzer schädliche Dateien herunterladen.](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-2-recommended-use-sharepoint-online-powershell-to-prevent-users-from-downloading-malicious-files)
+    > - [Erstellen einer Warnungsrichtlinie für erkannte Dateien](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-3-recommended-use-the-microsoft-365-defender-portal-to-create-an-alert-policy-for-detected-files)
 
-Weitere Informationen finden Sie unter [Microsoft Defender für Office 365 für SharePoint, OneDrive und Microsoft Teams.](https://go.microsoft.com/fwlink/?linkid=2092041)
+Weitere Informationen finden Sie unter [Tresor Anlagen für Office 365 für SharePoint, OneDrive und Microsoft Teams.](https://go.microsoft.com/fwlink/?linkid=2092041)

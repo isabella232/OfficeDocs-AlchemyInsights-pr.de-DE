@@ -13,20 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "7273"
-ms.openlocfilehash: 6c275c4916152d49827a8e5aab3e65496f0ad31b254b38e82fdd1ad29554f7d2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f07fa4a64fb64233f88cfbf0a681d6f2ab586c88
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53951672"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313923"
 ---
 # <a name="app-permission-policies"></a>App-Berechtigungsrichtlinien
 
 Mit [App-Berechtigungsrichtlinien](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)können Sie Folgendes tun:
 - Als Administrator können Sie App-Setuprichtlinien im [Microsoft Teams Admin Center](https://admin.teams.microsoft.com/policies/app-permission)verwalten.
 - Steuern Sie, welche Apps Microsoft Teams Benutzern in Ihrer Organisation mithilfe einer globalen Richtlinie zur Verfügung stehen, oder [erstellen und weisen Sie benutzerdefinierte Richtlinien](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) zum Anpassen und Steuern des Benutzerzugriffs auf Apps zu. 
-> [!NOTE]
-> Organisationsweite App-Einstellungen setzen die globale Richtlinie und alle benutzerdefinierten Richtlinien außer Kraft, die Sie erstellen und Benutzern zuweisen.
+**Hinweis:** Organisationsweite App-Einstellungen setzen die globale Richtlinie und alle benutzerdefinierten Richtlinien außer Kraft, die Sie erstellen und Benutzern zuweisen.
 - Sie können [App-Setuprichtlinien](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) verwenden, um Microsoft Teams anzupassen, um die Apps hervorzuheben, die für Ihre Benutzer am wichtigsten sind. 
 
 
