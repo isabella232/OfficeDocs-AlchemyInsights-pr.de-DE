@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11527"
 - "9000292"
-ms.openlocfilehash: 0c144d61cd2de50eac51b78b63fb24b352507a227584fbd8b75b2b2b7b3c6ba2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: dc2e952cf69f065ec6d5cd80712661d285d3d95a9110e09434239ed83fc43617
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54040325"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893798"
 ---
 # <a name="prepare-your-sharepoint-environment-for-the-retirement-of-internet-explorer-11"></a>Vorbereiten Ihrer SharePoint-Umgebung auf die Einstellung von Internet Explorer 11
 
 Obwohl die Unterstützung für Internet Explorer 11 weiterhin besteht, haben wir die Entwicklungsressourcen für Webbrowser auf den [Microsoft Edge-Browser](https://www.microsoft.com/edge/business) verlagert. 
 
-Weitere Informationen finden Sie unter [Vorbereiten Ihrer SharePoint-Umgebung auf die Einstellung von Internet Explorer 11 für Microsoft 365 Apps und -Dienste](/sharepoint/prepare-ie11).
+Weitere Informationen finden Sie unter [Vorbereiten Ihrer SharePoint-Umgebung auf die Einstellung von Internet Explorer 11 für Microsoft 365 Apps und -Dienste](https://docs.microsoft.com/sharepoint/prepare-ie11).
 

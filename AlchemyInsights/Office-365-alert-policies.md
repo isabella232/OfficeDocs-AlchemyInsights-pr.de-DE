@@ -13,16 +13,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: f5109445530ec4cc4988fb9c5d37145c45794ced6920607ce6df85c6497c25ec
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 681f7609f32b004ddfa7bfbeff179757e7063657
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891678"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312686"
 ---
 # <a name="alert-policies"></a>Warnungsrichtlinien
 
-Microsoft 365 enthält [Standardwarnungsrichtlinien,](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) die Warnungen für Organisationen mit einem Microsoft 365 Enterprise- oder Microsoft 365 US Government E1/G1-, E3/G3- oder E5/G5-Abonnement auslösen. Daher erhalten Administratoren möglicherweise eine Benachrichtigung per E-Mail, die von Office365Alerts@microsoft.com mit einer Betreffzeile wie "Eine Warnung mit geringem Schweregrad: *Name der Warnungsrichtlinie"* gesendet wird. Warnungsbenachrichtigungen werden gesendet, wenn Warnungen für allgemeine Aktivitäten ausgelöst werden, z. B. wenn Benutzer:
+Microsoft 365 enthält [Standardwarnungsrichtlinien,](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) die Warnungen für Organisationen mit einem Microsoft 365 Enterprise- oder Microsoft 365 US Government E1/G1-, E3/G3- oder E5/G5-Abonnement auslösen. Daher erhalten Administratoren möglicherweise eine Benachrichtigung per E-Mail, die von Office365Alerts@microsoft.com mit einer Betreffzeile wie "Warnung mit geringem Schweregrad: *Name der Warnungsrichtlinie"* gesendet wird. Warnungsbenachrichtigungen werden gesendet, wenn Warnungen für allgemeine Aktivitäten ausgelöst werden, z. B. wenn Benutzer:
 
 - Erstellen Sie Posteingangsregeln, die E-Mails weiterleiten.
 - Weisen Sie Berechtigungen für ihr Postfach zu.

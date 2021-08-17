@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: ec90e412302c74748e253f2e5430fa4205466f0d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f71fae0aabda3fc48f20d5ea1e6909475f0c17ff5cdf98b58b1403bd2e291c19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820285"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060063"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>Zugreifen auf Bitlocker-Wiederherstellungsschlüssel
 
-Beim Konfigurieren der Intune Endpoint Protection-Richtlinie für Bitlockereinstellungen kann definiert werden, ob Bitlocker-Wiederherstellungsinformationen in Azure Active Directory gespeichert werden sollen.
+Beim Konfigurieren von BitLocker-Einstellungen intune Endpoint Protection Richtlinie ist es möglich, zu definieren, ob Bitlocker-Wiederherstellungsinformationen in Azure Active Directory gespeichert werden sollen.
 
-Wenn diese Einstellung konfiguriert ist, sollten die gespeicherten Wiederherstellungsdaten für einen Intune-Administrator als Teil der Gerätedaten im Blatt Intune Devices auf zwei Arten sichtbar sein:
+Wenn diese Einstellung konfiguriert ist, sollten die gespeicherten Wiederherstellungsdaten einem Intune-Administrator als Teil des Blatts "Gerätedatensatz" auf dem Blatt "Intune-Geräte" auf zwei Arten angezeigt werden:
 
-Geräte - Azure AD-Geräte -> "Gerät" ODER Geräte -> Alle Geräte -> "Device" -> Wiederherstellungsschlüssel
+Geräte – Azure AD-Geräte – > "Gerät" oder Geräte – > Alle Geräte – > "Gerät" – > Wiederherstellungsschlüssel
 
-Wenn Administratorzugriff auf das Gerät selbst besteht, kann der Wiederherstellungsschlüssel (Password) durch Ausführen des folgenden Befehls an einer Eingabeaufforderung mit erhöhten Rechten angezeigt werden:
+Wenn administrativer Zugriff auf das Gerät selbst besteht, kann der Wiederherstellungsschlüssel (Kennwort) auch angezeigt werden, indem Der folgende Befehl an einer Eingabeaufforderung mit erhöhten Rechten ausgeführt wird:
 
 ```
 manage-bde -protectors c: -get
@@ -43,9 +43,9 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-Wenn das Gerät vor der Registrierung in Intune verschlüsselt wurde, wurde der Wiederherstellungsschlüssel möglicherweise dem "Microsoft Account" (MSA) zugeordnet, mit dem sich das Gerät während des OOBE-Prozesses anmeldete. Wenn dies der Fall war, sollten beim Zugriff und der Anmeldung mit dieser MSA die Geräte angezeigt werden, für die Wiederherstellungsschlüssel  https://onedrive.live.com/recoverykey gespeichert wurden.
+Wenn das Gerät vor der Registrierung in Intune verschlüsselt wurde, wurde der Wiederherstellungsschlüssel möglicherweise dem "Microsoft-Konto" (MSA) zugeordnet, das verwendet wurde, um sich während des OoBE-Prozesses beim Gerät anzumelden. Wenn dies der Fall war, sollten beim Zugriff  https://onedrive.live.com/recoverykey auf und der Anmeldung mit diesem MSA die Geräte angezeigt werden, für die Wiederherstellungsschlüssel gespeichert wurden.
  
 Wenn das Gerät aufgrund der Konfiguration über eine domänenbasierte Gruppenrichtlinie verschlüsselt wurde, können die Wiederherstellungsinformationen im lokalen Active Directory gespeichert werden.
 
-Wenn Sie die Endpoint Protection-Richtlinie so konfiguriert haben, dass der Wiederherstellungsschlüssel in Azure Active Directory gespeichert wird, der Schlüssel für ein bestimmtes Gerät jedoch nicht hochgeladen wurde, können Sie den Upload auslösen, indem Sie den Wiederherstellungsschlüssel für dieses Gerät aus der MEM-Konsole drehen. Weitere Informationen finden Sie unter [Rotate BitLocker recovery keys](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys).
+Wenn Sie die Endpunktschutzrichtlinie so konfiguriert haben, dass der Wiederherstellungsschlüssel in Azure Active Directory gespeichert wird, der Schlüssel für ein bestimmtes Gerät jedoch nicht hochgeladen wurde, können Sie den Upload auslösen, indem Sie den Wiederherstellungsschlüssel für dieses Gerät von der MEM-Konsole drehen. Ausführliche Informationen finden Sie unter [Drehen von BitLocker-Wiederherstellungsschlüsseln.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
 

@@ -13,27 +13,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 78fd77c27a3ec62b16325cdb3be469e45514f8cf0b5de4f4264f080b23627eef
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0572765d56d3cd1a38a1a41fec2277ccc4b1da54
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988330"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313697"
 ---
 # <a name="create-an-alert-policy"></a>Erstellen einer Warnungsrichtlinie
 
-So gehen Sie wie folgt vor:
+1. Wechseln Sie im Microsoft 365 Compliance Center unter <https://security.microsoft.com> zu  \> **Richtlinienwarnungsrichtlinien** im Abschnitt **"Warnung".**
 
 1. Wechseln Sie zum [Office 365 Security & Compliance Center.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
 1. Wählen Sie  >  [Warnungsrichtlinien](https://go.microsoft.com/fwlink/?linkid=2103208)aus.
 1. Wählen Sie **+ Neue Warnungsrichtlinie** aus. Ein Flyout wird angezeigt.
 1. Legen Sie die Felder **"Name",** **"Beschreibung",** **"Schweregrad"** und **"Kategorie"** entsprechend Ihren Anforderungen fest. Wählen Sie **Weiter** aus.
 1. Wählen Sie im Dropdownmenü **Aktivität ist** eine Aktivität aus.
-> [!NOTE]
->  Sie können nur eine Aktivität auswählen, aber Sie können Bedingungen hinzufügen, um zu verfeinern, was die Richtlinie erkennt.
-6. Wählen Sie die Warnungsauslöserfrequenzen aus, die Ihren Anforderungen entsprechen, und wählen Sie dann **"Weiter"** aus.
-7. Entscheiden Sie, ob Sie Personen benachrichtigen möchten, wenn diese Warnung ausgelöst wird, indem Sie **"E-Mail-Benachrichtigungen senden"** auswählen und die entsprechenden **E-Mail-Empfänger** auswählen. Wählen Sie **Weiter** aus.
-8. Wenn Sie fertig sind, überprüfen Sie die Einstellungen. Sie können die Richtlinie sofort aktivieren, indem Sie **"Ja" auswählen, sie sofort aktivieren** und dann **"Fertig stellen"** auswählen.
 
-Weitere Informationen finden Sie unter "Warnungsrichtlinieneinstellungen"
+    **Hinweis:** Sie können nur eine Aktivität auswählen, aber Sie können Bedingungen hinzufügen, um zu verfeinern, was die Richtlinie erkennt.
+1. Wählen Sie die Warnungsauslöserfrequenzen aus, die Ihren Anforderungen entsprechen, und wählen Sie dann **"Weiter"** aus.
+1. Entscheiden Sie, ob Sie Personen benachrichtigen möchten, wenn diese Warnung ausgelöst wird, indem Sie **"E-Mail-Benachrichtigungen senden"** auswählen und die entsprechenden **E-Mail-Empfänger** auswählen. Wählen Sie **Weiter** aus.
+1. Wenn Sie fertig sind, überprüfen Sie die Einstellungen. Sie können die Richtlinie sofort aktivieren, indem Sie **"Ja" auswählen, sie sofort aktivieren** und dann **"Fertig stellen"** auswählen.
+   To go directly to the **Alert policy** page, use <https://compliance.microsoft.com/alertpolicies> .
 
+2. Klicken Sie auf **+ Neue Warnungsrichtlinie**.
+3. Setzen Sie im angezeigten Richtlinien-Assistenten-Flyout die folgenden Einstellungen fort:
+   - **Benennen Sie die** Warnungsseite: Geben Sie die Werte **"Name",** **"Description"** (optional), **"Severity"** und **"Category"** entsprechend Ihren Anforderungen ein. Wenn Sie fertig sind, klicken Sie auf **Weiter**.
+   - **Erstellen Sie Warnungseinstellungen:** Wählen Sie eine Aktivität aus dem Dropdownmenü **"Aktivität"** und alle zusätzlichen Angezeigten Einstellungen aus, und wählen Sie die Warnung aus, die Frequenzen auslöst, die Ihren Anforderungen entsprechen. Wenn Sie fertig sind, klicken Sie auf **Weiter**.
+
+     **Hinweis:** Sie können nur eine Aktivität auswählen, aber Sie können Bedingungen hinzufügen, um zu verfeinern, was die Richtlinie erkennt.
+
+   - **Festlegen der Empfängerseite:** Entscheiden Sie, ob Sie Personen benachrichtigen möchten, wenn diese Warnung ausgelöst wird, indem Sie **"E-Mail-Benachrichtigungen senden"** auswählen und die entsprechenden **E-Mail-Empfänger** und einen **Grenzwert für tägliche Benachrichtigungen** auswählen. Wenn Sie fertig sind, klicken Sie auf **Weiter**.
+   - **Überprüfen Sie Ihre Einstellungsseite:** Überprüfen Sie die Einstellungen. Sie können Einstellungen ändern, indem Sie im entsprechenden Abschnitt auf **"Bearbeiten"** klicken. Sie können die Richtlinie sofort aktivieren, indem Sie **"Ja" auswählen, sie sofort aktivieren.**
+
+   Klicken Sie nach Abschluss des Vorgangs auf **Fertig stellen**.
+
+Weitere Informationen finden Sie unter [Warnungsrichtlinien in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
