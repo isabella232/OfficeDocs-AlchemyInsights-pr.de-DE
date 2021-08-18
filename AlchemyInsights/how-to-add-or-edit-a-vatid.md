@@ -15,17 +15,16 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: 797666be608e4f426cb6077dbf40e81e0adef7a6bf01f66b74722274a01c42c7
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e1b25562e75926ce71ad1b854a0bad0af7a4687f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502175"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319499"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Hinzufügen oder Bearbeiten einer Umsatzsteuer-ID
 
-> [!NOTE]
-> Wenn Sie sich in einem Land befinden, das mehrwertige Umsatzsteuer verwendet, z. B. Großbritannien, berechnet Microsoft Invoicing die Umsatzsteuer für Sie und wendet den Betrag auf Ihre Rechnungen an. Weitere Informationen finden Sie unter [VIES-Haftungsausschluss,](https://go.microsoft.com/fwlink/p/?LinkID=841741) der von der Europäischen Kommission veröffentlicht wurde.
+**Hinweis:** Wenn Sie sich in einem Land befinden, das umsatzsteuerpflichtige Umsatzsteuern verwendet, z. B. Großbritannien, berechnet Microsoft Invoicing die Umsatzsteuer für Sie und wendet den Betrag auf Ihre Rechnungen an. Weitere Informationen finden Sie unter [VIES-Haftungsausschluss,](https://go.microsoft.com/fwlink/p/?LinkID=841741) der von der Europäischen Kommission veröffentlicht wurde.
 
 **Hinzufügen oder Bearbeiten einer VatID**
 
@@ -34,4 +33,4 @@ ms.locfileid: "54502175"
 3. Wählen Sie auf der Seite mit den Abonnementdetails im Abschnitt **Dienstnutzungsadresse** die Option **Dienstnutzungsadresse bearbeiten** aus.
 4. Geben Sie im **Adressbereich "Dienstnutzung bearbeiten"** Ihre Umsatzsteuer-ID in das **Feld "Umsatzsteuernummer"** ein, und wählen Sie dann **"Speichern"** aus. Danach wird der nächsten Rechnung keine Umsatzsteuer in Rechnung gestellt.
 
-Weitere Informationen finden Sie unter [Welche Steuer wird mir Microsoft 365 in Rechnung gestellt?](/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).
+Weitere Informationen finden Sie unter [Welche Steuer wird mir Microsoft 365 in Rechnung gestellt?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).

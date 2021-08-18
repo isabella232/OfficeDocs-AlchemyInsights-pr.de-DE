@@ -12,20 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 8159c7750c487a19c58c863d39efce22ad7faecaa44376a2592eb9d3ff6d233a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fcf35457ed886581e37aa8e58df46898775d6651
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988402"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319779"
 ---
 # <a name="enable-the-audit-log"></a>Aktivieren des Überwachungsprotokolls
 
-Für die Kommunikationscompliance sind Überwachungsprotokolle erforderlich, um Warnungen anzuzeigen und die von den Prüfern ergriffenen Abhilfemaßnahmen zu verfolgen. Die Überwachungsprotokolle sind eine Zusammenfassung aller Aktivitäten im Zusammenhang mit einer definierten Organisationsrichtlinie, einschließlich jeder Änderung einer Kommunikationscompliancerichtlinie. So aktivieren Sie die Überwachungsprotokollierung:
+Für die Kommunikationscompliance sind Überwachungsprotokolle erforderlich, um Warnungen anzuzeigen und die von den Prüfern ergriffenen Abhilfemaßnahmen zu verfolgen. Die Überwachungsprotokolle sind eine Zusammenfassung aller Aktivitäten im Zusammenhang mit einer definierten Organisationsrichtlinie, einschließlich jeder Änderung einer Kommunikationscompliancerichtlinie. Führen Sie die folgenden Schritte aus, um die Überwachungsprotokollierung zu aktivieren:
 
-1. Wechseln Sie im [Security & Compliance Center](https://go.microsoft.com/fwlink/?linkid=2101341)zur **Suche** nach  >  **Überwachungsprotokollen.**
-2. Wählen Sie **"Überwachung aktivieren" aus.**
+1. Führen Sie eine der folgenden Aktionen aus:
+   - Wechseln Sie im Microsoft 365 Compliance Center unter <https://compliance.microsoft.com> "Lösungsüberwachung" zu **"Lösungsüberwachung".** \>  Oder verwenden Sie , um direkt zur **Seite "Überwachung"** zu <https://compliance.microsoft.com/auditlogsearch> wechseln.
+   - Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com> zu **"Überwachen".** Oder verwenden Sie , um direkt zur **Seite "Überwachung"** zu <https://security.microsoft.com/auditlogsearch> wechseln.
+2. Überprüfen Sie auf der Seite **"Überwachung",** ob die Registerkarte **"Suche"** ausgewählt ist, und klicken Sie dann auf das Banner "Aufzeichnung von **Benutzer- und Administratoraktivitäten starten".**
 
-    Nachdem Sie die Überwachung aktiviert haben, wird eine Meldung angezeigt, die besagt, dass das Überwachungsprotokoll vorbereitet wird, und Sie können eine Suche in ein paar Stunden nach Abschluss der Vorbereitung ausführen. Sie müssen diese Aktion nur einmal ausführen.
+Nachdem Sie die Überwachung aktiviert haben, wird eine Meldung angezeigt, die besagt, dass das Überwachungsprotokoll vorbereitet wird, und Sie können eine Suche in ein paar Stunden nach Abschluss der Vorbereitung ausführen. Sie müssen diese Aktion nur einmal ausführen.
 
-Weitere Informationen finden Sie unter Aktivieren oder Deaktivieren der [Überwachungsprotokollsuche](https://go.microsoft.com/fwlink/?linkid=2129077) und [Durchsuchen des Überwachungsprotokolls.](https://go.microsoft.com/fwlink/?linkid=2123729)
+Weitere Informationen finden Sie unter Aktivieren oder Deaktivieren der [Überwachungsprotokollsuche](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off) und [Durchsuchen des Überwachungsprotokolls.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)

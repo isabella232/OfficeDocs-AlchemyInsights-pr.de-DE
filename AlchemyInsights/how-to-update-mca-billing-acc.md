@@ -13,19 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5c0f4e7e92081a60be1f6930100ed08ce91ad545
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001507"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320029"
 ---
 # <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Aktualisieren der Mit- und Rechnungsadresse, die Ihrem MCA zugeordnet ist – empfohlene Schritte
 
 Sie können die Mit- und Rechnungsadresse aktualisieren, die Ihrem Microsoft-Kundenvertrag (MCA) zugeordnet ist. 
 
-> [!NOTE]
-> Nur ein Benutzeradministrator kann Änderungen an den Azure Active Directory Benutzerprofilinformationen vornehmen. Wenn Ihnen die Benutzeradministratorrolle nicht zugewiesen ist, wenden Sie sich an ihren Benutzeradministrator. Weitere Informationen zum Ändern des Profils eines Benutzers finden Sie unter [Hinzufügen oder Aktualisieren der Profilinformationen eines Benutzers mithilfe Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
+**Hinweis:** Nur ein Benutzeradministrator kann Änderungen an den Azure Active Directory Benutzerprofilinformationen vornehmen. Wenn Ihnen die Benutzeradministratorrolle nicht zugewiesen ist, wenden Sie sich an ihren Benutzeradministrator. Weitere Informationen zum Ändern des Profils eines Benutzers finden Sie unter [Hinzufügen oder Aktualisieren der Profilinformationen eines Benutzers mithilfe Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
 
 **Weiterverkaufsadresse** – Die Weiterverkaufsadresse ist die Adresse und die Kontaktinformationen der Organisation oder der Einzelperson, die für ein Abrechnungskonto verantwortlich ist. Sie wird in allen Rechnungen angezeigt, die für das Abrechnungskonto generiert wurden.
 
