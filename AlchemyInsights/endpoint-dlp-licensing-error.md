@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200001"
 - "7176"
-ms.openlocfilehash: d17c51177898d62c7c477460c8c26b4753bae65f
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 1e242abe18717e5ef64d6f067ab3ec6fa8833cb672dd21c85e577ce640240ba0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49477671"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090138"
 ---
 # <a name="endpoint-dlp-licensing-error"></a>Endpunkt-DLP-Lizenzierungsfehler
 
-Wenn Sie versuchen, Endpunkt-DLP einzurichten, wenn folgende Fehlermeldung angezeigt wird:
+Wenn Beim Versuch, Endpunkt-DLP einzurichten, wenn folgende Fehlermeldung angezeigt wird:
 
 `Your organization is missing the licenses required to manage these devices`.
 
-Stellen Sie sicher, dass Sie über eines der folgenden Abonnements oder Add-ons verfügen:
+Stellen Sie sicher, dass Sie über eines der folgenden Abonnements oder Add-Ons verfügen:
 
 - Microsoft 365 E5
 - Microsoft 365 A5 (EDU)
@@ -36,6 +36,6 @@ Stellen Sie sicher, dass Sie über eines der folgenden Abonnements oder Add-ons 
 - Microsoft 365 A5 Information Protection und Governance
 
 > [!NOTE]
-> Dies funktioniert nicht für Lizenz Kombinationen wie: Win E5 + O365 E5 + EMS E5. Zum Einrichten dieses Features benötigen Sie eine reine M365 E5-Lizenz.
+> Dies funktioniert nicht für Lizenzkombinationen wie Win E5 + O365 E5 + EMS E5. Sie benötigen eine reine M365 E5-Lizenz, um dieses Feature einzurichten.
 
-Weitere Informationen zur Endpunkt-DLP-Lizenzierung finden Sie unter [EndPoint DLP Licensing.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)
+Weitere Informationen zur Endpunkt-DLP-Lizenzierung finden Sie unter [Endpunkt-DLP-Lizenzierung.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)

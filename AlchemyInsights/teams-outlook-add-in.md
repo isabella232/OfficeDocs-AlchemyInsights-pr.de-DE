@@ -14,12 +14,12 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: d8335c20da06d4cfde2f92149b560f3829c773cfff10aec1ad160b95049f7139
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5af0a042e1ffb686899c9e777fc7ff2a14ad7ecfb8f0d42f529a7ddc449978e6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53956515"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901215"
 ---
 # <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook-Add-In (Freigeben für Teams, Sofortbesprechung, Neue Teams Besprechung, Teilnehmen an Teams Besprechung)
 
@@ -27,10 +27,10 @@ ms.locfileid: "53956515"
 
 1. Führen Sie die Diagnose "Team-Add-In fehlt in Outlook" aus, wodurch überprüft wird, ob ein Benutzer über die richtigen Richtlinien zum Aktivieren des Teams Outlook-Add-Ins verfügt. Um auf die Diagnose zuzugreifen, geben Sie **Diag: Teams Add-In Fehlt in Outlook** im Suchfeld ein.
 
-1. Wenn die Dienstdiagnose keine Probleme anzeigt, diagnostizieren und beheben Sie alle Clientprobleme auf den betroffenen Benutzercomputern, indem Sie das [Microsoft Support- und Wiederherstellungs-Assistent](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Teams Outlook-Add-In-Szenario** herunterladen und ausführen.
+1. Wenn die Dienstdiagnose keine Probleme anzeigt, diagnostizieren und beheben Sie Clientprobleme auf den betroffenen Benutzercomputern, indem Sie das [Microsoft Support- und Wiederherstellungs-Assistent](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Teams Outlook-Add-In-Szenario** herunterladen und ausführen.
 
-Um eine fehlende Teams Outlook-Add-In manuell zu beheben, überprüfen Sie die Liste der möglichen Faktoren, die dazu führen können, dass Ihr Teams-Add-In nicht aufgeführt wird. Weitere Informationen finden Sie unter [Teams Besprechungs-Add-In in Outlook für Windows nicht angezeigt wird.](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)
+Um eine fehlende Teams Outlook-Add-In manuell zu beheben, überprüfen Sie die Liste der möglichen Faktoren, die dazu führen können, dass Ihr Teams-Add-In nicht aufgeführt wird. Weitere Informationen finden Sie unter [Teams Besprechungs-Add-In in Outlook für Windows nicht angezeigt wird.](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)
 
 ## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>So behandeln Sie die Problembehandlung beim Planen einer Teams Besprechung im Auftrag einer anderen Person (Stellvertretung)
 
-Informationen zum Planen einer Teams Besprechung im Namen einer anderen Person finden Sie unter [Problembehandlung bei Microsoft Teams und Exchange Server Interaktionsproblemen.](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)
+Informationen zum Planen einer Teams Besprechung im Namen einer anderen Person finden Sie unter [Problembehandlung bei Microsoft Teams und Exchange Server Interaktionsproblemen.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

@@ -11,17 +11,16 @@ ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
 ms-custom:
 - "1846"
 - "9000253"
-ms.openlocfilehash: 2ce3d5467d8582aa3a3216b0efbc73ead5570248c4da57e175e0d4decc326f1c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 341a77e9a6738cd96a8b4587e52e633be0176010
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54051089"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318087"
 ---
 # <a name="sharepoint-publishing-infrastructure"></a>SharePoint Veröffentlichungsinfrastruktur
 
-> [!IMPORTANT]
-> Moderne Kommunikationswebsites unterstützen nicht die klassischen Veröffentlichungsfunktionen, die als SharePoint Server Publishing Infrastructure bezeichnet werden. Wenn Sie versuchen, das Feature für eine moderne Kommunikationswebsite zu aktivieren, erhalten Sie einen Fehler. Moderne Kommunikationswebsites bieten standardmäßig eine neuere Alternative.
+**Wichtig:** Moderne Kommunikationswebsites unterstützen nicht die klassischen Veröffentlichungsfunktionen, die als SharePoint Server Publishing Infrastructure bezeichnet werden. Wenn Sie versuchen, das Feature für eine moderne Kommunikationswebsite zu aktivieren, erhalten Sie einen Fehler. Moderne Kommunikationswebsites bieten standardmäßig eine neuere Alternative.
 
 Für klassische Websites enthält SharePoint einen klassischen Satz von Features, mit denen Sie umfangreiche Webseiten für Ihr Intranet erstellen und veröffentlichen können. Aktivieren Sie die SharePoint Veröffentlichungsinfrastruktur auf Websitesammlungsebene, um sie zu aktivieren.
 
