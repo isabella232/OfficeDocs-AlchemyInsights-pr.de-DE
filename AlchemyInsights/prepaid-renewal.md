@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "662"
 - "1500012"
-ms.openlocfilehash: e479501eb0bd751d364b39ec75b8c8b990702e84
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: ae4ddd365951190f58c551a4ca2874268ee64186c605be5b33860dcb864235da
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314527"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901963"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>Verlängerung der Microsoft 365 im Voraus bezahlt
 
@@ -29,7 +29,8 @@ ms.locfileid: "58314527"
 3. Wählen Sie auf der Seite "Abonnementdetails" im Abschnitt **"Abonnement- und Zahlungseinstellungen"** die Option **"Enddatum verlängern"** aus.
 4. Wählen Sie auf der Seite zum **Verlängern oder Hinzufügen von Benutzerlizenzen** einen neuen und nicht **verwendeten Product Key verwenden** und dann **"Weiter"** aus.
 5. Geben Sie den Product Key ein, und wählen Sie dann **"Weiter"** aus.
-    **Hinweis:** Wenn Sie über mehr als einen Product Key verfügen, können Sie einen **weiteren Product Key** hinzufügen auswählen, um diesen einzugeben.
+    > [!NOTE]
+    > Wenn Sie mehr als einen Product Key hinzufügen möchten, können Sie **Weiteren Product Key hinzufügen** auswählen und diesen dann eingeben.
 6. Überprüfen Sie Ihre Bestelldetails, und wählen Sie dann **"Einlösen"** aus.
 
 Weitere Informationen finden Sie unter [Hinzufügen von Lizenzen zu oder Erweitern eines Abonnements, das mit einem Product Key bezahlt wurde.](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)

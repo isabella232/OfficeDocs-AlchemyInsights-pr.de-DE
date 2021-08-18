@@ -1,5 +1,5 @@
 ---
-title: Informationen zum Verfahrensverfahren oder zum In-Place-Hold
+title: Informationen zum Beweissicherungsverfahren oder zur In-Situ-Aufbewahrung
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,24 +10,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 08579c3cf887de649480480856ba42478d488a0a
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: dd508bcd2b09ccb0bcdd99c37c3c5ecfbc26ec42f00ddce520ef8e73e3aef436
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709321"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115431"
 ---
-# <a name="about-litigation-holds-and-in-place-holds"></a>Informationen zu Rechtsstreitigkeiten und in-Place-Halterechten
+# <a name="about-litigation-holds-and-in-place-holds"></a>Informationen zu Beweissicherungsverfahren und in-situ-Haltebereichen
 
-- Zum Anwenden eines Rechtsstreits oder eines in-place-Archivs auf ein Postfach ist eine [Exchange Online Plan 2-Lizenz](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) erforderlich. Wenn Sie über einen anderen Plan verfügen, weisen Sie [dem Exchange Online-Archivierung](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) eine separate Lizenz zu. 
+- Um ein Beweissicherungsverfahren oder ein in-situ-Haltebereich auf ein Postfach anzuwenden, ist eine [Exchange Online Plan 2-Lizenz](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) erforderlich. Wenn Sie über einen anderen Plan verfügen, weisen Sie dem Konto eine separate [Exchange Online-Archivierung-Lizenz](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) zu. 
     
-- **Führen Sie die hier beschriebenen Schritte** aus, um einen Rechtsstreit für einen einzelnen Benutzer zu [aktivieren.](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold?view=o365-worldwide#place-a-mailbox-on-litigation-hold) Wenn das Verfahrensverfahren aktiviert ist, werden alle Inhalte im Postfach in der Warteschleife gespeichert.
+- **Um ein Beweissicherungsverfahren** für einen einzelnen Benutzer zu aktivieren, führen Sie die [hier](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold?view=o365-worldwide#place-a-mailbox-on-litigation-hold)beschriebenen Schritte aus. Wenn die Beweissicherung für juristische Zwecke aktiviert ist, werden alle Inhalte im Postfach in die Warteschleife eingecheckt.
     
-- Um einen **in-place-Speicher** für einzelne Benutzer oder einen Halteraum auf alle Postfächer **in** der gesamten Organisation anzuwenden, können Sie Aufbewahrungsrichtlinien im Microsoft 365 Security and Compliance Center verwenden, indem Sie die hier beschriebenen Schritte [ausführen.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+- Um einen **in-situ-Haltebereich auf einzelne Benutzer** oder ein Haltebereich auf alle **Postfächer in der gesamten Organisation** anzuwenden, können Sie Aufbewahrungsrichtlinien im Microsoft 365 Security and Compliance Center verwenden, indem Sie die [hier](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)beschriebenen Schritte ausführen.
     
     > [!NOTE]
-    > Für organisationsweite Aufbewahrungsrichtlinien werden neue Benutzer automatisch zum Halteraum hinzugefügt. 
+    > Bei organisationsweiten Aufbewahrungsrichtlinien werden neue Benutzer automatisch zur Aufbewahrung hinzugefügt. 
   
-- Verwenden Sie **eDiscovery Search and Export,** um die Postfachinhalte anzuzeigen oder zu ermitteln, die in der Warteschleife gespeichert sind. Weitere Informationen zur Verwendung von **eDiscovery Search and Export** finden Sie in den hier beschriebenen [Schritten.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
+- Verwenden Sie **eDiscovery-Suche und -Export,** um die Postfachinhalte anzuzeigen oder zu ermitteln, die in den Haltebereich versetzt werden. Weitere Informationen zur Verwendung von **eDiscovery-Suche und -Export** finden Sie in den [hier](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)beschriebenen Schritten.
     
 

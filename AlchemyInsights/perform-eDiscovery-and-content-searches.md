@@ -14,12 +14,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: cf9363ad94608c34e6d97fd589c745c91f762992
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 984de98c4282d6687e7b87b5414fae5af68adeca301f85e433fd126641b7b22a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317475"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902043"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>So führen Sie Inhaltssuchen und eDiscovery-Suchvorgänge durch
 
@@ -31,7 +31,8 @@ ms.locfileid: "58317475"
 4. Geben Sie die erforderlichen Suchbedingungen ein, einschließlich Schlüsselwörtern und Inhaltsspeicherorten.
 5. Wählen Sie **"Speichern" aus, & ausführen,** um die Suche zu benennen, sie zu starten und dann eine Vorschau der Ergebnisse anzuzeigen.
 
-**Hinweis:** Erweitern **Sie in Microsoft 365 Compliance Center-Lösungen**  >   **eDiscovery,** und wählen Sie Ihr gewünschtes eDiscovery-Tool aus.
+> [!NOTE]
+> Erweitern **Sie in Microsoft 365 Compliance Center-Lösungen**  >   **eDiscovery,** und wählen Sie Ihr gewünschtes eDiscovery-Tool aus.
 
 Ausführliche Anweisungen zu Inhaltssuchen, zum Exportieren von Ergebnissen und zum Erstellen von eDiscovery-Fällen zum Speichern von Daten finden Sie unter [Inhaltssuche](https://docs.microsoft.com/microsoft-365/compliance/content-search) und [eDiscovery-Fälle.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 

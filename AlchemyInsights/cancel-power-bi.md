@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: 9587793d60f9394721e192f5eb32e7cc9ecd1d43c77e970207a817cb30b5d799
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cb90655da29ebb6203446b3c579a9d6e6466df13
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045875"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318949"
 ---
 # <a name="cancel-power-bi"></a>Abbrechen Power BI
 
@@ -33,7 +33,6 @@ Power BI können im Microsoft 365 Admin Center abgebrochen werden.
 
 **Rückerstattung: Jede anteilige Gutschrift wird Ihnen innerhalb des nächsten Abrechnungszyklus zurückgegeben.**
 
-> [!NOTE]
-> Wenn die Option zum Kündigen nicht angezeigt wird, wählen Sie das Abonnement aus, um die Detailseite anzuzeigen. Wählen Sie im Abschnitt **"Abonnement- und Zahlungseinstellungen"** die Option **"Abonnement kündigen"** aus.
+**Hinweis:** Wenn die Option zum Kündigen nicht angezeigt wird, wählen Sie das Abonnement aus, um die Detailseite anzuzeigen. Wählen Sie im Abschnitt **"Abonnement- und Zahlungseinstellungen"** die Option **"Abonnement kündigen"** aus.
 
-Weitere Informationen finden Sie unter [Kündigen Ihres Abonnements.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Weitere Informationen finden Sie unter [Kündigen Ihres Abonnements.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

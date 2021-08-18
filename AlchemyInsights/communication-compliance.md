@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: fe834e12f35550cef669c5a60a2f3e460648dbd0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 267b8985154df802df7359eb22f795612da1275d6c5509b1748828f3c42051b7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817495"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090735"
 ---
-# <a name="communication-compliance-in-microsoft-365"></a>Kommunikationskonformität in Microsoft 365
+# <a name="communication-compliance-in-microsoft-365"></a>Kommunikationscompliance in Microsoft 365
 
-Kommunikationskonformität ist eine neue Microsoft 365-Compliancelösung, mit der Organisationen aufsichtsaufsichtsrichtlinienanforderungen erfüllen und Kommunikationsrisiken minimieren können. Es basiert auf dem Aufsichtsfeature und enthält neue Verbesserungen, einschließlich:
+Kommunikationscompliance ist eine neue Microsoft 365 Compliance-Lösung, die Organisationen dabei unterstützt, aufsichtsrechtliche Complianceanforderungen zu erfüllen und Kommunikationsrisiken zu minimieren. Es basiert auf dem Aufsichtsfeature und enthält neue Verbesserungen, einschließlich:
 
 - Intelligente anpassbare Vorlagen
-- Flexible Korrekturworkflows
+- Flexible Wartungsworkflows
 - Ergebnisorientierte Einblicke
 
-Wenn Sie derzeit [Aufsichtsrichtlinien verwenden,](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)wird empfohlen, die neue Kommunikationskonformität zur Erfüllung gesetzlicher Anforderungen zu verwenden.
+Wenn Sie derzeit [Aufsichtsrichtlinien](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)verwenden, empfehlen wir, dass Sie jetzt die neue Kommunikationscompliance verwenden, um gesetzliche Anforderungen zu erfüllen.
 
-Informationen zum Einrichten der Kommunikationskonformität finden Sie [unter Configure communication compliance](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
+Informationen zum Einrichten der Kommunikationscompliance finden Sie unter [Konfigurieren der Kommunikationscompliance.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)
 
-Informationen zur Untersuchung, Überprüfung und Behebung der Kommunikationskonformität finden Sie unter [Investigate and remediate communication compliance alerts](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate).
+Informationen zum Untersuchen, Überprüfen und Beheben der Kommunikationscompliance finden Sie unter Untersuchen und Beheben von [Kommunikationscompliancewarnungen.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate)
 
-Eine Übersicht über das Kommunikationskonformitätsfeature finden Sie unter [Communication compliance in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
+Eine Übersicht über die Kommunikationscompliance-Funktion finden Sie unter [Kommunikationscompliance in Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance)
 
-Lizenzanforderungen: Benutzer, die von Kommunikationsrichtlinien überwacht werden, müssen über eine der folgenden Optionen verfügen:
+Lizenzanforderungen: Benutzer, die durch Kommunikationsrichtlinien überwacht werden, müssen über eine der folgenden Optionen verfügen:
 
 - Microsoft 365 E5 Compliance-Lizenz
 - Office 365 Enterprise E3-Lizenz mit dem Advanced Compliance-Add-On
 - Office 365 Enterprise E5-Abonnement
 
-Wenn Sie über keine der oben genannten Verfügen und die Kommunikationskonformität testen möchten, registrieren Sie sich für eine Testversion **[von Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
+Wenn Sie keines der oben genannten Optionen haben und die Kommunikationscompliance testen möchten, **[registrieren Sie sich für eine Testversion von Office 365 Enterprise E5.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
 
 > [!NOTE]
-> Es kann bis zu 24 Stunden dauern, bis E-Mail-Nachrichten vollständig in einer Richtlinie verarbeitet werden. Die Kommunikation in Microsoft Teams, Yammer und Drittanbieterplattformen kann bis zu 48 Stunden in einer Richtlinie dauern.
+> Es kann bis zu 24 Stunden dauern, bis E-Mail-Nachrichten vollständig in einer Richtlinie verarbeitet wurden. Es kann bis zu 48 Stunden dauern, bis die Kommunikation in Microsoft Teams-, Yammer- und Drittanbieterplattformen vollständig in einer Richtlinie verarbeitet wird.

@@ -12,16 +12,16 @@ ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: 67983aa1210b8c4694d47d8f5de4c60c97248f9f
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: ab1d8283bcd537cf666dd60b3a23459d4d1dfa8aa5167e2d6fb2a9b779b4b3e1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58311290"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115503"
 ---
 # <a name="information-about-gdpr"></a>Informationen zur DSGVO
 
-- [DSGVO vereinfacht – Eine Anleitung für Ihr kleines Unternehmen](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/gdpr-compliance)
+- [DSGVO vereinfacht – Eine Anleitung für Ihr kleines Unternehmen](/microsoft-365/admin/security-and-compliance/gdpr-compliance)
 
 - Erste Schritte mit dem [Service Trust Portal.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 
@@ -31,7 +31,7 @@ ms.locfileid: "58311290"
 
   - [Überwachungsberichte](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
 
-- Informationen zu **Anträgen betroffener Personen (Data Subject Requests,** DSR): Ermittlung, Zugriff, Berichtigung, Einschränkung, Löschung, Export sind [hier.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
+- Informationen zu **Anträgen betroffener Personen (Data Subject Requests,** DSR): Ermittlung, Zugriff, Berichtigung, Einschränkung, Löschung, Export sind [hier.](/microsoft-365/compliance/gdpr-dsr-office365)
 
 - Informationen zur **Benachrichtigung über Datenschutzverletzungen** sind [hier.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
 

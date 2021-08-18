@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 79f15b285a9726e65a8d3fc39909d114d2b646ae
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 2140dc77dab16cfd42f831314df960d09b6b02a53d513fa52d208ab7e8d66d98
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736607"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090879"
 ---
 # <a name="intune-enrollment"></a>Intune-Registrierung
 
-Informationen zur Problembehandlung bei der Geräteregistrierung finden Sie unter:
+Informationen zur Behandlung von Problemen bei der Geräteregistrierung finden Sie unter:
 
 - [Problembehandlung bei der Geräteregistrierung in Microsoft Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
 - [Problembehandlung bei der iOS/iPadOS-Geräteregistrierung](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
-- [Problembehandlung bei der automatischen Registrierung von Windows 10](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
+- [Problembehandlung bei Windows 10 automatischen Registrierung](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
 - [Behandeln von Problemen mit Android Enterprise-Geräten](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-android-enrollment)
-- [Behandeln von Problemen mit der Registrierung von Windows-Geräten](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-windows-enrollment-errors)
+- [Problembehandlung bei Windows Geräteregistrierungsproblemen](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-windows-enrollment-errors)
 
 [Weitere Informationen zur Intune-Registrierung...](https://docs.microsoft.com/mem/intune/enrollment/)
