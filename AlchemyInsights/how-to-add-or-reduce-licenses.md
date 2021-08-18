@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "319"
 - "1500007"
-ms.openlocfilehash: 299aca30aa9fdd8fae803f3874b2600483bfc058c128f9e87e4898a69f4505c3
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 1d96cefc7918359e5d9006628d3eec723a39a77d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501815"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326388"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Hinzufügen oder Entfernen von Lizenzen für Ihr Abonnement
 
@@ -32,10 +32,10 @@ ms.locfileid: "54501815"
 4. Um Lizenzen zu kaufen oder zu entfernen, geben Sie unter **"Neue Menge"** im Feld **"Lizenzen insgesamt"** die Gesamtanzahl der Lizenzen ein, die Sie für dieses Abonnement benötigen. Wenn Sie beispielsweise über 100 Lizenzen verfügen und weitere 25 Lizenzen hinzufügen möchten, geben Sie 125 ein. Wenn Sie 25 Lizenzen entfernen möchten, geben Sie 75 ein.
 5. Wählen Sie **Speichern** aus.
 
-Informationen zum Zuweisen von Lizenzen finden Sie unter [Zuweisen von Lizenzen zu Benutzern.](/microsoft-365/admin/manage/assign-licenses-to-users)
+Informationen zum Zuweisen von Lizenzen finden Sie unter [Zuweisen von Lizenzen zu Benutzern.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 **Ressourcen**
   
-- [Lizenzen kaufen oder entfernen](/microsoft-365/commerce/licenses/buy-licenses)
-- [Abbrechen Microsoft 365 für Unternehmen](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
-- [Testen oder Kaufen eines Microsoft 365 business-Abonnements](/microsoft-365/commerce/try-or-buy-microsoft-365)
+- [Lizenzen kaufen oder entfernen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [Abbrechen Microsoft 365 für Unternehmen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Testen oder Kaufen eines Microsoft 365 business-Abonnements](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)

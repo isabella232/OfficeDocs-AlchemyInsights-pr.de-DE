@@ -16,17 +16,17 @@ ms.custom:
 - "485"
 - "1500018"
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
-ms.openlocfilehash: b95eb4eb201777852bab3ff5347ace99d544307a1859c1044c150ee368bd9400
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: df29f379e807e116222e9803454e750928f2a1b1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499619"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325842"
 ---
 # <a name="payment-methods-for-microsoft-for-business"></a>Zahlungsmethoden für Microsoft for Business
 
 Wenn Sie ein Microsoft 365 business-Abonnement direkt von Microsoft kaufen, können Sie mit einer Kredit- oder Debitkarte bezahlen. In einigen Ländern oder Regionen können Sie auch mit einem Bankkonto bezahlen.
   
-Wenn Sie sich dafür entscheiden, eine Kreditkarte als Zahlungsmethode zu verwenden, erfahren Sie, wie Sie die Verwaltung und Problembehandlung über ["Zahlungsmethoden verwalten"](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)durchführen.
+Wenn Sie sich dafür entscheiden, eine Kreditkarte als Zahlungsmethode zu verwenden, erfahren Sie, wie Sie die Verwaltung und Problembehandlung über ["Zahlungsmethoden verwalten"](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)durchführen.
   
 Dieser Artikel enthält auch Vorschläge zur Problembehandlung, wenn Ihre Kreditkarte abgelehnt wird, sowie Informationen zum Ändern von Kreditkarteninformationen, damit die Karte akzeptiert wird.
