@@ -15,12 +15,12 @@ ms.custom:
 - "9005291"
 - "11089"
 - "9006490"
-ms.openlocfilehash: 06ad41ae0d76b5734d6a399e023d1ae84f5b86d8b9b48d7696619dbf22d88618
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 19efa16e7cf665648a03dc95da9d68841ca9e531
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899943"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323239"
 ---
 # <a name="determine-channel-strategy"></a>Festlegen der Kanalstrategie
 
@@ -28,8 +28,7 @@ Microsoft Edge wird in vier Kanälen veröffentlicht, die steuern, wie oft der B
 
 Der Stable-Kanal ist der Kanal, den Sie auf den meisten Geräten bereitstellen sollten. Sie sollten jedoch die Bereitstellung mehrerer Kanäle und Geräte in Betracht ziehen.
 
-> [!NOTE]
-> Sie können mehr als einen Kanal auf einem einzelnen Gerät installieren.
+**Hinweis**: Sie können mehr als einen Kanal auf einem einzelnen Gerät installieren.
 
 **Mehrere Geräte und Kanäle**
 

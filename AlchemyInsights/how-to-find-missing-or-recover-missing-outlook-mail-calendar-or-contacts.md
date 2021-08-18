@@ -13,18 +13,22 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: 17a6eb841a87b046bd822052a467b4ad40d83b76f1aeac5bc56bea29b4d9a755
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7693ec5585ce7562f2feeacc94c592885ccc2ec2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029155"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323157"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Suchen und Wiederherstellen fehlender Nachrichten, Kontakte oder Kalenderelemente in Outlook
 
-1. Wechseln Sie in Outlook zu Ihrer E-Mail-Ordnerliste, und wählen Sie dann **gelöschte Elemente aus.** **Wichtig:** Wenn der Ordner **"Gelöschte Elemente"** nicht angezeigt wird, sondern der **Ordner "Papierkorb",** unterstützt Ihr Konto nicht die Wiederherstellung eines Elements, das sich nicht mehr im Ordner **"Gelöschte Elemente"** befindet.
+1. Wechseln Sie in Outlook zu Ihrer E-Mail-Ordnerliste, und wählen Sie dann **gelöschte Elemente aus.** 
 
-2. Klicken Sie im Menü **"Start"** auf **"Gelöschte Elemente vom Server wiederherstellen".** **Wichtig:** Wenn im Menü kein Befehl **"Gelöschte Elemente vom Server wiederherstellen"** vorhanden ist, unterstützt Ihr Konto nicht das Wiederherstellen eines Elements, das sich nicht mehr im Ordner **"Gelöschte Elemente"** befindet.
+    **Wichtig:** Wenn der Ordner **"Gelöschte Elemente"** nicht angezeigt wird, sondern der **Ordner "Papierkorb",** unterstützt Ihr Konto nicht die Wiederherstellung eines Elements, das sich nicht mehr im Ordner **"Gelöschte Elemente"** befindet.
+
+2. Klicken Sie im Menü **"Start"** auf **"Gelöschte Elemente vom Server wiederherstellen".** 
+
+    **Wichtig:** Wenn im Menü kein Befehl **"Gelöschte Elemente vom Server wiederherstellen"** vorhanden ist, unterstützt Ihr Konto nicht das Wiederherstellen eines Elements, das sich nicht mehr im Ordner **"Gelöschte Elemente"** befindet.
 
 3. Wählen Sie die Elemente aus, die Sie wiederherstellen möchten, klicken Sie auf **"Ausgewählte Elemente wiederherstellen"** und dann auf **"OK".**
 

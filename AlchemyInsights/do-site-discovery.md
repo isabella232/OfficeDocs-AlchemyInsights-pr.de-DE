@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9143"
 - "9005291"
-ms.openlocfilehash: bdf94220de45d92f63e56501ea4e35389224d25c
-ms.sourcegitcommit: 475a9eaa095812091991857df6cf6490a8bbe179
+ms.openlocfilehash: 5ae99192c769dd5d5acae1c6e8f9b021e824b465
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50529228"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322166"
 ---
 # <a name="do-site-discovery"></a>Website-Ermittlung durchführen
 
@@ -36,8 +36,7 @@ Ermitteln Sie alle SSO- oder andere neutrale Websites, die Sie verwenden, und f�
 
 Wenn Sie derzeit nur Internet Explorer verwenden, wissen Sie möglicherweise nicht, welche Websites auf moderne Webstandards aktualisiert wurden, und für welche weiterhin Internet Explorer erforderlich ist. Sie sollten diese Websites ermitteln und der Enterprise-Websiteliste hinzufügen, damit der Internet Explorer-Modus nur für diese Websites verwendet werden kann.
 
-> [!NOTE]
-> Bei der [Enterprise-Website-Ermittlung](https://docs.microsoft.com/internet-explorer/ie11-deploy-guide/collect-data-using-enterprise-site-discovery) werden Websites ermittelt, für die möglicherweise der Internet Explorer-Modus benötigt wird. Dabei können Daten auf Computern mit Windows Internet Explorer 8 bis Internet Explorer 11 unter Windows 10, Windows 8.1 oder Windows 7 erfasst werden.
+**Hinweis**: Bei der [Unternehmenswebsiteermittlung](https://docs.microsoft.com/internet-explorer/ie11-deploy-guide/collect-data-using-enterprise-site-discovery) werden Websites ermittelt, für die möglicherweise der Internet Explorer-Modus benötigt wird. Dabei können Daten auf Computern mit Windows Internet Explorer 8 bis Internet Explorer 11 unter Windows 10, Windows 8.1 oder Windows 7 erfasst werden.
 
 **Analysieren der Daten**
 
@@ -47,8 +46,7 @@ Nach deren Erfassung empfehlen wir die folgenden vier Schritte zum Analysieren d
 3. Testen Sie die App, um zu verifizieren, dass sie nicht nativ funktioniert. Viele Websites stellen modernen Inhalt bereit, wenn sie einen modernen Browser erkennen, und älteren, wenn sie Internet Explorer erkennen.
 4. Fügen Sie die App Ihrer Enterprise-Websiteliste hinzu, wenn der Test fehlschlägt.
 
-> [!NOTE]
-> Eine bewährte Methode beseht darin, alle Websites, die eine App umfassen, zu gruppieren. Auf diese Weise ist es einfacher, die gesamte Website aus dem Internet Explorer-Modus zu entfernen, wenn Sie ein Upgrade einer App durchführen, und mit der Verwendung eines modernen Browsers für diese App zu beginnen.
+**Hinweis**: Eine bewährte Methode beseht darin, alle Websites, die eine App umfassen, zu gruppieren. Auf diese Weise ist es einfacher, die gesamte Website aus dem Internet Explorer-Modus zu entfernen, wenn Sie ein Upgrade einer App durchführen, und mit der Verwendung eines modernen Browsers für diese App zu beginnen.
 
 Nachdem Sie die Website-Ermittlung durchgeführt und die Daten analysiert haben, können Sie sich mit Ihrer Kanalstrategie befassen.
 

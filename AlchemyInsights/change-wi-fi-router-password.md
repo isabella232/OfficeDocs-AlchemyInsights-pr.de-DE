@@ -1,5 +1,5 @@
 ---
-title: Ändern des W-Fi-Routerkennworts
+title: W-Fi-Routerkennwort ändern
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,32 +12,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: 61de1cd3e1cab28c01aa0a2fddcd41a13a92d361
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a216d0e06a3e6865ca0ed157d976e5623ddbd9b02624e387a2f9755315f913bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818181"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119607"
 ---
-# <a name="change-your-wi-fi-router-password"></a>Ändern des Wi-Fi Routerkennworts
+# <a name="change-your-wi-fi-router-password"></a>Ändern ihres Wi-Fi Routerkennworts
 
-Führen Sie die folgenden Schritte aus, um das Kennwort Wi-Fi Routers zu ändern:
+Gehen Sie folgendermaßen vor, um das Kennwort Ihres Wi-Fi Routers zu ändern:
 
-1. Wählen **Sie**  >  **Starteinstellungen**  >  **Netzwerk &**  >  **Internetnetzwerk und Freigabecenter aus.**
+1. Wählen Sie  >  **"Start Einstellungen**  >  **Network & Internet** Network and Sharing  >  **Center"** aus.
 
-2. Suchen Sie unter Anzeigen **Ihrer aktiven** Netzwerke nach dem Netzwerk, mit dem Sie verbunden sind. Wählen Sie den blauen Link neben **Verbindungen aus.**<br>
+2. Suchen Sie unter **"Aktive Netzwerke anzeigen"** nach dem Netzwerk, mit dem Sie verbunden sind. Wählen Sie den blauen Link neben **"Verbindungen" aus.**<br>
 
-   **Hinweis:** Wenn Sie nicht mit dem WLAN verbunden sind, müssen Sie eine Verbindung erhalten, bevor Sie das Kennwort ändern können.
+   **Hinweis:** Wenn Sie nicht mit dem WLAN verbunden sind, müssen Sie eine Verbindung herstellen, bevor Sie das Kennwort ändern können.
 
-3. Wählen Sie **Details aus.**
+3. Wählen Sie **Details** aus.
 
-4. Suchen Sie nach Ihrem IPv4-Standardgateway, und notieren Sie sich diese Zahlenzeichenfolge einschließlich Zeiträumen. Zum Beispiel: 192.168.0.1, 192.168.1.1, 10.0.0.1 oder 10.0.1.1.
+4. Suchen Sie nach Ihrem IPv4-Standardgateway, und notieren Sie sich diese Zahlenfolge, einschließlich Perioden. Zum Beispiel: 192.168.0.1, 192.168.1.1, 10.0.0.1 oder 10.0.1.1.
 
 5. Öffnen Sie einen Browser, geben Sie diese Zahlenfolge einschließlich der Punkte in die Adressleiste ein und drücken Sie die Eingabetaste, um zur Konfigurationsseite des Routers zu gelangen.
 
 6. Wenn die Konfigurationsseite des Routers geöffnet wird, geben Sie Ihren Benutzernamen und Ihr Kennwort ein.<br>
-   - Wenn Sie den Standardbenutzernamen und das Kennwort für den Router noch nie geändert haben, können Sie diese Informationen wahrscheinlich im Handbuch Ihres Routers finden.
+   - Wenn Sie den Standardbenutzernamen und das Standardkennwort für den Router noch nie geändert haben, können Sie diese Informationen wahrscheinlich im Handbuch Ihres Routers finden.
 
-   - Wenden Sie sich an den Hersteller Ihres Routers, wenn Sie zusätzliche Unterstützung bei der Anmeldung bei dieser Webseite benötigen.
+   - Wenden Sie sich an den Hersteller Ihres Routers, wenn Sie zusätzliche Unterstützung für die Anmeldung bei dieser Webseite benötigen.
 
-7. Sobald Sie angemeldet sind, suchen Sie nach Drahtloseinstellungen. Sie sollten jetzt in der Lage sein, Ihr Kennwort Wi-Fi ändern.
+7. Nachdem Sie angemeldet sind, suchen Sie nach den Drahtloseinstellungen. Sie sollten nun in der Lage sein, Ihr Wi-Fi Kennwort zu ändern.

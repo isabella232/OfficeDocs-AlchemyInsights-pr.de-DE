@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d85069970fe6bc6cc7a8488c49c0e6236426d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054797"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321906"
 ---
 # <a name="issues-with-links-and-urls"></a>Probleme mit Links und URLs
 
@@ -40,17 +40,15 @@ Wechseln Sie zum Hinzufügen einer Antwort-URL im Azure-Portal auf der **Anwendu
     Weitere Informationen finden Sie unter [Desktop-Apps: App-Registrierung – Umleitungs-URI](https://docs.microsoft.com/azure/active-directory/develop/scenario-desktop-app-registration#redirect-uris).
 - Bei mobilen Anwendungen hängt der Umleitungs-URI von Folgendem ab:
     - der Plattform (iOS/Android/UWP)
-    - der zum Erstellen der App verwendeten Informationen, z. B. der Paket-ID in iOS, sowie dem Paketnamen und dem Signaturhashwert unter Android. Die Azure Portal-App-Registrierung hilft Ihnen dabei. Einzelheiten hierzu finden Sie unter [Plattformkonfiguration und Umleitungs-URIs](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
+    - die Informationen, die zum Erstellen Ihrer App verwendet werden, z. B. die Bundle-ID in iOS, und der Paketname und der Signatur-Hash unter Android. Die Azure-Portal-App-Registrierung hilft Ihnen. Weitere Informationen finden Sie unter [Plattformkonfiguration und Umleitungs-URIs](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
-> [!NOTE]
-> Web-APIs und einige der Arten des Abrufens von Token im Hintergrund (IWA und Benutzername/Kennwort) erfordern keinen Umleitungs-URI.
+**Hinweis**: Web-APIs und einige der Arten des Abrufens von Token im Hintergrund (IWA und Benutzername/Kennwort) erfordern keinen Umleitungs-URI.
 
 **Ich habe meine Webanwendung bereitgestellt, und wenn ich sie teste, wird die Meldung angzeigt, dass die Antwort-URL nicht übereinstimmend ist.**
 
 Fügen Sie Umleitungs-URIs für alle Orte hinzu, an denen Sie die Webanwendung bereitstellen. Weitere Informationen finden Sie unter [Registrieren einer Web-App über das Azure-Portal](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
 
-> [!NOTE]
-> Fügen Sie einen Umleitungs-URI für einen Ort unmittelbar nach der Bereitstellung der Anwendung an diesem Ort hinzu.
+**Hinweis**: Fügen Sie einen Umleitungs-URI für einen Ort unmittelbar nach der Bereitstellung der Anwendung an diesem Ort hinzu.
 
 **Ich kann nicht genügend Antwort-URLs registrieren.**
 

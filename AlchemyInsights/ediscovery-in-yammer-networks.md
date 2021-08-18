@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 2583a1d83047e87a5d655195a3941ee860ff1ced
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f5e2f29e30db5ee2b042b43dc4737c90198ebd7025b9e1637f922b655a1a3f83
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814479"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118383"
 ---
 # <a name="ediscovery-in-yammer-networks"></a>eDiscovery in Yammer Netzwerken
 
-Sie können nun eDiscovery-Suchen nach Inhalten Yammer durchführen.  Für die Ausführung von eDiscovery-Suchen oder exportieren Yammer inhalt erfordert Folgendes:
+Sie können eDiscovery jetzt nach Yammer Inhalten suchen.  Das Ausführen von eDiscovery-Suchen oder Exportieren nach Yammer Inhalten erfordert Folgendes:
 
-1. Sie müssen zunächst Ihr Yammer Enterprise Network in den nativen Modus migrieren, um Ihre Yammer und Dateien zu erkennen. Hinweis: Wenn Sie ab dem **9. Januar 2020** ein neuer Kunde sind und Sich Ihr Yammer-Netzwerk bereits im nativen Modus befindet, können Ihre Daten jetzt mit eDiscovery ermittelt werden.
+1. Sie müssen zuerst Ihr Yammer Enterprise-Netzwerk in den nativen Modus migrieren, damit Ihre Yammer Nachrichten und Dateien auffindbar sind. **Hinweis: Wenn Sie ab dem 9. Januar 2020 ein neuer Kunde sind und sich Ihr Yammer Netzwerk bereits im nativen Modus befindet, sind Ihre Daten jetzt mit eDiscovery auffindbar.**
 
-2. EDiscovery für Yammer wird für kundeneigene Kunden verfügbar sein, sobald das Tool für die Ausrichtung des nativen Modus veröffentlicht wurde und die Migration des systemeigenen Modus für Yammer Mandanten abgeschlossen ist.
+2. Für Kunden, die den nativen Modus verlassen, ist eDiscovery für Yammer verfügbar, sobald das Ausrichtungstool für den nativen Modus veröffentlicht wurde und die Migration des nativen Modus für Yammer im Mandanten abgeschlossen ist.
 
-Weitere Informationen zu:
+Weitere Informationen:
 
-- Native Mode in Yammer, siehe: [Overview of Native Mode](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
-- eDiscovery in Yammer Networks, siehe: Übersicht über [eDiscovery in Yammer Netzwerken](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
-- eDiscovery in Microsoft 365 finden Sie unter [eDiscovery in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+- Nativer Modus in Yammer, siehe: [Übersicht über den nativen Modus.](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode)
+- eDiscovery in Yammer Netzwerken: [Übersicht über eDiscovery in Yammer Netzwerken.](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery)
+- eDiscovery in Microsoft 365, siehe [eDiscovery in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
