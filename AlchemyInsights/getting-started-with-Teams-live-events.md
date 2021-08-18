@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: eb5ef701bbf15643a9ae5412e8f19f512f6b5e7cd649a08e6c63001b299dcf48
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bf811c26aabc89e4ddd68b0a07677ae15cfe0f77
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088863"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333158"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Erste Schritte mit Live-Veranstaltungen in Teams
 
@@ -27,7 +27,9 @@ Zum Erstellen eines Live-Ereignisses benötigen Sie Folgendes:
 
 - Vergewissern Sie sich zunächst, dass Teams-Liveereignisse [in Ihrem Land und Ihrer Region verfügbar sind](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability). Liveereignisse werden in einigen Ländern noch nicht unterstützt.  Wenn Sie Lizenzen zugewiesen und Richtlinien festgelegt haben, aber immer noch kein Teams-Liveereignis erstellen können, befinden Sie sich wahrscheinlich in einem Land oder einer Region, in dem bzw. der Liveereignisse noch nicht verfügbar sind.
 
-- Eine [Lizenz für Office 365 Enterprise E1, E3 oder E5 oder eine Lizenz für Office 365 A3 oder A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Hinweis**: Aufgrund der aktuell gestiegenen Nutzung von Teams, kann es möglicherweise bis zu 24 Stunden dauern, bis ein Benutzer, dem Sie eine Teams-Lizenz zugewiesen haben, vollständig eingerichtet ist. Bis zu diesem Zeitpunkt sind Sie nicht in der Lage, diesen Benutzern Teams-Richtlinien zuzuweisen, und diese haben möglicherweise keinen Zugriff auf einige Teams-Features wie Anrufe und Audiokonferenzen.
+- Eine [Lizenz für Office 365 Enterprise E1, E3 oder E5 oder eine Lizenz für Office 365 A3 oder A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). 
+
+    **Hinweis**: Aufgrund der aktuell gestiegenen Nutzung von Teams, kann es möglicherweise bis zu 24 Stunden dauern, bis ein Benutzer, dem Sie eine Teams-Lizenz zugewiesen haben, vollständig eingerichtet ist. Bis zu diesem Zeitpunkt sind Sie nicht in der Lage, diesen Benutzern Teams-Richtlinien zuzuweisen, und diese haben möglicherweise keinen Zugriff auf einige Teams-Features wie Anrufe und Audiokonferenzen.
 
 - Die Berechtigung zum [Erstellen von Live-Ereignissen im Microsoft Teams Admin Center](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy).
 

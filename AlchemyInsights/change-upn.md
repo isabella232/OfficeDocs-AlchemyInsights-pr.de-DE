@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: d6d62762a5da836a8fb4b6e750bdeca4d0fb46e42f30f4fde2183550e5d2210f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b87a0dbc9640cefe32a6bec3bea228eee91fe21a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54082401"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332434"
 ---
 # <a name="change-a-users-email-address"></a>Ändern der E-Mail-Adresse eines Benutzers
 
@@ -31,7 +31,7 @@ Das Ändern der E-Mail-Adresse einer Person ist einfach! Führen Sie einfach die
     
 4. Geben Sie im **Feld "Alias"** eine neue E-Mail ein, und wählen Sie dann **"Hinzufügen"** aus.
     
-    **WICHTIG:** Wenn Sie die Fehlermeldung " **Ein Parameter konnte nicht gefunden werden, der dem Parameternamen "EmailAddresses" entspricht,** erhalten, bedeutet dies, dass es etwas länger dauert, bis Microsoft die Einrichtung Ihres Mandanten oder Ihrer benutzerdefinierten Domäne abgeschlossen hat, wenn Sie kürzlich eine hinzugefügt haben. Der Setupvorgang kann bis zu 4 Stunden dauern. Warten Sie eine Weile, damit der Setupvorgang abgeschlossen ist, und versuchen Sie es dann erneut. Wenn das Problem weiterhin besteht, rufen Sie den Support an, der eine vollständige Synchronisierung für Sie durchführt.
+    **Wichtig:** Wenn Sie die Fehlermeldung **"Ein Parameter kann nicht gefunden werden, der dem Parameternamen "EmailAddresses" entspricht,** erhalten, bedeutet dies, dass es etwas länger dauert, bis Microsoft die Einrichtung Ihres Mandanten abgeschlossen hat, oder Ihrer benutzerdefinierten Domäne, wenn Sie kürzlich eine hinzugefügt haben. Der Setupvorgang kann bis zu 4 Stunden dauern. Warten Sie eine Weile, damit der Setupvorgang abgeschlossen ist, und versuchen Sie es dann erneut. Wenn das Problem weiterhin besteht, rufen Sie den Support an, der eine vollständige Synchronisierung für Sie durchführt.
     
     Wenn Die Fehlermeldung **"Leider konnte der Benutzer nicht bearbeitet werden" angezeigt wird. Überprüfen Sie die Benutzerinformationen, und versuchen Sie** es erneut" bedeutet dies, dass Sie kein globaler Administrator sind und keine Berechtigungen zum Ändern des Benutzernamens haben.
     

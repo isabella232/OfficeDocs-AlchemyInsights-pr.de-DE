@@ -15,12 +15,12 @@ ms.custom:
 - "6700008"
 - "9004638"
 - "8392"
-ms.openlocfilehash: f3614a41c1bc92184d7f8a11bd224310fef6aa0cabc8e1db1288bde01ca1cb5a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 92673c4a2a0e0faa98d3ade5ca1f6aa687d4c94a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53922220"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331040"
 ---
 # <a name="removing-data-and-wiping-devices-from-intune"></a>Entfernen von Daten und Zurücksetzen des Geräts aus Intune
 
@@ -32,8 +32,7 @@ Die Aktionen "Gerät zurücksetzen" und "Gerät abkoppeln" können verwendet wer
 4. Wählen Sie zum Bestätigen **Ja** aus. Bis zum Löschen wird der Status der Geräteaktion als *Abkoppeln ausstehend* angezeigt.
     Nach Abschluss der Aktion wird das mobile Gerät nicht mehr in der Liste der verwalteten Geräte angezeigt.
 
-> [!NOTE]
-> Unternehmensdaten können nicht von Geräten entfernt werden, die mit Azure AD verbunden sind. 
+**Hinweis**: Unternehmensdaten können nicht von Geräten entfernt werden, die mit Azure AD VERBUNDEN sind. 
 
 Ausführliche Informationen zu den Auswirkungen der Aktionen "Abkoppeln" und "Zurücksetzen", einschließlich der beibehaltenen und gelöschten Aktionen, finden Sie in der folgenden Dokumentation:
 

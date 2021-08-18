@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3583"
-ms.openlocfilehash: de1aa1537c9f5728533000949f869182633ae7277d5e2910b6e572a10195571d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f18c97ba9c374e44b2561e87e57bbd2d2a025e48
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54077829"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332780"
 ---
 # <a name="manage-updates-in-windows-10"></a>Verwalten von Updates in Windows 10
 
@@ -25,7 +25,8 @@ Unter Windows 10 können Sie auswählen, wann und wie Sie die neuesten Updates e
 
 - Klicken Sie in auf **[Start > Einstellungen > Aktualisierung & Sicherheit > Windows Update](ms-settings:windowsupdate)**.
 
-- Klicken Sie entweder auf **Aktualisierungen für die Dauer von 7 Tagen anhalten** oder **Erweiterte Optionen**. Klicken Sie dann im Abschnitt **Aktualisierungen anhalten** auf das Dropdownmenü und legen Sie das Datum fest, an dem Aktualisierungen fortgesetzt werden sollen. **Bitte beachten**; Nachdem der Grenzwert für das Anhalten erreicht ist, müssen Sie die neuesten Updates installieren, bevor Sie die Aktualisierungen erneut anhalten können.
+- Klicken Sie entweder auf **Aktualisierungen für die Dauer von 7 Tagen anhalten** oder **Erweiterte Optionen**. Klicken Sie dann im Abschnitt **Aktualisierungen anhalten** auf das Dropdownmenü und legen Sie das Datum fest, an dem Aktualisierungen fortgesetzt werden sollen. 
+    **Bitte beachten**; Nachdem der Grenzwert für das Anhalten erreicht ist, müssen Sie die neuesten Updates installieren, bevor Sie die Aktualisierungen erneut anhalten können.
 
 Ihr Gerät muss neu gestartet werden, um die Installation von Updates abzuschließen. Wenn Sie zum Neustart Ihres Geräts aufgefordert werden, während Sie es verwenden, können Sie diesen Vorgang für eine Ihnen passendere Zeit planen:
 

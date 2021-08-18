@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000076"
 - "7317"
-ms.openlocfilehash: fd285d1158d7b358e4c698cf6014422cc2fb536e1fbdf98630bebda359f9c553
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a005c4a6848bbf0725560375df1220ce906cbb5f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972715"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330958"
 ---
 # <a name="troubleshoot-prt-issue"></a>Problembehandlung beim PRT-Problem
 
@@ -31,11 +31,10 @@ Der Azure AD-Hybridregistrierungsprozess erfordert, dass sich Geräte in einem U
 Dieser Registrierungsfluss wird auch als "Sync Join" bezeichnet.
 
 1. Windows 10 ermittelt einen SCP-Eintrag, wenn sich der Benutzer beim Gerät anmeldet.
-    1. Das Gerät versucht zunächst, Mandanteninformationen von clientseitigem SCP in der Registrierung [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD] abzurufen. Weitere Informationen finden Sie in diesem [Dokument](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
+    1. Das Gerät versucht zunächst, Mandanteninformationen aus clientseitigem SCP in der Registrierung [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD] abzurufen. Weitere Informationen finden Sie in diesem [Dokument](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
     2. Wenn ein Fehler auftritt, kommuniziert das Gerät mit dem lokalen Active Directory (AD), um Mandanteninformationen vom Dienstverbindungspunkt (Service Connection Point, SCP) abzurufen. Informationen zur Überprüfung von SCP finden Sie in diesem [Dokument.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point) 
 
-> [!NOTE]
-> Es wird empfohlen, SCP im AD zu aktivieren und nur clientseitige SCP für die anfängliche Überprüfung zu verwenden.
+**Hinweis:** Es wird empfohlen, SCP im AD zu aktivieren und nur clientseitige SCP für die anfängliche Überprüfung zu verwenden.
 
 2. Windows 10 versucht, mit Azure AD im Systemkontext zu kommunizieren, um sich bei Azure AD zu authentifizieren. Sie können überprüfen, ob das Gerät unter dem Systemkonto auf Microsoft-Ressourcen zugreifen kann, indem Sie das Skript "Geräteregistrierungskonnektivität testen" verwenden.
 
@@ -47,8 +46,7 @@ Dieser Registrierungsfluss wird auch als "Sync Join" bezeichnet.
 
 6. Bei der nächsten Benutzeranmeldung bei Windows 10 wird die Registrierung abgeschlossen. 
 
-> [!NOTE]
-> Wenn Sie sich auf einem VPN befinden und die Domänenkonnektivität durch einen Anmeldevorgang beendet wird, können Sie die Registrierung manuell auslösen:
+**Hinweis:** Wenn Sie sich auf einem VPN befinden und ein Anmeldevorgang die Domänenkonnektivität beendet, können Sie die Registrierung manuell auslösen:
  1. Geben Sie einen dsregcmd /join lokal auf Administratoraufforderung oder remote über PSExec an Ihren PC aus. Beispiel: PsExec -s \\ win10client01 cmd, dsregcmd /join
 
  2. Weitere Informationen zu Problemen beim Hybridbeitritt finden Sie unter [Problembehandlung bei Geräten.](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344)
