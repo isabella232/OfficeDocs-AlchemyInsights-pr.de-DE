@@ -14,12 +14,12 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: 21bad16e22d8c1ef0f39f4376f0a299756d43587d5a2b3b165bc6a90c1fc4e1a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5ac46a90e3ad928723ba601043acce92c23d5c84
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54005521"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320157"
 ---
 # <a name="delete-a-profile"></a>Löschen eines Profils
 
@@ -31,8 +31,7 @@ Führen Sie die folgenden Schritte aus, um ein Profil zu löschen.
 
 3. Wählen Sie im Dialogfeld **E-Mail** das Profil aus, das Sie löschen möchten, und klicken Sie dann auf **"Entfernen".**
 
-    > [!NOTE]
-    > Outlook sie möglicherweise warnen, dass beim Löschen Ihres Profils Offlinedaten entfernt werden. Sie verlieren keine Informationen, die in Ihren Outlook-Datendateien (PST) oder in Ihren Onlinekonten gespeichert sind, z. B. Outlook.com-, Exchange- oder Microsoft 365-Konten.
+    **Hinweis:** Outlook sie möglicherweise warnen, dass beim Löschen Ihres Profils Offlinedaten entfernt werden. Sie verlieren keine Informationen, die in Ihren Outlook-Datendateien (PST) oder in Ihren Onlinekonten gespeichert sind, z. B. Outlook.com-, Exchange- oder Microsoft 365-Konten.
   
 Informationen **Outlook für Mac** Profilverwaltung finden Sie unter [Verwalten von Profilen oder Identitäten in Outlook für Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) oder führen Sie die folgenden Schritte aus.
   

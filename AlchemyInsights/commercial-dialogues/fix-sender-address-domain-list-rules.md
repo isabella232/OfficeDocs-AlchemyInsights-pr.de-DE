@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7e3c729e9bf630fa798c746f25f046606a1459a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896110"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320488"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>Beheben Absenderadresse/Domänenlistenregeln
 
 Eine Ihrer Antispamrichtlinien wirkte sich auf diese Nachricht aus. Der Absender der Nachricht wurde in einer Zulassungs- oder Sperrliste gefunden. Führen Sie die folgenden Schritte aus, um die Richtlinien zu überprüfen:
 
-1. Wechseln Sie im Microsoft 365 Defender Portal unter <https://security.microsoft.com/> **"E-Mail & Richtlinien** für die Zusammenarbeit & Richtlinien für \>  \> **Bedrohungsregeln** \> **Antispam"** im Abschnitt **"Richtlinien".**
+1. Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com/> **"E-Mail & Richtlinien** für die Zusammenarbeit & Richtlinien für \>  \> **Bedrohungsregeln** \> **Antispam"** im Abschnitt **"Richtlinien".**
 
    Wechseln Sie direkt zur Seite **Antispamrichtlinien**, verwenden Sie <https://security.microsoft.com/antispam>.
 

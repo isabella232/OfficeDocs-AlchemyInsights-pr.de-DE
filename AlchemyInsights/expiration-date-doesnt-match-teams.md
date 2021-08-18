@@ -1,5 +1,5 @@
 ---
-title: Ablaufdatum des Teams und der zugrunde liegenden Gruppe nicht übereinstimmen
+title: Ablaufdatum des Teams und der zugrunde liegenden Gruppe stimmt nicht überein
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6667"
 - "9003760"
-ms.openlocfilehash: 7174158a73cd5c26f3ff531381e2d6c62b6a1ad3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 76bf82780ad74c4ecc7077b26d3bd9c88f3957842685bcd683d7b2bbaf3a26fa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813435"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117735"
 ---
-# <a name="expiration-date-of-team-and-underlying-group-dont-match"></a>Ablaufdatum des Teams und der zugrunde liegenden Gruppe nicht übereinstimmen
+# <a name="expiration-date-of-team-and-underlying-group-dont-match"></a>Ablaufdatum des Teams und der zugrunde liegenden Gruppe stimmt nicht überein
 
-Bevor ein Team erneuert wird, wird zuerst die Gruppe erneuert, die das Team zurückdingt. Im Rahmen der Verlängerung wird ein neues Ablaufdatum für die Gruppe für ein zukünftiges Datum festgelegt. Dieses neue Datum ist möglicherweise nicht sofort in Teams sichtbar. Die Synchronisierung kann bis zu 24 Stunden dauern. Wenn sie eine Diskrepanz zwischen dem Ablaufdatum eines Teams und der zugrunde liegenden Gruppe sehen, warten Sie 24 Stunden, bevor Sie weitere Unterstützung suchen.  
+Bevor ein Team erneuert wird, wird die Gruppe, die das Team unterstützt, zuerst erneuert. Im Rahmen der Verlängerung wird für die Gruppe ein neues Ablaufdatum für ein zukünftiges Datum festgelegt. Dieses neue Datum ist möglicherweise nicht sofort in Teams sichtbar. Die Synchronisierung kann bis zu 24 Stunden dauern. Wenn eine Abweichung zwischen dem Ablaufdatum für ein Team und der zugrunde liegenden Gruppe angezeigt wird, warten Sie 24 Stunden, bevor Sie weiteren Support wünschen.  
 
-Weitere Informationen finden Sie unter [Ablauf und Verlängerung des Teams in Microsoft Teams.](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)
+Weitere Informationen finden Sie [unter Ablauf und Verlängerung des Teams in Microsoft Teams.](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)
