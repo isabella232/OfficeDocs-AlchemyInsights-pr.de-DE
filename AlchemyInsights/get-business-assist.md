@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500026"
 - "11658"
-ms.openlocfilehash: 9a80ed4740fbc0ecb6fcdb4775678aa88ef21339
-ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
+ms.openlocfilehash: 946c7d86068026620163868463c4bb37108b1d60c4495ec548dc36043bce8414
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53023138"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898743"
 ---
 # <a name="get-business-assist"></a>Business Assist abrufen
 
-1. Wechseln Sie im Microsoft 365 Admin Center zur [Business-Assistent für Microsoft 365 Seite,](https://go.microsoft.com/fwlink/p/?linkid=2158423)wählen Sie eine Abrechnungshäufigkeit aus, und wählen Sie dann **"Kaufen"** aus.
+1. Wechseln Sie im Microsoft 365 Admin Center zur [Seite "Business Assist for Microsoft 365",](https://go.microsoft.com/fwlink/p/?linkid=2158423)wählen Sie eine Abrechnungshäufigkeit aus, und wählen Sie dann **"Kaufen"** aus.
 2. Führen Sie die schritte zum Auschecken aus.
 
-Weitere Informationen finden Sie unter [Business-Assistent für Microsoft 365](/microsoft-365/admin/misc/business-assist).
+Weitere Informationen finden Sie unter [Business Assist für Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/misc/business-assist).

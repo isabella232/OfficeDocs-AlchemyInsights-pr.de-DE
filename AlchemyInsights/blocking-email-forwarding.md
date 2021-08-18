@@ -1,5 +1,5 @@
 ---
-title: 726 Blockieren der E-Mail-Weiterleitung
+title: Blockieren oder Aufheben der Blockierung der automatischen externen E-Mail-Weiterleitung
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 0bff7ede02809e133dc6616452ec840f552bd4fa6c45b7987d6455b2a9ba49bf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6c4ddd53ab794ffad3179dd86a8f81785567cfe34240dff2aa0a1df11094883d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54059631"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897467"
 ---
-# <a name="blocking-or-unblocking-email-forwarding"></a>Blockieren oder Aufheben der E-Mail-Weiterleitung
+# <a name="block-or-unblock-eternal-automatic-email-forwarding"></a>Blockieren oder Aufheben der Blockierung der automatischen E-Mail-Weiterleitung
 
 Informationen zum Aktivieren oder Deaktivieren der E-Mail-Weiterleitung für ein bestimmtes Postfach finden Sie unter Konfigurieren der [E-Mail-Weiterleitung.](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
 
-Auf Mandantenebene erfolgt die Steuerung der externen Weiterleitung mithilfe der Richtlinie für ausgehende Spamnachrichten. Sie können die Richtlinie für ausgehende Spamfilter im Security and Compliance Center [hier](https://protection.office.com/antispam) oder mit dem [Befehl "Get-HostedOutboundSpamFilterPolicy"](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy)überprüfen.
+Administratoren können die externe Weiterleitung für die Organisation mithilfe [ausgehender Spamrichtlinien](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy)steuern. Sie verwalten ausgehende Spamrichtlinien im Microsoft 365 Defender Portal unter <https://security.microsoft.com/antispam> oder mithilfe des Cmdlets ["Get-HostedOutboundSpamFilterPolicy"](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy) in Exchange Online PowerShell.
 
-Wenn Sie den folgenden Fehler erhalten: **"550 5.7.520 Zugriff verweigert, Ihre Organisation lässt keine externe Weiterleitung zu"**, stellen Sie sicher, dass die Richtlinie so konfiguriert ist, dass die externe automatische Weiterleitung aktiviert wird.
+Wenn Sie den folgenden Fehler erhalten: **"550 5.7.520 Zugriff verweigert, Ihre Organisation lässt keine externe Weiterleitung zu"**, stellen Sie sicher, dass die Richtlinie so konfiguriert ist, dass externe automatisch weitergeleitete Nachrichten aktiviert werden.
 
-**Hinweis:** Es wird empfohlen, die externe AutoForward-Richtlinie für Ihre standardmäßige Richtlinie für ausgehende Spamfilter deaktiviert zu lassen und sie nur für die Benutzer zu aktivieren, die externe Weiterleitung benötigen, indem Sie eine benutzerdefinierte Richtlinie für diese Benutzer erstellen. Weitere Informationen finden Sie unter [Konfigurieren der externen E-Mail-Weiterleitung in Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)
+**Hinweis:** Wir empfehlen den Standardwert **"Automatisch** – System gesteuert für die Einstellung für die **automatische Weiterleitungsregeln"** in Ihrer standardmäßigen Richtlinie für ausgehende Spamfilter (die automatische externe Weiterleitung wird blockiert; die interne automatische Weiterleitung funktioniert weiterhin). Sie sollten benutzerdefinierte richtlinien für ausgehende Spamfilter erstellen und den Wert **"Ein – Weiterleitung"** nur für Benutzer verwenden, die eine externe automatische E-Mail-Weiterleitung benötigen. Weitere Informationen finden Sie unter [Konfigurieren der externen E-Mail-Weiterleitung in Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)

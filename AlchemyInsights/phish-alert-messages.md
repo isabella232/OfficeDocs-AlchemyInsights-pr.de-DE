@@ -11,18 +11,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 2e24f489292f38b5e9cacc8b9bfe5730ebfc71ce5e3004be479134ef6c791a12
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 90b078147bbb1e60cba0a2de6e49a862469f93aa
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899331"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316357"
 ---
 # <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Benachrichtigen von E-Mail-Nachrichten von der Richtlinie "Phish Delivered due to tenant or user override"
 
 Eine Standardwarnungsrichtlinie namens **Phish Delivered due to tenant or user override** ist in Organisationen mit Microsoft Defender für Office 365 P1- und P2-Lizenzen verfügbar. Wenn Sie diese Warnung erhalten haben, gehen Sie folgendermaßen vor:
 
-1. Klicken Sie in der Warnmeldung auf **Warnung anzeigen,** um zur Seite **"Warnungen"** im portal Microsoft 365 Defender zu gelangen.
+1. Klicken Sie in der Warnmeldung auf **Warnung anzeigen,** um zur Seite **"Warnungen"** im portal Microsoft 365 Defender zu wechseln.
 
 2. Wählen Sie die Warnung aus, um die Option zum Anzeigen von **Nachrichtenlisten** oder **Nachrichten im Explorer anzuzeigen.** Beide Optionen führen Sie zu den Details der Nachricht, die die Nachrichten-ID enthält. Beachten Sie, dass der Link "Bedrohungs-Explorer" automatisch die Nachrichten filtert, die den Warnungskriterien entsprechen. Möglicherweise müssen Sie den Datumsfilter im Bedrohungs-Explorer anpassen.
 
