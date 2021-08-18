@@ -1,5 +1,5 @@
 ---
-title: Konfigurieren von Microsoft Edge-Richtlinieneinstellungen für Windows 10 mithilfe von Microsoft Intune
+title: Verwenden von Microsoft Intune zum Konfigurieren Microsoft Edge Richtlinieneinstellungen für Windows 10
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,17 +14,17 @@ ms.custom:
 - "9004632"
 - "7096"
 - "8365"
-ms.openlocfilehash: 0107571b4a9313b39751f8c8d06468ccf8cdf807
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 7b044a17c06522bd0cc97eef10841754833f7ae04fb25e9951c1d9df7e93f6f9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51401762"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114135"
 ---
-# <a name="use-microsoft-intune-to-configure-microsoft-edge-policy-settings-for-windows-10"></a>Konfigurieren von Microsoft Edge-Richtlinieneinstellungen für Windows 10 mithilfe von Microsoft Intune
+# <a name="use-microsoft-intune-to-configure-microsoft-edge-policy-settings-for-windows-10"></a>Verwenden von Microsoft Intune zum Konfigurieren Microsoft Edge Richtlinieneinstellungen für Windows 10
 
-Sie können Microsoft Edge-Richtlinien und -Einstellungen konfigurieren, indem Sie Microsoft Intune ein Gerätekonfigurationsprofil hinzufügen. Dies entspricht dem Konfigurieren von Microsoft Azure Active Directory-Gruppenrichtlinien oder lokalen Gruppenrichtlinienobjekteinstellungen auf Benutzergeräten.
+Sie können Microsoft Edge Richtlinien und Einstellungen konfigurieren, indem Sie ein Gerätekonfigurationsprofil zu Microsoft Intune hinzufügen. Dies entspricht der Konfiguration von Microsoft Azure Active Directory Gruppenrichtlinien oder lokalen Gruppenrichtlinienobjekteinstellungen (GPO) auf Benutzergeräten.
 
-Weitere Informationen finden Sie unter [Create a profile to manage settings in Microsoft Edge for Windows 10](https://go.microsoft.com/fwlink/?linkid=2133700).
+Weitere Informationen finden Sie unter [Erstellen eines Profils zum Verwalten von Einstellungen in Microsoft Edge für Windows 10](https://go.microsoft.com/fwlink/?linkid=2133700).
 
-Dieser Artikel gilt für Microsoft Edge Version 77 und höher.
+Dieser Artikel bezieht sich auf Microsoft Edge Versionen 77 und höher.

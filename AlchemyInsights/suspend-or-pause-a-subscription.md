@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002927"
 - "5603"
-ms.openlocfilehash: 565578622249269604c8dcb1ec10b1f1036e17673e26bd0eb15a38d323aa28bd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8fe79ddda20443b75e3c315b6bd90a60c9cebfa5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54107016"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317343"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>Deaktivieren oder Pausieren eines Abonnements
 
@@ -27,6 +27,6 @@ Um Ihr Abonnement vorübergehend auszusetzen oder zu pausieren, können Sie das 
 
 1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > **[Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 2. Suchen Sie auf der Registerkarte **Produkte** das Abonnement, das Sie kündigen möchten. Wählen Sie die drei Punkte (Weitere Aktionen) und dann **Abonnement kündigen** aus.
-3. Als Abonnementstatus wird **Deaktiviert** angezeigt, und es wird das Datum angezeigt, an dem das Abonnement gekündigt wurde. Das Abonnement bleibt jetzt für 90 Tage mit dem Status "Deaktiviert" erhalten und bietet nur noch eingeschränkte Funktionen, bis es gelöscht oder [reaktiviert](/microsoft-365/commerce/subscriptions/reactivate-your-subscription) wird.
+3. Als Abonnementstatus wird **Deaktiviert** angezeigt, und es wird das Datum angezeigt, an dem das Abonnement gekündigt wurde. Das Abonnement bleibt jetzt für 90 Tage mit dem Status "Deaktiviert" erhalten und bietet nur noch eingeschränkte Funktionen, bis es gelöscht oder [reaktiviert](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription) wird.
 
-Weitere Informationen finden Sie unter [Was geschieht, wenn man ein Abonnement kündigt?](/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) und [Speichern Ihrer Daten](/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).
+Weitere Informationen finden Sie unter [Was geschieht, wenn man ein Abonnement kündigt?](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) und [Speichern Ihrer Daten](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).

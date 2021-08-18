@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004610"
 - "11540"
-ms.openlocfilehash: 0ffa91f0e31a4904db87f0df6d9b4c51b05ae2758a5ce0d96c77ef4456f6d033
-ms.sourcegitcommit: 71501cde5bcb73f4dcf23944d400a4db10f37033
+ms.openlocfilehash: 36273e998bbf97e261dbaa49b3b57aab17216e9f0e9bd29c5d2b9f6c0d9803e4
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/09/2021
-ms.locfileid: "57807192"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900763"
 ---
 # <a name="teams-contacts-sync"></a>Teams-Kontaktsynchronisierung
 
@@ -31,6 +31,6 @@ Teams verwendet Kontakte im Active Directory Ihrer Organisation sowie Kontakte, 
     1. Löschen Sie den Inhalt des Ordners.
     1. Starten Sie den Computer neu und versuchen Sie, Teams zu starten.
 1. Wenn sich der Kontakt in Outlook befindet, stellen Sie sicher, dass er der Kontaktliste hinzugefügt wird. Wählen Sie in Outlook in der Adressleiste **Datei** aus, und wählen Sie dann **Zu Kontakten hinzufügen** aus.
-1. Stellen Sie sicher, dass das Exchange-Postfach online gehostet ist (nicht lokal). Weitere Informationen finden Sie unter [Interaktion von Exchange und Microsoft Teams](/microsoftteams/exchange-teams-interact).
+1. Stellen Sie sicher, dass das Exchange-Postfach online gehostet ist (nicht lokal). Weitere Informationen finden Sie unter [Interaktion von Exchange und Microsoft Teams](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
 1. Stellen Sie sicher, dass die Telefonnummer des Kontaktes zu den Kontaktinformationen hinzugefügt ist.
 1. Suchen Sie in der Suchleiste nach der E-Mail des Kontakts. Kontakte, die Sie mit der Kontaktliste synchronisieren können.

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8283"
 - "9004614"
-ms.openlocfilehash: fb944ae8dac7a8a222d2946025d8009216d6ca02efa750977bc9037bf578c8a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea5000a06f86c0bc33cb057b67f6001fd1a4d5bddd39ac3324cd3b5c74ecdae7
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972607"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900687"
 ---
 # <a name="troubleshoot-signing-in-to-onedrive"></a>Problembehandlung beim Anmelden bei OneDrive
 
@@ -29,7 +29,7 @@ In diesem Artikel werden folgende Szenarien beschrieben:
 
 **Fehlerbehebung beim Anmelden am OneDrive-Synchronisierungsclient**
 
-- Schritte zum Beheben des Fehlercodes 0x004de40 finden Sie unter [Fehlercodecode 0x8004de40 bei der Anmeldung bei OneDrive](/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive).
+- Schritte zum Beheben des Fehlercodes 0x004de40 finden Sie unter [Fehlercodecode 0x8004de40 bei der Anmeldung bei OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive).
 - Melden Sie sich bei OneDrive oder der SharePoint-Website an, indem Sie die Website besuchen, und klicken Sie auf die Schaltfläche **Synchronisieren** oben in der Menüleiste der Website. 
 - Stellen Sie sicher, dass Sie sich bei OneDrive for Business anmelden, nicht bei OneDrive.com. Wenn die von Ihnen besuchte URL mit onedrive.live.com beginnt, ist dies nicht der Speicherort für Ihr OneDrive for Business. Eine einfache Möglichkeit, um sicherzustellen, dass Sie sich bei OneDrive for Business anmelden, ist dieser Link: https://portal.office.com/onedrive, dann verwenden Sie Ihr Geschäfts-, Schul- oder Unikonto, um sich anzumelden.
 - Wenn Sie weiterhin Probleme haben, denken Sie daran, [OneDrive zurückzusetzen](https://support.microsoft.com/office/reset-onedrive-34701e00-bf7b-42db-b960-84905399050c).
@@ -48,5 +48,5 @@ Wenn eine Fehlermeldung mit dem Inhalt **Upload blockiert**, **Anmelden, um dies
 
 **Weitere Tipps zur Problembehandlung**
 
-Wenn Sie ein globaler, Lizenz- oder Benutzeradministrator sind, [weisen Sie dem betroffenen Benutzer die richtige Lizenz zu](/microsoft-365/admin/manage/assign-licenses-to-users).
+Wenn Sie ein globaler, Lizenz- oder Benutzeradministrator sind, [weisen Sie dem betroffenen Benutzer die richtige Lizenz zu](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
