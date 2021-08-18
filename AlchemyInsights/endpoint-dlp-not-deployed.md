@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11470"
 - "9000292"
-ms.openlocfilehash: 2d5f0486ed8d4cbd95603f223bc0e48c4dcf38abb001d1616ca968b1d6bba7de
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fa0e2766e1526d8e81cb247029e7c0fd98630b96
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54044231"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316817"
 ---
 # <a name="endpoint-dlp-not-deployed-to-users-device"></a>Verhinderung von Datenverlust am Endpunkt auf dem Gerät des Benutzers nicht bereitgestellt
 
@@ -34,4 +34,4 @@ Wenn die Einstellung für die Verhinderung von Datenverlust am Endpunkt nicht au
 
 - Um Richtlinienaktionen durchzusetzen, stellen Sie sicher, dass der Microsoft Chromium Edge-Browser auf dem Endpunktgerät installiert ist.
 
-Weitere Anforderungen für die Bereitstellung der Verhinderung von Datenverlust am Endpunkt finden Sie unter [Erste Schritte mit der Verhinderung von Datenverlust am Endpunkt](/microsoft-365/compliance/endpoint-dlp-getting-started#prepare-your-endpoints).
+Weitere Anforderungen für die Bereitstellung der Verhinderung von Datenverlust am Endpunkt finden Sie unter [Erste Schritte mit der Verhinderung von Datenverlust am Endpunkt](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#prepare-your-endpoints).

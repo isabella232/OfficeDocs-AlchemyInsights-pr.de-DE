@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 3c5c27aee261d75ed41518e18617db96ce910ba13c32c8ac541a5ee81522ebea
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ab370e992c1f58ff388e5d4db57245fe7fcbd682
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897795"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316291"
 ---
 # <a name="set-up-exchange-online-protection"></a>Einrichten von Exchange Online Protection
 
 Microsoft Exchange Online Der Schutz (EOP) ist ein cloudbasierter E-Mail-Filterdienst zum Schutz vor Spam, Schadsoftware und Spoofing mit Features zum Schutz Ihrer Organisation vor Verstößen gegen Nachrichtenrichtlinien.
 
-Verwenden Sie die [Exchange Online Protection Einrichtungshandbuchs,](https://admin.microsoft.com/adminportal/home?#/modernonboarding/setupexchangeonlineprotection) um EOP einzurichten, indem Sie unter den drei Bereitstellungsszenarien auswählen, die am besten zu Ihrer Organisation passen:
+Verwenden Sie das [Exchange Online Protection Setuphandbuch,](https://admin.microsoft.com/adminportal/home?#/modernonboarding/setupexchangeonlineprotection) um EOP einzurichten, indem Sie unter den drei Bereitstellungsszenarien auswählen, die am besten zu Ihrer Organisation passen:
 
 - Alle lokalen Postfächer.
 - Hybrid (Kombination aus lokalen und Cloudpostfächern
 - Alle Cloudpostfächer, die zu Ihrer Organisation passen.
 
-Das Handbuch enthält Informationen und Ressourcen, um EOP einzurichten und die Lizenzierung Ihres Benutzers zu überprüfen, Berechtigungen in der Microsoft 365 Admin Center zuzuweisen und die Sicherheitsrichtlinien Ihrer Organisation zu konfigurieren.
+Das Handbuch enthält Informationen und Ressourcen, um EOP einzurichten und die Lizenzierung Ihres Benutzers zu überprüfen, Berechtigungen im Microsoft 365 Admin Center zuzuweisen und die Sicherheitsrichtlinien Ihrer Organisation zu konfigurieren.

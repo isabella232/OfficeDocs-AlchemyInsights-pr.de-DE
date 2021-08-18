@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 374d03b97240c50ed8a3f20f36dce7bb5db2ede39cbe25711ed615efdbe1ac93
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 76c89da561655e44777dad55541a984e11f190a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54100401"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316639"
 ---
 # <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>Exportieren von Elementen in eine Archivdatei in Outlook für Mac
 
@@ -24,8 +24,7 @@ Um die Größe Ihres Posteingangs zu reduzieren, archivieren Sie E-Mail-Nachrich
 
 1. Klicken Sie auf der Registerkarte **"Extras"** auf **"Exportieren".**
 
-> [!NOTE]
-> Wird die Schaltfläche **"Exportieren"** nicht angezeigt? Stellen Sie sicher, dass Sie über die neueste Version von Outlook verfügen. Klicken Sie im **Outlook Hilfemenü** auf **"Nach Updates suchen".** Wenn alle Outlook Updates angewendet werden und die Schaltfläche **"Exportieren"** weiterhin nicht angezeigt wird, suchen Sie im Menü Outlook **Datei** nach **"Exportieren".**
+    **Hinweis:** Wird die Schaltfläche **"Exportieren"** nicht angezeigt? Stellen Sie sicher, dass Sie über die neueste Version von Outlook verfügen. Klicken Sie im Outlook **Hilfemenü** auf **Nach Updates suchen.** Wenn alle Outlook Updates angewendet werden und die Schaltfläche **"Exportieren"** weiterhin nicht angezeigt wird, suchen Sie im Menü Outlook **Datei** nach **"Exportieren".**
 
 2. Aktivieren Sie im Kontrollkästchen **"In Archivdatei exportieren" (OLM)** die Elemente, die Sie exportieren möchten, und klicken Sie auf **"Weiter".**
 

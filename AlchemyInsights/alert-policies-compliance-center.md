@@ -1,5 +1,5 @@
 ---
-title: Warnungsrichtlinien im Security & Compliance Center
+title: Warnungsrichtlinien in Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006571"
 - "11243"
-ms.openlocfilehash: 1aa9f898555b440b55707889bc85358986a6568ee6a159985d2e60041cff7750
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d29bd5034253449af704b5398d68e5032a355e0f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53933500"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317047"
 ---
-# <a name="alert-policies-in-the-security-and-compliance-center"></a>Warnungsrichtlinien im Security & Compliance Center
+# <a name="alert-policies-in-microsoft-365"></a>Warnungsrichtlinien in Microsoft 365
 
-Die Tools für Warnungsrichtlinie und Warnungsdashboard im Microsoft 365 Security and Compliance Center helfen Benutzern beim Erstellen von Warnungsrichtlinien und zeigen dann die Warnungen an, die generiert werden, wenn Benutzer Aktivitäten ausführen, die den Bedingungen einer Warnungsrichtlinie entsprechen. Verschiedene Standardwarnungsrichtlinien helfen bei der Überwachung von Aktivitäten wie dem Zuweisen von Administratorrechten in Exchange Online, Schadsoftwareangriffen, Phishingkampagnen und ungewöhnlichen Ebenen von Dateilöschungen und externer Freigabe.
+Die Warnungsrichtlinien- und Warnungsdashboard-Tools im Microsoft 365 Compliance Center und im Microsoft 365 Defender-Portal helfen Administratoren beim Erstellen von Warnungsrichtlinien und zeigen dann die Warnungen an, die generiert werden, wenn Benutzer Aktivitäten ausführen, die den Bedingungen einer Warnungsrichtlinie entsprechen. Verschiedene Standardwarnungsrichtlinien helfen bei der Überwachung von Aktivitäten wie dem Zuweisen von Administratorrechten in Exchange Online, Schadsoftwareangriffen, Phishingkampagnen und ungewöhnlichen Ebenen von Dateilöschungen und externer Freigabe.
 
-MitHilfe von Warnungsrichtlinien können Sie Warnungen kategorisieren, die durch eine Richtlinie ausgelöst werden, die Richtlinie auf alle Benutzer in Ihrer Organisation anwenden, einen Schwellenwert für den Zeitpunkt festlegen, an dem eine Warnung ausgelöst wird, und entscheiden, ob E-Mail-Benachrichtigungen empfangen werden sollen, wenn Warnungen ausgelöst werden. Eine Seite "Warnungen anzeigen" im Security & Compliance Center ermöglicht Es Benutzern auch, Warnungen anzuzeigen und zu filtern, einen Warnungsstatus festzulegen, um Warnungen zu verwalten, und warnungen dann zu schließen, nachdem der zugrunde liegende Vorfall behoben oder behoben wurde.
+MitHilfe von Warnungsrichtlinien können Sie Warnungen kategorisieren, die durch eine Richtlinie ausgelöst werden, die Richtlinie auf alle Benutzer in Ihrer Organisation anwenden, einen Schwellenwert für den Zeitpunkt festlegen, an dem eine Warnung ausgelöst wird, und entscheiden, ob E-Mail-Benachrichtigungen empfangen werden sollen, wenn Warnungen ausgelöst werden. Auf der Seite **"Warnungen"** können Benutzer auch Warnungen anzeigen und filtern, einen Warnungsstatus festlegen, um Warnungen zu verwalten, und warnungen dann schließen, nachdem der zugrunde liegende Vorfall behoben oder behoben wurde.
 
-For more information, see [Alert policies in the security and compliance center](/microsoft-365/compliance/alert-policies)
+Weitere Informationen finden Sie unter [Warnungsrichtlinien in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
