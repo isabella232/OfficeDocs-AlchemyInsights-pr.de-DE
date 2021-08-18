@@ -1,5 +1,5 @@
 ---
-title: SharePoint-Migration mit SPMT
+title: SharePoint Migration mit SPMT
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2594"
-ms.openlocfilehash: 34b7611967a7228bfe8611f9784e5049c9bc307a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 04716e85da6432703f25bf37f253d7d4553ecc4c68123a21b46fbb4501bccf2d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828295"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085767"
 ---
-# <a name="sharepoint-migration-with-spmt"></a>SharePoint-Migration mit SPMT
+# <a name="sharepoint-migration-with-spmt"></a>SharePoint Migration mit SPMT
 
-Das SharePoint-Migrationstool wurde für Migrationen entwickelt, die von der kleinsten Gruppe von Dateien bis hin zu einer großen Unternehmensmigration reichen. Mit dem SharePoint-Migrationstool können Sie Ihre Informationen in die Cloud übertragen und die neuesten Lösungen für Zusammenarbeit, Intelligenz und Sicherheit mit Microsoft 365 nutzen.
+Das SharePoint Migrationstool wurde für Migrationen von kleinsten Dateien bis hin zu umfangreichen Unternehmensmigrationen entwickelt und ermöglicht es Ihnen, Ihre Informationen in die Cloud zu übertragen und die neuesten Lösungen für Zusammenarbeit, Intelligence und Sicherheit mit Microsoft 365 zu nutzen.
 
 - [Herunterladen und Installieren des SharePoint-Migrationstools](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
 - [Problembehandlung häufig auftretender SPMT-Probleme und Fehler](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)

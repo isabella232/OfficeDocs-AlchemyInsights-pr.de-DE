@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8232"
 - "9004597"
-ms.openlocfilehash: 240913ca8611330f3c0a6c1f12839bad2f7bab64
-ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
+ms.openlocfilehash: 961c9bb3b99785cd9234ad43586e421ee48dd40cc3eb127c23bb2a3f74dcd890
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53532898"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896782"
 ---
 # <a name="auto-apply-labeling"></a>Bezeichnung automatisch anwenden
 
@@ -30,8 +30,8 @@ So wenden Sie Bezeichnungen automatisch auf Inhalte in Office-Apps an:
 1. Wählen Sie im Assistenten unter **Definieren des Bereichs für diese Bezeichnung** **Dateien & E-Mails** aus. 
 1. Führen Sie die Schritte im Assistenten aus, und konfigurieren Sie dann die Einstellungen für die automatische Bezeichnung für Dateien und E-Mails. 
 
-Weitere Informationen zur automatischen Bezeichnung für Office-Apps finden Sie unter [Konfigurieren der automatischen Bezeichnung für Office-Apps](/microsoft-365/compliance/apply-sensitivity-label-automatically#how-to-configure-auto-labeling-for-office-apps).
+Weitere Informationen zur automatischen Bezeichnung für Office-Apps finden Sie unter [Konfigurieren der automatischen Bezeichnung für Office-Apps](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically#how-to-configure-auto-labeling-for-office-apps).
 
 Informationen zum Einrichten von Richtlinien für die automatische Bezeichnung für SharePoint, OneDrive und Exchange finden Sie unter [Konfigurieren von Richtlinien für automatische Bezeichnungen für SharePoint, OneDrive und Exchange](https://go.microsoft.com/fwlink/?linkid=2148841).
 
-Weitere Informationen zum automatischen Anwenden von Vertraulichkeitsbezeichnungen auf Inhalte finden Sie unter [Automatisches Anwenden einer Vertraulichkeitsbezeichnung auf Inhalte](/microsoft-365/compliance/apply-sensitivity-label-automatically).
+Weitere Informationen zum automatischen Anwenden von Vertraulichkeitsbezeichnungen auf Inhalte finden Sie unter [Automatisches Anwenden einer Vertraulichkeitsbezeichnung auf Inhalte](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically).

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "7604"
-ms.openlocfilehash: d883bdfd0d59d91eba4770f23e18e49449299e22e75dc78ef63eaf5001c03419
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8c8aa49e299697abbd0e35d7762d8723570fc366
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54004261"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315583"
 ---
 # <a name="download-usage-data"></a>Herunterladen von Nutzungsdaten
 
@@ -26,8 +26,7 @@ Sie haben ein Abonnement ausgewählt, das einem Azure Enterprise-Vertrag zugeord
 
 Führen Sie die folgenden Schritte aus, um Nutzungsdaten als Enterprise Azure (EA)-Kunde anzuzeigen und herunterzuladen:
 
-> [!NOTE]
-> Sie müssen ein Unternehmensadministrator, Kontobesitzer oder Abteilungsadministrator sein, wobei die Ansichtsgebührenrichtlinie aktiviert ist. 
+**Hinweis:** Sie müssen ein Unternehmensadministrator, Kontobesitzer oder Abteilungsadministrator sein, wobei die Ansichtsgebührenrichtlinie aktiviert ist. 
 
 1. Melden Sie sich beim Azure-Portal an, und suchen Sie nach **Kostenverwaltung + Abrechnung.**
 2. Wählen Sie ein Abrechnungsprofil aus, und klicken Sie auf **"Nutzung + Gebühren".**

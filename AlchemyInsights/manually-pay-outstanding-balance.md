@@ -19,12 +19,12 @@ ms.custom:
 - "9689"
 - "1500018"
 - "9690"
-ms.openlocfilehash: 1cff63fa1c79d8863fc4f37b3e046e9d15ed944c9bc57c54137720a0dabd33df
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7640630de510d802be03142129e71545aa145d515cc8a4b9adf79cdf8779844f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503867"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896414"
 ---
 # <a name="manually-pay-an-outstanding-balance"></a>Manuelles Bezahlen eines ausstehenden Saldos
 
@@ -35,4 +35,4 @@ Letzte Änderungen an den Bankvorschriften für automatische wiederkehrende Tran
 3. Wählen Sie im rechten Bereich Ihre aktuelle Zahlungsmethode, wählen Sie eine andere Zahlungsmethode oder fügen Sie eine neue Zahlungsmethode hinzu und wählen Sie dann **Saldo begleichen**.
 4. Wenn Ihre Bank dies verlangt, werden Sie aufgefordert, zusätzliche Sicherheits- und Authentifizierungsdaten anzugeben.
 
-Weitere Informationen finden Sie unter [Verwalten von Zahlungsmethoden](/microsoft-365/commerce/billing-and-payments/manage-payment-methods) und [Bezahlen für Ihr Abonnement](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
+Weitere Informationen finden Sie unter [Verwalten von Zahlungsmethoden](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) und [Bezahlen für Ihr Abonnement](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).

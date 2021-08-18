@@ -14,19 +14,19 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 938e9f2d7ee43e3a2b8c3356afb90f8cd6507a65
-ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
+ms.openlocfilehash: 678f61d88879e5ecf7ccb23414d79cba66dc3c218ab0caed3d2957d863e0596b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53630212"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086811"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>So führen Sie Inhaltssuchen und eDiscovery-Suchvorgänge durch
 
 **So führen Sie eine Inhaltssuche durch:**
 
 1. Wechseln Sie zum Microsoft 365 Compliance Center, und melden Sie sich an.
-2. Wählen Sie **Suche > Inhaltssuche aus.**
+2. Wählen Sie **Suche > Inhaltssuche** aus.
 3. Wählen Sie **"Neue Suche" aus,** um eine neue Suche zu erstellen.
 4. Geben Sie die erforderlichen Suchbedingungen ein, einschließlich Schlüsselwörtern und Inhaltsspeicherorten.
 5. Wählen Sie **"Speichern" aus, & ausführen,** um die Suche zu benennen, sie zu starten und dann eine Vorschau der Ergebnisse anzuzeigen.
