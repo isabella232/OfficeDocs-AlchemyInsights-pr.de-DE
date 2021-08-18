@@ -1,5 +1,5 @@
 ---
-title: Teams Anleitungen für Upgrades
+title: Teams Upgradeanleitung
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,12 +11,12 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 987c91886aaa4ae04d9dc66567688cd15102a8adc5b0ba0dd4d59dc784d65d01
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 57164d972780830087bb85f9cd809d290446fa3e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901179"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324315"
 ---
 # <a name="microsoft-teams-upgrade"></a>Microsoft Teams Upgrade
 
@@ -26,10 +26,10 @@ Ganz gleich, ob Sie neu bei Microsoft Teams sind, Microsoft Teams bereits zusamm
 
 [Planen des Upgrades](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
 
-[Grundlegendes zu Microsoft Teams und Skype for Business Koexistenz](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[Grundlegendes zur Koexistenz von Microsoft Teams und Skype for Business](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
 [Durchführen des Upgrades von Skype for Business Online auf Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[Durchführen des Upgrades von Skype for Business lokalen auf Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Durchführen des Upgrades von Skype for Business lokalen zu Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
 [Überprüfen des Status von Skype for Business Online zum Teams Upgrade mit PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)

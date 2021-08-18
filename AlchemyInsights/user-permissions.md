@@ -9,18 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: d5fac2ce5f480213d5d260843f59d6aa08552b60a3eccc771e5eb3f7aa814b66
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 667fa9c7334169794ebc96152d7b58d4deb5dde9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53908349"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324850"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Benutzerberechtigungen in SharePoint und OneDrive
 
 Wenn ein Benutzer in Ihrer Organisation nicht auf SharePoint oder OneDrive zugreifen kann, stellen Sie sicher, dass er über eine Lizenz verfügt, die SharePoint und OneDrive enthält. 
   
-1. Wechseln Sie zur [Seite "Aktive Benutzer" im Microsoft 365 Admin Center,](https://portal.office.com/adminportal/home#/users) und wählen Sie den Benutzer aus. 
+1. Wechseln Sie im Microsoft 365 Admin Center zur [Seite "Aktive Benutzer",](https://portal.office.com/adminportal/home#/users) und wählen Sie den Benutzer aus. 
     
 2. Stellen Sie sicher, dass unter **"Produktlizenzen"** eine Lizenz zugewiesen und **SharePoint Online** ausgewählt ist. 
     
@@ -34,8 +34,7 @@ Wenn ein Benutzer in Ihrer Organisation nicht auf SharePoint oder OneDrive zugre
     
     Klicken Sie für eine klassische Teamwebsite oben rechts auf **"Freigeben".** Geben Sie den Namen der Person ein, die Sie einladen möchten, oder geben Sie "Jeder" ein, um sie für alle Personen in Ihrer Organisation freizugeben. Klicken Sie auf **Freigeben**.
     
-> [!NOTE]
-> Wenn Sie Mitglied einer Website, aber kein Besitzer sind, können Sie Personen zur Website einladen, aber Ihre Einladung generiert eine Zugriffsanforderung, die entweder von einem Websitebesitzer genehmigt oder abgelehnt werden kann. 
+**Hinweis:** Wenn Sie Ein Mitglied einer Website, aber kein Besitzer sind, können Sie Personen zur Website einladen, aber Ihre Einladung generiert eine Zugriffsanforderung, die entweder von einem Websitebesitzer genehmigt oder abgelehnt werden kann. 
   
 [Erfahren Sie, wie Sie eine Datei oder einen Ordner für einen Benutzer freigeben](https://go.microsoft.com/fwlink/?linkid=533408)
   

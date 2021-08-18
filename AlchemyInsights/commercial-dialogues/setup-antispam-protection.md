@@ -13,22 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 487d12d8a4e53f7dd08b7231819086eceb578c3474f64e6d69bf0f7c1d40bcdd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: be7fde5892c5e5dee09ece2ff4fdce07e6b5b9ba
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058505"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324570"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>Einrichten eines Antispamschutzes
 
-So gehen Sie wie folgt vor:
+1. Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com/> zu **E-Mail-& Richtlinien** für die Zusammenarbeit & Richtlinien für \>  \> **Bedrohungsregeln** \> **Antispam** im Abschnitt **"Richtlinien".**
 
-1. Wechseln Sie zum [Office 365 Security & Compliance Center.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Navigieren Sie zur **Bedrohungsverwaltungsrichtlinie,**  >  und klicken Sie auf **[Antispam.](https://go.microsoft.com/fwlink/p/?linkid=2077143)**
-1. Aktivieren Sie auf der Registerkarte **"Benutzerdefiniert"** **die benutzerdefinierten** Einstellungen.
-1. Erweitern Sie die **Standardmäßige Spamfilterrichtlinie,** klicken Sie auf **Richtlinie bearbeiten,** und geben Sie dann die folgenden Einstellungen an:
-    1. Legen Sie im Abschnitt **"Spam" und "Massenaktionen"** den Schwellenwert auf 5 oder 6 fest.
-1. Klicken Sie auf **Speichern**.
+   Wechseln Sie direkt zur Seite **Antispamrichtlinien**, verwenden Sie <https://security.microsoft.com/antispam>.
 
-Weitere Informationen zu Ihren Antispamrichtlinienoptionen finden Sie unter [Konfigurieren der Antispamrichtlinien.](https://go.microsoft.com/fwlink/?linkid=2092051)
+2. Führen Sie auf der Seite **"Antispamrichtlinien"** einen der folgenden Schritte aus:
+   - Um eine neue Richtlinie  hinzuzufügen, wählen Sie \> **+Eingehend** erstellen aus. Ein Assistent wird gestartet, um Die Richtlinieneinstellungen zu definieren.
+   - Um eine vorhandene Richtlinie zu bearbeiten, wählen Sie die Richtlinie aus, indem Sie auf den Namen der Richtlinie klicken (**Typ** ist **benutzerdefinierte Antispamrichtlinie** oder **Name** ist **Eingehende Antispamrichtlinie (Standard).** Wählen Sie im angezeigten Flyout "Details" die Option **"Bearbeiten"** in dem Abschnitt aus, der die Einstellungen enthält, die Sie konfigurieren möchten.
+
+3. Nachdem Sie Ihre Einstellungen überprüft haben, wählen Sie **Absenden** (neu) oder **Speichern** (Bearbeiten) aus.
+
+Weitere Informationen finden Sie unter [Konfigurieren von Antispamrichtlinien in EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).

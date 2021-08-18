@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
-ms.openlocfilehash: 07c6acf1457964ab9b8f26007b25a23621dfc433e1a062122bd67039d793e350
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 410f835c85d7c9f8ec5197a3d06ff591626cd990
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54118953"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323841"
 ---
 # <a name="create-a-microsoft-365-group-connected-team-site"></a>Erstellen einer Microsoft 365 mit einer Gruppe verbundenen Teamwebsite
 
@@ -22,8 +22,7 @@ ms.locfileid: "54118953"
     
 2. Klicken Sie oben auf der SharePoint Startseite auf **"Website erstellen",** und wählen Sie die Option **"Teamwebsite"** aus. 
     
-    > [!NOTE]
-    > Wenn der Befehl "Website erstellen" nicht angezeigt wird, ist die Websiteerstellung in Ihrer Organisation möglicherweise nicht aktiviert. Informationen zum Aktivieren finden Sie unter [Verwalten der Websiteerstellung.](https://go.microsoft.com/fwlink/?linkid=2009644) 
+    **Hinweis:** Wenn der Befehl "Website erstellen" nicht angezeigt wird, ist die Websiteerstellung in Ihrer Organisation möglicherweise nicht aktiviert. Informationen zum Aktivieren finden Sie unter [Verwalten der Websiteerstellung.](https://go.microsoft.com/fwlink/?linkid=2009644) 
   
 3. Führen Sie die Schritte auf dem Bildschirm aus, um die Website zu benennen und eine E-Mail-Adresse für die Microsoft 365 Gruppe zu erstellen, und klicken Sie dann auf **"Weiter".** Sie können auch andere Gruppenbesitzer und -mitglieder hinzufügen. Klicken Sie auf **Fertig stellen**.
   
