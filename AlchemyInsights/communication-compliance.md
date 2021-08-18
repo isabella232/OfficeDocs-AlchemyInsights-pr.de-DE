@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: 267b8985154df802df7359eb22f795612da1275d6c5509b1748828f3c42051b7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b20452adaa25c7ecb648cd05b1524ee6a39ca77e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090735"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329917"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Kommunikationscompliance in Microsoft 365
 
@@ -29,7 +29,7 @@ Kommunikationscompliance ist eine neue Microsoft 365 Compliance-Lösung, die Org
 
 Wenn Sie derzeit [Aufsichtsrichtlinien](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)verwenden, empfehlen wir, dass Sie jetzt die neue Kommunikationscompliance verwenden, um gesetzliche Anforderungen zu erfüllen.
 
-Informationen zum Einrichten der Kommunikationscompliance finden Sie unter [Konfigurieren der Kommunikationscompliance.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)
+Informationen zum Einrichten der Kommunikationscompliance finden Sie unter Konfigurieren der [Kommunikationscompliance.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)
 
 Informationen zum Untersuchen, Überprüfen und Beheben der Kommunikationscompliance finden Sie unter Untersuchen und Beheben von [Kommunikationscompliancewarnungen.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate)
 
@@ -43,5 +43,4 @@ Lizenzanforderungen: Benutzer, die durch Kommunikationsrichtlinien überwacht we
 
 Wenn Sie keines der oben genannten Optionen haben und die Kommunikationscompliance testen möchten, **[registrieren Sie sich für eine Testversion von Office 365 Enterprise E5.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
 
-> [!NOTE]
-> Es kann bis zu 24 Stunden dauern, bis E-Mail-Nachrichten vollständig in einer Richtlinie verarbeitet wurden. Es kann bis zu 48 Stunden dauern, bis die Kommunikation in Microsoft Teams-, Yammer- und Drittanbieterplattformen vollständig in einer Richtlinie verarbeitet wird.
+**Hinweis:** Es kann bis zu 24 Stunden dauern, bis E-Mail-Nachrichten vollständig in einer Richtlinie verarbeitet wurden. Die vollständige Verarbeitung der Kommunikation in Microsoft Teams-, Yammer- und Drittanbieterplattformen kann bis zu 48 Stunden dauern.

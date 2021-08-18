@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: 7111a26e54a909cd8541d8c351d4f9db0338138d76de1ad14402b1c86932b79c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bd60159789bc4945c7f5e464fd1359e8fb8458cd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54107907"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328437"
 ---
 # <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Verzögerungen beim Empfangen von SharePoint- und OneDrive-Warnungen
 
@@ -26,6 +26,6 @@ ms.locfileid: "54107907"
 - Wenn **eine einzelne Warnung aus einer bestimmten Datei oder Bibliothek nicht übermittelt wird,** versuchen Sie, sie zu löschen und neu zu erstellen. Weitere Informationen finden Sie unter [Verwalten, Anzeigen oder Löschen SharePoint Warnungen,](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) um die Warnung neu zu erstellen.
 - Überprüfen Sie den Junk- oder Spamordner in Ihrer E-Mail.
 
-> [!NOTE]
-> - Warnungen können nicht an eine Verteilergruppe gesendet werden. Es werden nur Sicherheits- und O365-Gruppen unterstützt.
-> - E-Mail-Vorlagen für Warnungen können nicht angepasst werden. Sie müssen Microsoft Flow oder SharePoint Designer-Workflow verwenden, um dies zu erreichen.
+**Hinweis**:
+- Warnungen können nicht an eine Verteilergruppe gesendet werden. Es werden nur Sicherheits- und O365-Gruppen unterstützt.
+- E-Mail-Vorlagen für Warnungen können nicht angepasst werden. Sie müssen Microsoft Flow oder SharePoint Designer-Workflow verwenden, um diese zu erreichen.

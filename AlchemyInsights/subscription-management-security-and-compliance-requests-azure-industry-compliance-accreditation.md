@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: 0e9d6c60bda6abf3f3bfdab8bb119f4d37012be567ce8ed9279f245539e3c2ae
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 78fc3eeae7fc8fe4cf620b21cf095e24978dd695
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53998942"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328289"
 ---
 # <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Abonnementverwaltung – Sicherheits- und Complianceanforderungen – Azure Industry Compliance-Akkreditierung
 
@@ -30,7 +30,7 @@ Basierend auf Ihrer Problembeschreibung haben wir eine Lösung für Sie gefunden
 
 - **FedRamp-Zertifizierung:** Informationen zur FedRamp-Zertifizierung finden Sie auf dem FedRamp Marketplace.
 
-- **Azure PCI DSS Compliance:** Die erforderlichen Azure-bezogenen Dokumente zum Erreichen der Compliance der Zahlungskartenbranche sind die "Compliancenachweise" und die "Verantwortlichkeitsmatrix", die beide im Azure Trust Center verfügbar sind. Überprüfen Sie, ob Sie über diese Dokumente verfügen. Wenn Sie über diese Dokumente verfügen, aber einen zusätzlichen Nachweis Microsoft Azure PCI Data Security Standard Compliance benötigen, finden Sie weitere Informationen unter [Microsoft und PCI DSS.](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS)
+- **Azure PCI DSS Compliance:** Die erforderlichen Azure-bezogenen Dokumente zum Erreichen der Compliance der Zahlungskartenbranche sind die "Compliancenachweise" und die "Verantwortlichkeitsmatrix", die beide im Azure Trust Center verfügbar sind. Überprüfen Sie, ob Sie über diese Dokumente verfügen. Wenn Sie über diese Dokumente verfügen, aber einen zusätzlichen Nachweis über Microsoft Azure PCI Data Security Standard Compliance benötigen, lesen Sie [Microsoft und PCI DSS.](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS)
 
 - **Azure Operations/Security/Compliance:** Wenn Sie allgemeine sicherheitsbezogene Fragen zu Azure haben, lesen Sie die Standardantwort auf Anforderung von Informationen Microsoft Azure Sicherheit, Datenschutz und Compliance Wenn Sie Fragen zu Compliance haben, lesen Sie bitte: Microsoft STP – Häufig gestellte Fragen zum Compliance- und Service Trust Portal.
 
@@ -38,8 +38,7 @@ Wenn Sie Fragen zur Compliance haben, lesen Sie die häufig gestellten Fragen zu
 
 - **DSGVO-Compliance:** Wenn Sie Fragen zur Datenverarbeitungsvereinbarung haben, lesen Sie "Datenschutzbedingungen" ab Seite 7 in den "Nutzungsbedingungen für Onlinedienste". Der OST enthält die primären Datenverarbeitungsbedingungen, ist aber in den kommerziellen Standardvertrag integriert. Unter anderem stellt es eine vertragliche Verpflichtung hinsichtlich unserer DSGVO-Verpflichtungen bereit. Weitere Informationen finden Sie in den DSGVO-spezifischen Bestimmungen am Ende des Vertrags in "Anlage 4", beginnend auf Seite 42. In diesen Abschnitten werden die DSGVO-Verpflichtungen von Microsoft als Datenverarbeiter und als Unterauftragsverarbeiter gegenüber einem anderen Datenverarbeiter behandelt.
 
-> [!NOTE]
-> Es wird dringend empfohlen, Adobe Reader zu verwenden, um PDF-Dokumente zu öffnen, da Probleme mit anderen PDF-Viewern festgestellt wurden. Es wird auch empfohlen, die Datei lokal herunterzuladen, anstatt sie in einem Browserfenster zu öffnen, da dies zu Fehlern führen kann.
+**Hinweis:** Es wird dringend empfohlen, Adobe Reader zum Öffnen von PDF-Dokumenten zu verwenden, da Probleme mit anderen PDF-Viewern festgestellt wurden. Es wird auch empfohlen, die Datei lokal herunterzuladen, anstatt sie in einem Browserfenster zu öffnen, da dies zu Fehlern führen kann.
 
 - **HDS Compliance:** Azure ist jetzt "Health Data Hosting", zertifiziert gemäß den französischen Anforderungen. Weitere Informationen finden Sie unter "Microsoft Azure ist jetzt für das Hosten vertraulicher Gesundheitsdaten in Frankreich zertifiziert".
 
@@ -49,8 +48,7 @@ Weitere Informationen zu Penetrationstests finden Sie unter [Penetrationstests.]
 
 - **Kundenbenachrichtigungen für Unterauftragsverarbeiteränderungen:** Sie können sich anmelden, um Benachrichtigungen über Änderungen an der Liste der Unterauftragsverarbeiter für personenbezogene Daten von Microsoft zu erhalten.
 
-> [!NOTE]
-> Die Benachrichtigung über Kundendaten und personenbezogene Daten in Onlinediensten ist vollständig automatisiert. Weitere Informationen finden Sie unter Microsofts Data Protection Resources.
+**Hinweis:** Die Benachrichtigung über Kundendaten und Listen mit personenbezogenen Daten für Onlinedienste ist vollständig automatisiert. Weitere Informationen finden Sie unter Microsofts Data Protection Resources.
 
 **Empfohlene Dokumente**
 

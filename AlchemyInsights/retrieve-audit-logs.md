@@ -13,23 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "10964"
 - "3100005"
-ms.openlocfilehash: 0a7be6ca17ff9c1934cf09d7e660da295179553b30494c409c345c5e3b5c5fd8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ac2e5eafbb92b234697c22f73cd565af9d7c3508
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54074499"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329493"
 ---
 # <a name="retrieve-the-audit-logs"></a>Abrufen der Überwachungsprotokolle
 
 Wenn Sie das Überwachungsprotokoll zum ersten Mal öffnen, ist es leer. Sie müssen eine Suche durchführen, um zu sehen, was da ist. So führen Sie eine allgemeine Suche nach allen Aktivitäten durch:
 
-1. Wechseln Sie zur Seite zum Durchsuchen des Überwachungsprotokolls (oder zum Admin Center > **Microsoft 365 Compliance Center** > **Suchen und Untersuchung** > **Überwachungsprotokollsuche**).
+1. Führen Sie einen der folgenden Schritte aus:
+   - Wechseln Sie im Microsoft 365 Compliance Center unter <https://compliance.microsoft.com> zu **Lösungen** \> **Überwachung**. Oder verwenden Sie <https://compliance.microsoft.com/auditlogsearch>, um direkt zur Seite **Überwachung** zu wechseln.
+   - Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com> zu **Überwachung**. Oder verwenden Sie <https://sip.security.microsoft.com/auditlogsearch>, um direkt zur Seite **Überwachung** zu wechseln.
 
-1. Akzeptieren Sie im Feld **Aktivitäten** die Option **Ergebnisse für alle Aktivitäten anzeigen**, welche die Standardeinstellung ist.
+2. Vergewissern Sie sich, auf der Seite **Überwachung**, dass die Registerkarte **Suche** ausgewählt ist, und konfigurieren Sie dann die folgenden Einstellungen:
+   - **Datums- und Uhrzeitbereich**: Wählen Sie den Datums-/Uhrzeitbereich in den Feldern **Start** und **Ende** aus.
+   - **Aktivitäten**: Vergewissern Sie sich, dass **Ergebnisse für alle Aktivitäten anzeigen** ausgewählt ist.
+   - **Benutzer**: Übernehmen Sie den leeren Standardwert, um Ergebnisse für alle Benutzer zurückzugeben, bzw. geben Sie einen oder mehrere Benutzer ein.
 
-1. Geben Sie den Datumsbereich an, und übernehmen Sie im Feld **Benutzer** die Standardeinstellung, um Ergebnisse für alle Benutzer anzugeben, oder wählen Sie den Benutzernamen für den Benutzer aus, den Sie untersuchen möchten.
+3. Wenn Sie den Vorgang abgeschlossen haben, klicken Sie auf **Suchen**. Die Aktivitäten werden auf der neuen Seite **Suche überwachen** angezeigt.
 
-1. Wählen Sie **Suchen** aus. Die Aktivitäten werden unter **Ergebnisse** angezeigt.
+4. Klicken Sie in den Ergebnissen auf **Ergebnisse filtern**, und geben Sie **Set-Mailbox** in das Aktivitätsfilterfeld ein.
 
-1. Zum Anzeigen von Details wählen Sie eine Aktivität aus, und wählen Sie dann **Weitere Informationen** aus, um weitere Informationen anzuzeigen, z. B. Client, Benutzer, der eine Aktion ausgeführt hat, und so weiter.
+5. Wählen Sie in den Ergebnissen einen Überwachungsdatensatz aus. Klicken Sie im Flyout **Details** auf **Weitere Informationen**, um weitere Informationen anzuzeigen, z. B. den Client, den Benutzer, der eine Aktion ausgeführt hat, und so weiter.

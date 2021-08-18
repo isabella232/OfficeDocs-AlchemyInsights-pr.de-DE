@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 8ae1c6853f41790efc3b24a9dc696bccf8385967d8c9219a1200e287e6ce32a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b15a72ced4921b3df1b7105837592781188a2a25
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53949566"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327973"
 ---
 # <a name="automatically-encrypt-certain-office-365-email-messages"></a>Automatische Verschlüsselung bestimmter Office 365 E-Mail-Nachrichten
 
@@ -27,7 +27,7 @@ Sie können Nachrichten, die Benutzer an bestimmte externe Personen oder Organis
 1. Wählen Sie im [Exchange Admin Center](https://outlook.office365.com/ecp/)den **Nachrichtenfluss > Regeln** aus. 
 2. Klicken Sie auf das Symbol **"Neu" (+),** und klicken Sie dann auf **"Office 365-Nachrichtenverschlüsselung und Rechteschutz auf Nachrichten anwenden".**
 3. Geben Sie unter **"Name"** einen Namen für die Regel ein, z. B. *"An DrToniRamos@gmail.com gesendete Nachrichten verschlüsseln".*
-4. Wählen Sie unter **"Diese Regel anwenden, wenn"** **den Empfänger aus, > diese Person ist.** 
+4. Wählen Sie unter **"Regel anwenden", wenn** der **Empfänger > diese Person ist.** 
 5. Wählen Sie im Fenster **"Mitglieder auswählen"** den Namen der Person aus, auf die die Verschlüsselungsregel angewendet werden soll, und klicken Sie dann auf **"Hinzufügen".** 
 6. Wenn Sie mit dem Hinzufügen von Benutzern fertig sind, klicken Sie auf **"OK".**
 7. Klicken Sie neben dem Feld **Ausführen** auf **Auswählen .** 
@@ -35,8 +35,7 @@ Sie können Nachrichten, die Benutzer an bestimmte externe Personen oder Organis
 9. Wählen Sie eine beliebige optionale Auswahl aus (aus einer Liste optionaler Auswahlen, die Sie an diesem Punkt treffen können, von denen viele der Einfachheit halber mit der Standardeinstellung übrig bleiben können).
 10. Klicken Sie auf **Speichern**.
 
-> [!IMPORTANT]
-> Sie können jederzeit zurückkehren und diese Regel später bearbeiten.
+**Wichtig:** Sie können jederzeit zurückkehren und diese Regel später bearbeiten.
 
 Weitere Informationen zum Erstellen von Regeln für die Verschlüsselung finden Sie unter [Definieren von Nachrichtenflussregeln zum Verschlüsseln von E-Mail-Nachrichten in Office 365.](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9735"
 - "9003224"
-ms.openlocfilehash: 3ead2702c2fbd26b2e5596e26e9189c2f97baf93c93ec3cbd57f15c855b5128e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b365921d3ca64e8ad4bd3891e11add8043b2a903
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001471"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329825"
 ---
 # <a name="import-and-export-from-yammer"></a>Importieren und Exportieren von Yammer
 
@@ -29,8 +29,7 @@ Die Optionen für den Benutzerimport variieren je nachdem, ob sich Ihr Yammer-Ne
 - **Nicht nativer Modus**: Benutzer können mithilfe der Option [Aus Adressbuch hinzufügen](https://support.microsoft.com/office/manage-yammer-community-members-75253554-d0f3-4148-b835-e6a9a8a0c294) (maximal 100 Benutzer) in den Gruppeneinstellungen in Gruppen oder mithilfe der [Massenaktualisierung](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users) innerhalb des Netzwerkadministrators in das Netzwerk importiert werden.
 - **Nativer Modus**: Gruppenmitgliedschafts- und Netzwerkmitgliedschaftsvorgänge sollten über das [Microsoft 365-Administratorportal](https://docs.microsoft.com/microsoft-365/admin/add-users), das [Azure AD-Portal](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory) oder mithilfe einer anderen Azure AD-Option ausgeführt werden. Netzwerke im nativen Modus haben keinen Zugriff mehr auf Massenaktualisierungen und andere ältere Features.
 
-> [!IMPORTANT]
-> Yammer hat das Importieren von Inhalten aus dem Netzwerkadministrator nie unterstützt, selbst wenn das Datenexportfeature in einem anderen Netzwerk verwendet wurde. Inhalte können von Partnerlösungen oder den Yammer-REST-APIs erneut veröffentlicht werden.
+    **Wichtig**: Yammer hat das Importieren von Inhalten aus dem Netzwerkadministrator nie unterstützt, selbst wenn das Datenexportfeature in einem anderen Netzwerk verwendet wurde. Inhalte können von Partnerlösungen oder den Yammer-REST-APIs erneut veröffentlicht werden.
 
 **Export**
 

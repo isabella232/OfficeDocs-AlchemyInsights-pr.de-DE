@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c5043bcd3d40dccc76b348f436001408e42ee7f9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898243"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330059"
 ---
 # <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Beheben allgemeiner Probleme mit Microsoft Defender für Office 365
 
@@ -33,7 +33,7 @@ Hier sind einige Lösungen für häufige Probleme mit Microsoft Defender für Of
 
 - **Aktivieren Sie Tresor Linkschutz:**
 
-  1. Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com/> **"E-Mail & Richtlinien** für die Zusammenarbeit & Richtlinien für Die \>  \> **Bedrohungsregeln** \> **Tresor Links"** im Abschnitt **"Richtlinien".**
+  1. Wechseln Sie im Microsoft 365 Defender Portal unter <https://security.microsoft.com/> **"E-Mail & Richtlinien** für die Zusammenarbeit & Richtlinien für \>  \> **Bedrohungsregeln** \> **Tresor Links"** im Abschnitt **"Richtlinien".**
 
      To go directly to the **Tresor Links** page, use <https://security.microsoft.com/safelinksv2> .
 
