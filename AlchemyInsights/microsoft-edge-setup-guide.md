@@ -14,12 +14,14 @@ ms.custom:
 - "7280"
 - "10908"
 - "9006389"
-ms.openlocfilehash: cdac95f094b9791daa258b6480f72392828e09f3cf603a856446eda7cc6472d4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+- "13635"
+- "9008577"
+ms.openlocfilehash: 1d04f1d70bfedaf54c4365cd63b8c8231299c302
+ms.sourcegitcommit: 2be4a0352cb84a703ebf12966e1c17b64df07364
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53992814"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58361921"
 ---
 # <a name="start-using-microsoft-edge"></a>Beginnen Sie mit der Verwendung von Microsoft Edge
 
@@ -27,6 +29,6 @@ Microsoft hat die neue Microsoft Edge veröffentlicht, bei der es sich um die n�
 
 Wenn Sie Probleme mit Google Chrome, Mozilla Firefox oder Safari haben, empfehlen wir die Verwendung von Microsoft Edge.
 
-Wenn Sie ein Administrator einer großen Organisation sind, verwenden Sie unser [Microsoft Edge Setuphandbuch,](https://go.microsoft.com/fwlink/?linkid=2142423) um zu beginnen.
+Wenn Sie ein Administrator einer großen Organisation sind, verwenden Sie unsere [Microsoft Edge Einrichtungshandbuch](https://go.microsoft.com/fwlink/?linkid=2142423) für die ersten Schritte.
 
 Wenn Sie Microsoft Edge auf jeweils einem Gerät herunterladen möchten, wechseln Sie zu ["Einführung in die neue Microsoft Edge".](https://go.microsoft.com/fwlink/?linkid=2141049)
