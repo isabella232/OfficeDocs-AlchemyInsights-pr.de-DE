@@ -14,23 +14,19 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: aca0371dad9ba43fa21b0df8e50f1b8ee536528af90d6bda401995c6e5796be4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4938b889461f85ad32eae125151c2cc94879cd8b
+ms.sourcegitcommit: 02562a6796d58991c7238ec81053c23633b3f823
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54056489"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "58522353"
 ---
 # <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Fehlermeldung "Postfach nicht gefunden" in Outlook im Web erhalten?
 
-Wenn Sie Outlook im Web verwenden und ein Postfach aufgrund eines **Fehlers nicht gefunden werden konnte,** verfügt das Konto, das Sie zum Herstellen einer Verbindung mit Outlook im Web verwendet haben, nicht über eine Exchange Online Lizenz, und daher ist dem Konto kein Postfach zugeordnet. Ihr Administrator kann Ihrem Konto eine Lizenz zuweisen, indem er die folgenden Schritte ausführt:
+Wenn Sie einen OWA-Fehler (Outlook Web App) erhalten: "Ein Postfach konnte für *Benutzer* nicht gefunden werden", bedeutet dies, dass der angemeldete Benutzer nicht über eine Exchange Onlince-Lizenz und sp verfügt, Exchange Online Postfach diesem Benutzerkonto zugeordnet ist. 
 
-1. Öffnen Sie die [Microsoft 365 Admin Center,](https://portal.office.com/adminportal/home#/homepage) wechseln Sie im Abschnitt **"Benutzer"** zu **"Aktive Benutzer",** und wählen Sie den Benutzer aus, dem der Fehler angezeigt wird.
+Ein Organisationsadministrator kann dem Benutzer über die Microsoft 365 Admin Center eine Exchange Lizenz zuweisen, indem er die folgenden Schritte ausführt:
 
-2. Wechseln Sie auf der geöffneten Benutzerseite zum Abschnitt **"Lizenzen und Apps",** wählen Sie den entsprechenden **Standortwert** aus, und weisen Sie eine Lizenz zu, die Exchange Online enthält (erweitern Sie die Lizenz, um ihre Details anzuzeigen). Klicken Sie nach Abschluss des Vorgangs auf **Änderungen speichern**.
-
-Wenn die Lizenz in einigen Fällen bereits einem Benutzerkonto zugewiesen ist, hilft das Entfernen und erneute Zuweisen der Lizenz, das Problem zu beheben und im System ordnungsgemäß bereitzustellen: 
-
-- Überprüfen Sie, ob Ihre M365-Exchange Online -Abonnements (und andere, sofern Vorhanden) aktuell sind und nicht vor kurzem abgelaufen sind.
-
-Nachdem Sie sichergestellt haben, dass Ihr Abonnement nicht abgelaufen ist und dem Benutzerkonto eine gültige Lizenz zugewiesen wurde, kann es bis zu 24 Stunden dauern, bis die Lizenz bereitgestellt wurde. Daher müssen Sie möglicherweise warten, bis ihr Problem behoben ist. Weitere Informationen finden Sie unter [Zuweisen und Verwalten von Lizenzen.](https://docs.microsoft.com/deployoffice/overview-licensing-activation-microsoft-365-apps#assign-and-manage-licenses)
+1. Wechseln Sie zu ["Aktive Benutzer",](https://portal.office.com/adminportal/home#/users)wählen Sie den Benutzer aus, und wählen Sie **"Produktlizenzen**  >  **bearbeiten"** aus. 
+1. Legen Sie den erforderlichen Speicherort fest.
+1. Weisen Sie eine Lizenz zu, die über einen Exchange Online Serviceplan verfügt.
