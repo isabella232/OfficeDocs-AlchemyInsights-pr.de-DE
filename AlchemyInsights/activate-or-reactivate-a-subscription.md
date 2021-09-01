@@ -3,6 +3,7 @@ title: Aktivieren oder Reaktivieren eines Abonnements
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +15,13 @@ ms.custom:
 - commerce_subscriptions
 - "1500028"
 - "482"
-ms.openlocfilehash: 127ad8bd2ea71a04475c2cddb1b8a97ec4fadf38
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 82e351382d66e5a1aa6d86be509fc9bb08bdc411
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314311"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842873"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Aktivieren oder Reaktivieren eines Abonnements
 
@@ -27,7 +29,7 @@ ms.locfileid: "58314311"
 
 - Um einem Benutzer den Zugriff auf einen Dienst zu ermöglichen, weisen Sie ihm eine Lizenz zu. Weitere Informationen finden Sie unter [Zuweisen von Lizenzen an Benutzer](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - Wenn Ihnen bereits eine Lizenz zugewiesen ist, finden Sie Anwendungen, die Sie von der [Seite "Mein Konto"](https://portal.office.com/account/#installs)herunterladen können. Diese Seite enthält eine Liste der Anwendungen, die Sie basierend auf den zugewiesenen Lizenzen herunterladen können.
-- Wenn Sie die Office Anwendungen bereits heruntergeladen haben, müssen Sie sich möglicherweise mit Ihrem Geschäfts-, Schul- oder Unikonto bei den Anwendungen anmelden. Sie können dies in jeder Office-Anwendung (Word, Excel usw.) tun, indem Sie auf **"Datei**  >  **Office Konto"** (unten) klicken. Wählen Sie unter **"Benutzerinformationen"** die Option **"Konto wechseln" aus.** Weitere Informationen finden Sie unter [Installieren Office Anwendungen.](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)
+- Wenn Sie die Office Anwendungen bereits heruntergeladen haben, müssen Sie sich möglicherweise mit Ihrem Geschäfts-, Schul- oder Unikonto bei den Anwendungen anmelden. Sie können dies in jeder Office Anwendung (Word, Excel usw.) tun, indem Sie auf **"Datei**  >  **Office Konto"** (unten) klicken. Wählen Sie unter **"Benutzerinformationen"** die Option **"Konto wechseln" aus.** Weitere Informationen finden Sie unter [Installieren Office Anwendungen.](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)
 
 **Reaktivieren eines Abonnements**
 
