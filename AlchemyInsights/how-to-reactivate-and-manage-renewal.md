@@ -4,7 +4,6 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.reviewer: jkinma, jmueller
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,13 +14,14 @@ ms.custom:
 - commerce_subscriptions
 - "349"
 - "1500012"
+ms.date: 08/10/2021
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 7e8965db163c659a80c8515b133302ec64aa0fdf6e742bbbe56b0d7dc25d7656
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4748b9515f5699465213d06eb845678a882bb9be
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54115992"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844745"
 ---
 # <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>Reaktivieren eines Abonnements und Verwalten der wiederkehrenden Abrechnung
 
@@ -32,7 +32,7 @@ Es sieht so aus, als hätten Sie ein Abonnement, das abgelaufen ist. Wenn Sie es
 3. Wählen Sie im Bereich **Dieses Abonnement reaktivieren** eine Zahlungsmethode aus der Dropdownliste aus, oder wählen Sie **Zahlungsmethode hinzufügen** aus.
 4. Klicken Sie auf **Speichern**.
 
-Weitere Informationen finden Sie unter [Reaktivieren Ihres Abonnements](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Weitere Informationen finden Sie unter [Reaktivieren Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 Sie können die **wiederholte Abrechnung** aktivieren oder deaktivieren, um eine monatliche oder jährliche Abrechnung zu verwalten.
   
@@ -42,4 +42,4 @@ Sie können die **wiederholte Abrechnung** aktivieren oder deaktivieren, um eine
 4. Wählen Sie im Bereich **Einstellungen für die wiederkehrende Abrechnung bearbeiten** zwischen den Optionen **Ein**, **Ein, aber einmal verlängern** oder **Deaktivieren** aus.
 5. Klicken Sie auf **Speichern**.
 
-Weitere Informationen hierzu finden Sie unter [Aktivieren oder Deaktivieren der wiederholten Abrechnung](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Weitere Informationen hierzu finden Sie unter [Aktivieren oder Deaktivieren der wiederholten Abrechnung](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

@@ -14,19 +14,20 @@ ms.custom:
 - commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: 310d8b5630ad5f520567c357656ded915d6768cd
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: dae66f9bb40262a9fc0d643ca9585ec90adae399
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58330171"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844781"
 ---
 # <a name="canceling-your-subscription"></a>Kündigen Ihres Abonnements?
 
 Es tut uns leid, dass Sie gehen, aber wenn Sie Ihr Abonnement kündigen möchten, finden Sie hier Ihre Optionen:
   
 - Wenn Ihnen weniger als 25 Lizenzen zugewiesen sind, können Sie Ihr Abonnement online kündigen. Wechseln Sie zur Seite **"Abrechnung** \> **[Für Ihre Produkte",](https://go.microsoft.com/fwlink/p/?linkid=842054)** und suchen Sie das Abonnement, das Sie kündigen möchten. Wählen Sie die drei Punkte (weitere Aktionen) und dann **Abonnement kündigen** aus.
-- Wenn Sie benutzern mehr als 25 Lizenzen zugewiesen haben, reduzieren Sie diese auf weniger als 25, um das Abonnement zu kündigen oder [den Support anzurufen, um Ihr Abonnement zu kündigen.](https://docs.microsoft.com/microsoft-365/business-video/get-help-support)
+- Wenn Sie mehr als 25 Lizenzen benutzern zugewiesen haben, reduzieren Sie es auf weniger als 25, um das Abonnement zu kündigen oder [den Support anzurufen, um Ihr Abonnement zu kündigen.](https://docs.microsoft.com/microsoft-365/business-video/get-help-support)
   
 **Rückerstattung: Jede anteilige Gutschrift wird Ihnen innerhalb des nächsten Abrechnungszyklus zurückgegeben.**
 

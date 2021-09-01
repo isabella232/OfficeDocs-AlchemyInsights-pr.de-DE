@@ -3,7 +3,6 @@ title: Zu viele Lizenzen?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: argani, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_licensing
 - "540"
 - "1500027"
-ms.openlocfilehash: bad24eee4ea93b7fcb604202bcedbfee018a7e34
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 86f81fd0dc307d6f8317e8c726a4a5060396fd66
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58321558"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844637"
 ---
 # <a name="too-many-licenses"></a>Zu viele Lizenzen?
 
@@ -34,6 +34,6 @@ Wenn Sie der Meinung sind, dass Ihnen zu viele Lizenzen in Rechnung gestellt wer
 2. Wählen Sie auf der Registerkarte **Produkte** das Abonnement aus, das Sie ändern möchten.
 3. Wählen Sie auf der Seite mit den Abonnementdetails **Lizenzen entfernen** aus.
 4. Geben Sie im Bereich **"Lizenzen entfernen"** unter **"Neue Menge"** im Feld **"Lizenzen insgesamt"** die Gesamtanzahl der Lizenzen ein, die Sie für dieses Abonnement benötigen. Wenn Sie beispielsweise 100 Lizenzen haben und 25 davon entfernen möchten, geben Sie 75 ein.
-5. Wählen Sie **Speichern** aus.
+5. Klicken Sie auf **Speichern**.
 
 Weitere Informationen finden Sie unter ["Lizenzen kaufen oder entfernen".](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
