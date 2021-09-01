@@ -14,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "9002459"
 - "3764"
-ms.openlocfilehash: 6724a82f318ed13890a34039470eb9611a630e03
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: ecf2e5cc9b7a48ff5a73be00a3a04ce45a310dab
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58323003"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845861"
 ---
 # <a name="license-or-account-disabled"></a>Lizenz oder Konto deaktiviert
 
@@ -31,6 +32,6 @@ Wenn Ihr Abonnement abgelaufen ist oder von Microsoft deaktiviert wurde, oder we
 2. Suchen Sie auf der Registerkarte **Produkte** das Abonnement aus, das Sie reaktivieren möchten. Wählen Sie die drei Punkte (weitere Aktionen) und dann **Dieses Abonnement reaktivieren** aus.
     **Hinweis**: Wenn Sie **Dieses Abonnement reaktivieren** nicht sehen, wenden Sie sich an den Support.
 3. Wählen Sie im Bereich **Dieses Abonnement reaktivieren** eine Zahlungsmethode aus der Dropdownliste aus, oder wählen Sie **Zahlungsmethode hinzufügen** aus.
-4. Wählen Sie **Speichern** aus.
+4. Klicken Sie auf **Speichern**.
 
 Weitere Informationen finden Sie unter [Ihr Abonnement reaktivieren](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
