@@ -15,12 +15,12 @@ ms.custom:
 - "6700005"
 - "10064"
 - "9003771"
-ms.openlocfilehash: c13bc161b19a5fef1352beb28bdcc20110111a9a61a47433d82e1e69aff7f88d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4c8e03a817751ba7dc1710aed5a3e19c6e79db33
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978160"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923553"
 ---
 # <a name="endpoint-manager---security-baselines"></a>EndPoint Manager – Sicherheitsbasispläne
 
@@ -37,6 +37,8 @@ Jede der Basispläne wird regelmäßig aktualisiert und in inkrementellen Versio
 Anleitungen zum effektivsten Ändern der bereitgestellten Basisplan-Version finden Sie unter [Verwalten von Sicherheitsbasisplan-Profilen in Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure).
 
 Nach der Bereitstellung eines Sicherheitsbasisplans können Sie den Bereitstellungsstatus überwachen und die Einstellungen geräteweise überprüfen.
+
+Da die Sicherheitsbaselines viele Einstellungen enthalten, ist es wichtig, die Konfigurationsänderungen zu überprüfen und Tests durchzuführen, um sicherzustellen, dass alle Einstellungen für Ihre Geräte und Geschäftsanforderungen geeignet sind.
 
 **Hinweis:** Es kann bis zu 24 Stunden dauern, bis die Berichtsdaten für Basispläne von der ersten Bereitstellung auf einem Gerät bis zu 6 Stunden für weitere Aktualisierungen angezeigt werden. 
 
