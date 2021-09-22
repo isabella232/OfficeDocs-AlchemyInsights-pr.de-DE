@@ -14,12 +14,12 @@ ms.custom:
 - "6462"
 - "9003546"
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 7c9b50abf89edca6cfded4e8f47bd3f4db9ec538
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 538cc24c091d42a8f7a8998ce1d18b61ac0b689c
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58329371"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475468"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Behandeln von Problemen bei "Mit Explorer öffnen" in SharePoint Online
 
@@ -32,7 +32,7 @@ Folgen Sie den Schritten und bewährten Methoden in den unten stehenden Artikeln
 **Hinweis**:
 - Es empfiehlt sich, die [Synchronisierung von Microsoft Office SharePoint Online-Dateien mit dem neuen OneDrive-Synchronisierungsclient](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88?ui=en-us&rs=en-us&ad=us) durchzuführen, der [Dateien bei Bedarf](https://support.microsoft.com/office/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e?ui=en-us&rs=en-us&ad=us) bereitstellt, da er lokalen Zugriff auf Ihre Dateien und eine optimale Leistung bietet.
 
-- **Mit Explorer öffnen** wird nur in Internet Explorer 11 unterstützt. Weitere Informationen finden Sie unter [Ende des Supports von IE11 für Microsoft 365 Apps](https://docs.microsoft.com/lifecycle/announcements/m365-ie11-microsoft-edge-legacy). **Mit Explorer öffnen** kann unter Windows nicht mit Microsoft Edge, Google Chrome oder Mozilla Firefox und auch nicht auf der Mac-Plattform verwendet werden. Aus diesem Grund ist die Option **Im Explorer anzeigen** möglicherweise ausgegraut. 
+- **Öffnen mit Explorer** wird nur im Microsoft Edge Browser unterstützt. Weitere Informationen finden Sie unter [SharePoint Dateien mit File Explorer in Microsoft Edge anzeigen](https://docs.microsoft.com/SharePoint/sharepoint-view-in-edge) und [Ende des Supports bald für die Legacyversion von Microsoft Edge verfügbar.](https://docs.microsoft.com/lifecycle/announcements/m365-ie11-microsoft-edge-legacy) **Öffnen mit Explorer** funktioniert nicht in Windows mit Google Chrome, Mozilla Firefox oder auf der Mac-Plattform, sodass die Option **Explorer-Ansicht** ausgegraut sein könnte.
 
 - Die Schaltfläche **Mit Explorer öffnen** wird in der neuen Bibliotheksoberfläche nicht angezeigt. Wählen Sie das Dropdownmenü **Ansicht** in der oberen rechten Ecke (der Name der Dropdownliste ändert sich je nach der aktuellen Ansicht) und dann **Im Datei-Explorer anzeigen** aus.
 
