@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 1fe426683a8c39d07e59bb4121131ecacf1832075f626b26982ec0ede3c24698
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7b9025092c154f2734f74dc547de877e70caac2e
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54062871"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475216"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>So wird eine Vertraulichkeitsbezeichnung veröffentlicht
 
@@ -39,3 +39,5 @@ ms.locfileid: "54062871"
 1. Wenn Sie mehrere Bezeichnungsrichtlinie erstellen, die zu einem Konflikt für einen Benutzer oder Standort führen könnten, überprüfen Sie die Reihenfolge der Richtlinien und verschieben Sie einzelne Richtlinien gegebenenfalls nach oben oder unten. Um die Reihenfolge einer Bezeichnungsrichtlinie zu ändern, wählen Sie die drei Punkte (weitere Aktionen) und wählen Sie dann **Nach oben verschieben** oder **Nach unten verschieben** aus.
 
 Nach Abschluss des Assistenten wird die Bezeichnungsrichtlinie automatisch veröffentlicht.
+
+Weitere Informationen finden Sie unter [Erstellen und Konfigurieren von Vertraulichkeitsbezeichnungen und deren Richtlinien](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels).
