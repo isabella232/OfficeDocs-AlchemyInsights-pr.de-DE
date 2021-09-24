@@ -13,28 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "13840"
 - "9008627"
-ms.openlocfilehash: a8176de71a1f67004e790a3a98943402a240f656
-ms.sourcegitcommit: dcd1c76ced1a0cec27f4cf8d383593760c198424
+ms.openlocfilehash: 91cb402e63b68de4a08f6dcb80807ff2e01300c9
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "59446729"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475127"
 ---
 # <a name="unable-to-add-an-account-after-upgrading-to-macos-116-big-sur"></a>Nach dem Upgrade auf macOS 11.6 Big Sur kann kein Konto hinzugefügt werden
 
 Nach dem Upgrade auf macOS 11.6 wird Ihr OneDrive für Geschäfts-, Schul- oder Ihr persönliches Konto möglicherweise nicht in Ihrer Kontenliste angezeigt, und Sie können sich möglicherweise nicht bei einem zweiten Konto in der App anmelden.
 
-Dies ist ein neu auftretendes Problem im Zusammenhang mit dem MacOS 11.6 Upgrade. Bis das Problem behoben ist, können Sie über das Web oder Ihr mobiles Gerät auf Ihre OneDrive Inhalte zugreifen. Microsoft arbeitet mit Apple daran, OneDrive Funktionalität wiederherzustellen.
+Für dieses Problem wurde ein Fix entwickelt. Ermitteln Sie zunächst, ob Sie die eigenständige Version oder die App-Store-Version von OneDrive ausführen:
 
-Sie können die fehlende OneDrive Instanz auch manuell mithilfe von Terminal starten. 
+- Wählen Sie die OneDrive Cloud in der Menüleiste > **Hilfe und Einstellungen** > **Einstellungen** > **Info**. Wenn die Versionsnummer nicht enthalten ist **(Eigenständig)**,verfügen Sie über die App Store Version des Produkts.
 
-**Hinweis**: Diese Problemumgehung funktioniert nur, bis OneDrive neu gestartet wird (entweder durch einen Computerneustart oder ein OneDrive App-Update).
+Wenn Sie die eigenständige Version von OneDrive verwenden, starten Sie Ihren Computer neu, und OneDrive aktualisiert automatisch auf einen Build, bei dem dieses Problem behoben ist. Wenn Sie den Build manuell installieren möchten, laden Sie diese [.zip Datei](https://oneclient.sfx.ms/Mac/Prod/21.170.0822.0003/OneDrive.zip)herunter, entzippen Sie die Datei, und kopieren Sie die OneDrive App in den „Anwendungen“-Ordner (indem Sie die vorhandene OneDrive-App ersetzen).
 
-Wenn es sich bei der fehlenden Instanz um Ihr persönliches Konto handelt, öffnen Sie Terminal, und geben Sie Folgendes ein:
+Wenn Sie die App-Store Version verwenden, sollten Sie erwägen die eigenständige Version von OneDrive zu installieren. Diese Version funktioniert auf die gleiche Weise wie die App-Store-Version, ermöglicht es Microsoft jedoch, Updates für Benutzer schneller anzubieten und sie mit einer Version zu verbinden, die die Behebung dieses Problems enthält.
 
-`open "/Applications/OneDrive.app" --new --args /client=Personal`
+1. Laden Sie die eigenständige Version von [OneDrive herunter, die den Fix enthält.](https://oneclient.sfx.ms/Mac/Prod/21.170.0822.0003/OneDrive.zip)
+2. Entzippen Sie die Datei, und kopieren Sie die OneDrive App in den „Anwendungen“-Ordner (indem Sie die vorhandene OneDrive-App ersetzen).
 
-Wenn es sich bei der fehlenden Instanz um Ihr Geschäfts-, Schul- oder Unikonto handelt, öffnen Sie Terminal, und geben Sie Folgendes ein:
+Wenn Sie die App Store-Version verwenden müssen, warten Sie, bis eine App-Store-Version der App veröffentlicht wird, die die Korrektur enthält. Leider kann Microsoft kein geschätztes Datum für die Veröffentlichung einer festen Version aus dem App Store mitteilen.
 
-`open "/Applications/OneDrive.app" --new --args /client=Business1`
 
