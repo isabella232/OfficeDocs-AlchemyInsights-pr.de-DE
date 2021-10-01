@@ -1,5 +1,5 @@
 ---
-title: Bereitstellen von Microsoft 365 Apps for Enterprise für die gemeinsame Verwendung auf RDS, Terminalserver oder VDI
+title: Bereitstellen von Microsoft 365 Apps für die gemeinsame Verwendung auf RDS, Terminalserver oder VDI
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 9d928a3bf58dedc3aaf231c8a051f87b0bbdf438
-ms.sourcegitcommit: 391052026a6ce7646926d233d0fd9ba135088f79
+ms.openlocfilehash: 81183cf1823480c1b15eba9ba9f519b4e3746b52
+ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 10/01/2021
-ms.locfileid: "60041005"
+ms.locfileid: "60077249"
 ---
-# <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Bereitstellen von Microsoft 365 Apps for Enterprise für die gemeinsame Verwendung auf RDS, Terminalserver oder VDI
+# <a name="deploying-microsoft-365-apps-for-shared-use-on-rds-terminal-server-or-vdi"></a>Bereitstellen von Microsoft 365 Apps für die gemeinsame Verwendung auf RDS, Terminalserver oder VDI
 
 Zum Bereitstellen von Microsoft 365 Apps mit Remotedesktopdiensten (RDS), früher Terminaldienste, müssen Sie:
 
@@ -28,7 +28,7 @@ Zum Bereitstellen von Microsoft 365 Apps mit Remotedesktopdiensten (RDS), frühe
 - Haben Sie einen Plan, der Microsoft 365 Apps for Enterprise (zuvor Office 365 Plus) enthält. Beispielsweise Office 365 E3 oder Microsoft 365 E5 oder einen Plan, der die Desktopversion von Project oder Visio enthält, z. B. Project Plan 3 oder Visio Plan 2, oder den Microsoft 365 Business Premium-Plan, der auch Microsoft 365 Apps for Business umfasst.
 - Aktivieren sie die Aktivierung freigegebener Computer. Weitere Informationen finden Sie unter [Übersicht über die Aktivierung freigegebener Computer für Microsoft 365 Apps.](https://docs.microsoft.com/deployoffice/overview-shared-computer-activation)
 
-**Hinweis:** Um Microsoft 365 Apps im Aktivierungsmodus für gemeinsam genutzte Computer zu installieren, laden Sie die [Microsoft Support- und Wiederherstellungs-Assistent](https://docs.microsoft.com/alchemyinsights/deploy-o365-remotely-to-rds)herunter, und führen Sie sie aus. Ausführliche Informationen zu den Voraussetzungen, Setupanweisungen und Anleitungen zum Anpassen von Installationen mithilfe des Office-Bereitstellungstools finden Sie unter [Deploy Microsoft 365 Apps by using Remote Desktop Services.](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services)
+**Hinweis:** Um Microsoft 365 Apps im Aktivierungsmodus für gemeinsam genutzte Computer zu installieren, laden Sie die [Microsoft Support- und Wiederherstellungs-Assistent](https://aka.ms/SaRA_OfficeSCA_M365Portal)herunter, und führen Sie sie aus. Ausführliche Informationen zu den Voraussetzungen, Setupanweisungen und Anleitungen zum Anpassen von Installationen mithilfe des Office-Bereitstellungstools finden Sie unter [Deploy Microsoft 365 Apps by using Remote Desktop Services.](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services)
 
 Informationen zum Beheben von Fehlern im Zusammenhang mit der Aktivierung gemeinsam genutzter Computer finden Sie unter:
 
